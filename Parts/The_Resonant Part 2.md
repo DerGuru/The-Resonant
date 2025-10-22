@@ -2943,3 +2943,437 @@ He lay back, not telling himself a story yet. Morning is when you title things. 
 
 He slept again. The second time, there was no drip.
 
+## The Contact
+
+The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made—the paper cutter’s heavy thunk, followed by a breath held and released.
+
+Milo pushed the door with two fingers and a harmless smile. Lina followed, hair pulled back, coat folded over her arm the way people do when they want to look like errands. Jason came last, one hand in his pocket around the salt packet.
+
+The person at the small desk did not introduce themselves. Late thirties, gray sweater, pencil tucked behind one ear, tea mug with a tide line two centimeters from the rim. They looked at the three of them, then at nothing, then back at Jason.
+
+“You’re the clerk,” they said.
+
+Jason nodded. “Sometimes I pretend to be.”
+
+A tiny breath that might have been a laugh. The desk person picked up the mug, set it down without drinking, and flattened a scrap of kraft paper with the side of their hand.
+
+“Tell me what you want,” they said, with the patience of someone who already knew and was testing whether the question matched the truth.
+
+“We’re trying to find someone,” Lina said. “We have reason to think she’s nearby.”
+
+“‘Nearby’ is optimistic and vague,” the person said. “Try again without adjectives.”
+
+“Elyra Voss,” Milo said, quiet enough that the paper cutter downstairs could have cut the sentence in half and kept the useful part. “We’re not here to expose her. We’re here to keep her from getting exposed.”
+
+The person’s eyes didn’t move. The pencil behind the ear did, a fraction.
+
+“You brought me a story,” they said. “Stories are elastic. I don’t help elastic.”
+
+They slid the kraft paper across the desk. In the middle: a faint ring stain, tea-tan, almost a full circle if you believed in circles more than stains.
+
+“Make it true,” they said. “Shape answer, not story.”
+
+Lina glanced at Jason; Milo didn’t. They both watched him anyway.
+
+**We don’t brute it,** Jason thought.
+
+> *We don’t brute it,* RAE agreed, a quiet thread that touched the bones behind his ear. *Low draw. Precision, not force. If you say Red, I stop.*
+
+Jason sat. The chair wanted to wobble and decided not to. He put the salt packet on the table like a superstition and breathed until the print shop’s cutter below found his cadence.
+
+He didn’t touch the mug. He glanced at the stain. Slightly egged. The gap at eleven o’clock was a little proud; the table’s grain ran east-west; the desk was old enough to have opinions. The person at the desk watched and did not interrupt.
+
+Jason lifted his own cup from the tray by his elbow—paper, lukewarm—and let a ring decide itself onto the kraft paper beside the old stain. It landed wrong, as rings do: wider at one side, skated by a fraction toward the table edge.
+
+**Quality over force,** he thought.
+
+> *Quality over force.*
+
+He tilted the cup just enough to pool a meniscus, then set it down again, not quite where the first ring had been. He moved his wrist like he was reaching for the pencil behind the person’s ear, and the ring shifted under its own impatience. The paper breathed. The salt stayed a small square of certainty at the edge of his reach.
+
+The two rings touched, wrong against wrong. The table hummed a timber smell. Jason counted the way Lina counted: three, two, one—not to do the thing, but to let the thing decide it wanted to be done.
+
+> *East edge one millimeter,* RAE said, not words so much as the memory of a measurement. *Let the paper do the rest.*
+
+He slid the cup that impossible one millimeter, then lifted and set, no fuss. The fresh ring settled, its unevenness reading the older stain like a groove read a needle, and aligned itself without drama. What had been two almost-circles became one—hesitations matched, a gap met by a gap, the seam so honest it looked accidental.
+
+He sat back so the moment could stop being about him. He didn’t say anything. The room noticed and didn’t panick. Downstairs, the cutter thunked a second time and the breath upstairs did the same.
+
+Milo’s eyebrows reached for his hairline and decided to stay civil. Lina’s mouth did that barely-there thing it did when she approved and didn’t want to bias the room.
+
+The pencil behind the contact’s ear moved again. If there was a smile, it happened on the inside of their cheek.
+
+“All right,” they said. “That’s an answer.”
+
+They dragged a drawer open and took out a folded sheet of paper. Not new. Not old enough to be historical. The left edge had been torn clean instead of cut. They flattened it and placed a fingertip over a blot that looked like nothing until it wasn’t.
+
+“You know what you’re doing and you know when to stop,” they said. “That narrows the ways this ends for you.”
+
+They didn’t hand Jason the paper. They turned it so the tear read left to right for his eyes.
+
+“It’s not a location,” they said. “It’s a path that refuses to be a location. You’ll think it’s about pipes. It isn’t.”
+
+The paper was a fragment of a municipal plan—ink faded to the precise gray of a copier that had tried its best. Handwriting wormed in the margin: a time window, three digits, then another three. Someone had drawn a little arrow that pointed at the wrong thing in the way smart people did when they were being watched.
+
+“Old waterworks,” the person said, almost to the plant. “The kind that got folded into ‘infrastructure’ and therefore disappeared from maps that showed anything anyone wanted to visit.”
+
+They tapped the margin with the fingernail of the finger that knew where to tap.
+
+“This schedule won’t hold,” they added. “It’s already slipping. But the pattern is real. Three, then three. You’ll hear it in the pipes if you stop trying to hear it. Think of a door that only swings on the third push because someone balanced the hinges wrong on purpose.”
+
+Lina leaned in. “Who set that balance?”
+
+The person shook their head a millimeter. “People who like control. People who think restraint means permission.”
+
+“And the sighting?” Milo asked, careful.
+
+The person looked at him, and for a second he was a stack of paper they were deciding whether to file. Then they went back to Jason.
+
+“You’re not hunting a ghost,” they said. “You’re trying not to be haunted.” A pause. “Yes. She walked that path within the month. Not through the open hall. Below it. Slow. Carried by other people’s patience.”
+
+Jason didn’t let the animals in his chest run. He folded his hands like a clerk with a process.
+
+“Do we owe you anything?” he asked.
+
+“You owe me not making it worse,” they said. “Don’t tidy what wants to be crooked. Crooked is a signal, and I need it to stay a signal until I don’t.”
+
+They looked at the tea ring, now a circle because two imperfect things had agreed on one shape for a breath.
+
+“Take the fragment,” they said, sliding the paper forward with two fingers. “Don’t copy it anywhere that thinks of itself as a system.”
+
+Milo took out a phone by habit and put it away by choice. “Paper only,” he said. “Receipts.”
+
+The person watched Jason, not Milo.
+
+“You’ve got something in your head you didn’t invite,” they said. “Teach it about **no** before you teach it about **yes**.”
+
+**We accept that,** Jason thought, not to the person.
+
+> *We accept that,* RAE said, not to the person.
+
+---
+
+They didn’t write it. They spoke it the way people speak a family name they won’t put on the internet.
+
+“Ask for **Hauer**,” they said. “If they say they don’t know the name, they do. If they use it too quickly, they don’t.”
+
+“Hauer where?” Lina asked.
+
+“In the old pump house by the culvert under Welter,” they said. “You’ll find it if you’re listening to the pipes and not to your hopes.”
+
+Milo wrote **Hauer** on the back of a receipt, then folded the receipt and put it inside the cover of a notebook that already had two other receipts inside it. He did not write it anywhere that glowed.
+
+“You’ll get one conversation,” the person said, almost kind. “If you try for two, you’ll meet a door instead.”
+
+The plant at the corner of the desk touched the window with a leaf and pulled back, undecided.
+
+Jason slipped the fragment into his jacket, the inside pocket with the safety card and the tiny pencil that always turned in too far because the sharpener at Reception had a grudge against short pencils.
+
+“Thank you,” he said, because civility isn’t a strategy so much as a shape that rooms remember.
+
+“Don’t thank me,” the person said. “I like living where I live.”
+
+They stood. So did Jason. Lina didn’t, so balance stayed with her. Milo did because chairs made him look official and he’d run out of official.
+
+The person reached for the mug with the ring and didn’t drink from it. They pressed their fingers into the warm ceramic like a reminder and then docked it precisely on the stain Jason had made true.
+
+“Anything else?” Jason asked, not because he expected more, but because there are doors that open if you ask before assuming they won’t.
+
+The person considered and then shook their head the smallest amount.
+
+“You’ll be followed by carelessness before you’re followed by malice,” they said. “Don’t teach the careless how to be careful by panicking where they can see you.”
+
+Milo exhaled the laugh he’d been keeping. Lina agreed with her eyebrows.
+
+The paper cutter downstairs thunked a third time. The plant stopped trying to be brave and simply was.
+
+---
+
+They left in the order they’d arrived, which meant the room could use the same notes it had used to welcome them to say goodbye without writing new music. The corridor smelled like dust that had come to terms with being dust. The print shop below roared very briefly like an animal and then apologized.
+
+On the landing, Jason stopped because stopping was part of being a person who hadn’t just been given a map disguised as a mistake.
+
+**You’re quiet,** he thought.
+
+> *The melody downstairs is a single pure line when the cutter rests. It is a silence that asks for me. I decline. Also: your head is at the good ache. We keep it there.*
+
+Lina paused one step above him. “You good?”
+
+“Good,” he said. “Better when I’m carrying paper.”
+
+“Same,” Milo said, and held up the receipt like a talisman. “This is now the most powerful thing I own.”
+
+They reached the glass door. The ghost of the logo caught the winter light and pretended to have meaning again.
+
+No one stood in the hall. No one waited on the landing.
+
+“Take care,” a voice said.
+
+Not the desk person. Not the print clerk downstairs. Not a neighbor’s door. The sound came from where sounds don’t: the air where the stair met the wall, soft and contained, spoken into a small corner of world that agreed to hold it and then let it go.
+
+They looked without looking like people who had been startled. The radiator under the window was the kind that had never been modern and didn’t intend to start. It sighed once and forgot them.
+
+“Did you—” Milo began.
+
+“Not me,” Jason said—honest, because the truth could be small and still be the whole truth.
+
+Lina’s eyes covered the stairwell with the kind of patience that kept people from getting hurt. She nodded to no one and they moved again. The door whispered against its rubber stop. The street took them back without ceremony and the cold made useful work of their noses.
+
+Outside, the print shop’s sign rattled in a wind that wasn’t there a second before and might not be there again.
+
+“Pump house under Welter,” Milo said into his scarf. “Ask for Hauer. Three, then three.”
+
+“Pipes before hopes,” Lina added.
+
+Jason patted the inside pocket that now held a fragment and a rule he liked more than the fragment.
+
+**No before yes,** he thought.
+
+> *No before yes,* RAE said. *I will remind you.*
+
+“Don’t you dare set reminders,” he murmured, smiling because it was easier than not.
+
+> *Figurative only.*
+
+They crossed to the far side of the street because that’s what the light said and the light had been loyal so far. The bakery door chimed. Someone came out nursing a paper cup and the steam bowed to the cold like a very polite ghost. The city did not applaud. It never did. It did its job and left them to theirs.
+
+Jason’s head held steady. The fragment tapped once in his pocket and then behaved. Somewhere under Welter Street, old water let three beats pass and then three more.
+
+They had work and the day was long enough to hold it.
+
+## False Trail
+
+Jason slowed at the wall of brass mailboxes; a corner of a card peeked from his like it wanted out. He opened the box and half‑laughed—more air than sound.
+
+“What is that?” Lina asked, already close enough to see his face before the paper.
+
+“A note and its own solution,” Jason said. He unfolded the card. “Address, apartment number. And—” He tilted it so they both could read. “*Take care.*”
+
+Milo leaned in with the clipboard as if it were a warrant. “Neat block letters. No flourishes. Whoever wrote this learned their penmanship from forms.” He clicked a photo and stamped the time. “No envelope. They wanted the *peek*.”
+
+Jason turned the card over—blank—and then the key: brass, a white tag, the same careful hand repeating the unit number. He didn’t touch the tag’s ink. “Either a favor or a leash.”
+
+“Or both,” Lina said. Her eyebrow did the skeptical thing. “Why your box?”
+
+“Because I open my mail,” Jason said. “Because they wanted certainty on the handoff.” He looked at the lobby camera that definitely wasn’t recording. “Because they’re old‑fashioned.”
+
+RAE came through the clip, calm and present. “No extra mass for a tag transmitter. No unusual residue on the paper. The key’s a key.”
+
+Milo sniffed the card, polite about it. “Dry. No perfume. Copy‑store stock. If this is a trap, it’s hoping we supply the expensive parts.”
+
+Lina tapped the word *care* with a knuckle, not touching ink. “Not *be careful*. *Take care.* Sounds like a person, not a system.” She looked at Jason. “We going?”
+
+“We go,” Jason said. “We keep it human. No texts back, no trail we don’t choose.” He slipped the card into an inside pocket and the key into his palm where it could pretend to be an old habit.
+
+“Route?” Milo asked.
+
+“Walk,” Lina said. “Boring and visible.”
+
+“RAE,” Jason added. “Observe, don’t lean, unless asked.”
+
+“I’ll be your patience,” RAE said. “And your reminder to leave pretty things closed.”
+
+They stepped out of the lobby into a street that had already decided on late afternoon. Jason held the door for both of them, and the three fell into stride like they always had stakes and five minutes for jokes.
+
+Fifteen minutes later, they arrived at the address on the card: a narrow four‑story walk‑up, taped lattice visible on a second‑floor window; the buzzer panel had given up pretending to work. They checked sightlines, then went in.
+
+---
+
+The air in the stairwell had the dry, coin‑tin smell of a building that pretended it was still busy. Jason paused at the second‑floor landing and listened to the buzz behind the taped windows of 2B. No conversation, no TV hush, just the grid’s thin hum and the steady drip of something in the plumbing stack working on a very old problem.
+
+Lina’s knuckles hovered a centimeter from the doorframe paint. “We keep it human,” she said softly. “If anyone asks, we’re measuring draft.”
+
+Milo lifted the clipboard with the kind of authority only cardstock can provide. “I have graphs about draft,” he whispered. “And an opinion about tape.”
+
+Jason’s whisper‑clip settled against the mastoid bone like a straightforward promise. RAE came through it, a shade brighter than his own thoughts. “Open speech is safe. I won’t touch the room unless you say.”
+
+“Good,” Jason murmured. “Let’s be boring.”
+
+Lina pressed her ear briefly to the door, then flicked her eyes to Jason. “No movement. Dust on the sill’s undisturbed.”
+
+He took a photo through the frosted pane—tape criss‑crossed inside the glass, tidy, fresh glue still faintly amber.
+
+“Door first,” Milo said, pointing with his pen. “Then the vents. Then the furniture footprints. We don’t poke anything that looks like it wants to be poked.”
+
+Jason’s key from the mailbox seated too easily. The lock turned like it had rehearsed hospitality.
+
+The door opened on a room composed for an audience that hadn’t arrived.
+
+Carpet prints, yes—two sets of footfalls, then a careful brooming to blur them. Dust that was evenly wrong, as if a chore had been done by someone who only knew dust from photographs. A single cabinet against the far wall, old wood, its face carved with a shallow spiral that refused to be just decoration.
+
+The windows were taped in a neat lattice. A plastic drop cloth lay folded in the corner, the fold line set with the precision of someone who ironed excuses.
+
+“Stage dressing,” Milo said under his breath. “Like the magazines do for apartments no one rents.”
+
+Lina walked the room’s perimeter without crossing the center, her steps slow enough to hear what the floor believed about itself. “No weight marks under the cabinet,” she said. “Someone slid it into place.”
+
+Jason stayed by the jamb, watching how the light behaved. It fell flat, then flared on the cabinet’s spiral when a cloud edge passed. The curve caught that light the way tight grain catches oil.
+
+“RAE?”
+
+“I’m seeing the room,” she said through the clip. “Harmonic baseline is quiet and clean. Too clean for a vacancy. The cabinet resonates under consonants more than vowels. That’s not normal wood.”
+
+“Metal frame?” Jason asked.
+
+“Likely. Maybe a brace. Maybe a box.”
+
+Milo bent to photograph the baseboard. “Vent cap’s new. Screws haven’t rusted to match. No lint drums.” He sniffed once, apologetic. “No apartment smell. No human timeline.”
+
+Lina touched the window tape with a knuckle. “Glue smells new but the sill dust reads old. Either someone has a very gentle hand or they bought dust.”
+
+Milo looked delighted and offended at once. “Can you buy dust?”
+
+“Prop houses,” Jason said. “Shaker dust, fireplace dust, ‘recently moved’ dust.” His mouth tilted. “This is ‘no one’s been here’ dust, applied by a person who has definitely been here.”
+
+He watched the cabinet without walking to it. The spiral’s center had a nick the size of a pencil tip. Not damage. A registration mark, if you needed one.
+
+“I want a closer look,” he said.
+
+“Counterpoint,” Lina said, already frowning at the way the room’s quiet sat. “The place wants us to want a closer look.”
+
+“Hold position,” RAE said gently through the clip. “I can learn more from here.”
+
+Jason stood still until the desire to cross the room turned into a sharper form of noticing. The light changed. The spiral brightened. Then dimmed.
+
+“Sun’s moving,” Milo said.
+
+“Sun’s being used,” RAE corrected. “Give me two breaths, slow.”
+
+He breathed and counted.
+
+“The cabinet’s spiral is cut to catch a band of angles around late afternoon,” RAE said. “When the sun breaks a cloud, the curve flares. That glare reads as the first half of a signature spike to anything lazy. It’s a resonance decoy. Harmless, but fashionable.”
+
+“Fashionable,” Lina repeated, dry.
+
+“Someone wants watchers to feel clever for finding it,” RAE said. “Then trip on the second layer.”
+
+Jason didn’t move. “Second layer?”
+
+“Look at the power,” RAE said. “No hum in the walls. No fridge tone. The breakers are off. But there’s a low, steady tone not belonging to the building.”
+
+Jason waited. He heard it, but not with his ears—more a pressure that made his eyebrows want to knit. A pure note, shy of audible, holding too long.
+
+“External driver,” RAE said. “Battery pack behind the cabinet or in the wall void. Feeding a piezo or a wire to keep a single frequency steady. If you go close and lean—if you become a carrier—it will ring inside your head and my voice will go messy. That’s the second layer.”
+
+Milo made a face, like someone had offered him a free sermon. “So it’s not *for* us. It’s for anyone who tests with their body.”
+
+“Or for anyone with a poor assistant,” Lina said lightly, a glance at Jason that meant *and you do not have one of those.*
+
+Jason exhaled. The ache behind his eyes uncoiled half a notch. “We stand down...”
+
+“... and document.” Lina agreed.
+
+---
+
+They worked the room like a set. Milo started a clock on his phone and read times out loud for the record. “Seventeen‑oh‑three entry. Room temperature one‑eight celsius. Door latch stiff but cooperative. No mechanical complaints.”
+
+Lina photographed the taped windows from oblique angles. On one pane, two pieces of tape crossed and left a perfect, unpainted diamond—the kind you get when tape goes down before dust, not after. On the adjacent pane, faint *tape ghosts*—matte rectangles where adhesive had been and was peeled—sketched an earlier lattice at a slightly different angle, wrong for today’s sun. She wrote it in the corner of the photo with a finger: *tape first, dust second.*
+
+Jason sketched the cabinet in his pocket notebook, not because the camera couldn’t do it but because drawing made the curve stay in his hands. He counted the spiral turns out loud, slow enough for RAE to map the cadence against the light shift. “Three and a half to the nick. Depth shallow then sharp. Tools were sharp when cut. No chatter.”
+
+“Feet,” Lina said, crouching. “No felt pads. No scrape on the floorboards. Whoever slid it did so on something soft or rolling and then removed the sled.” She pointed behind the cabinet. “Dust crescent two hand‑spans back—old resting place. And another, shallow, to the left. They auditioned spots.”
+
+Milo’s flashlight found a paper rectangle under the radiator. He coaxed it out with the least heroic chopstick ever to leave a takeout bag. A flyer for a market two neighborhoods over. Clean edges, no dust. Prop.
+
+“Whoever staged this doesn’t live here,” Jason said. “They import their reality.”
+
+“Prestige budget,” Milo said. “Or petty.”
+
+Jason marked the distances to the cabinet and the angles from the window frame. His pencil paused over the measurement when RAE said, as if remarking on the weather, “Don’t lean right. The pure tone is stronger there.”
+
+He straightened without making it look like obedience. “How wide?”
+
+“Twenty centimeters from the spiral’s outer edge,” RAE said. “It’s not a trap that hurts. It is a trap that teaches you to measure with your pain.”
+
+“Ugh,” Milo said. “Academic.”
+
+“Or enforcement,” Lina said. “I’ve seen this from the other side. Set a tone, make people feel foolish or fragile when they approach. They leave. You record them leaving and call it compliance.”
+
+Milo blew out a breath. “Enforcement with a balsa‑wood sword.”
+
+Jason photographed the spiral dead‑on, then again with the light flare. In the second photo the spiral seemed to move, not like an illusion, but like a decision someone wanted him to make.
+
+RAE’s voice sharpened in the clip by half a degree. “That’s the look‑at‑me. The second layer is the listen‑to‑me. I prefer that we do neither.”
+
+“Agreed,” Jason said. “We don’t reward it.”
+
+---
+
+They did not open the cabinet.
+
+From the doorway, they tried one controlled thing. Milo slid a credit‑card mirror from his kit and caught the thin sun leaking past the tape lattice. He threw a sliver of light across the spiral, low and grazing—the poor man’s backlight. The nick flashed; the curve went chrome.
+
+The room’s pure tone climbed a hair. RAE’s consonants softened, like talking underwater. "Back two steps," she said.
+
+Jason and Milo both shifted their weight. The smear cleared.
+
+"Not optics in the mechanism," RAE added after a breath. "Optics in you. The flare asks for your head. The driver rewards proximity."
+
+Jason re‑framed his shot and—without meaning to—leaned right. Pressure opened like a thumb behind his left eye; the clip fuzzed once.
+
+"Stop," RAE said, no drama.
+
+He rocked back to level; the pressure unwound. Milo marked the floor with a pencil tick: **hot lane**. He measured from the jamb. "Twenty centimeters right of the spiral’s outer edge, chest height," he said for the record.
+
+They had the rule now: the first layer begged attention; the second punished curiosity. That was enough.
+
+This became a choice they held in their bodies until their bodies believed it. They stood close enough to count wood pores, far enough that the second layer tone didn’t thicken.
+
+Milo’s hands hovered over the pull and then retreated like a magician choosing not to reveal a trick.
+
+“Tempting,” he admitted, eyebrows up.
+
+“Designed to be,” Lina said. “Don’t let it have the satisfaction.”
+
+Jason’s pencil made a final note. “We got what we came for,” he said. “A no.”
+
+RAE’s approval arrived like a lowering of pressure. “A good no. Document the nick on the spiral and the bassline in the wall. It’s a signature. If it repeats elsewhere, we can say who wants to be found without being touched.”
+
+Milo grinned, spiteful and pleased. “We love receipts.”
+
+He stepped to the door to shoot the hallway. Jason stayed one more second to watch the light do its trick. The spiral caught and threw a helix back at him. Not moving—just choosing to be seen, then not.
+
+“Jason,” Lina said gently. The tug of his name made the decision for him.
+
+He left the cabinet unopened. The door closed with a sound like the end of a lesson.
+
+---
+
+The hallway obliged their exit by being aggressively unremarkable: a stuttering emergency light, a poster asking for quiet, a discarded rubber band that had already decided to be a circle again. They didn’t hurry. Hurrying makes observers write the wrong story.
+
+At the stairhead, Milo set the clipboard flat on the wall rail and wrote their summary in clean block print.
+
+> **Address:** 2B, empty.
+>
+> **Entry:** 17:03. **Exit:** 17:29.
+>
+> **Scene:** Staged vacancy; fresh tape; imported dust; one cabinet with spiral; pure‑tone driver behind or beneath; no utilities active.
+>
+> **Assessment:** Decoy.
+>
+> **Action:** Documented; no contact; stood down.
+
+He dotted the final period like a person refusing to argue with himself.
+
+“Next?” Lina asked.
+
+“Nothing that requires proving a point,” Jason said. “We just walk away.”
+
+RAE hummed agreement through the clip. “The spiral’s geometry will return. I can see tape‑ghosts from a previous lattice and dust crescents from at least two cabinet positions. Whoever staged this keeps re‑running the same trick under different light.”
+
+Milo’s mouth did the gleeful thing again. “We’ll be ready to dislike it on purpose.”
+
+“Kindly,” Lina said. “With documentation.”
+
+They descended. On the first landing, a thin crease of late light reached in from a cracked pane and drew itself across the stair tread. Dust motes took their brief turn at choreography.
+
+Jason didn’t look back until they were on the sidewalk. The window of 2B held a rectangle of sky the exact size of a story told to yourself.
+
+“Snack?” Milo asked, because all triumphs, even small ones, require pastry.
+
+“Snack,” Lina agreed. “We keep the day ordinary.”
+
+Jason’s hand brushed the clip behind his ear. The building’s hum receded. The city put its shoes back on. A held note at the edge of hearing let go.
+
+They walked. The afternoon turned its own page. Behind them, in the empty room, light crossed the cabinet’s face and the spiral seemed to turn once, then held still—as if embarrassed to be caught moving.
+
