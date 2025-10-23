@@ -6,7 +6,7 @@
 
 ## Core Idea
 If RAE wants / needs to communicate with someone else, than Jason, RAE **sets things into resonance**. 
-Voices/info emerge through **harmonic coupling** – ideally right at the listener (contact) or via a room carrier. **Jason** is the **primary anchor**: stability and range draw on him.
+Voices/info emerge through **harmonic coupling** – ideally right at the listener (contact) or via an object, that ic capable of resonating. **Jason** is the **primary anchor**: stability and range draw on him.
 
 ---
 
@@ -48,7 +48,7 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
 - **Carrier swamped**: the physical carrier is already dominated by a **steady external drive** (industrial motor, train wheel scream, PA feedback).
 
 ### Soft interference (degrades quality; possible with workarounds)
-  basically everything that will make listening harder will make it harder for RAE and uses more invest from Jason, but it will make it also harder for RAE to be deteceted
+  basically everything that will make listening harder will make it harder for RAE and/or uses more invest from Jason, but it will make it also harder for RAE to be deteceted
 
 - **Broadband vibration/noise floor** (subway, heavy HVAC, server rooms),
   - workaround efficiancy depends on the number of source to add harmonics to 
@@ -101,6 +101,7 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
 ### When RAE speaks **openly**
 
 **Trusted People** 
+- Jason
 - Milo, 
 - Lina
 - later (after building trust) Elyra
@@ -119,16 +120,19 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
 
 ### When communication is **internal** (Jason ↔ RAE only)
 
-- **Condition:** Content concerns **only Jason or RAE** (strategy, health, sensitive data) **or** outsiders are present and privacy is essential.
+- **Condition:** 
+  1. Only Jason is present. Internal communication takes the least toll. 
+  2. Non-Trusted People are present and there are sensitive content concerns that make privacy very essential.
 - **How to present in text (formatting):**
   1. **Jason** lines in **bold** (Markdown `**...**`).
-  2. **RAE** replies as a **block quote in italics** (Markdown `> *...*`).
-- Internal communication is known only to Jason and RAE. Nobody else knows about it's content.
+  2. **RAE** replies in **italics** (Markdown `*...*`).
+- Internal communication is known only to Jason and RAE. Nobody else knows about it's content and therefore cannot react to it.
+- Internal communication is ALWAYS possible.
 
 ### Whisper-clips
 Whisper-clips are a carrier of first choice and are preffered over other carriers. 
 With the use of whisper-clips, RAE can also speak hidden from others, if such are present. This si still open dialog.
-External carriers are a fall back, if a whisper clip gets lost somehow.
+External carriers are a fall back, if a whisper clip gets lost somehow. Fallbacks are not called out as long as they are not used.
 
 ### Tone guidance (Part 2 specific)
 

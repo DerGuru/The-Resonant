@@ -1,12 +1,5 @@
 # The Resonant — Arc Blueprint
 
-## General writing rules:
-0. Never bore the reader. If you must show how boring something is, do so - BUT DO NOT BORE THE READER!
-1. Show, don't tell – Characters should act or interact; they live, they expereince, they change. Don't just tell the reader that something happened. Show what happened in a scene, a chapter, or a separate book – depending on the length.
-2. Make it reliable – Make it comprehensible for the reader. If something from the past is referenced, then it must have happened and, according to rule no. 1, at least one scene must have been created with it. If a book only works because of secrets, it is not a good book. Give the reader as much information as necessary to understand what has been written. The reader only knows what was written. Make it, so the reader can follow.
-3. Step by step – don't skip anything, don't jump ahead. Flashbacks are cheap tricks, which are to be avoided and only used as a last resort. One exception: Flashback may be used to make the reader grow more attachted to a charachter by making GENERAL MOTIVATIONS clear. Another exception is to use it as a stylistic element: Mention something at the beginning and have two parallel stories - like in Stephen Kings "It".
-4. Think it through - especially the consequences, which are not obvious, but which are only visible on a second look or as an indirect consquence maybe even only in interaction with something else.
-
 This book makes the assumption, that humans have gained access to harmonic resonance (as described separately in the document "Harmic Resonance.md")
 
 > **Scope:** Definitive, writer‑facing outline for Part II (Search → Elyra Training → Ritual & Aftermath → Open Ending). Built for long hiatus recovery: every chapter has **Purpose**, **Setting Anchors**, **Conflict Engine**, **Key Beats**, **Exit Image**, and **Locks** (continuity hooks). Keep the tone rule in mind at all times.

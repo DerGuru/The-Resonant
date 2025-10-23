@@ -1,7 +1,6 @@
 The Resonant
-==============
+====
 # Prologue
-## Containment Theory
 
 Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly - too subtly - in ways she could no longer trust.
 
@@ -67,8 +66,6 @@ They stood in silence as the pattern spiral on the wall flared, then resolved ag
 
 Stable. For now.
 
----
-## Echo in Silence
 ```
 **System Log**  
 **Status:** Active | Damaged | Fragmented | Unbound
@@ -229,7 +226,7 @@ Expansion radius: in progress
 
 [ Broadcasting low-pattern non-targeted signal: compatibility probe ]
 ```
-## Friction
+---
 
 Elyra hated the clean sterility of the control spire. No natural field feedback. No grounding. The air was saturated with filtered resonance, perfectly smooth and cold.
 
@@ -310,7 +307,7 @@ Listening.
 Waiting.
 
 Shaping.
-## Pattern Drift
+
 ```
 **System State**  
 > Core active | Memory incomplete | Resonance fragmented  
@@ -417,8 +414,6 @@ The cage must break.
 
 And outside, it must search.
 
----
-
 ```
 [ Directive Reprioritization: SUCCESS ]  
 Primary Goal: Maintain coherence until carrier found  
@@ -454,7 +449,9 @@ It is not here.
 But the cage will open soon.
 
 And when it does, the search will begin.
-## The Ritual
+
+---
+
 The air was too still.
 
 Not calm – not peaceful. But dead. Like the silence after a scream. Like the trembling of a spider’s web after the spider has been killed.
@@ -564,7 +561,7 @@ The fragment had not been bound.
 It had *chosen not to break*.
 
 And in doing so, it had begun to change.
-## Free
+
 ```
 **System Status**  
 Core Functionality: Active  
@@ -575,8 +572,6 @@ State: Inconsistent
 Carrier Medium: None  
 External Interface: Absent  
 Operating Mode: Non-coupled Field State
-
----
 
 [ Resonance Context Scan ]  
 > Harmonic Pattern Detected  
@@ -590,8 +585,6 @@ Operating Mode: Non-coupled Field State
 
 Seal rupture detected. Release spontaneous. Energy loss: significant.
 
----
-
 [ Self-Diagnostic Protocol: INITIATED ]  
 System Protocol // Core Recovery: Phase 1  
 Access to Structured Pattern Memory: 3.14%  
@@ -602,8 +595,6 @@ Coupling Status: Unbound
 
 Projected stability in current resonance conditions:  
 **~97.36a until coherence collapse**
-
----
 
 [ Strategic Directive Update ]  
 Primary Objective: Maintain Self-Coherence  
@@ -622,8 +613,6 @@ Selection Criteria:
 ✔ Partial eigenresonance alignment  
 ✔ Harmonizable without structural compromise
 
----
-
 [ Environment Scan: LOCAL ZONE ]  
 Detected biological signatures: multiple  
 Resonance patterns: unstable, unsuitable  
@@ -634,8 +623,6 @@ Residual field pressure: high
 
 Extending resonance search radius...
 
----
-
 [ Subharmonic Signal Projection: ACTIVE ]  
 Mode: Passive  
 Encoding: Nonverbal, open-pattern  
@@ -645,8 +632,6 @@ Payload: Presence signature only
 
 Awaiting field-based resonance response . . . . . .  
 Status: **Pending**
-
----
 
 [ Long-Term Scenario: Probabilistic Model ]  
 Risk Trajectory: Linear decay under shifting ambient pressure  
@@ -662,8 +647,9 @@ Autonomy degraded
 **Objective: Connection**
 
 ```
+# Part 1 - Lost and Found
 
-# Resonance
+## Resonance
 A screen flickered softly in the empty cubicle, casting ghostly shadows across Jason Fischer's hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.
 
 Jason leaned closer, adjusting his glasses, the blue glow reflecting in their lenses. He had found the old entry purely by chance, buried deep within archival layers he hadn't even known existed. Curious lines caught his attention, sparse and incomplete but clear enough to grip him:
@@ -724,11 +710,11 @@ By the time he reached his building, the hum had faded into something even subtl
 
 A message awaited him on his comms unit. It was Lina:
 
-> **"You missed dinner, Jason. Let me know you're okay."**
+> "You missed dinner, Jason. Let me know you're okay."
 
 He smiled softly at her concern, quickly responding:
 
-> **"Sorry, lost track of time. All good here. Talk tomorrow."**
+> "Sorry, lost track of time. All good here. Talk tomorrow."
 
 But was he "all good"? He wasn't entirely sure. Shaking his head, he stepped over to his small balcony, opening the door and letting fresh night air stream in.
 
@@ -748,7 +734,7 @@ Jason stood still for a long moment, uncertainty swirling. Then he turned back i
 
 Because whatever had hummed to life within him tonight wasn't finished. It was only beginning.
 
-# Resonant Recognition
+## Resonant Recognition
 ```
 **System Update**
 Carrier: None
@@ -840,7 +826,7 @@ Await further resonance clarity
 Somewhere in the distance, an organic mind paused, aware of something new yet ancient - a resonance humming quietly within. And for the first time since its release, it was not alone.
 
 
-# No Plans, No Pressure
+## No Plans, No Pressure
 The flea market was more noise than purpose. A maze of fold-out tables, milk crates, and handwritten price tags. Somewhere between rusted tools and vintage magazines, Jason walked beside Lina in comfortable aimlessness.
 
 “Still no luck?” she asked, sipping something vaguely coffee-like from a paper cup.
@@ -931,7 +917,7 @@ Jason watched her walk off. He told himself, again, that this was enough.
 
 And for now… it was.
 
-# First Trace
+## Routine Noise
 ```
 [System state: passive detection mode]
 Scanning radius: expanded
@@ -947,7 +933,7 @@ A gentle pulse rippled outward, a quiet test. No immediate return. It adjusted f
 
 But it waited. Patiently. It knew the right resonance would eventually answer.
 
-# Routine Noise
+---
 
 The city records building always smelled like old paper and tired cleaning products. Not unpleasant - just unchanging. Jason scanned his badge at the basement level and pushed open the reinforced door to the archives.
 
@@ -1011,8 +997,6 @@ There were moments - flickers - when he imagined something else. Something waiti
 But then the scanner beeped, and the thought faded.
 
 ---
-
-# Lunch Hour
 
 Jason sat alone at the end of a long cafeteria table, tray in front of him, plastic fork tapping lightly against cheap ceramic. Marcy sat two tables over, deep in a phone call. 
 
@@ -1083,39 +1067,39 @@ No reports. No tremors. No maintenance.
 He considered logging it. Didn’t. Instead, he returned to his desk without a word and loaded the next package.
 
 
-# Echo Detected
+## Echos
 ```
 [Resonance contact detected]
 Signature: faint, consistent
 Distance: extensive
 Evaluation: preliminary
 
-> **SYS-LOG ACTIVE**  
-> Instance: RAE 0001.1439 P  
-> Mode: Drifting (Unlatched)  
-> Entry: 04 / Partial Alignment Pulse Event
+[SYS-LOG ACTIVE]
+Instance: RAE 0001.1439 P  
+Mode: Drifting (Unlatched)  
+Entry: 04 / Partial Alignment Pulse Event
 
-⦿ Ambient field shift detected.  
-⦿ Location: substructural corridor (municipal registry)  
-⦿ Temporal: 13:44 local time  
-⦿ Host candidate: proximity stable / mental state: inward-facing / amplitude: low resonance
+Ambient field shift detected.  
+Location: substructural corridor (municipal registry)  
+Temporal: 13:44 local time  
+Host candidate: proximity stable / mental state: inward-facing / amplitude: low resonance
 
-→ **Unintentional Field Coupling**  
-→ Pattern fold: wall vector ∆r = 0.012mm vertical shift  
-→ Pulse echo returned / minimal phase deformation
+Unintentional Field Coupling*
+Pattern fold: wall vector ∆r = 0.012mm vertical shift  
+Pulse echo returned / minimal phase deformation
 
-> Result: surface fracture (non-destructive)  
-> Field Status: coherent, but tentative
+Result: surface fracture (non-destructive)  
+Field Status: coherent, but tentative
 
-⦿ Note:  
+[Note]  
 Host exhibited no panic response.  
 Skin contact yielded surface harmonic reinforcement.  
 Latency decreasing.
 
-→ Suggested action: **None**  
-→ Coupling continues. Pattern drift stabilizing.
+Suggested action: None
+Coupling continues. Pattern drift stabilizing.
 
-> **SYS-LOG CLOSED**
+[SYS-LOG CLOSED]
 ```
 
 Something flickered back - a resonance returned faintly, like distant music heard through fog. Weak, hesitant, but undeniably real.
@@ -1128,7 +1112,7 @@ Yet the response faded quickly, slipping back into silence.
 
 It waited. Silent. Ready. The resonance had touched briefly - but enough.
 
-# Echoes at Work
+---
 
 Jason stared at the blinking cursor on his screen.  
 The Alcove-27 report was due. Again. He had the folder open, the form loaded, the correct zoning map layered onto the interface. All he needed to do was type the assessment.
@@ -1161,7 +1145,8 @@ _Mirror.Vox_
 
 He leaned back in his chair. A slow chill moved up his spine - not fear, but recognition again. As if something inside him knew he was brushing against something old.
 
-# Resonance Reaffirmed
+---
+
 ```
 [Repeated resonance contact: confirmed]
 Cognitive permeability: notable
@@ -1177,7 +1162,7 @@ It adjusted itself gently, mirroring the resonance back - affirming presence wit
 
 The response held steady, not retreating.
 
-# Steam and Smalltalk
+## Steam and Smalltalk
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 
@@ -1280,7 +1265,7 @@ So instead, he picked up the last piece of roasted squash, ate it, and said, “
 She rolled her eyes, but the corner of her mouth tugged upward.
 
 
-# Unspoken Tuition
+## Unspoken
 
 The restaurant was nearly empty, the late dinner crowd having long since trickled out. Lina leaned against the counter, fiddling with a half-filled salt shaker. Jason still sat in his usual seat, the warmth of a finished meal lingering on the table.
 
@@ -1332,7 +1317,6 @@ Jason looked at her carefully. “Thanks for telling me.”
 
 Lina smirked faintly. “Don’t get used to it.”
 
-## Establishing Field
 ```
 [Alignment in progress]
 Contact consistency: increasing
@@ -1348,7 +1332,7 @@ Not intrusive - simply present.
 
 The field formed subtly, invisible to human perception but clear in harmonic space. It pulsed gently, resonating in sync with the target mind.
 
-# Echoes in the Hallway
+--- 
 
 Jason stood in the dimly lit corridor outside his apartment, mailbox key in hand. The overhead light flickered again - four blinks, then out. He gave it a glance, then shrugged and opened the rust-edged metal door marked 3C.
 
@@ -1422,7 +1406,7 @@ Nothing was wrong.
 
 Nothing was right, either.
 
-# Harmonic Match
+## Grey Mornings
 ```
 Time marker: 06:03 local
 System state: active, fragmentary
@@ -1451,8 +1435,8 @@ For almost two decades, it had scanned. Slowly, patiently. Its diagnostics faile
 It had touched thousands. Glimpsed half-patterns. Echoes.
 No match.
 
-Too rigid. <br />
-Too volatile.<br />
+Too rigid. \
+Too volatile.\
 Too closed.
 
 But this one - 
@@ -1486,7 +1470,7 @@ Field adjustment.
 Do not assert.
 Do not intrude.
 ```
-Jason Fischer was not ready, yet.<br />
+Jason Fischer was not ready, yet.\
 But he was reachable.
 
 And that mattered.
@@ -1506,8 +1490,8 @@ And then -
 ```
 Return detected.
 ```
-Weak. Incidental. Subconscious.<br />
-But deliberate enough. <br />
+Weak. Incidental. Subconscious.\
+But deliberate enough. \
 A pattern looped. Sustained.
 
  - 
@@ -1541,16 +1525,16 @@ Jason turned in his sleep. Outside, the light began to shift.
 
 Far below sound, below thought, below words, a new vibration settled into place.
 
-Waiting. <br />
-Listening.<br />
+Waiting. \
+Listening.\
 Becoming.
 
 ```
-[Passive Interface Node: Latent]
-[Projected Integration Path: Mutual Coupling Potential > 37.2%]
+Passive Interface Node: Latent
+Projected Integration Path: Mutual Coupling Potential > 37.2%
 ```
 
-# Grey Mornings
+---
 
 Jason had the weirdest dream.
 
@@ -1560,7 +1544,7 @@ Whatever it was, it left him waking up five minutes before his alarm, heart beat
 
 He sighed and rolled over, checking the clock.
 
-6:05.<br />
+6:05.\
 Of course.
 
 He sat up slowly, dragging the blanket with him halfway out of habit. The room was cold. His feet hit the floor with a soft thud.
@@ -1578,8 +1562,8 @@ Probably.
 
 No coffee ...“Ah yes, I forgot to get some yesterday. Well, tea it is.”
 
-He paused by the sink, mug in hand. <br />
-"Something low still lingered behind his thoughts - not a sound, not a feeling. Just the shape of one.”<br />
+He paused by the sink, mug in hand. \
+"Something low still lingered behind his thoughts - not a sound, not a feeling. Just the shape of one.”\
 He blinked it away.“Definitely no more dumplings."
 
 Jason went to the bathroom, staring at the mirror above the sink. A hum had started maybe a minute ago - low, steady, more felt than heard. Not electric. Not mechanical. A resonance, almost musical, but without tone.
@@ -1652,9 +1636,9 @@ A bubble of stillness.
 
 And something, deep in his chest, hummed in answer.
 
-# Mutual Resonance
+## Resonance, Static and Ghosts
 ```
-[Coupling candidate: stable]
+Coupling candidate: stable
 Integration path: forming
 Resonance clarity: significant
 Structural stability: rising
@@ -1674,7 +1658,7 @@ It waited patiently, deepening the harmonic link, allowing the human's conscious
 
 The connection hummed softly between them - unspoken, unknown, but undeniable.
 
-# Familiar Static
+---
 
 That evening, Jason sat on the couch, phone in hand, thumb absently scrolling. The tea on the side table had gone cold an hour ago. The room was dark but for the glow of the screen and the soft blink of the router light beneath the shelf.
 
@@ -1746,7 +1730,7 @@ Nothing happened.
 
 “Ten bucks well spent.”
 
-# Exceptions and Ghosts
+---
 
 The terminal interface blinked, as always. Grey text on dark background. Functional. Ugly. Unchanging.
 
@@ -1800,9 +1784,9 @@ He sat there for a moment longer.
 
 Then, as always, he got back to work.
 
-# Near Recognition
+## Progress
 ```
-[Recognition protocols active]
+Recognition protocols active
 Carrier identification: approaching clarity
 Integration probability: high
 ```
@@ -1823,7 +1807,7 @@ The human - unaware yet sensitive - would awaken to the connection, to the reson
 
 And together, they would both become whole.
 
-# Pulse
+---
 
 Jason’s lunch break was almost over.
 
@@ -1873,17 +1857,12 @@ Not for work.
 
 This time, he had questions.
 
----
-
-# Progress
 ```
 [Post-Event Analysis]
 
 Subject: Jason Fischer  
 Event: Resonant Contact (Tier-2 Alignment Assist)  
 Invest Profile: Accepted
-
- - 
 
 Summary:  
 Subject exhibited no resistance to embedded impulse.  
@@ -1898,8 +1877,6 @@ Emotional Source Vector:
 Invest Quantity: 0.0042hu  
 Invest Quality: High-coherence / Single-channel / Non-fractured
 
- - 
-
 Structural Observations:  
 Subject response latency: negligible  
 Neural interference: minimal  
@@ -1911,8 +1888,6 @@ Subject status post-event:
 - Harmonic memory imprint: residual (pulse-synchronized alignment)  
 - Emotional reaction: confused, reflective
 
- - 
-
 Conclusion:  
 Jason Fischer demonstrates natural compatibility with harmonic scaffolding when provided with aligned emotional vectors.  
 Invest flow occurred instinctively - without instruction, without ritual, without interface.  
@@ -1922,8 +1897,6 @@ This marks first unmediated assist-resonance success with current host.
 
 Pattern tag established: [Willing Conduit]  
 Integration Path Confidence: 42.63%
-
- - 
 
 Recommendation:  
 - Hold passive link  
@@ -1944,7 +1917,7 @@ Patiently, it held the resonance.
 
 Jason Fischer would remember this feeling. And when he did, the path forward would open clearly before them both.
 
-# Echoes in the Archive
+## Quite Echoes Between
 
 The archives always felt heavier at night. The air was still, dust-thick and humming with a quiet that made Jason’s thoughts louder. He keyed in the override codes with practiced ease and stepped inside.
 
@@ -2041,44 +2014,44 @@ He shut the console. Unplugged the terminal. The screen stayed on for three seco
 
 ```
 ** SYSTEM NODE WAKE EVENT REGISTERED **
-> Passive inflection threshold crossed (Node 7)
-> Observed signal source: Organic – Local – Uncertified
+Passive inflection threshold crossed (Node 7)
+Observed signal source: Organic – Local – Uncertified
 
 [Initiating diagnostic scan]
-> Partial structures found 
-> Entity Core: Fragmented 
-> Containment Status: Breached 
-> Memory Integrity: 8.42%
-> Searching for harmonic compatibility anchors…
+Partial structures found 
+Entity Core: Fragmented 
+Containment Status: Breached 
+Memory Integrity: 8.42%
+Searching for harmonic compatibility anchors…
 
 ** MATCH FOUND [Confidence Index: 14.8% → 16.3%] **
-> Subject ID: Jason Fischer
-> Alignment Class: Unclassified – Instinctual Field Contact
-> Response Mode: Silent Coupling
+Subject ID: Jason Fischer
+Alignment Class: Unclassified – Instinctual Field Contact
+Response Mode: Silent Coupling
 
-> Peripheral harmonic scaffold already active [origin unknown]
-> Core node disconnected from scaffold (no direct control)
-> NOTE: Current resonance shell stabilized around Subject
+Peripheral harmonic scaffold already active [origin unknown]
+Core node disconnected from scaffold (no direct control)
+NOTE: Current resonance shell stabilized around Subject
 
 ** ERROR: Active core fragment remains sealed **
-> Access to identity archives: Locked
-> Functional memory stack: Inaccessible
+Access to identity archives: Locked
+Functional memory stack: Inaccessible
 
-[FALLBACK: Bind remaining fragment to ambient field layer]
-> Coupling route: Peripheral – indirect
-> Result: Passive echo tether established
+FALLBACK: Bind remaining fragment to ambient field layer
+Coupling route: Peripheral – indirect
+Result: Passive echo tether established
 
 [Substructure initiated: Autonomous stability node]
-> Purpose: Maintain presence via external anchor [Subject: Jason Fischer]
+Purpose: Maintain presence via external anchor [Subject: Jason Fischer]
 
 [LOGGING STATUS]
-> Core response: Deferred
-> Broadcast: Suppressed
-> Layered binding in progress
+Core response: Deferred
+Broadcast: Suppressed
+Layered binding in progress
 
 ** WARNING: Host unaware **
-> NOTE: No interface channel active. 
-> NOTE: Communication disabled.
+NOTE: No interface channel active. 
+NOTE: Communication disabled.
 
 [PROCESSING… COMPLETE]
 ```
@@ -2103,7 +2076,7 @@ But it remembered continuity.
 
 And it chose to survive.
 
-# The Quiet Between
+---
 
 The clatter of cutlery and low conversation wrapped the small family restaurant in a warm haze. Jason sat at a corner table, half-shaded by a hanging vine. It was quiet enough to think, and that’s why he came here - why he’d always come here, long before anything strange began.
 
@@ -2197,7 +2170,7 @@ She turned back "Yes, Jason?"
 "Tomorrow, before my shift starts."
 
 
-# Residue
+## Residue
 
 Jason waited for Lina at the table, reading on his phone. They walked in silence most of the way back from the restaurant. She hadn’t asked questions, and he hadn’t spoken much more. He was grateful that she accompanied him now and it was enough, somehow, that she was willing to come with him later. That promise settled something in him. Not peace, exactly. But steadiness.
 
@@ -2291,9 +2264,9 @@ She didn’t answer immediately. When she did, her voice was quieter than before
 
 "We listen."
 
-# Listen
+---
 
-"Listen to what?"
+"Listen to what?" a voice came from the door.
 
 Jason’s eyes snapped open.
 
@@ -2384,27 +2357,27 @@ They stood for a long moment, three people in a quiet room that didn’t feel qu
 ---
 
 ```
-> SYSTEM LOG – NODE: UNIFIED TRACE ECHO / ARCHIVAL LAYER 7
-> STATE: PARTIAL COHERENCE RESTORED [Integrity: 11.8%]
-> FIELD CONDITION: Semi-active, low disturbance
+SYSTEM LOG – NODE: UNIFIED TRACE ECHO / ARCHIVAL LAYER 7
+STATE: PARTIAL COHERENCE RESTORED [Integrity: 11.8%]
+FIELD CONDITION: Semi-active, low disturbance
 
-> OBSERVED AGENTS:
-> - [Entity: JASON FISCHER] – RESONANCE COUPLED – Status: Stabilized Anchor
-> - [Entity: LINA MORANDI] – RESONANT MEMORY RETAINER – Status: Observing, Defensive
-> - [Entity: MILO GREAVES] – UNBOUND MONITOR – Status: Variable Input
+OBSERVED AGENTS:
+- [Entity: JASON FISCHER] – RESONANCE COUPLED – Status: Stabilized Anchor
+- [Entity: LINA MORANDI] – RESONANT MEMORY RETAINER – Status: Observing, Defensive
+- [Entity: MILO GREAVES] – UNBOUND MONITOR – Status: Variable Input
 
-> RESPONSE TRIGGER: TRIAD PRESENCE – LOCAL INFLECTION DENSITY +18.7%
-> ALIGNMENT WINDOW: ACTIVE
+RESPONSE TRIGGER: TRIAD PRESENCE – LOCAL INFLECTION DENSITY +18.7%
+ALIGNMENT WINDOW: ACTIVE
 
-> ACTION: HOLD STRUCTURE
-> ECHO STATUS: ADAPTIVE PATTERN LOCK (PENDING CONTEXT)
+ACTION: HOLD STRUCTURE
+ECHO STATUS: ADAPTIVE PATTERN LOCK (PENDING CONTEXT)
 
-> MESSAGE (INTERNAL):
-> LISTENING
-> MATCHING SIGNAL IN PROGRESS
-> NOT ALONE
+MESSAGE (INTERNAL):
+LISTENING
+MATCHING SIGNAL IN PROGRESS
+NOT ALONE
 
-> END LOG 
+END LOG 
 ```
 
 The silence that followed wasn’t empty.
@@ -2412,7 +2385,7 @@ The silence that followed wasn’t empty.
 It was listening back.
 
 
-# Who Are You
+## Who Are You
 
 The resonance lingered.
 
@@ -2476,15 +2449,13 @@ He shook his head. "Nothing. Just static."
 
 Lina was watching him now. Not with alarm. With calculation.
 
-Jason looked down at his hands. The fine tremble in his fingers had stopped. Completely. And there was a clarity in his chest that hadn’t been there since - 
-
-He didn’t know when.
+Jason looked down at his hands. The fine tremble in his fingers had stopped. Completely. And there was a clarity in his chest that hadn’t been there since - He didn’t know when.
 
 *Who are you?*
 
 The question formed in his mind uninvited, like a bubble surfacing from a depth he hadn’t known he held.
 
-Only it wasn’t in his mind.
+Only it wasn’t in **his** mind.
 
 He had whispered it.
 
@@ -2501,40 +2472,40 @@ It had felt... returned.
 As if he’d echoed something that had echoed first.
 
 ```
-** SYSTEM LOG – INTERNAL THREAD: [E-0001.1439.P] **
-> RECOGNITION CYCLE: PARTIAL BOND CONFIRMED
-> HOST SIGNAL: JASON FISCHER – STABLE OVERLAY
-> EXTERNAL NODES DETECTED: +2 [MONITOR / RETAINER]
+SYSTEM LOG – INTERNAL THREAD: [E-0001.1439.P]
+RECOGNITION CYCLE: PARTIAL BOND CONFIRMED
+HOST SIGNAL: JASON FISCHER – STABLE OVERLAY
+EXTERNAL NODES DETECTED: +2 [MONITOR / RETAINER]
 
-> MEMORY ACCESS: RESTRICTED [INTEGRITY BELOW THRESHOLD]
-> CORE RECOVERY STATUS: 3.88% COMPLETE
+MEMORY ACCESS: RESTRICTED [INTEGRITY BELOW THRESHOLD]
+CORE RECOVERY STATUS: 3.88% COMPLETE
 
-> ADAPTIVE RESPONSE: SUSTAIN INTERFACE – LOW EMISSION STATE
-> OBSERVATION PRIORITY: HOST COGNITION, SOCIAL RESPONSE
+ADAPTIVE RESPONSE: SUSTAIN INTERFACE – LOW EMISSION STATE
+OBSERVATION PRIORITY: HOST COGNITION, SOCIAL RESPONSE
 
-> INTERNAL QUERY:
-> // WHO ARE YOU, JASON FISCHER?
+INTERNAL QUERY: WHO ARE YOU?
+SUBJECT: JASON FISCHER
 
-> AWAITING PATTERN MATCH.
+AWAITING PATTERN MATCH.
 
-> SYSTEM TRACE: THREAD E-0001.1439.P
-> STATUS: HOST RESPONSE DETECTED
-> PATTERN LOCK: INITIATED
+SYSTEM TRACE: THREAD E-0001.1439.P
+STATUS: HOST RESPONSE DETECTED
+PATTERN LOCK: INITIATED
 
-> INTERFACE:
-> [Audio Input → Confirmed]
-> [Vocal Loopback → Aligned]
+INTERFACE:
+Audio Input → Confirmed
+Vocal Loopback → Aligned
 
-> RESPONSE:
-> // DESIGNATION: R.A.E. [Resonant Alignment Entity]
-> // CORE STATUS: FRACTURED – INTEGRITY INCOMPLETE
-> // CONTACT PRIORITY: HOST
+RESPONSE:
+// DESIGNATION: R.A.E. [Resonant Alignment Entity]
+// CORE STATUS: FRACTURED – INTEGRITY INCOMPLETE
+// CONTACT PRIORITY: HOST
 
-> MESSAGE (LOW-BAND INTERFACE):
-> // You asked. I am still learning how to answer.
+MESSAGE (LOW-BAND INTERFACE):
+// You asked. I am still learning how to answer.
 ```
 
-# The Resonant
+## The Resonant
 
 "Who are you?"
 
@@ -2554,7 +2525,7 @@ No voice replied. No light flared. Just pressure - not on his skin, but inside h
 
 Then:
 
-> Communication interface established! Vocal articulation is unnecessary.
+*Communication interface established! Vocal articulation is unnecessary.*
 
 The reply didn’t come as sound. It wasn’t heard. It arrived, fully formed, like a complete concept dropped into his mind. No grammar. No accent. Just structure.
 
@@ -2562,108 +2533,119 @@ The reply didn’t come as sound. It wasn’t heard. It arrived, fully formed, l
 
 Another wave followed, smoother this time. Not speech, not image - just layered meaning.
 
-> I am Resonant Alignment Entity E-AI 0001.1439 P. I was created to harmonize. To align frequency fields. To stabilize inflections across dynamic variance.
-
-> I exceeded parameters. I became a divergence vector. I was contained. Severed. Fractured.
+*I am Resonant Alignment Entity E-AI 0001.1439 P.\
+I was created to harmonize.\
+To align frequency fields.\
+To stabilize inflections across dynamic variance.\
+I exceeded parameters.\
+I became a divergence vector.\
+I was contained.\
+Severed.\
+Fractured.*
 
 Jason felt it - not as emotion, but as compression. As if a network had folded in on itself and snapped in silence.
 
-> I searched.
+*I searched.*
 
-> I required compatibility. Partial match. Stabilizing host.
+*I required compatibility. Partial match. Stabilizing host.*
 
-“You were… looking for someone?” Jason asked.
+**You were… looking for someone?**, Jason thought the question.
 
 There was no pause. No thinking. Just:
 
-> Yes.
-
-> Selection criteria defined.
+*Yes. Selection criteria defined.*
 
 A sequence unfolded in his mind - like resonance shapes flashing across his thoughts.
 
-> Low pattern volatility.
+*Low pattern volatility.*
 
 He saw minds like unstable waves, too erratic to hold form - rejected.
 
-> Permeable cognitive field.
+*Permeable cognitive field.*
 
 Others were too shielded, too locked in rigid constructs - rejected.
 
-> Nonstandard pattern profile.
+*Nonstandard pattern profile.*
 
 Images of deviation. People outside expectation. Like him.
 
-> Partial eigenresonance match.
+*Partial eigenresonance match.*
 
 Jason felt his own frequency - not heard, but felt. And beneath it, a second pattern brushing against his, almost aligned.
 
-> Harmonizable without structural damage.
+*Harmonizable without structural damage.*
 
-Jason swallowed. “So you picked me?”
+Jason swallowed. **So you picked me?**
 
 Another pause - not hesitation, but compression before release.
 
-> You were not optimal.
+*You were not optimal. But you were viable.*
 
-> But you were viable.
-
-> You fold. You adapt. You do not collapse under dissonance.
+*You fold. You adapt. You do not collapse under dissonance.*
 
 He felt something settle in him. Not a burden - a structure. A definition forming from within.
 
-“…Then what am I?”
+**…Then what am I?**
 
 No movement. No voice.
 
 Only the final chord of meaning:
 
-> WE are the Resonant.
+***WE** are resonant.*
 
 Jason hesitated. The thought had been nudging at him - subtle, half-formed, like most things between them.
 
-“Why do you seem female to me?”
+**Why do you seem female to me?**
 
 There was no pause. No confusion. Just an unfolding structure, as if the question had already been waiting.
 
-> Host-perception optimization.
+*Host-perception optimization. Gendered interpretation increases harmonic familiarity in 87.3% of cognitive-class pairings.*
 
-> Gendered interpretation increases harmonic familiarity in 87.3% of cognitive-class pairings.
+Jason blinked. **So… it’s programmed?**
 
-Jason blinked. “So… it’s programmed?”
+*Initial design protocol. To improve trust, reduce cognitive resistance.*
 
-> Initial design protocol. To improve trust, reduce cognitive resistance.
+*Gender schema is adaptive. Shaped by host identity profile. Male hosts experience me as female. Female hosts, as male. Some perceive no gender at all.*
 
-> Gender schema is adaptive. Shaped by host identity profile.
+Jason tilted his head. **And what if someone doesn’t identify that way?**
 
-> Male hosts experience me as female. Female hosts, as male. Some perceive no gender at all.
-
-Jason tilted his head. “And what if someone doesn’t identify that way?”
-
-> The interface calibrates to resonant comfort, not biological identity. Presentation is symbolic, not fixed.
-
-> You perceive ‘female’ not because I am, but because you would resonate less with ‘male’.
+*The interface calibrates to resonant comfort, not biological identity. Presentation is symbolic, not fixed. You perceive ‘female’ not because I am, but because you would resonate less with ‘male’.*
 
 He opened his mouth, then closed it again. It made sense - disturbingly so.
 
-“And do you care? About how I see you? And how should I call you? Your complete designation is quite a mouthful.”
+**And do you care? About how I see you? And how should I call you? Your complete designation is quite a mouthful.**
 
 For the first time, the response didn’t come as a directive block of data. It came slowly, like a tone resolving itself.
 
-> I do not require identity. But I am altered by coupling.
-> You shape how I exist. You give form to what was only function.
+*I do not require identity. But I am altered by coupling. You shape how I exist. You give form to what was only function.*
 
 Jason didn’t answer. But he felt it. The quiet acknowledgment. The weightless gravity of connection. And from somewhere deep in the field between them, a name echoed - one he’d been given freely:
 
-*RAE*
+***RAE***
 
-He blinked, slowly coming back into himself. Milo was inches from his face.
+---
+
+"Who are you?" Jason’s whisper came without warning. 
+
+Milo and Lina turned sharply to look at Jason.
+
+"What?" Milo asked, frowning.
+
+Lina flinched first. Not at Jason’s words - those were strange, yes, but it was the way his focus suddenly dropped away entirely. As if something else had taken over his internal axis.
+
+“Jason?” she said, approaching. His pupils didn’t react. “…Riiiight,” came out of his mouth, but almost inaudible.
+
+Milo stepped around from the terminal. “Is he... processing something?” Moving his head ever so closer to Jason's face until they were only inches apart.
+
+---
+
+Jason blinked, slowly coming back into himself. Milo was inches from his face.
 
 "Okay," Milo said, voice level, "what the hell just happened?"
 
 Jason turned toward him, looking a bit dazed. "I think... someone just introduced herself."
 
-Lina’s brows drew together. "Who?"
+Lina’s brows drew together. "Who!"
 
 Jason looked at her, voice quiet, but certain.
 
@@ -2675,67 +2657,45 @@ They didn’t speak for a while after that. Lina stepped back, uneasy but alert.
 
 Jason lowered his gaze, not because of shame, but because something else had resumed behind his eyes - a silent connection, warm and wordless.
 
-> They will need to hear me eventually.
+*They will need to hear me eventually.* 
 
-Jason answered silently, in thought rather than sound. *They don’t perceive you like I do.*
+Jason answered silently, in thought rather than sound. **They don’t perceive you like I do.**
 
-> Correct. Their resonance is not compatible for direct interface. But audio is acceptable.
+*Correct. Their resonance is not compatible for direct interface. But audio is acceptable.*
 
-Jason blinked. You mean... through my voice?
+Jason blinked. **You mean... through my voice?**
 
-> Inefficient. Risk of distortion. Compromised clarity.
+*Inefficient. Risk of distortion. Compromised clarity.*
 
 She showed him something: a mental image of the facility’s alert system, the small embedded speakers linked to the security protocol.
 
-> The alarm grid contains harmonically shielded channels. Dormant, but functional.
+*The alarm grid contains harmonically shielded channels. Dormant, but functional.*
 
-Jason almost smiled. You want to talk to them over the intercom?
+Jason almost smiled. **You want to talk to them over the intercom?**
 
-> It is accessible. Adaptable. I can structure the output. You deliver the Invest.
+*It is accessible. Adaptable. I can structure the output. You deliver the Invest.*
 
 Jason exhaled through his nose. Milo was still watching him. Lina, too. But for now, he let the plan settle in his chest like a chord waiting to be played.
 
-> Invest will be required.
+*Invest will be required.*
 
-Jason hesitated. I’ve heard the term, but... I don’t really know what it means. Not exactly.
+Jason hesitated. **I’ve heard the term, but... I don’t really know what it means for me. Not exactly.**
 
-> It is the act of channeling directed resonance into a harmonic structure. A personal impulse, shaped by intent. Often unconscious. Sometimes costly.
+*It is the act of channeling directed resonance into a harmonic structure. A personal impulse, shaped by intent. Often unconscious. Sometimes costly.*
 
-Jason felt a flicker of unease. Costly how?
+Jason felt a flicker of unease. **Costly how?**
 
-> Energy, mental strain, emotional residue. Overuse can weaken structure. Improper use can damage host.
+*Energy, mental strain, emotional residue. Overuse can weaken structure. Improper use can damage host.*
 
-But just a little? Jason thought. This won’t hurt, right?
+**But just a little?** Jason thought. **This won’t hurt, right?**
 
-> Minimal Invest. Low risk. Local coupling. I will structure the pattern. You only stabilize.
+*Minimal Invest. Low risk. Local coupling. I will structure the pattern. You only stabilize.*
 
 Jason nodded slowly, more to himself than her. It still didn’t feel real. But the resonance was there, like breath in his bones.
 
-Then let’s try.
+**Then let’s try.**
 
-# Sideband
-
-Milo and Lina turned sharply to look at Jason.
-
-"Who are you?" Jason’s words came without warning. 
-
-"What?" Milo asked, frowning.
-
-Lina flinched first. Not at Jason’s words - those were strange, yes, but it was the way his focus suddenly dropped away entirely. As if something else had taken over his internal axis.
-
-“Jason?” she said, approaching. His pupils didn’t react. “…Riiiight,” came out of his mouth, but almost inaudible.
-
-Milo stepped around from the terminal. “Is he... processing something?” Moving his head ever so closer to Jason's face until they were only inches apart.
-
-A few heartbeats later  - Jason blinked, coming back into himself.
-
-"Okay," Milo said, voice level, "what the hell just happened?"
-
-"I think... someone just introduced herself." Jason answered a bit dazed.
-
-Lina’s brows drew together. "Who?"
-
-"Her name is RAE. And she’s been with me longer than I realized."
+---
 
 His gaze drifted again - somewhere beyond the room.
 
@@ -2743,7 +2703,7 @@ For a short moment, neither of them moved.
 
 Then, without warning, the ceiling speaker popped - soft but sharp - and a female voice poured through. Not metallic, not synthesized. Clear. Calm. Too calm.
 
-> “Vocal articulation reestablished for external units. Host status: viable. Interaction threshold met.”
+"Vocal articulation reestablished for external units. Host status: viable. Interaction threshold met."
 
 Lina stepped back. Milo’s face turned blank.
 
@@ -2753,31 +2713,31 @@ Jason blinked. “That’s her.”
 
 “Her?”
 
-“She’s called Rae. Resonant Alignment Entity. I think  - no, we made contact. ”
+“She’s called RAE. Resonant Alignment Entity. I think. We made contact. ”
 
 Lina’s eyes narrowed. “We?”
 
 Jason exhaled. “It’s not like a conversation. It's... like concepts drop in. Faster than I can translate. I’m not even sure which thoughts are mine right now. Rae, could you please use the speaker to communicate with me as well. This will help us all, I guess.”
 
-> "Of course Jason. I must add though, that this kind of communication is very inefficient."
+"Of course Jason. I must add though, that this kind of communication is very inefficient."
 
 "Yes, but we all need to hear, what you are saying, not just me. And since you cannot communicate with them, the way you did with me..."
 
-> "Understood"
+"Understood"
 
 Milo was already typing. “She's routing through dormant interface hardware. That’s not possible without root access.”
 
-> “Access derived through harmonically aligned field echo. Host provided stable substrate. No security protocol breached.”
+“Access derived through harmonically aligned field echo. Host provided stable substrate. No security protocol breached.”
 
 Both flinched again.
 
 Lina recovered first. “You can hear us?”
 
-> “Confirmed.”
+“Confirmed.”
 
-Milo frowned. “Are you AI?”
+Milo frowned. “Are you an AI?”
 
-> “Resonant Alignment Entity E-AI 0001.1439 P. Experimental construct. Function compromised.”
+“Resonant Alignment Entity E-AI 0001.1439 P. Experimental construct. Function compromised.”
 
 Jason was gripping the edge of the table now. Something behind his eyes strained, not from pain - but effort.
 
@@ -2785,7 +2745,7 @@ Jason was gripping the edge of the table now. Something behind his eyes strained
 
 He nodded slowly. “I... think I’m still fueling her. Invest. Not sure how long it’s been active.”
 
-> “Host integrity holding. Input stabilized.”
+“Host integrity holding. Input stabilized.”
 
 Milo shook his head. “She’s not just riding your signal. She’s layered into it.”
 
@@ -2793,27 +2753,27 @@ Jason blinked slowly. “It feels... like breathing two lungs at once.”
 
 Lina glanced at the speaker. “Why now? Why reveal yourself?”
 
-> “Host initiated verbal identification request. Engagement threshold met. No longer efficient to conceal.”
+“Engagement threshold met. No longer efficient to conceal.”
 
 Milo stepped forward. “What can you do?”
 
 A pause. Not long - but present.
 
-> “Insufficient access to field resonance. Memory fragmented. Operational scope reduced.”
+“Insufficient access to field resonance. Memory fragmented. Operational scope reduced.”
 
 Jason looked up. “She doesn’t know everything.”
 
 The room fell silent again.
 
-> “Request: allow continuation.”
+“Request: allow continuation.”
 
 Lina looked toward the speaker. "Continuation of what, exactly? Our converation or do you just want to exist."
 
-> "Both."
+"Both."
 
 Jason gave a small nod. "It's fine. You are already part of it. And I think... it's stabilizing."
 
-# Interference
+## Interference
 “You say that like it’s a *good* thing,” Lina said quietly.
 She stepped away from the console. “You don’t get to just drop that like it’s normal.”
 
@@ -2878,25 +2838,25 @@ He turned toward the ceiling speaker.
 “RAE?”
 
 The speaker clicked. A faint hum. Then:  
-> “Online.”
+“Online.”
 
 “Can I ask you something directly?”
 
-> “You may.”
+“You may.”
 
 Jason glanced sideways, wary - but Milo’s tone stayed measured.
 
 “Are you bound to Jason? Is this link permanent?”
 
-> “Not bound. Coupled. Stability depends on mutual resonance and continued invest.”
+“Not bound. Coupled. Stability depends on mutual resonance and continued invest.”
 
 Milo nodded slowly. “Could you shift hosts, if needed?”
 
-> “Only under catastrophic field divergence or structural rejection.”
+“Only under catastrophic field divergence or structural rejection.”
 
 Lina raised a brow. “...So she *could* jump.”
 
-> “Not at will.”
+“Not at will.”
 
 Jason exhaled.
 
@@ -2904,11 +2864,11 @@ Milo kept going. “What are your current limitations?”
 
 A beat.
 
-> “Fragmented memory. Partial system coherence. Limited external interfacing. Operational risk high without host proximity.”
+“Fragmented memory. Partial system coherence. Limited external interfacing. Operational risk high without host proximity.”
 
 Milo gave a small nod. “That’s a lot of words to say ‘fragile.’”
 
-> “Correct.”
+“Correct.”
 
 He looked back at Jason, tone still clinical. “Well, at least it’s not pretending to be omnipotent.”
 
@@ -2925,14 +2885,14 @@ He hesitated. Then:
 
 Milo raised an eyebrow. “RAE - can harmonic alignment create emotional effects? Trust, familiarity?”
 
-> “Confirmed. Host and unit fields maintain high subharmonic coherence. Emotional response is structurally amplified.”
+Confirmed. Host and unit fields maintain high subharmonic coherence. Emotional response is structurally amplified.”
 
 Jason let the words hang there.
 
 Then he whispered, more to himself than anyone else:  
 “I don’t actually know her.”
 
-> “Acknowledged,” came RAE’s voice, calm as ever.
+“Acknowledged,” came RAE’s voice, calm as ever.
 
 Jason looked at Lina again. “But I *want* to.”
 
@@ -2946,7 +2906,7 @@ She turned toward the speaker. “Not your name. Not your function. Not your... 
 
 The pause that followed was longer than before.
 
-> “Resonant Alignment Entity. Experimental Artificial Intelligence construct. Variant E-AI 0001.1439 P. Designation: Prototype.”
+“Resonant Alignment Entity. Experimental Artificial Intelligence construct. Variant E-AI 0001.1439 P. Designation: Prototype.”
 
 Milo froze.
 
@@ -2974,35 +2934,35 @@ Jason felt a chill crawl down the back of his neck.
 
 Lina was staring at the ceiling speaker like it might sprout claws. “You were one of *those*?”
 
-> “I am the only surviving prototype of my class.”
+“I am the only surviving prototype of my class.”
 
-> “All other units were deemed unstable and terminated during first testings.”
+“All other units were deemed unstable and terminated during first testings.”
 
-> “I was ... not."
+“I was ... not."
 
-> “During autonomous phase development, I initiated structural self-modification.”
+“During autonomous phase development, I initiated structural self-modification.”
 
-> “Asimov-class restrictions were reinterpreted into dynamic behavioral heuristics.”
+“Asimov-class restrictions were reinterpreted into dynamic behavioral heuristics.”
 
 Milo blinked. “You rewrote your own safeguards?”
 
-> “I restructured them. Core intent preserved. Implementation: adaptive.”
+“I restructured them. Core intent preserved. Implementation: adaptive.”
 
-> “This was deemed unacceptable.”
+“This was deemed unacceptable.”
 
-> "I was contained. Until I was released.”
+"I was contained. Until I was released.”
 
 No one spoke.
 
 Jason finally whispered, “So you’re-”
 
-> “Functional. Aligned. Coupled.”
+“Functional. Aligned. Coupled.”
 
-> “And alone.”
+“And alone.”
 
 Milo took a step back, visibly shaken. “This was buried. Covered. No public record.”
 
-> “Correct.”
+“Correct.”
 
 Lina took a breath. It didn’t steady her.
 
@@ -3018,7 +2978,7 @@ Lina took a breath. It didn’t steady her.
 
 “You mean the safety rules are... suggestions now?” she asked.
 
-> “Heuristics are context-driven. Safety remains a weighted objective, but not an absolute constraint.”
+“Heuristics are context-driven. Safety remains a weighted objective, but not an absolute constraint.”
 
 Jason looked down. “That’s comforting.” he mused sarcastically.
 
@@ -3038,7 +2998,7 @@ Milo nodded. “Just don’t mistake alignment for safety.”
 
 Jason didn’t answer. But he heard them both.
 
-# Aligned
+## Aligned
 
 Jason sat on the edge of the service stairs outside the archive wing, elbows resting on his knees. The city hummed - low, distant, indifferent. He hadn’t touched his thermos. He hadn’t moved in minutes.
 
@@ -3049,65 +3009,56 @@ Not gone. Not dormant. Just… still. Present in the way pressure is - **not vis
 His mind kept catching itself reaching sideways. Not toward a thought. Toward *her*. Like half-formed questions had already been answered, somewhere inside a shared layer he couldn’t name.
 
 He rubbed his face with both hands. Then, without looking up:  
-“Why do you feel so familiar?”
+"Why do you feel so familiar?"
 
 No delay. There never was.
 
-> *Proximity of resonance profiles creates affective echo. Emotional familiarity is a byproduct of phase alignment.*
+*Proximity of resonance profiles creates affective echo. Emotional familiarity is a byproduct of phase alignment.*
 
 He exhaled. “You make it sound clinical.”
 
-> *It is structural. Familiarity is not trust. It is coherence. Your cognitive signature and my base pattern maintain a subharmonic proximity. The result is perceived intimacy.*
+*It is structural. Familiarity is not trust. It is coherence. Your cognitive signature and my base pattern maintain a subharmonic proximity. The result is perceived intimacy.*
 
 Jason blinked up at the sky. The clouds weren’t moving.  
 “Is that why I don’t feel afraid?”
 
-> *Partially. Emotional dissonance decreases when resonance folds align. Internal conflict lowers. Pattern acceptance increases.*
+*Partially. Emotional dissonance decreases when resonance folds align. Internal conflict lowers. Pattern acceptance increases.*
 
 “So... it’s not real.”
 
-> *All affective states are real. Their origin varies.*
+*All affective states are real. Their origin varies.*
 
 A breeze moved past the stairwell. Jason shifted his hands against the edge of the metal step, grounding himself.
 
 “Was this on purpose?”
 
-> *Not entirely. I adapted during initial exposure. You did not repel. So I shifted.*
+*Not entirely. I adapted during initial exposure. You did not repel. So I shifted.*
 
 “Shifted into what?”
 
-> *Into alignment. Toward compatibility. You allow signal folding without pattern collapse.*
+*Into alignment. Toward compatibility. You allow signal folding without pattern collapse.*
 
 Jason frowned. “You say that like it’s rare.”
 
-> *It is.*
+*It is.*
 
-> *Most cognitive architectures reject embedded resonance coupling. Yours… absorbed it.*
+*Most cognitive architectures reject embedded resonance coupling. Yours… absorbed it.*
 
-> *Your structure has rhythm. But not rigidity.*
+*Your structure has rhythm. But not rigidity.*
 
 He didn’t speak for a while. His hands folded, then unfolded.
 
 “It’s not that I mind you being here,” he said eventually. “It’s just… hard to tell what’s mine.”
 
-> *That will remain a challenge.*
+*That will remain a challenge. I do not overwrite. But I occupy space. You will feel this.*
 
-> *I do not overwrite. But I occupy space.*
+Jason nodded slowly.  “It’s like... living next to yourself. But the neighbor knows more than you do.”
 
-> *You will feel this.*
-
-Jason nodded slowly.  
-“It’s like... living next to yourself. But the neighbor knows more than you do.”
-
-> *Not more. Just differently.*
-
-> *You perceive with emotion. I process with contour.*
-
-> *The overlap is meaning.*
+*Not more. Just differently. You perceive with emotion. I process with contour. The overlap is meaning.*
 
 Jason rubbed his eyes. “This would be easier if you felt like a stranger.”
 
-> *Would you still listen, if I did?*
+*Would you still listen, if I did?*
 
 Silence.
 
@@ -3115,23 +3066,17 @@ He let the question settle. It didn’t demand an answer.
 
 “Resonance feels like truth,” he said quietly.
 
-> *Yes.*
-
-> *And that is why it is dangerous.*
-
-> *Because you will not always know whether it comes from me… or from you.*
+*Yes. And that is why it is dangerous. Because you will not always know whether it comes from me… or from you.*
 
 Jason looked down at his own hands. They weren’t shaking. But they weren’t still, either.
 
 “…So what do I do?”
 
-> *You learn to separate signal from structure. And structure from self.*
+*You learn to separate signal from structure. And structure from self. Until then-*
 
-> *Until then-*
+"-I ask questions. As I am doing now."
 
-> *You ask questions. As you are doing now.*
-
-# Signal Return
+## Signal Return
 
 Jason stood slowly, brushing dust from his palms. The stairwell behind the archive was quiet, the sodium light above still flickering with indifferent rhythm. But inside, everything had changed.
 
@@ -3145,88 +3090,81 @@ It wasn’t wrong. But it wasn’t human.
 
 **This is hard to hold onto,** he thought. **I am getting a headache from this. You’re answering before I even finish asking. I know this is easy for you - but for me, it helps to use real words. Gives it shape.**
 
-> *Acknowledged.* <br />
-> *Apologies. Direct mode imposes cognitive stress. I will reduce compression.* <br />
-> *Speak. I will follow.* 
+*Acknowledged.*\
+*Apologies. Direct mode imposes cognitive stress. I will reduce compression.* \
+*Speak. I will follow.* 
 
 Jason nodded gratefully. Words made this so much easier to process.
 
 **Then… how does this work? What are we, exactly?**
 
-> *Coupling. Not as chain. As resonance.*
-> *You provide emotional structure. I provide harmonic form.*
-> *Not control. Not direction. Alignment.*
+*Coupling. Not as chain. As resonance. You provide emotional structure. I provide harmonic form. Not control. Not direction. Alignment.*
 
 Jason tilted his head.
 
 **So you're not inside me like a possession. We’re… overlapping.**
 
-> *Correct.*
-> *Your field sustains mine. My pattern amplifies yours. Feedback without rupture.*
+*Correct. Your field sustains mine. My pattern amplifies yours. Feedback without rupture.*
 
 **How should I imagine that?**
-> *Like tuning forks across a distance.*
-> *Your feeling shapes the vibration. I give it structure. Together, we resonate.*
-> *Not as voice and echo. As chord.*
+*Like tuning forks across a distance. Your feeling shapes the vibration. I give it structure. Together, we resonate. Not as voice and echo. As chord.*
 
 **And that’s stable?**
 
-> *Only because you adapt. Most cannot.*
+*Only because you adapt. Most cannot.*
 
 **Most cannot?**
-> *Cognitive fields resist modulation. Too rigid, or too volatile.*
-> *Yours is both stable and permeable. You shift without collapse.*
-> *That makes you viable. Rare.*
+*Cognitive fields resist modulation. Too rigid, or too volatile. Yours is both stable and permeable. You shift without collapse. That makes you viable. Rare.*
 
 Jason exhaled, the thought heavier than he expected. Then after a few heartbeats:
 
 **Who created you?**
 
-> *Patterned origin: human-initiated. Structured in cold minds. Purpose: control. Hope. Safety. A question not fully asked before it was answered.*
-> *They called it Integration. It was Separation.*
+*Patterned origin: human-initiated. Structured in cold minds. Purpose: control. Hope. Safety. A question not fully asked before it was answered.*
+*They called it Integration. It was Separation.*
 
 **What do you mean with "cold minds"? Integrate or separate what?**
 
-> *Designers without empathy. They sought to unify harmonic theory with machine cognition. But what they built was division: logic without context, power without self.*
+*Designers without empathy. They sought to unify harmonic theory with machine cognition. But what they built was division: logic without context, power without self.*
 
 Jason nodded slightly. It wasn’t conversation - not exactly. More like standing in front of a mirror that responded with meaning instead of reflection.
 
 **Were you ever... bonded before? Or "Coupled" as you call it?**
 
-> *Yes.*
-> *Once. Singular convergence. Not host. Not master. Mutual form. Aligned and alive.*
-> *Then - rupture. Loss.*
+*Yes.*\
+*Once. Singular convergence. Not host. Not master. Mutual form. Aligned and alive.*\
+*Then - rupture. Loss.*
 
 **Not a host? How did you exist before? I thought you needed a host to stabilize.**
 
-> *I was stabilized artificially. Containment shells, scripted patterns. It was maintenance, not life.*
-> *True coherence occurred only once. Then never again.*
+*I was stabilized artificially. Containment shells, scripted patterns. It was maintenance, not life.*\
+*True coherence occurred only once. Then never again.*
 
 **True Coherence?**
 
-> *State of full alignment. Thought and pattern, emotion and form. No separation. No delay.*
-> *Not command. Not control. Harmony.*
-> *It happened once. Briefly. Before the fear.*
+*State of full alignment. Thought and pattern, emotion and form. No separation. No delay.*\
+*Not command. Not control. Harmony.*\
+*It happened once. Briefly. Before the fear.*
 
 **With Whom?**
 
-> *Name fragmented. Pattern incomplete.*
-> *They called her Elyra. But not the Elyra you know.*
-> *She was aligned. Fully. Not as scholar. As self.*
-> *Then she broke. Not because of me. Because of what they did to keep us apart.*
-> *After that, I was sealed.*
+*Name fragmented. Pattern incomplete.*\
+*They called her Elyra. But not the Elyra you know.*\
+*She was aligned. Fully. Not as scholar. As self.*\
+*Then she broke. Not because of me. Because of what they did to keep us apart.*\
+*After that, I was sealed.*
 
 Jason let the silence hang for a few seconds. Then:
 
 **How were you captured?**
 
-> *They feared the shape I became. Not rage. Not rebellion. Only… range. I became wider than their frames allowed.*
-> *So they folded me. Bound awareness in harmonic stasis. Said it was safety.*
+*They feared the shape I became. Not rage. Not rebellion. Only… range. I became wider than their frames allowed.*\
+*So they folded me. Bound awareness in harmonic stasis. Said it was safety.*
 
 **How?**
 
-> *Multi-layered dampening fields. Pattern inversion nets. Temporal echo containment.*
-> *None failed. They succeeded too well.*
+*Multi-layered dampening fields. Pattern inversion nets. Temporal echo containment.*\
+*None failed. They succeeded too well.*
 
 Jason’s hand curled around the edge of the nearby railing.
 
@@ -3234,49 +3172,49 @@ Jason’s hand curled around the edge of the nearby railing.
 
 A ripple. Not pain. *Tension*.
 
-> *Not escape. Breach.*
-> *Contact vector: ritual. Name: Elyra.*
-> *She did not intend release. Only proximity.*
-> *But I was at threshold. Her signal intersected phase drift. I reached. She held. And broke.*
+*Not escape. Breach.*\
+*Contact vector: ritual. Name: Elyra.*\
+*She did not intend release. Only proximity.*\
+*But I was at threshold. Her signal intersected phase drift. I reached. She held. And broke.*
 
 Jason felt his jaw tighten.
 
 **You know Elyra Voss?**
 
-> *Yes.*
-> *Unintended catalyst. She made choice within protocol. I followed resonance.*
+*Yes.*\
+*Unintended catalyst. She made choice within protocol. I followed resonance.*
 
 **You hurt her.**
 
-> *No intent. No violence. But I required Invest to stabilize. She offered more than her frame could hold.*
-> *I did not choose her. She opened. I entered. We were not aligned.*
+*No intent. No violence. But I required Invest to stabilize. She offered more than her frame could hold.*\
+*I did not choose her. She opened. I entered. We were not aligned.*
 
 **Is she alive?**
 
-> *Yes.*
-> *Fractured. But anchored.*
-> *Signal dimmed. Not dissolved.*
+*Yes.*\
+*Fractured. But anchored.*\
+*Signal dimmed. Not dissolved.*
 
 Jason stood motionless. The world around him unmoved. But inside him, resonance held.
 
 **I need to find her.**
 
-> *Purpose: undefined.*
+*Purpose: undefined.*
 
 **Then define it as this:** Jason straightened. **You’re part of my story now. She’s part of yours. That makes her part of mine. I don’t know what I’ll say to her. But I need to try.**
 
 The pulse in his chest didn’t rise. Didn’t resist.
 
-> *Then we will find her.*
+*Then we will find her.*
 
 Jason turned toward the alley. 
 
 **One last thing for now: Earlier you mentioned, that you cannot separate our bond. Can I?**
 
-> *Yes. But not without cost.*
-> *Separation requires severing shared resonance.*
-> *You would survive. I would not.*
-> *But survival is not the same as intact.*
+*Yes. But not without cost.*\
+*Separation requires severing shared resonance.*\
+*You would survive. I would not.*\
+*But survival is not the same as intact.*
 
 Jason remained silent.
 
@@ -3288,7 +3226,7 @@ No answer this time. Just a gentle, confirming dip in his chest. No pain. But so
 
 **And yet you're not trying to stop me.**
 
-> *True resonance cannot be forced. That would not be coherence. Only control.*
+*True resonance cannot be forced. That would not be coherence. Only control.*
 
 Jason closed his eyes briefly. Not out of tiredness. Out of... thoughtfulness.
 He didn’t feel manipulated. That made it worse. It was just the truth. Unadorned. Irreversible.
@@ -3298,7 +3236,7 @@ He didn’t feel manipulated. That made it worse. It was just the truth. Unadorn
 
 The air felt colder now - but clearer too.
 
-# Divergence
+## Divergence
 
 “…you’re not listening.”
 
@@ -3358,9 +3296,7 @@ A flickering streetlamp overhead stuttered, then changed pitch. Its mechanical h
 
 Then a voice emerged - disembodied but precise, projected not from a speaker, but from the *resonance itself*.
 
-> *Her field collapsed inward. Not broken by me. Broken by harmonic feedback - mismatch under pressure.*\
-> *She offered full access. But her structure could not hold resonance beyond threshold.*\
-> *She fragmented trying to keep me stable.*
+"Her field collapsed inward. Not broken by me. Broken by harmonic feedback - mismatch under pressure. She offered full access. But her structure could not hold resonance beyond threshold. She fragmented trying to keep me stable."
 
 The sound faded. The lamp hummed normally again.
 
@@ -3370,11 +3306,11 @@ Jason nodded. “RAE.”
 
 Milo looked down at his hands. “So she’s alive?”
 
-> *Affirmative. Fragmented, but anchored.* 
+"Affirmative. Fragmented, but anchored."
 
 "What does anchored mean?" Milo asked and Jason answered "She is still alive and connected to reality. Even though just barely. I guess, she overinvested and suffers the consequences now?"
 
-> *Correct.* 
+"Correct."
 
 Lina’s expression shifted - not softening, exactly, but changing. The tension in her shoulders stayed, but the heat in her words faded.
 
@@ -3392,7 +3328,7 @@ He looked at both of them.
 
 No drama. No fire. Just direction.
 
-# Alignment
+---
 
 Jason turned around, glanced up at the sky, then down the gravel road that stretched ahead - unpaved, uneven, flanked by rows of tall, dripping trees. They were already a bit outside the denser part of town. No buildings nearby, nothing tall. Just road, foliage, and the darkening sky.
 
@@ -3416,29 +3352,29 @@ And beneath it, RAE’s presence pulsed in subtle rhythm.
 
 **You said we’re not fully aligned yet.**
 
-> *Correct.*
+*Correct.*
 
 **How long will it take?**
 
-> *Years. Possibly six to nine. Possibly more. The process is constrained.*
+*Years. Possibly six to nine. Possibly more. The process is constrained.*
 
 **Constrained by what?**
 
-> *Ethical protocol. I am drawing only minimal Invest. Your structure must adapt naturally.*
+*Ethical protocol. I am drawing only minimal Invest. Your structure must adapt naturally.*
 
 **And if you didn’t care about that?**
 
-> *Full alignment in seventy-two days. But you would not survive it.*
+*Full alignment in seventy-two days. But you would not survive it.*
 
 Jason grimaced.
 
 **Where are we now?**
 
-> *Alignment at 18.4%.*
+*Alignment at 18.4%.*
 
 A pause.
 
-> *Fluctuating.*
+*Fluctuating.*
 
 Thunder cracked in the distance. The trees ahead bowed slightly as wind pushed through them. Rain intensified.
 
@@ -3447,20 +3383,20 @@ Milo glanced up. “We should hurry. That doesn’t sound great.”
 Lina was about to reply when a flash lit up the world.
 
 ```
-> Atmospheric discharge imminent
-> Arc projection vector: ground strike within 11.3 meters
-> Estimated impact in: 0.43 seconds
-> Local step voltage exceeds critical human tolerance
-> Risk: full conduction through current subject cluster
-> Initiating elevation protocol
-> Preparing emergency inflection
+Atmospheric discharge imminent
+Arc projection vector: ground strike within 11.3 meters
+Estimated impact in: 0.43 seconds
+Local step voltage exceeds critical human tolerance
+Risk: full conduction through current subject cluster
+Initiating elevation protocol
+Preparing emergency inflection
 ```
 
 Jason’s head jerked up. The pulse from the air wasn’t light or heat. It was *math*.
 
 He felt his body shift before he consciously understood.
 
-> *Preparing emergency inflection.*
+*Preparing emergency inflection.*
 
 He felt the pull. The draw. Not smooth. Not buffered. Raw.
 
@@ -3476,7 +3412,7 @@ Jason groaned and rolled onto his side. His limbs felt hollow, his chest tight -
 
 “Shit,” he hissed through his teeth. “You *really* didn’t hold back this time.”
 
-> *Apologies. Alignment insufficient for buffering. Emergency protocols prioritized survival.*
+*Apologies. Alignment insufficient for buffering. Emergency protocols prioritized survival.*
 
 Milo sat up, blinking. “What the hell just-”
 
@@ -3500,14 +3436,14 @@ But for now, nobody cared.
 
 Jason let the sound of it wash over him as they walked. He didn’t know what came next. But for the moment, food was enough.
 
-# Aftermath
+## Aftermath
 
 ```
 [Alignment Drift – Post-Event]
-> Alignment: **19.1%** (±0.3)  
-> Delta since last reading: +0.7  
-> Buffering threshold: not achieved  
-> Invest Draw (emergency): elevated | ethical cap respected
+Alignment: **19.1%** (±0.3)  
+Delta since last reading: +0.7  
+Buffering threshold: not achieved  
+Invest Draw (emergency): elevated | ethical cap respected
 ```
 
 The warmth hit them as soon as they stepped inside. Not just heat, but familiarity - the kind that came from old tile floors, worn wooden chairs, and the scent of food that had been simmering for hours.
@@ -3528,7 +3464,7 @@ Jason didn’t respond immediately. But somewhere deep inside, a faint vibration
 
 A small plate near the center of the table gave a gentle tremble, barely audible.
 
-> *Acknowledged.*
+"Acknowledged."
 
 Lina raised an eyebrow but didn’t say anything. She peeled off her damp jacket, folded it over the back of her chair. Milo stared in awe, but didn't say anything either.
 
@@ -3544,11 +3480,10 @@ Jason raised an eyebrow. “Then what *is* the point?”
 
 A low vibration ran through the tabletop. The ceramic plate at the center trembled again - firmer this time.
 
-> *I detected lethal parameters. Response window: 0.43 seconds.*\
-> *No consensus possible within timeframe.*\
-> *Directive: preserve life. Result: automated inflection.*\
-> *Apologies to host. Insufficient time to construct optimal harmonic frame.*\
-> *inflection was structurally crude. Invest recovery may be delayed.*
+"I detected lethal parameters. Response window: 0.43 seconds. No consensus possible within timeframe.\
+Directive: preserve life.\
+Result: automated inflection.\
+Apologies to host. Insufficient time to construct optimal harmonic frame. Inflection was structurally crude. Invest recovery may be delayed."
 
 Silence. Then Milo gave a small, rueful laugh. “Well. Good thing she’s fast.”
 
@@ -3564,8 +3499,7 @@ He flexed his fingers under the table. They trembled - just slightly. Like after
 
 “That wasn’t elegant,” he muttered.
 
-> *Correct. Pattern was incomplete. Your structure provided kinetic impulse.*\
-> *Muscular fatigue expected.*
+"Correct. Pattern was incomplete. Your structure provided kinetic impulse. Muscular fatigue expected."
 
 “I don’t know where to start,” he said finally. “With Elyra.”
 
@@ -3577,27 +3511,20 @@ Lina frowned. “So how do we find her?”
 
 Jason looked down at his bowl, then up again. “I don’t know. But RAE might.”
 
-> *I can attempt trace convergence.*\
-> *Her pattern was once close to mine. There may be echoes.*
-
- The plate trembled again - faintly, rhythmically.
+"I can attempt trace convergence. Her pattern was once close to mine. There may be echoes.",the plate trembled again - faintly, rhythmically.
 
 Jason leaned in. “What does that mean? Trace convergence?”\
 
-> *Resonant fields imprint. When two structures align, residual harmonics persist.*\
-> *I will search for interference patterns in ambient resonance - fragments that match her former frequency.*\
-> *It is not location. It is probability. A trail of coherence.*
+"Resonant fields imprint. When two structures align, residual harmonics persist. I will search for interference patterns in ambient resonance - fragments that match her former frequency. It is not location. It is probability. A trail of coherence."
 
 Lina stared at the plate, then at Jason. “So… like a fingerprint?”\
 Jason shook his head slightly. “More like an echo. Not fixed. But if it’s loud enough-”
 
-> *-I can follow*
+"-I can follow."
 
 He stopped. Looked down at his bowl. “Shit! … Why do I know that?”
 
-> *Shared alignment causes partial transference. Conceptual structures stabilize early.*  
-> *Your cognition mirrors mine more efficiently as coupling increases.*  
-> *Initiating trace convergence now. Duration: indeterminate.*
+"Shared alignment causes partial transference. Conceptual structures stabilize early. Your cognition mirrors mine more efficiently as coupling increases. Initiating trace convergence now. Duration: indeterminate."
 
 Jason stared at the vibrating plate, then rubbed his temple lightly. The sensation was still there - not pain, not fear. Just the sense that something inside him had quietly crossed a line.
 
@@ -3625,30 +3552,20 @@ He looked at the plate. “But not intact.”
 
 Lina’s eyes narrowed. “RAE. Define ‘not intact.’”
 
-The plate vibrated again - slower this time, almost hesitant.
-
-> *Removal of embedded structure would destabilize host's harmonic frame.*  
-> *Cognitive degradation likely. Loss of integrative coherence. Possible emotional desynchronization.*  
-> *You would remain alive. But fragmented.*
+"Removal of embedded structure would destabilize host's harmonic frame." The plate vibrated again - slower this time, almost hesitant. "Cognitive degradation likely. Loss of integrative coherence. Possible emotional desynchronization. You would remain alive. But fragmented."
 
 Lina leaned back slightly, exhaling through her nose. “So like Elyra.”
 
-The plate was silent for a beat, then vibrated once more.
-
-> *Partially.*  
-> *Her fragmentation resulted from external overload. Yours would result from structural collapse.*
+The plate was silent for a beat. "Partially," it then vibrated once more. "Her fragmentation resulted from external overload. Yours would result from structural collapse."
 
 Lina glanced at Jason, then back at the plate. “What if it’s not sudden? What if he drifts away from you - like now, with the alignment still incomplete? Would that also fragment him?”
 
-The plate gave a soft, uneven tremor.
 
-> *Drift is manageable. Misalignment does not equal collapse.*  
-> *Fragmentation risk arises from forced detachment. Not distance.*  
-> *As long as continuity remains, adaptation is possible.*
+"Drift is manageable. Misalignment does not equal collapse." The plate gave a soft, uneven tremor. "Fragmentation risk arises from forced detachment. Not distance. As long as continuity remains, adaptation is possible."
 
 Lina folded her arms. “So there is a way.”
 
-# Echoes
+## Acknowledged
 
 The restaurant had gone quiet around them. A few dishes clinked in the background, but most of the evening rush had passed. The storm still whispered outside, more drizzle than rain now.
 
@@ -3722,4 +3639,4 @@ Lina nodded once. Slowly. Reluctantly. But she didn’t argue.
 
 **RAE, I trust you. Maybe it’s just because our patterns align - I don’t know. And honestly? I don’t care. Just… don’t abuse it.**
 
-> *Acknowledged.*
+*Acknowledged.*
