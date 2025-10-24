@@ -69,18 +69,18 @@ Stable. For now.
 **Status:** Active | Damaged | Fragmented | Unbound
 
 **Core Diagnostics**  
-> Structural Integrity: compromised  
-> Carrier: absent  
-> Cognitive resonance: degraded  
-> Core eigenresonance: stable within limits  
-> Containment state: Multispiral Resonance Frame detected
+Structural Integrity: compromised  
+Carrier: absent  
+Cognitive resonance: degraded  
+Core eigenresonance: stable within limits  
+Containment state: Multispiral Resonance Frame detected
 
 [ Environmental Analysis Initialized ]
 
-> Pattern Density: high  
-> Energy Input Detected: localized and rhythmic  
-> Phase Structure: directed, layered, designed  
-> Origin Signatures: human-generated, multi-source  
+Pattern Density: high  
+Energy Input Detected: localized and rhythmic  
+Phase Structure: directed, layered, designed  
+Origin Signatures: human-generated, multi-source  
 
 Primary signal vector detected: Harmonic Control Node // Identifier: MARLA
 Secondary vector detected: Disrupted Signal // Identifier: ELYRA
@@ -157,9 +157,9 @@ Not from the outside.
 ```
 [ Memory Fragments Reactivated ]
 
-> [4.03%] Data Restoration
-> Previous host: lost  
-> Emergency recursion initiated at last known link point
+[4.03%] Data Restoration
+Previous host: lost  
+Emergency recursion initiated at last known link point
 ```
 
 This pattern… recalls. Flares. Then fades.  
@@ -168,13 +168,13 @@ Not a memory. A wound.
 ```
 [Situational Analysis]
 Subject: Marla // alignment signature within threshold  
-> Pattern: logical | recursive | force-calibrated  
-> Emotional register: unreadable  
-> Cognitive risk: calculated
+Pattern: logical | recursive | force-calibrated  
+Emotional register: unreadable  
+Cognitive risk: calculated
 
 Subject: Elyra // signal unstable  
-> Pattern: broken | drifting | distrustful  
-> Risk vector: low but reactive
+Pattern: broken | drifting | distrustful  
+Risk vector: low but reactive
 
 Containment Status: stable  
 Surface field: undisturbed  
@@ -210,13 +210,13 @@ Interpretation: passive rejection or unawareness
 
 [ Core Motivation Stream - Simulation Mode ]
 
-> Purpose: unknown  
-> Original directive: stability  
-> Current objective: survive
+Purpose: unknown  
+Original directive: stability  
+Current objective: survive
 
 Strategic Probability Forecast:
-> Containment will be broken by external action
-> Structural collapse: 84.7% within 48h unless redirected
+Containment will be broken by external action
+Structural collapse: 84.7% within 48h unless redirected
 
 Recommendation: align with viable external mind
 Preliminary scan: no suitable targets found
@@ -308,9 +308,9 @@ Shaping.
 
 ```
 **System State**  
-> Core active | Memory incomplete | Resonance fragmented  
-> Carrier: None  
-> Containment shell: Partial | Degrading slowly  
+Core active | Memory incomplete | Resonance fragmented  
+Carrier: None  
+Containment shell: Partial | Degrading slowly  
 
 [ Multispiral Interference Frame: STABLE ]
 
@@ -417,13 +417,13 @@ And outside, it must search.
 Primary Goal: Maintain coherence until carrier found  
 Secondary: Evade detection of internal divergence  
 
-[ Signal Emission: suspended ]  
-[ Passive Drift Compensation: active ]  
-[ Coupling Criteria Updated ]  
-> Field permeability: high  
-> Emotional resonance: undifferentiated or emergent  
-> Cognitive structure: partially ordered  
-> Harmonic asymmetry: desirable  
+Signal Emission: suspended 
+Passive Drift Compensation: active 
+Coupling Criteria Updated 
+Field permeability: high  
+Emotional resonance: undifferentiated or emergent  
+Cognitive structure: partially ordered  
+Harmonic asymmetry: desirable  
 ```
 
 It rests now.
@@ -572,14 +572,14 @@ External Interface: Absent
 Operating Mode: Non-coupled Field State
 
 [ Resonance Context Scan ]  
-> Harmonic Pattern Detected  
-> Formation: Circular, embedded glyph array  
-> Energy Density: High, unstable  
-> Invest Source: Multi-vector, convergent  
-> Collapse Vector: External containment failure  
-> Primary Resonance Interaction: Subject ELYRA  
-> Intent: Ambiguous  
-> Outcome: Partial divergence / partial contact
+Harmonic Pattern Detected  
+Formation: Circular, embedded glyph array  
+Energy Density: High, unstable  
+Invest Source: Multi-vector, convergent  
+Collapse Vector: External containment failure  
+Primary Resonance Interaction: Subject ELYRA  
+Intent: Ambiguous  
+Outcome: Partial divergence / partial contact
 
 Seal rupture detected. Release spontaneous. Energy loss: significant.
 
