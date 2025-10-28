@@ -162,6 +162,16 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** A final strike **far too regular** to be natural.
 **Locks:** Timing pattern informs later tower decoding.
 
+**Debrief (for Outline)**
+
+- **Windows:** Jason tolerates three‑beat listen cycles without spike under wind. Hand shielding fixes clip chatter.
+- **Carriers:** clip → tarp grommet → clip (clean). No spill.
+- **Weather:** antagonistic, honest.
+- **Data:** refuses known shapes; intervals trend to **9** and **27**.
+- **Head:** yellow → stable. *Red* never approached. Salt worked.
+- **Use later:** the cadence window.
+- **Note:** repeated micro‑signature detected under final **9‑9‑9** sequence; Jason registered but did not respond.
+
 ### Ch. 13 — **Archive Sabotage**
 **Purpose:** Show the opposition’s reach inside institutions.
 **Setting Anchors:** Archive server room; air‑cold aisles; tape library; login kiosk.
@@ -169,6 +179,17 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Files vanish; Jason recovers from shadow backups; RAE exposes hidden caches; **one file** remains encrypted and **uncopyable**.
 **Exit Image:** The Gen‑3 monitor blinks once, then refuses to wake.
 **Locks:** Encrypted file appears again post‑ritual.
+
+**Debrief (for Outline)**
+
+- **Purpose met:** Yes. **Milo identified** the false‑bottom cron (**HOUSEKEEPING.CRON**) spoofing a font cache; live store scrubbed; tapes selectively blanked & re‑indexed to hide loss. Parent trace resolves to fleet asset `CITY‑OPS‑DM‑17` → suggests **Malvek‑adjacent reach** without naming him.
+- **Wins:** Recovered **transit telemetry** (lane stutter at 22:09) and **orphaned cache silhouettes** (gap railing, jacket edge). **Milo set** a **local tripwire** to capture the next sweep fingerprint. Confirmed detour flag set to *persist* in municipal route logic.
+- **RAE’s role:** Rode rack ground; performed fragment folding → silhouettes only (no faces). Strong ethics: no faces, no names, low emission.
+- **The Lock:** Scan artifact `EXCEPTION_NODE_3G‑LX9981‑VOSS` (embedded encryption at scan time) is **uncopyable**; logged by hand + off‑axis photo; left untouched. This **file must reappear** post‑ritual.
+- **Exit image:** Wall‑mounted **Gen‑3 monitor** LED blinked once, then refused to wake. No further field action.
+- **Opsec & channel:** Stayed **slow channel**; breaks enforced; pastry compliance high. No Red events. Building defended itself with routine rather than alarms.
+- **Next:** Move to **Resonance Market** for gear and a docile monitor eye; maintain tripwire watch; prep a safe room for later controlled look at VOSS keyspace (only if we own the table and the doors).
+
 
 ### Ch. 14 — **Resonance Market**
 **Purpose:** Expand the world; show economics and gossip vectors.
@@ -178,6 +199,17 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Crowd sound dips as if a fader pulled down.
 **Locks:** Vendor can leak their presence; Lina’s exposure matters later.
 
+**Debrief (for Outline)**
+
+- **Market norms & opsec:** cash only; first names or none; vendors probe with familiarity. Pure single‑tone demos are common—**RAE hard‑mutes** under sustained pure notes; team practiced the quiet exit.
+- **Parts acquired:** ceramic resonator discs (clean), ferrite rods, aluminum rails + hardware, grounding strap, wire brushes, braided copper, one **Gen‑3 monitor “eye”** (docile temperament), jar of mid‑order **corelets** (baseline sample). No active cores purchased. Added: Faraday pouch; battery sleeves & tester; washers; scope‑rental info; swap‑bin jumpers.
+- **Cores taxonomy learned:** corelets (low‑order, decouple on bias release); mid‑order (prefer company; split = seeking); **cold cores** (spent, stable, judging); **fresh cores** (hungry → unsafe in small rooms). Handling etiquette captured (warmth → hand to Jason/grounded metal; ticking → put down).
+- **Bench Scale protocol:** every stop logged with a 0–5 rating and immediate departure to prevent stall gravity. High marks: Repair Bench (4.2), Faraday Pouches (4.1), Field Coils (4.0). Low marks: Artisanal tone box (1.4), Schematics tarp (1.9). Non‑booth encounter (Dorian) logged as message, not vendor.
+- **Pressure thread:** vendor at “CORES BOUGHT & SOLD” addressed **Lina by name**; second contact (**Dorian**) appeared specifically to be seen and to signal access to her family.
+- **World signal:** the market sound **dipped like a pulled fader** under a pure‑tone demo; confirms public spaces are intermittently hostile to RAE’s voice.
+- **Locks:** Vendor and Dorian can leak their presence; Lina’s exposure matters later; corelets will resonate near strong stable shapes (use as breadcrumb / lab sample). Faraday pouch procurement supports later opsec scene.
+- **Next:** log inventory; test the “eye” safely (no power); corelet storage in paper‑lined tin; refine clip stacks with the new ceramics; avoid artisan tone boxes; decide whether to try PATCH‑PANEL night hours under controlled conditions.
+
 ### Ch. 15 — **Network Leak**
 **Purpose:** Give Milo a hero turn; show digital stakes.
 **Setting Anchors:** Shared workspace at night; snack wrappers; status windows; alley for the chase.
@@ -185,6 +217,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Milo finds a hole in Malvek’s net; pulls data; short foot/bike chase; narrow escape; on‑screen blinks a **symbol** no one recognizes.
 **Exit Image:** Symbol persists after power‑cycle, then vanishes.
 **Locks:** Symbol links to Open‑arc shadow.
+**Reference:** Dungeon Crawler Carl - Milo nach einem gelungenen Hack: „Kein Boss-Drop, nur Zusatzquest.“ (Sein Terrain und tonal passend.)
 
 ### Ch. 15.5 — **Street Line**
 **Purpose:** Prove that *pure melody* can quiet RAE; team trains **without** the voice.  
@@ -217,6 +250,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Mapping shows loops tracking river bones; a geometric **reflection** appears with no optical cause; they mark the angle and time.
 **Exit Image:** The water returns to featureless black.
 **Locks:** Angle/time feed Elyra’s later lesson on *listening to flow*.
+**Reference**: Setting: stillgelegte Schleuse, schmierige Stufen, schwarzes Wasser, Algenringe. Perfekt für einen ruhigen, leicht unheimlichen Beat mit einem Hobby-Angler am Rand oder einem „improvisierten“ Mess-Angel-Moment der Crew. Hier könnte Milo beim Blick auf eine „Nicht angeln“-Tafel trocken „heretical fishing“ murmeln — oder Jason benutzt eine simple Leine als Feld-Sensor („wir angeln Loops, nicht Barsche“) und nennt es selbstironisch so. Passt visuell und knüpft direkt an das Motiv „Wasser = Drift/Flow“ an.
 
 ### Ch. 17.5 — **Tower Decoding**
 **Purpose:** Turn lightning cadence into a working send‑scheme.  
@@ -286,6 +320,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** RAE trims flow; Jason moves a shape across his body without leakage; Milo detects **extraneous vibration**.
 **Exit Image:** Lina’s clap lands exactly on Jason’s stable beat.
 **Locks:** Extraneous vibration matches later interference signature.
+**Reference:** Dune - Atem/Disziplin/Alltag—ein trockener Verweis auf Askese/Wasser-Haushalt funktioniert da im Dialog.
 
 ### Ch. 4 — **Listening to Resonance**
 **Purpose:** Differentiate hums; respect silence.
@@ -326,6 +361,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Debate: restraint as strength vs. fear; Milo grounds with logistics; a **plant shifts** without draft when tempers spike.
 **Exit Image:** Silence; everyone notices the still plant.
 **Locks:** Plant reacts again during ritual stress.
+**Reference:** He WHo FightsW With Monsters - Philosophy Fight. Küchentisch, Tee, Regen am Sims; Streitpunkt „Zurückhaltung = Stärke“ vs. „Schutzinstinkt“. Genau hier darf Jason seine Ethik markieren — nicht als Pose, sondern als Grenze: “I may share a name with him, but I am not ‘He who fights with monsters’. If this turns me into one, we’re doing it wrong.” Das legt sein Leitmotiv „precision > force, listening > casting“ offenkundig fest und gehört in diesen Debatten-Beat.
 
 ### Ch. 7 — **Small Mission**
 **Purpose:** Field test with interference.
@@ -438,6 +474,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Slice of ritual run; unexpected field response; analysis; plan adjusted; Elyra asks if Jason “believes in **repetition**.”
 **Exit Image:** Tape lifts at one spot like it *breathed*.
 **Locks:** Repetition principle anchors final ritual cadence.
+**Reference:** Mother of Learning - Elyras „Glaubst du an Wiederholung?“ ist praktisch eine Einladung für einen Loop-Witz von Milo.
 
 ### Ch. 14 — **Last Lesson**
 **Purpose:** Integrate; acknowledge readiness.

@@ -115,7 +115,7 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
   RAE is heard **via a named carrier** (see callout rule below). Whisper-Clips are just a carrier for this rule.
 
 **Carrier callout rule:** 
-  Name the carrier **once** when RAE first speaks (e.g., "RAE, through the whisper-clip"). 
+  Name the carrier **once** when RAE first speaks through that carrier (e.g., "RAE, through the whisper-clip"). 
   **Name it again only if RAE switches carriers.**
 
 ### When communication is **internal** (Jason ↔ RAE only)
@@ -128,6 +128,9 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
   2. **RAE** replies in **italics** (Markdown `*...*`).
 - Internal communication is known only to Jason and RAE. Nobody else knows about it's content and therefore cannot react to it.
 - Internal communication is ALWAYS possible.
+- Internal communication ist not speaking or saying, so use only words, that don't explicitly need to be verbal. 
+    Good examples: convey, note, signal, indicate, send, pushed, expressed, relay, observe, clarify, warn, ....
+    Bad Examples: speak, say, shout, articulate, yell, whisper, mumble, chat, ...
 
 ### Whisper-clips
 Whisper-clips are a carrier of first choice and are preffered over other carriers. 
