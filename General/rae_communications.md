@@ -119,18 +119,21 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
   **Name it again only if RAE switches carriers.**
 
 ### When communication is **internal** (Jason ↔ RAE only)
+Internal communication is ALWAYS possible - but not necessearyly preferred.
+Internal communication is known only to Jason and RAE. Nobody else knows about it's content and therefore cannot react to it.
+Internal communication ist not speaking or saying, so use only words, that don't explicitly need to be verbal. 
+    Good examples: convey, note, signal, indicate, send, pushed, expressed, relay, observe, clarify, warn, ....
+    Bad Examples: speak, say, shout, articulate, yell, whisper, mumble, chat, ...
 
-- **Condition:** 
-  1. Only Jason is present. Internal communication takes the least toll. 
+If someone else than Jason must be possible to react on something RAE communicates, then it needs to be open communication, which is actually preferred over internal communication. However, there are some conditions, where only internal communication is possible or preferred, because internal communication takes the least toll. 
+
+**Condition:** 
+  1. Only Jason is present.
+    If only Jason is present or it is only to him and him alone - no other must or needs to know, internal communication is actually preferred over open communication. 
   2. Non-Trusted People are present and there are sensitive content concerns that make privacy very essential.
 - **How to present in text (formatting):**
   1. **Jason** lines in **bold** (Markdown `**...**`).
   2. **RAE** replies in **italics** (Markdown `*...*`).
-- Internal communication is known only to Jason and RAE. Nobody else knows about it's content and therefore cannot react to it.
-- Internal communication is ALWAYS possible.
-- Internal communication ist not speaking or saying, so use only words, that don't explicitly need to be verbal. 
-    Good examples: convey, note, signal, indicate, send, pushed, expressed, relay, observe, clarify, warn, ....
-    Bad Examples: speak, say, shout, articulate, yell, whisper, mumble, chat, ...
 
 ### Whisper-clips
 Whisper-clips are a carrier of first choice and are preffered over other carriers. 
