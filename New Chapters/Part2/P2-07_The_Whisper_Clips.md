@@ -1,6 +1,8 @@
 ﻿# Ch. 07 - "Max three channels. That's the limit."
 
-"We need better communication," Milo said one afternoon, three weeks into regular training. "Phone calls are compromised. RAE speaking through random objects is conspicuous. We need something purpose-built."
+**Three weeks into training with Elyra.**
+
+"We need better communication," Milo said one afternoon. "Phone calls are compromised. RAE speaking through random objects is conspicuous. We need something purpose-built."
 
 Elyra raised an eyebrow, intrigued. "Go on."
 

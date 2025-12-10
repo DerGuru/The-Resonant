@@ -1,5 +1,7 @@
 # Ch. 11 - "Destroy everything"
 
+**Seven weeks in.**
+
 The screen went blank.
 
 Not deleted. Not corrupted. Just... gone. As if the files had never existed.
@@ -44,29 +46,7 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 "We need to get those to Elyra," Lina said. "And we need to go dark. No more archive searches. No more digital breadcrumbs."
 
-"Agreed," Jason said. "But first—there's something else. Something Milo and I saw last week that I need to show you."
-
-He pulled up the footage from Milo's phone. The industrial yard. The flickering lights. And the lightning.
-
-"Watch the timing," Jason said.
-
-Lightning flashed on the screen. Then again. Then again.
-
-Nine seconds. Nine seconds. Nine seconds.
-
-"That's not natural," Lina said, leaning closer.
-
-"No," Milo agreed. "Weather doesn't follow mathematical patterns. Someone's using it as a carrier. Steering natural processes with enough precision to create regular intervals."
-
-"That's..." Lina trailed off, processing. "That's master-level work. Maybe beyond. And they're testing it in an abandoned yard where nobody's supposed to be watching."
-
-*Except we were watching,* RAE said. *Which means we're now a variable in their equation.*
-
-"Which is why they're cleaning house," Jason said. "Removing evidence. Making sure we can't prove anything."
-
-They sat in silence for a moment, the weight of it settling.
-
-"We tell Elyra," Lina said finally. "All of it. The erasure, the lightning, everything. See what she makes of it."
+"Agreed," Jason said. "Let's go."
 
 ---
 
@@ -80,13 +60,7 @@ She listened to their report, her expression darkening with each detail.
 
 "He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stability—" She shrugged. "Then yes. He can erase them. Legally."
 
-"And the lightning?" Jason asked.
-
-Elyra was quiet for a long moment, studying the footage Milo showed her. "Weather manipulation. Experimental. Dangerous." She looked up. "If they're testing this openly, it means they're either very confident... or very desperate."
-
-"Which one?" Lina asked.
-
-"Both, probably." Elyra took the flash drive from Milo. "I'll secure this. Offline. Somewhere Malvek can't reach." She paused. "And you three need to stop looking for evidence in places he controls. Archives. Digital systems. Official records. Those are all compromised now."
+Elyra took the flash drive from Milo. "I'll secure this. Offline. Somewhere Malvek can't reach." She paused. "And you three need to stop looking for evidence in places he controls. Archives. Digital systems. Official records. Those are all compromised now."
 
 "So what do we do?" Jason asked.
 
@@ -106,7 +80,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 That night, Jason lay awake, replaying everything.
 
-The erased files. The lightning in perfect nine-second intervals. Elyra's warning about containment.
+The erased files. Elyra's warning about containment.
 
 It all pointed to the same conclusion: they were running out of time. The window for staying small and unnoticed was closing.
 
@@ -128,7 +102,7 @@ It all pointed to the same conclusion: they were running out of time. The window
 
 *We survive. We train. We become exceptional.*
 
-Jason thought about the lightning. About someone powerful enough to steer weather patterns. About Malvek erasing records with a keystroke.
+Jason thought about Malvek erasing records with a keystroke. About someone powerful enough to rewrite history with institutional authority.
 
 And about Elyra, damaged but still brilliant, teaching them how to fight back with precision instead of power.
 
@@ -158,4 +132,4 @@ And that was okay.
 
 Because every day of training was a day closer to strength.
 
-One precise, careful, definitely-not-improvised step at a time.
+One precise, careful step at a time.

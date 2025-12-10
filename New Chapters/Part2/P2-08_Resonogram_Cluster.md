@@ -1,5 +1,7 @@
 ﻿# Ch. 08 - "Green to yellow, never to red"
 
+**Four weeks into training.**
+
 Training with Elyra was methodical. Relentless. Unforgiving.
 
 Her apartment had become a second headquarters. Maps and data sprawled across the table, the walls—

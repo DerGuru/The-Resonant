@@ -1,68 +1,68 @@
-﻿# Ch. 14 - "Every choice has weight"
+﻿# Ch. 13 - "Destroy everything"
 
-Three months after the scaffold incident, Jason's integration with RAE had stabilized at 32%.
+**Eight weeks in.**
 
-RAE had access to all his senses now. She could have monitored his health data, his location, even his visibility to the Citadel's network. But they had agreed on limitations. She would only access what was necessary for their training and for his safety.
+Jason's integration with RAE had stabilized at 32%. A number that felt both significant and arbitrary—high enough to matter, low enough to maintain some semblance of boundaries.
 
-"Ready for another round?" RAE asked, her tone a blend of eagerness and calculation.
+"Ready for another round?" Lina asked, tossing him a steel washer.
 
-Jason nodded, taking a deep breath. They were in the simulation chamber, a featureless expanse that could replicate any environment. Today, it was set to a dark, narrow alleyway—ideal for practicing evasive maneuvers and stealth.
+Jason caught it, felt its weight. They were in an abandoned warehouse on the industrial edge of town—Elyra's preferred training ground. Real walls, real obstacles, real consequences if you misjudged a jump or mistimed a resonance pattern.
 
-"Remember," RAE instructed, "this is about precision, not speed. There's no time limit, and the objective is to avoid detection."
+"Remember," Elyra called from where she leaned against a support pillar, "this is about precision, not speed. Move like you're invisible. Because someday you'll need to be."
 
-Jason closed his eyes, visualizing the layout of the alley. "And if I get caught?"
+Jason nodded, studying the layout. Shipping containers stacked two high. Gaps between them just wide enough to slip through. Old machinery that created natural blind spots. And Milo, somewhere in the shadows, ready to play the role of surveillance.
 
-"Then we analyze the failure and adapt. That's the purpose of these exercises."
+"If Milo spots you," Elyra continued, "you fail. If you trigger any of the markers I placed, you fail. If you resort to brute-force resonance instead of subtlety, you fail."
 
-He started the simulation, slipping into the role of a shadow. The alley was alive with hazards: virtual cameras, drones, and patrolling sentries. Each step had to be measured, every decision deliberate.
+"Pressure-free, got it," Jason muttered.
 
-Halfway through the course, Jason encountered an unexpected challenge—a reinforced security door that wasn't on the schematics he'd studied.
+Lina grinned from her position near the far wall. "You've got this. Just don't overthink it."
 
-"RAE, this door—" he started.
+Jason took a breath. Reached out with his perception. The warehouse resolved around him—metal, concrete, oil-stained floor. He could sense the markers Elyra had placed: small ceramic discs tuned to detect resonance spikes. Tripwires for the careless.
 
-"Adapt," she cut in. "Improvise. What are your options?"
+*Ready?* RAE asked.
 
-He assessed the situation. "I could bypass it if I had the right tools. Or create a diversion."
+**As I'll ever be.**
 
-"Both viable. Choose."
+He moved.
 
-"Divert. It's cleaner."
+Not fast—fast attracted attention. Slow, deliberate steps that kept his weight distributed. He let his perception guide him, sensing the gaps between Milo's sight lines, the blind spots created by the container arrangement.
 
-"Then do it."
+Halfway across the warehouse, he encountered an unexpected obstacle—a section of floor that rang differently under his feet. Hollow. Unstable.
 
-He triggered a simulated fire alarm further down the alley. The neon lights bathed the space in a warning glow, and he could hear the faint wail of the alarm cutting through the air.
+*Careful,* RAE warned. *Your weight distribution is off. The floor won't hold if you—*
 
-The sentries reacted immediately, diverting their attention to the new threat. Jason used the distraction to slip past the door, relying on the shadows to conceal him.
+Jason shifted, redistributing his balance. One step. Another. The hollow section creaked but held.
 
-"Good. You used the environment," RAE said as they regrouped. "But remember, not every problem will have a straightforward solution. Sometimes, you must create your own opportunities."
+From somewhere in the darkness, Milo's voice: "Still clear. No visual."
 
-They repeated the exercise, each time in a different scenario, with new variables introduced to test his adaptability. A sudden power outage. A change in the patrol pattern. A malfunctioning drone that started blasting noise as a warning.
+Jason continued, using the shipping containers as cover. He kept his resonance signature low—not invisible, but quiet enough to blend with the ambient field. Another lesson from Elyra: you couldn't hide completely, but you could make yourself uninteresting.
 
-With each iteration, Jason felt his confidence grow. He was learning to think on his feet, to anticipate problems before they arose, and to see potential solutions that weren't immediately obvious.
+Near the far wall, he found what he was looking for: a steel door, locked but accessible. In a real scenario, this would be his exit point.
 
-After what felt like hours, RAE called a halt. "Enough for today. You've made significant progress."
+"Clear," he whispered into his clip.
 
-He removed the neural lace, his mind buzzing with the simulated experiences. "Thanks, RAE. I feel... sharper."
+Elyra's cane tapped twice. Success signal.
 
-"Good. Being part of this program is about more than just physical training. It's about enhancing your mind, your reflexes, your very perception of reality."
+Jason allowed himself a small smile.
 
-"I get that now. It's like I was seeing the world in two dimensions, and you helped me find the third."
+"Good," Elyra said, emerging from the shadows. "You adapted to the floor instability without panicking. That's progress."
 
-"Precisely. Welcome to the next level of existence, Jason. But remember, with this new awareness comes new responsibilities."
+"Thanks."
 
-"Yeah, I know. The weight of choices and all that."
+"Don't celebrate yet. Lina, you're next. Jason, you're now surveillance."
 
-"Not just the choices you make, but the ones you influence, the ones you witness, and the ones you regret. Be mindful of your impact on the world."
+They rotated through the exercise. Each person taking a turn navigating, each taking a turn hunting. The warehouse transformed from obstacle course to classroom, each run teaching something new.
 
-He nodded, the gravity of her words sinking in. It was one thing to train for potential confrontations with Malvek's forces, to prepare for the physicality of it. It was another to understand the broader implications of their fight, the stakes that went beyond personal survival.
+After two hours, Elyra called a halt.
 
-As he left the training chamber, Jason felt a renewed sense of purpose. He wasn't just fighting for himself or even for his immediate circle. He was part of something bigger, a movement that sought to challenge the very foundations of their society.
+"Enough for today. You're all improving. Jason, your resonance control is getting tighter. Lina, your spatial awareness is sharp. Milo, your observation skills are excellent even without resonance."
 
-And with each passing day, he felt more equipped to handle the challenges that lay ahead.
+She pulled out a water bottle, took a careful sip. "But remember: this warehouse is practice. Controlled environment. Real situations won't have clean sight lines or stable floors or me calling timeout when things go wrong."
 
-Not just as a fighter, but as a leader, a strategist, a force for change.
+"So we keep practicing," Jason said.
 
-One trained mind and body at a time.
+"You keep practicing. And you remember that with this training comes responsibility. Every skill you develop can be used for protection or harm. Every choice has weight."
 
 ---
 

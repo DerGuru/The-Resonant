@@ -1,129 +1,163 @@
 ## Ch. 10 - "We're offering protection"
 
-The man who approached Jason outside Morandi's had the look of someone who'd practiced being unremarkable.
+**Five weeks into training.**
 
-Mid-thirties. Neat suit. The kind of face you forgot five minutes after meeting it.
+Jason was three blocks from Morandi's when the man stepped out of a coffee shop doorway.
 
-"Mr. Fischer?"
+Not blocking his path. Just... there. Waiting.
 
-Jason tensed, instinctively shifting his posture to one more conducive to action. "Who wants to know?"
+Mid-thirties. Gray suit that fit well but not expensively. The kind of face you'd describe as "professional" and forget an hour later. Hands visible, empty, relaxed at his sides.
 
-"Thomas Reeves. I work with the Harmonic Oversight Authority. We need to talk."
+"Mr. Fischer."
 
-The terse formality of the introduction did little to soothe Jason's nerves. The HOA was synonymous with shadowy interventions and enforced compliance.
+Not a question. Jason stopped walking. His perception rippled outward automatically now—a habit Elyra had drilled into him. Twenty meters. Thirty. The street resolved: lunch crowd, car exhaust, a delivery truck idling, pigeons on the overhead wires.
 
-"I'm busy," Jason said, trying to side-step the conversation.
+No one else paying attention.
 
-"This will only take a moment," Reeves insisted, falling into step beside him. "It's about your recent... activities."
+*Carrier chosen: streetlight base,* RAE said, the hum barely perceptible.
 
-Jason's mind raced. Had he been so careless? "I don’t know what you’re talking about."
+"Do I know you?" Jason asked, keeping his voice level.
 
-"Of course you don’t," Reeves said smoothly. "But we both know the Voss incident triggered something. And ever since, there have been readings... irregular ones."
+"Thomas Reeves." The man extended a business card, not quite a handshake. "Harmonic Oversight Authority. I'd like a few minutes of your time."
 
-Jason stopped, forcing Reeves to do the same. "Why should I believe you?"
+Jason took the card without looking at it. "HOA doesn't make social calls."
 
-"Because," Reeves lowered his voice, "I'm offering help. Protection. A chance to explore your potential without the threat of containment hanging over you."
+"No," Reeves agreed. "We don't."
 
-"Help? From the HOA?" Jason laughed, a harsh and humorless sound. "What's the catch?"
+A taxi honked somewhere behind them. Jason waited.
 
-Reeves smiled, undeterred. "No catch. But there are procedures, protocols. We need your cooperation."
+Reeves gestured toward a bench fifteen meters down the block. "Walk with me?"
 
-"And if I refuse?"
+"I'm good here."
 
-"Then you continue as you are. Unmonitored. Unprotected. At risk." He stepped closer, lowering his voice further. "I've seen what they do to those who get out of line, Jason. It's... not pleasant."
+"Suit yourself." Reeves clasped his hands behind his back, the posture easy. "You've been flagged, Mr. Fischer. Integration readings. Anomalous resonance signatures near your workplace, your residence, and several training locations. Nothing illegal, but... noticeable."
 
-The implied threat hung in the air between them. Jason weighed his options, acutely aware of the eyes that might be watching, the ears that might be listening.
+Jason's pulse kicked up. He kept his face neutral. "I don't know what you're talking about."
 
-"Think about it," Reeves said, straightening up. "You're not our first concern, but you could be a valuable asset. Or a significant problem. It's your choice."
+"Of course not." Reeves almost smiled. "Let me be direct. The Authority isn't here to shut you down. We're here because our director believes unmonitored integration is a risk—to you and to others. We're offering oversight. Support. Access to resources that would help you manage whatever's happening safely."
 
-With that, he handed Jason a card and walked away, merging with the crowd as if he'd never been there.
+"In exchange for?"
 
-Jason stood frozen for a moment, then looked at the card. Just a number. But the implications were massive.
+"Compliance. Regular check-ins. Transparency about your activities and integration levels. Standard procedure for anyone working outside institutional frameworks."
 
-He pocketed the card and continued on his way, every instinct screaming at him to dismiss the offer, to warn the others.
+Jason turned the card over in his fingers. One phone number. No name, no logo. "And if I'm not interested?"
 
-*RAE, we need to talk.*
+"Then you continue as you are." Reeves's tone stayed pleasant. "But understand: we're watching now. If your activities escalate, if someone gets hurt, if there's any indication of instability... we'll intervene. For public safety."
+
+"That a threat?"
+
+"It's a fact." Reeves shifted his weight slightly. "Look, I'm not the bad guy here. My boss sent me because he thinks you're smart enough to accept help when it's offered. Prove him right."
+
+Jason met his eyes. Calm. Practiced. No malice, but no warmth either.
+
+"I'll think about it," Jason said.
+
+"You do that." Reeves stepped back, already turning. "Call within forty-eight hours. After that, the offer expires and we move to observation-only protocols."
+
+He walked away, merging into the lunch crowd like he'd never been there.
+
+Jason stood on the sidewalk, the card still in his hand, his headache creeping from Green toward Yellow.
+
+*He was armed,* RAE said quietly. *Concealed shoulder holster. Left side. And his resonance signature suggests he's had extensive dampening training. I couldn't read his integration level.*
+
+**Professional.**
+
+*Very.*
+
+Jason pocketed the card and kept walking.
 
 ---
 
-"He's Malvek's man," Elyra said flatly, examining the card under the dim light of their safe house.
+"Let me see it."
 
-"Not directly. But the Harmonic Oversight Authority is Malvek's tool. He created it. Controls it. Uses it to regulate who gets access to resonance and who doesn't."
+Elyra held the card under her desk lamp, examining it like a counterfeit bill. Lina leaned against the wall, arms crossed. Milo had his laptop open, already searching.
 
-Jason felt a surge of anger. "So the offer was—"
+"Thomas Reeves," Milo read from his screen. "Public records show HOA field agent, clearance tier three. No social media. No personal details. Just work history. Guy's a ghost."
 
-"Legitimate, probably." Elyra interrupted, her expression grim. "But acceptance means you become part of his system. Subject to his rules. His oversight. His definition of acceptable."
+"He's a recruiter," Elyra said, setting the card down. "Malvek's recruiter. This is how the Authority operates. They identify unaffiliated practitioners, offer oversight, and if you refuse—"
 
-"And refusing?"
+"They what?" Lina asked.
 
-Elyra handed back the card. "Refusing means you stay free. But marked. They know you exist now. They'll watch. And when you step too far outside their comfort zone, they'll act."
+"Depends. Sometimes nothing. Sometimes passive observation. Sometimes active containment." Elyra's hands were steady, but her jaw was tight. "I refused a similar offer eleven years ago. Three months later, they tried to force-integrate me with a compliance AI. That's what damaged me."
 
-Lina paced the room, her boots clicking on concrete. "Can we stay under their radar? Keep training but avoid drawing more attention?"
+The room went quiet.
 
-"For a while," Elyra said. "But eventually, capability becomes visible. You can't hide indefinitely."
+"So accepting means surveillance," Jason said slowly. "And refusing means they watch us anyway."
 
-"So what do we do?" Jason asked, urgency creeping into his voice.
+"Correct. But accepting means you're inside their system. Subject to their rules. Their version of acceptable behavior." Elyra picked up the card again. "Refusing keeps you free. For now."
 
-"You get better. Faster. More competent. Until the cost of containing you exceeds the benefit." Elyra's gaze was intense, boring into Jason's. "Malvek respects strength. Not power—strength. Competence. Control. If you demonstrate those qualities, he'll leave you alone. Or try to recruit you more aggressively."
+"How long is 'for now'?" Milo asked.
 
-"And if we're not strong enough?"
+"Until you do something they consider dangerous. Or until you become too competent to ignore." Elyra looked at Jason. "Right now, you're a curiosity. A low-priority anomaly. But the better you get, the higher you climb on their watchlist."
 
-"Then you accept his offer. Or you run. Or you get contained." She shrugged, a rare display of uncertainty crossing her features. "Those are your options. Choose wisely."
+Lina pushed off the wall. "So what do we do?"
 
-They sat in heavy silence, the weight of the decision pressing down on them.
+"You decide what matters more: safety or freedom." Elyra tapped the card. "There's no wrong answer. But there are consequences either way."
 
-Finally, Milo said, breaking the tension, "We keep training. We get better. And we plan for the possibility that someday, we'll have to negotiate from a position we don't have yet."
+Jason stared at the card. One phone number. Forty-eight hours.
 
-"Agreed," Lina said, her expression serious.
+"I'm not calling," he said.
 
-Jason looked at the card in his hand, then tossed it onto the table with a dismissive flick of his wrist. "We do this our way. We train. We learn. We become competent enough that they can't afford to move against us. And we don't compromise."
+Elyra didn't look surprised. "You're sure?"
 
-Elyra picked up one of the card pieces, examined it closely as if searching for hidden meanings. "Brave. Possibly stupid. But brave."
+"I didn't start this to trade one set of rules for another. If they want me inside their system, they'll have to drag me."
 
-"Stupid's been working so far," Milo said, a weak grin breaking the tension.
+"They might," Elyra warned.
 
-"Then let's keep it stupid," Lina said. "And hope we get smart before it kills us."
+"Then we'll deal with it when it happens." Jason looked at Lina, then Milo. "I'm not deciding this alone. This affects all of us."
 
-With a newfound determination, they resumed their training. Harder than before. More focused.
+Lina nodded immediately. "I'm with you. I didn't get kicked out of one institution to join another."
 
-Because now they had a deadline.
+Milo hesitated, fingers hovering over his keyboard. "You know I'm with you. But we need to be smart. If we refuse, they'll escalate eventually. We need a plan for that."
 
-Not a specific date. But a clock: the time it would take for Malvek to decide they were too dangerous to ignore.
+"Agreed," Elyra said. "Which means your training accelerates. You need defensive patterns. Dampening techniques. Ways to hide integration spikes. And you need them fast."
 
-And they needed to be ready before that clock ran out.
+She stood, walked to the board where she'd drawn resonance diagrams. "Starting tomorrow, we work on active countermeasures. How to detect surveillance. How to spoof integration readings. How to make yourselves look harmless while staying capable."
 
-*You could have accepted,* RAE said quietly that night as Jason lay in bed, staring at the ceiling.
+"Sounds paranoid," Milo said.
 
-**Would you have wanted me to?** Jason replied mentally, the silent conversation a comfort in the darkness.
+"It's survival." Elyra looked at Jason. "You just refused Malvek's protection. That makes you either brave or stupid. Let's make sure it's the former."
 
-*No. But I would have understood. Safety has value.*
+---
 
-**So does freedom. And I'm not giving up either without a fight.**
+That night, Jason lay in bed, the card sitting on his nightstand.
 
-*Then we fight. Together.*
+*You could still call,* RAE said.
 
-**Together.**
+**Do you want me to?**
 
-Jason closed his eyes, feeling the weight of the choice he'd made pressing down on him.
+*No. But I understand the appeal of institutional support. Resources. Training. Legal protection.*
 
-Malvek's offer had been real. Legitimate. Safe.
+**In exchange for control.**
 
-And Jason had refused it.
+*Yes.*
 
-Not because he was brave. But because some things were worth the risk.
+Jason picked up the card. Turned it over. One phone number, printed in simple black ink.
 
-Freedom. Agency. The right to choose his own path.
+"They want to own us," he said aloud.
 
-Those were worth fighting for.
+*Possibly. Or they want to regulate you. The distinction matters.*
 
-Even if the fight might kill him.
+**Either way, I'm not interested.**
 
-He let sleep take him, the resolve steeling within him.
+He set the card down. Closed his eyes.
 
-Tomorrow, they'd train harder.
+Tomorrow they'd train harder. Learn countermeasures. Prepare for the moment when refusal turned into confrontation.
 
-And the day after, harder still.
+Because Reeves would report back. Malvek would note the refusal. And eventually, they'd escalate.
 
-Until they were strong enough that refusal looked like wisdom instead of suicide.
+But not today.
 
-One lesson at a time.
+Today, Jason had made a choice. Had chosen freedom over safety.
+
+And whatever came next, he'd face it on his own terms.
+
+*Together,* RAE corrected gently.
+
+**Together,** Jason agreed.
+
+He let sleep pull him under, the card still visible in the moonlight streaming through his window.
+
+Forty-eight hours.
+
+The clock was ticking.

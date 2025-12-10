@@ -100,6 +100,18 @@ She moved to a cabinet, pulled out a wooden box. Inside were what looked like ch
 
 "These are carriers," she explained. "Objects that can hold and transmit resonance patterns. Your job for the next two weeks is to learn how to tune them. Make a block resonate at exactly 440 Hz. Make a washer respond to your baseline frequency. Make a marble store a simple pattern and release it on command."
 
+She placed a steel washer and a wooden block side by side on the table. "But first, you need to understand what makes a good carrier. It's not just about invest—how much effort you put in. It's about quality and firmness."
+
+Jason leaned forward, listening.
+
+"Quality," Elyra continued, "is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signature—high quality for frequency-based work. Wood is more complex, with organic variations—good quality for pattern storage, but harder to control. Glass is somewhere between." She tapped each object. "If the quality is poor—if you're fighting the material's nature—you'll exhaust yourself achieving nothing."
+
+"And firmness?" Lina asked.
+
+"Structural tolerance. How much the material can hold before it breaks down." Elyra picked up the steel washer. "This steel has high firmness. You can invest heavily, push aggressive patterns, and it'll hold. But this wooden block?" She lifted it. "Firmness is moderate. Push too hard and you'll fracture the grain structure. The pattern will collapse—or worse, splinter unpredictably."
+
+She set them down carefully. "Every material has different quality and firmness for different tasks. Learning to read that before you invest is what separates competent practitioners from dead ones. You don't test firmness by breaking things. You sense it. Respect it. Work within its limits."
+
 "That sounds like a lot," Jason said.
 
 "It is. But it's also fundamental. If you can't tune a carrier, you can't build a whisper clip. Can't stabilize a damaged pattern. Can't help someone whose resonance is failing." She paused. "Can't fight back if someone tries to force-couple with you."

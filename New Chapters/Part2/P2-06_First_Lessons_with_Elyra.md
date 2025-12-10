@@ -40,6 +40,12 @@ The third bowl hummed slightly. Just a whisper, but clear.
 
 "Good. Took you too long, but you got there." Elyra picked up the bowl, examined it. "This bowl's frequency is 441 Hz. Close to your baseline. That's why it resonated. Understanding your own frequency is step one to understanding everything else."
 
+She set the bowl down and looked at him directly. "You just did something important without realizing it. When you let your resonance interact with the bowl, you were investing. That's the term we use for directed harmonic effort. Not just awareness—active engagement. You push a small amount of your own pattern into the target, and measure what comes back. Every inflection starts with invest. It's the difference between looking at something and actually touching it."
+
+Jason nodded slowly. "So sensing is passive, but invest is active?"
+
+"Exactly. And the amount you invest matters. Too little, you get no useful feedback. Too much, you risk destabilizing the target—or yourself." She gestured at the bowls. "These are stable, so they're safe to practice on. But if you tried the same thing with a live resonogram or an unstable pattern, you could trigger a cascade."
+
 She spent the next hour drilling them on frequency recognition. Then harmonic intervals. Then interference patterns.
 
 By the time she called a break, Jason's head was swimming with information and his notepad was full of diagrams.
