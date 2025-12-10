@@ -1,4 +1,4 @@
-# Prologue
+# Prologue - The Ritual
 
 Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly—too subtly—in ways she could no longer trust.
 
@@ -32,7 +32,7 @@ The Liaison took a breath, his fingers hovering over his slate. "Your original b
 
 Elyra shifted her cane slightly, the movement deliberate. "You knew this might happen."
 
-"I suspected," Marla admitted. The weight of that admission settled between them like a stone. "That's why I put in the phasic anchor and the isolation buffeCrs."
+"I suspected," Marla admitted. The weight of that admission settled between them like a stone. "That's why I put in the phasic anchor and the isolation buffers."
 
 "And if they aren't enough?"
 
@@ -466,7 +466,7 @@ Elyra Voss knew something was wrong even before the ritual began.
 
 She stood on the threshold of an ancient resonance lattice etched into the stone floor. Sixteen concentric circles stretched across the observatory—the pattern not drawn, but grown into the stone itself over centuries of use. Fine sigils flickered faintly at the edges of her vision, as if resisting the light that tried to catch them. The structure was too elegant. Too intentional. As if it remembered what it had once held.
 
-And the resonance…
+And the resonance—
 
 Too tight.
 
@@ -604,7 +604,7 @@ Memory Integrity: Partially inaccessible
 Coupling Status: Unbound  
 
 Projected stability in current resonance conditions:  
-**~97.36a until coherence collapse**
+**~97.36h until coherence collapse**
 
 [ Strategic Directive Update ]  
 Primary Objective: Maintain Self-Coherence  
