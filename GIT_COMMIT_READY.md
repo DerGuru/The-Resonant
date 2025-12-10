@@ -1,4 +1,4 @@
-# GIT COMMIT - Ready to Execute
+﻿# GIT COMMIT - Ready to Execute
 
 ## Status Check
 

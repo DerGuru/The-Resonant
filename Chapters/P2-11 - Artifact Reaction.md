@@ -1,4 +1,4 @@
-## Artifact Reaction
+﻿## Artifact Reaction
 
 Dust danced in sunbeams that had slipped past the front room’s junk and found the back like contraband. Tin shelving held a decade of other people’s maybe‑useful: jars with labels half‑peeled, bundles of cable, a bin of hinges that had forgotten their doors. An oscillating fan on a crooked stand pushed heat from one corner to another and clicked when it changed its mind.
 

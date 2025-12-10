@@ -1,4 +1,4 @@
-## Routine Noise
+﻿## Routine Noise
 ```
 [System state: passive detection mode]
 Scanning radius: expanded

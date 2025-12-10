@@ -1,4 +1,4 @@
-# Character Profile: **Lina Morandi**
+﻿# Character Profile: **Lina Morandi**
 
 ---
 

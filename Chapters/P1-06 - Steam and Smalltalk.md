@@ -1,4 +1,4 @@
-## Steam and Smalltalk
+﻿## Steam and Smalltalk
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 

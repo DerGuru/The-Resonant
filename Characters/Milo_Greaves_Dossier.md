@@ -1,4 +1,4 @@
-# Character Profile: Milo Greaves
+﻿# Character Profile: Milo Greaves
 
 ## Synopsis
 Milo is one of Jason’s companions. He’s socially awkward, intelligent, and a self-taught hacker. He’s not elite - tier but skilled enough to break into a city archive, which is how Jason eventually finds some key documents. Milo initially seems suspicious to others but proves to be loyal and resourceful. He tends to dwell in abandoned places and avoids large groups. Despite his introversion, he becomes a reliable support for Jason during their harmonic resonance discovery.

@@ -1,4 +1,4 @@
-# Ch. 11 - "Destroy everything"
+ï»¿# Ch. 11 - "Destroy everything"
 
 **Seven weeks in.**
 
@@ -38,7 +38,7 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 "How?" Lina asked.
 
-"Resonance signature tracking, maybe. Or they compromised my device. Or—" He shook his head. "Doesn't matter how. What matters is they're cleaning up. Removing evidence. Making sure nobody can prove what really happened eleven years ago."
+"Resonance signature tracking, maybe. Or they compromised my device. Orï¿½" He shook his head. "Doesn't matter how. What matters is they're cleaning up. Removing evidence. Making sure nobody can prove what really happened eleven years ago."
 
 "Did they get everything?" Jason asked.
 
@@ -58,7 +58,7 @@ She listened to their report, her expression darkening with each detail.
 
 "Can he do that?" Milo asked. "Just erase records?"
 
-"He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stability—" She shrugged. "Then yes. He can erase them. Legally."
+"He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stabilityï¿½" She shrugged. "Then yes. He can erase them. Legally."
 
 Elyra took the flash drive from Milo. "I'll secure this. Offline. Somewhere Malvek can't reach." She paused. "And you three need to stop looking for evidence in places he controls. Archives. Digital systems. Official records. Those are all compromised now."
 
@@ -72,7 +72,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 "Besides," Elyra continued, "they've shown their hand now. They're worried enough to act. That means you're getting close to something they want hidden. And when they realize erasure won't stop you, they'll escalate to containment."
 
-"Containment," Lina repeated. "You mean—"
+"Containment," Lina repeated. "You meanï¿½"
 
 "I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're accelerating your training. Starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
 
@@ -122,7 +122,7 @@ He closed his eyes. Let exhaustion pull him toward sleep.
 
 Tomorrow, they'd work on defensive patterns. Would learn to hide their integration levels. Would become a little bit more capable.
 
-And someday—maybe soon, maybe not—they'd be strong enough to stand against institutional power.
+And somedayï¿½maybe soon, maybe notï¿½they'd be strong enough to stand against institutional power.
 
 But not today.
 

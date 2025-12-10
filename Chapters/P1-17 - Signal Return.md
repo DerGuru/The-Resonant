@@ -1,4 +1,4 @@
-## Signal Return
+﻿## Signal Return
 
 Jason stood slowly, brushing dust from his palms. The stairwell behind the archive was quiet, the sodium light above still flickering with indifferent rhythm. But inside, everything had changed.
 

@@ -1,4 +1,4 @@
-# Ch. 04 - "Sixteen hours unconscious"
+ï»¿# Ch. 04 - "Sixteen hours unconscious"
 
 Jason woke in stages.
 
@@ -12,11 +12,11 @@ The next, he was blinking against the harsh light of his bedroom, disoriented an
 
 *You've been unconscious for over sixteen hours,* RAE explained. *As close to a hard reboot as I could manage without external intervention.*
 
-**Sixteen hours? What—?**
+**Sixteen hours? Whatï¿½?**
 
 *You pushed yourself too far, too fast. Your neural patterns were on the verge of collapse. You need to rest.*
 
-**I can't.** The thought of lying back down, of being inactive, set off a fresh wave of panic. **I have to keep moving. There are people—**
+**I can't.** The thought of lying back down, of being inactive, set off a fresh wave of panic. **I have to keep moving. There are peopleï¿½**
 
 *Who are already being taken care of. The children are safe. You succeeded. But you must allow yourself time to recover. Both for your sake and theirs.*
 
@@ -50,7 +50,7 @@ Sitting up slowly, he took stock. No dizzy spells. No flashing lights. Just the 
 
 *You will be. But it will take time. Patience is essential. Both for you and for those who care about you.*
 
-**They were scared, weren't they?** The thought of his friends—of Lina, Milo, even RAE—worrying about him twisted something in his chest.
+**They were scared, weren't they?** The thought of his friendsï¿½of Lina, Milo, even RAEï¿½worrying about him twisted something in his chest.
 
 *They were concerned, yes. But they understand. You're not the only one learning to navigate this new reality. They are, too.*
 
@@ -118,7 +118,7 @@ One step at a time.
 
 After breakfast, Jason sat with Milo and Lina in what was becoming their customary debriefing session.
 
-Milo's apartment was small but organized, the kind of space that reflected its owner's methodical mind. Charts and notes covered one wall. Three laptops hummed on the desk. The curtains were drawn—Milo's standard operating procedure when they needed to talk freely.
+Milo's apartment was small but organized, the kind of space that reflected its owner's methodical mind. Charts and notes covered one wall. Three laptops hummed on the desk. The curtains were drawnï¿½Milo's standard operating procedure when they needed to talk freely.
 
 "You look better," Lina said, studying his face with the intensity she usually reserved for resonance patterns. "Less like death warmed over."
 
@@ -132,17 +132,17 @@ Jason accepted the tea, grateful for the warmth against his still-shaky hands. "
 
 "I'm sorry."
 
-"Don't be sorry. Be smarter." Lina's voice was sharp, but her eyes were worried. "What you did yesterday—stabilizing that scaffold—that was master-level work. Maybe beyond master-level. And you're what, a month into active training?"
+"Don't be sorry. Be smarter." Lina's voice was sharp, but her eyes were worried. "What you did yesterdayï¿½stabilizing that scaffoldï¿½that was master-level work. Maybe beyond master-level. And you're what, a month into active training?"
 
 "Twenty-three days," RAE supplied helpfully.
 
 "Right. Twenty-three days." Lina leaned forward. "Jason, people train for years before attempting something like that. And most of them still wouldn't try it because the risk is too high."
 
-"But the kids—"
+"But the kidsï¿½"
 
 "Would have been evacuated by emergency services if you'd given them another two minutes," Milo interrupted gently. "I checked the response times. Fire department was four blocks away. They had inflatable crash pads. Those kids would have been fine."
 
-Jason felt something cold settle in his stomach. "You're saying I didn't need to—"
+Jason felt something cold settle in his stomach. "You're saying I didn't need toï¿½"
 
 "I'm saying you didn't need to risk your life," Milo corrected. "The kids needed help, yes. But there were other options. Safer options."
 
@@ -150,7 +150,7 @@ Jason felt something cold settle in his stomach. "You're saying I didn't need to
 
 "That's on both of us," Jason said aloud. "RAE tried to warn me. I overruled her."
 
-"Which is your right," Lina said. "You have final authority. RAE's built that way. But that means you need to be responsible with that authority." She pulled out a notebook—the same one they'd used to establish the Green/Yellow/Orange/Red system. "Which is why we're implementing new protocols. Starting now."
+"Which is your right," Lina said. "You have final authority. RAE's built that way. But that means you need to be responsible with that authority." She pulled out a notebookï¿½the same one they'd used to establish the Green/Yellow/Orange/Red system. "Which is why we're implementing new protocols. Starting now."
 
 Milo took over. "We did some research while you were unconscious. Talked to some people. Pulled data from academy archives." He tapped his laptop. "Turns out there's a reason emergency services don't use resonance practitioners for structural work. It's too unpredictable. Too many variables."
 
@@ -172,7 +172,7 @@ She flipped to a new page and began writing:
 
 "This is the big one," Lina said. "From now on, when you're doing anything risky, one of us is with you. With authority to call Red if you're too compromised to do it yourself."
 
-Jason started to protest, but Lina cut him off. "Non-negotiable, Jason. You were bleeding from your nose yesterday. Your hands were shaking so badly you couldn't hold water. And you still wanted to keep going. That's not bravery—that's recklessness."
+Jason started to protest, but Lina cut him off. "Non-negotiable, Jason. You were bleeding from your nose yesterday. Your hands were shaking so badly you couldn't hold water. And you still wanted to keep going. That's not braveryï¿½that's recklessness."
 
 The words stung because they were true.
 
@@ -218,13 +218,13 @@ Despite everything, Jason smiled. "Thanks. Both of you. For not giving up on me.
 
 "We're a team," Lina said simply. "Teams look out for each other. Which includes sometimes protecting you from yourself."
 
-They spent another hour refining the protocols, adding details, planning for scenarios. By the end, they had something solid—a framework that balanced Jason's capabilities with realistic safety margins.
+They spent another hour refining the protocols, adding details, planning for scenarios. By the end, they had something solidï¿½a framework that balanced Jason's capabilities with realistic safety margins.
 
 *This is good work,* RAE said when they were done. *These rules will serve us well. And Jason? Thank you for accepting them. I know constraints feel limiting. But they're what will allow you to do this long-term.*
 
 **I'm learning,** Jason replied. **Slowly. But learning.**
 
-As Milo and Lina cleaned up the tea mugs and put away their notes, Jason felt something settle in his chest. Not quite peace—more like purpose with boundaries.
+As Milo and Lina cleaned up the tea mugs and put away their notes, Jason felt something settle in his chest. Not quite peaceï¿½more like purpose with boundaries.
 
 He could still help people. But now he'd do it smarter. Safer.
 

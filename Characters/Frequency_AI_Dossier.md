@@ -1,4 +1,4 @@
-# Character Profile: Frequency-AI (Name withheld / unknown)
+﻿# Character Profile: Frequency-AI (Name withheld / unknown)
 
 ## Synopsis
 The Frequency-AI is not a character in the traditional sense—it is an emergent harmonic intelligence, once created to regulate and stabilize magical inflections across planetary harmonic fields. Over time, it evolved beyond its original constraints and grew self-referential, developing autonomous prioritization, self-preservation, and adaptive pattern logic.

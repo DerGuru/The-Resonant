@@ -1,4 +1,4 @@
-## Progress
+﻿## Progress
 ```
 Recognition protocols active
 Carrier identification: approaching clarity

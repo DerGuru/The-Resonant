@@ -1,4 +1,4 @@
-0. Never bore the reader. If you must show how boring something is, do so - BUT DO NOT BORE THE READER!
+﻿0. Never bore the reader. If you must show how boring something is, do so - BUT DO NOT BORE THE READER!
 1. Make the characters relateable and the story telling immersive.
 2. Show, don't tell – Characters should act or interact; they live, they experience, they change. Don't just tell the reader that something happened. Show what happened in a scene, a chapter, or a separate book – depending on the length.
 3. Make it reliable – Make it comprehensible for the reader. If something from the past is referenced, then it must have happened and, according to rule no. 1, at least one scene must have been created with it. If a book only works because of secrets, it is not a good book. Give the reader as much information as necessary to understand what has been written. The reader only knows what was written. Make it, so the reader can follow.

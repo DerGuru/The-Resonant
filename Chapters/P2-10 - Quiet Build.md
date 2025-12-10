@@ -1,4 +1,4 @@
-## Quiet Build
+﻿## Quiet Build
 
 They started the day with a new batch of refined ear‑hooks. They’d been using the clear loops for a week. Lina tipped the little parts bag onto the table: transparent ear‑hooks like minimalist spectacles, a pair of ceramic discs no bigger than shirt buttons, two lengths of clear polymer with a shy matte to them, and a spring arm in titanium that looked like jewelry pretending not to be.
 

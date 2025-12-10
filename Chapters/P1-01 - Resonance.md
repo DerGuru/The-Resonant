@@ -1,4 +1,4 @@
-# Part 1 - Lost and Found
+﻿# Part 1 - Lost and Found
 
 ## Resonance
 A screen flickered softly in the empty cubicle, casting ghostly shadows across Jason Fischer's hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.

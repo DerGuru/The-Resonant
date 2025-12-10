@@ -1,4 +1,4 @@
-# Character Profile: Elyra Voss
+﻿# Character Profile: Elyra Voss
 
 
 ## Synopsis

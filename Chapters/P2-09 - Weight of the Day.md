@@ -1,4 +1,4 @@
-## Weight of the Day
+﻿## Weight of the Day
 
 Steam drifted in ribbons above the pass. The radio near the espresso machine mumbled a song that could have been any song; the clatter and hiss of the kitchen turned melody into texture. Lina slid plates along the pass like they were chess pieces, quick wrists, focused eyes, ponytail a metronome.
 

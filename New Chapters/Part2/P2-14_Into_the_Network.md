@@ -1,4 +1,4 @@
-# Ch. 14 - "This is Mill-4"
+ï»¿# Ch. 14 - "This is Mill-4"
 
 The message came through Milo's monitoring system at 2:17 AM.
 
@@ -22,7 +22,7 @@ Jason: *"We need to see this. Tomorrow night."*
 
 ---
 
-They planned carefully. Not infiltration—observation. Lina was adamant about that.
+They planned carefully. Not infiltrationï¿½observation. Lina was adamant about that.
 
 "We watch from a distance," she said, sketching their approach on Milo's map. "Binoculars. Sensors. No physical contact. If we see something interesting, we document and leave."
 
@@ -50,7 +50,7 @@ Milo nodded. "I've been monitoring Mill-4 for weeks. There are blind spots in th
 
 The next night, they moved.
 
-Dressed in dark, non-reflective clothing. Carrying minimal gear—binoculars, a directional microphone, Milo's portable sensor array. Everything chosen to avoid attention.
+Dressed in dark, non-reflective clothing. Carrying minimal gearï¿½binoculars, a directional microphone, Milo's portable sensor array. Everything chosen to avoid attention.
 
 They approached from the east, using the abandoned industrial zone's terrain for cover. Stayed low. Moved between shadows. Lina led, her academy training showing in every careful step.
 
@@ -60,7 +60,7 @@ They settled in, each taking a position.
 
 "Activity," Lina whispered, adjusting her binoculars. "Three vehicles. Unmarked. Arriving at the south entrance."
 
-Jason focused his own view. The vehicles were civilian models—vans, sedans—but moved with military precision. Parked in coordinated positions. Occupants emerged wearing what looked like maintenance uniforms.
+Jason focused his own view. The vehicles were civilian modelsï¿½vans, sedansï¿½but moved with military precision. Parked in coordinated positions. Occupants emerged wearing what looked like maintenance uniforms.
 
 But the way they moved wasn't maintenance. It was security.
 
@@ -110,9 +110,9 @@ More vehicles arrived. But these were different. Official. Marked with governmen
 
 "That's Harmonic Authority," Lina breathed. "Direct oversight."
 
-A figure emerged from the lead vehicle. Tall. Precise movements. Even from this distance, Jason could sense something about him—authority, confidence, control.
+A figure emerged from the lead vehicle. Tall. Precise movements. Even from this distance, Jason could sense something about himï¿½authority, confidence, control.
 
-"Thomas Reeves," Milo said, zooming in with his camera. "Malvek's second. If he's here personally—"
+"Thomas Reeves," Milo said, zooming in with his camera. "Malvek's second. If he's here personallyï¿½"
 
 "Then something important is happening," Lina finished.
 
@@ -122,7 +122,7 @@ They watched Reeves enter the facility. Watched the security posture tighten. Wa
 
 They packed quickly. Efficiently. Left no trace of their presence.
 
-The route out was longer than the route in—Lina insisted on a circuitous path to avoid any chance of backtracking. It added thirty minutes to their escape, but Jason didn't argue.
+The route out was longer than the route inï¿½Lina insisted on a circuitous path to avoid any chance of backtracking. It added thirty minutes to their escape, but Jason didn't argue.
 
 Better cautious than caught.
 
@@ -134,11 +134,11 @@ They didn't speak until they were back in Milo's apartment, equipment stowed, do
 
 "That was bigger than we expected," Lina said. "Infrastructure like that doesn't happen overnight. Malvek's been building this for years."
 
-"And now we know where it is," Jason added. "Which means we're a threat. If they realize we were watching—"
+"And now we know where it is," Jason added. "Which means we're a threat. If they realize we were watchingï¿½"
 
 "They won't," Lina interrupted. "We were careful. No resonance use. No digital traces. We were ghosts."
 
-"Ghosts still cast shadows," Milo said. "If they're paranoid enough—and they should be—they'll review security footage. Run pattern analysis. Look for anomalies."
+"Ghosts still cast shadows," Milo said. "If they're paranoid enoughï¿½and they should beï¿½they'll review security footage. Run pattern analysis. Look for anomalies."
 
 "Then we don't give them anomalies to find," Jason said. "We go dark. No more archive searches. No more surveillance. We focus on training. Getting strong enough to matter."
 
@@ -146,7 +146,7 @@ They didn't speak until they were back in Milo's apartment, equipment stowed, do
 
 "Elyra needs to see this," Lina said, holding up Milo's camera. "The footage, the sensor data, all of it. She'll know what it means."
 
-"Tomorrow," Jason agreed. "We brief her. Then we train. Because if that's Malvek's main facility—if that's where he's keeping everything he's collected—then we just became a problem he can't ignore."
+"Tomorrow," Jason agreed. "We brief her. Then we train. Because if that's Malvek's main facilityï¿½if that's where he's keeping everything he's collectedï¿½then we just became a problem he can't ignore."
 
 "Good," Milo said, surprising them. "Let him worry. Let him wonder who's watching. Maybe it'll make him sloppy."
 
@@ -170,7 +170,7 @@ And beneath it all, forty meters down, something vast and shielded waited.
 
 *You're worried,* RAE observed.
 
-**We walked right up to the edge of Malvek's operation. If he realizes—**
+**We walked right up to the edge of Malvek's operation. If he realizesï¿½**
 
 *He won't. You were careful. Professional. You did exactly what Lina trained you to do.*
 
@@ -184,7 +184,7 @@ And beneath it all, forty meters down, something vast and shielded waited.
 
 Jason hoped she was right.
 
-Because the alternative—being swept up, contained, erased like those archive records—was unacceptable.
+Because the alternativeï¿½being swept up, contained, erased like those archive recordsï¿½was unacceptable.
 
 They'd come too far.
 

@@ -1,4 +1,4 @@
-# Character Profile: Jason Fischer
+﻿# Character Profile: Jason Fischer
 
 ## Synopsis
 Jason Fischer is the main character. He is an unassuming man with roots in Germany and upbringing in Canada. At the start of the story, he lives a mundane life with a normal job, dealing with everyday problems. Though he is aware of harmmonic resonance's existence in the world, he never imagined wielding it himself. His journey begins when he accidentally gets involved with RAE (Frequency AI) and discovers his affinity for harmonic resonance and gradually uncovers their extraordinary potential. He is secretly in love with Lina, but would not tell her on his life in fear of rejection and destroying their friendship.

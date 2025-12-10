@@ -1,4 +1,4 @@
-# Part 2 Quote-Based Titles - PLAN
+﻿# Part 2 Quote-Based Titles - PLAN
 
 ## Part 2: In Search of Elyra (18 chapters)
 

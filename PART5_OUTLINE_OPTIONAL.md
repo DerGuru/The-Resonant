@@ -1,4 +1,4 @@
-# Part 5: Resonance & Legacy - Outline (OPTIONAL CONTINUATION)
+﻿# Part 5: Resonance & Legacy - Outline (OPTIONAL CONTINUATION)
 
 ## Overview
 

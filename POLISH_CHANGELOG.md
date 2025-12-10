@@ -1,4 +1,4 @@
-# Polish Changelog - Minor Edits
+ï»¿# Polish Changelog - Minor Edits
 
 ## Summary
 Applied "minor polish" based on alpha reader feedback. Focus on:
@@ -16,7 +16,7 @@ Applied "minor polish" based on alpha reader feedback. Focus on:
 - **System Log Formatting**: Standardized all system log blocks to use consistent bracket formatting
   - Changed inconsistent `**Status:**` to `[ Status: ... ]`
   - Unified section headers to use brackets throughout
-  - Changed `?` bullets to `•` for consistency
+  - Changed `?` bullets to `ï¿½` for consistency
 - **Opening Variation**: Changed "The air was too still" to "The air was unnaturally still" (stronger word choice)
 - **Filter Word Reduction**: Changed "Elyra Voss knew something" to "Elyra Voss sensed something"
 
@@ -99,7 +99,7 @@ Applied "minor polish" based on alpha reader feedback. Focus on:
 ### System Logs (RAE's internal monologue)
 - All status headers now use `[ Status: ... ]` format
 - Section headers use brackets: `[ Memory Fragments Reactivated ]`
-- Bullet points changed from `?` to `•` for consistency
+- Bullet points changed from `?` to `ï¿½` for consistency
 - Removed inconsistent bolding in status blocks
 
 ---

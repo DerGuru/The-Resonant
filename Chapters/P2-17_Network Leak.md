@@ -1,4 +1,4 @@
-# Network Leak
+﻿# Network Leak
 
 The shared workspace after hours was all glass and leftover breath. A strip of vending‑machine light threw a cold bar across the carpet. Milo had colonized a four‑seat table with open laptops, his new **Gen‑3 monitor eye** cupped like a pet cyclops in a foam ring, and a diaspora of snack wrappers routed into defensible piles. Status windows climbed his screens like ivy.
 

@@ -1,4 +1,4 @@
-## Residue
+﻿## Residue
 
 Jason waited for Lina at the table, reading on his phone. They walked in silence most of the way back from the restaurant. She hadn’t asked questions, and he hadn’t spoken much more. He was grateful that she accompanied him now and it was enough, somehow, that she was willing to come with him later. That promise settled something in him. Not peace, exactly. But steadiness.
 

@@ -1,4 +1,4 @@
-## Forbidden Maps
+﻿## Forbidden Maps
 
 Something was going on in Old Sector Mill‑4. It didn’t add up and there was a whole list of reasons why, taped to Milo’s fridge—crooked and insistent as a toothache. Someone had printed a transit map and highlighted a bend that shouldn’t be there; someone else had scrawled **streetlights: out in a neat diagonal, three blocks long**. A third sticky note read: *bench clusters don’t match footfall*. That one was Milo’s, underlined twice and accompanied by a tiny doodle of a pigeon with an MBA.
 

@@ -1,4 +1,4 @@
-## The Contact
+﻿## The Contact
 
 The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made—the paper cutter’s heavy thunk, followed by a breath held and released.
 

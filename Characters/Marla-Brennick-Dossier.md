@@ -1,4 +1,4 @@
-# 📜 Dossier: Marla Brennick  
+﻿# 📜 Dossier: Marla Brennick  
 **Alias (rarely used):** *The Silent Flame*  
 **Role:** Former Lead Theorist of the Harmonic Integration Project  
 **Status:** Survivor of the RAE Ritual / Muted / Voluntarily Isolated / Considered unstable but not criminal  

@@ -1,4 +1,4 @@
-## No Plans, No Pressure
+﻿## No Plans, No Pressure
 The flea market was more noise than purpose. A maze of fold-out tables, milk crates, and handwritten price tags. Somewhere between rusted tools and vintage magazines, Jason walked beside Lina in comfortable aimlessness.
 
 “Still no luck?” she asked, sipping something vaguely coffee-like from a paper cup.

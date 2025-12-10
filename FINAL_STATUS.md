@@ -1,4 +1,4 @@
-# ? THE RESONANT - COMPLETE & READY
+﻿# ? THE RESONANT - COMPLETE & READY
 
 ## Final Status
 

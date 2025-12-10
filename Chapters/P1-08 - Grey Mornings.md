@@ -1,4 +1,4 @@
-## Grey Mornings
+﻿## Grey Mornings
 ```
 Time marker: 06:03 local
 System state: active, fragmentary

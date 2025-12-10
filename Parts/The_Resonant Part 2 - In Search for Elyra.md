@@ -1,4 +1,4 @@
-# The Resonant - Part 2
+﻿# The Resonant - Part 2
 
 ## Between Storm and Step
 

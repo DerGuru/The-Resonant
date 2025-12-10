@@ -1,4 +1,4 @@
-## Acknowledged
+﻿## Acknowledged
 
 The restaurant had gone quiet around them. A few dishes clinked in the background, but most of the evening rush had passed. The storm still whispered outside, more drizzle than rain now.
 

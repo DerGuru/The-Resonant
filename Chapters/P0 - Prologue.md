@@ -1,4 +1,4 @@
-# Prologue
+﻿# Prologue
 
 Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly - too subtly - in ways she could no longer trust.
 

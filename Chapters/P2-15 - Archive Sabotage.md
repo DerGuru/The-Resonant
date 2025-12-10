@@ -1,4 +1,4 @@
-## Archive Sabotage
+﻿## Archive Sabotage
 
 The archive after hours had opinions about humidity. Air handlers over‑explained themselves, and the tape library clicked like an anxious metronome trying to be helpful. Rows of server racks glowed a municipal blue that said: *we are calm even when we are not*.
 

@@ -1,4 +1,4 @@
-## Ch. 10 - "We're offering protection"
+ï»¿## Ch. 10 - "We're offering protection"
 
 **Five weeks into training.**
 
@@ -10,7 +10,7 @@ Mid-thirties. Gray suit that fit well but not expensively. The kind of face you'
 
 "Mr. Fischer."
 
-Not a question. Jason stopped walking. His perception rippled outward automatically now—a habit Elyra had drilled into him. Twenty meters. Thirty. The street resolved: lunch crowd, car exhaust, a delivery truck idling, pigeons on the overhead wires.
+Not a question. Jason stopped walking. His perception rippled outward automatically nowï¿½a habit Elyra had drilled into him. Twenty meters. Thirty. The street resolved: lunch crowd, car exhaust, a delivery truck idling, pigeons on the overhead wires.
 
 No one else paying attention.
 
@@ -34,7 +34,7 @@ Reeves gestured toward a bench fifteen meters down the block. "Walk with me?"
 
 Jason's pulse kicked up. He kept his face neutral. "I don't know what you're talking about."
 
-"Of course not." Reeves almost smiled. "Let me be direct. The Authority isn't here to shut you down. We're here because our director believes unmonitored integration is a risk—to you and to others. We're offering oversight. Support. Access to resources that would help you manage whatever's happening safely."
+"Of course not." Reeves almost smiled. "Let me be direct. The Authority isn't here to shut you down. We're here because our director believes unmonitored integration is a riskï¿½to you and to others. We're offering oversight. Support. Access to resources that would help you manage whatever's happening safely."
 
 "In exchange for?"
 
@@ -74,7 +74,7 @@ Elyra held the card under her desk lamp, examining it like a counterfeit bill. L
 
 "Thomas Reeves," Milo read from his screen. "Public records show HOA field agent, clearance tier three. No social media. No personal details. Just work history. Guy's a ghost."
 
-"He's a recruiter," Elyra said, setting the card down. "Malvek's recruiter. This is how the Authority operates. They identify unaffiliated practitioners, offer oversight, and if you refuse—"
+"He's a recruiter," Elyra said, setting the card down. "Malvek's recruiter. This is how the Authority operates. They identify unaffiliated practitioners, offer oversight, and if you refuseï¿½"
 
 "They what?" Lina asked.
 

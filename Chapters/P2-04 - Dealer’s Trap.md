@@ -1,4 +1,4 @@
-## Dealer’s Trap
+﻿## Dealer’s Trap
 
 The basement shop had the kind of lighting that made coins look honest and people look slightly underwater. Four mismatched fluorescents hummed at different ages, two cool-white, one tired blue, one that took a breath between flickers. The smell was citrus cleaner over dust, as if someone had mopped truth onto the floor and left lies on the shelves.
 

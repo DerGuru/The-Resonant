@@ -1,4 +1,4 @@
-# OPTIMIZATION COMPLETE ? - December 2024
+﻿# OPTIMIZATION COMPLETE ? - December 2024
 
 ## Summary
 

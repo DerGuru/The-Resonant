@@ -1,4 +1,4 @@
-## Aligned
+﻿## Aligned
 
 Jason sat on the edge of the service stairs outside the archive wing, elbows resting on his knees. The city hummed - low, distant, indifferent. He hadn’t touched his thermos. He hadn’t moved in minutes.
 

@@ -1,4 +1,4 @@
-# Ch. 09 - "Precision over power"
+ï»¿# Ch. 09 - "Precision over power"
 
 Six weeks into training with Elyra, and Jason's head still hurt every night.
 
@@ -6,7 +6,7 @@ Not the sharp, dangerous pain of Orange or Red. Just a persistent ache behind hi
 
 Jason wasn't entirely convinced either of them was right.
 
-"Again," Elyra said, tapping her cane against the floor. Not hard—just enough to make the point. "You're forcing it. Resonance doesn't respond to brute effort."
+"Again," Elyra said, tapping her cane against the floor. Not hardï¿½just enough to make the point. "You're forcing it. Resonance doesn't respond to brute effort."
 
 Jason took a breath, focused on the ceramic bowl in front of him. His task was simple in theory: sense the bowl's harmonic signature and match his own resonance to it. Not change it. Not manipulate it. Just... harmonize.
 
@@ -16,7 +16,7 @@ He'd been trying for forty minutes.
 
 "441," Elyra corrected. "And feeling isn't enough. You need to align with it. Become part of the same resonance field."
 
-"I'm trying—"
+"I'm tryingï¿½"
 
 "You're pushing. There's a difference." She moved to the board where she'd drawn chalk diagrams. "Look. Resonance is like a conversation. If you shout, the other person shouts back. If you whisper, they lean in to listen. You're shouting at that bowl."
 
@@ -70,7 +70,7 @@ His awareness of the bowl sharpened. He could feel the temperature differential 
 
 "How do you know that?"
 
-"I can taste it. Not literally, but... the resonance has flavor. The tin oxide has this sharp, clean signature. And there's iron in the clay body—I can feel the slight magnetic response."
+"I can taste it. Not literally, but... the resonance has flavor. The tin oxide has this sharp, clean signature. And there's iron in the clay bodyï¿½I can feel the slight magnetic response."
 
 Elyra was quiet for a moment. Then: "Open your eyes."
 
@@ -82,7 +82,7 @@ Jason did. Blinked. The room swam back into focus.
 
 Jason felt a flutter of concern. "Is that safe?"
 
-"It's fine," Elyra said. "Integration fluctuates during active work. The baseline is what matters. And yours is holding steady at 24%." She picked up the bowl, turned it over. "This bowl is eighty years old. Manufactured in 1945. The glaze is indeed tin-oxide based—they switched from lead during the war due to shortages. And yes, there's iron oxide in the clay body. About 3% by weight."
+"It's fine," Elyra said. "Integration fluctuates during active work. The baseline is what matters. And yours is holding steady at 24%." She picked up the bowl, turned it over. "This bowl is eighty years old. Manufactured in 1945. The glaze is indeed tin-oxide basedï¿½they switched from lead during the war due to shortages. And yes, there's iron oxide in the clay body. About 3% by weight."
 
 She set it down carefully. "You perceived all of that through resonance alone. That's not beginner work, Jason. That's competent practice."
 
@@ -90,25 +90,25 @@ The words settled over him like warmth. Competent. Not great. Not masterful. But
 
 It felt like winning a marathon.
 
-"Don't get cocky," Elyra added, as if reading his thoughts. "You can perceive well now. But perception is only step one. Shaping is harder. And combat shaping—using resonance under pressure, against resistance—that's a whole different skill set."
+"Don't get cocky," Elyra added, as if reading his thoughts. "You can perceive well now. But perception is only step one. Shaping is harder. And combat shapingï¿½using resonance under pressure, against resistanceï¿½that's a whole different skill set."
 
 "Which is why we're here," Lina said. "To learn that too."
 
 Elyra nodded. "Eventually. But precision first. Power without precision is just destruction. And there are enough people in this world who destroy things. We don't need more."
 
-She moved to a cabinet, pulled out a wooden box. Inside were what looked like children's toys—wooden blocks, metal washers, glass marbles.
+She moved to a cabinet, pulled out a wooden box. Inside were what looked like children's toysï¿½wooden blocks, metal washers, glass marbles.
 
 "These are carriers," she explained. "Objects that can hold and transmit resonance patterns. Your job for the next two weeks is to learn how to tune them. Make a block resonate at exactly 440 Hz. Make a washer respond to your baseline frequency. Make a marble store a simple pattern and release it on command."
 
-She placed a steel washer and a wooden block side by side on the table. "But first, you need to understand what makes a good carrier. It's not just about invest—how much effort you put in. It's about quality and firmness."
+She placed a steel washer and a wooden block side by side on the table. "But first, you need to understand what makes a good carrier. It's not just about investï¿½how much effort you put in. It's about quality and firmness."
 
 Jason leaned forward, listening.
 
-"Quality," Elyra continued, "is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signature—high quality for frequency-based work. Wood is more complex, with organic variations—good quality for pattern storage, but harder to control. Glass is somewhere between." She tapped each object. "If the quality is poor—if you're fighting the material's nature—you'll exhaust yourself achieving nothing."
+"Quality," Elyra continued, "is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signatureï¿½high quality for frequency-based work. Wood is more complex, with organic variationsï¿½good quality for pattern storage, but harder to control. Glass is somewhere between." She tapped each object. "If the quality is poorï¿½if you're fighting the material's natureï¿½you'll exhaust yourself achieving nothing."
 
 "And firmness?" Lina asked.
 
-"Structural tolerance. How much the material can hold before it breaks down." Elyra picked up the steel washer. "This steel has high firmness. You can invest heavily, push aggressive patterns, and it'll hold. But this wooden block?" She lifted it. "Firmness is moderate. Push too hard and you'll fracture the grain structure. The pattern will collapse—or worse, splinter unpredictably."
+"Structural tolerance. How much the material can hold before it breaks down." Elyra picked up the steel washer. "This steel has high firmness. You can invest heavily, push aggressive patterns, and it'll hold. But this wooden block?" She lifted it. "Firmness is moderate. Push too hard and you'll fracture the grain structure. The pattern will collapseï¿½or worse, splinter unpredictably."
 
 She set them down carefully. "Every material has different quality and firmness for different tasks. Learning to read that before you invest is what separates competent practitioners from dead ones. You don't test firmness by breaking things. You sense it. Respect it. Work within its limits."
 
@@ -134,7 +134,7 @@ Jason looked at the box of carriers. Suddenly they seemed less like toys and mor
 
 **Can you teach me to do it myself?**
 
-*With Elyra's help, yes. It's a form of harmonic dampening—making your pattern appear quieter than it is without actually reducing capability.*
+*With Elyra's help, yes. It's a form of harmonic dampeningï¿½making your pattern appear quieter than it is without actually reducing capability.*
 
 "Alright," Jason said, picking up the washer. "Thirty minutes. Stable frequency. I can do that."
 
@@ -146,7 +146,7 @@ Four hours later, Jason's hands were shaking and his head was firmly in Yellow t
 
 But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His baseline frequency.
 
-"Good enough," Elyra said, checking it with her own senses. "Not perfect—there's about a 0.3 Hz drift over time—but functional. We'll work on stability tomorrow."
+"Good enough," Elyra said, checking it with her own senses. "Not perfectï¿½there's about a 0.3 Hz drift over timeï¿½but functional. We'll work on stability tomorrow."
 
 "Tomorrow?" Jason wanted to collapse right there on the floor.
 
@@ -154,11 +154,11 @@ But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His ba
 
 "From Malvek," Milo said.
 
-"Among others." Elyra's expression was grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours—" she gestured at Jason, "—is rare enough to be valuable. Which makes you a target."
+"Among others." Elyra's expression was grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yoursï¿½" she gestured at Jason, "ï¿½is rare enough to be valuable. Which makes you a target."
 
 "So what do we do?" Lina asked.
 
-"You get better. Fast enough to defend yourselves. Careful enough not to draw unnecessary attention." Elyra moved to the door. "And you trust each other. Because when someone tries to separate you—and they will try—the only thing that will keep you alive is knowing your team has your back."
+"You get better. Fast enough to defend yourselves. Careful enough not to draw unnecessary attention." Elyra moved to the door. "And you trust each other. Because when someone tries to separate youï¿½and they will tryï¿½the only thing that will keep you alive is knowing your team has your back."
 
 She left, her cane tapping echoes down the hallway.
 

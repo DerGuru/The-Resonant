@@ -1,4 +1,4 @@
-## Field Test
+﻿## Field Test
 
 The junction didn’t look like a secret. It looked like municipal honesty: a curb that had seen winters, a storm grate that had opinions, paint that was still doing its job despite indifference. If you squinted, the street told you exactly what it was—until you asked it to repeat itself.
 

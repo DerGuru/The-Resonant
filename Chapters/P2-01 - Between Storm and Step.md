@@ -1,4 +1,4 @@
-## Between Storm and Step
+﻿## Between Storm and Step
 
 The storm had done its work and left, as if the sky had finished a sentence and refused to explain the grammar. Morning found the stairwell where Jason sat still smelling faintly of wet concrete and ozone. A city truck rumbled past outside, its amber beacon blinking a metronome across the landing window. No sirens. The world went on.
 

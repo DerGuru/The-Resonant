@@ -1,4 +1,4 @@
-### Night Measurement
+﻿### Night Measurement
 
 Rain made the city sound honest. Anything that couldn’t hold itself together admitted it with a drip. They worked under a borrowed tarp that snapped with every gust. Sodium streetlight washed everything amber—the plastic ponchos, the duct‑taped handles of their handheld meters, the far slick of pavement that pretended to be a river. The storm had split and was dragging its rags across the northern sky. Lightning stitched in the distance, never quite where thunder wanted it.
 

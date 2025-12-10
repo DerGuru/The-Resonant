@@ -1,4 +1,4 @@
-# THE RESONANT - Royal Road Cover Text
+﻿# THE RESONANT - Royal Road Cover Text
 
 ## Title
 **The Resonant**

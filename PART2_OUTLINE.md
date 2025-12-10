@@ -1,4 +1,4 @@
-# Part 2: In Search of Elyra - Final Outline
+﻿# Part 2: In Search of Elyra - Final Outline
 
 **Status:** Complete (18 chapters)  
 **Timeline:** ~8 weeks  

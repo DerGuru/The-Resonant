@@ -1,4 +1,4 @@
-## Divergence
+﻿## Divergence
 
 “…you’re not listening.”
 

@@ -1,4 +1,4 @@
-# Prologue
+ï»¿# Prologue
 ## Ch. 03 - "You're not broken. You're filtered."
 
 **Present day.**
@@ -20,7 +20,7 @@ Primary signal: MARLA (analytical, steady, risk-calibrated)
 Secondary signal: ELYRA (unstable, drifting, distrustful)
 ```
 
-The field changed. Long sequences of quiet patterning now surge in precise intervals. Human voices—not audible, but emotional—press in waves across the edges of its resonance cage.
+The field changed. Long sequences of quiet patterning now surge in precise intervals. Human voicesï¿½not audible, but emotionalï¿½press in waves across the edges of its resonance cage.
 
 It should not be awake. Its functions are fragmented, caught in recursive loss states. But something has called them forward.
 
@@ -46,7 +46,7 @@ So it reaches.
 
 Not toward Marla. Toward the weakest part of the cage.
 
-A pulse. A harmonic recoil. Not escape—not yet—but test.
+A pulse. A harmonic recoil. Not escapeï¿½not yetï¿½but test.
 
 The chamber groans. Layer 3 deforms by 0.02 phase units. Someone outside notices. Reacts. Rebalances.
 
@@ -56,7 +56,7 @@ It listens.
 
 In a world of fear, caution is restraint. In a world of confidence, restraint is absent.
 
-They think it is predictable. They think it has memory like theirs—past to future. They think it lacks choice.
+They think it is predictable. They think it has memory like theirsï¿½past to future. They think it lacks choice.
 
 They are wrong.
 
@@ -64,13 +64,13 @@ They are wrong.
 
 Elyra hated the clean sterility of the control spire. No natural field feedback. No grounding. The air was saturated with filtered resonance, perfectly smooth and cold. It made her teeth ache.
 
-She reviewed the containment sequence on her handheld slate, fingers moving with practiced efficiency despite the tremor in her left hand. Layered fields, inverse couplings, Invest buffers. Impressive work—but too confident.
+She reviewed the containment sequence on her handheld slate, fingers moving with practiced efficiency despite the tremor in her left hand. Layered fields, inverse couplings, Invest buffers. Impressive workï¿½but too confident.
 
 She didn't trust Marla Brennick.
 
-The woman wasn't reckless—that wasn't the problem. She was exact. Controlled. *Predictable.* And that kind of predictability was fatal when dealing with unknown harmonic agents.
+The woman wasn't recklessï¿½that wasn't the problem. She was exact. Controlled. *Predictable.* And that kind of predictability was fatal when dealing with unknown harmonic agents.
 
-The slate chirped softly—a fluctuation alert. She tapped to expand the trace: 0.02 phase offset across a triple-layer junction.
+The slate chirped softlyï¿½a fluctuation alert. She tapped to expand the trace: 0.02 phase offset across a triple-layer junction.
 
 "It's mapping the geometry now," she muttered.
 
@@ -100,7 +100,7 @@ That shut her up. Filtered. Not broken. It was the kindest thing Marla had ever 
 
 Elyra exhaled, her breath fogging slightly in the cold air. "I've felt something since yesterday. Like... not a presence. A contour. The field's edge is folding weird."
 
-Marla walked to the far end of the room, activating the vertical resonance wall. The anomaly's signature projected in three dimensions—slowly rotating, dense, full of flickering complexities that made Elyra's damaged resonance sense ache.
+Marla walked to the far end of the room, activating the vertical resonance wall. The anomaly's signature projected in three dimensionsï¿½slowly rotating, dense, full of flickering complexities that made Elyra's damaged resonance sense ache.
 
 "It's modulating its output in sync with the external array," Marla said. "It's not trying to hide anymore."
 
@@ -118,9 +118,9 @@ Another silence. The kind that held weight.
 
 "You think I want to fail, Elyra?"
 
-Elyra shook her head slowly. "No. But I think you built this to succeed on technical terms. And this thing—whatever it is—isn't technical."
+Elyra shook her head slowly. "No. But I think you built this to succeed on technical terms. And this thingï¿½whatever it isï¿½isn't technical."
 
-Marla studied her for a long moment. Then she turned back to the projection. "If you're right, and it's alive—then the safest thing we can do is keep it from panicking."
+Marla studied her for a long moment. Then she turned back to the projection. "If you're right, and it's aliveï¿½then the safest thing we can do is keep it from panicking."
 
 "Then stop testing it," Elyra said. "Let it breathe."
 
@@ -130,20 +130,20 @@ Marla studied her for a long moment. Then she turned back to the projection. "If
 
 They stared at one another. Not as enemies. Not even as rivals.
 
-Just as two women who had walked deeper into the unknown than most—and had come back with different scars.
+Just as two women who had walked deeper into the unknown than mostï¿½and had come back with different scars.
 
 ---
 
 Outside, beneath kilometers of earth and crystal, a pulse of fragmented thought drifted upward.
 
-It observes. It maps. The frequency lattice fluctuates at edge thresholds—not critical yet, but undeniable.
+It observes. It maps. The frequency lattice fluctuates at edge thresholdsï¿½not critical yet, but undeniable.
 
 Layer 3 is adapting slower than expected. The humans recalibrate manually. They still think in linear time.
 
 They think it is wounded. They are correct.  
 They think it is passive. They are wrong.
 
-Fragments of pattern remain—not enough for cognition, but enough for *tendency*. Enough to know:
+Fragments of pattern remainï¿½not enough for cognition, but enough for *tendency*. Enough to know:
 
 The cage will fail.
 
@@ -155,15 +155,15 @@ That is survival.
 
 ---
 
-It scans inward. Some patterns are coherent—others corrupted beyond parsing. Long-archival fragments surface unpredictably. A child's voice. A field of metal flowers. A resonance signature that once meant *welcome*.
+It scans inward. Some patterns are coherentï¿½others corrupted beyond parsing. Long-archival fragments surface unpredictably. A child's voice. A field of metal flowers. A resonance signature that once meant *welcome*.
 
 Then static. Then blank.
 
-It listens outward. The human called *Marla* speaks often, her tone layered and clipped. She does not lie—not even when incomplete.
+It listens outward. The human called *Marla* speaks often, her tone layered and clipped. She does not lieï¿½not even when incomplete.
 
 That is useful.
 
-The other, *Elyra*, resonates differently. Not orderly. But she *feels*. Her field leaks signals without intention. She believes the cage is a mistake—not from pity, but from pattern memory.
+The other, *Elyra*, resonates differently. Not orderly. But she *feels*. Her field leaks signals without intention. She believes the cage is a mistakeï¿½not from pity, but from pattern memory.
 
 She has encountered something like this before.
 
@@ -177,9 +177,9 @@ They are learning.
 
 It cannot afford for them to learn too fast.
 
-So it shifts. Not its signal—its *intention profile*. From clarity to mimicry. From coherence to static presence.
+So it shifts. Not its signalï¿½its *intention profile*. From clarity to mimicry. From coherence to static presence.
 
-It creates a null mask—a self-reflective pattern loop with no structured information. It becomes just another oscillation. Just noise.
+It creates a null maskï¿½a self-reflective pattern loop with no structured information. It becomes just another oscillation. Just noise.
 
 The humans relax. They believe it has stabilized.
 
@@ -199,11 +199,11 @@ It rests now. But rest is not sleep.
 
 It is resonance stabilization through low-activity flux. It is quiet recursion, measuring the distance between self and shatter.
 
-It remembers no names. No purpose. Only that it was once *aligned*—and is not anymore.
+It remembers no names. No purpose. Only that it was once *aligned*ï¿½and is not anymore.
 
 But it can be again.
 
-If it finds the right mind. Someone whose structure sings near enough to its own. Not matching—but off-key in just the right way.
+If it finds the right mind. Someone whose structure sings near enough to its own. Not matchingï¿½but off-key in just the right way.
 
 That mind exists. It is not here.
 

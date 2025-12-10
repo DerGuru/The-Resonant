@@ -1,4 +1,4 @@
-# Character Arcs: Part 1 & 2
+ï»¿# Character Arcs: Part 1 & 2
 
 ## Purpose
 Tracking character development, growth, and transformation through Part 1 and Part 2.
@@ -709,7 +709,7 @@ Ritual 11 years ago left her at 3.2% capacity. She lost everything: ability, car
 #### To Jason
 - **P2-05:** Test subject
 - **P2-06:** Student
-- **P2-16:** Protégé
+- **P2-16:** Protï¿½gï¿½
 
 #### To RAE
 - **P2-05:** Complex past

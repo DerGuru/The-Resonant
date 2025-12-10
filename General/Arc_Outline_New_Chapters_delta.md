@@ -1,4 +1,4 @@
-# The Resonant - Arc Outline (New Chapters Only)
+﻿# The Resonant - Arc Outline (New Chapters Only)
 
 > Delta list against current `Arc Outline.md`. Use these to plug straight into the master outline. Each beat block is kept short and writer-facing.
 

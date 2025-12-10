@@ -1,4 +1,4 @@
-## Resonance Market
+﻿## Resonance Market
 
 They found the market by following the smell of solder and the sound of ambitious extension cords. Under the overpass, rows of pop‑up tents leaned into one another like gossiping umbrellas. Coils and crystals hung from twine. Antique meters lay in velvet trays as if they were jewelry that measured regret.
 

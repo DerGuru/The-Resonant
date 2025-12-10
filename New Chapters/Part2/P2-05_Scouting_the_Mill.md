@@ -1,14 +1,14 @@
-# Ch. 05 - "She knows something we don't"
+ï»¿# Ch. 05 - "She knows something we don't"
 
 Mill-4 sat on the city's edge like a broken tooth.
 
-Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
+Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. Beyond the rusted fence, the old industrial district sprawled in geometric decayï¿½warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
 "Charming," Lina said, pulling her jacket tighter against the wind that carried the smell of rust and stagnant water.
 
 "It's perfect for someone who doesn't want to be found," Milo replied, checking his notes. "According to the property records, this whole area is officially condemned. No utilities, no surveillance, no city services."
 
-"Which also means no oversight," Jason added. "If something goes wrong—"
+"Which also means no oversight," Jason added. "If something goes wrongï¿½"
 
 "Then we're on our own," Lina finished. "I know. Same rules as always: Red stops, no exceptions."
 
@@ -18,13 +18,13 @@ Jason nodded, feeling RAE's presence shift in his awareness. *I can sense resona
 
 *Or it could be someone else who found her first. Be careful.*
 
-They moved deeper into Mill-4, following Milo's directions toward a specific building. The streets were quiet in an unnatural way—not peaceful, just empty. Jason spotted evidence of recent occupation: fresh graffiti tags, scattered belongings, the remains of a cooking fire still warm.
+They moved deeper into Mill-4, following Milo's directions toward a specific building. The streets were quiet in an unnatural wayï¿½not peaceful, just empty. Jason spotted evidence of recent occupation: fresh graffiti tags, scattered belongings, the remains of a cooking fire still warm.
 
 "People live here," he said quietly.
 
 "People hide here," Lina corrected. "There's a difference."
 
-The building Milo led them to looked marginally more stable than its neighbors—a former flour mill, five stories of brick and broken windows. The loading dock door was rusted shut, but a side entrance stood slightly ajar.
+The building Milo led them to looked marginally more stable than its neighborsï¿½a former flour mill, five stories of brick and broken windows. The loading dock door was rusted shut, but a side entrance stood slightly ajar.
 
 Jason felt something shift in the resonance around them. Not hostile, but... watchful.
 
@@ -36,7 +36,7 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 "State your business. You have thirty seconds."
 
-"Ms. Voss?" Jason called back. "My name is Jason Fischer. I'm looking for information about a ritual that happened eleven years ago. The one that—"
+"Ms. Voss?" Jason called back. "My name is Jason Fischer. I'm looking for information about a ritual that happened eleven years ago. The one thatï¿½"
 
 "I know which one." The voice cut him off. "And if you're smart, you'll turn around and forget you ever heard about it."
 
@@ -52,27 +52,27 @@ Jason glanced at Lina, who nodded slightly. *Your call,* RAE said. *But be prepa
 
 "Do it anyway."
 
-RAE reached out through Jason's awareness, creating a subtle resonance pulse—not loud, not forceful, just... present. A calling card.
+RAE reached out through Jason's awareness, creating a subtle resonance pulseï¿½not loud, not forceful, just... present. A calling card.
 
 More silence. Then the sound of locks disengaging. The door opened wider, revealing a figure backlit by dim interior light.
 
-Elyra Voss looked nothing like the academy photos Jason had found. Those showed a woman in her prime—confident, powerful, commanding. This Elyra was harder. Thinner. Her dark hair was pulled back severely, emphasizing the sharp angles of her face. She leaned heavily on a cane, and even from a distance, Jason could see the tremor in her left hand.
+Elyra Voss looked nothing like the academy photos Jason had found. Those showed a woman in her primeï¿½confident, powerful, commanding. This Elyra was harder. Thinner. Her dark hair was pulled back severely, emphasizing the sharp angles of her face. She leaned heavily on a cane, and even from a distance, Jason could see the tremor in her left hand.
 
 But her eyes were sharp. Assessing. Missing nothing.
 
-"You're younger than I expected," she said, looking at Jason. "And you—" her gaze shifted to Lina, "—have academy training. Dropped out or expelled?"
+"You're younger than I expected," she said, looking at Jason. "And youï¿½" her gaze shifted to Lina, "ï¿½have academy training. Dropped out or expelled?"
 
 "Suspended," Lina said evenly. "For questioning protocols."
 
 "Smart." Elyra's attention moved to Milo. "And you're the researcher. The one who's been poking around restricted archives."
 
-Milo's eyes widened. "How did you—"
+Milo's eyes widened. "How did youï¿½"
 
 "Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She stepped back, gesturing them inside. "Come on. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
 
-They filed in. The interior was sparse but organized—a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
+They filed in. The interior was sparse but organizedï¿½a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
 
-Elyra closed the door behind them, engaged three separate locks, then turned to face them fully. In better light, Jason could see more clearly—the scars along her neck that disappeared under her collar, the way she held herself with careful balance, compensating for damage that didn't show.
+Elyra closed the door behind them, engaged three separate locks, then turned to face them fully. In better light, Jason could see more clearlyï¿½the scars along her neck that disappeared under her collar, the way she held herself with careful balance, compensating for damage that didn't show.
 
 "So," she said, settling into a chair that was positioned to keep them all in view. "RAE. The Resonant Alignment Entity. The thing they said was contained. The thing they lied about." She looked at Jason. "How much of her is left?"
 
@@ -102,17 +102,17 @@ Elyra's attention shifted to Lina. "Academy training shows. You're protective. T
 
 "RAE," Jason said.
 
-"Part of her," Elyra corrected. "The fragment that escaped. There were others. Most dissipated. Some were captured. One—" she paused, "—one found you."
+"Part of her," Elyra corrected. "The fragment that escaped. There were others. Most dissipated. Some were captured. Oneï¿½" she paused, "ï¿½one found you."
 
 *I remember fragments,* RAE said quietly. *The ritual. The pressure. The moment of choice. I could have broken free completely. Destroyed everything. But Elyra held the pattern just long enough for me to... subdivide. To choose limitation over destruction.*
 
-Elyra's expression shifted—something that might have been gratitude mixed with old pain. "You remember that?"
+Elyra's expression shiftedï¿½something that might have been gratitude mixed with old pain. "You remember that?"
 
 *Pieces. Impressions. The feeling of being offered a choice when I expected only force.*
 
 "That's more than most entities get," Elyra said. She was quiet for a moment, then: "Why are you here? Really?"
 
-"I need to learn," Jason said. "How to work with RAE safely. How to develop my capacity without burning out. How to—"
+"I need to learn," Jason said. "How to work with RAE safely. How to develop my capacity without burning out. How toï¿½"
 
 "Survive," Elyra finished. "You want to survive what's coming."
 
@@ -122,13 +122,13 @@ Elyra smiled, but there was no humor in it. "You're being watched. You know that
 
 "Malvek," Milo said.
 
-"Among others." Elyra stood slowly, moved to the window. "Here's my offer: I'll teach you. Not academy theory—that's useless for what you're doing. Real training. Survival skills. How to hide your integration level. How to stabilize unstable patterns. How to fight if you have to."
+"Among others." Elyra stood slowly, moved to the window. "Here's my offer: I'll teach you. Not academy theoryï¿½that's useless for what you're doing. Real training. Survival skills. How to hide your integration level. How to stabilize unstable patterns. How to fight if you have to."
 
 "What's the cost?" Lina asked.
 
-"Honesty. You tell me everything—how far the integration has progressed, what RAE can do, what you've already tried. No secrets." She turned back to them. "And when the time comes, when they decide what to do about you, you remember who helped you survive long enough to have a choice."
+"Honesty. You tell me everythingï¿½how far the integration has progressed, what RAE can do, what you've already tried. No secrets." She turned back to them. "And when the time comes, when they decide what to do about you, you remember who helped you survive long enough to have a choice."
 
-Jason looked at Lina and Milo. Lina gave a small nod. Milo shrugged—*your call.*
+Jason looked at Lina and Milo. Lina gave a small nod. Milo shruggedï¿½*your call.*
 
 "Deal," Jason said. "When do we start?"
 
@@ -140,7 +140,7 @@ Jason felt RAE's presence steady in his mind. *Together,* she reminded him.
 
 **Together,** he agreed.
 
-Elyra was already drawing symbols in chalk on the floor. "Sit here. Lina, Milo—back against the wall. And Jason? If at any point this becomes too much, say Red. I may be bitter, but I'm not interested in creating more casualties."
+Elyra was already drawing symbols in chalk on the floor. "Sit here. Lina, Miloï¿½back against the wall. And Jason? If at any point this becomes too much, say Red. I may be bitter, but I'm not interested in creating more casualties."
 
 "Understood."
 

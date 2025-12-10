@@ -1,4 +1,4 @@
-## City Anomaly
+﻿## City Anomaly
 
 Weekend made the street honest. Strollers on cobbles. Bread smell that forgave last week. A busker had staked out the corner by the bakery queue and was pulling a single, held tone from a bowed saw that looked like a mistake and sounded like a glass thread.
 

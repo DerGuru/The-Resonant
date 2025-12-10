@@ -1,4 +1,4 @@
-## Aftermath
+﻿## Aftermath
 
 ```
 [Alignment Drift – Post-Event]

@@ -1,4 +1,4 @@
-# CHAPTER TITLE REFRESH - Quote-Based Titles
+﻿# CHAPTER TITLE REFRESH - Quote-Based Titles
 
 ## Concept
 

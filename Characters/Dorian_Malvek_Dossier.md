@@ -1,4 +1,4 @@
-# Character Profile: Dorian Malvek
+﻿# Character Profile: Dorian Malvek
 
 ## Synopsis
 Dorian is a pragmatic and driven individual, not inherently evil. He believes he is acting for the greater good. Over the course of the book, he becomes a complex opponent to Jason. However, at the climax of the book, he and Jason join forces against a greater threat. His motivations and past are revealed slowly, showing a mix of moral ambiguity and personal trauma. He is not a villain, but a rival who walks a different path. 

@@ -1,4 +1,4 @@
-# Core Premises of Harmonic Resonance "Magic"
+﻿# Core Premises of Harmonic Resonance "Magic"
 
 Note: This system requires no "spiritual essence", deities, or metaphysical forces. It is fully grounded in harmonic physics and intent-driven interaction with a resonant field.
 ---

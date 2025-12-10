@@ -1,7 +1,7 @@
-# Continuity Check: Part 1 & 2
+ï»¿# Continuity Check: Part 1 & 2
 
 ## Purpose
-Dieses Dokument dient als Referenz für die Konsistenz von Charakteren, Technologie, Timeline und Plot-Threads durch Part 1 und Part 2.
+Dieses Dokument dient als Referenz fï¿½r die Konsistenz von Charakteren, Technologie, Timeline und Plot-Threads durch Part 1 und Part 2.
 
 ---
 
@@ -11,8 +11,8 @@ Dieses Dokument dient als Referenz für die Konsistenz von Charakteren, Technolog
 
 #### Physical Description (established in P1-02)
 - Alter: 27 Jahre
-- Größe: Durchschnittlich
-- Build: "Desk-job body" - nicht dünn, nicht schwer, unremarkable
+- Grï¿½ï¿½e: Durchschnittlich
+- Build: "Desk-job body" - nicht dï¿½nn, nicht schwer, unremarkable
 - Haare: Dunkel, immer etwas zu lang um die Ohren
 - Brille: Wire-rimmed, schiebt sie oft hoch
 - Gesicht: Vergessbar, das Art von Gesicht das man nach 5 Minuten vergisst
@@ -113,14 +113,14 @@ Dieses Dokument dient als Referenz für die Konsistenz von Charakteren, Technolog
 
 #### Physical Description (established in P1-04)
 - Alter: 24 Jahre
-- Größe: 1,65 m
+- Grï¿½ï¿½e: 1,65 m
 - Herkunft: Chinese (mother) / Italian (father)
 - Haare: Dick, glatt, dunkelbraun, ~60cm lang
-- Gesicht: Warmbraune Mandelaugen, weicher Nasenrücken, markante Wangenknochen
+- Gesicht: Warmbraune Mandelaugen, weicher Nasenrï¿½cken, markante Wangenknochen
 - Build: Ausgewogen, sportlich, "eher weich wirkende Silhouette"
 - Narbe: 2cm Brandnarbe innen am linken Handgelenk (Pfannenrand, Teenagerzeit)
 - Schmuck: Schmale Silberkette (meist unter Shirt), kleine Goldstecker
-- Kleidung Work: Schwarzes T-Shirt, Leinen-Schürze, rutschfeste Boots
+- Kleidung Work: Schwarzes T-Shirt, Leinen-Schï¿½rze, rutschfeste Boots
 - Kleidung Free: Oversize-Hemden, High-Waist-Jeans, funktionale Boots
 - Stimme: Warm, immer leicht heiser
 
@@ -128,17 +128,17 @@ Dieses Dokument dient als Referenz für die Konsistenz von Charakteren, Technolog
 - Suspended second year (P2-05 confirmation by Elyra)
 - Reason: "Widerspenstiges Verhalten"
 - Vater finanzierte durch Loans, Marco half (P2-13)
-- Starke Affinität: **Ignis** & **Verd**
-- Schwächen: Theorie & Disziplin
-- Stärken: Intuitive, spontane Anwendungen
+- Starke Affinitï¿½t: **Ignis** & **Verd**
+- Schwï¿½chen: Theorie & Disziplin
+- Stï¿½rken: Intuitive, spontane Anwendungen
 
 #### Living Situation
-- WG mit zwei Akademie-Anwärterinnen
+- WG mit zwei Akademie-Anwï¿½rterinnen
 - Arbeitet im Restaurant ihres Vaters
 - Vater: Hat selbst Resonance-Vergangenheit (revealed P2-13 by Marco)
 
 #### Special Item
-- **Feuerzeug:** Von erstem Flammen-Resonogramm, trägt sie immer (raucht nicht)
+- **Feuerzeug:** Von erstem Flammen-Resonogramm, trï¿½gt sie immer (raucht nicht)
 
 #### Progression
 - **P1-04:** First appearance, established friendship
@@ -279,15 +279,15 @@ Dieses Dokument dient als Referenz für die Konsistenz von Charakteren, Technolog
 3. **Firmness:** Structural tolerance (how much pressure it holds)
 
 #### 9 Resonance Types (circular XY-plane)
-- Vital (0°): Life, growth
-- Aether (40°): Spirit, transcendent
-- Flame (80°): Heat, combustion (Lina's strength)
-- Stone (120°): Weight, durability
-- Flow (160°): Water, movement
-- Storm (200°): Air, lightning
-- Light (240°): Clarity, purity
-- Shadow (280°): Obscuration, entropy
-- Mind (320°): Will, perception
+- Vital (0ï¿½): Life, growth
+- Aether (40ï¿½): Spirit, transcendent
+- Flame (80ï¿½): Heat, combustion (Lina's strength)
+- Stone (120ï¿½): Weight, durability
+- Flow (160ï¿½): Water, movement
+- Storm (200ï¿½): Air, lightning
+- Light (240ï¿½): Clarity, purity
+- Shadow (280ï¿½): Obscuration, entropy
+- Mind (320ï¿½): Will, perception
 
 **Note:** These are abstractions, not true categories - everything is a continuum
 

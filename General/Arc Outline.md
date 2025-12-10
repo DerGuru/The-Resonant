@@ -1,4 +1,4 @@
-# The Resonant — Arc Blueprint
+﻿# The Resonant — Arc Blueprint
 
 This book makes the assumption, that humans have gained access to harmonic resonance (as described separately in the document "Harmic Resonance.md")
 

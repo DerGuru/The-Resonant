@@ -1,4 +1,4 @@
-# Part 4: Expansion & Responsibility - Outline
+ï»¿# Part 4: Expansion & Responsibility - Outline
 
 ## Overview
 
@@ -32,7 +32,7 @@ Kira completes training. Informal ceremony. Team debates expansion. Program offi
 Dr. Yuki Tanaka arrives from Japan. Observes methods. Reveals Japan has hostile entity problem.
 
 ### **Ch. 06 - Cultural Exchange** ?
-Team debates helping. Kage-K?z? is fundamentally different—built to harm. Decision to help.
+Team debates helping. Kage-K?z? is fundamentally differentï¿½built to harm. Decision to help.
 
 ### **Ch. 07 - The Warning** ?
 Malvek approves mission. Team: Jason, Lina, Yuki go. Others stay. Departure for Tokyo.

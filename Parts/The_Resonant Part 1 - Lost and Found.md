@@ -1,4 +1,4 @@
-The Resonant
+﻿The Resonant
 ============
 
 # Prologue

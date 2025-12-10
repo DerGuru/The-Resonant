@@ -1,4 +1,4 @@
-# RAE Communication Canon (Clip, Carrier & Whisper Mesh)
+﻿# RAE Communication Canon (Clip, Carrier & Whisper Mesh)
 
 > **Purpose:** Consistent, playable rules for dialog via RAE – incl. Whisper Clip, room carriers, and the Whisper Mesh. Clear separation, scene‑ready, with a cost model.
 

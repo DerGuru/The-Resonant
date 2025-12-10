@@ -1,4 +1,4 @@
-## Echos
+﻿## Echos
 ```
 [Resonance contact detected]
 Signature: faint, consistent

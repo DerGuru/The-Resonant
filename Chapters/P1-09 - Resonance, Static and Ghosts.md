@@ -1,4 +1,4 @@
-## Resonance, Static and Ghosts
+﻿## Resonance, Static and Ghosts
 ```
 Coupling candidate: stable
 Integration path: forming
