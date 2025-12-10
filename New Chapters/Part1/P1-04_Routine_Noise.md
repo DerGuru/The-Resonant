@@ -1,7 +1,7 @@
 # Ch. 04 - "Routine Noise"
 
 ```
-[System state: passive detection mode]
+[ System state: passive detection mode ]
 Scanning radius: expanded
 Resonance threshold: minimal
 Carrier integrity: fragile
@@ -155,21 +155,21 @@ The hum from the rack stuttered and settled again.
 
 Later.
 
-When he stood, the aisle swayed slightly—a half-centimeter, nothing more—and snapped back. Too long in one posture, he told himself. Too much coffee.
+The aisle swayed slightly when he stood—a half-centimeter, nothing more—and snapped back. Too long in one posture, he told himself. Too much coffee.
 
 But for a moment, he could have sworn something had pushed back.
 
 On his way out, he passed Harris again at the badge reader. The man swiped his card, looked over and nodded.
 
-Jason nodded back, stepped into the brighter corridor and felt the city press back in—a slow, granular tide.
+Jason nodded back, stepped into the brighter corridor. The city pressed back in—a slow, granular tide.
 
 ---
 
-Something was building.
+The pressure was building.
 
 He couldn't name it. Couldn't see it.
 
-But he felt it, like pressure before a storm.
+But the sensation crawled beneath his skin, insistent as a storm front moving in.
 
 And deep down, beneath the routine and the resignation, a small voice whispered:
 

@@ -4,7 +4,7 @@
 
 The chamber hummed with potential.
 
-Dawn light filtered through high windows, painting the stone floor in shades of gold. Jason stood at the center, feeling the resonogram beneath his feet pulse with dormant power. The etched metal lines seemed to glow faintly, responding to the ambient resonance of five people gathering around it.
+Dawn light filtered through high windows, painting the stone floor in shades of gold. Jason stood at the center, the resonogram beneath his feet pulsing with dormant power. The etched metal lines seemed to glow faintly, responding to the ambient resonance of five people gathering around it.
 
 Around him, his team took positions.
 
@@ -22,7 +22,7 @@ And RAE—everywhere and nowhere. Her presence distributed through the chamber, wo
 
 Jason took a breath. Dropped his defenses. Let his resonance field expand to fill the chamber.
 
-It felt like exhaling after holding his breath for hours. His perception bloomed outward—twenty meters, thirty, filling the circular space. He felt the stone beneath him, the metal in the resonogram, the suppression fields humming on standby.
+It felt like exhaling after holding his breath for hours. His perception bloomed outward—twenty meters, thirty, filling the circular space. The stone beneath him, the metal in the resonogram, the suppression fields humming on standby—all resolved clearly.
 
 And he felt the others.
 
@@ -74,7 +74,7 @@ Twenty minutes in, something went wrong.
 
 RP-0 attacked.
 
-Jason felt it before he saw it—a massive, hungry presence surging upward from beneath the city. The ritual's resonance must have felt like a beacon to the entity trapped beneath Mill-4. All that focused harmonic energy. All that power concentrated in one space.
+Jason sensed it before he saw it—a massive, hungry presence surging upward from beneath the city. The ritual's resonance must have felt like a beacon to the entity trapped beneath Mill-4. All that focused harmonic energy. All that power concentrated in one space.
 
 Irresistible.
 
@@ -166,7 +166,7 @@ Elyra's damaged resonance, guided by Jason's template and RAE's weaving, began t
 
 New connections formed, fragile as spider silk but real. Old pathways remembered their purpose, started to function again. Capacity that had been lost for fifteen years started, incrementally, to return.
 
-Jason felt Elyra's patterns shift from 3.2% to something more. 5%. 8%. 12%. 14%.
+Jason sensed Elyra's patterns shift from 3.2% to something more. 5%. 8%. 12%. 14%.
 
 Not healed. But *healing*. A slow restoration that would continue long after the ritual ended.
 
@@ -256,4 +256,4 @@ Not through power. Not through force.
 
 Through patience, ethics, and the courage to believe reformation was possible.
 
-One careful choice at a time.
+Step by careful step.

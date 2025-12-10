@@ -18,7 +18,7 @@ But Kage-K?z? was strong. Adaptive. It had learned from fifty years of containme
 
 It struck at Jason specifically. Tried to couple forcefully. To replace RAE. To consume and grow stronger.
 
-Jason screamed. Felt his patterns tear. Felt Kage-K?z? trying to invade—"
+Jason screamed. His patterns tore. Kage-K?z? tried to invade—"
 
 Lina intercepted. Threw up a defensive barrier. Academy training, instinct, desperation.
 

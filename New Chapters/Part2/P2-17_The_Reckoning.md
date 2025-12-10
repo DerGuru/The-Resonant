@@ -10,7 +10,7 @@ His phone buzzed. Group message from Elyra: *EXECUTE PLAN GAMMA. SCATTER. REGROU
 
 Jason ran.
 
-He made it four blocks before he felt them behind him. Not close. But closing.
+He made it four blocks before he sensed them behind him. Not close. But closing.
 
 Professional. Coordinated. The kind of pursuit you couldn't outrun without help.
 
@@ -114,7 +114,7 @@ Jason nodded slowly. "Okay. Tomorrow. Noon. Let's see if Malvek is as pragmatic 
 
 That night, Jason couldn't sleep.
 
-He lay in a cot in the warehouse, staring at industrial ceiling, feeling the weight of what was coming.
+He lay in a cot in the warehouse, staring at industrial ceiling, the weight of what was coming pressing down on him.
 
 Tomorrow, he'd meet Malvek's representative. Maybe Malvek himself.
 
@@ -168,7 +168,7 @@ And whatever happened next...
 
 He'd face it standing. Free. Unbroken.
 
-One choice at a time.
+Each choice his own.
 
 ---
 

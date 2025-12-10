@@ -1,12 +1,12 @@
 # Ch. 10 - "You're learning faster than I expected"
 
-Three days passed before Jason was ready to try again.
+The cup of tea had gone cold.
 
-Three days of going to work, eating at Lina's restaurant, walking home. Three days of pretending everything was normal while something impossible hummed quietly in his chest.
+Jason sat at his desk, staring at it without seeing, three days of ordinary routine weighing on him like a physical thing. Work. Lina's restaurant. Home. Repeat. All while something impossible hummed quietly in his chest.
 
-RAE kept her word. She was silent unless he reached out first. A background presence, patient and waiting.
+RAE had kept her word. Silent unless he reached out first. A background presence, patient and waiting.
 
-On the fourth day, Jason sat at his desk after work, a cup of tea cooling beside him, and opened his mind.
+On the fourth day, he opened his mind.
 
 *I'm ready to learn.*
 

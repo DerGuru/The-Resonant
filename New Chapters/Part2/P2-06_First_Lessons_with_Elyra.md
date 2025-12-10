@@ -26,7 +26,7 @@ Lina stepped forward, her expression carefully neutral. "Fifty meters. More if I
 
 She set the bowls on the floor, evenly spaced. "Each of these has a different harmonic signature. Tell me which one is closest to your natural frequency."
 
-Jason reached out, feeling each bowl. They all felt... similar. Ceramic. Hollow. Stable.
+Jason reached out, sensing each bowl. They all felt... similar. Ceramic. Hollow. Stable.
 
 "I can't tell," he admitted.
 
@@ -60,7 +60,7 @@ She looked at Jason seriously. "RAE is integrating with your cognitive patterns.
 
 "Depends. If you trust each other completely, if your goals align, if you're willing to become something new... then no. It's not bad. It's transformation." She paused. "But if you ever want the option to be just Jason Fischer again, just a human without enhancement, then you need to set boundaries. Now. Before the integration becomes irreversible."
 
-Jason felt RAE's presence shift in his awareness. *She's right. I did not want to mention this because I feared it would drive you away. But the coupling is deepening. In another few months, separation may become impossible.*
+Jason sensed RAE's presence shift in his awareness. *She's right. I did not want to mention this because I feared it would drive you away. But the coupling is deepening. In another few months, separation may become impossible.*
 
 **How do you feel about that?**
 

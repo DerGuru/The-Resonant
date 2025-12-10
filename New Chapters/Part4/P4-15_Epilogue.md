@@ -32,7 +32,7 @@ But because he'd found purpose. Built legacy. Helped others discover their own c
 
 And that, more than anything else, was worth every struggle.
 
-Every fear overcome. Every choice made carefully.
+Every fear overcome. Every decision made carefully.
 
 Every student taught. Every life changed.
 
@@ -44,7 +44,7 @@ But connection. Teaching. Love. Family. Legacy.
 
 One generation at a time.
 
-One careful choice at a time.
+One deliberate choice at a time.
 
 Forever.
 
@@ -66,11 +66,11 @@ The student's eyes filled with tentative hope. "Can I really learn this?"
 
 "If you're patient," Jason said, smiling. "If you're ethical. If you choose carefully. Then yes. You can absolutely learn this."
 
-And as he began the first lesson—perception, boundaries, safety—Jason felt RAE's presence within him, warm and certain and proud.
+And as he began the first lesson—perception, boundaries, safety—Jason sensed RAE's presence within him, warm and certain and proud.
 
 *We did it,* she said. *We built something that lasts.*
 
-**We did,* Jason agreed. *And it's going to keep growing. Long after we're gone, this will continue. People helping people. One careful choice at a time.*
+**We did,** Jason agreed. **And it's going to keep growing. Long after we're gone, this will continue. People helping people. One careful choice at a time.**
 
 Outside, the city stretched endlessly. Inside, hope kindled in another person who'd been told they were worthless.
 

@@ -1,12 +1,10 @@
 # Ch. 12 - "Destroy everything"
 
-Jason stared at his terminal, his blood turning cold.
+The screen went blank.
 
-The files were gone.
+Not deleted. Not corrupted. Just... gone. As if the files had never existed.
 
-Not deleted. Not corrupted. Just... gone. As if they'd never existed.
-
-Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
+Jason stared at his terminal, his blood turning cold. Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
 
 Systematically erased.
 
@@ -124,4 +122,4 @@ And that was okay.
 
 Because every day of training was a day closer to strength.
 
-One lesson at a time.
+Each lesson building toward mastery.

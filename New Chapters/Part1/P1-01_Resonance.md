@@ -75,7 +75,7 @@ The name felt important. Like it should mean something. Like it was waiting for 
 
 "Tomorrow," he muttered, shutting down his terminal. "I'll dig deeper tomorrow."
 
-The building was dark when he left, except for the security lights in the stairwells. His footsteps echoed as he made his way to the exit, the sound lonely in the empty corridors. Outside, the air was cool, briskly washing over him as he stepped onto the sidewalk. He drew it deep into his lungs, attempting to clear his head.
+The building was dark when he left, except for the security lights in the stairwells. His footsteps echoed as he made his way to the exit, the sound lonely in the empty corridors. Outside, the air was cool, refreshing over him as he stepped onto the sidewalk. He drew it deep into his lungs, attempting to clear his head.
 
 The walk to his apartment usually helped him decompress, the solitude providing space for his thoughts to settle. Tonight felt different.
 
@@ -95,7 +95,7 @@ He smiled softly at her concern, the expression feeling strange on his face. Whe
 
 But was he "all good"? He wasn't entirely sure. 
 
-Jason stepped out onto his small balcony, the cheap sliding door sticking slightly before giving way. He opened it and let fresh night air stream in, carrying the faint smell of exhaust and distant rain.
+Jason stepped out onto his small balcony, the cheap sliding door sticking slightly before giving way. He opened it and let fresh night air wash in, carrying the faint smell of exhaust and distant rain.
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
