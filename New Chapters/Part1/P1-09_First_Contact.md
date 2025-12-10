@@ -1,4 +1,6 @@
-## Ch. 10 - First Contact
+# Ch. 09 - "Consent precedes action"
+
+The storm had done its work and left, as if the sky had finished a sentence and refused to explain the grammar.
 
 Jason stood in his apartment, the evening light fading to gray through his small window. He'd been home for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
 

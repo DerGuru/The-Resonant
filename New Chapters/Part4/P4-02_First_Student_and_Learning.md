@@ -1,4 +1,4 @@
-## Ch. 02 - First Student & Learning
+# Ch. 02 - "You're not me. You need your own path."
 
 ### The Interview
 

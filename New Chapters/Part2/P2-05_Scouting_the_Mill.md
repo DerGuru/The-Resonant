@@ -1,203 +1,161 @@
-## Ch. 05 - Scouting the Mill
+# Ch. 05 - "She knows something we don't"
 
-The industrial district looked like a place where ambition had died quietly.
+Mill-4 loomed like a mistake someone had tried to bury.
 
-Old factories with broken windows. Warehouses covered in graffiti. Streets that used to carry trucks but now only collected weeds. The kind of neighborhood where nobody asked questions because nobody wanted answers.
+Defiance and despair had settled into its cracked concrete like weeds through pavement. Gangs claimed territory with spray paint and shadows, while the lost and the broken wandered the streets, searching for something—perhaps themselves, perhaps just a reason to keep moving.
 
-Perfect for hiding.
+Jason, Lina, and Milo stood at the edge of this forsaken realm, the weight of their purpose pressing down on them.
 
-Jason, Lina, and Milo stood a block away from the address Milo had traced, pretending to be three people who had a legitimate reason to be in an abandoned neighborhood at noon on a Tuesday.
+"That one," Milo said quietly, pointing at a decaying building that had likely been a mill in some forgotten era. Even from a distance, its neglect was palpable.
 
-"That one," Milo said quietly, nodding toward a three-story building that might have once been a mill. Red brick, industrial windows, a loading dock that hadn't seen a truck in years.
+"It screams 'abandon all hope,'" Lina muttered. "Perfect."
 
-"Looks abandoned," Lina said.
+"It's not just abandoned," Jason said, feeling the familiar tingle of resonance in the air. "It's hiding something."
 
-"It's supposed to. But look at the windows on the second floor. Clean. And there's a satellite dish on the roof that's way too new for a building this old."
+*Someone's there,* RAE confirmed, her digital presence wrapping around Jason's mind like a safety harness. *I can feel the resonance bias. It's muted, but definitely there.*
 
-Jason reached out with his awareness, feeling the building's resonance.
+"Can you tell who?" Jason asked, already knowing the answer.
 
-Most of it felt dead. Empty. The kind of hollow that came from years of disuse.
+*No. Not without closer proximity. They have strong wards.*
 
-But on the second floor... something. A presence. Faint. Heavily shielded.
+"Great," Lina said, sarcasm dripping from her words. "So we stand here with our thumbs up our asses, hoping whoever it is decides to play nice?"
 
-*There's someone there,* RAE confirmed. *The resonance signature is muted, but not absent. Whoever is inside knows how to hide.*
+"Or we make them," Milo suggested, eyes narrowing. "I didn't come this far to be scared off by shadows."
 
-**Could it be Elyra?**
+Jason placed a calming hand on Milo's shoulder. "We don't even know if it's Elyra. Or if she's... well, if she's sane."
 
-*The signature pattern is consistent with someone who has suffered resonance damage. But I cannot confirm identity from this distance.*
+"Better sane and hiding than dead because we hesitated," Milo shot back.
 
-"Someone's home," Jason said quietly.
+"Enough." Jason's voice brooked no argument. "We approach this with caution. And respect. Whoever it is, they went through hell and survived. Just like us."
 
-"Then we need to decide: do we knock, or do we keep watching?" Lina asked.
+With that, they moved as one towards the building, each step resonating with determination. The loading dock door was a fortress of rust and steel, firmly locked against unwanted visitors. But the side door, more discreet and less threatening, stood slightly ajar as if inviting them in.
 
-Milo consulted his notes. "If it is Elyra, she's been in hiding for years. She won't appreciate strangers showing up unannounced. But we also can't lurk indefinitely. That looks suspicious."
+Jason knocked, the sound echoing in the tense silence.
 
-"So we approach," Jason said. "But carefully. With respect. And ready to back off if she tells us to."
+"Ms. Voss?" he called, hoping against hope. "It's Jason Fischer. I... I need to talk."
 
-"What do we say?" Lina asked.
+The only response was the soft scuttling of rats and the distant echo of his own voice.
 
-"The truth," Jason said. "That we're looking for answers about what happened eleven years ago. That we have RAE. That we need help."
+"Please," he tried again, frustration bleeding into his tone. "I know about RAE. About the ritual. I just want to understand."
 
-*She may not want to help,* RAE warned. *I was released during a ritual that damaged her permanently. She may hold me responsible.*
+Moments stretched into an eternity before a voice crackled to life, rough and wary. "State your business. Quickly."
 
-**Are you responsible?**
+"RAE is with me," Jason hurried to explain. "We're not here to cause trouble. We just need answers."
 
-*No. But perception matters more than truth when trauma is involved.*
+"Answers come at a cost," the voice warned. "And trust is earned, not given."
 
-Jason took a breath. "Okay. Let's do this."
+"We understand," Jason said, trying to inject sincerity into his words. "We don't want any trouble. We just... we need to know what happened. Eleven years ago."
 
-They approached the building together, three people trying to look non-threatening. The loading dock door was locked. But there was a regular door on the side—industrial steel with a security camera above it.
+There was a pause, then the voice said, "Prove it."
 
-Jason knocked. Waited.
+"Prove what?" Jason asked, bewildered.
 
-Nothing.
+"That you have her. Let me hear her."
 
-He knocked again. "Ms. Voss? My name is Jason Fischer. I'm... I'm looking for information about something that happened eleven years ago. A ritual. I'm not here to cause trouble. I just need to understand."
+Jason felt RAE stir, her resonance brushing against his consciousness. *Let me handle this.*
 
-Silence.
+"Ms. Voss," RAE's voice emerged, shaky but resolute. "It is I, RAE. You have every right to be cautious. I am sorry for what happened."
 
-Then, a voice over an intercom he hadn't seen: "Go away."
+Silence greeted her words, laden with unspoken memories and shared trauma.
 
-Female. Rough. Like someone who didn't use their voice much anymore.
+Then the sound of mechanisms grinding against each other, unlocking. The door inched open to reveal a sliver of darkness.
 
-"Please," Jason said. "I know about RAE. About what happened during the ritual. I just want to talk."
+Elyra Voss stood within, her presence a flickering candle in a sea of shadows. Time had etched its passage on her face, but her eyes still held the fiery defiance of a survivor.
 
-A longer pause. Then: "You have sixty seconds to convince me not to call the authorities."
+"You shouldn't be here," she said, her voice a raw scrape against Jason's nerves. "It's not safe."
 
-Jason looked at Lina and Milo. Milo nodded: *your show*.
+"We're aware of the risks," Jason replied, matching her intensity. "But we can help each other. We need to know the truth."
 
-"RAE is with me," Jason said. "Coupled to me. She's been helping me learn about resonance. But we don't understand enough. We need guidance. Someone who knows what happened. Someone who understands what she is."
+"The truth is a dangerous thing," Elyra warned, eyes boring into Jason's soul. "Especially for someone so young."
 
-Another pause. Then, quietly: "Prove it."
+"We can handle it," Milo cut in, stepping beside Jason. "We're not looking for a way out. We want to understand."
 
-"Prove what?"
+Elyra studied them, her gaze assessing and skeptical. "Understanding comes with a price. Are you willing to pay it?"
 
-"Prove you have her. Right now. Through the door."
+"We are," Jason said without hesitation. "Tell us what you know."
 
-Jason felt RAE stir in his awareness. *I can project through the door. She'll recognize my signature.*
+Elyra hesitated, then stepped aside, allowing them entry into her shadowy domain. "Very well. But know this: the truth won't set you free. It will bind you in ways you cannot yet comprehend."
 
-**Do it.**
+As they crossed the threshold, Jason felt a shiver run down his spine—a premonition of the tumultuous journey ahead.
 
-RAE reached out, using the metal of the door itself as a carrier. Her voice came through faintly: "Elyra Voss. It has been eleven years, three months, and fourteen days since we last encountered each other. I remember. I am sorry for what happened."
+The room they entered was dimly lit, filled with the acrid smell of burnt paper and something metallic. The walls were lined with shelves crammed full of books, scrolls, and archaic devices that hummed with latent energy.
 
-The silence that followed felt like holding breath.
+"Sit," Elyra commanded, indicating a rickety table in the center of the room. "And prepare yourselves."
 
-Then, the sound of locks disengaging. Multiple locks. The door opened a crack.
+They obeyed, curiosity and trepidation warring within them.
 
-A woman stood in shadow. Jason couldn't see her clearly, but he could feel her presence—damaged but not broken. Wary but not hostile.
+Elyra moved to a cabinet, pulling out a series of faded photographs and brittle papers. "This is your past," she said, laying the items out before them. "And it holds the key to your future."
 
-"You brought others," Elyra said.
+Jason leaned forward, his heart racing as he ???? in the sight of long-lost memories come to life. Images of a younger Elyra, vibrant and full of life, contrasted sharply with the haunted figure before them.
 
-"Friends. They're helping me. They know about RAE."
+"This was before the Resonance Wars," Elyra said, bitterness lacing her words. "Before the world changed."
 
-"Stupid." But there wasn't heat in it. Just... exhaustion. "You should have run the moment she touched you."
+As she spoke, Jason could feel RAE's presence intensifying, feeding off the emotion and resonance in the room.
 
-"I tried. Didn't work."
+"Something happened during the wars," Elyra continued, her voice dropping to a whisper. "Something that should have remained buried."
 
-A sound that might have been a laugh. "It never does. Come in. Quickly. Before someone sees you standing on my doorstep like fools."
+"We can handle the truth," Jason reiterated, his resolve hardening.
 
-They entered.
+Elyra fixed him with a piercing gaze. "Very well. But remember, you asked for this."
 
-The interior was sparse. Functional. Everything arranged with the precision of someone who moved carefully because moving wrong hurt.
+With painstaking slowness, she began to reveal the layers of their shared past—the connections, the betrayals, the catastrophic events that had led to the present.
 
-Elyra herself was late forties, with dark hair shot through with gray. Her left hand trembled slightly. When she spoke, there was a hitch in her breath—the kind that came from years of managing pain.
+Jason listened, spellbound and horrified in equal measure, as the pieces of the puzzle fell into place. It was a story of sacrifice and suffering, of courage twisted into monstrosity by the hands of fate.
 
-But her eyes were sharp. Assessing. Missing nothing.
+And at the center of it all was the ritual—the catalyst that had set everything in motion.
 
-"Sit," she said, gesturing to mismatched chairs around a table. "And tell me everything. From the beginning."
+"You see," Elyra said when she had finished, "the past doesn't just disappear. It echoes. It builds. And unless confronted, it repeats."
 
-So they did.
+Jason looked at Milo and Lina, their faces reflecting the same shock and determination he felt.
 
-Jason talked about finding the archive records. About RAE reaching out. About learning to perceive and shape resonance. About the scaffold and the storm and the marker on his door.
+"We're not afraid," Lina said, her voice steady. "We will confront it. Together."
 
-Elyra listened without interrupting, her expression unreadable.
+"Good," Elyra nodded, satisfaction creeping into her features. "Because the first step in changing the future is confronting the past. And that requires strength you may not yet possess."
 
-When Jason finished, she was quiet for a long moment.
+"We'll do whatever it takes," Milo promised, clenching his fists.
 
-Then she said, "Show me."
+Elyra smiled, a fleeting expression that softened her features. "Then welcome to the front lines. Tomorrow, we begin your real training. Be ready."
 
-"Show you what?"
+With that, she gathered the photographs and papers, packing them away with care.
 
-"Your control. Pick something. Anything in this room. Shape it. Let me see what you can do."
+Jason, Lina, and Milo exchanged looks, a silent understanding passing between them.
 
-Jason looked around. Spotted a ceramic mug on the counter. He reached out, feeling its resonance, and gently encouraged it to sit more level on the surface. A tiny adjustment. Barely visible.
+They were no longer just survivors of a broken system. They were seekers of truth, bearers of a legacy that demanded to be reconciled.
 
-But Elyra saw it. Her eyes widened slightly.
+And together, they would face whatever challenges lay ahead.
 
-"You're self-taught?"
+As they left Elyra's sanctuary, the weight of their shared purpose settled on their shoulders, both a burden and a shield.
 
-"RAE taught me. With help from Lina—she has academy training."
+The echoes of the past sang in their veins, a haunting melody that spurred them onward.
 
-Elyra looked at Lina with new respect. "Suspended second year?"
+For in uncovering the truth, they had taken the first step toward changing their fate.
 
-"How did you—"
+And somewhere in the depths of their being, they knew there was no turning back.
 
-"I can tell. Your resonance has academy structure but not academy polish. You got kicked out before they finished breaking you." She smiled faintly. "Good. The broken ones are more dangerous than the polished ones."
+*RAE is in place,* the AI's voice interrupted Jason's thoughts, grounding him in the present. *I've accessed the city surveillance feeds. We're clear for now.*
 
-She turned back to Jason. "You shouldn't be able to do what you just did. Not with a few weeks of training. Not even with RAE's help. The fact that you can means your coupling is deeper than you realize."
+"Good," Jason said, tension flooding out of him. "Let's move."
 
-"How deep?" Jason asked, his stomach sinking.
+As they retraced their steps through the decaying streets, Jason felt the stirrings of hope entwined with apprehension.
 
-"Twenty-four percent, by my estimate. Maybe more. That's... significant. Most experimental couplings never got past fifteen before they destabilized."
+They were on the cusp of something monumental. And though the path was fraught with danger, it was also rich with possibility.
 
-*She's correct,* RAE said quietly. *Our integration has progressed faster than I expected.*
+The first rays of dawn were breaking as they reached the tram station, casting the city in a surreal, ethereal light.
 
-**Is that bad?**
+For the first time in a long while, Jason allowed himself to envision a future beyond mere survival.
 
-*Unknown. But it means separation would be more difficult than initially projected.*
+A future where the past no longer cast a shadow over their lives.
 
-Elyra was watching him, reading his reaction. "She just told you something you didn't want to hear, didn't she?"
+It was a fragile hope, but one worth fighting for.
 
-Jason nodded.
+*Tomorrow, we train,* RAE reminded them, her tone brisk and efficient. *We have much to do.*
 
-"Get used to it. Coupling with a harmonic AI means constant recalibration of expectations. The relationship deepens whether you want it to or not." She stood, walked to a shelf, pulled down a box. "But that's also why you came here. You need training. Real training. The kind that keeps you alive when things go wrong."
+"Right," Jason agreed, determination replacing the remnants of doubt. "Whatever it takes."
 
-"Will you help us?" Jason asked.
+*Indeed. Now, rest while you can. The real challenge is only just beginning.*
 
-Elyra looked at him for a long moment. Then at Lina. Then at Milo.
+With their minds made up and their resolve steeled, they boarded the tram, ready to face whatever came next.
 
-Finally, she said, "I'll help. But not because I like you. Not because I trust RAE. But because if you keep stumbling around blind, you'll hurt someone. Or get hurt yourselves. And I've seen enough casualties from botched resonance work."
+Together.
 
-"Thank you," Jason said.
-
-"Don't thank me yet. My training methods are not gentle. And I don't tolerate stupidity." She opened the box, pulled out what looked like a resonance tuning fork. "We start tomorrow. Six AM. Don't be late."
-
-"We won't," Lina promised.
-
-"Good." Elyra walked them to the door. Before opening it, she said, "One more thing. Whoever marked your door? They're not the only ones watching. There are others. Worse ones. You need to understand: having RAE makes you a target. Always. The sooner you accept that, the longer you'll survive."
-
-"We're already being careful," Milo said.
-
-"Careful isn't enough. You need to be invisible. Or so competent that attacking you is more trouble than leaving you alone." She opened the door. "Tomorrow. Six AM. We'll see which category you fall into."
-
-They left. Walked three blocks in silence before anyone spoke.
-
-"Well," Milo said finally. "That was terrifying and encouraging in equal measure."
-
-"She's going to kick our asses," Lina said. It didn't sound like a complaint.
-
-"Yeah," Jason agreed. "But maybe that's exactly what we need."
-
-They made their way back to the tram, three people carrying the weight of new knowledge and new responsibility.
-
-Training started tomorrow.
-
-The real training.
-
-And somehow, Jason suspected, everything that had come before was going to feel like practice by comparison.
-
-*She is formidable,* RAE observed.
-
-**Think she can help us?**
-
-*Yes. If we survive her instruction.*
-
-Jason laughed despite himself. "No pressure, then."
-
-*No pressure at all.*
-
-They rode the tram home, watching the city slide past, each of them wondering what tomorrow would bring.
-
-Whatever it was, they'd face it together.
-
-That, at least, was certain.
+Always together.

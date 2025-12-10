@@ -1,4 +1,4 @@
-## Ch. 12 - Integration Milestone
+# Ch. 12 - "I'm not losing myself. I'm becoming more."
 
 Medical scan at four months post-Japan:
 

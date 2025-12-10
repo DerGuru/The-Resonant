@@ -1,6 +1,6 @@
-## Ch. 06 - First Lessons with Elyra
+# Ch. 06 - "Integration is permanent"
 
-Six AM came too early.
+Elyra Voss's apartment was exactly what Jason expected: clinical, organized, and faintly sad.
 
 Jason, Lina, and Milo stood outside Elyra's building, the morning air cold enough to see their breath. The door opened before they could knock.
 

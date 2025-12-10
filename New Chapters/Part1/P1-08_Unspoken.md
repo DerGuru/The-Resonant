@@ -1,4 +1,6 @@
-## Ch. 09 - Unspoken
+# Ch. 08 - "Why me?"
+
+Monday came too quickly.
 
 The restaurant was nearly empty, the late dinner crowd having long since trickled out. Lina leaned against the counter, fiddling with a half-filled salt shaker, her movements idle but precise. Jason still sat in his usual seat, the warmth of a finished meal lingering on the table.
 

@@ -1,4 +1,6 @@
-## Ch. 02 - Resonant Recognition
+# Ch. 02 - "Some records aren't meant to be found"
+
+The archive room smelled like old paper and forgotten decisions.
 
 ```
 [System Update]

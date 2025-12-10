@@ -1,4 +1,4 @@
-## Ch. 10 - Aftermath
+# Ch. 10 - "Changed, but okay"
 
 Hospital. White walls. Clean sheets. The smell of antiseptic.
 

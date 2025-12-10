@@ -1,4 +1,6 @@
-## Ch. 11 - Night Measurement
+# Ch. 11 - "I'm not interested in being observed"
+
+That night, the team gathered at the warehouse.
 
 The industrial yard after dark looked like a place where the future had died quietly.
 

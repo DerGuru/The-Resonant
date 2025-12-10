@@ -1,6 +1,6 @@
-## Ch. 02 - Calibration & Misalignment
+# Ch. 02 - "Small acts, carefully done"
 
-The next day started with coffee and ambition.
+Training began in earnest the next morning.
 
 "House first, then street," Milo said, consulting his notes. "We establish baseline in controlled environment, then test in variable conditions."
 

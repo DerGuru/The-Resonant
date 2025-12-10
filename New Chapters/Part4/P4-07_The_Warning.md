@@ -1,4 +1,4 @@
-## Ch. 07 - The Warning
+# Ch. 07 - "This isn't containment. This is combat."
 
 Preparation was intense.
 

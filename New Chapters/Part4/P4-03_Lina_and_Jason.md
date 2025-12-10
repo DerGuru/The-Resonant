@@ -1,4 +1,4 @@
-## Ch. 03 - Lina & Jason
+# Ch. 03 - "RAE comes with the package"
 
 Date nights were rare.
 

@@ -1,6 +1,6 @@
-## Ch. 17 - The Reckoning
+# Ch. 17 - "Containment teams are coming"
 
-They came at dawn.
+The call came at 3 AM.
 
 Jason woke to RAE's urgent voice: *Movement outside your building. Three vehicles. Personnel signatures consistent with containment teams.*
 

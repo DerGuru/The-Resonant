@@ -1,4 +1,4 @@
-## Ch. 05 - International Contact
+# Ch. 05 - "Some things cannot be reformed"
 
 The visitor arrived unannounced but with Malvek's approval.
 

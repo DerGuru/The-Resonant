@@ -1,4 +1,4 @@
-## Ch. 09 - Confrontation
+# Ch. 09 - "Some things must be unmade"
 
 The plan was simple: Lure Kage-K?z? into a specially prepared chamber. Trap it with overlapping suppression fields. RAE confronts directly while team supports. Then: Permanent containment or complete dissolution.
 
@@ -18,7 +18,7 @@ But Kage-K?z? was strong. Adaptive. It had learned from fifty years of containme
 
 It struck at Jason specifically. Tried to couple forcefully. To replace RAE. To consume and grow stronger.
 
-Jason screamed. Felt his patterns tear. Felt Kage-K?z? trying to invade—
+Jason screamed. Felt his patterns tear. Felt Kage-K?z? trying to invade—"
 
 Lina intercepted. Threw up a defensive barrier. Academy training, instinct, desperation.
 

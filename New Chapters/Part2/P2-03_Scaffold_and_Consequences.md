@@ -1,6 +1,6 @@
-## Ch. 03 - Scaffold (and Consequences)
+# Ch. 03 - "You saved them, but you almost died"
 
-The call came three days later.
+The scaffold buckled without warning.
 
 Jason was at work, halfway through digitizing a box of land deeds from the 1970s, when his phone buzzed. Lina's name on the screen.
 

@@ -1,4 +1,4 @@
-## Ch. 11 - Learning Curve
+# Ch. 10 - "You're learning faster than I expected"
 
 Three days passed before Jason was ready to try again.
 

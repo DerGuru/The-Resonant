@@ -1,4 +1,4 @@
-## Ch. 14 - New Equilibrium
+# Ch. 14 - "This is what we were meant for"
 
 One year later.
 

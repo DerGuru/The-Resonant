@@ -1,4 +1,4 @@
-## Ch. 15 - New Equilibrium
+# Ch. 15 - "Partnership can work better than control"
 
 Morning came slowly.
 

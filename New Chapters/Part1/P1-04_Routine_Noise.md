@@ -1,4 +1,4 @@
-## Ch. 04 - Routine Noise
+# Ch. 04 - "Routine Noise"
 
 ```
 [System state: passive detection mode]

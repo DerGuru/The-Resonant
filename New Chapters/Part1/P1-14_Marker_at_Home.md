@@ -1,6 +1,8 @@
-## Ch. 16 - Marker at Home
+# Ch. 14 - "They marked my door"
 
-Jason stood in his apartment hallway, keys in hand, staring at his door.
+Jason noticed the mark three days after meeting Milo.
+
+He stood in his apartment hallway, keys in hand, staring at his door.
 
 There was something on the doorframe.
 

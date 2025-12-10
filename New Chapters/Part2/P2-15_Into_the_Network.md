@@ -1,181 +1,337 @@
-## Ch. 15 - Into the Network
+# Ch. 15 - "This is Mill-4"
 
-The maintenance access was exactly where Milo's research said it would be: behind a utility building, under a rusted hatch that looked like it hadn't been opened in years.
+The discovery came through Milo's network monitoring.
 
-It took twenty minutes and three pry bars to get it open.
+A fluctuation. A resonance spike. Brief, but there.
 
-"Last chance to back out," Lina said, peering into the darkness below.
+Something was happening at Mill-4. Something that shouldn't be possible.
 
-"We're committed," Jason said. He clicked on his headlamp. "Let's go."
+Milo had tried to ignore it. To focus on their training, their preparation. But the anomaly persisted. Taunting him.
 
-They descended one at a time. Metal ladder, cold and slick with condensation. Twenty meters down, maybe more. The air grew colder as they dropped.
+Finally, he could take it no longer.
 
-At the bottom, a tunnel stretched in both directions. Concrete walls. Overhead pipes. The distant sound of running water.
+"We have to check it out," he said, turning to Jason and Lina. "It could be important."
 
-"Which way?" Milo asked, consulting his GPS—which promptly stopped working. "Never mind. Underground interference."
+"It could be a trap," Lina replied, her expression careful. "Malvek might be expecting us to investigate."
 
-"We go toward Mill-4," Jason said. "Mark our path as we go. And if we see anything that feels wrong, we withdraw immediately."
+"Or it could be an opportunity," Milo countered. "We can't ignore it. Not after what we saw in the tunnels."
 
-They walked.
+Jason considered. "We go. But carefully. We observe first. If it looks dangerous, we withdraw."
 
-The tunnel was surprisingly well-maintained for something allegedly abandoned. The floor was clear. The pipes showed signs of recent inspection. Someone came down here. Recently.
+They suited up. Packed equipment. Moved with purpose.
 
-Jason reached out with his perception, feeling the tunnel's resonance.
+The trip to Mill-4 was tense. Every shadow seemed like a potential threat. Every sound echoed ominously.
 
-It was... muted. Dampened. As if something was absorbing ambient harmonics.
+When they arrived, they took up positions overlooking the site. Concealed. Ready.
 
-*This is artificial,* RAE said. *Someone has installed suppression equipment. Probably to prevent detection from above.*
+What they saw made no sense.
 
-**Which means whatever they're doing down here, they don't want resonance signatures leaking.**
+Workers. Dozens of them. All wearing the same grey uniform. All moving in perfect unison.
 
-*Correct.*
+It was like watching a machine operate. Efficient. Precise. But devoid of humanity.
 
-They continued carefully. Marking their route with chalk. Counting steps. Taking photos at each intersection.
+"Is this normal?" Milo whispered, filming the scene.
 
-After fifteen minutes, they heard it: voices. Distant. Echoing through the tunnels.
+"No," Jason said, his expression grim. "This is... wrong. They're being controlled."
 
-Jason held up a fist—the signal to stop.
+"By what?" Lina asked, her eyes narrowed.
 
-They listened.
+"By whoever is in charge here," Jason replied. "Malvek's people. Or maybe Malvek himself."
 
-Two people. Maybe three. Discussing something technical. Words like "calibration" and "threshold" and "next phase."
+They watched in silence, the reality of their situation sinking in.
 
-The voices were coming from ahead. From the direction of Mill-4.
+This wasn't just a facility. It was a fortress. Underground. Hidden. Protected by layers of security and secrecy.
 
-"Do we investigate?" Milo whispered.
+And at the center of it all was Mill-4. The heart of Malvek's operations.
 
-"We observe," Lina said. "From a distance. We don't engage."
+"We need to get closer," Milo said, his voice steady. "Find out what they're planning."
 
-They crept forward. Slowly. Quietly.
+"Are you insane?" Lina shot back. "We barely made it out last time. What if they capture us?"
 
-The tunnel opened into a larger chamber. And what Jason saw made his blood run cold.
+"We won't let them," Jason said, his jaw set. "We can't back down now. Not when we're this close."
 
-Equipment. Lots of it. Resonance generators. Dampening fields. And in the center: a complex array that looked like it was designed to channel massive amounts of harmonic energy.
+Reluctantly, Lina nodded. "Fine. But we do this my way. Quiet. Stealthy. No unnecessary risks."
 
-Three people worked around it. Two in technical gear. One in a suit that looked distinctly official.
+They descended. Carefully. Methodically.
 
-The suited figure turned, and Jason's breath caught.
+Each step bringing them closer to the truth. And to danger.
 
-Thomas Reeves. Malvek's agent.
+As they approached Mill-4, the air grew colder. The lights brighter. The sounds of machinery louder.
 
-"—calibration is stable," one of the techs was saying. "We're ready for the next test cycle."
+It was a facility unlike anything they'd ever seen. Vast. Complex. A web of tunnels and chambers, all buzzing with activity.
 
-"Good," Reeves said. "The Director wants results. Not excuses."
+And in the center of it all was Mill-4. A massive chamber, dominated by a colossal machine unlike anything Jason had ever seen.
 
-"When do we test on a living subject?" the other tech asked.
+"What the hell is that?" Milo breathed, his eyes wide.
 
-"Soon. Once we're certain the containment protocols are reliable." Reeves checked his tablet. "We can't afford another escape. Not after what happened with the Voss incident."
+"Powerful," Jason said, trying to process the readings. "Incredibly powerful. But also... unstable."
 
-Jason felt RAE tense in his awareness.
+"We have to warn Elyra," Lina said, her expression serious. "This changes everything."
 
-*They're building a containment system. For entities like me.*
+Jason nodded. "We will. But first, we need to find out what's really going on here."
 
-**Can they detect us?**
+They moved closer, their hearts pounding in their chests.
 
-*Not if we stay quiet. The dampening field is interfering with their equipment. But it's also masking us.*
+Every instinct screamed at them to turn back. To escape while they still could.
 
-"We need to go," Lina whispered urgently. "Now."
+But they pressed on. Determined to uncover the truth. No matter the cost.
 
-They withdrew. Carefully. Slowly.
+As they reached the edge of the chamber, they hid behind a massive conduit, catching their breath and steadying their nerves.
 
-Made it back to their marked path without incident.
+From their vantage point, they could see everything.
 
-Only when they were halfway to the access hatch did anyone speak.
+The workers. The machine. And the figures in suits directing the operation.
 
-"They're building a prison," Milo said, his voice shaking. "For harmonic entities. For RAE."
+"Look," Milo said, pointing. "It's Reeves. And he's not alone."
 
-"And they're testing it," Jason added. "Which means they're planning to use it. Soon."
+Jason tensed. "Malvek's here. I can feel it."
 
-They climbed out. Secured the hatch behind them.
+Lina nodded, her expression grim. "We need to be careful. If they detect us..."
 
-Walked three blocks in silence before anyone could process what they'd seen.
+"They won't." Jason cut in. "Not if we stay focused. And quiet."
 
-"We need to tell Elyra," Lina said finally. "This changes everything."
+They watched as Malvek and Reeves spoke in hushed tones, reviewing data on a tablet.
+
+Occasionally, one of them would gesture towards the machine, indicating some crucial parameter or readout.
+
+Jason leaned in, straining to hear.
+
+"—output levels are fluctuating," Reeves said, his tone urgent. "We need to stabilize it before the next test."
+
+"Working on it," Malvek replied, his expression tense. "But these readings... they're unlike anything we've encountered."
+
+"Increase the dampening fields," Reeves ordered. "We can't afford any more anomalies."
+
+"Yes, sir." The technician hurried off, barking orders to the workers.
+
+Jason exchanged a glance with Lina and Milo.
+
+"They're hiding something," Jason said quietly. "Something big."
+
+"Whatever it is, it's important," Milo added, his expression serious. "We need to find out before it's too late."
+
+They moved stealthily, staying in the shadows, using the maze-like structure of the facility to their advantage.
+
+As they approached the main control panel, they heard voices coming from the other side.
+
+"—absolutely cannot afford any mistakes," Malvek was saying, his voice low and tense. "Not after the last incident."
+
+"Yes, Director," a technician replied nervously. "We're double-checking all parameters."
+
+"See that you do," Malvek snapped. "I won't tolerate any more delays."
+
+Once the coast was clear, Jason signaled to the others, and they edged closer to the control panel.
+
+Peering over the edge, they could see a complex array of controls, buttons, and screens, all displaying streams of data and schematics.
+
+"Can you hack it?" Lina whispered to Milo.
+
+"Already on it," Milo replied, pulling out his portable terminal.
+
+Within moments, he had connected to the panel and was downloading everything he could find.
+
+"Come on, come on..." Milo muttered, his brow furrowed in concentration.
+
+Suddenly, an alarm blared, and the lights turned red, flooding the chamber in an ominous glow.
+
+"Milo! What did you do?" Lina shouted, panic rising in her chest.
+
+"Nothing! I swear!" Milo exclaimed, frantically trying to cover his tracks. "It must be a backup system. A fail-safe."
+
+"Everyone, get to your stations!" Malvek's voice boomed across the chamber. "We have a security breach!"
+
+Jason felt his heart sink.
+
+"We need to leave. Now," he said urgently.
+
+They turned to run but were met with a wall of soldiers, all armed and alert.
+
+"Too late," one of the soldiers said with a smirk. "You're not going anywhere."
+
+Jason felt a surge of frustration and fear.
+
+They had come so close. Only to be caught at the last moment.
+
+"Step away from the panel," the soldier ordered, his weapon trained on Milo.
+
+"Forget it," Milo said defiantly. "I'm not going anywhere with you."
+
+"Very well," the soldier said, nodding to his team.
+
+Before Jason could react, the soldiers lunged, grabbing them and pushing them to the ground.
+
+Struggling, Jason tried to reach for his weapon, but a boot pressed down on his back, pinning him in place.
+
+"Stop resisting, and it will be easier for you," the soldier sneered, tightening the cuffs around Jason's wrists.
+
+Fury and humiliation coursed through him as they were hauled to their feet.
+
+"Take them to the holding area," Malvek ordered, his expression cold. "I'll deal with them later."
+
+As they were dragged away, Jason caught a glimpse of Milo, his expression filled with determination.
+
+"We'll get out of this," Milo said, his voice firm. "We have to warn Elyra."
+
+Jason nodded, his resolve strengthening.
+
+No matter what happened, they would find a way to escape.
+
+And they would make Malvek pay for underestimating them.
 
 ---
 
-Elyra listened to their report, her expression growing darker with each detail.
+Hours later, they were thrown into a dimly lit cell, the heavy door slamming shut with a resounding clang.
 
-"Reeves. Underground facility. Containment testing." She rubbed her temples. "Malvek's moving faster than I thought. He's not just watching you. He's preparing to act."
+Jason rubbed his wrists, wincing at the soreness from the cuffs.
 
-"How long do we have?" Jason asked.
+"Well, that was fun," Milo said dryly, slumped against the wall.
 
-"Weeks. Maybe less." She paced, her cane tapping. "He's building capability. Once he's confident the containment works, he'll move on known targets. Starting with the most visible ones."
+"We have to find a way out of here," Lina said, her expression grim. "Before they come back."
 
-"Meaning us," Milo said.
+"Agreed," Jason said, his mind already working on a plan. "Milo, can you hack the door?"
 
-"Meaning you." Elyra stopped pacing. "You have two options. Run now, while you can still disappear. Or accelerate your training. Become competent enough that containment becomes prohibitively difficult."
+"Let me try." Milo moved to the door, pulling out his portable terminal once again.
 
-"How much training are we talking about?" Lina asked.
+As he worked, Jason checked their surroundings.
 
-"Months. Minimum. And even then, you'd be facing institutional resources. Personnel. Equipment. Legal authority." Elyra's expression was grim. "I won't lie to you. The odds aren't good."
+The cell was bare, devoid of any furniture or items that could be used as weapons.
 
-Jason looked at Lina. At Milo. At the choice in front of them.
+"Got it!" Milo exclaimed triumphantly, a moment later. "The door's unlocked."
 
-Run and survive. Or stay and fight for the right to exist on their own terms.
+"Nice work." Jason pushed the door open, peering into the corridor beyond.
 
-"We stay," he said quietly. "We train. We get better. And when Malvek comes for us, we make him work for it."
+It was empty, the dim lights casting eerie shadows on the walls.
 
-"Are you sure?" Elyra asked.
+"Stay low, and move quickly," Lina instructed, leading the way into the corridor.
 
-"No. But I'm not running. Not from this."
+They crept down the hall, ears straining for any sounds of approaching guards.
 
-Lina nodded. "I'm in."
+As they reached the main room, they heard voices coming from the control center.
 
-"Same," Milo said. "Besides, running sounds exhausting."
+"—test results are inconclusive," Malvek was saying, his tone frustrated. "We need more time."
 
-Elyra studied them for a long moment. Then nodded. "Then we accelerate. Starting tomorrow. No more slow progression. We push you hard. Fast. Until you're capable or you break."
+"You don't have time," Reeves replied, his voice tense. "The Directive is pushing for results. We need to proceed with the next phase."
 
-"We won't break," Jason said with more confidence than he felt.
+"Next phase?" Jason exchanged a glance with Milo and Lina, his heart sinking.
 
-"We'll see." Elyra turned to her equipment shelves. "Go home. Rest. Tomorrow, your real training begins."
+What were they planning? And how could they stop it?
 
----
+"We have to find out," Milo said, his expression determined. "Before it's too late."
 
-Jason lay in bed that night, feeling the weight of what was coming.
+They moved stealthily through the shadows, avoiding the areas bathed in light.
 
-Malvek was building a prison. For entities like RAE. For people like Jason who worked with them.
+As they approached the control center, they heard more of Malvek and Reeves' conversation.
 
-And he'd seen it. Which meant Malvek would know soon, if he didn't already.
+"—containment protocols are failing," Malvek was saying, his tone urgent. "We can't hold them much longer."
 
-The clock was ticking faster now.
+"Then release the failsafe," Reeves ordered. "We can't let them escape."
 
-*Are you afraid?* RAE asked.
+"Are you insane?" Malvek exclaimed. "That will destroy the entire facility."
 
-**Terrified.**
+"Better that than let them warn the others," Reeves replied coldly. "Activate it."
 
-*Me too.*
+Panic surged through Jason.
 
-**But we're doing this anyway.**
+*Failsafe? What does that mean?*
 
-*Yes. Because the alternative is worse.*
+*Destruction,* RAE said, its tone grave. *They plan to erase all evidence. To prevent anyone from discovering this place.*
 
-**What's the alternative?**
+*We have to stop them.*
 
-*Erasure. Not just containment. But elimination of the possibility that entities like me could ever help humans like you. That's what Malvek wants. Total control of who gets access to resonance. And we represent a threat to that control.*
+*Agreed. But we need a plan.*
 
-**So we fight.**
+They continued to listen, gathering as much information as they could.
 
-*So we fight. Until we can't. Or until we win.*
+Finally, Malvek spoke again, his tone resigned.
 
-Jason closed his eyes. Let exhaustion pull him toward sleep.
+"Very well. Initiating failsafe sequence. This facility will self-destruct in ten minutes."
 
-Tomorrow would be hard. The day after, harder.
+"Let's go." Jason said urgently. "We have to get out of here. Now."
 
-But they'd face it together.
+They turned to run but were met with a wall of soldiers, all armed and ready.
 
-And that, more than anything, gave him hope.
+"You won't escape that easily," one of the soldiers sneered, raising his weapon.
 
-Because together, they were stronger than they were alone.
+"Fire!" another soldier ordered, and the room was filled with the deafening sound of gunfire.
 
-And strength—real strength—came from connection.
+Jason felt a sharp pain in his shoulder and fell to the ground, his vision swimming.
 
-Not power.
+*Milo! Lina! Are you okay?*
 
-Not control.
+*I'm fine,* Lina replied, her tone strained. *But we need to move. Now.*
 
-But trust.
+*Get up, Jason. We have to go.*
 
-And trust was the one thing Malvek couldn't build in his underground facility.
+With great effort, Jason pushed himself up, clutching his shoulder.
 
-No matter how hard he tried.
+He looked around, spotting Milo and Lina fighting off the soldiers.
+
+"Come on!" Milo shouted, delivering a powerful kick to one of the soldiers, sending him sprawling.
+
+They fought their way through the soldiers, inching closer to the exit.
+
+But more soldiers kept coming, converging on their position.
+
+"There's too many of them!" Lina exclaimed, her expression fierce. "We can't hold them off forever."
+
+*We need a distraction,* RAE said. *Something to draw their attention.*
+
+*Like what?* Jason replied, his mind racing.
+
+*Like an explosion.*
+
+*Are you crazy?* Milo yelled, ducking under a soldier's swing. *We'll be caught in it too.*
+
+*Trust me. I can calculate the blast radius. We just need to get to a safe distance.*
+
+Without waiting for a response, RAE triggered the explosives.
+
+The resulting explosion rocked the facility, shaking the walls and ceiling.
+
+Debris rained down, and the lights flickered and died.
+
+Jason felt a surge of energy as the resonance spiked.
+
+It was both terrifying and exhilarating.
+
+*Now! Move!* RAE urged.
+
+They ran, pushing through the chaos and confusion.
+
+The soldiers were disoriented, giving them the opening they needed.
+
+As they reached the exit, Jason glanced back, spotting Malvek and Reeves amid the chaos.
+
+"They won't stop us," Jason said, his expression fierce. "Not now."
+
+With a final surge of energy, they escaped the facility, the explosion's shockwave propelling them forward.
+
+They didn't stop running until they were miles away, the facility reduced to ruins behind them.
+
+Panting and exhausted, they collapsed in a safe house, their hearts still racing.
+
+"What...what just happened?" Milo gasped, struggling to catch his breath.
+
+"RAE triggered an explosion," Jason explained, his tone grave. "To destroy the facility. To cover our escape."
+
+"But why? That place was a treasure trove of information," Milo protested, his expression incredulous.
+
+"Because it was also a trap," Lina said, her tone serious. "Malvek wanted us to find it. To lead him to the rest of us."
+
+Jason nodded, his expression grim. "We were right to be cautious. But now we know for sure. Malvek is a significant threat. And he's not going to stop until he has complete control."
+
+"We have to warn the others," Milo said, his expression serious. "They need to know what's coming."
+
+"Agreed," Jason said, his mind already working on a plan. "But first, we need to lay low. Let the heat die down."
+
+"And train," Lina added, her expression fierce. "We can't let them have the upper hand again."
+
+Jason nodded, his resolve strengthening.
+
+They would not be caught off guard again.
+
+They would be ready.
+
+And when the time came, they would strike back. With everything they had.
+
+Together.

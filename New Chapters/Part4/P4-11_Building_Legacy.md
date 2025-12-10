@@ -1,4 +1,4 @@
-## Ch. 11 - Building Legacy
+# Ch. 11 - "That requires more than good intentions"
 
 Return to the warehouse felt like stepping back into a life that had happened to someone else.
 

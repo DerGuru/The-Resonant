@@ -1,4 +1,6 @@
-## Ch. 16 - Acceleration
+# Ch. 16 - "Forty percent. That's permanent."
+
+Two weeks before the containment teams came, Jason's training entered its final phase.
 
 Elyra wasn't kidding about accelerated training.
 

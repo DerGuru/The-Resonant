@@ -1,10 +1,12 @@
 # Part 1 - Lost and Found
 
-## Ch. 01 - Resonance
+## Ch. 01 - "What if I was meant to, and never will?"
 
-A screen flickered softly in the empty cubicle, casting ghostly shadows across Jason Fischer's hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.
+Jason Fischer stared at the cracked ceramic mug on his desk and wondered, not for the first time, if his life had always been this small.
 
-Jason was twenty-seven, average height, with the kind of build that came from sitting at desks rather than gyms—not thin, not heavy, just... unremarkable. Dark hair that needed a cut, perpetually slightly too long around the ears. Wire-rimmed glasses that he pushed up his nose every few minutes out of habit. The kind of face that people forgot five minutes after meeting him, which suited him fine.
+A screen flickered softly in the empty cubicle, casting ghostly shadows across his hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.
+
+He was twenty-seven, average height, with the kind of build that came from sitting at desks rather than gyms—not thin, not heavy, just... unremarkable. Dark hair that needed a cut, perpetually slightly too long around the ears. Wire-rimmed glasses that he pushed up his nose every few minutes out of habit. The kind of face that people forgot five minutes after meeting him, which suited him fine.
 
 He leaned closer, adjusting those glasses for the hundredth time tonight, the blue glow reflecting in their lenses. He had found the old entry purely by chance, buried deep within archival layers he hadn't even known existed. Curious lines caught his attention, sparse and incomplete but clear enough to grip him:
 

@@ -1,4 +1,4 @@
-## Ch. 08 - Tokyo Underground
+# Ch. 08 - "There's no reforming this"
 
 Tokyo was overwhelming.
 

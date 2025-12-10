@@ -1,4 +1,4 @@
-## Ch. 06 - Cultural Exchange
+# Ch. 06 - "Or because I'm broken enough to say yes"
 
 They debated for hours.
 

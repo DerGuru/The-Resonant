@@ -1,4 +1,4 @@
-## Ch. 03 - No Plans, No Pressure
+# Ch. 03 - "No plans, no pressure"
 
 The flea market was more noise than purpose. A maze of fold-out tables, milk crates, and handwritten price tags spread across what used to be a parking lot. Somewhere between rusted tools and vintage magazines, Jason walked beside Lina in comfortable aimlessness.
 

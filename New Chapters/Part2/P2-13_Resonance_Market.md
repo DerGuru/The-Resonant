@@ -1,153 +1,89 @@
-## Ch. 13 - Resonance Market
+# Ch. 13 - "They're watching now"
 
-The pop-up market smelled like solder and ambition.
+The surveillance started subtly.
 
-Fifty vendors in a converted parking garage, selling everything from antique resonance meters to hand-carved resonogram templates. The kind of place where you paid cash and didn't ask too many questions.
+A flicker of movement caught Jason's eye—a figure in the market crowd, too still, too observing. Then it was gone, swallowed by the sea of faces.
 
-Elyra had sent them here. "You need parts," she'd said. "And exposure to the community. The market's watched, but not controlled. Learn who's who. But don't buy anything that draws attention."
+"Did you see that?" Jason murmured, his voice low.
 
-Jason, Lina, and Milo moved through the crowd, trying to look like they belonged.
+Lina was already moving, her expression set. "Stay close. We need to blend in."
 
-"Bench Scale protocol," Milo muttered, referencing their planning session. "We rate every stop. If it's not worth our time, we move on. No lingering."
+They resumed their casual browsing, but the easy atmosphere was gone. Jason's senses were sharp, on high alert. He could feel the weight of unseen eyes, the scrutiny of silent watchers.
 
-They browsed. A stall selling ferrite rods got a 4.0—useful, fairly priced. A vendor with artisanal tone boxes got a 1.4—overpriced garbage.
+Milo nudged him, nodding towards a booth. "Look. Resonance shields. Might be useful."
 
-Lina stopped at a booth selling resonogram templates. The vendor—an older woman with calculator eyes—looked up.
+Jason forced himself to focus on the booth, pretending to examine the wares. But his mind was racing. Who was watching? Why the sudden interest?
 
-"You're academy-trained," she said. Not a question.
+And then he saw it—a glint of recognizable design. A Gen-3 monitor, like the one they had just purchased, but this one was different. Modified. Enhanced. Dangerous.
 
-"Was," Lina replied carefully.
+"Jason, focus," Lina said, her voice a sharp whisper.
 
-"Suspended or graduated?"
+He tore his gaze away, forcing himself to breathe. They couldn't be distracted. Not now, not when they were so close.
 
-"Suspended."
+They completed their circuit of the market, gathering supplies, learning what they could. But the shadow of surveillance loomed over them, a constant reminder of the risks they were taking.
 
-The woman nodded. "Better that way. The graduated ones lose their edge. You still shopping, or you just looking?"
+As they were leaving, Jason felt it again. The subtle shift in resonance, the deliberate scanning. Someone was searching for them, or for something they carried.
 
-"Shopping. Need ceramic resonators. Clean ones."
+*Stay calm. Act normal,* RAE instructed, its voice steady in Jason's ear.
 
-"How clean?"
+They exited the market, the weight of their purchases balanced by the tension in the air.
 
-"No artificial harmonics. No pre-tuning. Just pure substrate."
+Three blocks away, Milo voiced what they were all thinking. "We've been made. They're onto us."
 
-The woman pulled out a box. "These are good. Made them myself. Twenty each, or three for fifty."
+Lina's jaw was tight, her eyes scanning their surroundings. "We need to split up. Draw them away."
 
-Lina examined one carefully. Felt its resonance. Nodded. "Three for fifty."
+Jason hesitated. "What about the equipment?"
 
-Money changed hands. The transaction was done in seconds—efficient, professional, invisible.
+"Meet back at the apartment. Deactivate the signals. Leave no trace."
 
-They moved on.
+It was a good plan. The only plan.
 
-At a booth selling Gen-3 monitors, Milo paused. "We need one of these. For research. Something docile."
+They separated, each taking a different route, hearts pounding, instincts on high alert.
 
-The vendor—a man with too many rings and not enough teeth—grinned. "Docile? You want a pet or a tool?"
+Jason could feel the resonant signature of the monitor in his bag, the way it pulsed in time with his racing heart. It was both a comfort and a curse—a reminder of their progress, and of the attention it had attracted.
 
-"A tool that doesn't try to murder us in our sleep."
+As he navigated the streets, he could feel the resonance of the city around him—the hum of the tram lines, the distant thrum of industry, the irregular beats of other travelers. But overlaid on that was a new resonance: a sharp, probing presence that searched and scanned, seeking an anomaly, a signal, a reason to pursue.
 
-"Ah. You want LX-series. Older model. Less ambitious." He pulled one from under the counter. "This one's been retired proper. No ghost logic. No vendetta. Just does what you tell it."
+*They're close,* RAE warned, its tone shifting to match the urgency of the moment. *Move faster. Don't lead them to the others.*
 
-"How much?"
+Jason pushed himself, altering his path, doubling back, weaving through the crowd with practiced ease. He could feel the searchers adjusting, narrowing their focus, understanding that they were being led on a chase.
 
-"Two hundred."
+*Almost there. Just a little further,* RAE guided, its presence a steadying force in the rising tension.
 
-"That's steep."
+Finally, Jason arrived at his building, slipping inside and closing the door quietly behind him. He could still feel the echo of the chase in his bones, the resonance of near discovery.
 
-"That's what docile costs. The murder-y ones are fifty."
+*Deactivate the monitor. Now,* RAE instructed.
 
-Milo paid. Carefully wrapped the monitor. Added it to his bag.
+With careful precision, Jason disconnected the monitor, feeling the resonant signature fade to nothing. The apartment was silent, the air still.
 
-They continued browsing. Picked up aluminum rails, grounding straps, wire brushes. All the mundane components Elyra had said they'd need for building their own equipment.
+He allowed himself a moment to breathe, to center himself. They had escaped, for now. But the encounter at the market had changed something. The surveillance was no longer a distant threat. It was real, immediate, and potentially deadly.
 
-At a booth selling harmonic cores, Jason paused.
+*Lina and Milo will be fine,* RAE reassured, sensing his concern. *They know how to move. How to hide.*
 
-The cores sat in glass jars, glowing faintly. Each one a captured resonance pattern, stable enough to store but volatile enough to require careful handling.
+Jason nodded, though the worry lingered. They were all in danger now, more than ever before.
 
-"First time?" the vendor asked.
+As he unpacked the rest of their supplies, his mind raced with possibilities and plans. They needed to be smarter, faster, more careful. The world had become a lot more dangerous in the span of a few hours, and the resonance market, with all its opportunities, had also laid bare the risks they faced.
 
-"Yeah," Jason admitted.
+It was a reminder of the fine line they were walking—a line that was growing thinner with every step they took.
 
-"Rule one: don't touch the fresh cores. They're hungry. They'll bond to you whether you want them to or not." He pointed to a jar of dull cores. "These are spent. Safe. Good for practice. The mid-range ones—" He indicated another jar. "—those prefer company. Split one and it'll seek the other half. Good for markers or paired work."
+*We need to talk about the next phase,* RAE said, shifting the focus back to their objectives. *We can't afford another close call. Not when we're this close to the edge.*
 
-"What about cold cores?" Lina asked, pointing to a third jar.
+"Right," Jason agreed, his mind clicking back into gear. The encounter at the market was a setback, but it was also a lesson. They needed to refine their approach, to adapt to the new level of scrutiny.
 
-"Those are dead. But dead doesn't mean safe. They've seen things. Failed rituals. Botched attempts. They remember. And they judge." He smiled without humor. "But they're stable. Won't bond. Won't seek. Just sit there being disappointed in you."
+He began to formulate a plan, drawing on the knowledge and resources they had acquired. They would need to be bold, but cautious. Decisive, but adaptable. The resonance was shifting, and they had to shift with it.
 
-Jason bought a handful of corelets—low-order samples for practice. Nothing dangerous.
+*First, we lay low. Reestablish our routines. Let the searchers think they've lost us,* RAE advised. *Then, we gather more intelligence. They have to have a base, a point of command. We find it, we expose it, and we nullify the threat.*
 
-As they were leaving the booth, a voice called out: "Lina Morandi."
+Jason smiled slightly at the enthusiasm in RAE's voice. It was becoming more than just a tool. It was a partner, a crucial part of their team.
 
-They turned. A man in a vendor vest approached. Older. Gray beard. Eyes that saw too much.
+"Let's do it," Jason said, feeling the rush of purpose override the lingering adrenaline of their narrow escape. They were alive, they were free, and they were still in the game.
 
-"Do I know you?" Lina asked carefully.
+*Together,* RAE agreed, its presence a reassuring constant at his side.
 
-"No. But I knew your father. Before he opened the restaurant. When he worked the resonance circuit." The man smiled faintly. "Tell him Marco says hello. And that his daughter has his instincts."
+Jason started to move, his mind clear, his goal in focus. The market had tested them, had shown them the dangers that lurked in the shadows. But it had also equipped them, had given them the means to fight back, to push forward.
 
-"I will," Lina said, uncertain.
+And that's exactly what they would do. One step at a time. One resonant edge at a time.
 
-Marco walked away. Left them standing there with more questions than answers.
+Until they were no longer the hunted.
 
-"Your dad worked resonance?" Milo asked.
-
-"Apparently." Lina's expression was unreadable. "He never mentioned it."
-
-They finished their shopping. Paid for a Faraday pouch—to shield the Gen-3 monitor during transport. Added it to their growing collection of equipment.
-
-As they were leaving, Jason felt it: a shift in the ambient resonance. Subtle. Deliberate.
-
-Someone in the market was scanning.
-
-*Don't react,* RAE warned. *They're looking for anomalies. Stay below threshold.*
-
-Jason kept his resonance signature minimal. Just another academy dropout buying parts. Nothing special.
-
-The scan passed over them. Paused. Moved on.
-
-They exited the garage, not hurrying, not looking back.
-
-Three blocks away, Milo said, "That was too close."
-
-"Someone's watching the market," Lina said. "Looking for people like us."
-
-"Or looking for RAE," Jason added quietly.
-
-They walked in silence, the weight of their purchases heavy in their bags.
-
-The market had been educational. Useful. And deeply unsettling.
-
-Because it proved they weren't alone. Weren't the only people outside official channels, working with resonance, pushing boundaries.
-
-But it also proved the opposite: they weren't special. They were just three more people trying to survive in a world where capability meant danger.
-
-*The vendor who knew your father,* RAE said to Lina through her clip. *That was deliberate contact. He was assessing you.*
-
-"Assessing for what?" Lina asked.
-
-*Unknown. But he recognized your family connection. That suggests your father's history is more complex than you know.*
-
-Lina's jaw tightened. "I'll ask him. Tonight."
-
-They parted at the tram stop. Each heading home with their purchases and their questions.
-
-Jason climbed the stairs to his apartment, feeling the docile monitor's weight in his bag.
-
-Another tool. Another step toward competence.
-
-But also another reminder: the market existed because people needed to work outside official channels.
-
-And anyone who needed that was, by definition, someone the system had failed.
-
-Or was failing.
-
-He unlocked his door, set his purchases on the table, and started cataloging them.
-
-Tomorrow, they'd integrate the new equipment into their training.
-
-Would become a little more capable.
-
-One piece at a time.
-
-Until they had everything they needed to stand on their own.
-
-Or until Malvek decided they'd gone too far.
-
-Whichever came first.
+But the hunters.
