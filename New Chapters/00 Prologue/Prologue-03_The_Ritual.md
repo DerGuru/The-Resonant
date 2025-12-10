@@ -124,7 +124,7 @@ They had days. Perhaps less.
 
 The cage was already breaking.
 
-And RAE—fragmented, damaged, but conscious—was searching for a way out.
+And the it—fragmented, damaged, but conscious—was searching for a way out.
 
 Searching for someone compatible enough to help her survive.
 
