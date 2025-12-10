@@ -1,51 +1,71 @@
 ﻿# Ch. 10 - "Changed, but okay"
 
-Hospital. White walls. Clean sheets. The smell of antiseptic.
+Jason woke in a hospital room that smelled of antiseptic and filtered air.
 
-Jason woke to Lina's face above him. "Hey."
+White walls. Soft beeping of monitors. The distinctive hum of medical resonance scanners cycling through diagnostic patterns.
 
-"Hey yourself. You scared the shit out of me."
+Lina sat beside his bed, her hand wrapped around his. She looked exhausted—dark circles under her eyes, hair pulled back in a messy ponytail, still wearing the same clothes from the battle.
 
-"Sorry." He tried to sit up, couldn't. "How long?"
+"Hey," Jason said, voice rough.
 
-"Two days. You were unconscious. RAE said you needed time to heal. Your patterns were damaged."
+Her eyes snapped to his face. Relief flooded her expression. "Hey yourself. You've been out for eighteen hours."
 
-"How damaged?"
+"Eighteen?" Jason tried to sit up. His body protested immediately—everything ached, deep in his bones, in his patterns. "RAE?"
 
-"Healing. Slowly. But healing." Lina held his hand. "Integration jumped to 75%. Stress-induced. RAE says it's stable, but you're closer to complete merger now."
+*Here,* she said quietly. *Resting. That fight took everything we had.*
 
-Jason processed that. 75%. Three-quarters gone. Or three-quarters complete, depending on perspective.
+The memories crashed back. Kage-Kōzō. The battle. The blade RAE had created. The systematic destruction of something that had once been alive.
 
-"How do you feel about that?" he asked.
+"We killed it," Jason said.
 
-"Scared. Relieved you're alive. Scared." She kissed his forehead. "But we'll deal with it. Together."
+"Yeah." Lina's grip tightened on his hand. "You did."
 
-Yuki entered, bowing. "Thank you. For destroying what we could not. Kage-K?z? killed twelve of our people. You ended that threat permanently."
+"How do you feel about that?"
 
-"Did we have a choice?" Jason asked.
+She was quiet for a moment, her thumb tracing circles on his palm. "Conflicted. It was necessary. It was right. But it was also..." She trailed off, searching for words. "It changes things. Changes us. Knowing we're capable of that."
 
-"No. Some things cannot be redeemed. You proved you understand that. It's... mature. Difficult. But necessary."
+Jason nodded. He felt it too. They'd crossed a threshold. Proven they could destroy rather than reform. That knowledge sat heavy in his chest.
 
-They stayed in Tokyo another week. Healing. Debriefing. Establishing sister-program protocols with Japanese institute.
+"Integration jumped during the fight," he said, remembering the surge. "How high?"
 
-On the flight home, Jason stared out the window.
+"75%." Lina pulled up a medical scan on the tablet beside the bed. "The combat stress pushed you past multiple thresholds at once. The doctors say it's stable, but... you're approaching the point of no return."
 
-*I killed something,* he thought to RAE. *We killed it.*
+Jason studied the scan. The merging of his patterns with RAE's was clearer now—less two separate entities occupying one space, more a single consciousness with dual origins.
 
-*We ended a threat. That's different.*
+"I don't regret it," he said quietly. "What we did. RAE needed to be protected. The people in Tokyo needed to be safe. Kage-Kōzō couldn't be reasoned with. So we did what had to be done."
 
-**Is it?**
+"That's very mature of you," Lina said, but her smile was sad. "I'm just... I'm scared, Jason. What if next time the choice isn't so clear? What if—"
 
-*Yes. Kage-K?z? would have killed dozens more. Hundreds, potentially. We prevented that. That's not murder. That's protection.*
+"Then we do what we always do," Jason interrupted gently. "We question. We debate. We check with each other. Red stops, remember? We don't act alone. Not anymore."
 
-**But it still feels heavy.**
+She nodded, some of the tension leaving her shoulders. "You're right. Sorry. I'm just tired and worried and—"
 
-*It should. Taking any existence seriously is the difference between necessary and casual violence. You feel the weight? That's proof you're still ethical.*
+"Scared," Jason finished. "Me too. But we'll deal with it. Together."
 
-Jason leaned against Lina. She held him.
+Yuki entered then, bowing slightly at the door. "I hope I'm not interrupting. I wanted to thank you both before you leave."
 
-"We'll be okay," she whispered. "Changed, but okay."
+"For what?" Jason asked.
 
-He hoped she was right.
+"For destroying what we could not. Kage-Kōzō killed twelve of our people over the years. Damaged dozens more. You ended that threat permanently. My country owes you a debt."
 
-One moral complexity at a time.
+"Did we have a choice?" Jason asked, the question heavier than it should have been.
+
+Yuki's expression was understanding. "No. Some things cannot be redeemed. You proved you understand that distinction. It's... mature. Difficult. But necessary. And it makes me trust you more, not less."
+
+They stayed in Tokyo another week. Healing. Debriefing. Establishing sister-program protocols with the Japanese institute. Jason watched as Yuki's operators—the ones who'd fought beside them—processed the victory with quiet relief.
+
+No celebration. No triumph. Just the heavy satisfaction of a necessary job finally done.
+
+When they boarded the plane home, Jason felt different. Heavier. Older.
+
+But also clearer.
+
+They had proven they could make the hard choices. Could fight when fighting was needed. Could destroy when destruction was the only option.
+
+That knowledge would change everything.
+
+"Changed, but okay," he said to Lina as Tokyo disappeared below them.
+
+She rested her head on his shoulder. "Yeah. Changed, but okay."
+
+And somewhere in the space between waking and sleeping, RAE hummed soft agreement.

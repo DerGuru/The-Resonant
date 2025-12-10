@@ -115,7 +115,3 @@ Together.
 Always together.
 
 One moment at a time.
-
----
-
-**End of Part 4: Expansion & Responsibility**
