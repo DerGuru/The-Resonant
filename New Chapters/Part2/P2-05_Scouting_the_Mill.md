@@ -1,8 +1,8 @@
-# Ch. 05 - "She knows something we don't"
+ï»¿# Ch. 05 - "She knows something we don't"
 
 Mill-4 loomed like a mistake someone had tried to bury.
 
-Defiance and despair had settled into its cracked concrete like weeds through pavement. Gangs claimed territory with spray paint and shadows, while the lost and the broken wandered the streets, searching for something—perhaps themselves, perhaps just a reason to keep moving.
+Defiance and despair had settled into its cracked concrete like weeds through pavement. Gangs claimed territory with spray paint and shadows, while the lost and the broken wandered the streets, searching for somethingâ€”perhaps themselves, perhaps just a reason to keep moving.
 
 Jason, Lina, and Milo stood at the edge of this forsaken realm, the weight of their purpose pressing down on them.
 
@@ -76,7 +76,7 @@ Elyra studied them, her gaze assessing and skeptical. "Understanding comes with 
 
 Elyra hesitated, then stepped aside, allowing them entry into her shadowy domain. "Very well. But know this: the truth won't set you free. It will bind you in ways you cannot yet comprehend."
 
-As they crossed the threshold, Jason felt a shiver run down his spine—a premonition of the tumultuous journey ahead.
+As they crossed the threshold, Jason felt a shiver run down his spineâ€”a premonition of the tumultuous journey ahead.
 
 The room they entered was dimly lit, filled with the acrid smell of burnt paper and something metallic. The walls were lined with shelves crammed full of books, scrolls, and archaic devices that hummed with latent energy.
 
@@ -98,11 +98,11 @@ As she spoke, Jason could feel RAE's presence intensifying, feeding off the emot
 
 Elyra fixed him with a piercing gaze. "Very well. But remember, you asked for this."
 
-With painstaking slowness, she began to reveal the layers of their shared past—the connections, the betrayals, the catastrophic events that had led to the present.
+With painstaking slowness, she began to reveal the layers of their shared pastâ€”the connections, the betrayals, the catastrophic events that had led to the present.
 
 Jason listened, spellbound and horrified in equal measure, as the pieces of the puzzle fell into place. It was a story of sacrifice and suffering, of courage twisted into monstrosity by the hands of fate.
 
-And at the center of it all was the ritual—the catalyst that had set everything in motion.
+And at the center of it all was the ritualâ€”the catalyst that had set everything in motion.
 
 "You see," Elyra said when she had finished, "the past doesn't just disappear. It echoes. It builds. And unless confronted, it repeats."
 

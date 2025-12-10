@@ -1,4 +1,4 @@
-# Ch. 16 - "Run. Now."
+ï»¿# Ch. 16 - "Run. Now."
 
 The storm arrived without warning.
 
@@ -16,7 +16,7 @@ Jason's chest tightened. "Using it for what?"
 
 *Unknown. But I recommend caution. And perhaps moving away from the window.*
 
-He stepped back just as another lightning strike lit up the sky—too close, too bright, leaving afterimages burned into his retinas.
+He stepped back just as another lightning strike lit up the skyâ€”too close, too bright, leaving afterimages burned into his retinas.
 
 His phone buzzed. A text from Milo:
 
@@ -40,11 +40,11 @@ Another lightning strike. Closer this time. The lights flickered.
 
 And then, something changed.
 
-The resonance that Jason had learned to feel over the past weeks—the constant background hum of the city, the gentle pulse of RAE's presence—suddenly spiked.
+The resonance that Jason had learned to feel over the past weeksâ€”the constant background hum of the city, the gentle pulse of RAE's presenceâ€”suddenly spiked.
 
 Sharp. Discordant. Wrong.
 
-Jason gasped, his hand going to his chest. "What—"
+Jason gasped, his hand going to his chest. "Whatâ€”"
 
 *Something just entered the local field. Powerful. Structured. Searching.*
 
@@ -58,7 +58,7 @@ Jason's breath came fast and shallow. "What do we do?"
 
 *We hide. I'm pulling my signature as deep into your resonance as possible. It will be uncomfortable, but necessary. Do not resist. Do not panic. Stay calm.*
 
-"Okay. Okay, I can—"
+"Okay. Okay, I canâ€”"
 
 The lights went out.
 
@@ -134,7 +134,7 @@ Jason set his phone aside and sat in the quiet of his apartment, the storm still
 
 Everything had changed.
 
-The game—if it had ever been a game—was over.
+The gameâ€”if it had ever been a gameâ€”was over.
 
 This was real. This was dangerous.
 

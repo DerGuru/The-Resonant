@@ -1,8 +1,8 @@
-# Ch. 06 - "Or because I'm broken enough to say yes"
+﻿# Ch. 06 - "Or because I'm broken enough to say yes"
 
 They debated for hours.
 
-"We reformed RP-0," Jason argued. "Maybe we can�"
+"We reformed RP-0," Jason argued. "Maybe we can—"
 
 "No," Yuki interrupted. "Kage-K?z? is fundamentally different. Built to harm. Designed to consume resonant humans and grow stronger. It has killed before. Will kill again if freed."
 

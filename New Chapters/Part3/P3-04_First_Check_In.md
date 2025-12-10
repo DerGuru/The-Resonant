@@ -1,4 +1,4 @@
-## Ch. 04 - First Check-In
+ï»¿## Ch. 04 - First Check-In
 
 Meridian Coffee smelled like espresso and nervous energy.
 
@@ -6,7 +6,7 @@ Jason arrived fifteen minutes early. Claimed a corner table with good sightlines
 
 *Seventeen people,* RAE reported. *Three with elevated stress signatures. None hostile. Thomas Reeves approaching from the south entrance.*
 
-Jason looked up as Reeves entered—same suit, same professional calm, same forgettable face that probably helped him blend in anywhere.
+Jason looked up as Reeves enteredâ€”same suit, same professional calm, same forgettable face that probably helped him blend in anywhere.
 
 Reeves ordered tea. Joined Jason at the table. Set a slim folder between them.
 
@@ -108,7 +108,7 @@ Reeves closed the folder. "Good. Keep it up. These early check-ins set precedent
 
 "I'll be here."
 
-"Good. Oh—one more thing. The Director still wants to meet. At your convenience. No pressure. But it would help establish rapport."
+"Good. Ohâ€”one more thing. The Director still wants to meet. At your convenience. No pressure. But it would help establish rapport."
 
 Jason considered that. "Next month. After a few more successful check-ins. When we've proven consistency."
 

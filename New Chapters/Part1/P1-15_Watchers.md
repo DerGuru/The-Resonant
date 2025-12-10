@@ -1,4 +1,4 @@
-# Ch. 15 - "Someone's paying attention"
+ï»¿# Ch. 15 - "Someone's paying attention"
 
 The warehouse district felt different at night.
 
@@ -12,11 +12,11 @@ It had been three weeks since he'd met Milo. Three weeks of careful research, la
 
 Three weeks of feeling like he was standing on the edge of something vast and unknowable.
 
-Tonight, he was reading through forum posts again. Not the main threads—those were too public, too watched. But the smaller communities, the ones where people whispered about things that official channels dismissed.
+Tonight, he was reading through forum posts again. Not the main threadsâ€”those were too public, too watched. But the smaller communities, the ones where people whispered about things that official channels dismissed.
 
 One post caught his eye:
 
-**"To those who've felt the shift—you're not alone."**
+**"To those who've felt the shiftâ€”you're not alone."**
 
 Posted by an anonymous user. No name. No history. Just words:
 
@@ -42,7 +42,7 @@ Easy enough in theory.
 
 But the universe, it seemed, had other plans.
 
-The next day at work, Jason was filing a routine request when his terminal froze. Not crashed—just stopped. The cursor blinked. The fan hummed. But nothing responded.
+The next day at work, Jason was filing a routine request when his terminal froze. Not crashedâ€”just stopped. The cursor blinked. The fan hummed. But nothing responded.
 
 Then, a message appeared on the screen. Not through the interface. Just... text, overlaying everything:
 
@@ -120,7 +120,7 @@ Jason closed his eyes. "You're right. I know you're right."
 
 *Then listen. I'll help.*
 
-And RAE did something she'd never done before. She shaped a pattern—not physical, not external—but internal. A soft, rhythmic pulse that matched his breathing. A gentle resonance that eased the tension in his muscles, slowed his racing thoughts.
+And RAE did something she'd never done before. She shaped a patternâ€”not physical, not externalâ€”but internal. A soft, rhythmic pulse that matched his breathing. A gentle resonance that eased the tension in his muscles, slowed his racing thoughts.
 
 Not control. Just... comfort.
 

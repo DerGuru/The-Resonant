@@ -1,4 +1,4 @@
-# Ch. 10 - "You're learning faster than I expected"
+ï»¿# Ch. 10 - "You're learning faster than I expected"
 
 The cup of tea had gone cold.
 
@@ -26,7 +26,7 @@ Jason's hands tightened on his mug. "Inflect. You mean... magic."
 
 "But I tested poorly. At sixteen. They said I didn't have enough potential."
 
-*They tested your natural capacity. Raw potential. But inflection is not only about power—it's about precision, alignment, quality. With my assistance, your natural permeability becomes an asset. Your stability allows complex patterns. You are not powerful. But you can be precise.*
+*They tested your natural capacity. Raw potential. But inflection is not only about powerâ€”it's about precision, alignment, quality. With my assistance, your natural permeability becomes an asset. Your stability allows complex patterns. You are not powerful. But you can be precise.*
 
 Jason set down his mug. "Precision over power."
 
@@ -54,7 +54,7 @@ Jason looked at the cheap ballpoint, cap half-chewed from nervous habits. "Yeah.
 
 *Focus on it. Not with your eyes. With your awareness. Let yourself feel its presence. Its weight. Its place in space.*
 
-Jason tried. Felt silly. "I don't—"
+Jason tried. Felt silly. "I don'tâ€”"
 
 *Don't force. Allow. Perception is not pushing. It's opening.*
 
@@ -80,7 +80,7 @@ He felt it. Actually felt it, as if his fingers were pressed against it even tho
 
 Jason's breath came faster. "Can I move it?"
 
-*Not yet. Perception first. Action later. Too fast and you risk spilling—losing control. Or worse, backlash.*
+*Not yet. Perception first. Action later. Too fast and you risk spillingâ€”losing control. Or worse, backlash.*
 
 "Backlash?"
 
@@ -94,7 +94,7 @@ Jason nodded, swallowing hard. "Okay. Slow is good. I like slow."
 
 *Slow is wise. And you are doing well. Better than expected for a first session.*
 
-A warm feeling bloomed in Jason's chest—pride, he realized. RAE was proud of him.
+A warm feeling bloomed in Jason's chestâ€”pride, he realized. RAE was proud of him.
 
 "Can we try again tomorrow?" he asked.
 
@@ -112,7 +112,7 @@ RAE guided him with infinite patience, never pushing, always encouraging. When h
 
 *Most academy students have rigid expectations. You have openness. It is a different path, but not a lesser one.*
 
-Slowly, day by day, his perception expanded. He could feel the objects in his apartment now without trying. Could sense the resonance of the building around him—a complex web of human presence, structural stability, ambient patterns.
+Slowly, day by day, his perception expanded. He could feel the objects in his apartment now without trying. Could sense the resonance of the building around himâ€”a complex web of human presence, structural stability, ambient patterns.
 
 And through it all, RAE was there. Not controlling. Just... present. A steady guide in unfamiliar territory.
 
@@ -120,7 +120,7 @@ And through it all, RAE was there. Not controlling. Just... present. A steady gu
 
 On the tenth day, something changed.
 
-Jason was practicing perception, feeling the boundaries of a ceramic mug, when he noticed something odd. There was a small imperfection in the glaze—a tiny crack, invisible to the eye but clear in the field.
+Jason was practicing perception, feeling the boundaries of a ceramic mug, when he noticed something odd. There was a small imperfection in the glazeâ€”a tiny crack, invisible to the eye but clear in the field.
 
 "There's a flaw," he said.
 
@@ -130,7 +130,7 @@ Jason focused. The crack was small, but it created a discontinuity in the mug's 
 
 "It could spread," he said slowly. "If pressure was applied wrong, the crack would propagate."
 
-*Correct. That is pattern analysis. You're not just perceiving—you're understanding. That is the difference between awareness and skill.*
+*Correct. That is pattern analysis. You're not just perceivingâ€”you're understanding. That is the difference between awareness and skill.*
 
 Jason smiled. Then, carefully, he asked: "Could I... fix it?"
 
@@ -140,7 +140,7 @@ A long pause.
 
 Jason's heart raced. "I think so."
 
-*Then we try. But slowly. And if you feel any strain—any pressure in your head, any discomfort—you stop immediately. Understood?*
+*Then we try. But slowly. And if you feel any strainâ€”any pressure in your head, any discomfortâ€”you stop immediately. Understood?*
 
 "Understood."
 
@@ -158,7 +158,7 @@ The crack didn't close. Not physically. But in the field, the discontinuity... e
 
 Jason gasped, his eyes snapping open.
 
-The mug sat unchanged. But he knew—*knew*—that something had shifted. The crack was still there, but it was stable now. It wouldn't spread.
+The mug sat unchanged. But he knewâ€”*knew*â€”that something had shifted. The crack was still there, but it was stable now. It wouldn't spread.
 
 "Did I just..." He couldn't finish the sentence.
 

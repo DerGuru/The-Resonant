@@ -1,4 +1,4 @@
-# Ch. 17 - "Containment teams are coming"
+﻿# Ch. 17 - "Containment teams are coming"
 
 The call came at 3 AM.
 
@@ -28,7 +28,7 @@ Jason rode the subway three stops. Got off. Switched trains. Classic evasion.
 
 By the time he emerged, the pursuit had lost him.
 
-He made his way to the secondary location�an old warehouse Elyra had prepared months ago. Safe. Stocked. Off the grid.
+He made his way to the secondary location—an old warehouse Elyra had prepared months ago. Safe. Stocked. Off the grid.
 
 Lina was already there, looking shaken but unharmed. "They hit my apartment. I was out on a run. Got Elyra's message and ran here."
 

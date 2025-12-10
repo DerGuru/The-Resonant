@@ -1,4 +1,4 @@
-# Ch. 04 - "To competence over power"
+ï»¿# Ch. 04 - "To competence over power"
 
 Three months after her first lesson, Kira Chen stood in the center of the training space and demonstrated everything she'd learned.
 
@@ -18,7 +18,7 @@ Kira beamed. "Thank you. All of you. I never thought..."
 
 "We know," Jason said. "We've all been there."
 
-They gathered around a table Milo had set up—complete with cake someone had bought for the occasion. Informal. Warm. Celebratory.
+They gathered around a table Milo had set upâ€”complete with cake someone had bought for the occasion. Informal. Warm. Celebratory.
 
 "So what comes next?" Kira asked. "Do I just... go practice on my own?"
 
@@ -56,7 +56,7 @@ They'd propose a joint venture. Independent operation with institutional support
 
 "Either way," Lina added, "we're building something that lasts. Something that helps people who have nowhere else to go."
 
-They raised glasses—cheap champagne someone had bought—and toasted:
+They raised glassesâ€”cheap champagne someone had boughtâ€”and toasted:
 
 "To competence over power."
 

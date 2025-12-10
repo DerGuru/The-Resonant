@@ -1,10 +1,10 @@
-# Part 4 - Expansion & Responsibility
+ï»¿# Part 4 - Expansion & Responsibility
 
 ## Ch. 01 - "We're going to teach"
 
 Three months after the ritual, Jason sat across from Elyra in the warehouse they'd come to think of as headquarters.
 
-The space had transformed. What was once a simple concrete shell now served as a dojo, a classroom, a planning room. It hummed with the energy of potential—conduits pulsed softly, lights adjusted to optimal spectrums, air filtered and conditioned.
+The space had transformed. What was once a simple concrete shell now served as a dojo, a classroom, a planning room. It hummed with the energy of potentialâ€”conduits pulsed softly, lights adjusted to optimal spectrums, air filtered and conditioned.
 
 Elyra looked different too. No longer just a strategist or caretaker, she had become a mentor in every sense. Her posture was more assured, her movements precise and deliberate. Teaching had ignited a new flame in her, one that pushed against the shadows of her past.
 
@@ -30,7 +30,7 @@ The first day of the program dawned bright and clear. Students began to arrive, 
 
 Kira was there, of course. Her excitement was palpable, a bright beacon in the sea of new faces. Beside her was a taller young man with wary eyes, and a girl who couldn't have been older than fifteen, practically bouncing on her feet.
 
-"We're going to teach," Jason announced, heart swelling with pride and trepidation. "Not just skills or techniques, but critical thinking, responsibility, and the importance of community. You are embarking on a journey, one that will challenge you in ways you cannot yet imagine. But know this—you are not alone. We are all in this together."
+"We're going to teach," Jason announced, heart swelling with pride and trepidation. "Not just skills or techniques, but critical thinking, responsibility, and the importance of community. You are embarking on a journey, one that will challenge you in ways you cannot yet imagine. But know thisâ€”you are not alone. We are all in this together."
 
 The taller young man raised a hand. "What if we mess up? What if someone gets hurt?"
 

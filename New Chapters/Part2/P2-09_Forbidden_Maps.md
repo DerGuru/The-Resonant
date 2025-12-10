@@ -1,4 +1,4 @@
-# Ch. 09 - "Precision over power"
+ï»¿# Ch. 09 - "Precision over power"
 
 Six weeks into training, Jason could perceive resonance signatures from twenty meters away.
 
@@ -12,11 +12,11 @@ Terrifying because some of those signatures were hostile. Like landmines hidden 
 
 Elyra pushed them hard. Every day was a new test, a new challenge designed to stretch their abilities and force them to adapt.
 
-"Resonance is like the fabric of reality," she explained during one session. "It's what connects everything. And right now, you're blind to most of it. Your task is to learn how to see—to perceive the patterns, the flows, the disturbances."
+"Resonance is like the fabric of reality," she explained during one session. "It's what connects everything. And right now, you're blind to most of it. Your task is to learn how to seeâ€”to perceive the patterns, the flows, the disturbances."
 
 They spent hours in the training room, Jason and the others focusing their minds, reaching out with their senses.
 
-At first, it was mõt meaningless. Just a chaotic swirl of impressions with no coherence or sense.
+At first, it was mÃµt meaningless. Just a chaotic swirl of impressions with no coherence or sense.
 
 "But it's all connected," Elyra insisted. "Even if you can't see the connections yet, they exist. The more you practice, the clearer it will become."
 
@@ -60,7 +60,7 @@ Days bled into weeks. Training became their new normal, a grueling routine that 
 
 And slowly, the world began to change.
 
-Not the physical world—the same cracked streets, the same decaying buildings, the same ever-present sense of decay and neglect.
+Not the physical worldâ€”the same cracked streets, the same decaying buildings, the same ever-present sense of decay and neglect.
 
 But the world as Jason perceived it.
 

@@ -1,4 +1,4 @@
-# Ch. 07 - "Max three channels. That's the limit."
+﻿# Ch. 07 - "Max three channels. That's the limit."
 
 "We need better communication," Milo said one afternoon, three weeks into regular training. "Phone calls are compromised. RAE speaking through random objects is conspicuous. We need something purpose-built."
 
@@ -8,7 +8,7 @@ So Milo spread the components across Elyra's table. "Whisper clips," he explaine
 
 "Why not?" Lina asked, perking up at the idea.
 
-"Because most people tried to make them do too much. Active transmission, encryption, range extension. All that complexity meant more failure points." Elyra picked up one of Milo's prototypes�a clear plastic ear hook with a tiny ceramic disc embedded. "This is better. Simple. Passive. Relies on RAE's ability rather than trying to replicate it mechanically."
+"Because most people tried to make them do too much. Active transmission, encryption, range extension. All that complexity meant more failure points." Elyra picked up one of Milo's prototypes—a clear plastic ear hook with a tiny ceramic disc embedded. "This is better. Simple. Passive. Relies on RAE's ability rather than trying to replicate it mechanically."
 
 "So it'll work?" Milo asked, hope blooming in his chest.
 

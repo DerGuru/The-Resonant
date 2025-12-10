@@ -1,4 +1,4 @@
-# Ch. 04 - "Sixteen hours unconscious"
+ï»¿# Ch. 04 - "Sixteen hours unconscious"
 
 Jason woke in stages.
 
@@ -12,11 +12,11 @@ The next, he was blinking against the harsh light of his bedroom, disoriented an
 
 *You've been unconscious for over sixteen hours,* RAE explained. *As close to a hard reboot as I could manage without external intervention.*
 
-**Sixteen hours? What—?**
+**Sixteen hours? Whatâ€”?**
 
 *You pushed yourself too far, too fast. Your neural patterns were on the verge of collapse. You need to rest.*
 
-**I can't.** The thought of lying back down, of being inactive, set off a fresh wave of panic. **I have to keep moving. There are people—**
+**I can't.** The thought of lying back down, of being inactive, set off a fresh wave of panic. **I have to keep moving. There are peopleâ€”**
 
 *Who are already being taken care of. Otto is with them. You are safe. But you must allow yourself time to recover. Both for your sake and theirs.*
 
@@ -50,7 +50,7 @@ Sitting up slowly, he took stock. No dizzy spells. No flashing lights. Just the 
 
 *You will be. But it will take time. Patience is essential. Both for you and for those who care about you.*
 
-**They were scared, weren't they?** The thought of his friends—of Lina, Milo, even RAE—worrying about him twisted something in his chest.
+**They were scared, weren't they?** The thought of his friendsâ€”of Lina, Milo, even RAEâ€”worrying about him twisted something in his chest.
 
 *They were concerned, yes. But they understand. You're not the only one learning to navigate this new reality. They are, too.*
 
@@ -384,7 +384,7 @@ A moment later, a holographic image flickered to life in front of them.
 
 It was a woman. Thin. Tense. Her eyes darted around as if she was being watched.
 
-"Who—?" Milo started, but Jason silenced him with a wave of his hand.
+"Whoâ€”?" Milo started, but Jason silenced him with a wave of his hand.
 
 **Elyra?**
 
@@ -686,7 +686,7 @@ Elyra shot Jason a mock-glare at RAE's words, but it was clear that the tension 
 
 *Humility is the recognition of one's limitations, Jason. Something you're still struggling with.*
 
-**Touché.**
+**TouchÃ©.**
 
 Elyra watched their banter with an amused smile, her posture relaxing further.
 

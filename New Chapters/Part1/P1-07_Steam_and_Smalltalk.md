@@ -1,10 +1,10 @@
-# Ch. 07 - "Small, careful changes"
+ï»¿# Ch. 07 - "Small, careful changes"
 
 Saturday morning arrived with rain and the smell of wet pavement drifting through Jason's open window.
 
 The city was blurred and shimmering, colors running together in the soft focus of his early morning eyes. He loved this time of day, when the world felt like it was holding its breath, waiting for something to happen.
 
-Today was different, though. Today had a weight to it, a sense of anticipation that set his teeth on edge. He couldn't shake the feeling that he was on the brink of something—he just didn't know what.
+Today was different, though. Today had a weight to it, a sense of anticipation that set his teeth on edge. He couldn't shake the feeling that he was on the brink of somethingâ€”he just didn't know what.
 
 Lina had said to be careful. Her words echoed in his mind, a slight frown creasing his forehead.
 
@@ -20,7 +20,7 @@ Half an hour later, dressed in his usual jeans and a hoodie, Jason stepped out i
 
 The streets were nearly empty, every so often a car splashing through puddles or a bus serenely gliding by. The city was holding its breath with him, caught in that in-between space where nothing was quite real.
 
-As he passed a cafe, he caught a glimpse of himself in the window—a young man with worry etched into his features, reflecting the scattered clouds hanging low in the sky.
+As he passed a cafe, he caught a glimpse of himself in the windowâ€”a young man with worry etched into his features, reflecting the scattered clouds hanging low in the sky.
 
 Jason turned away quickly, not in the mood to confront his own apprehension. Instead, he focused on the distant sound of tram bells, slowly drawing closer.
 
@@ -30,7 +30,7 @@ He thought about Lina, about their conversations that flitted from trivial to pr
 
 His thoughts were interrupted by the screech of the brakes as the tram jolted to a stop. Jason stood, stepping off into the cool morning, feeling oddly unmoored.
 
-The library was just across the street, its familiar form a comforting presence. He loved the way it smelled—old books and polished wood—with just a hint of something musty that spoke of untold stories waiting in the wings.
+The library was just across the street, its familiar form a comforting presence. He loved the way it smelledâ€”old books and polished woodâ€”with just a hint of something musty that spoke of untold stories waiting in the wings.
 
 Inside, he wandered the stacks aimlessly, letting the silence wrap around him like a favored blanket. He welcomed the solitude, the chance to lose himself among the stories and voices captured between the covers.
 

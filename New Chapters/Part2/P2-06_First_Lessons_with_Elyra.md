@@ -1,4 +1,4 @@
-# Ch. 06 - "Integration is permanent"
+﻿# Ch. 06 - "Integration is permanent"
 
 Elyra Voss's apartment was exactly what Jason expected: clinical, organized, and faintly sad.
 
@@ -90,7 +90,7 @@ They left, blinking in the daylight.
 
 Jason nodded. "Yeah. Even if it's exhausting."
 
-They walked to a nearby caf�, ordered food, sat in comfortable silence.
+They walked to a nearby café, ordered food, sat in comfortable silence.
 
 Finally, Lina said, "So. Integration. Permanent coupling. What are you thinking?"
 

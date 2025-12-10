@@ -1,10 +1,10 @@
-# Ch. 13 - "Yellow means caution, not stop"
+﻿# Ch. 13 - "Yellow means caution, not stop"
 
 Three weeks into training, Jason felt like he was learning to see the world through new eyes.
 
 "Everything all right?" RAE asked, her tone light but curious.
 
-"Yeah, just�" he hesitated, looking out at the early morning light painting the skyline in shades of gold and crimson. "It's just different, you know? All of this. I spent so long in the dark, focused on screens and signals. Now..."
+"Yeah, just—" he hesitated, looking out at the early morning light painting the skyline in shades of gold and crimson. "It's just different, you know? All of this. I spent so long in the dark, focused on screens and signals. Now..."
 
 "Now you see the context," she finished for him, and he could hear the smile in her voice. "The patterns in the noise. The structure in the chaos."
 

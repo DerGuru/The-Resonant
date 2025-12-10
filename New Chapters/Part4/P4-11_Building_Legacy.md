@@ -1,4 +1,4 @@
-# Ch. 11 - "That requires more than good intentions"
+ï»¿# Ch. 11 - "That requires more than good intentions"
 
 Return to the warehouse felt like stepping back into a life that had happened to someone else.
 
@@ -10,7 +10,7 @@ Milo had kept the program running. Five students now. Basic training. Kira helpi
 
 "You did good," Jason told them. "Really good."
 
-But something had shifted in him. Killing Kage-K?z?—even justifiably—had changed his perspective. Power wasn't just capability. It was responsibility. Weight. Consequence.
+But something had shifted in him. Killing Kage-K?z?â€”even justifiablyâ€”had changed his perspective. Power wasn't just capability. It was responsibility. Weight. Consequence.
 
 "We need to expand properly," he said during team meeting. "Not just ad-hoc training. Real structure. Resources. Safety net."
 

@@ -1,4 +1,4 @@
-# Ch. 02 - "Small acts, carefully done"
+ï»¿# Ch. 02 - "Small acts, carefully done"
 
 Training began in earnest the next morning.
 
@@ -60,7 +60,7 @@ Jason stood near the elevator, Lina and Milo flanking him like bodyguards. He re
 
 "RAE helps with that. She's showing me how to focus on specific frequencies, tune out the rest."
 
-He practiced that—narrowing his awareness to just metal objects. Then ceramic. Then living presences.
+He practiced thatâ€”narrowing his awareness to just metal objects. Then ceramic. Then living presences.
 
 Mrs. Amari opened her door two units down, spotted them, and smiled. "Practicing something?"
 
@@ -80,7 +80,7 @@ Once she was gone, Milo exhaled. "That was close."
 
 ---
 
-They moved outside. The street was busy—morning commuters, delivery trucks, the constant hum of city life.
+They moved outside. The street was busyâ€”morning commuters, delivery trucks, the constant hum of city life.
 
 Jason stood on the corner, trying to maintain his connection to a metal handrail while filtering out the overwhelming sensory input.
 
@@ -128,7 +128,7 @@ Despite everything, Jason laughed. And for a moment, sitting on a park bench wit
 
 ---
 
-They practiced for another hour. Small things. Safe things. Jason maintaining awareness while walking. Lina calling out potential carriers—railings, benches, lampposts—and Jason connecting to them briefly before releasing.
+They practiced for another hour. Small things. Safe things. Jason maintaining awareness while walking. Lina calling out potential carriersâ€”railings, benches, lamppostsâ€”and Jason connecting to them briefly before releasing.
 
 By the end, he was solidly in Yellow territory, but not dangerously so.
 
@@ -154,7 +154,7 @@ Milo nodded. "She's right. We need failsafes. Backup plans. Ways to disconnect i
 
 "Would it hurt him?" Lina asked.
 
-"Unknown. We have never tested disconnection. The coupling is partial—only twenty-four percent integrated. Separation should be safe. But I cannot guarantee it."
+"Unknown. We have never tested disconnection. The coupling is partialâ€”only twenty-four percent integrated. Separation should be safe. But I cannot guarantee it."
 
 The words hung there. Heavy. Real.
 

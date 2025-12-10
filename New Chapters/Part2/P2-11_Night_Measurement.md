@@ -1,4 +1,4 @@
-# Ch. 11 - "I'm not interested in being observed"
+ï»¿# Ch. 11 - "I'm not interested in being observed"
 
 That night, the team gathered at the warehouse.
 
@@ -20,7 +20,7 @@ Jason reached out with his perception. The yard's resonance was... wrong. Not ho
 
 **Which?**
 
-*Insufficient data. But the periodicity suggests intention. Look—*
+*Insufficient data. But the periodicity suggests intention. Lookâ€”*
 
 Lightning flashed. Far in the distance, but the timing was precise. Too precise.
 
@@ -48,7 +48,7 @@ They packed quickly, efficiently. Made their way back to the tram stop in silenc
 
 Only when they were blocks away did anyone speak.
 
-"Someone's using weather as a carrier," Milo said. "That shouldn't be possible. The energy requirements alone—"
+"Someone's using weather as a carrier," Milo said. "That shouldn't be possible. The energy requirements aloneâ€”"
 
 "Unless they're not generating it," Lina interrupted. "Unless they're just... steering it. Redirecting natural processes."
 

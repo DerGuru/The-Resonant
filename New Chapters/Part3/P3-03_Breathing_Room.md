@@ -1,8 +1,8 @@
-## Ch. 03 - Breathing Room
+ï»¿## Ch. 03 - Breathing Room
 
-The first week of monitored freedom felt like learning to walk on ice—careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
+The first week of monitored freedom felt like learning to walk on iceâ€”careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
 
-Jason returned to his apartment for the first time in ten days. The door marker was still there—faint, visible only to resonance perception. But now it felt different. Not hostile. Just... present. A reminder that he was being watched, but not hunted.
+Jason returned to his apartment for the first time in ten days. The door marker was still thereâ€”faint, visible only to resonance perception. But now it felt different. Not hostile. Just... present. A reminder that he was being watched, but not hunted.
 
 Mrs. Amari opened her door as he climbed the stairs. "Jason. You're back."
 
@@ -16,7 +16,7 @@ Mrs. Amari opened her door as he climbed the stairs. "Jason. You're back."
 
 He accepted the dish, warm through the ceramic. "Thank you."
 
-"You're welcome. And Jason?" She waited until he met her eyes. "Whatever you're doing—whatever you've gotten involved with—be smarter than the people who came before you."
+"You're welcome. And Jason?" She waited until he met her eyes. "Whatever you're doingâ€”whatever you've gotten involved withâ€”be smarter than the people who came before you."
 
 His throat tightened. "Did you know someone who...?"
 
@@ -32,7 +32,7 @@ Jason stood in the hallway, holding warm food and certainty that Mrs. Amari knew
 
 *Perhaps both. Or neither. Some people just watch because they remember when no one watched them.*
 
-Jason unlocked his apartment. Everything was as he'd left it—clothes still in drawers, dishes still in the sink, the life he'd abandoned when everything changed still waiting.
+Jason unlocked his apartment. Everything was as he'd left itâ€”clothes still in drawers, dishes still in the sink, the life he'd abandoned when everything changed still waiting.
 
 He ate Mrs. Amari's food. It was good. Really good. And as he ate, he realized something: he wasn't the same person who'd left this apartment ten days ago.
 
@@ -108,7 +108,7 @@ Milo's return to his apartment was anticlimactic.
 
 No confrontation. No revelation. Just mail to sort, dishes to wash, and twelve new forum notifications to review.
 
-He sat at his cluttered desk, surrounded by monitors and coffee cups, and began documenting everything that had happened. Not in files Malvek could access—those were sanitized, official, boring.
+He sat at his cluttered desk, surrounded by monitors and coffee cups, and began documenting everything that had happened. Not in files Malvek could accessâ€”those were sanitized, official, boring.
 
 But in encrypted backups. Hidden archives. Paper notes stored in waterproof containers.
 
@@ -160,7 +160,7 @@ Everyone looked at him.
 
 The question hung in the air.
 
-"Then we adapt," Jason said finally. "We're not locked into opposition. If partnership serves us—really serves us, not just survives us—then we pursue it."
+"Then we adapt," Jason said finally. "We're not locked into opposition. If partnership serves usâ€”really serves us, not just survives usâ€”then we pursue it."
 
 "But we verify," Lina added. "Every step. Every promise. Every term."
 

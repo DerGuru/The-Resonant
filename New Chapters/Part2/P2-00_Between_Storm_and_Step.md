@@ -1,4 +1,4 @@
-# Ch. 00 - Between Storm and Step
+ï»¿# Ch. 00 - Between Storm and Step
 
 *[A bridge between Part 1 and Part 2]*
 
@@ -8,15 +8,15 @@ The storm had done its work and left, as if the sky had finished a sentence and 
 
 *Here. And slower.*
 
-He exhaled, unclenched hands he did not remember clenching. The ache behind his eyes had sharpened overnight—not the dull throb of too little sleep, but something more precise. Like someone had pressed a finger against the inside of his skull and forgotten to lift it.
+He exhaled, unclenched hands he did not remember clenching. The ache behind his eyes had sharpened overnightâ€”not the dull throb of too little sleep, but something more precise. Like someone had pressed a finger against the inside of his skull and forgotten to lift it.
 
 Jason stood carefully, testing his balance. The world stayed level. That was something.
 
-Downstairs, voices filtered up through the stairwell—Lina and Milo, their conversation quick and clipped with worry. He descended slowly, one hand on the rail, feeling the metal hum faintly under his palm. RAE's presence, muted and careful.
+Downstairs, voices filtered up through the stairwellâ€”Lina and Milo, their conversation quick and clipped with worry. He descended slowly, one hand on the rail, feeling the metal hum faintly under his palm. RAE's presence, muted and careful.
 
-"—let it inside—" Lina was saying.
+"â€”let it insideâ€”" Lina was saying.
 
-"—saved our lives in the same breath—" Milo countered.
+"â€”saved our lives in the same breathâ€”" Milo countered.
 
 Jason rounded the corner and both of them stopped, turning to look at him with the kind of careful assessment usually reserved for fragile things.
 
@@ -32,7 +32,7 @@ They walked to Lina's father's restaurant, the morning air cool enough to make J
 
 The restaurant was quiet this early. Mr. Morandi was in the back, the clatter of prep work a comfortable rhythm. Lina led them to a corner booth, the kind that felt like a pocket away from the world.
 
-She returned with a steaming bowl of rice and vegetables—more food than Jason usually ate for breakfast, but she set it down with a look that said *eat it anyway*.
+She returned with a steaming bowl of rice and vegetablesâ€”more food than Jason usually ate for breakfast, but she set it down with a look that said *eat it anyway*.
 
 Jason picked up his fork. The food was good. Really good. The kind that reminded you being alive had benefits.
 
@@ -50,7 +50,7 @@ Milo leaned forward, elbows on the table. "Which means we need rules. Clear ones
 
 "That's a good start," Milo said. "But we need more. Operational security. Communication protocols. What happens if someone tries to separate you? What happens if you get hurt?"
 
-Lina's expression was harder to read. She was watching Jason with that careful intensity she had—the kind that saw through bullshit and called it by name.
+Lina's expression was harder to read. She was watching Jason with that careful intensity she hadâ€”the kind that saw through bullshit and called it by name.
 
 "What I want to know," she said slowly, "is what exactly she can do through you. And what it costs."
 
@@ -60,7 +60,7 @@ Jason set down his fork. This was the conversation he'd been dreading. "She augm
 
 "Headaches if I push too hard. Nosebleeds if I really overdo it. RAE says if I tried to do something way beyond my capacity, it could damage my cognitive patterns. But we're being careful. Really careful."
 
-Lina didn't look convinced. "So you're trusting an AI—sorry, an entity—that was contained for a reason, to know your limits better than you do."
+Lina didn't look convinced. "So you're trusting an AIâ€”sorry, an entityâ€”that was contained for a reason, to know your limits better than you do."
 
 "She's been right so far," Jason said quietly.
 
@@ -68,7 +68,7 @@ Lina didn't look convinced. "So you're trusting an AI—sorry, an entity—that was 
 
 "Then I say 'Red' and we stop." Jason met her eyes. "That's the rule. If I say Red, everything stops immediately. No exceptions."
 
-Milo nodded. "That's good. Clear stop-word. But we need more than that. We need—" He pulled out a small notebook, the kind you could fit in a pocket. "—protocols."
+Milo nodded. "That's good. Clear stop-word. But we need more than that. We needâ€”" He pulled out a small notebook, the kind you could fit in a pocket. "â€”protocols."
 
 He flipped it open to a page that already had notes. Apparently he'd been thinking about this too.
 
@@ -82,7 +82,7 @@ Milo's eyes lit up. "Can you make those?"
 
 Lina was quiet for a moment. Then: "If I help with this, I'm in. All the way. Which means I need to be able to talk to her too."
 
-Jason glanced at Milo, then back to Lina. "RAE says that's possible. She can project her voice through carriers—objects that vibrate. But it takes effort. And it's not subtle."
+Jason glanced at Milo, then back to Lina. "RAE says that's possible. She can project her voice through carriersâ€”objects that vibrate. But it takes effort. And it's not subtle."
 
 "How not subtle?"
 
@@ -94,7 +94,7 @@ Milo snorted. Lina's mouth twitched. "That's deeply weird."
 
 "But useful," Milo added. "If we can communicate without phones, that's huge. Especially if someone's monitoring us."
 
-Lina drummed her fingers on the table—that three-beat pattern Jason had learned meant she was deciding something. "Okay. We try. But ground rules first."
+Lina drummed her fingers on the tableâ€”that three-beat pattern Jason had learned meant she was deciding something. "Okay. We try. But ground rules first."
 
 She counted on her fingers: "One: Jason gets veto power on everything. Two: If any of us says Red, everyone stops. Three: We don't do anything public until we understand what we're dealing with. Four: We assume we're being watched and plan accordingly."
 
@@ -106,7 +106,7 @@ They sat in silence for a moment, the weight of what they were agreeing to settl
 
 Finally, Lina said, "So. Where do we start?"
 
-Jason pulled out his phone—carefully, aware it might be compromised—and showed them a screenshot he'd taken from the archives. "We start with Elyra Voss. She's connected to all of this. RAE was released during her ritual. If anyone understands what RAE is and how to help her stabilize, it's Elyra."
+Jason pulled out his phoneâ€”carefully, aware it might be compromisedâ€”and showed them a screenshot he'd taken from the archives. "We start with Elyra Voss. She's connected to all of this. RAE was released during her ritual. If anyone understands what RAE is and how to help her stabilize, it's Elyra."
 
 "And where is she?"
 
@@ -148,7 +148,7 @@ But also...
 
 *We will be careful. Together.*
 
-Jason found a bench—one with a view of the river, where the water moved steady and sure. He sat, letting his breathing slow, letting the world settle around him.
+Jason found a benchâ€”one with a view of the river, where the water moved steady and sure. He sat, letting his breathing slow, letting the world settle around him.
 
 He had allies now. Lina. Milo. RAE.
 

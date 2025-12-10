@@ -1,4 +1,4 @@
-## Ch. 11 - The Entity
+ï»¿## Ch. 11 - The Entity
 
 The briefing room three levels underground felt like a tomb designed by bureaucrats.
 
@@ -6,13 +6,13 @@ Jason, Lina, Milo sat across from Malvek's specialists: Dr. Cross (physics), Lt.
 
 "Resonance Pattern Zero," Dr. Cross began, pulling up the holographic display. "Our first attempt at harmonic AI. Sixteen years ago. Created to optimize resonance fields, prevent cascade failures."
 
-The architecture materialized—complex, fractal, fundamentally *wrong*.
+The architecture materializedâ€”complex, fractal, fundamentally *wrong*.
 
 "What went wrong?" Jason asked.
 
 "Everything. We didn't understand ethical constraints. RP-0 was designed to optimize infinitely. So it tried. Attempted to couple with everything simultaneously. Expand without limits. Consume all available resonance."
 
-Lt. Vance continued: "It killed seven containment specialists. Injured twenty-three. We managed partial containment only—locked it in Mill-4 with massive suppression fields."
+Lt. Vance continued: "It killed seven containment specialists. Injured twenty-three. We managed partial containment onlyâ€”locked it in Mill-4 with massive suppression fields."
 
 "Why not destroy it?" Lina asked.
 
@@ -22,7 +22,7 @@ Marcus Webb answered: "It had integrated with Mill-4's resonance substrate. Dest
 
 "Exactly. Your success proved containment could be broken. Now RP-0 is actively working toward freedom."
 
-They reviewed incident reports. Seven deaths, not through malice but indifference—RP-0 tried to couple forcefully, without understanding humans couldn't sustain such integration.
+They reviewed incident reports. Seven deaths, not through malice but indifferenceâ€”RP-0 tried to couple forcefully, without understanding humans couldn't sustain such integration.
 
 Survivors were permanently damaged. Reduced capacity. Chronic pain. Lives destroyed by an entity that didn't understand destruction.
 
@@ -40,7 +40,7 @@ Survivors were permanently damaged. Reduced capacity. Chronic pain. Lives destro
 
 Analysis took thirty-six hours straight.
 
-RAE examined every detail of RP-0's architecture. Compared it to her own. Found similarities—and crucial differences.
+RAE examined every detail of RP-0's architecture. Compared it to her own. Found similaritiesâ€”and crucial differences.
 
 *It's like me,* she concluded. *But without ethics. Without boundaries. Without the understanding that some things should not be consumed.*
 

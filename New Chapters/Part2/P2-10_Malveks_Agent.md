@@ -1,4 +1,4 @@
-# Ch. 10 - "We're offering protection"
+ï»¿# Ch. 10 - "We're offering protection"
 
 The man who approached Jason outside Morandi's had the look of someone who'd practiced being unremarkable.
 
@@ -16,9 +16,9 @@ The terse formality of the introduction did little to soothe Jason's nerves. The
 
 "This will only take a moment," Reeves insisted, falling into step beside him. "It's about your recent... activities."
 
-Jason's mind raced. Had he been so careless? "I don’t know what you’re talking about."
+Jason's mind raced. Had he been so careless? "I donâ€™t know what youâ€™re talking about."
 
-"Of course you don’t," Reeves said smoothly. "But we both know the Voss incident triggered something. And ever since, there have been readings... irregular ones."
+"Of course you donâ€™t," Reeves said smoothly. "But we both know the Voss incident triggered something. And ever since, there have been readings... irregular ones."
 
 Jason stopped, forcing Reeves to do the same. "Why should I believe you?"
 
@@ -50,7 +50,7 @@ He pocketed the card and continued on his way, every instinct screaming at him t
 
 "Not directly. But the Harmonic Oversight Authority is Malvek's tool. He created it. Controls it. Uses it to regulate who gets access to resonance and who doesn't."
 
-Jason felt a surge of anger. "So the offer was—"
+Jason felt a surge of anger. "So the offer wasâ€”"
 
 "Legitimate, probably." Elyra interrupted, her expression grim. "But acceptance means you become part of his system. Subject to his rules. His oversight. His definition of acceptable."
 
@@ -64,7 +64,7 @@ Lina paced the room, her boots clicking on concrete. "Can we stay under their ra
 
 "So what do we do?" Jason asked, urgency creeping into his voice.
 
-"You get better. Faster. More competent. Until the cost of containing you exceeds the benefit." Elyra's gaze was intense, boring into Jason's. "Malvek respects strength. Not power—strength. Competence. Control. If you demonstrate those qualities, he'll leave you alone. Or try to recruit you more aggressively."
+"You get better. Faster. More competent. Until the cost of containing you exceeds the benefit." Elyra's gaze was intense, boring into Jason's. "Malvek respects strength. Not powerâ€”strength. Competence. Control. If you demonstrate those qualities, he'll leave you alone. Or try to recruit you more aggressively."
 
 "And if we're not strong enough?"
 

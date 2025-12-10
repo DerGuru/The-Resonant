@@ -1,10 +1,10 @@
-# Ch. 02 - "You're not me. You need your own path."
+ï»¿# Ch. 02 - "You're not me. You need your own path."
 
 ### The Interview
 
 Kira Chen arrived exactly on time.
 
-Clean but worn clothes—jeans, jacket, work boots. Hair in practical ponytail. Hands showing warehouse calluses. When she saw the training space, her eyes went wide.
+Clean but worn clothesâ€”jeans, jacket, work boots. Hair in practical ponytail. Hands showing warehouse calluses. When she saw the training space, her eyes went wide.
 
 "This is... wow."
 
@@ -26,7 +26,7 @@ Tested at sixteen. Scored minimal potential. Told she'd never be more than basel
 
 Except she kept feeling things. Resonance signatures she shouldn't notice. Patterns in harmonics. Small things. Subtle things. But persistent.
 
-"I thought I was imagining it," she said. "But then I found the forums. Read about people like you. And I realized—maybe I wasn't tested wrong. Maybe I just needed different training."
+"I thought I was imagining it," she said. "But then I found the forums. Read about people like you. And I realizedâ€”maybe I wasn't tested wrong. Maybe I just needed different training."
 
 "What makes you think you can learn?" Elyra asked directly.
 
@@ -36,7 +36,7 @@ Jason knew that feeling intimately.
 
 They spent an hour questioning her. Ethics. Limits. What she'd do with capability if she gained it. Every answer thoughtful, careful, honest.
 
-"We'll take you," Jason said finally. "As our first student. But understand—this is experimental. We're learning to teach while teaching you. There will be mistakes."
+"We'll take you," Jason said finally. "As our first student. But understandâ€”this is experimental. We're learning to teach while teaching you. There will be mistakes."
 
 "I understand," Kira said, eyes wet. "Thank you. You have no idea what this means."
 
@@ -68,7 +68,7 @@ Ten minutes passed. Twenty. Kira grew more frustrated. Jason grew impatient. Why
 
 *Because she's not you,* RAE reminded gently. *She doesn't have me helping her perceive. She doesn't have your natural permeability. She's learning the hard way. The normal way.*
 
-**But I thought—**
+**But I thoughtâ€”**
 
 *You thought teaching would be doing in reverse. It's not. It's understanding someone else's learning style. Which you haven't learned yet.*
 
@@ -90,7 +90,7 @@ Kira did.
 
 "It's... smooth. Cool. Light."
 
-"Excellent. Now, still touching it, imagine the bowl is speaking to you. Not words—just... presence. It's saying 'I am here. I am ceramic. I am stable.' Can you feel that?"
+"Excellent. Now, still touching it, imagine the bowl is speaking to you. Not wordsâ€”just... presence. It's saying 'I am here. I am ceramic. I am stable.' Can you feel that?"
 
 Long silence. Then, tentatively: "Maybe? It's really faint, but... yes? I think I feel it?"
 
@@ -110,7 +110,7 @@ Jason watched, learning his own lesson. Lina had succeeded where he'd failed bec
 
 Week by week, Kira improved.
 
-By week four, she could perceive objects within ten meters. Could describe their resonance signatures with surprising accuracy. Still struggled with living presences—people were harder than objects—but that was normal.
+By week four, she could perceive objects within ten meters. Could describe their resonance signatures with surprising accuracy. Still struggled with living presencesâ€”people were harder than objectsâ€”but that was normal.
 
 "People are dynamic," Elyra explained during theory. "Objects are static. Harder patterns to track."
 
@@ -122,7 +122,7 @@ Jason hesitated. "That's advanced. We haven't built up to it yet."
 
 "I know. But I want to try. Just to see if I can."
 
-Against his better judgment—or maybe because he remembered his own eagerness—he agreed. Set up a cracked ceramic plate. Walked her through the process.
+Against his better judgmentâ€”or maybe because he remembered his own eagernessâ€”he agreed. Set up a cracked ceramic plate. Walked her through the process.
 
 "Feel the discontinuity. The place where the pattern isn't smooth. Now, imagine encouraging it to harmonize. Not forcing. Just... nudging."
 
@@ -138,7 +138,7 @@ Kira released the connection, gasping. Jason handed her tissues, guilt surging t
 
 "No. I let you try too early. My fault." He examined the plate. The crack hadn't changed. "You're not ready for active shaping yet. We need more foundation work."
 
-"But you did this in two weeks—"
+"But you did this in two weeksâ€”"
 
 "I had RAE helping. You don't. You're doing this the hard way. Which means slower progress. And that's okay. That's normal. That's *safe*."
 
@@ -166,7 +166,7 @@ Kira stared at the plate. Then at Jason. Then back at the plate.
 
 "I did it," she whispered. "I actually did it."
 
-"You did. Small. Subtle. Safe. Exactly how it should be." Jason felt pride swell in his chest. "That's the hardest part—learning to celebrate the tiny victories. Because that's what this path is. Tiny, careful changes that add up to something meaningful."
+"You did. Small. Subtle. Safe. Exactly how it should be." Jason felt pride swell in his chest. "That's the hardest partâ€”learning to celebrate the tiny victories. Because that's what this path is. Tiny, careful changes that add up to something meaningful."
 
 She laughed, the sound carrying pure joy. "I can learn this. I really can."
 

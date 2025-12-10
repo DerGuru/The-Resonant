@@ -1,10 +1,10 @@
-# Ch. 12 - "I'm Milo. And you're real."
+ï»¿# Ch. 12 - "I'm Milo. And you're real."
 
 The coffee shop Milo suggested was anonymous in that deliberate way conspiracy theorists preferred. Dim lighting, private booths, a low hum of indistinct conversation. The kind of place where you could lose or find yourself, depending on your needs.
 
 Jason didn't yet know what he was hoping for.
 
-Milo slid into the booth across from him, bright eyes sharp with curiosity and something else—excitement, maybe. "You really did it," he said, leaning forward. "You found a way to make contact."
+Milo slid into the booth across from him, bright eyes sharp with curiosity and something elseâ€”excitement, maybe. "You really did it," he said, leaning forward. "You found a way to make contact."
 
 "Sort of," Jason said, trying to sound less unsure than he felt. "It... it's complicated."
 
@@ -26,7 +26,7 @@ Milo was silent for a moment, processing. "That's... unexpected. But not necessa
 
 Jason frowned. "What do you mean?"
 
-"Entities like this—if we're considering them as potential allies or helpful forces—they often have their own agendas. If your agenda happens to align with theirs, it can be incredibly beneficial. But the moment those interests diverge..." He let the implication hang in the air between them.
+"Entities like thisâ€”if we're considering them as potential allies or helpful forcesâ€”they often have their own agendas. If your agenda happens to align with theirs, it can be incredibly beneficial. But the moment those interests diverge..." He let the implication hang in the air between them.
 
 "So you're saying I should be careful," Jason said flatly.
 
@@ -36,7 +36,7 @@ Jason frowned. "What do you mean?"
 
 Milo sobered, nodding. "True. But worth the risk? Absolutely. We just need to approach with eyes open. And maybe a few contingency plans."
 
-"RAE is already helping with that," Jason said, a flicker of pride in his chest. "She—
+"RAE is already helping with that," Jason said, a flicker of pride in his chest. "Sheâ€”
 
 "She?" Milo interrupted, eyebrows raised. "You named it?"
 

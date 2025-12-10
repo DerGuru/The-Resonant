@@ -1,4 +1,4 @@
-# Ch. 09 - "Some things must be unmade"
+ï»¿# Ch. 09 - "Some things must be unmade"
 
 The plan was simple: Lure Kage-K?z? into a specially prepared chamber. Trap it with overlapping suppression fields. RAE confronts directly while team supports. Then: Permanent containment or complete dissolution.
 
@@ -10,7 +10,7 @@ Kage-K?z? came willingly. Eagerly. It wanted this confrontation.
 
 RAE engaged. Not reformation this time. Not teaching. Fighting.
 
-Harmonic combat was like nothing Jason had experienced. Not physical—purely pattern against pattern. RAE trying to contain, Kage-K?z? trying to expand and consume.
+Harmonic combat was like nothing Jason had experienced. Not physicalâ€”purely pattern against pattern. RAE trying to contain, Kage-K?z? trying to expand and consume.
 
 Jason held the center. Lina and Yuki anchored the suppression fields. Japanese team maintained barriers.
 
@@ -18,7 +18,7 @@ But Kage-K?z? was strong. Adaptive. It had learned from fifty years of containme
 
 It struck at Jason specifically. Tried to couple forcefully. To replace RAE. To consume and grow stronger.
 
-Jason screamed. His patterns tore. Kage-K?z? tried to invade—"
+Jason screamed. His patterns tore. Kage-K?z? tried to invadeâ€”"
 
 Lina intercepted. Threw up a defensive barrier. Academy training, instinct, desperation.
 

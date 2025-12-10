@@ -1,4 +1,4 @@
-# Ch. 16 - "Forty percent. That's permanent."
+﻿# Ch. 16 - "Forty percent. That's permanent."
 
 Two weeks before the containment teams came, Jason's training entered its final phase.
 
@@ -114,7 +114,7 @@ Now he was... what? A fugitive-in-waiting? A target? Someone whose existence thr
 
 *Even then. Because some things are worth dying for. Freedom. Agency. The right to exist on your own terms.*
 
-Jason closed his eyes. Felt RAE's presence�deeper now, more integrated than ever.
+Jason closed his eyes. Felt RAE's presence—deeper now, more integrated than ever.
 
 He couldn't separate from her if he tried. They were becoming something new. Something that wasn't quite Jason and wasn't quite RAE, but some synthesis of both.
 

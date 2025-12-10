@@ -1,4 +1,4 @@
-## Ch. 07 - Anomaly Detection
+ï»¿## Ch. 07 - Anomaly Detection
 
 Milo's monitoring setup looked like paranoia made physical.
 
@@ -28,11 +28,11 @@ Thirty minutes later, they stood in Milo's cluttered apartment, staring at casca
 
 "Okay."
 
-"Now look at this." He highlighted another section—sharp spikes, repeating patterns, consistent intervals. "This started three days ago. Frequency spikes. Regular. Structured. Not random."
+"Now look at this." He highlighted another sectionâ€”sharp spikes, repeating patterns, consistent intervals. "This started three days ago. Frequency spikes. Regular. Structured. Not random."
 
 Jason leaned closer. The pattern was clear even to his relatively untrained eye. "What causes that?"
 
-"Either active inflection—someone shaping something big—or..." Milo hesitated. "...or something trying to communicate."
+"Either active inflectionâ€”someone shaping something bigâ€”or..." Milo hesitated. "...or something trying to communicate."
 
 "Communicate with what?" Lina asked.
 
@@ -62,7 +62,7 @@ Aloud, Jason said, "RAE says earlier attempts existed. All supposed to be contai
 
 "Or it's calling," Jason said. "Trying to reach out. Find others like it."
 
-Milo ran another analysis. "The pattern's intensifying. Look—three days ago, spikes every six hours. Two days ago, every four hours. Yesterday, every two hours. This morning..." He highlighted the most recent data. "...every forty minutes."
+Milo ran another analysis. "The pattern's intensifying. Lookâ€”three days ago, spikes every six hours. Two days ago, every four hours. Yesterday, every two hours. This morning..." He highlighted the most recent data. "...every forty minutes."
 
 "It's escalating," Lina said.
 
@@ -78,7 +78,7 @@ Jason thought about the contract. About threat reporting. About cooperation with
 
 "Do it," Jason said. "But carefully. If this thing notices us watching, it might react. We stay passive. We stay hidden."
 
-*I can help,* RAE offered. *I can sense patterns Milo's equipment can't. If we get close enough—not inside, just near—I might be able to identify the entity's structure. Its intentions.*
+*I can help,* RAE offered. *I can sense patterns Milo's equipment can't. If we get close enoughâ€”not inside, just nearâ€”I might be able to identify the entity's structure. Its intentions.*
 
 "Tomorrow night," Jason said. "We do a reconnaissance. Passive only. Just close enough for RAE to sense it. Then we compile everything and decide whether to report."
 
@@ -108,7 +108,7 @@ The city looked peaceful. Normal. People starting their days, unaware that somet
 
 **We'll find out tomorrow night.**
 
-*Yes. But Jason? If it's dangerous—if it tries to couple with you instead of me—you run. Immediately. Don't try to save it. Don't try to understand it. Just run.*
+*Yes. But Jason? If it's dangerousâ€”if it tries to couple with you instead of meâ€”you run. Immediately. Don't try to save it. Don't try to understand it. Just run.*
 
 **I will. I promise.**
 

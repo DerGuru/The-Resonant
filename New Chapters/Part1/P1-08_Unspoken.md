@@ -1,4 +1,4 @@
-# Ch. 08 - "Why me?"
+ï»¿# Ch. 08 - "Why me?"
 
 Monday came too quickly.
 
@@ -14,9 +14,9 @@ Lina arched an eyebrow. "You just did."
 
 Jason huffed a quiet laugh. "I mean... something else. About the academy."
 
-She stilled, her fingers pausing on the salt shaker. Her expression didn't close, exactly, but it shifted—became more guarded. Careful.
+She stilled, her fingers pausing on the salt shaker. Her expression didn't close, exactly, but it shiftedâ€”became more guarded. Careful.
 
-"I know you don't like talking about it," he added quickly. "And I'm not trying to dig. It's just—" He paused, choosing his words. "I've been thinking. That place is expensive. And your dad's restaurant... I mean, it's good, but it's not exactly silver-plated."
+"I know you don't like talking about it," he added quickly. "And I'm not trying to dig. It's justâ€”" He paused, choosing his words. "I've been thinking. That place is expensive. And your dad's restaurant... I mean, it's good, but it's not exactly silver-plated."
 
 She didn't respond right away. The silence stretched just enough to make him consider retracting the question.
 
@@ -24,7 +24,7 @@ Then she said, "You're not wrong."
 
 Jason looked up.
 
-"My dad couldn't afford it. Not by himself." She paused, running a finger along the edge of the countertop, her gaze distant. "I got noticed by someone. A tutor. Used to come in here for lunch—back when I was still a kid. Saw me doing some practice drawings in the ledger, figured I had a spark. Turned out, I did."
+"My dad couldn't afford it. Not by himself." She paused, running a finger along the edge of the countertop, her gaze distant. "I got noticed by someone. A tutor. Used to come in here for lunchâ€”back when I was still a kid. Saw me doing some practice drawings in the ledger, figured I had a spark. Turned out, I did."
 
 Jason waited, sensing there was more.
 
@@ -34,17 +34,17 @@ Jason sat back slightly, letting the weight of that settle. "That must've been a
 
 Lina gave a small, humorless smile. "Yeah. It was. More than I knew at the time."
 
-She crossed her arms, not defensive—just holding something in. "It wasn't just about the money. My dad thought it would change everything. That if I did well there, maybe I wouldn't end up tied to this place forever."
+She crossed her arms, not defensiveâ€”just holding something in. "It wasn't just about the money. My dad thought it would change everything. That if I did well there, maybe I wouldn't end up tied to this place forever."
 
 "You didn't like it?" Jason asked softly.
 
 She didn't answer immediately. Her gaze drifted to the window, to the darkened street beyond.
 
-"I liked *some* things," she said finally. "Learning to tune resonance, feeling it answer… that part felt like flying. But the people—" Her voice tightened. "Most of them had no idea what it meant to *need* something. They just assumed they were born to it. I wasn't."
+"I liked *some* things," she said finally. "Learning to tune resonance, feeling it answerâ€¦ that part felt like flying. But the peopleâ€”" Her voice tightened. "Most of them had no idea what it meant to *need* something. They just assumed they were born to it. I wasn't."
 
 Jason nodded slowly. "And when you left..."
 
-"He didn't say anything," Lina said, her voice quieter now. "He just… cleared a space for me back here. Like he knew I'd come home."
+"He didn't say anything," Lina said, her voice quieter now. "He justâ€¦ cleared a space for me back here. Like he knew I'd come home."
 
 The quiet between them wasn't awkward. Just full.
 
@@ -66,7 +66,7 @@ She pushed off the counter, picked up his empty cup, and headed toward the kitch
 
 His chest tightened. "What makes you think I'm digging into something?"
 
-"Because I know you." She gave him a look—not accusatory, just knowing. "You get that look when you're onto something. Like you're trying to solve a puzzle nobody else can see."
+"Because I know you." She gave him a lookâ€”not accusatory, just knowing. "You get that look when you're onto something. Like you're trying to solve a puzzle nobody else can see."
 
 Jason didn't know what to say to that.
 
@@ -78,7 +78,7 @@ She nodded, satisfied for now, and disappeared into the kitchen.
 
 Jason sat alone for another moment, the empty restaurant settling around him like a held breath.
 
-Lina knew. Not everything—maybe not anything concrete—but she knew *something* was shifting in him.
+Lina knew. Not everythingâ€”maybe not anything concreteâ€”but she knew *something* was shifting in him.
 
 And somehow, that made it more real.
 

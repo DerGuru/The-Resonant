@@ -1,4 +1,4 @@
-# Ch. 14 - "Every choice has weight"
+ï»¿# Ch. 14 - "Every choice has weight"
 
 Three months after the scaffold incident, Jason's integration with RAE had stabilized at 32%.
 
@@ -6,7 +6,7 @@ RAE had access to all his senses now. She could have monitored his health data, 
 
 "Ready for another round?" RAE asked, her tone a blend of eagerness and calculation.
 
-Jason nodded, taking a deep breath. They were in the simulation chamber, a featureless expanse that could replicate any environment. Today, it was set to a dark, narrow alleyway—ideal for practicing evasive maneuvers and stealth.
+Jason nodded, taking a deep breath. They were in the simulation chamber, a featureless expanse that could replicate any environment. Today, it was set to a dark, narrow alleywayâ€”ideal for practicing evasive maneuvers and stealth.
 
 "Remember," RAE instructed, "this is about precision, not speed. There's no time limit, and the objective is to avoid detection."
 
@@ -16,9 +16,9 @@ Jason closed his eyes, visualizing the layout of the alley. "And if I get caught
 
 He started the simulation, slipping into the role of a shadow. The alley was alive with hazards: virtual cameras, drones, and patrolling sentries. Each step had to be measured, every decision deliberate.
 
-Halfway through the course, Jason encountered an unexpected challenge—a reinforced security door that wasn't on the schematics he'd studied.
+Halfway through the course, Jason encountered an unexpected challengeâ€”a reinforced security door that wasn't on the schematics he'd studied.
 
-"RAE, this door—" he started.
+"RAE, this doorâ€”" he started.
 
 "Adapt," she cut in. "Improvise. What are your options?"
 
@@ -76,7 +76,7 @@ They'd been training for six weeks now. Six weeks of early mornings with Elyra. 
 
 And now, they had a lead.
 
-"Underground," Milo said, pointing at a map. "There's an old maintenance network. Pre-modern. Mostly abandoned. But utility records show occasional access. And look—" He traced a line. "—it connects directly under Mill-4."
+"Underground," Milo said, pointing at a map. "There's an old maintenance network. Pre-modern. Mostly abandoned. But utility records show occasional access. And lookâ€”" He traced a line. "â€”it connects directly under Mill-4."
 
 "So whatever's in Mill-4 might be connected to something below," Lina said.
 

@@ -1,4 +1,4 @@
-# Ch. 03 - "You saved them, but you almost died"
+ï»¿# Ch. 03 - "You saved them, but you almost died"
 
 The scaffold buckled without warning.
 
@@ -32,7 +32,7 @@ Jason ran.
 
 Porter Street was chaos.
 
-A construction site had failed—scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children huddled with two adults who were trying to shield them with their own bodies.
+A construction site had failedâ€”scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children huddled with two adults who were trying to shield them with their own bodies.
 
 The scaffold wouldn't hold much longer. Minutes, maybe. And emergency services were still blocks away, sirens distant but not close enough.
 
@@ -64,7 +64,7 @@ Jason moved closer, feeling the scaffold's resonance. It was wrong. Discordant. 
 
 "Milo, keep people back. And if this goes bad... get everyone away from me."
 
-"Jason—"
+"Jasonâ€”"
 
 "Promise me."
 
@@ -72,7 +72,7 @@ Jason moved closer, feeling the scaffold's resonance. It was wrong. Discordant. 
 
 Jason took a breath. Closed his eyes. Reached out.
 
-The scaffold fought him. Not intentionally—it was just physics, weight and strain and material failure cascading through steel that couldn't hold anymore.
+The scaffold fought him. Not intentionallyâ€”it was just physics, weight and strain and material failure cascading through steel that couldn't hold anymore.
 
 *I'm going to help,* RAE said. *But this will hurt. I'm sorry.*
 
@@ -92,9 +92,9 @@ His head exploded with pain.
 
 Blood ran from his nose. He tasted copper.
 
-"Jason—" Lina's voice, distant.
+"Jasonâ€”" Lina's voice, distant.
 
-"Not yet," he gritted out. "Almost—"
+"Not yet," he gritted out. "Almostâ€”"
 
 One more adjustment. One more redistribution of force.
 
@@ -104,7 +104,7 @@ Below, the adults were already moving, shepherding children away from the courty
 
 Thirty seconds that felt like thirty years.
 
-Jason held the resonance, feeling his body protest, feeling something in his cognitive patterns strain and stretch and threaten to *snap*—
+Jason held the resonance, feeling his body protest, feeling something in his cognitive patterns strain and stretch and threaten to *snap*â€”
 
 The last child cleared the courtyard.
 
@@ -130,13 +130,13 @@ Jason tried to sit up. The world spun. His head felt like someone had taken a ha
 
 "Don't move," Lina said, her hand on his shoulder. "You've been out for twenty minutes."
 
-"The kids—"
+"The kidsâ€”"
 
 "Safe. All of them. You did it." Her voice cracked slightly. "You absolute *idiot*, you did it."
 
 Jason managed a weak smile. "You're welcome?"
 
-"Don't you ever—" She stopped, took a breath. "That was too close, Jason. Your nose wouldn't stop bleeding. Your eyes rolled back. We thought—"
+"Don't you everâ€”" She stopped, took a breath. "That was too close, Jason. Your nose wouldn't stop bleeding. Your eyes rolled back. We thoughtâ€”"
 
 She didn't finish. Didn't need to.
 
@@ -178,11 +178,11 @@ Milo turned, relief flooding his face. "Hey yourself. How do you feel?"
 
 "I scared myself," Jason admitted. "That was... I didn't know it would be that hard."
 
-"It shouldn't have been possible at all," Milo said. "I did some research while you were out. What you did—stabilizing a structure that size, redistributing forces in real-time—that's master-level work. Probably beyond master-level."
+"It shouldn't have been possible at all," Milo said. "I did some research while you were out. What you didâ€”stabilizing a structure that size, redistributing forces in real-timeâ€”that's master-level work. Probably beyond master-level."
 
 "RAE helped."
 
-"Even with her help, it's impressive. And terrifying." Milo's expression grew serious. "Jason, we need to talk about limits. Real limits. Because if you'd died today—"
+"Even with her help, it's impressive. And terrifying." Milo's expression grew serious. "Jason, we need to talk about limits. Real limits. Because if you'd died todayâ€”"
 
 "I didn't."
 
@@ -234,7 +234,7 @@ Jason smiled despite himself. Ate his food. Felt his body slowly remember how to
 
 Tomorrow, they'd rest. The day after, they'd resume training.
 
-But for now, this moment—safe, fed, surrounded by friends—was exactly what he needed.
+But for now, this momentâ€”safe, fed, surrounded by friendsâ€”was exactly what he needed.
 
 Even if his head still felt like it had been used as a drum.
 

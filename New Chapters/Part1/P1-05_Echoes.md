@@ -1,4 +1,4 @@
-# Ch. 05 - "This is permanent, Jason"
+﻿# Ch. 05 - "This is permanent, Jason"
 
 The whisper came at 3 AM, slipping through the edges of Jason's awareness like smoke under a door.
 

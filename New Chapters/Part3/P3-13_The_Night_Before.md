@@ -1,8 +1,8 @@
-## Ch. 13 - The Night Before
+ï»¿## Ch. 13 - The Night Before
 
 The chamber Malvek provided was perfect.
 
-Circular. Twenty meters across. Stone floor with embedded resonogram—the pattern Elyra had designed, etched permanently in conductive metal. Suppression fields on standby, ready to activate if things went wrong.
+Circular. Twenty meters across. Stone floor with embedded resonogramâ€”the pattern Elyra had designed, etched permanently in conductive metal. Suppression fields on standby, ready to activate if things went wrong.
 
 "This is better than I expected," Elyra said, examining the setup. "Your organization has resources."
 
@@ -16,7 +16,7 @@ They marked positions. Six points on the resonogram: Jason at center, Elyra as f
 
 Final preparations took three hours. Checking alignments. Testing resonance responses. Ensuring everyone understood their roles.
 
-By late afternoon, the chamber was ready. But the ritual itself wouldn't begin until dawn—optimal resonance conditions, Elyra insisted. That gave them one night to prepare mentally. One night to face what they were about to attempt.
+By late afternoon, the chamber was ready. But the ritual itself wouldn't begin until dawnâ€”optimal resonance conditions, Elyra insisted. That gave them one night to prepare mentally. One night to face what they were about to attempt.
 
 "Rest," Elyra commanded. "All of you. Tomorrow requires clarity, not exhaustion. I want you fresh."
 
@@ -64,13 +64,13 @@ Jason blinked. "You know?"
 
 Jason's throat tightened. "So... what are you saying?"
 
-"I'm saying: after this ritual. After we deal with RP-0. After things calm down—if they ever do—we figure it out. Together. Slowly. No pressure. No expectations. Just... see what happens."
+"I'm saying: after this ritual. After we deal with RP-0. After things calm downâ€”if they ever doâ€”we figure it out. Together. Slowly. No pressure. No expectations. Just... see what happens."
 
 "I can work with that."
 
 "Good." She leaned her head on his shoulder, and Jason felt some of the tension drain from his body. "Because losing you would break something in me. And I'd rather have you as a friend than lose you trying for more."
 
-"You won't lose me," Jason promised, wrapping an arm around her. "Friend, partner, whatever we become—you won't lose me."
+"You won't lose me," Jason promised, wrapping an arm around her. "Friend, partner, whatever we becomeâ€”you won't lose me."
 
 *I approve of this conversation,* RAE said quietly through his awareness. *She's wise. And honest. And cares for you deeply.*
 
@@ -82,7 +82,7 @@ Jason smiled, feeling RAE's presence recede to give them space.
 
 They sat together under city lights and scattered stars, not quite lovers, not quite just friends. Something in between. Something undefined but full of possibility.
 
-"Tell me something," Lina said after a while. "If we survive tomorrow—when we survive tomorrow—what's the first thing you want to do?"
+"Tell me something," Lina said after a while. "If we survive tomorrowâ€”when we survive tomorrowâ€”what's the first thing you want to do?"
 
 "Sleep for about three days," Jason said, and she laughed. "But after that? Maybe take you on a real date. Somewhere nice. Somewhere that doesn't involve resonance or danger or saving the world."
 

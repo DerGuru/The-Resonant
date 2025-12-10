@@ -1,10 +1,10 @@
-# Ch. 07 - "This isn't containment. This is combat."
+ï»¿# Ch. 07 - "This isn't containment. This is combat."
 
 Preparation was intense.
 
 Malvek approved the mission. Provided resources. But warned: "This isn't containment. This is combat. Against something designed to kill resonant operators. Be very careful."
 
-The team decided: Jason, Lina, Yuki would go. RAE obviously. But Milo would stay—coordinate from home, too vulnerable in direct combat. Elyra would stay—maintain the training program, not ready for this level of danger. Kira would stay—too new, too inexperienced.
+The team decided: Jason, Lina, Yuki would go. RAE obviously. But Milo would stayâ€”coordinate from home, too vulnerable in direct combat. Elyra would stayâ€”maintain the training program, not ready for this level of danger. Kira would stayâ€”too new, too inexperienced.
 
 "We'll be back in two weeks," Jason promised.
 
