@@ -1,4 +1,4 @@
-## Ch. 18 - New Equilibrium
+## Ch. 15 - New Equilibrium
 
 Morning came slowly.
 
