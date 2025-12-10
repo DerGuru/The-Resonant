@@ -218,6 +218,17 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Symbol persists after power‑cycle, then vanishes.
 **Locks:** Symbol links to Open‑arc shadow.
 **Reference:** Dungeon Crawler Carl - Milo nach einem gelungenen Hack: „Kein Boss-Drop, nur Zusatzquest.“ (Sein Terrain und tonal passend.)
+### Debrief
+
+- **Purpose met:** Milo found and exploited a mis‑scoped log sink (**fleet modem / CITY‑OPS‑DM‑17 path**), pulled minimal slices (transit timings; mirror summaries of **anchors**; a page with a **slanted glyph** resembling a seven’s tail trying to become a one).
+- **OpSec:** Whisper‑clips only; floor calls verbal (no mesh). Carriers: clips → table bracket → bike bell → crosswalk signal.
+- **Risk/Pressure:** Two unknowns probed the building (entrance camera single blink; idling compact); clean withdrawal via banal cover (bus stop + crowd + split paths). RAE did only **courtesy** interventions (door squeak suppression; consonant‑only dulling) and stayed under pure‑tone thresholds.
+- **Artifact:** Glyph **persisted across a monitor power cycle** (appeared as pixel‑plane watermark; not in OS). Vanished on its own. The **Gen‑3 eye** blinked once in temporal proximity.
+- **Milo’s line (tone):** “No boss drop, just a side quest.”
+- **Locks:** The glyph links to the Open‑arc shadow; **CITY‑OPS‑DM‑17** as Malvek‑adjacent reach; the **anchors** mirror confirms someone is indexing what the archive tries to forget.
+- **Training/Cost:** Jason carried slow channel all night without spike; RAE dimmed to consonants under load; door‑squeak fix logged as **courtesy** (high Quality, minimal Firmness). Keep the **no heroics** rule.
+- **Next:** Short **Street Line** session to test the pure‑melody quiet field; start patterning the glyph across sightings; treat **Gen‑3 temperament** as curious but polite—don’t feed.
+
 
 ### Ch. 15.5 — **Street Line**
 **Purpose:** Prove that *pure melody* can quiet RAE; team trains **without** the voice.  
@@ -226,6 +237,19 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Key Beats:** Jason runs listening drills solo; Milo times the “quiet field” decay; Lina tracks peripheral incidents.  
 **Exit Image:** The last note holds the air.  
 **Locks:** Direct precursor to Elyra‑Arc Ch. 4 (“Listening to Resonance”).
+
+#### Debrief
+
+- **Purpose met:** Scene establishes, by showing, that a sustained pure melodic line near the whisper-clip’s resonance acts as a *hard lockout* for RAE’s carrier speech. Under that note her presence drops to a minimal, internal-only knot for Jason—no spoken comments in the clips, no gentle corrections riding the street sounds—until the tone decays.
+- **Fear / mood:** While the street stays outwardly ordinary, Jason’s body and thoughts signal unease: elevated pulse, tension in shoulders and hands, waiting-for-the-power-to-stay-out feeling, storm associations. Lina watches him and the environment more tightly; the whole team is aware they chose a bad moment to be without RAE if something went wrong. Terror doesn’t dominate, but there’s a clear *edge* under the procedural tone.
+- **Timing data (lightly in-text, detailed for outline here):** Milo’s watch gives them rough numbers: onset of silence within about one breath, hard silence around \~17–23 seconds per held note, a few seconds of lag before RAE’s presence returns. In the prose, this is shown via Milo’s timing, Jason counting heartbeats, and the pins-and-needles "coming back" sensation rather than long explanations.
+- **Jason’s tolerance:** He can operate under full RAE absence in a busy street without hitting Red. The cost is subjective: the world feels rougher and colder, and he keeps expecting her to interrupt. By the last run, his fear is still present but rideable, and he proves he can complete his listening drills from his own initiative.
+- **Team roles and dynamics:** Milo anchors the scene with timing, small jokes, and the glyph sketch; Lina holds the perimeter and the safety net (watching Jason’s hands, insisting on Red, naming the line between useful fear and paralyzing terror). RAE herself has a couple of slightly off moments on return, hinting that the lockout is not entirely comfortable for her either.
+- **Locks / Use later:**
+  - **Pure-tone hard lockout** is now an emotionally tested, not just theoretical, tactic to hide RAE.
+  - **Elyra foreshadowing:** Lina explicitly links pure lines and Elyra, framing this as rehearsal for working with someone who can hold much stronger versions.
+  - **Jason’s own coupling:** His line *"This, too, is a kind of coupling"* and the storm echoes set up that he has a way to align with the world (and later Elyra) that doesn’t depend on RAE—which will matter in separation / overload scenes.
+
 
 ### Ch. 16 — **Marker at Home**
 **Purpose:** Bring surveillance pressure literally to the doorstep.  

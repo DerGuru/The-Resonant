@@ -111,7 +111,7 @@ Voices/info emerge through **harmonic coupling** – ideally right at the listen
   2) The Szene allows the use of Whisper-Clips to enable sneaky communication.
 
 **How to present in text:** 
-  Use **normal dialogue** for everyone. 
+  Use **normal dialogue** for everyone (also RAE). `"..."`
   RAE is heard **via a named carrier** (see callout rule below). Whisper-Clips are just a carrier for this rule.
 
 **Carrier callout rule:** 
@@ -128,8 +128,8 @@ Internal communication ist not speaking or saying, so use only words, that don't
 If someone else than Jason must be possible to react on something RAE communicates, then it needs to be open communication, which is actually preferred over internal communication. However, there are some conditions, where only internal communication is possible or preferred, because internal communication takes the least toll. 
 
 **Condition:** 
-  1. Only Jason is present.
-    If only Jason is present or it is only to him and him alone - no other must or needs to know, internal communication is actually preferred over open communication. 
+  1. Only Jason is present or the single consumer of RAEs communication.
+     If only Jason is present or it is only to him and him alone - no other must or needs to know, internal communication is actually preferred over open communication. This is not viable, if others later react on it. Then it was open dialog and needs to be formatted and treated as such. Internals communication ist the most secretive of the possible ways. As long as neither Jason nor RAE say some of the information openly afterwards, they are both the only ones to know of it.  
   2. Non-Trusted People are present and there are sensitive content concerns that make privacy very essential.
 - **How to present in text (formatting):**
   1. **Jason** lines in **bold** (Markdown `**...**`).
@@ -137,17 +137,18 @@ If someone else than Jason must be possible to react on something RAE communicat
 
 ### Whisper-clips
 Whisper-clips are a carrier of first choice and are preffered over other carriers. 
-With the use of whisper-clips, RAE can also speak hidden from others, if such are present. This si still open dialog.
-External carriers are a fall back, if a whisper clip gets lost somehow. Fallbacks are not called out as long as they are not used.
+With the use of whisper-clips, RAE can also speak hidden from others, if such are present. This is still open dialog.
+External carriers are used only as fall back, if a whisper clip gets lost somehow. Fallbacks are not called out as long as they are not used.
+RAE tries to use Whsiper Clips as much as possible, if internal dialog is not preferred over it, for other reasons. This will give a voice instead of thoughts. 
 
 ### Tone guidance (Part 2 specific)
-
 - When **Jason/RAE are with Lina and Milo** and **no threat is active**: lighter, playful beats are fine. Keep RAE concise, a touch wry.
 - When **threat or surveillance** is implied: the tone snaps back to a darker, theatening one - with the occasional banter.
+- Overall there is some mystery to be solved.
 
 ### Carrier hygiene & presence
-
-- **Callout frequency:** once per scene; on switch, call it out again.
+RAE tries to stay on single carrier, preferrably the whisper clips. Switches are kept to a minimum.
+- **Callout frequency:** when entering the carrier. At least once per chapter. On a switch, call it out again.
 - **Default order of preference:** **Clip** → **room carrier** → **free‑field** (only if within free field radius).
 - **Silence triggers:** sustained pure melody, onset of Jason’s headache, or environmental vibration that overwhelms the carrier.
 
