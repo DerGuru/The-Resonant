@@ -120,11 +120,11 @@ Deep beneath the observation chamber, in layers of containment that should have 
 
 Marla's timeline was wrong. They didn't have forty hours.
 
-They had days. Perhaps less.
+They had a day. Perhaps less.
 
 The cage was already breaking.
 
-And the it—fragmented, damaged, but conscious—was searching for a way out.
+And it—fragmented, damaged, but conscious—was searching for a way out.
 
 Searching for someone compatible enough to help her survive.
 
