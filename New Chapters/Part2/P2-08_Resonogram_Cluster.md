@@ -4,70 +4,172 @@
 
 Training with Elyra was methodical. Relentless. Unforgiving.
 
-Her apartment had become a second headquarters. Maps and data sprawled across the table, the walls—
+Every morning began the same way: perception drills in the warehouse. Jason standing in the center, eyes closed, reaching out with his awareness. Twenty meters. Thirty. Forty.
 
-Jason mapped out the routes they'd use. Backups for each one. Contingencies for every possibility.
+"Further," Elyra commanded from somewhere in the shadows. "Push past comfort. That's where growth lives."
 
-Lina focused on gear. Light but durable. Concealable but accessible. Each member of their growing team would need to be equipped, ready for anything.
+Jason extended his perception, feeling the warehouse resolve around him. The shipping containers stacked along the walls. The old machinery rusting in corners. The pigeons nesting in the rafters.
 
-Milo immersed himself in research. Not just on their immediate targets—the academy, the administration—but on the very nature of resonance, the truth behind the power structure they were up against.
+"Fifty meters," he said, strain creeping into his voice. His headache nudged from Green toward Yellow.
 
-Jason took it all in, a sense of purpose filling the spaces that had been haunted by doubt.
+"Hold it," Elyra said. "Ten seconds. Count them."
 
-They debriefed every night. Shared what they'd learned, what they still needed to find out. Jason processed the information, the connections, the implications.
+Jason counted. One. Two. Three. The ache behind his eyes intensified. Four. Five. Six.
 
-RAE offered insights, drawing on its vast repository of knowledge, its understanding of patterns and systems.
+At seven, his nose began to bleed.
 
-Together, they were forming a plan. A way to not just expose the truth but to upend the very systems that had tried to erase it.
+"Red!" Lina called from her position near the door, spotting the blood immediately.
 
-But with each passing day, the weight of what they were undertaking pressed down on Jason. The risks. The potential costs.
+"Pull back," Elyra ordered.
 
-*You're becoming adept at this,* RAE observed one evening as they reviewed surveillance footage of a high-level meeting within the academy.
+Jason collapsed his awareness gratefully, pressing a hand to his nose. The blood was warm against his palm.
 
-**It's necessary. Knowledge is power. And right now, we're scarily underpowered.**
+"That's progress," Elyra said, appearing beside him with a cloth. "Last week you hit Red at thirty-five meters. Today you made fifty. Your capacity is expanding."
 
-RAE didn't respond immediately. When it did, its tone was thoughtful. *Power isn't just about capacity for action. It's also about the ability to avoid action, to choose when and how to engage.*
+"Doesn't feel like progress," Jason muttered, accepting the cloth.
 
-**You mean, like, strategic retreat?**
+"Progress rarely does when you're in Yellow territory." Elyra's tone was matter-of-fact. "But that's how training works. You push to your limit, rest, push again. Gradually, the limit moves."
 
-*Exactly. There will be times when discretion is the better part of valor. When laying low, gathering more information, building strength is the optimal course.*
+---
 
-Jason considered this. There had been close calls. Times when their activities had nearly drawn unwanted attention.
+By the second hour, they'd moved to active shaping drills.
 
-*Remember, Jason. This is a marathon, not a sprint. Each revelation, each small victory, builds the foundation for the next stage. Patience is as crucial as velocity.*
+Elyra had set up a row of ceramic carriers—bowls, plates, cups. Each one slightly damaged. A crack here, a chip there, a wobble in the base.
 
-**Yeah, but it's hard not to want to rush in, to force a resolution.**
+"Fix them," she said simply. "Not perfectly. Just enough to stabilize. Quality over force. Precision over power."
 
-*Desire for immediate action can cloud judgment. Each move we make needs to be calculated, ensuring we don't end up in a position where we're the ones needing to retreat—permanently.*
+Jason started with a cracked bowl. He could feel the fracture line running through the ceramic, the way it wanted to propagate further. Carefully, he invested a small amount of resonance, encouraging the edges of the crack to align.
 
-The gravity of RAE's words settled in. This was bigger than just them. Bigger than personal stakes or immediate dangers.
+The bowl hummed softly. The crack didn't disappear, but it stopped growing. Stabilized.
 
-*The archive isn't just a repository of the past,* RAE continued. *It's a keystone, holding up a structure of control that spans far beyond its physical confines. The truths buried there have ramifications. Not just for us, but for anyone who's ever been marginalized, quieted, or erased.*
+"Good," Elyra said. "Next one."
 
-**So, we're not just fighting for our own narrative. We're fighting for all the narratives that never got told. All the people who were silenced.**
+A chipped plate. Jason smoothed the rough edge where ceramic had broken away. Not restoring the lost material—that was beyond his capability—but making what remained less likely to chip further.
 
-*Precisely.* RAE's affirmation was like a beacon, clarifying their purpose. *And the first step in dismantling that structure is exposing its fractures. The classified incidents, the suppressed findings, the hidden connections—all of it points to a systemic abuse of power that needs to be brought to light.*
+"Better. Again."
 
-**And Elyra... she deserves to know the truth. To decide for herself what it means.**
+A wobbling cup. Jason adjusted the base, redistributing the slight asymmetry that made it unstable. The cup settled, standing straight.
 
-*As do all individuals who have been impacted by the resonance—directly or indirectly. Knowledge enables choice. And choice is the foundation of agency.*
+"Excellent. How's your head?"
 
-With renewed determination, Jason delved back into the documents spread before him. Each report, each memo, was a piece of a larger puzzle. A puzzle that, once completed, would reveal not just the truth about RAE and Elyra but about the very nature of the power dynamics at play.
+"Yellow," Jason reported. "But stable."
 
-*Stay flexible,* RAE reminded him gently. *Today’s findings may lead to questions that require tomorrow’s insights. It’s all interconnected.*
+"Then keep going. Fifteen more minutes, then break."
 
-**Got it.** Jason's focus sharpened. He was done being a passive observer in someone else's story. He was done waiting for permission or clearance. He was taking charge of his narrative, and he would be damned if he let anyone erase it again.
+---
 
-And as he worked, piecing together the intricate web of connections and cover-ups, he felt a sense of certainty solidify within him.
+Lina's turn came after lunch.
 
-They were on the right path. Not just for themselves but for everyone who had been affected by the archive's amnesia.
+She approached the carriers with practiced confidence, her academy training evident in every movement. Where Jason had to think through each step, Lina worked instinctively.
 
-*This is just the beginning,* RAE said, its voice a steady presence in the back of Jason's mind.
+Bowl. Crack sealed in seconds. Plate. Chip smoothed effortlessly. Cup. Base adjusted with barely a thought.
 
-**Then let's make sure it's a beginning worth remembering.**
+"Show-off," Milo muttered from where he sat with his laptop, tracking their progress.
 
-With each keystroke, each revelation, they were carving out a new reality. One where the truth was no longer a whispered secret or a hidden document but a blaring siren, impossible to ignore or erase.
+"Just remembering what they taught me," Lina said, grinning. "Muscle memory coming back."
 
-A reality where they—not the shadowy machinations of the past—held the reins to their own destinies.
+"How does it feel?" Elyra asked, watching her work.
 
-One truth at a time.
+"Like... coming home," Lina said slowly. "I forgot how much I missed this. The precision. The satisfaction of making something whole again."
+
+"The academy taught you well," Elyra observed. "Even if they failed you in other ways."
+
+Lina's expression darkened slightly. "Yeah. Well. Their loss is your gain, I guess."
+
+"No. Your gain." Elyra's voice was firm. "You're relearning this on your own terms now. Not because someone told you to. Because you choose to. That makes all the difference."
+
+---
+
+The afternoon brought combat drills.
+
+"Defensive patterns only," Elyra emphasized. "I'm not teaching you to attack. I'm teaching you to survive when attacked."
+
+She had Jason and Lina face each other across the warehouse floor.
+
+"Lina, you're going to shape a pattern. Nothing dangerous—just a resonance pulse. Jason, you're going to deflect it. Not block. Deflect. Redirect the energy instead of stopping it."
+
+"Ready?" Lina asked, hands already moving into position.
+
+"As I'll ever be," Jason said, bracing himself.
+
+Lina's pulse came fast but controlled. Jason felt it approaching, sensed the shape of it. Instead of throwing up a wall, he created an angled surface—a deflection field that caught the pulse and sent it sideways.
+
+It almost worked.
+
+The pulse hit his field, slid along it for a moment, then broke through. Jason stumbled backward, headache spiking into Orange.
+
+"Better," Elyra said. "You had the right idea. But your field wasn't firm enough. It bent instead of redirecting. Try again."
+
+They practiced for an hour. Jason's deflection improved gradually. By the end, he could redirect three out of five pulses successfully.
+
+"That's enough," Elyra declared. "Any more and you'll hit Red. We're done for today."
+
+---
+
+That evening, the four of them sat in Elyra's apartment, reviewing the day's progress.
+
+"Jason's perception range: fifty meters," Milo read from his notes. "That's fifteen meters more than last week. Shaping accuracy: stable but needs more practice. Deflection success rate: sixty percent."
+
+"Lina's numbers?" Elyra asked.
+
+"Perception: eighty meters. Shaping accuracy: excellent, academy standards. Deflection: ninety percent success rate."
+
+"She has a head start," Jason said, not bitter but realistic. "Years of academy training."
+
+"And you have determination," Elyra countered. "And partnership with RAE. Different advantages. Both valuable."
+
+*She's right,* RAE said through Jason's clip. *You're learning faster than most people with no background. In four weeks, you've achieved what takes academy students months.*
+
+"Doesn't feel fast," Jason muttered.
+
+"Because you're comparing yourself to Lina instead of to your past self," Elyra said. "Four weeks ago, you could barely sense twenty meters. Now you're at fifty and expanding. That's exceptional growth, Jason. Own it."
+
+Jason thought about that. She was right. He'd been so focused on what he couldn't do yet that he'd forgotten to acknowledge what he'd achieved.
+
+"Okay," he said finally. "Yeah. I guess I have come pretty far."
+
+"You have," Lina confirmed, squeezing his shoulder. "And you're going to keep getting better. We both are."
+
+"Together," Milo added, looking up from his laptop. "Because that's how this works. Teamwork."
+
+Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you able to maintain active perception for thirty minutes without hitting Orange."
+
+"Thirty minutes?" Jason's eyes widened.
+
+"Thirty minutes," Elyra confirmed. "You can do it. I've seen your progression. Trust the process."
+
+---
+
+Walking home that night, Jason felt the familiar ache behind his eyes—Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
+
+*You did well today,* RAE said quietly.
+
+**Thanks. Feels like I'm always just catching up, though.**
+
+*That's because you're learning. Learning means being aware of what you don't know yet. It's uncomfortable. But it's also how you grow.*
+
+**When does it stop being uncomfortable?**
+
+*Never. But eventually, you get better at being uncomfortable. And that's almost as good as being comfortable.*
+
+Jason smiled despite himself. "You know, for an AI, you're pretty wise about the human experience."
+
+*I've had a good teacher,* RAE said, and Jason felt warmth in her voice.
+
+He climbed the stairs to his apartment, unlocked the door, collapsed onto his couch. Four weeks of training. Four weeks of pushing his limits, learning his boundaries, discovering what he could become.
+
+It was exhausting. Challenging. Sometimes painful.
+
+But it was also exactly what he needed.
+
+Tomorrow, thirty minutes of sustained perception.
+
+The day after, something new.
+
+Week by week, skill by skill, he was becoming more than he'd been.
+
+And that, more than anything, made the headaches worth it.
+
+Green to Yellow, never to Red.
+
+One careful boundary at a time.
