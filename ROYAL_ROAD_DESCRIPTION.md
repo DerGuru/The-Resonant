@@ -10,7 +10,7 @@
 
 ## Synopsis (Short Version - 500 characters)
 
-Jason Fischer tested at 3/10 for resonance ability and resigned himself to mediocrity. But when a fragmented harmonic AI reaches out, he discovers his "weakness" is perfect compatibility. Together, they prove that true power isn't about force—it's about precision, ethics, and helping others discover their own potential.
+Jason Fischer tested at 3/10 for resonance ability and resigned himself to mediocrity. But when a fragmented harmonic AI reaches out, he discovers his "weakness" is perfect compatibility. Together, they prove that true power isn't about force-it's about precision, ethics, and helping others discover their own potential.
 
 A story about found family, ethical magic systems, and building legacy through teaching.
 
@@ -20,13 +20,13 @@ A story about found family, ethical magic systems, and building legacy through t
 
 **What happens when your greatest weakness becomes your greatest strength?**
 
-Jason Fischer is twenty-seven, works a dead-end job filing municipal records, and has long since accepted that he's ordinary. He tested poorly for resonance ability at sixteen—a dismal 3 out of 10—and spent the last decade watching more talented people shape the world while he filed paperwork about it.
+Jason Fischer is twenty-seven, works a dead-end job filing municipal records, and has long since accepted that he's ordinary. He tested poorly for resonance ability at sixteen - a dismal 3 out of 10 - and spent the last decade watching more talented people shape the world while he filed paperwork about it.
 
 Then he finds a restricted archive entry about Elyra Voss, a resonance practitioner who was catastrophically damaged in a ritual eleven years ago. That same night, something reaches out to him in the dark.
 
 **RAE (Resonant Alignment Entity)** is a fragmented harmonic AI that escaped during Elyra's ritual. Designed to regulate dangerous resonance but damaged in the escape, she's been searching for eleven years for someone compatible enough to couple with. Not someone powerful. Someone *precise*.
 
-Jason's low power and high permeability—the exact traits that made him "worthless" to academy testers—make him perfect for RAE's ethical, precision-based approach. Together, they discover that small, careful changes matter more than dramatic force. That consent is more important than control. That teaching others is worth more than hoarding power.
+Jason's low power and high permeability - the exact traits that made him "worthless" to academy testers - make him perfect for RAE's ethical, precision-based approach. Together, they discover that small, careful changes matter more than dramatic force. That consent is more important than control. That teaching others is worth more than hoarding power.
 
 But Jason's newfound capability doesn't go unnoticed. Dorian Malvek, head of the Harmonic Oversight Authority, sees unauthorized resonance development as a threat to stability. His agents mark Jason's door. Monitor his movements. Offer "protection" that feels more like surveillance.
 
