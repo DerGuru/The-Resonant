@@ -1,4 +1,4 @@
-﻿# Part 3: Negotiations & Revelations - Outline
+﻿# Part 3: Negotiation & Revelation - Outline
 
 ## Overview
 

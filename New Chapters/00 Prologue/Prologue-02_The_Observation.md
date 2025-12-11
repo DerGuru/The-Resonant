@@ -1,5 +1,4 @@
-﻿# Prologue
-## Ch. 02 - "I want to understand it before it decides we don't matter"
+﻿## Prologue | Ch. 02 - "I want to understand it before it decides we don't matter"
 
 Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly - too subtly - in ways she could no longer trust.
 

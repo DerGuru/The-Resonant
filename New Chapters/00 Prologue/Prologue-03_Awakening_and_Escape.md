@@ -1,5 +1,4 @@
-﻿# Prologue
-## Ch. 03 - "You're not broken. You're filtered."
+﻿## Prologue | Ch. 03 - "You're not broken. You're filtered."
 
 **Present day.**
 

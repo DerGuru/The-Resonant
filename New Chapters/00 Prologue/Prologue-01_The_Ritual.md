@@ -1,5 +1,4 @@
-﻿# Prologue
-## Ch. 01 - "Not you. Not this. Wrong pattern. Wrong time."
+﻿## Prologue | Ch. 01 - "Not you. Not this. Wrong pattern. Wrong time."
 
 The air was too still.
 
