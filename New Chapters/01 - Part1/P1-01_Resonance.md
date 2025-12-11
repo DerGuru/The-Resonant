@@ -33,13 +33,13 @@ He shook his head, glancing around at empty cubicles bathed in twilight shadows.
 
 Jason returned his focus to the screen, tapping the touchpad lightly to scroll further. He found nothing more than fragments of corrupted files, broken chains of characters that looked like they'd been deliberately scrambled. Yet he couldn't shake the feeling that something was hiding just beyond the broken code.
 
-*Fragment stabilized.* Those words clung to his mind like a burr. Fragment of what?
+*Fragment stabilized.* The words clung to his mind like a burr. Fragment of what?
 
-His finger hovered over the highlighted entry again. "Elyra Voss," he whispered, testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes - nothing surfaced. And yet...
+His finger hovered over the highlighted entry again. "Elyra Voss," he whispered again. Testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes - nothing surfaced. And yet...
 
-He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window.
+He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window. He grinned to himself, moving his head to the exact position, where two street lights shone through his eyes, giving him a malicious look.
 
-Twenty-seven years old. Municipal Records Clerk. Living in a one-bedroom apartment above a laundromat. Father back in Germany, mother gone ten years now. No girlfriend. No prospects. Just... existing.
+Then he sighed. Twenty-seven years old. Municipal Records Clerk. Living in a one-bedroom apartment above a laundromat. Father back in Germany, mother gone ten years now. No girlfriend. No prospects. Just... existing.
 
 *What am I even doing?*
 
@@ -51,7 +51,7 @@ Nothing. Just his heartbeat. Normal. Steady.
 
 But for a moment, he could have sworn something had pushed back.
 
-He shook his head hard, water sloshing in his mug. "Get a grip, Fischer. You're not special. You're just tired."
+He shook his head hard, water sloshing in his mug. "Get a grip, Fischer. You're not special. You're just tired. Time to go home!"
 
 The mantra had worked for years. It would work tonight too.
 
@@ -73,7 +73,7 @@ The name felt important. Like it should mean something. Like it was waiting for 
 
 "Tomorrow," he muttered, shutting down his terminal. "I'll dig deeper tomorrow."
 
-The building was dark when he left, except for the security lights in the stairwells. His footsteps echoed as he made his way to the exit, the sound lonely in the empty corridors. Outside, the air was cool, refreshing over him as he stepped onto the sidewalk. He drew it deep into his lungs, attempting to clear his head.
+The building was dark when he left, except for the security lights in the stairwells. His footsteps echoed as he made his way to the exit, the sound lonely in the empty corridors. Outside, the air was cool and refreshing as he stepped onto the sidewalk. He drew it deep into his lungs, attempting to clear his head.
 
 The walk to his apartment usually helped him decompress, the solitude providing space for his thoughts to settle. Tonight felt different.
 
