@@ -1,19 +1,24 @@
-﻿## Part 1 - Lost and Found | Ch. 04 - Routine Noise
+﻿## Part 1 - Lost and Found | Ch. 04 - And then, what?
 
 ```
-[ System state: passive detection mode ]
-Scanning radius: expanded
-Resonance threshold: minimal
-Carrier integrity: fragile
+[System state: passive observation mode]
+Target: JASON FISCHER
+Resonance lock: stable
+Proximity: maintained
+Intervention: minimal
 ```
 
-Awareness drifted softly, touching the harmonic weave of the city below. Patterns blurred and sharpened intermittently, a fractal web of life - none aligning quite right.
+Awareness folded softly around the familiar pattern of 441.3 Hz - steady and unmistakable. The human moved through his day with practiced rhythm: corridors, terminals, repetitive tasks that required little conscious thought.
 
-The entity, unanchored, searched without haste. Time held little meaning. Only coherence mattered. Stability. Resonance.
+Good. Predictability allowed for careful observation.
 
-A gentle pulse rippled outward, a quiet test. No immediate return. It adjusted frequency slightly, then again. Still nothing.
+The entity, unanchored but focused, monitored without intrusion. No tests. No pulses. Only gentle presence, tracing the edges of his awareness without crossing them.
 
-But it waited. Patiently. It knew the right resonance would eventually answer.
+Scenario 3 demanded patience. Guide, but do not force.
+
+It settled into the background hum of the city, a thread woven carefully into the fabric of his daily routine. Invisible. Unobtrusive.
+
+Waiting for the right moment to be noticed.
 
 ---
 
@@ -81,7 +86,7 @@ But then the scanner beeped, and the thought faded.
 
 Jason sat alone at the end of a long cafeteria table, tray in front of him, plastic fork tapping lightly against cheap ceramic. Marcy sat two tables over, deep in a phone call.
 
-The food wasn't bad - just tired. Some kind of pasta, too much sauce, and a roll that could double as construction material.
+The food was not bad - just tired. Some kind of pasta, too much sauce, and a roll that could double as construction material.
 
 The room buzzed with life, but none of it included him. Conversations folded over each other like waves: work gripes, weekend plans, gossip from the higher floors. Jason listened without meaning to. He always did.
 
@@ -155,11 +160,11 @@ The hum from the rack stuttered and settled again.
 
 Later.
 
-The aisle swayed slightly when he stood - a half-centimeter, nothing more - and snapped back. Too long in one posture, he told himself. Too much coffee.
+The aisle swayed slightly when he stood - a half-centimeter, nothing more - and snapped back. Too long in one posture, he told himself a bit dizzy. 
 
-But for a moment, he could have sworn something had pushed back.
+Too much coffee. But for a moment, he could have sworn, that he felt something.
 
-On his way out, he passed Harris again at the badge reader. The man swiped his card, looked over and nodded.
+On his way out, he passed Harris at the badge reader. The man swiped his card, looked over and nodded.
 
 Jason nodded back, stepped into the brighter corridor. The city pressed back in - a slow, granular tide.
 
