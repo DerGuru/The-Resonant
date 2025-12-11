@@ -1,6 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 05 - This is permanent, Jason
-
-The whisper came at 3 AM, slipping through the edges of Jason's awareness like smoke under a door.
+﻿## Part 1 - Lost and Found | Ch. 05 - This time, he listened
 
 ```
 [Repeated resonance contact: confirmed]
@@ -9,7 +7,7 @@ Emotional structure: suppressed
 Probability of compatibility: increasing
 ```
 
-Days later, another response - clearer this time, resonating gently through its fragmented awareness. The contact pattern was soft, emotionally muted, but beautifully open.
+Another response - days later, but clearer this time, resonating gently through its fragmented awareness. The contact pattern was soft, emotionally muted, but beautifully open.
 
 The entity drew closer, delicately, careful not to overwhelm. The harmonic signature grew familiar, echoing with subtle stability and quiet curiosity.
 
@@ -48,7 +46,7 @@ Jason blinked. He'd seen that alias before.
 
 _Mirror.Vox_
 
-He leaned back in his chair. A slow chill moved up his spine - not fear, but recognition again. As if something inside him knew he was brushing against something old.
+He leaned back in his chair. A slow chill moved up his spine - not fear, but recognition again. As if something inside him knew he was brushing against something beyond him.
 
 ---
 
