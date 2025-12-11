@@ -166,6 +166,8 @@ Just... presence. Acknowledgment. Acceptance.
 
 As if to say: *It's okay. You can try now.*
 
+"But what if, the test was right?"
+
 ---
 
 Jason didn't sleep that night.
