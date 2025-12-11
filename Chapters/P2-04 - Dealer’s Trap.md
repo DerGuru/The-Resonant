@@ -12,9 +12,9 @@ Milo looked past the smile to the hallway beyond the bead curtain. “We like st
 
 The dealer’s eyes crinkled. “You’ll get both.”
 
-Jason’s headache, faint since the walk, took one small step forward and stopped. He catalogued the room the way he’d taught himself over the past weeks—count, name, let go; without judgment. The fluorescents. The hum of a small fridge behind the counter. The off-rhythm tick of a wall clock that was trying to make its mind up about seconds.
+Jason’s headache, faint since the walk, took one small step forward and stopped. He catalogued the room the way he’d taught himself over the past weeks - count, name, let go; without judgment. The fluorescents. The hum of a small fridge behind the counter. The off-rhythm tick of a wall clock that was trying to make its mind up about seconds.
 
-"Carrier chosen: counter fridge"*,* RAE said—by way of the cooler’s soft, steady vibration under the glass once, forming a sound beam only Milo could hear.
+"Carrier chosen: counter fridge"*,* RAE said - by way of the cooler’s soft, steady vibration under the glass once, forming a sound beam only Milo could hear.
 
 Milo angled his head a degree toward the glass, as if reading a label.
 
@@ -26,9 +26,9 @@ The dealer’s gaze did the quick arithmetic of reputation. “You’re the cart
 
 “Everything,” Milo repeated, dry. “Bold category.”
 
-“Proves what we’re all feeling and half of us are afraid to name: the municipal fabric around Mill‑4 has been cut and resewn.” He set the case between them and opened it to reveal a large sheet: city grid, river line, ward boundaries—overlaid with an ochre ink that braided faint loops through streets and alleys like spilled thread.
+“Proves what we’re all feeling and half of us are afraid to name: the municipal fabric around Mill‑4 has been cut and resewn.” He set the case between them and opened it to reveal a large sheet: city grid, river line, ward boundaries - overlaid with an ochre ink that braided faint loops through streets and alleys like spilled thread.
 
-Jason leaned just close enough that he could smell the paper. Old, yes—but the varnish was new, and whoever had done the conservation had used a citrus solvent.
+Jason leaned just close enough that he could smell the paper. Old, yes - but the varnish was new, and whoever had done the conservation had used a citrus solvent.
 
 “Provenance?” Milo asked without looking up.
 
@@ -48,11 +48,11 @@ The dealer smiled wider. “I love a man who says ‘concordances’ before lunc
 
 Milo tapped the clipboard with his pen, unamused. “Receipts.”
 
-The dealer slid out a second sheet: a faded print of a maintenance schedule with margins scribbled by an obsessive. He double‑tapped three circles with a nail cut interestingly short. “Streetlight outages along a diagonal. Twice. A decade apart.” A third paper surfaced, this one a transit timing slip. “Micro‑delays here and here on the red‑line—only at crossings that used to intersect a walkway that no longer exists. Patterns that form not because someone planned a circle, but because someone wanted to erase a line.”
+The dealer slid out a second sheet: a faded print of a maintenance schedule with margins scribbled by an obsessive. He double‑tapped three circles with a nail cut interestingly short. “Streetlight outages along a diagonal. Twice. A decade apart.” A third paper surfaced, this one a transit timing slip. “Micro‑delays here and here on the red‑line - only at crossings that used to intersect a walkway that no longer exists. Patterns that form not because someone planned a circle, but because someone wanted to erase a line.”
 
 Lina kept her voice light. “And what do *you* want?”
 
-He closed the archival case with the gentleness of someone signing a contract. “Nothing dramatic. A copy of your querying pattern—you have one, or you wouldn’t be here—and a favor later.”
+He closed the archival case with the gentleness of someone signing a contract. “Nothing dramatic. A copy of your querying pattern - you have one, or you wouldn’t be here - and a favor later.”
 
 “No,” Lina said, pleasant as sunshine. “That’s the price you ask when you don’t have receipts.”
 
@@ -70,7 +70,7 @@ Jason slid his hands into his pockets to keep them neutral. The  ache behind his
 
 **And why can Milo hear you and he can’t?**
 
-*Private lobe from the fridge hum—constructive at Milo’s left ear, null toward the counter. No implants. Just geometry and consent.*
+*Private lobe from the fridge hum - constructive at Milo’s left ear, null toward the counter. No implants. Just geometry and consent.*
 
 Jason let his weight shift to the other heel. The fridge hummed once like agreement and then minded its business.
 
@@ -86,7 +86,7 @@ The dealer considered, eyes flicking to the clock just as it ticked two seconds 
 
 *He will try a shortcut,* RAE murmured through the counter glass. *Stay inside receipts.*
 
-“Elm Passage,” the dealer said. “Alley behind the laundries. And the service lane behind the market stalls—north run.”
+“Elm Passage,” the dealer said. “Alley behind the laundries. And the service lane behind the market stalls - north run.”
 
 Milo wrote them down. “We’ll bring you a yes/no, and maybe a sandwich if you stop selling favors like they’re stickers.”
 
@@ -116,7 +116,7 @@ The dealer weighed whether to treat that as adorable or dangerous. “I’ll fet
 
 Milo didn’t rush. He paged, pursed his lips, and said nothing. “Thanks,” he added, as if the word had a weight limit.
 
-Jason felt the clock on the other side of the curtain tick wrong again. The fluorescents disagreed in a new way—a little chorus that lost the beat for a bar and then found it because they’d always meant to. The field did not want to show its edge where it touched the dealer.
+Jason felt the clock on the other side of the curtain tick wrong again. The fluorescents disagreed in a new way - a little chorus that lost the beat for a bar and then found it because they’d always meant to. The field did not want to show its edge where it touched the dealer.
 
 **He’s soothing the room,** Jason thought. **Trying to make us a little polite.**
 
@@ -182,21 +182,21 @@ Jason exhaled. The headache had not left; it had decided to walk politely behind
 
 He smiled despite himself.
 
-At the turn of the stair, a door stood ajar. From inside came a sound two notes long—soft, high, and then lower, like a question being reduced to its shape. It wasn’t a melody yet, just a fragment that made his skin listen.
+At the turn of the stair, a door stood ajar. From inside came a sound two notes long - soft, high, and then lower, like a question being reduced to its shape. It wasn’t a melody yet, just a fragment that made his skin listen.
 
 Lina heard it too. Her eyes cut to Jason’s. Milo said, “I’m not adding ‘mysterious music’ to the list.”
 
-Jason’s chest did that small, familiar tug that was neither pain nor warning—attention, perhaps, in a language he had not learned yet.
+Jason’s chest did that small, familiar tug that was neither pain nor warning - attention, perhaps, in a language he had not learned yet.
 
 *I’m quiet under melodies*. *That’s a rule I learned the hard way.*
 
 **Why?**
 
-*Melodies are low‑entropy attractors. If I speak on top, the field tries to phase‑lock me to the tune; that widens my footprint and makes me easy to triangulate. Vowels ride farther and imprint identity; I avoid them under music. Safer to go quiet—or keep to consonants.*
+*Melodies are low‑entropy attractors. If I speak on top, the field tries to phase‑lock me to the tune; that widens my footprint and makes me easy to triangulate. Vowels ride farther and imprint identity; I avoid them under music. Safer to go quiet - or keep to consonants.*
 
 **And internal diskussion?**
 
-*We can, yes—direct thoughtline. No air, no carrier. Under melody it’s the safer path.*
+*We can, yes - direct thoughtline. No air, no carrier. Under melody it’s the safer path.*
 
 “Noted,” Jason murmured.
 
@@ -204,11 +204,11 @@ They didn’t investigate. They did what people with alibis do: they left. Dayli
 
 ```
 Instance: RAE 0001.1439 P
-Mode: Coupled (Slow Channel) — Carriers: counter fridge → stair rail
+Mode: Coupled (Slow Channel)  -  Carriers: counter fridge → stair rail
 Event: Sales Pressure / Field Smoothing Detected
 
 ⦿ Channel: 
-  Private lobe — constructive @ Milo L ear;
+  Private lobe  -  constructive @ Milo L ear;
   null @ dealer (counter-facing). 
   Consent token: micro head‑tilt acknowledged.
 

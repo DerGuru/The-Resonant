@@ -26,19 +26,19 @@ He sighed. Set down the knife. Leaned against the counter. "I moved materials. C
 
 "For how long?"
 
-"Ten years. From twenty to thirty. Then your mother got pregnant with you, and I realized—" He paused. "—I realized I wanted you to have options I never did. So I stopped. Opened the restaurant. Went legitimate."
+"Ten years. From twenty to thirty. Then your mother got pregnant with you, and I realized - " He paused. " - I realized I wanted you to have options I never did. So I stopped. Opened the restaurant. Went legitimate."
 
 "And Marco?"
 
 "Was my handler. Connection between suppliers and runners. Good man. Fair. Didn't exploit people." He smiled faintly. "Seeing you at that market... he recognized your moves. Your instincts. Knew you were my daughter before you said your name."
 
-Lina processed that. "The academy fees. The loans. That came from—"
+Lina processed that. "The academy fees. The loans. That came from - "
 
 "Clean money. Restaurant money. Not circuit money." He was firm on that. "I never touched that life again after you were born. Not once. The debts were honest debts. Hard-earned, but honest."
 
 "Why tell me this now?"
 
-"Because you're in it now. Whether I like it or not. And if you're in it, you need to understand what it really is." He crossed his arms. "The resonance world has rules. Not laws—rules. Break them, and nobody cares what your papers say. You get erased. Quietly."
+"Because you're in it now. Whether I like it or not. And if you're in it, you need to understand what it really is." He crossed his arms. "The resonance world has rules. Not laws - rules. Break them, and nobody cares what your papers say. You get erased. Quietly."
 
 "We have a contract. With Malvek's organization."
 
@@ -52,9 +52,9 @@ Lina processed that. "The academy fees. The loans. That came from—"
 
 "Do you? Because I've seen people who thought they knew. Thought they were smart enough. Careful enough." His voice roughened. "I watched three people disappear in my last year on the circuit. Just... gone. No bodies. No investigations. Just empty spaces where people used to be."
 
-Lina felt cold. "Dad—"
+Lina felt cold. "Dad - "
 
-"I'm not trying to scare you. I'm trying to prepare you." He gripped her shoulders—gently, but firm. "You're my daughter. My only child. I can't stop you from this path. But I can make sure you understand it. Can you promise me you'll be smart? That you'll listen to your instincts? That you'll walk away if it gets too dangerous?"
+"I'm not trying to scare you. I'm trying to prepare you." He gripped her shoulders - gently, but firm. "You're my daughter. My only child. I can't stop you from this path. But I can make sure you understand it. Can you promise me you'll be smart? That you'll listen to your instincts? That you'll walk away if it gets too dangerous?"
 
 "I promise I'll try."
 
@@ -62,7 +62,7 @@ Lina felt cold. "Dad—"
 
 "It's the only one I can give."
 
-He studied her face for a long moment. Then pulled her into a hug—brief, tight, wordless.
+He studied her face for a long moment. Then pulled her into a hug - brief, tight, wordless.
 
 When he released her, his eyes were wet. "Your mother would be proud of you. Even though she'd hate what you're doing."
 
@@ -72,7 +72,7 @@ Lina laughed despite herself. "Yeah. She would."
 
 "Yes, chef."
 
-She left through the back door, stepping into cool night air. The city hummed around her—cars, voices, the distant sound of music from somewhere close but not here.
+She left through the back door, stepping into cool night air. The city hummed around her - cars, voices, the distant sound of music from somewhere close but not here.
 
 Her father had been part of the resonance circuit. Had moved illegal materials. Had seen people disappear.
 

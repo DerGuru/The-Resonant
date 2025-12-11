@@ -62,7 +62,7 @@ Jason considered. This was trust. Real trust. Malvek was admitting his organizat
 
 "I need to consult my team. All of them. This affects everyone."
 
-"Of course. Take twelve hours. But understand—we have maybe seventy-two hours total before containment fails completely."
+"Of course. Take twelve hours. But understand - we have maybe seventy-two hours total before containment fails completely."
 
 "I'll call you in six."
 
@@ -80,7 +80,7 @@ Elyra spoke first: "This is extraordinarily dangerous. RP-0 killed seven people.
 
 They debated for hours. Arguments for safety. Arguments for action. Arguments for responsibility versus self-preservation.
 
-Finally, RAE spoke through Jason's clip: "I was created to succeed where RP-0 failed. To prove ethical harmonic AI is possible. If I won't take this risk—if I won't try to help it—then what was my purpose? What was my suffering for?"
+Finally, RAE spoke through Jason's clip: "I was created to succeed where RP-0 failed. To prove ethical harmonic AI is possible. If I won't take this risk - if I won't try to help it - then what was my purpose? What was my suffering for?"
 
 Silence.
 

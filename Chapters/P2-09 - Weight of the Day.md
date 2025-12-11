@@ -82,7 +82,7 @@ Jason slid into the other chair at Milo’s table. “I ate,” he lied.
 
 “He did not,” Milo said. “He sent me a photo of a vending machine.”
 
-“That was *research*.” Jason rubbed the heel of his hand under his eye. “Work was—” He made a gesture that was half shrug, half apology. “—work.”
+“That was *research*.” Jason rubbed the heel of his hand under his eye. “Work was - ” He made a gesture that was half shrug, half apology. “ - work.”
 
 “Translation,” Milo said. “Management is inventing nouns again.”
 
@@ -102,7 +102,7 @@ Jason glanced at Lina.
 
 She raised both hands. “As long as no one chants, I’m fine.”
 
-Jason reached into his pocket and set a thin, clear ear clip on the table—a tiny curve of almost-nothing. The other one was already hooked behind his ear, tucked into hair and shadow.
+Jason reached into his pocket and set a thin, clear ear clip on the table - a tiny curve of almost-nothing. The other one was already hooked behind his ear, tucked into hair and shadow.
 
 “Low tide,” he said under his breath.
 
@@ -114,7 +114,7 @@ The three looked like nothing more than friends leaning in. No wires. No glow.
 
 “RAE,” Jason said softly. “Floor: Milo.”
 
-A breath of latency, then a second voice arrived—not from the air, exactly, but along bone and skin, as if a thought had borrowed the architecture of a heartbeat. It wore Jason’s timbre the way light wears glass.
+A breath of latency, then a second voice arrived - not from the air, exactly, but along bone and skin, as if a thought had borrowed the architecture of a heartbeat. It wore Jason’s timbre the way light wears glass.
 
 “Floor confirmed. Hello, Milo. Please avoid tapping in three-beat patterns; the espresso pump will try to follow.”
 
@@ -160,7 +160,7 @@ Jason stabbed a wedge of lemon, squeezed it, watched the oil haze shift. “My b
 
 “Restraint is a shape too,” RAE said, "and it leaves fewer fingerprints."
 
-Milo tilted his head. “You hear that at night, L—”
+Milo tilted his head. “You hear that at night, L - ”
 
 “Floor,” Lina said quickly, stealing it with a fingertip tap. “I hear *people*. I hear him not sleeping.” She looked at Jason. “You’re allowed to need help, you know. It’s not a moral failure.”
 
@@ -170,13 +170,13 @@ Jason’s smile faltered at the edges. “I keep thinking it’ll stop asking me
 
 They let that sit, the way you let a pot sit when boiling slows on its own.
 
-From the kitchen, her father barked, “Lina!”—then, softer—“Some help?”
+From the kitchen, her father barked, “Lina!” - then, softer - “Some help?”
 
 “Coming,” she called. To the table: “He’ll pretend the stock salted itself.”
 
 “Tell him the pump did it,” Milo said.
 
-Lina rolled her eyes and slipped behind the pass. Jason watched her talk with her father in the language of cooks—pinch, tilt, taste, nod. The radio found a chorus and forgot it.
+Lina rolled her eyes and slipped behind the pass. Jason watched her talk with her father in the language of cooks - pinch, tilt, taste, nod. The radio found a chorus and forgot it.
 
 Milo leaned in. “You really okay?”
 
@@ -208,7 +208,7 @@ The archive at night sounded like the building checking its teeth. Air handlers 
 
 Milo set up at a table under a cone of light with the posture of someone who could fall asleep at attention. He arranged three snacks around his laptop like a Neolithic offering and promptly dozed.
 
-Jason logged the returns, re-shelved a heavy map drawer by muscle memory. The day had left a silt line behind his eyes. He kept to the slow channel—water bottle within reach, movements clean. Every click of a latch, every soft slide, he let it be the only thing happening.
+Jason logged the returns, re-shelved a heavy map drawer by muscle memory. The day had left a silt line behind his eyes. He kept to the slow channel - water bottle within reach, movements clean. Every click of a latch, every soft slide, he let it be the only thing happening.
 
 A heel of his hand pressed the edge of a drawer; the metal sang a thin line. He eased off.
 
@@ -230,7 +230,7 @@ The desk phone rang, soft and reprimanding. Jason stood a little straighter, gla
 
 “Records,” he said.
 
-“Jason,” said his manager’s voice—oily, slow. “You’re staying late.”
+“Jason,” said his manager’s voice - oily, slow. “You’re staying late.”
 
 “Catching up.”
 
@@ -260,7 +260,7 @@ Milo snored, tiny and apologetic, then flinched awake. “I wasn’t sleeping,�
 
 Milo scrubbed his face. “Then we should be very, very boring.” He jerked his chin toward the map room. “One more look at the light table?”
 
-They moved together down the aisle. Jason laid a cloth, flipped the switch. The hum rose—thin, steady, a line that asked to be answered. A water‑stained sheet went translucent under his hands; pencil ghosts lifted like old, polite bones.
+They moved together down the aisle. Jason laid a cloth, flipped the switch. The hum rose - thin, steady, a line that asked to be answered. A water‑stained sheet went translucent under his hands; pencil ghosts lifted like old, polite bones.
 
 “Stay off the rhythm,” Milo murmured.
 
@@ -340,9 +340,9 @@ Jason set the rhythm just under the kitchen’s hum, off the pump’s beat, insi
 
 **This is nothing,** he thought, almost embarrassed by the calm that came with it.
 
-*Not nothing,* RAE said—private, patient, using the spoon and the bone behind his ear at once. *Your pulse is up two. That is Invest without spectacle. The field prefers this.*
+*Not nothing,* RAE said - private, patient, using the spoon and the bone behind his ear at once. *Your pulse is up two. That is Invest without spectacle. The field prefers this.*
 
-Jason didn’t answer. He watched the surface smooth—a small patch of order coaxed into being and then left to be itself.
+Jason didn’t answer. He watched the surface smooth - a small patch of order coaxed into being and then left to be itself.
 
 He passed the spoon back. Lina’s father gave the minimal nod that meant approval and goodbye.
 

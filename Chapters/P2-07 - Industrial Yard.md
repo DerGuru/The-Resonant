@@ -4,13 +4,13 @@
 
 Jason adjusted his scarf, let the street air sand down the shape of Arendt’s offer, and set their pace to municipal: not hurried, not slow. Lina picked up the rhythm beside him. Milo fell in a half‑step behind, reading a flyer like it was fascinating.
 
-The city did what cities do—blinked, hummed, forgot. A tram sighed past and sketched a flicker of their reflections along its windows. Far down the block, a car idled with the patience of a cat pretending not to stalk.
+The city did what cities do - blinked, hummed, forgot. A tram sighed past and sketched a flicker of their reflections along its windows. Far down the block, a car idled with the patience of a cat pretending not to stalk.
 
 “Perimeter?” Lina’s lips barely moved.
 
 Jason’s fingers found the transparent curve of the **whisper‑clip** behind his ear. “Low tide,” he said, the join phrase soft enough to vanish into the street noise.
 
-RAE joined through the clip—a dry clarity at Jason’s mastoid, consonants shaped in bone. “Mesh up. Floor to Lina.”
+RAE joined through the clip - a dry clarity at Jason’s mastoid, consonants shaped in bone. “Mesh up. Floor to Lina.”
 
 Lina’s voice warmed the same invisible path. “Floor accepted. Eyes right: storefront camera two, intermittent blink. Not ours.”
 
@@ -32,7 +32,7 @@ They didn’t go home. They went where paper said the city kept its old bones: a
 
 “Meter survey,” Lina said. “Contractor class. You carry the forms. Jason carries the keys to nothing.”
 
-Lina’s hands stayed in her jacket. “Gate latch is aluminum—clean. Camera on the corner box is cosmetic; the cable feeds nothing. We’re walking.”
+Lina’s hands stayed in her jacket. “Gate latch is aluminum - clean. Camera on the corner box is cosmetic; the cable feeds nothing. We’re walking.”
 
 They walked. The chain‑link gave under Jason’s palm like an instrument deciding whether to be tuned. Inside, angle‑iron racks held crates that remembered weight. Faded **safety posters** explained things everyone once knew.
 
@@ -88,7 +88,7 @@ The truck completed its **sweep** and parked at the office prefab. A man inside 
 
 “Two more points for the log,” Milo murmured. “Then we take our dignity and go.”
 
-They crossed to a second pad, this one under a **faded gantry** that remembered cranes. Jason touched the rail with two fingers—**contact beats distance**—and felt the yard’s old metal introduce him to itself. No nudge this time. Only listening.
+They crossed to a second pad, this one under a **faded gantry** that remembered cranes. Jason touched the rail with two fingers - **contact beats distance** - and felt the yard’s old metal introduce him to itself. No nudge this time. Only listening.
 
 “Document,” Lina said. She wrote the time, the weather, and three words: **‘no intervention performed.’**
 

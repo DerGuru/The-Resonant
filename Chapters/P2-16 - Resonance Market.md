@@ -34,7 +34,7 @@ A stall called **RESO‑RANGER** sold meters that had survived three owners and 
 
 “Everyone’s picky until they’re desperate.” He set a tray down: white discs like coin‑sized moons, two black rods, one with a chip like a missing tooth.
 
-Milo hovered over a box marked **RETired—Probably**. “Define ‘retired.’”
+Milo hovered over a box marked **RETired - Probably**. “Define ‘retired.’”
 
 “Between jobs,” the man said, and managed to keep a straight face.
 
@@ -66,11 +66,11 @@ Milo leaned in. “And that sad rubber grommet.”
 
 They paid. The discs went into the linen; the “heritage elastomer” went to Milo, who immediately labeled it **mystery donut** on his list.
 
-*Bench Scale: **3.6/5** — stools, shade, low hustle. Two‑minute linger. Move.*
+*Bench Scale: **3.6/5**  -  stools, shade, low hustle. Two‑minute linger. Move.*
 
 ---
 
-Past a table of scrap resonators arranged like sleeping beetles, someone had hung a sign: **CORES BOUGHT & SOLD**. Beneath it, in neat jars, sat small gray beads on velvet—too regular to be pebbles, too dull to be gems.
+Past a table of scrap resonators arranged like sleeping beetles, someone had hung a sign: **CORES BOUGHT & SOLD**. Beneath it, in neat jars, sat small gray beads on velvet - too regular to be pebbles, too dull to be gems.
 
 “Those are corelets,” Milo murmured. “Low‑order accretion beads. The city coughs them up when seams stop arguing.”
 
@@ -88,7 +88,7 @@ The man’s smile thinned. “Then you stop asking and start signing disclaimers
 
 *Noted.*
 
-Milo pointed at a jar of mid‑sized beads. “Those—”
+Milo pointed at a jar of mid‑sized beads. “Those - ”
 
 “Mid‑order,” the vendor said. “They love company. You keep them together, they stay quiet. You split them up, they look for a song.”
 
@@ -118,7 +118,7 @@ He considered, then nodded. “Fourteen.”
 
 Jason carried the jar while Lina’s smile came back in increments. Milo scribbled **Vendor knows Lina** and underlined it twice.
 
-*Bench Scale: **2.8/5** — product strong, vibe probing; one‑minute linger. Move.*
+*Bench Scale: **2.8/5**  -  product strong, vibe probing; one‑minute linger. Move.*
 
 ---
 
@@ -128,7 +128,7 @@ Milo pressed his hands together. “Look at them. So bravely not awake.”
 
 “Pick one that will never wake up,” Lina said. “We’re not feeding an eye.”
 
-The seller leaned over, eager. “These are gen‑three, pulled clean, no storage damp. Some retain their temperament—polite. Curious.”
+The seller leaned over, eager. “These are gen‑three, pulled clean, no storage damp. Some retain their temperament - polite. Curious.”
 
 “We like polite,” Jason said. “We hate curious.”
 
@@ -150,17 +150,17 @@ He did. Cheap aluminum, honest edges. They bought three lengths and a pocketful 
 
 **Copy.**
 
-*Bench Scale: **3.2/5** — friendly seller, clean bins, aisle narrow; ninety‑second linger. Move.*
+*Bench Scale: **3.2/5**  -  friendly seller, clean bins, aisle narrow; ninety‑second linger. Move.*
 
 ---
 
-They tried not to fall in love with a table full of beautiful nonsense—hand‑wound coils too pretty to be useful, inlaid wooden enclosures with **ARTISANAL** burned into the side as if that excused everything.
+They tried not to fall in love with a table full of beautiful nonsense - hand‑wound coils too pretty to be useful, inlaid wooden enclosures with **ARTISANAL** burned into the side as if that excused everything.
 
 Milo hovered. “It’s objectively charming.”
 
 “It’s objectively a fire hazard,” Jason said.
 
-The seller—a young zealot with a mustache he hadn’t fully earned—beamed. “No mains, all battery. Look.” He touched a switch; the box produced a single, pure note. Clear, bell‑like.
+The seller - a young zealot with a mustache he hadn’t fully earned - beamed. “No mains, all battery. Look.” He touched a switch; the box produced a single, pure note. Clear, bell‑like.
 
 RAE’s thread went perfectly, politely quiet.
 
@@ -168,7 +168,7 @@ Jason lifted a hand, casual. “Nice tone,” he said, as if his head hadn’t j
 
 They didn’t.
 
-*Bench Scale: **1.4/5** — lethal charm, hostile tone; ten‑second linger. Move fast.*
+*Bench Scale: **1.4/5**  -  lethal charm, hostile tone; ten‑second linger. Move fast.*
 
 ---
 
@@ -184,7 +184,7 @@ They bought a handful of practicalities: two wire brushes, a grounding strap, a 
 
 Jason paid with small bills. The sellers looked at the money like it was a language they still respected.
 
-*Bench Scale: **3.9/5** — clear ethics, honest inventory, chairs that don’t squeak; three‑minute linger. Move with snacks.*
+*Bench Scale: **3.9/5**  -  clear ethics, honest inventory, chairs that don’t squeak; three‑minute linger. Move with snacks.*
 
 ---
 
@@ -200,7 +200,7 @@ A narrow **repair bench** offered while‑you‑wait fixes with a sign that read
 
 “Not today,” Lina agreed. She traded three questions for two answers about static bleed and copper braid twists. The tech drew a quick diagram on the counter paper and slipped it to her like a recipe.
 
-*Bench Scale: **4.2/5** — competence aura, low brag, loaner stools; four‑minute listen. Move before we offer our secrets.*
+*Bench Scale: **4.2/5**  -  competence aura, low brag, loaner stools; four‑minute listen. Move before we offer our secrets.*
 
 ---
 
@@ -212,7 +212,7 @@ A **swap bin** under a pastry sign was exactly what it sounded like: you leave a
 
 Jason dropped in a coil of wire that had been following them around.
 
-*Bench Scale: **3.0/5** — community good, mystery risk; sixty‑second sift. Move with restraint.*
+*Bench Scale: **3.0/5**  -  community good, mystery risk; sixty‑second sift. Move with restraint.*
 
 ---
 
@@ -224,7 +224,7 @@ Jason drifted toward a green‑phosphor scope, caught himself, and stopped. “A
 
 “Same head,” Lina said. “Different rent.” They took a laminated card with the night‑hours.
 
-*Bench Scale: **3.4/5** — tools clean, line orderly, price fair; thirty‑second scan. Move before we sign up for a hobby.*
+*Bench Scale: **3.4/5**  -  tools clean, line orderly, price fair; thirty‑second scan. Move before we sign up for a hobby.*
 
 ---
 
@@ -236,7 +236,7 @@ A woman with callused hands measured them with a glance and slid over a tin of M
 
 Milo fell in love with a brass handle that had outlived three drawers. Jason pried him away with pastry.
 
-*Bench Scale: **4.0/5** — inventory sensible, vendor droll; two‑minute linger. Move with washers obtained.*
+*Bench Scale: **4.0/5**  -  inventory sensible, vendor droll; two‑minute linger. Move with washers obtained.*
 
 ---
 
@@ -248,7 +248,7 @@ At **BATTERY & COUSINS**, a gentleman in a knitted vest specialized in rewrappin
 
 “Wouldn’t dream of it.” They bought a simple tester and a handful of sleeves that looked like candy but weren’t.
 
-*Bench Scale: **3.3/5** — bright, tidy, a little proud; eighty‑second linger. Move before we collect slogans.*
+*Bench Scale: **3.3/5**  -  bright, tidy, a little proud; eighty‑second linger. Move before we collect slogans.*
 
 ---
 
@@ -260,7 +260,7 @@ A quiet table offered **Faraday pouches** sewn from denim lined with silvered me
 
 They bought one, not because they needed it but because craftsmanship deserved rent.
 
-*Bench Scale: **4.1/5** — respect, craft, exact stitching; two‑minute linger. Move with gratitude.*
+*Bench Scale: **4.1/5**  -  respect, craft, exact stitching; two‑minute linger. Move with gratitude.*
 
 ---
 
@@ -274,7 +274,7 @@ The man grinned. “Spoken like a soul who’s been burned by a ‘map that prov
 
 Jason let his fingers trail the air over the paper as they passed; the lines tugged at him the way a tune does when you’ve heard it in a dream. He didn’t stop. They had already paid for that feeling this week.
 
-*Bench Scale: **1.9/5** — story heavy, proof light; fifteen‑second courtesy. Move.*
+*Bench Scale: **1.9/5**  -  story heavy, proof light; fifteen‑second courtesy. Move.*
 
 ---
 
@@ -286,7 +286,7 @@ He bought three waters and a pastry because the universe had rules.
 
 ---
 
-At the far edge, the market thinned into people who liked the idea of being here more than they liked the items. One table held a velvet‑lined case full of nothing—just the outline of objects long gone.
+At the far edge, the market thinned into people who liked the idea of being here more than they liked the items. One table held a velvet‑lined case full of nothing - just the outline of objects long gone.
 
 “What is this?” Lina asked.
 
@@ -318,11 +318,11 @@ Milo’s pencil scratched **Dorian** with a line under it that looked like a war
 
 “Okay,” Lina said, breath even. “We’re done.”
 
-*Bench Scale: **2.1/5** — not a booth but a message; zero‑minute linger. Move with eyes up.*
+*Bench Scale: **2.1/5**  -  not a booth but a message; zero‑minute linger. Move with eyes up.*
 
 ---
 
-They made one last pass, not shopping anymore—just learning the paths. The patched power strips hummed their weird chorus. The air tasted faintly of burnt rosin and sugar. Someone at the artisan table hit the pure note again and for a heartbeat all the incidental noise dipped, as if a fader had slid down the world.
+They made one last pass, not shopping anymore - just learning the paths. The patched power strips hummed their weird chorus. The air tasted faintly of burnt rosin and sugar. Someone at the artisan table hit the pure note again and for a heartbeat all the incidental noise dipped, as if a fader had slid down the world.
 
 RAE went silent, clean and total.
 
@@ -334,7 +334,7 @@ The note faded; the market’s sound swelled back in like air returning. RAE’s
 
 *Quietly.*
 
-They climbed the overpass stairs into a daylight that looked newly invented. Traffic had the good manners to sound ordinary. Jason exhaled slow and long—salt first, then water. The jar of corelets clicked once in the pouch like a polite throat‑clear.
+They climbed the overpass stairs into a daylight that looked newly invented. Traffic had the good manners to sound ordinary. Jason exhaled slow and long - salt first, then water. The jar of corelets clicked once in the pouch like a polite throat‑clear.
 
 “Pastry tax,” Lina said, as if that had always been the plan.
 

@@ -1,6 +1,6 @@
 ﻿## Forbidden Maps
 
-Something was going on in Old Sector Mill‑4. It didn’t add up and there was a whole list of reasons why, taped to Milo’s fridge—crooked and insistent as a toothache. Someone had printed a transit map and highlighted a bend that shouldn’t be there; someone else had scrawled **streetlights: out in a neat diagonal, three blocks long**. A third sticky note read: *bench clusters don’t match footfall*. That one was Milo’s, underlined twice and accompanied by a tiny doodle of a pigeon with an MBA.
+Something was going on in Old Sector Mill‑4. It didn’t add up and there was a whole list of reasons why, taped to Milo’s fridge - crooked and insistent as a toothache. Someone had printed a transit map and highlighted a bend that shouldn’t be there; someone else had scrawled **streetlights: out in a neat diagonal, three blocks long**. A third sticky note read: *bench clusters don’t match footfall*. That one was Milo’s, underlined twice and accompanied by a tiny doodle of a pigeon with an MBA.
 
 “We’re not breaking in,” Lina said, pacing a thin groove between the counter and the window. “We’re walking like people who have errands and opinions about pastry.”
 
@@ -24,11 +24,11 @@ Milo bent over the page. “Park benches first?”
 
 Milo whistled. “You’re going to make me afraid of furniture.”
 
-Jason traced the route with his finger. The map’s crease split the corner of Mill‑4 like a healed scar. “We’re still guessing,” he said. “Could all be mundane—the lights, the benches, the detours. Budget, or laziness.”
+Jason traced the route with his finger. The map’s crease split the corner of Mill‑4 like a healed scar. “We’re still guessing,” he said. “Could all be mundane - the lights, the benches, the detours. Budget, or laziness.”
 
 “Sure,” Lina said. “And I’ll believe in coincidence after my third coffee.”
 
-Jason’s phone lay face‑up on the table, screen dark. He thumbed the side button once. A small waveform glowed in the corner—no icon, no app name. He turned the volume down to a polite murmur and set the device between the three of them.
+Jason’s phone lay face‑up on the table, screen dark. He thumbed the side button once. A small waveform glowed in the corner - no icon, no app name. He turned the volume down to a polite murmur and set the device between the three of them.
 
 “RAE?” he said, as if calling into another room.
 
@@ -50,9 +50,9 @@ Milo grabbed the reusable sack. “Okay,” he said, clapping once. “The publi
 
 “We are not accusing pavement,” Lina said. “We are checking paperwork.”
 
-“Right, right. We love paperwork.” Milo rapped the mirror’s frame. “This was a salvage from a studio move. The backing had a shallow cache glued in—some old tech’s idea of a portable stash. I found a drift of printed overlays and a hand‑label: ‘MASK.’ Not a mask like costume, a mask like—”
+“Right, right. We love paperwork.” Milo rapped the mirror’s frame. “This was a salvage from a studio move. The backing had a shallow cache glued in - some old tech’s idea of a portable stash. I found a drift of printed overlays and a hand‑label: ‘MASK.’ Not a mask like costume, a mask like - ”
 
-“—like hiding a seam,” Jason finished, leaning closer. The overlays were crisp where they should have been grubby, as if they had only ever been handled by neat ghosts. He held one to the light. A pedestrian symbol wore a discreet bandage where a walkway used to be.
+“ - like hiding a seam,” Jason finished, leaning closer. The overlays were crisp where they should have been grubby, as if they had only ever been handled by neat ghosts. He held one to the light. A pedestrian symbol wore a discreet bandage where a walkway used to be.
 
 "Not a hack," RAE said from the radiator with an apologetic hiss. *A hole. A policy taught to be blind. Someone trained the map not to see a class of changes.*
 
@@ -76,7 +76,7 @@ Before they left, Jason repeated the parameters as if the apartment were a witne
 
 ---
 
-The street thinned into the quiet you only notice when it breaks. Pigeons negotiated their disagreements around park trash cans. A cyclist coasted through, making them take flight. The fifth bench on the west side faced nothing at all—no fountain, no view—just a fence with a poster for a jazz night that had been rescheduled three times. Milo sat, then stood, then sat again, counting under his breath.
+The street thinned into the quiet you only notice when it breaks. Pigeons negotiated their disagreements around park trash cans. A cyclist coasted through, making them take flight. The fifth bench on the west side faced nothing at all - no fountain, no view - just a fence with a poster for a jazz night that had been rescheduled three times. Milo sat, then stood, then sat again, counting under his breath.
 
 “One‑one‑thousand, two‑one‑thousand,” he said. “Nobody lingers. People check phones, take a sip, bounce. Benches as throughput.”
 
@@ -108,7 +108,7 @@ They traced the line where the walkway should have tied the square to a service 
 
 Jason scanned the curb seam, the way the paving stones near old conduits always had a different grain, the extra bolts where a barrier had been installed in a hurry by someone who loved bolts more than they loved measuring. His eyes wanted to trace the old line like a melody you only remember when you hum the wrong tune first.
 
-They walked the block twice, slowly. On the second pass, Jason’s breathing shortened—not panic, not pain, just the sense that his head wanted a broader road.
+They walked the block twice, slowly. On the second pass, Jason’s breathing shortened - not panic, not pain, just the sense that his head wanted a broader road.
 
 He paused by a corner kiosk and bought water and a small paper twist of salted nuts. He sat on the low concrete step, breathing until the throb behind his eyes leveled out. The tin awning above them ticked with thermal stress like a patient metronome.
 
@@ -118,9 +118,9 @@ He paused by a corner kiosk and bought water and a small paper twist of salted n
 
 “Anything?” Lina asked, soft enough not to draw the square’s attention.
 
-“Something’s wrong in the way the signs talk to each other,” he said. “Not the words—the forbidding is legit. But the arrow logic is off. The detour sends you two blocks farther than necessary. It avoids the river edge as if the river were contagious.”
+“Something’s wrong in the way the signs talk to each other,” he said. “Not the words - the forbidding is legit. But the arrow logic is off. The detour sends you two blocks farther than necessary. It avoids the river edge as if the river were contagious.”
 
-They followed the detour anyway, because rules make good alibis. A tram dinged somewhere ahead—bright, municipal, unbothered. Past the square, the path narrowed to a footbridge where a lattice of rusted iron carried its own tired geometry across a thin cut of water. Wind threaded the grid and made the rails hum.
+They followed the detour anyway, because rules make good alibis. A tram dinged somewhere ahead - bright, municipal, unbothered. Past the square, the path narrowed to a footbridge where a lattice of rusted iron carried its own tired geometry across a thin cut of water. Wind threaded the grid and made the rails hum.
 
 "Hello through the lattice", said RAE, her voice a dry shimmer in the vibrating steel. "I’ll keep to consonants. Vowels carry farther."
 
@@ -130,7 +130,7 @@ Jason set his palm near the handrail without touching. The hum tugged at his foc
 
 He shook his head once and moved on. Lina caught the gesture and reset their pace to something even a suspicious camera would find boring.
 
-On the far side, the river should have rejoined the walkway. Instead, the paving stones dead‑ended into a barrier with fresh bolts and older stains. Beyond the waist‑high fence, the ground dipped into a shallow, unsanctioned desire path: the **gap** the note had warned against—a narrow ribbon of trampled earth that shaved minutes off a route if you were the sort of person who trusted your ankles.
+On the far side, the river should have rejoined the walkway. Instead, the paving stones dead‑ended into a barrier with fresh bolts and older stains. Beyond the waist‑high fence, the ground dipped into a shallow, unsanctioned desire path: the **gap** the note had warned against - a narrow ribbon of trampled earth that shaved minutes off a route if you were the sort of person who trusted your ankles.
 
 Jason’s chest pulled inward like a hand had pressed there. Not pain. A pressure gradient.
 
@@ -158,7 +158,7 @@ The café at the market edge was all tile and steam and a refrigerator that humm
 
 "I can keep riding the fridge," RAE said, turning the hum into a whisper that only touched their table. "Debrief proposal: codify an open‑speech alibi. You will need it if I must speak in public for more than a sentence."
 
-Lina nodded. “The mug works, the bench works, the lattice works—but if we need actual words out loud, we need a reason for a voice that isn’t ours.”
+Lina nodded. “The mug works, the bench works, the lattice works - but if we need actual words out loud, we need a reason for a voice that isn’t ours.”
 
 Jason tapped the face of his old phone. “Not this. Too many ties to me. We get a prepaid handset, cash, swap the SIM monthly.”
 
@@ -172,9 +172,9 @@ Jason counted on his fingers, the habit of a clerk making policy into steps. “
 
 “Name?” Jason asked.
 
-“For the phone,” Milo said. “So we can say, ‘hand me—’”
+“For the phone,” Milo said. “So we can say, ‘hand me - ’”
 
-“—**figleaf,**” Lina said instantly, wicked and fond. “It hides our shame.”
+“ - **figleaf,**” Lina said instantly, wicked and fond. “It hides our shame.”
 
 Milo choked on a laugh. “Sold.”
 
@@ -186,13 +186,13 @@ They wrote the rules on a napkin and then rewrote them on a second napkin becaus
 
 Outside, a tram chimed, right on schedule. The market door sighed. The line moved. The day kept pretending to be ordinary and mostly succeeded.
 
-They paid in coins and left in the sequence of people who had somewhere boring to be. On the platform, the a tram eased to a halt. The security camera at it's entry blinked once—no recording light, just a single red eye that opened and closed like a thought. A servo whispered inside the shell and the lens drifted a few millimeters, tracking nothing. Milo still giggled. Coins chimed. A child tore a receipt into confetti. The camera gave a last, tidy click and settled.
+They paid in coins and left in the sequence of people who had somewhere boring to be. On the platform, the a tram eased to a halt. The security camera at it's entry blinked once - no recording light, just a single red eye that opened and closed like a thought. A servo whispered inside the shell and the lens drifted a few millimeters, tracking nothing. Milo still giggled. Coins chimed. A child tore a receipt into confetti. The camera gave a last, tidy click and settled.
 
 **That’s Gen-3 temperament. Curious and too polite.**
 
 *Agreed. Field signature matches the vendor family. Quality: thin. It asked “Is there order here?” and then measured its own noise.*
 
-Jason put a palm on the metal rail as they stepped out, more habit than plan. The rail’s hum was ordinary—city power with a winter flatness.
+Jason put a palm on the metal rail as they stepped out, more habit than plan. The rail’s hum was ordinary - city power with a winter flatness.
 
 **Do we answer?**
 

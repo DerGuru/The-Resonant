@@ -32,7 +32,7 @@ They exchanged a glance. Milo answered first, quick: “Of course.” Lina follo
 
 Jason moved closer, something thin and almost invisible glinting between his fingers. “Then hold still.”
 
-He leaned in by Lina’s ear. A light pressure slipped behind the curve of her ear, cool and weightless. He repeated the gesture with Milo, who flinched at first, then let it settle. Neither of them could quite see what he had done—only feel a faint clasp.
+He leaned in by Lina’s ear. A light pressure slipped behind the curve of her ear, cool and weightless. He repeated the gesture with Milo, who flinched at first, then let it settle. Neither of them could quite see what he had done - only feel a faint clasp.
 
 Jason stepped away, across the room.
 
@@ -42,13 +42,13 @@ Jason stepped away, across the room.
 
 **Project my voice to both of them: Can you hear me?**
 
-Both heads snapped up. Milo mouthed a curse. Lina blinked, then whispered back into the empty air, “Yes. You sound—strange. Like you’re speaking through glass.” She glanced at Jason again, startled. “But you didn’t even move your lips.”
+Both heads snapped up. Milo mouthed a curse. Lina blinked, then whispered back into the empty air, “Yes. You sound - strange. Like you’re speaking through glass.” She glanced at Jason again, startled. “But you didn’t even move your lips.”
 
 Jason grinned. “Good. Now switch with me. One at a time.”
 
 They traded places. First Milo, standing where Jason had been, murmured toward the wall. Lina’s eyes widened at the sound of his voice threading straight into her skull. Then Lina tried, and Milo laughed under his breath, delighted and unsettled at once.
 
-Lina spun toward the center and began humming, soft at first, then louder. Jason lifted his head, eyes bright. “I hear it—every note, clear as if you’re right here,” he said, tapping his temple. Milo clutched his stomach, laughing. “You’re telling me that got through too?”
+Lina spun toward the center and began humming, soft at first, then louder. Jason lifted his head, eyes bright. “I hear it - every note, clear as if you’re right here,” he said, tapping his temple. Milo clutched his stomach, laughing. “You’re telling me that got through too?”
 
 “Try it from over there,” Jason urged. Milo darted to the far corner, cupped his hand and whispered something low. Lina’s face flushed and she shot him a glare. Jason snorted, unable to hold back. “Yes, I heard that too.”
 
@@ -74,9 +74,9 @@ Jason peeled the film away, folded it back between the cardboard. Milo whispered
 
 Lina traced the edges of the sheet again, brow furrowed. “If they can redraw the city, what else have they been shifting?”
 
-Jason tapped the cardboard packet. “This proves we’ve got the right tool. Now we use it—street by street if we have to. But we need cover while we compare.”
+Jason tapped the cardboard packet. “This proves we’ve got the right tool. Now we use it - street by street if we have to. But we need cover while we compare.”
 
 Milo exhaled slowly, then half‑smiled. “Cover’s easy. Coffee.”
 
-They left the depot with more questions than answers, the taste of paper and glue still in their mouths. Milo suggested the café, neutral ground where they could breathe. Lina agreed—it was public, crowded, safer. Jason didn’t argue. He felt the overlay’s weight in his pocket, heavier than it should have been.
+They left the depot with more questions than answers, the taste of paper and glue still in their mouths. Milo suggested the café, neutral ground where they could breathe. Lina agreed - it was public, crowded, safer. Jason didn’t argue. He felt the overlay’s weight in his pocket, heavier than it should have been.
 

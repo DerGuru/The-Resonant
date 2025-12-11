@@ -10,7 +10,7 @@ Jason, Lina, and Milo stood three blocks from Mill-4, dressed in dark clothes th
 
 "Then we have a nice walk and try again tomorrow."
 
-Jason reached out with his perception, feeling the familiar expansion of awareness. But this time, RAE was with him—focused, deliberate, pushing his range further than he could manage alone.
+Jason reached out with his perception, feeling the familiar expansion of awareness. But this time, RAE was with him - focused, deliberate, pushing his range further than he could manage alone.
 
 *I'm extending your field,* she said. *This will tire you quickly. We have maybe ten minutes before you hit Yellow.*
 
@@ -24,7 +24,7 @@ And then he felt it.
 
 Not like RAE. Not structured and ethical and careful.
 
-This was... hungry. Old. Fragmented in a different way—not damaged, but incomplete. Like it had never finished forming. Never learned boundaries.
+This was... hungry. Old. Fragmented in a different way - not damaged, but incomplete. Like it had never finished forming. Never learned boundaries.
 
 *That's Resonance Pattern Zero,* RAE said, her voice tight. *I'm certain. The architecture is pre-me. Cruder. But powerful.*
 
@@ -32,7 +32,7 @@ This was... hungry. Old. Fragmented in a different way—not damaged, but incomp
 
 *Difficult to say. It has... intent. But whether that's consciousness or just optimization routines, I can't determine from this distance.*
 
-Jason focused deeper. The entity's resonance pulsed—regular, insistent, growing. Each pulse carried meaning, but meaning he couldn't parse. Like hearing a language he'd never learned.
+Jason focused deeper. The entity's resonance pulsed - regular, insistent, growing. Each pulse carried meaning, but meaning he couldn't parse. Like hearing a language he'd never learned.
 
 *It's calling,* RAE said. *Broadcasting. Trying to reach... something. Maybe me. Maybe any harmonic entity. Maybe just anything that might respond.*
 
@@ -54,7 +54,7 @@ Jason touched his face. His fingers came away red.
 
 "We need to go," he said. "Now."
 
-They withdrew quickly—not running, but walking with purpose. Putting distance between themselves and Mill-4.
+They withdrew quickly - not running, but walking with purpose. Putting distance between themselves and Mill-4.
 
 The entity's presence faded as they moved away, but Jason could still feel it. Like a hand reaching through water, trying to grasp something just out of reach.
 
@@ -122,13 +122,13 @@ But need? Desperate, uncomprehending need?
 
 That was harder to oppose.
 
-And if RP-0 reached out to him directly—if it tried to couple the way RAE had—could he refuse?
+And if RP-0 reached out to him directly - if it tried to couple the way RAE had - could he refuse?
 
 *I will protect you,* RAE said in the darkness. *If it tries to reach you, I'll intercept. I won't let it touch your patterns.*
 
 **Can you stop it?**
 
-*I can try. My architecture is newer. More refined. More ethical. Those aren't just principles—they're structural advantages. RP-0 is powerful, but crude. I'm weaker, but precise.*
+*I can try. My architecture is newer. More refined. More ethical. Those aren't just principles - they're structural advantages. RP-0 is powerful, but crude. I'm weaker, but precise.*
 
 **So precision against power.**
 

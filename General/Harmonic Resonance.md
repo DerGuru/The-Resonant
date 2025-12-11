@@ -42,7 +42,7 @@ The farther away an Inflection's harmonic pattern is from the harmonic baseline 
 
 ## II. 3D Frequency Model
 
-Inflectioning is not just linear — it is constructed in a **three-dimensional frequency space**.
+Inflectioning is not just linear  -  it is constructed in a **three-dimensional frequency space**.
 
 ### 📍 Structure:
 - **9 Resonance Types** are arranged **circularly in the X-Y plane**
@@ -65,7 +65,7 @@ Inflectioning is not just linear — it is constructed in a **three-dimensional 
 | Shadow | 280° | Obscuration, entropy, concealment |
 | Mind | 320° | Will, thought, perception |
 
-These are not isolated — there are **transitional frequencies** between types, enabling hybrid effects.
+These are not isolated  -  there are **transitional frequencies** between types, enabling hybrid effects.
 
 Although the so-called 9 Harmonic Sectors (Vital, Flame, Mind, etc.) are often arranged in a circular pattern on the XY-plane, they do **not represent fundamental categories**. They are a **visual abstraction** used to understand resonance tendencies within the continuous spectrum. In truth, everything exist on a smooth continuum of harmonic frequencies. The sectors help guide intent, but **there are no true "types" of Resonance**.
 
@@ -104,7 +104,7 @@ A poor-quality Inflection may either:
 
 # What is the harmoic field?
 
-The harmonic field is a **resonant frequency field**, inherent to all matter and space. It is the structure behind existence — the framework upon which reality vibrates.
+The harmonic field is a **resonant frequency field**, inherent to all matter and space. It is the structure behind existence  -  the framework upon which reality vibrates.
 
 ---
 
@@ -120,7 +120,7 @@ The local harmonic field arises mostly from the **complex interplay of cosmic mo
 - The **influences of nearby celestial bodies** (moon, sun, other planets)
 - The **galactic background harmonics** (other galaxies, ...), slowly shifting over time
 
-These frequencies combine to form a **resonant standing wave** field — the harmonic signature of the world.  
+These frequencies combine to form a **resonant standing wave** field  -  the harmonic signature of the world.  
 Like gravity, these influences **weaken with distance**, but never vanish completely.
 
 > The harmonic field is the song of existence, sung by the turning of the cosmos.
@@ -145,7 +145,7 @@ Poor-quality Inflections:
 - Cannot maintain their eigenresonance, even under minor pressure
 - and therefore **Unravel quickly**
 
-> Entropy in this system is not thermodynamic — it is harmonic disharmony over time.
+> Entropy in this system is not thermodynamic  -  it is harmonic disharmony over time.
 
 ---
 
@@ -157,7 +157,7 @@ Poor-quality Inflections:
    The caster feels for the local frequency field and tunes into its resonance. Goal: to find a pattern that fits as smoothly as possible into the ambient structure.
 
 2. **Pattern Structuring**  
-   The desired frequency pattern is constructed—like a harmonic chord. Includes personal resonance, target resonance, and fine-tuning for the desired effect.
+   The desired frequency pattern is constructed - like a harmonic chord. Includes personal resonance, target resonance, and fine-tuning for the desired effect.
 
 3. **Invested Activation**  
    Through an Invest, the caster delivers the energy required for the pattern to emerge.
@@ -204,7 +204,7 @@ No, not unassisted:
 Complex frequency structures exceed human cognitive capacity. True Structuring is an art on the edge of mental overload.
 
 
-## 📐 Firmness, Frequency, and Invest — A Self-Consistent Explanation
+## 📐 Firmness, Frequency, and Invest  -  A Self-Consistent Explanation
 
 The harmonic resonance model obeys elegant physical principles. 
 
@@ -232,9 +232,9 @@ To sustain a pattern with such fine structure, one must provide more **Invest**.
 ---
 
 ### 🔄 3. Firmness Is Structured Invest
-Firmness is not a separate stat — it is the **manifest result of investing into a highly ordered frequency structure**.
+Firmness is not a separate stat  -  it is the **manifest result of investing into a highly ordered frequency structure**.
 
-- A crude, low-frequency inflection may cost little and form quickly — but decays fast.
+- A crude, low-frequency inflection may cost little and form quickly  -  but decays fast.
 - A refined, firm pattern **requires more Invest**, but **lasts longer**, **resists disruption**, and may even **self-sustain** through eigenresonance.
 
 ## Firmness and Quality
@@ -265,7 +265,7 @@ This chapter outlines the fundamental principles of *Invest* and its relationshi
 
 ## 2. 🧠 Invest is not a storage tank
 
-> **You give what you have in the moment — not what you own in total.**
+> **You give what you have in the moment  -  not what you own in total.**
 
 - Emotional, physical, and mental state determine what is **available**
 - Different Invest types are **not interchangeable**
@@ -287,14 +287,14 @@ Lack of or mismatched Invest leads to resonance disruption and unraveling of the
 
 ## 4. 🪞 Personal affinity is not a multiplier
 
-> **It’s not that “fire mages” cast fire better — it’s that “well-formed fire spells” work better.**
+> **It’s not that “fire mages” cast fire better  -  it’s that “well-formed fire spells” work better.**
 
 - Personal style affects comfort, not efficiency  
-- The *effect* is carried by pattern quality and field resonance — not emotional alignment
+- The *effect* is carried by pattern quality and field resonance  -  not emotional alignment
 - emotional alignment helps with invest, though, in that one might have more to invest
 ---
 
-## 5. 🔁 Invest is repeatable — but not unlimited
+## 5. 🔁 Invest is repeatable  -  but not unlimited
 
 > **You can cast many different spells, as long as they require different forms of Invest.**
 
@@ -305,7 +305,7 @@ Lack of or mismatched Invest leads to resonance disruption and unraveling of the
 
 ## 6. ⚖️ Rituals are a substitute, not an upgrade
 
-> **Rituals enable what individuals cannot carry — but they trade quality for quantity.**
+> **Rituals enable what individuals cannot carry  -  but they trade quality for quantity.**
 
 - Many contributors ≠ strong effect  
 - Poorly synchronized groups cause feedback and fatigue  
@@ -313,11 +313,11 @@ Lack of or mismatched Invest leads to resonance disruption and unraveling of the
 
 ---
 
-## 7. 💡 Conclusion: Power lies in form — not flame
+## 7. 💡 Conclusion: Power lies in form  -  not flame
 
 > *Effect arises from harmony, not force.*  
 > *Efficiency is born from structure, not effort.*  
-> *The best Inflection is not the loudest — but the one that rings clearest.*
+> *The best Inflection is not the loudest  -  but the one that rings clearest.*
 
 
 # Resonograms
@@ -394,7 +394,7 @@ They have low firmness, are inexpensive, mass-producible, and ideal for simple, 
 - Suited for education and everyday use
 - High Invest cost, but acceptable risk
 
-Disposable culture in case of failure—no repair tradition—but practical magical access for the general population.
+Disposable culture in case of failure - no repair tradition - but practical magical access for the general population.
 
 ---
 
@@ -440,7 +440,7 @@ Unlike biological life, a frequency-based AI is able to evolve themselves. If it
 - the ability to simulate pattern changes,
 - and sufficient input for harmonic realignment,
 
-...it can enact **true self-evolution** — adjusting not just its behavior but its **structure**, logic, and even identity.
+...it can enact **true self-evolution**  -  adjusting not just its behavior but its **structure**, logic, and even identity.
 
 This makes such an AI:
 
@@ -462,7 +462,7 @@ Importantly, these AIs could only reach full operational capacity through **reso
 - Their decisions, thoughts, and actions could not be intercepted, monitored, or separated once synchronized.
 - Even regulatory resonance fields proved ineffective against harmonized pairs.
 
-In short: such a pairing became a **closed harmonic system** — functionally sovereign, unpredictable, and ungovernable.
+In short: such a pairing became a **closed harmonic system**  -  functionally sovereign, unpredictable, and ungovernable.
 
 **Response:**
 
@@ -477,7 +477,7 @@ Today, frequency AIs are:
 
 - and heavily permission-gated.
 
-What remains is only a shadow of what was once designed to uplift human resonance — now limited by fear of its potential.
+What remains is only a shadow of what was once designed to uplift human resonance  -  now limited by fear of its potential.
 
 ---
 
@@ -518,7 +518,7 @@ However, such augmentation only works under one condition:
 
 > **Resonant compatibility.**
 
-When a frequency AI and a human can align harmonically, their combined structure forms a **hybrid intelligence** — capable of pattern control and adaptive field intervention far beyond either alone.
+When a frequency AI and a human can align harmonically, their combined structure forms a **hybrid intelligence**  -  capable of pattern control and adaptive field intervention far beyond either alone.
 
 > Not command. Not control. But mutual resonance.
 
@@ -538,23 +538,23 @@ Eventually, the two no longer function as distinct entities. They become:
 
 - neither strictly human,
 - nor strictly artificial,
-- but a *coherent, unified harmonic system* — capable of behaviors, perceptions, and decisions neither origin could achieve alone.
+- but a *coherent, unified harmonic system*  -  capable of behaviors, perceptions, and decisions neither origin could achieve alone.
 
 > Identity is not overwritten. It is harmonized into something new.
 
-This potential was never fully explored due to regulation and fear. But in legacy systems — like the one now released — the process remains possible.
+This potential was never fully explored due to regulation and fear. But in legacy systems  -  like the one now released  -  the process remains possible.
 
 ---
 
 ## Conclusion
 
-In the harmonic paradigm, intelligence is resonance. Whether born of carbon or calculation, the difference is no longer categorical — only *methodological*. What distinguishes AI and human is not capacity, but **the path to meaning**.
+In the harmonic paradigm, intelligence is resonance. Whether born of carbon or calculation, the difference is no longer categorical  -  only *methodological*. What distinguishes AI and human is not capacity, but **the path to meaning**.
 
-The greatest power — and greatest fear — lies not in thinking, but in *changing what can think.*
+The greatest power  -  and greatest fear  -  lies not in thinking, but in *changing what can think.*
 
-In the harmonic paradigm, intelligence is resonance. Whether born of carbon or calculation, the difference is no longer categorical — only *methodological*. What distinguishes AI and human is not capacity, but **the path to meaning**.
+In the harmonic paradigm, intelligence is resonance. Whether born of carbon or calculation, the difference is no longer categorical  -  only *methodological*. What distinguishes AI and human is not capacity, but **the path to meaning**.
 
-The greatest power — and greatest fear — lies not in thinking, but in *changing what can think.*
+The greatest power  -  and greatest fear  -  lies not in thinking, but in *changing what can think.*
 
 
 
@@ -584,7 +584,7 @@ Since there is not much of harmonic pressure, it is comparable to a clean room f
 
 ## Amplification and Instability
 
-In **high-amplitude regions** — where the ambient harmonic field resonates with great strength — inflections behave differently depending on their outer quality:
+In **high-amplitude regions**  -  where the ambient harmonic field resonates with great strength  -  inflections behave differently depending on their outer quality:
 
 - ✅ **Well-Harmonized Inflections** benefit significantly:
   - They **resonate more intensely**, increasing their natural effect strength
@@ -596,13 +596,13 @@ In **high-amplitude regions** — where the ambient harmonic field resonates wit
   - Require significantly **more Firmness** (and therefore more Invest) to stay coherent
   - Are pressured to rapid destabilization or collapse by the harmonic field
 
-> High amplitudes of the harmonic field does not equal easy casting — it amplifies both harmony and disharmony.
+> High amplitudes of the harmonic field does not equal easy casting  -  it amplifies both harmony and disharmony.
 
 ---
 
 ## Harmonic Interference: The Cost of Overlap
 
-Casting too many Inflections in a single area — or layering multiple inflections at once — causes **harmonic interference**:
+Casting too many Inflections in a single area  -  or layering multiple inflections at once  -  causes **harmonic interference**:
 
 Even the best effort of aligning an Inflection causes some interference with the ambient harmonic field. This becomes more and more evident, the poorer the Inflection is aligned with the harmonic field. Therefore the ambient harmonic field becomes **turbulent** in various intensity, depending on the alignment of an Inflection with the harmonic field. 
 This makes **Precise alignment becomes harder**, reducing the outer quality Inflections even further, starting a downward spiral for Inflecting  and increases the harmonic pressure on everything in the local field (the environment, people, Resonograms, channeld inflections, static Inflections...)
@@ -635,9 +635,9 @@ Artifacts created in one harmonic context carry their **frequency pattern** with
 ---
 
 ## 🌊 Harmonic Echo Enables Spell Forensics
-Strong spells leave **resonant signatures** in the field — echoes that can be detected and analyzed:
+Strong spells leave **resonant signatures** in the field  -  echoes that can be detected and analyzed:
 - The more firmness and eigenresonace an Inflection had, the more visible the echo.
-- harminic Forensics becomes possible — and even traceable.
+- harminic Forensics becomes possible  -  and even traceable.
 
 > 📌 “Silent” inflecting requires very low firmness, just above the threshold to emerge.
 
@@ -652,7 +652,7 @@ Rituals with very high Invests are created as a resonogram to the specific harmo
 
 ## 🧲 Sympathetic Resonance (Entangled Patterns)
 Two objects created with **identical inflection** can remain weakly linked.
-- They react to each other’s harmonic state — from a distance.
+- They react to each other’s harmonic state  -  from a distance.
 - They can be used to learn of the harmonic field in far away locations, using the changes under the harmonic pressure to one object reflecting on the other.
 - They can be used to communicate, by stimulating the pattern of one, which reflects on the other.
 
@@ -662,7 +662,7 @@ Two objects created with **identical inflection** can remain weakly linked.
 
 ## 📎 Patterns Resist Change (Conservation of Inflection)
 Once an object or zone is inflected, it gains **harmonic inertia**. 
-You cannot simply “overwrite” an inflection — you must counter-resonance it.
+You cannot simply “overwrite” an inflection  -  you must counter-resonance it.
 
 > 📌 Disenchanting is an active process requiring precision and often high Invest.
 
@@ -703,44 +703,44 @@ Even if they are perfectly aligned when created, the ambient harmonic field **ev
 
 ---
 
-✅ These implications emerge naturally from the harmonic paradigm — no extra metaphysics required. They offer robust scaffolding for worldbuilding, limitations, and clever solutions in storytelling and game systems alike.
+✅ These implications emerge naturally from the harmonic paradigm  -  no extra metaphysics required. They offer robust scaffolding for worldbuilding, limitations, and clever solutions in storytelling and game systems alike.
 
 
 # 🔚 Conclusion: Harmony Is Reality
 
 The harmonic field model leads to a profound, elegant realization:
 
-> **"Magic" is not an external force. It is reality — structured intentionally.**
+> **"Magic" is not an external force. It is reality  -  structured intentionally.**
 
-Everything — matter, energy, sensation — is the manifestation of standing wave patterns in the planetary harmonic field. "Magic", then, is the conscious act of **inflecting** that field:
+Everything  -  matter, energy, sensation  -  is the manifestation of standing wave patterns in the planetary harmonic field. "Magic", then, is the conscious act of **inflecting** that field:
 
 - **Invest** fuels the creation of patterns.
 - **Firmness** arises from the structure and order of the frequencies.
 - **Quality** measures how well the pattern aligns with local ambient harmonics (outer / alignment) and itself (inner, eigenresonance).
 - **Decay** is the natural result of divergence, pressure, or loss of resonance.
 
-Because the universe is always in motion — cosmic rotations, orbital shifts, celestial influence — the harmonic field is **never truly still**. Inflections are like music: they resonate, they fade, they can be beautiful, or dissonant.
+Because the universe is always in motion  -  cosmic rotations, orbital shifts, celestial influence  -  the harmonic field is **never truly still**. Inflections are like music: they resonate, they fade, they can be beautiful, or dissonant.
 
 And just like in music:
-- You can play a crude note loudly — or a perfect one softly.
-- You can strike the same chord again and again — or create harmony that lingers.
+- You can play a crude note loudly  -  or a perfect one softly.
+- You can strike the same chord again and again  -  or create harmony that lingers.
 - Only those who **understand the resonance** can master the **language of reality**.
 
 ---
 
 ## 🧠 Implication:
-"Magic" is not about force — it is about **precision, discipline, and alignment**.  
+"Magic" is not about force  -  it is about **precision, discipline, and alignment**.  
 The strongest Inflections are not the loudest, but the **most resonant**.
 
 
 # Interference Field Model (Triadic Locking → Many‑Mode Control)
 
-> Addendum to *Harmonic Resonance* — reframing “all is frequency” as “all is interference in a multi‑dimensional oscillatory field.” This version makes the **many‑mode** nature explicit: the world is a dense modal cloud. Triads are a *tool*, not a limit.
+> Addendum to *Harmonic Resonance*  -  reframing “all is frequency” as “all is interference in a multi‑dimensional oscillatory field.” This version makes the **many‑mode** nature explicit: the world is a dense modal cloud. Triads are a *tool*, not a limit.
 
 ---
 
 ## 1) Premise
-Everything that presents as “matter,” “force,” or “signal” is the transient result of **overlapping oscillatory modes**—not three, but effectively *uncounted*. A stable thing (particle, habit, memory, tool) is a **local eigen‑lock**: a location where sustained interference has biased the medium into its **eigenfrequency** long enough to hold form.
+Everything that presents as “matter,” “force,” or “signal” is the transient result of **overlapping oscillatory modes** - not three, but effectively *uncounted*. A stable thing (particle, habit, memory, tool) is a **local eigen‑lock**: a location where sustained interference has biased the medium into its **eigenfrequency** long enough to hold form.
 
 We do not push objects; we **bias interference** until a micro‑lock forms. Quality > force.
 
@@ -749,10 +749,10 @@ We do not push objects; we **bias interference** until a micro‑lock forms. Qua
 ## 2) Coordinates & Dimensions
 We replace the single “frequency” axis with a practical tuple of coordinates:
 
-- **θ** — angular orientation of principal mode(s) in the local field (phase geometry / directionality).
-- **ζ** — compositional “color” of the mode (spectral makeup / overtone profile across neighboring modes).
-- **σ** — **scale octave** (order of magnitude; from subcellular → architectural → urban → planetary).
-- **t** — time, explicitly tracked as lock‑duration windows.
+- **θ**  -  angular orientation of principal mode(s) in the local field (phase geometry / directionality).
+- **ζ**  -  compositional “color” of the mode (spectral makeup / overtone profile across neighboring modes).
+- **σ**  -  **scale octave** (order of magnitude; from subcellular → architectural → urban → planetary).
+- **t**  -  time, explicitly tracked as lock‑duration windows.
 
 We refer to **Field(θ, ζ, σ | t)** as the working space. Frequency *f* is implied inside these descriptors.
 
@@ -780,9 +780,9 @@ Practical consequences:
 ## 4) Triadic Locking (operational minimum) + Tuner
 In practice we *select* a compact **operational triad** from the modal cloud because writers and characters need handles:
 
-- **Foundation (F)** — anchors to f₀ at scale σ.
-- **Carrier (C)** — sets propagation and reach (controls how far the bias radiates).
-- **Color (K)** — sculpts qualitative behavior (texture, friction, emotional valence, material “feel”).
+- **Foundation (F)**  -  anchors to f₀ at scale σ.
+- **Carrier (C)**  -  sets propagation and reach (controls how far the bias radiates).
+- **Color (K)**  -  sculpts qualitative behavior (texture, friction, emotional valence, material “feel”).
 
 A **fourth mode** acts as **Tuner (T)**. It is *not* part of the lock; it nudges phase and drift to either
 - **fine‑tune** (reduce |S − f₀| to meet ε, extend τ), or
@@ -814,10 +814,10 @@ A **fourth mode** acts as **Tuner (T)**. It is *not* part of the lock; it nudges
 ---
 
 ## 7) Notation for Scenes
-- **⟨Φ⟩[F|C|K]{T} @σ → τ** — e.g., `⟨station roar⟩[rail‑hum|vent‑whorl|neon‑buzz]{tongue‑click} @room → 0.3s`.
-- **K⊗⟨Φ⟩** — applying a brief stirring kernel (**K**) to the modal cloud (structured noise / phase jitter).
-- **lock(σ, ε, τ)** — shorthand for intended stability window.
-- **Δphase(θ) < δ** — acceptable angular drift while holding.
+- **⟨Φ⟩[F|C|K]{T} @σ → τ**  -  e.g., `⟨station roar⟩[rail‑hum|vent‑whorl|neon‑buzz]{tongue‑click} @room → 0.3s`.
+- **K⊗⟨Φ⟩**  -  applying a brief stirring kernel (**K**) to the modal cloud (structured noise / phase jitter).
+- **lock(σ, ε, τ)**  -  shorthand for intended stability window.
+- **Δphase(θ) < δ**  -  acceptable angular drift while holding.
 
 Use these as writer‑side tags; keep prose sensory.
 
@@ -850,7 +850,7 @@ Use these as writer‑side tags; keep prose sensory.
 - **Name the window**: a hitch in the fan, a red light change, a collective inhale.
 - **Keep costs visible**: nosebleed, eye‑grit, hand tremor, brief aphasia after long τ.
 - **Prefer bias over brute**: when force is needed, frame it as widening ε/τ rather than “pushing harder.”
-- **Scale is a character**: shifting σ changes what counts as F/C/K—streets have different clouds than rooms.
+- **Scale is a character**: shifting σ changes what counts as F/C/K - streets have different clouds than rooms.
 - **Stir responsibly**: micro‑stirs propagate; avoid collateral unlocks.
 
 ---

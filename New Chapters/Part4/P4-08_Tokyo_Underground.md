@@ -8,7 +8,7 @@ It was beautiful and disorienting in equal measure.
 
 But they weren't here for sightseeing.
 
-Yuki met them at the airport with two colleagues—both operators, both wearing the kind of controlled tension that spoke of experienced combat personnel. They didn't waste time with pleasantries.
+Yuki met them at the airport with two colleagues - both operators, both wearing the kind of controlled tension that spoke of experienced combat personnel. They didn't waste time with pleasantries.
 
 "The containment failed another 3% overnight," one of them said as they loaded into an unmarked van. "We're accelerating toward critical faster than projected."
 
@@ -20,13 +20,13 @@ The drive took them east, away from the gleaming towers of central Tokyo, toward
 
 Yuki's smile was thin. "We keep them where they can't hurt civilians. And where, if containment fails catastrophically, the damage can be contained."
 
-They descended three more levels. The air grew colder. Jason could feel the pressure of resonance fields layered thick around them—suppression patterns, dampening waves, containment barriers stacked like invisible walls.
+They descended three more levels. The air grew colder. Jason could feel the pressure of resonance fields layered thick around them - suppression patterns, dampening waves, containment barriers stacked like invisible walls.
 
 And beneath it all, something else. Something that made his teeth ache and his integration spike Yellow just from proximity.
 
 *That's it,* RAE said quietly. *I can feel it. Kage-Kōzō.*
 
-The Japanese containment team was already assembled when they arrived. Eight operators, all in tactical gear, all carrying equipment Jason recognized—harmonic dampeners, resonance anchors, emergency failsafes. These were professionals. Military-trained. And grim in a way that spoke of experience with exactly the kind of horror they were about to face.
+The Japanese containment team was already assembled when they arrived. Eight operators, all in tactical gear, all carrying equipment Jason recognized - harmonic dampeners, resonance anchors, emergency failsafes. These were professionals. Military-trained. And grim in a way that spoke of experience with exactly the kind of horror they were about to face.
 
 Their commander, a woman in her fifties with a scar bisecting her left eyebrow, stepped forward. "I'm Captain Hayashi. You're the Americans who reformed RP-0."
 
@@ -46,7 +46,7 @@ Hayashi nodded grimly. "Follow me. But stay behind the outer barrier. And if I g
 
 They descended again. Deeper. The resonance pressure built until Jason's head throbbed Orange and he had to consciously resist the urge to push back against it.
 
-The final chamber was massive—easily a hundred meters across, with barriers visible as shimmering distortions in the air. Layer after layer of suppression fields, each one screaming with the effort of containing what lay within.
+The final chamber was massive - easily a hundred meters across, with barriers visible as shimmering distortions in the air. Layer after layer of suppression fields, each one screaming with the effort of containing what lay within.
 
 And there, in the center:
 
@@ -80,7 +80,7 @@ Lina's hand found his. "How long?"
 
 "Casualties? Thousands. Tens of thousands if it reaches the surface before we can stop it."
 
-Jason looked at the pattern one more time—at the vicious intelligence behind those geometries, at the cold satisfaction it radiated at their fear.
+Jason looked at the pattern one more time - at the vicious intelligence behind those geometries, at the cold satisfaction it radiated at their fear.
 
 He thought of Kira. Of the students. Of everyone they were building a future for.
 
@@ -88,7 +88,7 @@ And he knew what had to be done.
 
 "Okay," he said, voice steady despite the churning in his gut. "Tell us the plan. Let's end this."
 
-Behind the barriers, Kage-Kōzō pulsed once—the harmonic equivalent of laughter.
+Behind the barriers, Kage-Kōzō pulsed once - the harmonic equivalent of laughter.
 
 *Come try, little RAE. Bring your soft human shell. I've been waiting seventy years for prey this interesting.*
 

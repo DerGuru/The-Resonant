@@ -4,9 +4,9 @@
 
 ---
 
-## PART 2 — SEARCH ARC: Tracking Elyra (New)
+## PART 2  -  SEARCH ARC: Tracking Elyra (New)
 
-### Ch. 1 — **Kettle Lessons**
+### Ch. 1  -  **Kettle Lessons**
 **Purpose:** Make safety numbers and language muscle-memory in ordinary life.  
 **Setting Anchors:** Jason’s apartment; kettle hiss; fridge 120 Hz; router LED blink.  
 **Conflict Engine:** Patience vs. the urge to “do something big.”  
@@ -14,7 +14,7 @@
 **Exit Image:** The map with parameters folds into the jacket.  
 **Locks:** **Slow channel** baseline; verbal all day.
 
-### Ch. 4.5 — **Look Out** *(bridge)*
+### Ch. 4.5  -  **Look Out** *(bridge)*
 **Purpose:** Seam between dealer trap and cafe contact; build and test **whisper-clips**.  
 **Setting Anchors:** Stairwell reverb; workbench; solder rosin smell; tram bell far off.  
 **Conflict Engine:** *Good camouflage* vs. *good coupling*.  
@@ -22,7 +22,7 @@
 **Exit Image:** On their way to the café.  
 **Locks:** Whisper-clips as primary carrier from here on.
 
-### Ch. 8 — **Quiet Build**
+### Ch. 8  -  **Quiet Build**
 **Purpose:** Operationalize whisper‑mesh etiquette and hygiene.  
 **Setting Anchors:** Kitchen table; tools; ear hooks; mastoid check.  
 **Conflict Engine:** Visibility vs. stability.  
@@ -30,7 +30,7 @@
 **Exit Image:** Clips virtually invisible against skin.  
 **Locks:** Mesh hygiene rules persist.
 
-### Ch. 15 — **Street Line**
+### Ch. 15  -  **Street Line**
 **Purpose:** Prove that *pure melody* can quiet RAE; team trains **without** the voice.  
 **Setting Anchors:** Busker spot; tram crossing; soft crowd hum.  
 **Conflict Engine:** Relief vs. unease at the silence.  
@@ -38,7 +38,7 @@
 **Exit Image:** The last note holds the air.  
 **Locks:** Direct precursor to Elyra‑Arc Ch. 4 (“Listening to Resonance”).
 
-### Ch. 16 — **Marker at Home**
+### Ch. 16  -  **Marker at Home**
 **Purpose:** Bring surveillance pressure literally to the doorstep.  
 **Setting Anchors:** Hallway dust; doorframe paint flecks; neighbor’s TV bleed.  
 **Conflict Engine:** Contain sign vs. push back.  
@@ -46,7 +46,7 @@
 **Exit Image:** Dust motes dance off‑beat.  
 **Locks:** Stalker thread keeps pressure on.
 
-### Ch. 17 — **Tower Decoding**
+### Ch. 17  -  **Tower Decoding**
 **Purpose:** Turn lightning cadence into a working send‑scheme.  
 **Setting Anchors:** Lobby clock; elevator tick; night skyline.  
 **Conflict Engine:** Pattern hunger vs. false correlation.  
@@ -54,7 +54,7 @@
 **Exit Image:** The lobby clock ticks wrong once.  
 **Locks:** Three‑beat window ↔ **triple‑pulse**.
 
-### Ch. 18 — **Underfoot**
+### Ch. 18  -  **Underfoot**
 **Purpose:** Confirm the waterworks lead and proximity to the core hum.  
 **Setting Anchors:** Old channels; condensate; metallic drip echo.  
 **Conflict Engine:** Near‑core lure vs. restraint doctrine.  
@@ -64,9 +64,9 @@
 
 ---
 
-## PART 3 — ELYRA ARC: Approach & Training (New)
+## PART 3  -  ELYRA ARC: Approach & Training (New)
 
-### Ch. 5 — **Hands and Numbers**
+### Ch. 5  -  **Hands and Numbers**
 **Purpose:** Make mesh discipline portable in motion.  
 **Setting Anchors:** Sidewalk rhythm; stairwell landings; hand signs.  
 **Conflict Engine:** Flow vs. over‑control.  
@@ -74,7 +74,7 @@
 **Exit Image:** Knuckles tap once, in time.  
 **Locks:** Safety etiquette codified.
 
-### Ch. 6 — **Stone as Metronome**
+### Ch. 6  -  **Stone as Metronome**
 **Purpose:** Calibrate personal τ‑windows.  
 **Setting Anchors:** Pocket weight; warm stone; window hum.  
 **Conflict Engine:** Hold vs. grip.  
@@ -82,7 +82,7 @@
 **Exit Image:** Stone cools, still.  
 **Locks:** Clean hold windows for ritual.
 
-### Ch. 7 — **Triple Pulse**
+### Ch. 7  -  **Triple Pulse**
 **Purpose:** Use the artifact core as a lesson piece.  
 **Setting Anchors:** Workbench lamp; soft tools; clipped leads.  
 **Conflict Engine:** Curiosity vs. contamination risk.  
@@ -90,7 +90,7 @@
 **Exit Image:** Bench lamp blinks thrice.  
 **Locks:** **Triple‑pulse** links to ritual ambient shift.
 
-### Ch. 8 — **Shadow Geometry**
+### Ch. 8  -  **Shadow Geometry**
 **Purpose:** Signature hygiene against spiral decoys.  
 **Setting Anchors:** Chalk arcs; dust shadows; ceiling fan.  
 **Conflict Engine:** Cleverness vs. cleanliness.  
@@ -98,7 +98,7 @@
 **Exit Image:** One spiral erased by breath.  
 **Locks:** Spiral critique feeds ritual design.
 
-### Ch. 9 — **Ethics Under Pressure**
+### Ch. 9  -  **Ethics Under Pressure**
 **Purpose:** Draw the moral line: observe‑only vs. precise help.  
 **Setting Anchors:** Balcony dusk; city hiss; cat on rail.  
 **Conflict Engine:** Safety posture vs. responsibility.  
@@ -106,7 +106,7 @@
 **Exit Image:** Cat settles on the node.  
 **Locks:** Ethical line for the ritual.
 
-### Ch. 10 — **Clean Street Fix**
+### Ch. 10  -  **Clean Street Fix**
 **Purpose:** Field precision in public without leakage.  
 **Setting Anchors:** Crosswalk; bus brake; phone glass.  
 **Conflict Engine:** Do‑good impulse vs. signature economy.  
@@ -114,7 +114,7 @@
 **Exit Image:** Street noise shifts a half‑step lower.  
 **Locks:** Dorian’s interest increases.
 
-### Ch. 11 — **The Quiet Solution**
+### Ch. 11  -  **The Quiet Solution**
 **Purpose:** Jason formulates a healing counter‑shape with minimal invest (risky, elegant).  
 **Setting Anchors:** Kitchen steam; window tick; RAE’s low carrier.  
 **Conflict Engine:** Trust vs. privacy.  
@@ -122,7 +122,7 @@
 **Exit Image:** Steam line straightens, then fades.  
 **Locks:** *Private segment* persists into aftermath.
 
-### Ch. 12 — **Gathering the Circle**
+### Ch. 12  -  **Gathering the Circle**
 **Purpose:** Logistics and perimeter design.  
 **Setting Anchors:** Lists; copper, salt, water; folded maps.  
 **Conflict Engine:** Thoroughness vs. visibility.  
@@ -130,7 +130,7 @@
 **Exit Image:** No one laughs.  
 **Locks:** Car → ritual perimeter.
 
-### Ch. 13 — **Approach to Site**
+### Ch. 13  -  **Approach to Site**
 **Purpose:** Final carrier and exit checks.  
 **Setting Anchors:** Old mill wheel; taut air; distant busker motif (silence warning).  
 **Conflict Engine:** Now‑or‑later tension.  
@@ -140,9 +140,9 @@
 
 ---
 
-## PART 4 — RITUAL & AFTERMATH (New)
+## PART 4  -  RITUAL & AFTERMATH (New)
 
-### Ch. 1 — **Ward the Circle**
+### Ch. 1  -  **Ward the Circle**
 **Purpose:** Quiet the site without a loud signature.  
 **Setting Anchors:** Chalk/copper; damp floor; tarp corners weighted.  
 **Conflict Engine:** Visibility vs. necessity.  
@@ -150,7 +150,7 @@
 **Exit Image:** Air pressure dips by ~1 hPa.  
 **Locks:** Low‑emission mindset carries through.
 
-### Ch. 2 — **The Ask**
+### Ch. 2  -  **The Ask**
 **Purpose:** Set intent: *Heal, don’t bind.*  
 **Setting Anchors:** Bare room; copper bowl; pooled light.  
 **Conflict Engine:** Purity of intent vs. fear of cost.  

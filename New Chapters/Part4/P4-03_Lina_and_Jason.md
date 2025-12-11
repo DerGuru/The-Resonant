@@ -32,7 +32,7 @@ Jason considered that. "Honestly? I see us together. Building this program. Teac
 
 Jason's stomach tightened. "What about her?"
 
-"I need to know: When we're together—really together, intimately—is she... there? Listening? Aware?"
+"I need to know: When we're together - really together, intimately - is she... there? Listening? Aware?"
 
 *This is important,* RAE said quietly. *Answer honestly.*
 
@@ -66,7 +66,7 @@ Later, back at Jason's apartment, they stood on the balcony under stars.
 
 "A little. But also... no? Because we'd know how to help them. How to teach them safely. And they'd have Elyra. And the whole program we're building." He turned to face her. "Would it scare you?"
 
-"Maybe. But I'd rather have kids with you—whatever that means—than not have kids at all."
+"Maybe. But I'd rather have kids with you - whatever that means - than not have kids at all."
 
 They kissed. Slowly. Deeply. A promise of future possibilities.
 

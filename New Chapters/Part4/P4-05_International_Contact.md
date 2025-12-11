@@ -1,6 +1,6 @@
 ﻿# Ch. 05 - "Some things cannot be reformed"
 
-The visitor arrived unannounced, but with Malvek's approval—which meant she'd been vetted through channels Jason was only beginning to understand.
+The visitor arrived unannounced, but with Malvek's approval - which meant she'd been vetted through channels Jason was only beginning to understand.
 
 Dr. Yuki Tanaka. Japanese Resonance Institute. Mid-forties, precise in movement and speech, carrying credentials that were both impressive and slightly intimidating. Her dark suit was perfectly tailored, her posture impeccable, and her eyes held the kind of sharp intelligence that missed nothing.
 
@@ -32,13 +32,13 @@ Yuki observed Kira's training sessions with methodical focus, taking notes in a 
 
 Yuki smiled at that. "Indeed."
 
-She spent hours with Elyra, discussing harmonic theory and rehabilitation protocols. Elyra's integration had climbed to 25% now—still low, but functional. Stable. And crucially, still climbing.
+She spent hours with Elyra, discussing harmonic theory and rehabilitation protocols. Elyra's integration had climbed to 25% now - still low, but functional. Stable. And crucially, still climbing.
 
 "Your healing rate suggests optimized resonance matching," Yuki observed. "How did you achieve compatibility?"
 
 "Patience," Elyra said dryly. "And accepting that some damage is permanent. I won't reach 100%. But 30% might be enough to teach."
 
-"Thirty percent of brilliance is still considerable," Yuki said. It wasn't flattery—just observation.
+"Thirty percent of brilliance is still considerable," Yuki said. It wasn't flattery - just observation.
 
 On the evening of the third day, they gathered in the planning room. Jason, Lina, Milo, Elyra, Kira. And Yuki, who had been quiet through dinner, clearly building to something.
 
@@ -46,7 +46,7 @@ On the evening of the third day, they gathered in the planning room. Jason, Lina
 
 Jason exchanged glances with Lina. "You're not just observing."
 
-"No." Yuki pulled out a tablet, activated a secure connection. Holographic data bloomed above the table—resonance patterns, containment schematics, incident reports. "Japan has its own dormant entities. Twelve that we know of. Most are contained safely. But one is awakening."
+"No." Yuki pulled out a tablet, activated a secure connection. Holographic data bloomed above the table - resonance patterns, containment schematics, incident reports. "Japan has its own dormant entities. Twelve that we know of. Most are contained safely. But one is awakening."
 
 The central pattern rotated slowly. It was nothing like RP-0's fragmented elegance. This was sharp, angular, aggressive. Like looking at broken glass arranged into a weapon.
 
@@ -68,7 +68,7 @@ Silence fell over the room like snow.
 
 She closed the hologram with a gesture that carried finality. "I don't believe in destroying life lightly. But some things cannot be reformed. This is one of them. And if we don't act before it breaks containment, it will kill hundreds. Possibly thousands."
 
-Jason felt RAE's presence shift—troubled, uncertain.
+Jason felt RAE's presence shift - troubled, uncertain.
 
 *Is she right?* he thought.
 
@@ -90,7 +90,7 @@ Jason looked at each face around the table. Milo, worried but steady. Kira, wide
 
 Yuki nodded, standing. "Of course. Take the time you need. But not too long. The containment is failing faster than expected."
 
-She bowed again—deeper this time, respectful. "Thank you for considering it. Whatever you decide, your work here is remarkable. The world is better for what you're building."
+She bowed again - deeper this time, respectful. "Thank you for considering it. Whatever you decide, your work here is remarkable. The world is better for what you're building."
 
 After she left, they sat in silence for a long moment.
 

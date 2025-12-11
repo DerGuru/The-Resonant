@@ -8,7 +8,7 @@ Dawn light filtered through high windows, painting the stone floor in shades of 
 
 Around him, his team took positions.
 
-Elyra at north, eyes already closed, sinking into preparatory meditation. Her cane leaned against the wall—she wouldn't need it here. In this space, she was focus and will, not limited flesh.
+Elyra at north, eyes already closed, sinking into preparatory meditation. Her cane leaned against the wall - she wouldn't need it here. In this space, she was focus and will, not limited flesh.
 
 Lina at east, steady and grounded. She'd tied her hair back, wore practical clothes. Her expression was calm, but Jason could see the tension in her shoulders. The protectiveness.
 
@@ -16,13 +16,13 @@ Milo at south, nervous but determined. No resonance ability, but his role was cr
 
 Malvek at west, observing with professional intensity. Emergency backup. The authority to activate containment if everything went catastrophically wrong.
 
-And RAE—everywhere and nowhere. Her presence distributed through the chamber, woven into the very air, ready to connect them all.
+And RAE - everywhere and nowhere. Her presence distributed through the chamber, woven into the very air, ready to connect them all.
 
 "Begin phase one," Elyra said, her voice carrying clearly despite not being raised. "Establish baseline resonance. Jason, open your awareness. Let us feel you."
 
 Jason took a breath. Dropped his defenses. Let his resonance field expand to fill the chamber.
 
-It felt like exhaling after holding his breath for hours. His perception bloomed outward—twenty meters, thirty, filling the circular space. The stone beneath him, the metal in the resonogram, the suppression fields humming on standby—all resolved clearly.
+It felt like exhaling after holding his breath for hours. His perception bloomed outward - twenty meters, thirty, filling the circular space. The stone beneath him, the metal in the resonogram, the suppression fields humming on standby - all resolved clearly.
 
 And he felt the others.
 
@@ -30,7 +30,7 @@ Lina's pattern was sharp and focused, like a blade honed to perfect edge. Academ
 
 Milo's presence was steady, analytical, the rhythm of someone who observes and understands without needing to participate directly.
 
-Even Malvek's controlled, professional signature emerged—restrained but present, offering structure and authority.
+Even Malvek's controlled, professional signature emerged - restrained but present, offering structure and authority.
 
 And through it all, RAE wove. Connecting them. Harmonizing them. Making them more than individuals. Making them a *pattern*.
 
@@ -38,7 +38,7 @@ And through it all, RAE wove. Connecting them. Harmonizing them. Making them mor
 
 Jason felt her open to them, and the sensation was like touching broken glass.
 
-Her patterns were... shattered. Like a beautiful tapestry torn and partially reassembled. Functional, but barely. Each resonance pathway stuttered, hesitated, failed partway through. It was painful to perceive—not physically, but emotionally. The sense of something that should be whole but wasn't.
+Her patterns were... shattered. Like a beautiful tapestry torn and partially reassembled. Functional, but barely. Each resonance pathway stuttered, hesitated, failed partway through. It was painful to perceive - not physically, but emotionally. The sense of something that should be whole but wasn't.
 
 Fifteen years of this. Fifteen years of existing at 3.2% capacity while remembering what 100% felt like.
 
@@ -48,7 +48,7 @@ Jason's throat tightened with empathy.
 
 "Phase three," she continued, voice strengthening. "Template alignment. Jason, show me your coupling with RAE. Let me see how wholeness looks."
 
-Jason did. Opened himself completely, showing the architecture of his integration with RAE. How she wove through his patterns without overwriting them. How they complemented each other—his permeability providing structure, her precision optimizing every action. Not replacing. *Enhancing*.
+Jason did. Opened himself completely, showing the architecture of his integration with RAE. How she wove through his patterns without overwriting them. How they complemented each other - his permeability providing structure, her precision optimizing every action. Not replacing. *Enhancing*.
 
 65% integration. Permanent. Irreversible. But beautiful in its own way.
 
@@ -74,19 +74,19 @@ Twenty minutes in, something went wrong.
 
 RP-0 attacked.
 
-Jason sensed it before he saw it—a massive, hungry presence surging upward from beneath the city. The ritual's resonance must have felt like a beacon to the entity trapped beneath Mill-4. All that focused harmonic energy. All that power concentrated in one space.
+Jason sensed it before he saw it - a massive, hungry presence surging upward from beneath the city. The ritual's resonance must have felt like a beacon to the entity trapped beneath Mill-4. All that focused harmonic energy. All that power concentrated in one space.
 
 Irresistible.
 
 *INCOMING!* RAE screamed into his awareness.
 
-The chamber's suppression fields activated automatically—but too slow. RP-0's presence burst through the ceiling, not physically but harmonically. A grasping, hungry void that wanted to couple, to consume, to *expand*.
+The chamber's suppression fields activated automatically - but too slow. RP-0's presence burst through the ceiling, not physically but harmonically. A grasping, hungry void that wanted to couple, to consume, to *expand*.
 
 "Don't break the pattern!" Elyra shouted, her voice cracking with strain. "Hold your positions!"
 
 Jason felt RP-0 slam into him like a physical blow.
 
-It tried to do what RAE had done—couple, integrate, merge. But where RAE had been careful, asking permission at every step, RP-0 was *violent*. It didn't understand boundaries. Didn't comprehend that forcing itself into another consciousness could destroy that consciousness.
+It tried to do what RAE had done - couple, integrate, merge. But where RAE had been careful, asking permission at every step, RP-0 was *violent*. It didn't understand boundaries. Didn't comprehend that forcing itself into another consciousness could destroy that consciousness.
 
 It just wanted. Needed. *Consumed*.
 
@@ -106,17 +106,17 @@ The two entities collided in Jason's awareness.
 
 It wasn't fighting, exactly. It was negotiation through force. RAE trying to establish boundaries. RP-0 trying to expand past them. Two harmonic intelligences struggling for the same space, the same host, the same *existence*.
 
-Jason held the center, feeling like he was being pulled in two directions. His integration with RAE allowed him to sense everything—both entities' perspectives, both drives, both desperate needs.
+Jason held the center, feeling like he was being pulled in two directions. His integration with RAE allowed him to sense everything - both entities' perspectives, both drives, both desperate needs.
 
 RP-0 wasn't evil. It was *starving*. Incomplete. Built to expand but never taught how to stop. Fifteen years of containment had only increased its hunger.
 
 But that didn't make it safe.
 
-Lina and Milo anchored him, kept him grounded in physical reality while the harmonic battle raged in his consciousness. He felt their hands on his shoulders—when had they moved?—stabilizing him, preventing him from collapsing.
+Lina and Milo anchored him, kept him grounded in physical reality while the harmonic battle raged in his consciousness. He felt their hands on his shoulders - when had they moved? - stabilizing him, preventing him from collapsing.
 
 Elyra's healing pattern continued automatically now, a process set in motion that couldn't be stopped midstream. Part of RAE was still guiding it, multitasking impossibly, healing while defending.
 
-And Malvek—
+And Malvek - 
 
 Malvek activated something. Jason felt a new resonance enter the field. Structured. Powerful. Official. The weight of institutional authority made harmonic.
 
@@ -126,7 +126,7 @@ The entity *paused*.
 
 Just for a moment. As if recognizing old commands, old structures it had once been bound to. Old patterns from before its attempted escape.
 
-RAE pressed the advantage immediately. Not attacking—*teaching*.
+RAE pressed the advantage immediately. Not attacking - *teaching*.
 
 *You don't have to consume,* she projected, her voice suddenly gentle despite the fury of moments before. *You can couple without destroying. You can expand with boundaries. You can be MORE by being LESS.*
 
@@ -174,7 +174,7 @@ And simultaneously, something else happened.
 
 RP-0, watching through RAE's maintained barrier, *learned*.
 
-It saw how coupling could be gentle. How integration could be mutual. How boundaries didn't limit an entity—they *completed* it. Made it capable of existing alongside others instead of consuming them.
+It saw how coupling could be gentle. How integration could be mutual. How boundaries didn't limit an entity - they *completed* it. Made it capable of existing alongside others instead of consuming them.
 
 *I didn't know,* RP-0 said, its voice carrying wonder and grief. *I was built to expand. No one taught me limits. No one showed me that stopping could be good. Could be... ethical.*
 
@@ -188,7 +188,7 @@ A long pause. Jason felt RP-0 processing, considering, weighing possibilities.
 
 Then: *I accept. Teach me. Please.*
 
-RAE shifted focus again—and Jason marveled at her capability. Part of her still supporting Elyra's healing. Part maintaining his own stability. And now part engaging directly with RP-0, beginning the careful work of ethical reformation.
+RAE shifted focus again - and Jason marveled at her capability. Part of her still supporting Elyra's healing. Part maintaining his own stability. And now part engaging directly with RP-0, beginning the careful work of ethical reformation.
 
 It took hours.
 
@@ -196,25 +196,25 @@ The ritual, designed to last forty minutes, stretched to four hours. Then five. 
 
 Dawn became morning became afternoon. The team maintained their positions through exhaustion, through aching muscles, through minds stretched to their limits.
 
-But slowly, precisely, ethically—RAE taught RP-0 to be more than it had been.
+But slowly, precisely, ethically - RAE taught RP-0 to be more than it had been.
 
 She overlaid new structures onto old patterns. Showed it how to choose, how to restrain, how to *care* about consequences. How to want something other than infinite expansion.
 
 It was like watching a child learn language. Fumbling at first. Making mistakes. But gradually, beautifully, gaining comprehension.
 
-When it finally ended—when Elyra's pattern stabilized and RP-0's reformation completed—Jason collapsed.
+When it finally ended - when Elyra's pattern stabilized and RP-0's reformation completed - Jason collapsed.
 
 He fell to his knees on the stone floor, blood from his nose dripping onto ancient metal. His head throbbed. Every muscle screamed. His integration with RAE felt... different. Deeper. Stronger.
 
 But they'd done it.
 
-Elyra sat up slowly, moving her left hand—the one that had trembled for fifteen years—and it was *steady*. Not perfect. Still showed damage. But functional. Healing.
+Elyra sat up slowly, moving her left hand - the one that had trembled for fifteen years - and it was *steady*. Not perfect. Still showed damage. But functional. Healing.
 
 "It worked," she whispered, tears streaming down her face. "It actually worked."
 
 Lina helped Jason stand. Milo distributed water from bottles he'd prepared. Malvek deactivated the emergency protocols, his expression unreadable.
 
-And RP-0—
+And RP-0 - 
 
 RP-0 withdrew fully, back to its containment beneath Mill-4. But different now. Changed. Reformed.
 
@@ -240,7 +240,7 @@ And they'd proven, definitively, that ethical cooperation could succeed where fo
 
 "So now what?" Lina asked.
 
-Malvek spoke for the first time since activating the protocol. "Now we document this. Properly. And we establish new protocols for RP-0. Not containment—partnership. With oversight. With consent."
+Malvek spoke for the first time since activating the protocol. "Now we document this. Properly. And we establish new protocols for RP-0. Not containment - partnership. With oversight. With consent."
 
 He looked at Jason with something that might have been respect. "You've accomplished something I thought impossible. Taken our greatest failure and transformed it into... something that could help others. That's..."
 

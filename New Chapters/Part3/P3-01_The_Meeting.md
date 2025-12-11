@@ -4,7 +4,7 @@
 
 The park smelled like rain and caution.
 
-Jason stood near the amphitheater's center, hands in his pockets, trying to look calm. The stone seating ringed him in tiers—empty this early, except for pigeons and the weight of observation.
+Jason stood near the amphitheater's center, hands in his pockets, trying to look calm. The stone seating ringed him in tiers - empty this early, except for pigeons and the weight of observation.
 
 Lina and Milo were hidden. Somewhere. He couldn't see them, which was the point. But knowing they were there helped.
 
@@ -28,7 +28,7 @@ Jason descended, kept two meters distance, and sat. "You said we could talk."
 
 "I have terms too."
 
-Reeves smiled—politely, professionally. "I expected you would. Shall we begin?"
+Reeves smiled - politely, professionally. "I expected you would. Shall we begin?"
 
 ---
 
@@ -70,13 +70,13 @@ Jason took the document. Six pages. Dense legal language. He'd need Milo to pars
 
 "Acceptable. Propose a format."
 
-"Coffee shop. Public. Thirty minutes. Status update only—no interrogation."
+"Coffee shop. Public. Thirty minutes. Status update only - no interrogation."
 
 Reeves made a note. "I'll relay that to the Director. Anything else?"
 
 Jason thought carefully. What else mattered?
 
-"If we detect a threat—something dangerous, something that affects more than just us—we report it immediately. In exchange, you respond appropriately. Not with containment. With cooperation."
+"If we detect a threat - something dangerous, something that affects more than just us - we report it immediately. In exchange, you respond appropriately. Not with containment. With cooperation."
 
 Reeves raised an eyebrow. "You're proposing a... consultancy arrangement?"
 
@@ -86,7 +86,7 @@ Reeves raised an eyebrow. "You're proposing a... consultancy arrangement?"
 
 Jason's stomach dropped.
 
-Reeves smiled—genuinely this time. "But she didn't act. That's professionalism. Director Malvek appreciates professionalism."
+Reeves smiled - genuinely this time. "But she didn't act. That's professionalism. Director Malvek appreciates professionalism."
 
 He walked away. Up the stone steps. Out of the amphitheater. Gone.
 
@@ -98,7 +98,7 @@ Jason sat alone in the afternoon light, holding a legal document that might be a
 
 *Probably. One we passed.*
 
-Jason stood, climbed to where Lina had been hiding—a maintenance alcove with sightlines to the center. She stepped out as he approached, Milo emerging from the opposite side.
+Jason stood, climbed to where Lina had been hiding - a maintenance alcove with sightlines to the center. She stepped out as he approached, Milo emerging from the opposite side.
 
 "You heard?" Jason asked.
 
@@ -170,7 +170,7 @@ Or if this was just a more sophisticated cage.
 
 *Yes. We adapt. Together.*
 
-Jason closed his eyes. Felt the integration—40% now, irreversible, growing.
+Jason closed his eyes. Felt the integration - 40% now, irreversible, growing.
 
 He was no longer just Jason Fischer.
 

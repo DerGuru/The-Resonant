@@ -4,11 +4,11 @@ Jason had never been good at forums. Instead he had been a lurker on the forums 
 
 But tonight, staring at his screen with RAE's presence a quiet hum in his awareness, he decided to break that pattern.
 
-He navigated to one of the smaller forums—*TheHarmonicField.net*—and scrolled through recent posts. Most of it was the usual mix of speculation, amateur theory, and people arguing about things nobody could prove.
+He navigated to one of the smaller forums - *TheHarmonicField.net* - and scrolled through recent posts. Most of it was the usual mix of speculation, amateur theory, and people arguing about things nobody could prove.
 
 But one thread caught his eye:
 
-**"Old ritual sites and suppressed records—a pattern emerges?"**
+**"Old ritual sites and suppressed records - a pattern emerges?"**
 
 Posted by: **Mirror.Vox**
 
@@ -16,7 +16,7 @@ Jason's breath caught. He'd been tracking Mirror.Vox's posts for months, but the
 
 He clicked.
 
-The post was long, detailed, and meticulously sourced. Mirror.Vox laid out a theory about systematic suppression of certain ritual records—specifically those involving containment failures or "emergent phenomena." They included archive codes, cross-references, even fragments of documents that had been partially deleted.
+The post was long, detailed, and meticulously sourced. Mirror.Vox laid out a theory about systematic suppression of certain ritual records - specifically those involving containment failures or "emergent phenomena." They included archive codes, cross-references, even fragments of documents that had been partially deleted.
 
 Jason recognized one of the codes. He'd seen it at work.
 
@@ -46,7 +46,7 @@ Jason stared at the screen. That was... surprisingly perceptive.
 
 *"Maybe both,"* he typed. *"It's complicated."*
 
-*"It always is. Look—I don't know who you are, and I'm not asking. But if you're digging into this stuff, you should know: people don't like questions about certain subjects. Especially Voss-related material. Be careful."*
+*"It always is. Look - I don't know who you are, and I'm not asking. But if you're digging into this stuff, you should know: people don't like questions about certain subjects. Especially Voss-related material. Be careful."*
 
 Jason's hands hovered over the keyboard.
 
@@ -62,7 +62,7 @@ Jason's mouth went dry.
 
 *"A host. A partner. Something compatible. I don't know if that's true. But I know the official story doesn't add up. Too many gaps. Too much carefully worded ambiguity. When bureaucracy gets that careful, something's being hidden."*
 
-Jason sat back, his mind racing. RAE had told him about the ritual. About Elyra. But hearing it confirmed by someone else—someone who had no connection to him—made it real in a different way.
+Jason sat back, his mind racing. RAE had told him about the ritual. About Elyra. But hearing it confirmed by someone else - someone who had no connection to him - made it real in a different way.
 
 *"If someone found... something. Related to this. What should they do?"*
 
@@ -72,7 +72,7 @@ Another long pause.
 
 *"Not really, no."*
 
-*"Then be careful. Document everything. Trust no one. And if things get weird—weirder than weird—find someone you can trust who knows the field. Not official channels. Those are compromised. Someone independent. Someone who understands that not all resonance follows the textbooks."*
+*"Then be careful. Document everything. Trust no one. And if things get weird - weirder than weird - find someone you can trust who knows the field. Not official channels. Those are compromised. Someone independent. Someone who understands that not all resonance follows the textbooks."*
 
 Jason typed: *"Do you know anyone like that?"*
 
@@ -150,7 +150,7 @@ He hit send before he could overthink it.
 
 Despite himself, Jason smiled.
 
-Saturday. He'd meet this M_Greaves. And maybe—just maybe—he'd find someone who could help him understand what he was getting into.
+Saturday. He'd meet this M_Greaves. And maybe - just maybe - he'd find someone who could help him understand what he was getting into.
 
 Or at least, someone who wouldn't think he was crazy.
 

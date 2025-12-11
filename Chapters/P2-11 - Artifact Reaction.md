@@ -22,7 +22,7 @@ Lina set the crate down. “Find me a story?”
 
 “Found me first,” he said, and felt his pulse give a curious extra beat.
 
-The slab was cool, then less so, like the temperature had to remember its job after his skin suggested otherwise. In his palm, a hum gathered—no louder than thought, but with more manners. The fan’s cycle leaned toward it for a breath and then recovered.
+The slab was cool, then less so, like the temperature had to remember its job after his skin suggested otherwise. In his palm, a hum gathered - no louder than thought, but with more manners. The fan’s cycle leaned toward it for a breath and then recovered.
 
 Milo appeared at his shoulder with the stealth of a librarian. “Heavy.”
 
@@ -32,7 +32,7 @@ Milo appeared at his shoulder with the stealth of a librarian. “Heavy.”
 
 **Granted. No heroics.**
 
-The hum in Jason’s palm met something in his wrist bone and decided to be a duet. The room did not change; the room agreed with itself. The fan clicked: one, two, three—then resumed its lazy arc.
+The hum in Jason’s palm met something in his wrist bone and decided to be a duet. The room did not change; the room agreed with itself. The fan clicked: one, two, three - then resumed its lazy arc.
 
 Jason’s mouth tasted like hot penny for a second. A drip echoed in memory from nowhere nearby. He blinked, not dizzy, not fine.
 
@@ -102,7 +102,7 @@ Milo played civilian with a paper cone of roasted nuts. “So we have a doorstop
 
 “Good,” Lina said. “If he doesn’t care, no one else will learn to.”
 
-The sidewalk’s rhythm was honest: stroller squeak; shoe scuff; a distant tram bell that did not try to be pure. Jason kept his jaw loose because Lina had taught him that was how you let the head behave. The hum tracked his pace, then lagged a step, then stopped tracking at all—as if the slab had decided that walking was not a language it spoke.
+The sidewalk’s rhythm was honest: stroller squeak; shoe scuff; a distant tram bell that did not try to be pure. Jason kept his jaw loose because Lina had taught him that was how you let the head behave. The hum tracked his pace, then lagged a step, then stopped tracking at all - as if the slab had decided that walking was not a language it spoke.
 
 > Telemetry. *The object doesn’t project. It rings when touched and sulks when ignored. It is not a beacon. That is excellent news.*
 
@@ -176,7 +176,7 @@ The restaurant’s older back fan, the petty cousin of the junk shop’s, stalle
 
 Jason fell asleep faster than his day deserved. When the dream arrived, it didn’t announce itself with anything the body could object to. No chase. No fall. Only a smell like steel just off the grinder, and a sound like water counting without caring if anyone learned to count with it.
 
-The room wasn’t square. He couldn’t see it, but the echo curved the way a hand curves when it cups a flame. The hum that had been the slab’s in his palm was now the room’s—a constant kindness that wasn’t meant for humans at all.
+The room wasn’t square. He couldn’t see it, but the echo curved the way a hand curves when it cups a flame. The hum that had been the slab’s in his palm was now the room’s - a constant kindness that wasn’t meant for humans at all.
 
 *I am here.*
 

@@ -10,7 +10,7 @@ They started the day with a new batch of refined ear‑hooks. They’d been usin
 
 “Things people don’t stare at,” she said. “Good coupling, low visibility.” She glanced up, eyes flicking to his. “And you’ll be wearing one.”
 
-Jason turned the hook in his fingers. Up close, the transparency was imperfect—the edges caught light; the ceramic puck had a faint, milky swirl in it like skimmed tea. The hook wanted to sit behind the ear; the spring arm wanted to press two points at once: the soft back side of the ear, and the bone just behind it.
+Jason turned the hook in his fingers. Up close, the transparency was imperfect - the edges caught light; the ceramic puck had a faint, milky swirl in it like skimmed tea. The hook wanted to sit behind the ear; the spring arm wanted to press two points at once: the soft back side of the ear, and the bone just behind it.
 
 “The mastoid,” Lina said, because naming a thing tamed it. “If the spreader sits right, you’ll feel a bone‑buzz when she talks.”
 
@@ -38,7 +38,7 @@ He lifted a hand, palm down: ready.
 
 “Salt, water,” Lina prompted, the liturgy now muscle‑memory. She pushed the glass toward him.
 
-He salted. He drank. Then he tapped the table twice—"Floor: Lina\*"\*.
+He salted. He drank. Then he tapped the table twice - "Floor: Lina\*"\*.
 
 “Low tide,” Lina said, the join phrase quiet as breath.
 
@@ -62,7 +62,7 @@ Milo blinked. “That’s… clean.”
 
 Milo fumbled with his own clip, ears more ideas than anatomy. Lina took the piece with a gentleness that didn’t read as tender until it was gone and snug again behind his ear. She nudged the ceramic disc five millimeters and tilted his head by two fingers at the jaw. “There,” she said. “Say if it aches.”
 
-Milo tapped the clip once, tentative. “Uh—bone‑buzz?”
+Milo tapped the clip once, tentative. “Uh - bone‑buzz?”
 
 “Private reception stable,” RAE said. “No air leak detected. We are half‑duplex by design: one floor live, others dimmed. Tap to request floor; name the handover.”
 
@@ -94,7 +94,7 @@ Lina made it a ritual because bodies respect rituals more than orders. She stood
 
 “It’s there, not sharp,” he said. “Like a first step of a thought.”
 
-“Good,” she said. “Buzz de Luxe at one.” She set her fingers to his jaw—thumb light on the hinge, guiding his chin a degree down and back. “Loose here,” she said. “If you clench, RAE has to shove. Slack jaw gives her a cleaner bone path along the mandible into the mastoid—clearer at less push.” He let his tongue drop from the roof of his mouth and swallowed; pressure equalized and the contact snapped cleaner. “Now it’s one‑point‑five.”&#x20;
+“Good,” she said. “Buzz de Luxe at one.” She set her fingers to his jaw - thumb light on the hinge, guiding his chin a degree down and back. “Loose here,” she said. “If you clench, RAE has to shove. Slack jaw gives her a cleaner bone path along the mandible into the mastoid - clearer at less push.” He let his tongue drop from the roof of his mouth and swallowed; pressure equalized and the contact snapped cleaner. “Now it’s one‑point‑five.”&#x20;
 
 Milo wrote **mastoid + relaxed jaw = cleaner** on his page like a brand new truth.
 
@@ -104,7 +104,7 @@ Milo wrote **mastoid + relaxed jaw = cleaner** on his page like a brand new trut
 
 “Exactly,” Lina said. “We pick: good camouflage or good coupling. Today, coupling wins.”
 
-Jason turned his head slowly. The phase jitter he’d felt before—the way RAE’s presence smeared if he moved too fast—stayed small, a ripple rather than a tear. He matched his motion to that ripple and the ripple smiled back.
+Jason turned his head slowly. The phase jitter he’d felt before - the way RAE’s presence smeared if he moved too fast - stayed small, a ripple rather than a tear. He matched his motion to that ripple and the ripple smiled back.
 
 “Bone‑buzz confirmed,” RAE said, with a dryness that made Milo snort. “Contact is king.”
 
@@ -114,7 +114,7 @@ Jason turned his head slowly. The phase jitter he’d felt before—the way RAE�
 
 Lina slid her hair forward, checked herself in the dark of the window. A shadow of hardware showed if she leaned into the light just so; otherwise, it read as habit. She flicked the hook with a nail and felt the tiny answer come back through bone. “Okay,” she said to the room and the day. “We can be boring in public.”
 
-“Before we go public,” Milo said, “rules.” He read from his clipboard like a man at a podium in a town without podiums. “One: floor control. Only one voice live; others dim. Two: handshake on join, *low tide*. Three: tap gesture to request floor. Four: **Red stops**—anyone can call it."
+“Before we go public,” Milo said, “rules.” He read from his clipboard like a man at a podium in a town without podiums. “One: floor control. Only one voice live; others dim. Two: handshake on join, *low tide*. Three: tap gesture to request floor. Four: **Red stops** - anyone can call it."
 
 Lina andded "Five: we do bursts, not monologues. If we need to infodump, we write a note, we fold it, we eat it later.”
 
@@ -130,7 +130,7 @@ Milo scribbled **precision > force** twice, then drew a skull and crossbones nex
 
 ---
 
-They did a loop of the building to teach the clips their people. In the stairwell, RAE rode the iron handrail and made it hum on consonants when one of them touched it. In the hall, she borrowed the return air grille and spoke exactly at their ankles. At Mrs. Hanley’s door, she went quiet because her music—the morning’s sustained whistle while watering plants—was a pure note that made RAE prudent.
+They did a loop of the building to teach the clips their people. In the stairwell, RAE rode the iron handrail and made it hum on consonants when one of them touched it. In the hall, she borrowed the return air grille and spoke exactly at their ankles. At Mrs. Hanley’s door, she went quiet because her music - the morning’s sustained whistle while watering plants - was a pure note that made RAE prudent.
 
 “Field hygiene,” Lina murmured. “If it hums steady, don’t talk steady. Use brief packets off rhythm or change the thing that’s vibrating.”
 
@@ -154,9 +154,9 @@ Milo held up two fingers. “On your count.”
 
 “Low tide,” she said, and breathed him into time like she did before a difficult dish: in for four, hold, out for six. He matched, not because she asked, but because his body liked obeying competence.
 
-“Floor to Milo,” she said, tapping her clip—one, then two.
+“Floor to Milo,” she said, tapping her clip - one, then two.
 
-“Live,” Milo said, and for a heartbeat there were three voices on the line—Jason’s, Lina’s, RAE mixing and relaying timbres so each landed on the right bone with the right weight.
+“Live,” Milo said, and for a heartbeat there were three voices on the line - Jason’s, Lina’s, RAE mixing and relaying timbres so each landed on the right bone with the right weight.
 
 It was clean for exactly three‑quarters of a second. Then the room crowded and Jason felt the first push of pressure behind his eyes, his hands becoming fists.
 
@@ -166,7 +166,7 @@ Silence came like a mercy with good timing. The fridge remembered it could hum. 
 
 Milo wrote **1.8 s at 8 m** and underlined **cooldown 2 min**.
 
-Lina put a palm on the back of Jason’s neck, grounding him on purpose. He rolled his shoulders—headache denied, pressure stepping back down the ladder.
+Lina put a palm on the back of Jason’s neck, grounding him on purpose. He rolled his shoulders - headache denied, pressure stepping back down the ladder.
 
 “Cost curve confirmed,” RAE said. “Two streams steady; the third only in pulses with recovery. If we must run three, we move closer and shrink radius.”
 
@@ -228,7 +228,7 @@ Back at the table, they wrote the rules once more, but finer.
 
 - *One* voice live; others dim. Tap to request; name the handover.
 - *Handshake on join:* “low tide.”
-- *Red stops*—called by anyone, obeyed by all.
+- *Red stops* - called by anyone, obeyed by all.
 - *Two streams steady.* *Three* only in short pulses → **cooldown**.
 - *Contact beats distance.* Fit check: mastoid + relaxed jaw; adjust micro‑ratchet one click at a time.
 - Avoid pure, held notes; avoid steady external drives; use brief packets off the rhythm.
@@ -243,7 +243,7 @@ He held up two fingers. “Run the last test.”
 
 “It is, somewhere,” Lina said, adjusting her hair so it *almost* hid the hook without dampening it. “But we’re not that somewhere.”
 
-Jason’s reflection did what it always did—failed to argue back—and that was fine. He tilted his head. The clip read as a nothing. A choice kept private. A promise you didn’t have to sell.
+Jason’s reflection did what it always did - failed to argue back - and that was fine. He tilted his head. The clip read as a nothing. A choice kept private. A promise you didn’t have to sell.
 
 “Exit image,” Milo said grandly. “Clips that aren’t there.”
 
@@ -251,6 +251,6 @@ Jason’s reflection did what it always did—failed to argue back—and that wa
 
 “Stability is the point,” Jason said, and the room agreed.
 
-They cleaned the table because mess presses on the head, then ate the last two cookies because rituals require sugar or salt or both. When they finally stepped out, the clips lay against skin like they’d always belonged—nothing to see, everything to use.
+They cleaned the table because mess presses on the head, then ate the last two cookies because rituals require sugar or salt or both. When they finally stepped out, the clips lay against skin like they’d always belonged - nothing to see, everything to use.
 
 Outside, the wind tried to become a steady tone and thought better of it. Inside, the fridge kept time. The day decided to be ordinary and, for once, meant it.

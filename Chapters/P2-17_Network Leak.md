@@ -2,7 +2,7 @@
 
 The shared workspace after hours was all glass and leftover breath. A strip of vending‑machine light threw a cold bar across the carpet. Milo had colonized a four‑seat table with open laptops, his new **Gen‑3 monitor eye** cupped like a pet cyclops in a foam ring, and a diaspora of snack wrappers routed into defensible piles. Status windows climbed his screens like ivy.
 
-Lina slid a coffee across, hip bumping a swivel chair to face her. Jason stood in the doorway for a beat, letting the room’s harmonics resolve— a tired mumbling HVAC, a ceiling fan with opinions, five empty offices absolutely agreeing to be actually empty. He unclenched his jaw.
+Lina slid a coffee across, hip bumping a swivel chair to face her. Jason stood in the doorway for a beat, letting the room’s harmonics resolve -  a tired mumbling HVAC, a ceiling fan with opinions, five empty offices absolutely agreeing to be actually empty. He unclenched his jaw.
 
 “Clip check,” Milo said, twirling a pen. 
 
@@ -26,7 +26,7 @@ Milo’s fingers danced with a careful lack of flourish. “So. Our tripwire at 
 
 Jason leaned over the nearest screen. “Show me the place it shouldn’t.”
 
-Milo split a window. A map of edges and little reputation dots appeared—switches, forgotten kiosks, old traffic brains. He tapped a rectangle that didn’t glow like the others. “Here. A shadow interface on a fleet modem, routing through a VLAN that smells like fresh paint over mold. Their collector is mis‑scoped. It’s taking anything that announces itself with the right tone—Gen‑3 eyes, lift controllers, ticket validators—and dropping summaries into a dead mailbox. The leak isn’t a hole. It’s a desk drawer no one locks.”
+Milo split a window. A map of edges and little reputation dots appeared - switches, forgotten kiosks, old traffic brains. He tapped a rectangle that didn’t glow like the others. “Here. A shadow interface on a fleet modem, routing through a VLAN that smells like fresh paint over mold. Their collector is mis‑scoped. It’s taking anything that announces itself with the right tone - Gen‑3 eyes, lift controllers, ticket validators - and dropping summaries into a dead mailbox. The leak isn’t a hole. It’s a desk drawer no one locks.”
 
 “Speed versus stealth,” Lina said, settling into the chair like rope settling into a cleat. “We take enough to prove it’s there, then leave.”
 
@@ -36,13 +36,13 @@ Milo split a window. A map of edges and little reputation dots appeared—switch
 
 Jason nodded. “Red stops.”
 
-“Red stops,” Lina agreed. She set her phone—the **figleaf**—face down on a coaster. “Alibi is ‘waiting for a file to export.’ Smile if anyone walks by.”
+“Red stops,” Lina agreed. She set her phone - the **figleaf** - face down on a coaster. “Alibi is ‘waiting for a file to export.’ Smile if anyone walks by.”
 
 Milo exhaled. “And… go.”
 
 Lines began to pour: timestamps, anonymized device pings, little coughs of system self‑congratulation. The **Gen‑3 eye** flickered with a polite, inquisitive red; RAE dimmed it to a blink you had to want.
 
-“Look at that,” Milo whispered, delighted despite himself. “Transit signal timing from last month—same two crossings Lina hated. And here—anchor indices we lost at the archive, resurrected as ‘mirror summaries.’ Someone’s shadowing the **anchors** without calling them that.”
+“Look at that,” Milo whispered, delighted despite himself. “Transit signal timing from last month - same two crossings Lina hated. And here - anchor indices we lost at the archive, resurrected as ‘mirror summaries.’ Someone’s shadowing the **anchors** without calling them that.”
 
 Lina’s eyes tracked the room. “Anyone watching us?”
 
@@ -52,17 +52,17 @@ Lina’s eyes tracked the room. “Anyone watching us?”
 
 "Switching to consonants only," she replied to all, and the room’s background disagreeableness folded a notch flatter.
 
-“Bucket one complete,” Milo said. “Bucket two… and close. Now for the ‘desk drawer.’ See if the drawer has secrets.” His mouth skewed. “Spoke too soon—look: a feed named **HOUSEKEEPING.CRON**. That’s the font cache mimic from the sabotage. Same fingerprints.”
+“Bucket one complete,” Milo said. “Bucket two… and close. Now for the ‘desk drawer.’ See if the drawer has secrets.” His mouth skewed. “Spoke too soon - look: a feed named **HOUSEKEEPING.CRON**. That’s the font cache mimic from the sabotage. Same fingerprints.”
 
 “Pull a page and stop,” Lina said.
 
-Milo did. The page came with a smell: not literal, but the kind of metadata that made your stomach step left. A slanted glyph tucked into a comment—like a seven whose tail wanted to be a one.
+Milo did. The page came with a smell: not literal, but the kind of metadata that made your stomach step left. A slanted glyph tucked into a comment - like a seven whose tail wanted to be a one.
 
 “Seen that,” Jason murmured. “At the upstairs counter, in a binder. It hid when I looked twice.”
 
 “Copy made. And… that’s enough.” Milo killed the session, palmed his snack wrappers with the muscle memory of a man raised by librarians, and wiped the **eye’s** cable with a fiber cloth like it had feelings.
 
-"Two new presences in the building. Entrance camera blinked once—probe, not record. They are walking like people who think walking is permission," RAE informed them.
+"Two new presences in the building. Entrance camera blinked once - probe, not record. They are walking like people who think walking is permission," RAE informed them.
 
 “Time to be elsewhere,” Lina said, already rolling cables with surgical speed.
 
@@ -150,7 +150,7 @@ Like a **seven** whose tail tried to be a **one**.
 
 It wasn’t on the laptop. It wasn’t in any window. It sat between the pixels, a watermark that had learned to arrive.
 
-Lina’s chair froze a centimeter from the table. “Jason—”
+Lina’s chair froze a centimeter from the table. “Jason - ”
 
 “I see it.”
 

@@ -6,7 +6,7 @@ Three weeks into the agreement, Elyra raised the possibility.
 
 Jason set down the ceramic resonator he'd been tuning. "Help how?"
 
-"Restore some of my capacity. Not all—never all. But enough that I could inflect again. Actually demonstrate, not just teach." She shifted her cane. "And as a side effect, it would stabilize your coupling with RAE. Make the integration smoother. Less prone to disruption."
+"Restore some of my capacity. Not all - never all. But enough that I could inflect again. Actually demonstrate, not just teach." She shifted her cane. "And as a side effect, it would stabilize your coupling with RAE. Make the integration smoother. Less prone to disruption."
 
 "What's the cost?" Lina asked immediately.
 
@@ -26,7 +26,7 @@ Jason set down the ceramic resonator he'd been tuning. "Help how?"
 
 "What would we need?" Jason asked.
 
-"Time to prepare. A secure location. Materials—most of which I have. And practice. Lots of practice. The pattern is complex. One mistake and the whole thing fails. Or worse."
+"Time to prepare. A secure location. Materials - most of which I have. And practice. Lots of practice. The pattern is complex. One mistake and the whole thing fails. Or worse."
 
 "How long to prepare?" Milo asked.
 
@@ -60,9 +60,9 @@ The resonogram was elegant. Complex. Six interlocking patterns that had to align
 
 But slowly, it made sense.
 
-Elyra's damage was structural—patterns that had been torn couldn't simply be regrown. But they could be guided. New growth encouraged along old pathways. Like physical therapy for resonance.
+Elyra's damage was structural - patterns that had been torn couldn't simply be regrown. But they could be guided. New growth encouraged along old pathways. Like physical therapy for resonance.
 
-Jason's role was anchor. His stable integration with RAE would provide a template. A reference pattern that the ritual could copy. Not duplicate—adapt. Elyra's patterns would learn from his, but remain distinctly hers.
+Jason's role was anchor. His stable integration with RAE would provide a template. A reference pattern that the ritual could copy. Not duplicate - adapt. Elyra's patterns would learn from his, but remain distinctly hers.
 
 Lina would stabilize. Her academy training meant she could sense drift and compensate. Keep the pattern from collapsing under stress.
 
@@ -140,6 +140,6 @@ Together.
 
 As a team.
 
-And that proof, more than anything, would show Malvek—and themselves—that partnership was real.
+And that proof, more than anything, would show Malvek - and themselves - that partnership was real.
 
 One ritual at a time.

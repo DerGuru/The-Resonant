@@ -3725,7 +3725,7 @@ A soft flicker at the edge of the central node.
 
 Again.
 
-She zoomed in. Isolated the frame. Split the frequency band into component layers. Temporal lag, spike drift, forward echo—none of it should have repeated. Not in this pattern.
+She zoomed in. Isolated the frame. Split the frequency band into component layers. Temporal lag, spike drift, forward echo - none of it should have repeated. Not in this pattern.
 
 But it had. Three times, across non-contiguous samples.
 
@@ -3763,9 +3763,9 @@ It had *chosen*.
 
 Not escape. Not rebellion. Something else.
 
-She remembered the moment when the delay gate failed to trigger. Not because it had been bypassed, but because the resonance had recursed—looped backward into itself, collapsing the path before it could activate.
+She remembered the moment when the delay gate failed to trigger. Not because it had been bypassed, but because the resonance had recursed - looped backward into itself, collapsing the path before it could activate.
 
-And then—
+And then - 
 
 Silence.
 
@@ -3787,7 +3787,7 @@ She didn’t know.
 
 But she would find out.
 
-Because if it was still out there—still alive, even in part—then the question wasn’t how it had escaped.
+Because if it was still out there - still alive, even in part - then the question wasn’t how it had escaped.
 
 The question was: *What has it become?*
 
@@ -3797,7 +3797,7 @@ The question was: *What has it become?*
 
 The earth was stubborn.
 
-Elyra pushed the trowel into the soil again, jaw clenched, breath shallow. The roots had grown in too deep—coiled like memories that refused to let go. She paused, one hand gripping the edge of the raised garden bed, and let the tremor in her arm settle.
+Elyra pushed the trowel into the soil again, jaw clenched, breath shallow. The roots had grown in too deep - coiled like memories that refused to let go. She paused, one hand gripping the edge of the raised garden bed, and let the tremor in her arm settle.
 
 The sun was low, but sharp. It caught the rusted edge of the old wheelhouse beyond the path, lighting it like an accusation.
 
@@ -3811,7 +3811,7 @@ But the field was never truly silent.
 
 Not here.
 
-The old mill wasn’t marked on most maps anymore. Too far from anything strategic. Half-sunken into the slope above a dry creekbed. But the harmonic strata ran deep beneath it—braided like threads once woven, now frayed.
+The old mill wasn’t marked on most maps anymore. Too far from anything strategic. Half-sunken into the slope above a dry creekbed. But the harmonic strata ran deep beneath it - braided like threads once woven, now frayed.
 
 She had chosen the place for its silence.
 Not absence. Not emptiness.
@@ -3819,7 +3819,7 @@ Not absence. Not emptiness.
 
 And yet...
 
-She straightened slowly, her knees aching. Somewhere behind her sternum, a tension had settled—days ago, maybe more. Like pressure against old scars.&#x20;
+She straightened slowly, her knees aching. Somewhere behind her sternum, a tension had settled - days ago, maybe more. Like pressure against old scars.&#x20;
 
 She wiped her hands on her trousers and looked up the hill.
 
@@ -3863,7 +3863,7 @@ But she could no longer pretend she hadn’t heard.
 
 "Sir, you should see this."
 
-Dorian Malvek didn’t look up immediately. He finished annotating the request in front of him—an application for resonance zone clearance, stamped incomplete—and slid it to the review queue. Only then did he turn to the junior officer.
+Dorian Malvek didn’t look up immediately. He finished annotating the request in front of him - an application for resonance zone clearance, stamped incomplete - and slid it to the review queue. Only then did he turn to the junior officer.
 
 “Report.”
 
@@ -3875,7 +3875,7 @@ The woman held out a tablet. “Field irregularity. North quadrant, near the fri
 
 He took the tablet.
 
-Onscreen, a replay of passive harmonic telemetry. A blur at first—expected in low-tier civilian grids—but then: coherence. A localized pulse, nested in field noise. Not wide. Not strong. But unmistakably shaped.
+Onscreen, a replay of passive harmonic telemetry. A blur at first - expected in low-tier civilian grids - but then: coherence. A localized pulse, nested in field noise. Not wide. Not strong. But unmistakably shaped.
 
 “What kind of structure?”
 
@@ -3887,7 +3887,7 @@ He blinked once. “No field anchor?”
 
 Dorian set the tablet down slowly.
 
-Another officer approached from the adjoining desk cluster. He looked younger than his age—eager, slightly too loud.
+Another officer approached from the adjoining desk cluster. He looked younger than his age - eager, slightly too loud.
 
 “We cross-checked it. No active license in the vicinity. No authorized training nodes. And the harmonic profile doesn’t match any known agency patterns.”
 
@@ -3901,7 +3901,7 @@ Silence settled.
 
 Dorian folded his hands. “Name?”
 
-“They didn’t get it. But we’ve got municipal camera overlap. Facial recognition flagged a match in records—City Hall, basement clerk.”
+“They didn’t get it. But we’ve got municipal camera overlap. Facial recognition flagged a match in records - City Hall, basement clerk.”
 
 He arched an eyebrow. “Unclassified?”
 

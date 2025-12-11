@@ -2,7 +2,7 @@
 
 The surveillance started subtly.
 
-A flicker of movement caught Jason's eye—a figure in the market crowd, too still, too observing. Then it was gone, swallowed by the sea of faces.
+A flicker of movement caught Jason's eye - a figure in the market crowd, too still, too observing. Then it was gone, swallowed by the sea of faces.
 
 "Did you see that?" Jason murmured, his voice low.
 
@@ -14,7 +14,7 @@ Milo nudged him, nodding towards a booth. "Look. Resonance shields. Might be use
 
 Jason forced himself to focus on the booth, pretending to examine the wares. But his mind was racing. Who was watching? Why the sudden interest?
 
-And then he saw it—a glint of recognizable design. A Gen-3 monitor, like the one they had just purchased, but this one was different. Modified. Enhanced. Dangerous.
+And then he saw it - a glint of recognizable design. A Gen-3 monitor, like the one they had just purchased, but this one was different. Modified. Enhanced. Dangerous.
 
 "Jason, focus," Lina said, her voice a sharp whisper.
 
@@ -40,9 +40,9 @@ It was a good plan. The only plan.
 
 They separated, each taking a different route, hearts pounding, instincts on high alert.
 
-Jason could feel the resonant signature of the monitor in his bag, the way it pulsed in time with his racing heart. It was both a comfort and a curse—a reminder of their progress, and of the attention it had attracted.
+Jason could feel the resonant signature of the monitor in his bag, the way it pulsed in time with his racing heart. It was both a comfort and a curse - a reminder of their progress, and of the attention it had attracted.
 
-As he navigated the streets, he could feel the resonance of the city around him—the hum of the tram lines, the distant thrum of industry, the irregular beats of other travelers. But overlaid on that was a new resonance: a sharp, probing presence that searched and scanned, seeking an anomaly, a signal, a reason to pursue.
+As he navigated the streets, he could feel the resonance of the city around him - the hum of the tram lines, the distant thrum of industry, the irregular beats of other travelers. But overlaid on that was a new resonance: a sharp, probing presence that searched and scanned, seeking an anomaly, a signal, a reason to pursue.
 
 *They're close,* RAE warned, its tone shifting to match the urgency of the moment. *Move faster. Don't lead them to the others.*
 
@@ -64,7 +64,7 @@ Jason nodded, though the worry lingered. They were all in danger now, more than 
 
 As he unpacked the rest of their supplies, his mind raced with possibilities and plans. They needed to be smarter, faster, more careful. The world had become a lot more dangerous in the span of a few hours, and the resonance market, with all its opportunities, had also laid bare the risks they faced.
 
-It was a reminder of the fine line they were walking—a line that was growing thinner with every step they took.
+It was a reminder of the fine line they were walking - a line that was growing thinner with every step they took.
 
 *We need to talk about the next phase,* RAE said, shifting the focus back to their objectives. *We can't afford another close call. Not when we're this close to the edge.*
 

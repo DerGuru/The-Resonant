@@ -10,7 +10,7 @@ Jason spent the first twelve dissecting the contract with Milo. Every clause. Ev
 
 They worked methodically. By evening, they had a list of seventeen specific concerns and proposed language for each.
 
-Lina came by with food—actual food, not just caffeine. "You two need to eat," she said, setting down containers from her father's restaurant.
+Lina came by with food - actual food, not just caffeine. "You two need to eat," she said, setting down containers from her father's restaurant.
 
 "After we finish section six," Milo said without looking up.
 
@@ -18,7 +18,7 @@ Lina came by with food—actual food, not just caffeine. "You two need to eat," 
 
 Jason closed his laptop. She was right. Again.
 
-They ate in companionable silence for a few minutes. The food was good—some kind of stir-fry with rice, vegetables that actually had flavor, protein that wasn't from a vending machine.
+They ate in companionable silence for a few minutes. The food was good - some kind of stir-fry with rice, vegetables that actually had flavor, protein that wasn't from a vending machine.
 
 "Thank you," Jason said.
 
@@ -42,7 +42,7 @@ The second meeting happened exactly on schedule.
 
 Same amphitheater. Same time. Same Thomas Reeves walking down stone steps with professional calm.
 
-This time, Jason brought the team. Not hidden—standing with him. A show of unity and transparency.
+This time, Jason brought the team. Not hidden - standing with him. A show of unity and transparency.
 
 Reeves noticed. Approved, by the slight nod he gave before sitting.
 
@@ -60,7 +60,7 @@ After five minutes: "Most of these are acceptable. Three need clarification. And
 
 "We're not unsanctioned anymore," Jason said. "That's the point of this agreement. We become sanctioned. With obligations on both sides."
 
-"Fair point." Reeves continued reading. "The check-in format you proposed—coffee shop, thirty minutes, weekly—that's acceptable. The defined boundaries for 'public demonstration' and 'unauthorized research'—acceptable with minor language tweaks. The data retention limits on monitoring—acceptable."
+"Fair point." Reeves continued reading. "The check-in format you proposed - coffee shop, thirty minutes, weekly - that's acceptable. The defined boundaries for 'public demonstration' and 'unauthorized research' - acceptable with minor language tweaks. The data retention limits on monitoring - acceptable."
 
 He scrolled to the end. "You've been thorough. Almost as if you've negotiated contracts like this before."
 
@@ -70,11 +70,11 @@ He scrolled to the end. "You've been thorough. Almost as if you've negotiated co
 
 "And if he doesn't approve?" Lina asked, her voice careful.
 
-"Then we renegotiate. But I suspect he will. You've addressed legitimate oversight concerns while protecting your autonomy. That's exactly what he wanted to see—intelligence and restraint." Reeves stood. "One more thing. The Director would like to meet you. Personally. After the contract is signed."
+"Then we renegotiate. But I suspect he will. You've addressed legitimate oversight concerns while protecting your autonomy. That's exactly what he wanted to see - intelligence and restraint." Reeves stood. "One more thing. The Director would like to meet you. Personally. After the contract is signed."
 
 Jason's stomach tightened. "Why?"
 
-"To establish rapport. He prefers to know who he's working with. And make no mistake—if this agreement proceeds, you will be working with him. Not for him. With." Reeves's expression remained neutral. "He respects capability. Expects the same in return. That requires face-to-face conversation."
+"To establish rapport. He prefers to know who he's working with. And make no mistake - if this agreement proceeds, you will be working with him. Not for him. With." Reeves's expression remained neutral. "He respects capability. Expects the same in return. That requires face-to-face conversation."
 
 "When?" Jason asked.
 
@@ -126,7 +126,7 @@ The attorney's office smelled like leather and old paper.
 
 A conference room. Long table. Eight chairs. Contract printed on premium stock, bound in a blue folder.
 
-Thomas Reeves sat on one side. Jason, Lina, and Milo on the other. The attorney—a woman in her fifties with sharp eyes and zero patience for nonsense—presided at the head.
+Thomas Reeves sat on one side. Jason, Lina, and Milo on the other. The attorney - a woman in her fifties with sharp eyes and zero patience for nonsense - presided at the head.
 
 "Everyone ready?" she asked.
 
@@ -180,7 +180,7 @@ Outside, the sun was setting. They walked three blocks before anyone spoke.
 
 *So do I.*
 
-They reached the warehouse as full dark fell. Inside, Elyra had prepared tea—actual tea, not the cheap stuff—and they sat around the makeshift table, holding warm cups, feeling the weight of what they'd done.
+They reached the warehouse as full dark fell. Inside, Elyra had prepared tea - actual tea, not the cheap stuff - and they sat around the makeshift table, holding warm cups, feeling the weight of what they'd done.
 
 "First check-in is in seven days," Jason said. "At Meridian Coffee. Wednesday, 10 AM. Thirty minutes. Status update only."
 

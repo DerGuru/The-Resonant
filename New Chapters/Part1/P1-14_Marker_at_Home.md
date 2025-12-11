@@ -44,7 +44,7 @@ Jason slid down the door until he was sitting on the floor, his knees drawn up. 
 
 *You stay calm. You continue as normal. But you take precautions. Don't bring sensitive materials here. Don't discuss plans within these walls. Assume you're being watched.*
 
-Jason's throat tightened. His safe space—his home—wasn't safe anymore.
+Jason's throat tightened. His safe space - his home - wasn't safe anymore.
 
 "I hate this," he whispered.
 
@@ -62,7 +62,7 @@ Jason stood, took a breath, and opened the door. "Hi, Mrs. Amari."
 
 She stood in the hallway, holding a covered plate. "I made too much again. Thought you might like some dinner."
 
-Her eyes flicked to the doorframe—so quick Jason almost missed it. Then back to his face.
+Her eyes flicked to the doorframe - so quick Jason almost missed it. Then back to his face.
 
 "Everything alright?" she asked. "You look pale."
 
@@ -102,7 +102,7 @@ Or was he just paranoid?
 
 *I don't know who to trust anymore,* he thought.
 
-*Trust yourself,* RAE said firmly. *Trust Milo and Lina—they've earned it. Everyone else, remain cautious until they prove themselves.*
+*Trust yourself,* RAE said firmly. *Trust Milo and Lina - they've earned it. Everyone else, remain cautious until they prove themselves.*
 
 Jason nodded. That was good advice.
 

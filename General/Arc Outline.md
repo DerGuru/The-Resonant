@@ -1,10 +1,10 @@
-﻿# The Resonant — Arc Blueprint
+﻿# The Resonant  -  Arc Blueprint
 
 This book makes the assumption, that humans have gained access to harmonic resonance (as described separately in the document "Harmic Resonance.md")
 
 > **Scope:** Definitive, writer‑facing outline for Part II (Search → Elyra Training → Ritual & Aftermath → Open Ending). Built for long hiatus recovery: every chapter has **Purpose**, **Setting Anchors**, **Conflict Engine**, **Key Beats**, **Exit Image**, and **Locks** (continuity hooks). Keep the tone rule in mind at all times.
 >
-> **Tone Rule:** Part II is lighter whenever Jason/RAE/Lina/Milo are together *without immediate threat*; darker in scenes with authorities, containment, or unknown observers. Humor and tenderness are allowed to breathe—but always under pressure.
+> **Tone Rule:** Part II is lighter whenever Jason/RAE/Lina/Milo are together *without immediate threat*; darker in scenes with authorities, containment, or unknown observers. Humor and tenderness are allowed to breathe - but always under pressure.
 
 ---
 
@@ -30,10 +30,10 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 ---
 
-## PART 2: SEARCH ARC — Tracking Elyra (20 chapters)
+## PART 2: SEARCH ARC  -  Tracking Elyra (20 chapters)
 *Investigation across city systems, maps, and field anomalies. Banter forward; paper before digital; small wins accumulate into pattern recognition.*
 
-### Ch. 0.1 — **Kettle Lessons**
+### Ch. 0.1  -  **Kettle Lessons**
 **Purpose:** Make safety numbers and language muscle-memory in ordinary life.  
 **Setting Anchors:** Jason’s apartment; kettle hiss; fridge 120 Hz; router LED blink.  
 **Conflict Engine:** Patience vs. the urge to “do something big.”  
@@ -41,7 +41,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The map with parameters folds into the jacket.  
 **Locks:** **Slow channel** baseline; verbal all day.
 
-### Ch. 0.2 — **Calibration & Misalignment** (house & street trials)
+### Ch. 0.2  -  **Calibration & Misalignment** (house & street trials)
 **Purpose:** Turn protocol into muscle memory; prove the value of *small, precise* shapes.
 **Setting Anchors:** Apartment tones; elevator motor; mailbox bank; sidewalk grit; distant tram line.
 **Conflict Engine:** Curiosity to push vs. ethics of restraint; city noise vs. field listening.
@@ -49,7 +49,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Jason slides the card behind his ID: *slow channel all day; Red stops*.
 **Locks:** “Bench Scale” gag queued; plan to avoid terminals when possible.
 
-### Ch. 1 — **Resonogram Cluster**
+### Ch. 1  -  **Resonogram Cluster**
 **Purpose:** Prove that paper holds residues and that old machines still listen; seed the map depot lead.
 **Setting Anchors:** Intake desk; vertical plan drawers; microfiche; climate hum; **Gen‑3 monitor** LED; **Harris** with toolkit.
 **Conflict Engine:** Curiosity vs. surveillance; analog memory vs. digital traps.
@@ -57,7 +57,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Monitor’s single eye staring; room holding breath.
 **Locks:** Don’t overuse terminals; retention artefacts; lead → **Städtisches Kartenwerk, Depot B (Mill‑4)**.
 
-### Ch. 2 — **Forbidden Maps**
+### Ch. 2  -  **Forbidden Maps**
 **Purpose:** Walk the suspicious line in daylight; test public‑space discipline; birth the **phone alibi**.
 **Setting Anchors:** Mill‑4 cobbles; way‑spaced benches; footbridge lattice; riverside “gap”; market café; tram ding; fridge hum.
 **Conflict Engine:** Staying invisible vs. gathering data; Jason’s physiology vs. route demands.
@@ -66,15 +66,15 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Tram passes; RAE says *“bye”* through speaker; no one turns.
 **Locks:** Bench motif; salt+water; **v0.1** protocol established.
 
-### Ch. 3 — **Field Test**
+### Ch. 3  -  **Field Test**
 **Purpose:** Validate archive findings on site; demonstrate *micro‑deflection* under stress.
 **Setting Anchors:** Junction where the mapped line meets real curbs; service alley; noise from HVAC units; puddles.
 **Conflict Engine:** Instability spike vs. restraint; helping the city vs. exposing themselves.
-**Key Beats:** Paper map overlay on curb geometry; Jason shapes a **quarter‑second phase nudge** (quality > force); Lina anchors timing with breath counts; Milo calls **“eyes on civilians”**; tiny **resonant core** pops free roadside—Milo pockets it without comment.
+**Key Beats:** Paper map overlay on curb geometry; Jason shapes a **quarter‑second phase nudge** (quality > force); Lina anchors timing with breath counts; Milo calls **“eyes on civilians”**; tiny **resonant core** pops free roadside - Milo pockets it without comment.
 **Exit Image:** Wind flips the map to the exact blank spot that vanished in the archive.
 **Locks:** Introduce **micro‑deflection** as a repeatable technique; log core for later triple‑pulse echo.
 
-### Ch. 4 — **The Dealer’s Trap**
+### Ch. 4  -  **The Dealer’s Trap**
 **Purpose:** Tempt the team with fast intel; reaffirm *receipts over rumors*.
 **Setting Anchors:** Basement shop with mismatched fluorescents; too‑tidy back room; citrus cleaner smell.
 **Conflict Engine:** Desire for shortcuts vs. ethics and opsec; dealer’s charisma vs. Milo’s diligence.
@@ -82,7 +82,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** In the corridor, a faint two‑note **melody** from the next room makes Jason pause.
 **Locks:** Street‑musician motif seeded; the dealer will reappear post‑ritual, nursing a grudge.
 
-### Ch. 4.5 — **Look Out** *(bridge)*
+### Ch. 4.5  -  **Look Out** *(bridge)*
 **Purpose:** Seam between dealer trap and cafe contact; build and test **whisper-clips**.  
 **Setting Anchors:** Stairwell reverb; workbench; solder rosin smell; tram bell far off.  
 **Conflict Engine:** *Good camouflage* vs. *good coupling*.  
@@ -90,7 +90,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** On their way to the café.  
 **Locks:** Whisper-clips as primary carrier from here on.
 
-### Ch. 5 — **Malvek’s Agent**
+### Ch. 5  -  **Malvek’s Agent**
 **Purpose:** Put a face to institutional pressure; define the “observe only” ideology as seductive and reasonable.
 **Setting Anchors:** Sunny café terrace; traffic hush behind glass; plant in corner.
 **Conflict Engine:** Safety through control vs. autonomy through consent; politeness as weapon.
@@ -98,7 +98,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The plant leaf trembles without draft.
 **Locks:** Doorframe marker recurs; Dorian’s *observe only* posture established.
 
-### Ch. 6 — **Industrial Yard**
+### Ch. 6  -  **Industrial Yard**
 **Purpose:** Collect hard data in a controlled trespass; show controlled withdrawal under near‑alarm.
 **Setting Anchors:** Shuttered yard; chain‑link fence; faded safety posters; angle‑iron echoes; freight hum ghosting from tracks.
 **Conflict Engine:** Curiosity vs. security response; Jason’s body signals vs. goal fixation.
@@ -106,7 +106,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Rail‑joint rhythm on the train home syncs with Jason’s chest **tugs**.
 **Locks:** Yard’s loop connects to later river drift pattern.
 
-### Ch. 7 — **City Anomaly**
+### Ch. 7  -  **City Anomaly**
 **Purpose:** Show that danger appears in ordinary life; validate Jason’s precision.
 **Setting Anchors:** Weekend street; busker; bakery queue; stroller wheels on cobbles.
 **Conflict Engine:** Public safety vs. invisibility; RAE’s caution vs. time pressure.
@@ -114,7 +114,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** A passerby lowers her phone, meets Jason’s eyes, **smiles**.
 **Locks:** The filmer can return as ally or watcher.
 
-### Ch. 8 — **Weight of the Day**
+### Ch. 8  -  **Weight of the Day**
 **Purpose:** Breathe; surface values; show costs of compliance.
 **Setting Anchors:** Restaurant during prep; archive stacks at night; tram home in sodium light.
 **Conflict Engine:** Paycheck reality vs. clandestine work; boss’s rules vs. Jason’s ethics.
@@ -122,7 +122,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Jason stirs a pot; RAE notes pulse uptick: **unconscious Invest**.
 **Locks:** Food as stamina motif; sets texture for later decompression chapter.
 
-### Ch. 8.5 — **Quiet Build**
+### Ch. 8.5  -  **Quiet Build**
 **Purpose:** Operationalize whisper‑mesh etiquette and hygiene.  
 **Setting Anchors:** Kitchen table; tools; ear hooks; mastoid check.  
 **Conflict Engine:** Visibility vs. stability.  
@@ -130,7 +130,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Clips virtually invisible against skin.  
 **Locks:** Mesh hygiene rules persist.
 
-### Ch. 9 — **Artifact Reaction**
+### Ch. 9  -  **Artifact Reaction**
 **Purpose:** Give the search a tactile anchor; brush Jason against Elyra’s signature.
 **Setting Anchors:** Back room of a junk shop; tin shelving; dust sunbeams; oscillating fan.
 **Conflict Engine:** Touching the past vs. destabilizing the present.
@@ -138,7 +138,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Fan clicks **three times** after they leave.
 **Locks:** Triple‑pulse prefigured; object will feature in Elyra training.
 
-### Ch. 10 — **The Contact**
+### Ch. 10  -  **The Contact**
 **Purpose:** Swap rumor for a vetted lead; test trust with a puzzle.
 **Setting Anchors:** Quiet office over a print shop; paper cutter thunks; tea stains.
 **Conflict Engine:** Truth vs. self‑protection; asking vs. earning.
@@ -146,7 +146,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** On the stairs, a disembodied **“Take care.”** No speaker.
 **Locks:** Lead points to a place with old waterworks.
 
-### Ch. 11 — **False Trail**
+### Ch. 11  -  **False Trail**
 **Purpose:** Burn time and morale; reveal decoy technique.
 **Setting Anchors:** Empty address with staged dust; taped windows; cabinet with carved **spiral**.
 **Conflict Engine:** Frustration vs. patience; pushing vs. stopping.
@@ -154,7 +154,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Spiral catches light, seems to **turn**.
 **Locks:** Spiral motif returns in ritual geometry critique.
 
-### Ch. 12 — **Night Measurement**
+### Ch. 12  -  **Night Measurement**
 **Purpose:** Earn data the hard way; weather as antagonist.
 **Setting Anchors:** Rain on tarps; cheap ponchos; handheld meters; sodium glow; distant **lightning**.
 **Conflict Engine:** Exhaustion vs. rigor; weather vs. signal clarity.
@@ -172,7 +172,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Use later:** the cadence window.
 - **Note:** repeated micro‑signature detected under final **9‑9‑9** sequence; Jason registered but did not respond.
 
-### Ch. 13 — **Archive Sabotage**
+### Ch. 13  -  **Archive Sabotage**
 **Purpose:** Show the opposition’s reach inside institutions.
 **Setting Anchors:** Archive server room; air‑cold aisles; tape library; login kiosk.
 **Conflict Engine:** Preservation vs. erasure; speed vs. care.
@@ -191,7 +191,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Next:** Move to **Resonance Market** for gear and a docile monitor eye; maintain tripwire watch; prep a safe room for later controlled look at VOSS keyspace (only if we own the table and the doors).
 
 
-### Ch. 14 — **Resonance Market**
+### Ch. 14  -  **Resonance Market**
 **Purpose:** Expand the world; show economics and gossip vectors.
 **Setting Anchors:** Pop‑up stalls; patched power; antique meters; smell of solder.
 **Conflict Engine:** Needful curiosity vs. predatory sellers; opsec vs. bargains.
@@ -201,7 +201,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 **Debrief (for Outline)**
 
-- **Market norms & opsec:** cash only; first names or none; vendors probe with familiarity. Pure single‑tone demos are common—**RAE hard‑mutes** under sustained pure notes; team practiced the quiet exit.
+- **Market norms & opsec:** cash only; first names or none; vendors probe with familiarity. Pure single‑tone demos are common - **RAE hard‑mutes** under sustained pure notes; team practiced the quiet exit.
 - **Parts acquired:** ceramic resonator discs (clean), ferrite rods, aluminum rails + hardware, grounding strap, wire brushes, braided copper, one **Gen‑3 monitor “eye”** (docile temperament), jar of mid‑order **corelets** (baseline sample). No active cores purchased. Added: Faraday pouch; battery sleeves & tester; washers; scope‑rental info; swap‑bin jumpers.
 - **Cores taxonomy learned:** corelets (low‑order, decouple on bias release); mid‑order (prefer company; split = seeking); **cold cores** (spent, stable, judging); **fresh cores** (hungry → unsafe in small rooms). Handling etiquette captured (warmth → hand to Jason/grounded metal; ticking → put down).
 - **Bench Scale protocol:** every stop logged with a 0–5 rating and immediate departure to prevent stall gravity. High marks: Repair Bench (4.2), Faraday Pouches (4.1), Field Coils (4.0). Low marks: Artisanal tone box (1.4), Schematics tarp (1.9). Non‑booth encounter (Dorian) logged as message, not vendor.
@@ -210,7 +210,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Locks:** Vendor and Dorian can leak their presence; Lina’s exposure matters later; corelets will resonate near strong stable shapes (use as breadcrumb / lab sample). Faraday pouch procurement supports later opsec scene.
 - **Next:** log inventory; test the “eye” safely (no power); corelet storage in paper‑lined tin; refine clip stacks with the new ceramics; avoid artisan tone boxes; decide whether to try PATCH‑PANEL night hours under controlled conditions.
 
-### Ch. 15 — **Network Leak**
+### Ch. 15  -  **Network Leak**
 **Purpose:** Give Milo a hero turn; show digital stakes.
 **Setting Anchors:** Shared workspace at night; snack wrappers; status windows; alley for the chase.
 **Conflict Engine:** Data hunger vs. trace risk; speed vs. stealth.
@@ -227,10 +227,10 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Milo’s line (tone):** “No boss drop, just a side quest.”
 - **Locks:** The glyph links to the Open‑arc shadow; **CITY‑OPS‑DM‑17** as Malvek‑adjacent reach; the **anchors** mirror confirms someone is indexing what the archive tries to forget.
 - **Training/Cost:** Jason carried slow channel all night without spike; RAE dimmed to consonants under load; door‑squeak fix logged as **courtesy** (high Quality, minimal Firmness). Keep the **no heroics** rule.
-- **Next:** Short **Street Line** session to test the pure‑melody quiet field; start patterning the glyph across sightings; treat **Gen‑3 temperament** as curious but polite—don’t feed.
+- **Next:** Short **Street Line** session to test the pure‑melody quiet field; start patterning the glyph across sightings; treat **Gen‑3 temperament** as curious but polite - don’t feed.
 
 
-### Ch. 15.5 — **Street Line**
+### Ch. 15.5  -  **Street Line**
 **Purpose:** Prove that *pure melody* can quiet RAE; team trains **without** the voice.  
 **Setting Anchors:** Busker spot; tram crossing; soft crowd hum.  
 **Conflict Engine:** Relief vs. unease at the silence.  
@@ -240,7 +240,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 #### Debrief
 
-- **Purpose met:** Scene establishes, by showing, that a sustained pure melodic line near the whisper-clip’s resonance acts as a *hard lockout* for RAE’s carrier speech. Under that note her presence drops to a minimal, internal-only knot for Jason—no spoken comments in the clips, no gentle corrections riding the street sounds—until the tone decays.
+- **Purpose met:** Scene establishes, by showing, that a sustained pure melodic line near the whisper-clip’s resonance acts as a *hard lockout* for RAE’s carrier speech. Under that note her presence drops to a minimal, internal-only knot for Jason - no spoken comments in the clips, no gentle corrections riding the street sounds - until the tone decays.
 - **Fear / mood:** While the street stays outwardly ordinary, Jason’s body and thoughts signal unease: elevated pulse, tension in shoulders and hands, waiting-for-the-power-to-stay-out feeling, storm associations. Lina watches him and the environment more tightly; the whole team is aware they chose a bad moment to be without RAE if something went wrong. Terror doesn’t dominate, but there’s a clear *edge* under the procedural tone.
 - **Timing data (lightly in-text, detailed for outline here):** Milo’s watch gives them rough numbers: onset of silence within about one breath, hard silence around \~17–23 seconds per held note, a few seconds of lag before RAE’s presence returns. In the prose, this is shown via Milo’s timing, Jason counting heartbeats, and the pins-and-needles "coming back" sensation rather than long explanations.
 - **Jason’s tolerance:** He can operate under full RAE absence in a busy street without hitting Red. The cost is subjective: the world feels rougher and colder, and he keeps expecting her to interrupt. By the last run, his fear is still present but rideable, and he proves he can complete his listening drills from his own initiative.
@@ -248,10 +248,10 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Locks / Use later:**
   - **Pure-tone hard lockout** is now an emotionally tested, not just theoretical, tactic to hide RAE.
   - **Elyra foreshadowing:** Lina explicitly links pure lines and Elyra, framing this as rehearsal for working with someone who can hold much stronger versions.
-  - **Jason’s own coupling:** His line *"This, too, is a kind of coupling"* and the storm echoes set up that he has a way to align with the world (and later Elyra) that doesn’t depend on RAE—which will matter in separation / overload scenes.
+  - **Jason’s own coupling:** His line *"This, too, is a kind of coupling"* and the storm echoes set up that he has a way to align with the world (and later Elyra) that doesn’t depend on RAE - which will matter in separation / overload scenes.
 
 
-### Ch. 16 — **Marker at Home**
+### Ch. 16  -  **Marker at Home**
 **Purpose:** Bring surveillance pressure literally to the doorstep.  
 **Setting Anchors:** Hallway dust; doorframe paint flecks; neighbor’s TV bleed.  
 **Conflict Engine:** Contain sign vs. push back.  
@@ -259,7 +259,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Dust motes dance off‑beat.  
 **Locks:** Stalker thread keeps pressure on.
 
-### Ch. 16.5 — **The Old Tower**
+### Ch. 16.5  -  **The Old Tower**
 **Purpose:** Connect timing anomalies to physical infrastructure.
 **Setting Anchors:** Abandoned radio mast; brittle stairs; dead meters; wind in guy‑wires.
 **Conflict Engine:** Physical hazard vs. need for height; curiosity vs. prudence.
@@ -267,16 +267,16 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** A warning sign creaks out a rhythm they already timed.
 **Locks:** Coded can helps later ritual timing.
 
-### Ch. 17 — **River of Loops**
+### Ch. 17  -  **River of Loops**
 **Purpose:** Tie drift to old watercourses; get a striking visual.
 **Setting Anchors:** Decommissioned lock; slick steps; black water; algae rings.
 **Conflict Engine:** Desire to probe vs. danger of water; calm vs. uncanny reflections.
 **Key Beats:** Mapping shows loops tracking river bones; a geometric **reflection** appears with no optical cause; they mark the angle and time.
 **Exit Image:** The water returns to featureless black.
 **Locks:** Angle/time feed Elyra’s later lesson on *listening to flow*.
-**Reference**: Setting: stillgelegte Schleuse, schmierige Stufen, schwarzes Wasser, Algenringe. Perfekt für einen ruhigen, leicht unheimlichen Beat mit einem Hobby-Angler am Rand oder einem „improvisierten“ Mess-Angel-Moment der Crew. Hier könnte Milo beim Blick auf eine „Nicht angeln“-Tafel trocken „heretical fishing“ murmeln — oder Jason benutzt eine simple Leine als Feld-Sensor („wir angeln Loops, nicht Barsche“) und nennt es selbstironisch so. Passt visuell und knüpft direkt an das Motiv „Wasser = Drift/Flow“ an.
+**Reference**: Setting: stillgelegte Schleuse, schmierige Stufen, schwarzes Wasser, Algenringe. Perfekt für einen ruhigen, leicht unheimlichen Beat mit einem Hobby-Angler am Rand oder einem „improvisierten“ Mess-Angel-Moment der Crew. Hier könnte Milo beim Blick auf eine „Nicht angeln“-Tafel trocken „heretical fishing“ murmeln  -  oder Jason benutzt eine simple Leine als Feld-Sensor („wir angeln Loops, nicht Barsche“) und nennt es selbstironisch so. Passt visuell und knüpft direkt an das Motiv „Wasser = Drift/Flow“ an.
 
-### Ch. 17.5 — **Tower Decoding**
+### Ch. 17.5  -  **Tower Decoding**
 **Purpose:** Turn lightning cadence into a working send‑scheme.  
 **Setting Anchors:** Lobby clock; elevator tick; night skyline.  
 **Conflict Engine:** Pattern hunger vs. false correlation.  
@@ -284,7 +284,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The lobby clock ticks wrong once.  
 **Locks:** Three‑beat window ↔ **triple‑pulse**.
 
-### Ch. 18 — **Underfoot**
+### Ch. 18  -  **Underfoot**
 **Purpose:** Confirm the waterworks lead and proximity to the core hum.  
 **Setting Anchors:** Old channels; condensate; metallic drip echo.  
 **Conflict Engine:** Near‑core lure vs. restraint doctrine.  
@@ -292,7 +292,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Drip counts **1‑2‑3**.  
 **Locks:** Bridges to approach beats.
 
-### Ch. 18.5 — **Bad Calibration**
+### Ch. 18.5  -  **Bad Calibration**
 **Purpose:** Price of tinkering; reinforce limits.
 **Setting Anchors:** Workshop table; improvised rig; tinny speaker; neighbors through wall.
 **Conflict Engine:** DIY courage vs. system complexity; overconfidence vs. humility.
@@ -300,7 +300,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The dead device’s LED glows **once** hours later.
 **Locks:** Click motif merges with post‑ritual tick.
 
-### Ch. 19 — **Trace in the Archive**
+### Ch. 19  -  **Trace in the Archive**
 **Purpose:** Pay off groundwork with an Elyra signature fragment.
 **Setting Anchors:** Historic map room; water‑stained sheets; light table; pencil ghosts.
 **Conflict Engine:** Handling priceless material vs. urgency; seeing vs. preserving.
@@ -308,7 +308,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The light table hum falls out of tune for a breath.
 **Locks:** Missing‑photo mystery pushed to Book II.
 
-### Ch. 20 — **Confluence**
+### Ch. 20  -  **Confluence**
 **Purpose:** Converge threads; declare Elyra within reach.
 **Setting Anchors:** Underpass meet spot; drizzle; traffic echo; distant siren.
 **Conflict Engine:** Contact vs. ambush; courage vs. caution.
@@ -318,10 +318,10 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 ---
 
-## PART 3: ELYRA ARC — Approach & Training (14 chapters)
+## PART 3: ELYRA ARC  -  Approach & Training (14 chapters)
 *From guarded riddles to rigorous technique. Theme: **precision > force**, **listening > casting**.*
 
-### Ch. 1 — **First Encounter**
+### Ch. 1  -  **First Encounter**
 **Purpose:** Meet Elyra on her terms; earn a sliver of trust.
 **Setting Anchors:** Community garden edge; rain barrels; cat on wall; distant traffic.
 **Conflict Engine:** Proving worth without performance; RAE’s analysis vs. Jason’s feel.
@@ -329,7 +329,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Elyra’s **shadow out of sync** for a heartbeat.
 **Locks:** Shadow motif active.
 
-### Ch. 2 — **Everyday Training**
+### Ch. 2  -  **Everyday Training**
 **Purpose:** Translate life into practice; build stamina.
 **Setting Anchors:** Garden beds; kitchen; neighborhood loop.
 **Conflict Engine:** Boredom vs. mastery; subtlety vs. impatience.
@@ -337,16 +337,16 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The stone quiets only in Jason’s pocket.
 **Locks:** Stone used later as metronome.
 
-### Ch. 3 — **Balance Exercise**
+### Ch. 3  -  **Balance Exercise**
 **Purpose:** Work under load without spilling.
 **Setting Anchors:** Park balance beams; joggers; bicycle bell.
 **Conflict Engine:** Over‑correction vs. smooth correction; pride vs. listening.
 **Key Beats:** RAE trims flow; Jason moves a shape across his body without leakage; Milo detects **extraneous vibration**.
 **Exit Image:** Lina’s clap lands exactly on Jason’s stable beat.
 **Locks:** Extraneous vibration matches later interference signature.
-**Reference:** Dune - Atem/Disziplin/Alltag—ein trockener Verweis auf Askese/Wasser-Haushalt funktioniert da im Dialog.
+**Reference:** Dune - Atem/Disziplin/Alltag - ein trockener Verweis auf Askese/Wasser-Haushalt funktioniert da im Dialog.
 
-### Ch. 4 — **Listening to Resonance**
+### Ch. 4  -  **Listening to Resonance**
 **Purpose:** Differentiate hums; respect silence.
 **Setting Anchors:** Busy street; **street musician**; tram crossing.
 **Conflict Engine:** Wanting to speak vs. choosing silence.
@@ -354,7 +354,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The musician’s phrase ends; ambient noise rushes back like air.
 **Locks:** Silence field foreshadowed.
 
-### Ch. 5 — **Trust Test**
+### Ch. 5  -  **Trust Test**
 **Purpose:** Time‑pressure proof of coordination.
 **Setting Anchors:** Rooftop or bridge with clear sightlines; far tower light.
 **Conflict Engine:** Speed vs. precision; fear vs. flow.
@@ -362,7 +362,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Light stays out for exactly nine breaths.
 **Locks:** Nine‑count recurs in ritual timings.
 
-### Ch. 5.5 — **Hands and Numbers**
+### Ch. 5.5  -  **Hands and Numbers**
 **Purpose:** Make mesh discipline portable in motion.  
 **Setting Anchors:** Sidewalk rhythm; stairwell landings; hand signs.  
 **Conflict Engine:** Flow vs. over‑control.  
@@ -370,7 +370,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Knuckles tap once, in time.  
 **Locks:** Safety etiquette codified.
 
-### Ch. 6 — **Stone as Metronome**
+### Ch. 6  -  **Stone as Metronome**
 **Purpose:** Calibrate personal τ‑windows.  
 **Setting Anchors:** Pocket weight; warm stone; window hum.  
 **Conflict Engine:** Hold vs. grip.  
@@ -378,16 +378,16 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Stone cools, still.  
 **Locks:** Clean hold windows for ritual.
 
-### Ch. 6.5 — **Philosophy Fight**
+### Ch. 6.5  -  **Philosophy Fight**
 **Purpose:** Articulate ethics and risk appetite.
 **Setting Anchors:** Kitchen table; tea; rain on sill.
 **Conflict Engine:** Elyra’s discipline vs. Lina’s protection instinct; Jason between.
 **Key Beats:** Debate: restraint as strength vs. fear; Milo grounds with logistics; a **plant shifts** without draft when tempers spike.
 **Exit Image:** Silence; everyone notices the still plant.
 **Locks:** Plant reacts again during ritual stress.
-**Reference:** He WHo FightsW With Monsters - Philosophy Fight. Küchentisch, Tee, Regen am Sims; Streitpunkt „Zurückhaltung = Stärke“ vs. „Schutzinstinkt“. Genau hier darf Jason seine Ethik markieren — nicht als Pose, sondern als Grenze: “I may share a name with him, but I am not ‘He who fights with monsters’. If this turns me into one, we’re doing it wrong.” Das legt sein Leitmotiv „precision > force, listening > casting“ offenkundig fest und gehört in diesen Debatten-Beat.
+**Reference:** He WHo FightsW With Monsters - Philosophy Fight. Küchentisch, Tee, Regen am Sims; Streitpunkt „Zurückhaltung = Stärke“ vs. „Schutzinstinkt“. Genau hier darf Jason seine Ethik markieren  -  nicht als Pose, sondern als Grenze: “I may share a name with him, but I am not ‘He who fights with monsters’. If this turns me into one, we’re doing it wrong.” Das legt sein Leitmotiv „precision > force, listening > casting“ offenkundig fest und gehört in diesen Debatten-Beat.
 
-### Ch. 7 — **Small Mission**
+### Ch. 7  -  **Small Mission**
 **Purpose:** Field test with interference.
 **Setting Anchors:** Sub‑basement exchange; humming pipes; damp concrete.
 **Conflict Engine:** Third‑party poachers vs. team cohesion.
@@ -395,7 +395,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Three faint rings widen on a puddle with no drop.
 **Locks:** Triple pulse echoes in Ritual.
 
-### Ch. 7.5 — **Triple Pulse**
+### Ch. 7.5  -  **Triple Pulse**
 **Purpose:** Use the artifact core as a lesson piece.  
 **Setting Anchors:** Workbench lamp; soft tools; clipped leads.  
 **Conflict Engine:** Curiosity vs. contamination risk.  
@@ -403,7 +403,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Bench lamp blinks thrice.  
 **Locks:** **Triple‑pulse** links to ritual ambient shift.
 
-### Ch. 8 — **Self‑Study**
+### Ch. 8  -  **Self‑Study**
 **Purpose:** Confront limits; avoid solo heroics.
 **Setting Anchors:** Empty living room; metronome clock; neighbor TV through wall.
 **Conflict Engine:** Overreach vs. wisdom; secrecy vs. trust.
@@ -411,7 +411,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Clock ticks too loud, then normal.
 **Locks:** Solo‑urge flagged for later temptation.
 
-### Ch. 8.5 — **Shadow Geometry**
+### Ch. 8.5  -  **Shadow Geometry**
 **Purpose:** Signature hygiene against spiral decoys.  
 **Setting Anchors:** Chalk arcs; dust shadows; ceiling fan.  
 **Conflict Engine:** Cleverness vs. cleanliness.  
@@ -419,7 +419,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** One spiral erased by breath.  
 **Locks:** Spiral critique feeds ritual design.
 
-### Ch. 9 — **Ethics Under Pressure**
+### Ch. 9  -  **Ethics Under Pressure**
 **Purpose:** Draw the moral line: observe‑only vs. precise help.  
 **Setting Anchors:** Balcony dusk; city hiss; cat on rail.  
 **Conflict Engine:** Safety posture vs. responsibility.  
@@ -427,7 +427,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Cat settles on the node.  
 **Locks:** Ethical line for the ritual.
 
-### Ch. 9.5 — **Coupling Practice**
+### Ch. 9.5  -  **Coupling Practice**
 **Purpose:** Learn safe coupling; map signatures.
 **Setting Anchors:** Workshop; instruments; taped floor marks.
 **Conflict Engine:** Two minds, one shape; misalignment risks.
@@ -435,7 +435,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Spike trace printed and pinned.
 **Locks:** Unknown third signature tied to Open‑arc.
 
-### Ch. 10 — **Setback**
+### Ch. 10  -  **Setback**
 **Purpose:** Fail safely; reset confidence.
 **Setting Anchors:** Rainy lot; slippery chalk lines; car headlights sweep.
 **Conflict Engine:** Shame vs. resilience; caution vs. paralysis.
@@ -443,7 +443,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Headlights pass; chalk glows, then washes out.
 **Locks:** Elyra backstory hook.
 
-### Ch. 10.5 — **Clean Street Fix**
+### Ch. 10.5  -  **Clean Street Fix**
 **Purpose:** Field precision in public without leakage.  
 **Setting Anchors:** Crosswalk; bus brake; phone glass.  
 **Conflict Engine:** Do‑good impulse vs. signature economy.  
@@ -451,7 +451,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Street noise shifts a half‑step lower.  
 **Locks:** Dorian’s interest increases.
 
-### Ch. 11 — **The Quiet Solution**
+### Ch. 11  -  **The Quiet Solution**
 **Purpose:** Jason formulates a healing counter‑shape with minimal invest (risky, elegant).  
 **Setting Anchors:** Kitchen steam; window tick; RAE’s low carrier.  
 **Conflict Engine:** Trust vs. privacy.  
@@ -459,7 +459,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Steam line straightens, then fades.  
 **Locks:** *Private segment* persists into aftermath.
 
-### Ch. 11.5 — **Proof of Progress**
+### Ch. 11.5  -  **Proof of Progress**
 **Purpose:** Earned competence; secret seed.
 **Setting Anchors:** Quiet yard; string line; wind chime.
 **Conflict Engine:** Repeating until clean vs. rushing the win.
@@ -467,7 +467,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Wind chime rings the same interval Jason used.
 **Locks:** Future trust conflict.
 
-### Ch. 12 — **Ritual Prep**
+### Ch. 12  -  **Ritual Prep**
 **Purpose:** Translate training into logistics.
 **Setting Anchors:** Supplies list; market; storage shelves; copper bowls.
 **Conflict Engine:** Scarcity vs. spec purity; secrecy vs. procurement trails.
@@ -475,7 +475,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The symbol fades when traced by finger.
 **Locks:** Symbol recurs on threat messages later.
 
-### Ch. 12.5 — **Gathering the Circle**
+### Ch. 12.5  -  **Gathering the Circle**
 **Purpose:** Logistics and perimeter design.  
 **Setting Anchors:** Lists; copper, salt, water; folded maps.  
 **Conflict Engine:** Thoroughness vs. visibility.  
@@ -483,7 +483,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** No one laughs.  
 **Locks:** Car → ritual perimeter.
 
-### Ch. 13 — **Approach to Site**
+### Ch. 13  -  **Approach to Site**
 **Purpose:** Final carrier and exit checks.  
 **Setting Anchors:** Old mill wheel; taut air; distant busker motif (silence warning).  
 **Conflict Engine:** Now‑or‑later tension.  
@@ -491,7 +491,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Air like glass under a tap.  
 **Locks:** Carrier order locked.
 
-### Ch. 13.5 — **Test Run**
+### Ch. 13.5  -  **Test Run**
 **Purpose:** Simulate risk and learn the field’s opinion.
 **Setting Anchors:** Empty unit; taped circle; fans off.
 **Conflict Engine:** Pattern obedience vs. listening to feedback.
@@ -500,7 +500,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Locks:** Repetition principle anchors final ritual cadence.
 **Reference:** Mother of Learning - Elyras „Glaubst du an Wiederholung?“ ist praktisch eine Einladung für einen Loop-Witz von Milo.
 
-### Ch. 14 — **Last Lesson**
+### Ch. 14  -  **Last Lesson**
 **Purpose:** Integrate; acknowledge readiness.
 **Setting Anchors:** Dawn light; dew; city still asleep.
 **Conflict Engine:** Fear of the next step vs. acceptance.
@@ -510,18 +510,18 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 ---
 
-## PAR 4: RITUAL ARC & AFTERMATH — Ten chapter summaries (expanded)
+## PAR 4: RITUAL ARC & AFTERMATH  -  Ten chapter summaries (expanded)
 *From procurement to crash‑recovery to the first stalker shadow. Each entry is a self‑contained drafting unit.*
 
-### Ch. 1 — **Last Components**
+### Ch. 1  -  **Last Components**
 **Purpose:** Close the shopping loop under pressure; leave a trace.
 **Setting Anchors:** Decaying factory; dripping roof; forklift tracks; echoing hall.
 **Conflict Engine:** Rival crew vs. our team; speed vs. clean exit.
-**Key Beats:** Secure final materials; timed withdrawal; a **signature ripple** propagates—quiet, but trackable.
+**Key Beats:** Secure final materials; timed withdrawal; a **signature ripple** propagates - quiet, but trackable.
 **Exit Image:** Dust motes freeze, then fall together.
 **Locks:** Ripple is later matched by the mobile unit.
 
-### Ch. 1.5 — **Ward the Circle**
+### Ch. 1.5  -  **Ward the Circle**
 **Purpose:** Quiet the site without a loud signature.  
 **Setting Anchors:** Chalk/copper; damp floor; tarp corners weighted.  
 **Conflict Engine:** Visibility vs. necessity.  
@@ -529,7 +529,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Air pressure dips by ~1 hPa.  
 **Locks:** Low‑emission mindset carries through.
 
-### Ch. 2 — **The Ask**
+### Ch. 2  -  **The Ask**
 **Purpose:** Set intent: *Heal, don’t bind.*  
 **Setting Anchors:** Bare room; copper bowl; pooled light.  
 **Conflict Engine:** Purity of intent vs. fear of cost.  
@@ -537,7 +537,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** First shared breath, steady.  
 **Locks:** Pain scale to be logged by RAE.
 
-### Ch. 2.5 — **Interruption**
+### Ch. 2.5  -  **Interruption**
 **Purpose:** Force a pause; expose sabotage.
 **Setting Anchors:** Workshop mid‑prep; alert tone; frozen cursor; phone buzz without ID.
 **Conflict Engine:** Gather or scatter; protect tools or plans.
@@ -545,7 +545,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Two checklists taped side by side.
 **Locks:** Dual‑track plan explains later partial resilience.
 
-### Ch. 3 — **Ritual Begins**
+### Ch. 3  -  **Ritual Begins**
 **Purpose:** Commit; expose cracks immediately.
 **Setting Anchors:** Circle assembly; copper, salt, water; air pressure change.
 **Conflict Engine:** Cadence vs. hairline fracture; pain as telemetry.
@@ -553,7 +553,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** A thin tone threads the room.
 **Locks:** Telemetry pain scale logged by RAE.
 
-### Ch. 4 — **Improvisation**
+### Ch. 4  -  **Improvisation**
 **Purpose:** Survive a field jolt without losing ethics.
 **Setting Anchors:** Flicker in lights; wind that isn’t wind; trembling tape.
 **Conflict Engine:** Save the pattern vs. save the people; brute force vs. **precise counter‑shape**.
@@ -561,7 +561,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Breath returns in staggered counts.
 **Locks:** Counter‑shape becomes signature move.
 
-### Ch. 5 — **Recovery**
+### Ch. 5  -  **Recovery**
 **Purpose:** Pay for survival; hear the world answer back.
 **Setting Anchors:** Cooling metal; damp floor; city hum retuned.
 **Conflict Engine:** Relief vs. new fear.
@@ -569,15 +569,15 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The tick doesn’t line up with any clock.
 **Locks:** Tick merges with earlier click; defines the stalker’s cadence.
 
-### Ch. 6 — **New Threat**
-**Purpose:** Name nothing—and still be hunted.
+### Ch. 6  -  **New Threat**
+**Purpose:** Name nothing - and still be hunted.
 **Setting Anchors:** Perimeter sweep; camera blink; car idling far away.
 **Conflict Engine:** Fight/flight vs. *observe only* choice.
 **Key Beats:** Foreign signature prowls; Milo tags it a **mobile unit**; they withdraw, trading safety for visibility.
 **Exit Image:** Taillights never come closer, never recede.
 **Locks:** Mobile unit reappears in Open Ch. 1.
 
-### Ch. 7 — **Consequences**
+### Ch. 7  -  **Consequences**
 **Purpose:** Internal fracture, not break.
 **Setting Anchors:** Table with tea; first‑aid kit; printouts.
 **Conflict Engine:** Blame vs. learning; safety vs. momentum.
@@ -585,7 +585,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** One checklist loses three items with a pen slash.
 **Locks:** Less‑emissions rule shapes Ch. 8 test.
 
-### Ch. 8 — **New Situation**
+### Ch. 8  -  **New Situation**
 **Purpose:** Map the changed Jason; set sharper constraints.
 **Setting Anchors:** Quiet alley; chalk marks; new posture.
 **Conflict Engine:** Using the change vs. fearing it.
@@ -593,7 +593,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Chalk lifts at his passing.
 **Locks:** Ability becomes a liability in Open.
 
-### Ch. 9 — **After the Ritual**
+### Ch. 9  -  **After the Ritual**
 **Purpose:** Decompress without letting tension vanish.
 **Setting Anchors:** Cooking; gear repair; muted city.
 **Conflict Engine:** Pretend normal vs. admit altered state.
@@ -601,7 +601,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Steam curls in a pattern RAE can’t name.
 **Locks:** Anomaly diagram pinned for Book II.
 
-### Ch. 10 — **Tension Break**
+### Ch. 10  -  **Tension Break**
 **Purpose:** Announce the stalker; slam the door open.
 **Setting Anchors:** Night corridor; phone buzz; encrypted packet.
 **Conflict Engine:** Hide vs. posture; threat vs. bait.
@@ -611,9 +611,9 @@ This book makes the assumption, that humans have gained access to harmonic reson
 
 ---
 
-## EPLILOG: OPEN ENDING — Setup for Book II (3 chapters)
+## EPLILOG: OPEN ENDING  -  Setup for Book II (3 chapters)
 
-### Ch. 1 — **The Shadow**
+### Ch. 1  -  **The Shadow**
 **Purpose:** Reveal the new player with history; set next antagonist axis.
 **Setting Anchors:** Alley just outside safety; sodium light; damp wall.
 **Conflict Engine:** Past debts vs. present needs; information price.
@@ -621,7 +621,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** Shadow’s **asynchronous** footfall.
 **Locks:** Player ties to the unknown coupling spike.
 
-### Ch. 2 — **Brittle Peace**
+### Ch. 2  -  **Brittle Peace**
 **Purpose:** Show that normalcy fractures on touch.
 **Setting Anchors:** Restaurant sink; **copper bowl**; archive desk; apartment lights.
 **Conflict Engine:** Routine maintenance vs. lurking residue.
@@ -629,7 +629,7 @@ This book makes the assumption, that humans have gained access to harmonic reson
 **Exit Image:** The last pulse answers the off‑world tick.
 **Locks:** Residual bowl becomes evidence trail.
 
-### Ch. 3 — **First Steps Toward Book II**
+### Ch. 3  -  **First Steps Toward Book II**
 **Purpose:** Choose movement over fear; sketch the road.
 **Setting Anchors:** Map table; pins; night walk home.
 **Conflict Engine:** Sequence vs. safety; allies vs. solitude.
@@ -648,13 +648,13 @@ This book makes the assumption, that humans have gained access to harmonic reson
 - **Asynchronous shadow** (Elyra Ch. 1) → recurs in Open Ch. 1 with the new player.
 
 ## Props & Places Ledger
-- **Städtisches Kartenwerk, Depot B (Mill‑4):** vertical plan drawers, map press, plotter, microfiche, old ventilation—perfect carriers.
+- **Städtisches Kartenwerk, Depot B (Mill‑4):** vertical plan drawers, map press, plotter, microfiche, old ventilation - perfect carriers.
 - **Abandoned radio mast:** brittle stairs, dead meters, coded signal can.
 - **Restaurant:** salt, water, ritual of food → channel stamina.
 - **Archive:** Gen‑3 monitors; tape libraries; Harris the building tech.
 
 ## Antagonist & Rival Threads to Track
-- **Dorian Malvek:** “observe only” posture; pragmatic containment ideology. Never cackling—always reasoned, which is scarier.
+- **Dorian Malvek:** “observe only” posture; pragmatic containment ideology. Never cackling - always reasoned, which is scarier.
 - **Marla Brennick:** ritual architect with guilt and discipline; hunts signs of partial reintegration.
 - **Unknown market and alley watchers:** hints of a network that adapts faster than the city’s paperwork.
 

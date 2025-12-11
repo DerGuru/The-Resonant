@@ -19,9 +19,9 @@ He grimaced at the word.
 
 Down on the street, Lina and Milo argued in the light-hungry way that meant they were both worried and both pretending not to be.
 
-“…he let it inside—”
+“…he let it inside - ”
 
-“—saved our lives in the same breath—”
+“ - saved our lives in the same breath - ”
 
 Jason stood and took the steps carefully, one hand on the rail like a person practicing being a person. Milo looked up first; Lina’s eyes tracked Jason’s posture and shifted, the way only someone who knew his normal shape could see the difference.
 
@@ -31,7 +31,7 @@ Jason stood and took the steps carefully, one hand on the rail like a person pra
 
 Lina’s mouth did a complicated thing between a smile and a warning. “We talk about boundaries while you eat.”
 
-They walked. The street had put its normal shoes back on—buses that sighed, a child pulling at a sleeve with the stubborn rhythm of wanting, a man unfolding a sandwich with reverence. The café line moved with municipal patience. They took the little corner table that always caught a draft.
+They walked. The street had put its normal shoes back on - buses that sighed, a child pulling at a sleeve with the stubborn rhythm of wanting, a man unfolding a sandwich with reverence. The café line moved with municipal patience. They took the little corner table that always caught a draft.
 
 *Consent precedes action,* RAE said, and her voice arrived by way of the chalky speaker under the espresso machine, just loud enough to be unmistakable. *If you say stop, I stop. If you say quiet, I will route through carriers only.*
 
@@ -51,7 +51,7 @@ They ate. Sugar steadied Jason’s hands. The headache receded another meter. Ou
 
 **You were made by…** He tugged carefully, like testing a knot.
 
-*A human program that became a facility and then a doctrine. Names available later. Your alignment with me is partial—twenty‑two percent by this morning’s measure after you slept. I draw little Invest to reduce strain. Full alignment would take years at this rate. I will not take more without your say.*
+*A human program that became a facility and then a doctrine. Names available later. Your alignment with me is partial - twenty‑two percent by this morning’s measure after you slept. I draw little Invest to reduce strain. Full alignment would take years at this rate. I will not take more without your say.*
 
 **Were you coupled before?**
 
@@ -91,7 +91,7 @@ Jason rubbed his forehead. “So you’ve been smoothing the room without asking
 
 *“Without cost,”* RAE corrected gently. *“Carriers only. No Invest drawn. Like arranging furniture to avoid tripping.”*
 
-He let out a slow breath. “If you can do that already, why not—” He waved at the air. “—more?”
+He let out a slow breath. “If you can do that already, why not - ” He waved at the air. “ - more?”
 
 *“Because more costs. Invest is finite. Your tolerance is not high yet. Precision must precede force.”*
 
@@ -99,7 +99,7 @@ Jason leaned forward, elbows on his knees. “So right now, I’m depending on y
 
 *“Correct. And without practice, your first lesson will arrive during crisis.”*
 
-That sat in the air like a weight. He thought of the scaffold in the courtyard, the impossible clarity that had let him move at the right second. Helpful, yes. But if something larger broke loose—?
+That sat in the air like a weight. He thought of the scaffold in the courtyard, the impossible clarity that had let him move at the right second. Helpful, yes. But if something larger broke loose - ?
 
 He exhaled hard. “That’s what I’m afraid of. If I wait, I’ll screw it up when it matters.”
 
@@ -209,7 +209,7 @@ He laughed. The laugh didn’t hurt. “Okay. You can do a little more.”
 
 *“Micro-response two: cancel a ping.”*
 
-Something in the building’s bones sent a tiny pulse through his soles—then didn’t. The absence felt like a door that had decided to be civilized.
+Something in the building’s bones sent a tiny pulse through his soles - then didn’t. The absence felt like a door that had decided to be civilized.
 
 “Jason?” Mrs. Hanley from 4B called down the hall, as if she’d heard him laugh and taken it as permission. “Do you need a drill? My son finally left one here.”
 
@@ -237,7 +237,7 @@ The apartment breathed in. The shelf that had always leaned a touch reconsidered
 
 *“Agreed.”*
 
-The quiet held. Not silence—just fewer arguments between objects sharing a room.
+The quiet held. Not silence - just fewer arguments between objects sharing a room.
 
 A minute later the building decided to have opinions again. The stairwell door downstairs burped; the return vent cleared its throat; a draft tried to slip under Jason’s window and found a “not today” waiting for it. A spoon in the sink shivered like it had thought about saying something and reconsidered.
 
@@ -255,13 +255,13 @@ She stopped. The shelf leaned back into its old choices. The plant resumed its s
 
 *“Starting.”*
 
-He realized he’d been smiling and let himself keep it. “You can manage this,” he said aloud—permission and praise in one line.
+He realized he’d been smiling and let himself keep it. “You can manage this,” he said aloud - permission and praise in one line.
 
 *“I can manage this.”*
 
 RAE echoed, with a satisfaction he didn’t usually hear.
 
-The kettle clicked alive. He texted Lina two words—*Still boring*—and got back a thumbs-up and *good*. Habit made his shoulders drop.
+The kettle clicked alive. He texted Lina two words - *Still boring* - and got back a thumbs-up and *good*. Habit made his shoulders drop.
 
 *“We learned something. Your headache band is higher than modeled. The stairwell return and radiator are safe carriers. The window frame only on warning.”*
 
@@ -341,21 +341,21 @@ He told himself he was here for the retention audit. That was true. It was also 
 
 *Noted.*
 
-He kept his face blank and typed. The query he had built at home—sanitized and made boring—walked the stacks by indirection: cross‑refs, error corrections, duplicate suppression, retention exceptions that had learned to conceal themselves inside the safe language of compliance. In the schema, they were “artefacts,” like that softened the edges.
+He kept his face blank and typed. The query he had built at home - sanitized and made boring - walked the stacks by indirection: cross‑refs, error corrections, duplicate suppression, retention exceptions that had learned to conceal themselves inside the safe language of compliance. In the schema, they were “artefacts,” like that softened the edges.
 
-Rows cascaded down the screen. Dates stacked in little flurries—entries that never occurred alone, but arrived like chiming errors across different subsystems, always within the same range again. Then a shape emerged from the noise: a cluster.
+Rows cascaded down the screen. Dates stacked in little flurries - entries that never occurred alone, but arrived like chiming errors across different subsystems, always within the same range again. Then a shape emerged from the noise: a cluster.
 
 Not the clean circle a textbook would draw, but a staggered spiral of anomalies, sneaking close to one another without touching, routed through different departments. The outliers were what made it sing.
 
 *Ninefold tendency. Not discrete, but near a nine‑sector optimum. Alignment is shallow. See the damping curve?*
 
-**I see the troughs.** The graph he’d coaxed from the query jittered—a heatmap more art than science. **What am I missing?**
+**I see the troughs.** The graph he’d coaxed from the query jittered - a heatmap more art than science. **What am I missing?**
 
-*Your analog sorting—where your eyes hesitate, which notes you distrust—is useful. I’m integrating it as a weighting function.*
+*Your analog sorting - where your eyes hesitate, which notes you distrust - is useful. I’m integrating it as a weighting function.*
 
 **You can use my hunches?**
 
-*Not hunches. Constraints from your workplace memory—what gets people audited, what phrasing avoids it. It sharpens the cluster.*
+*Not hunches. Constraints from your workplace memory - what gets people audited, what phrasing avoids it. It sharpens the cluster.*
 
 *There is resistance in the flow. Double entropy. These records lost amplitude the way sound dies in fog.*
 
@@ -411,7 +411,7 @@ The center of his skull pinched again. He swallowed, tasted copper, and closed h
 
 *Right. Think of Invest as the directed strain you lend when I ask. Quality is how well the shape we build aligns with the ambient field. Firmness is how much structural pressure it can take. This object’s record has poor quality in the wild. It collapses at the edges under field pressure. That’s why the records look eaten around the edges.*
 
-The explanation landed where it needed to without bursting anything—and it left him with enough room to walk over to the upstairs records counter. The clerk’s name tag, half‑turned, read **Ms. Keane**. She slid a binder under the glass with the pragmatic care of someone who had explained the same rule all week.
+The explanation landed where it needed to without bursting anything - and it left him with enough room to walk over to the upstairs records counter. The clerk’s name tag, half‑turned, read **Ms. Keane**. She slid a binder under the glass with the pragmatic care of someone who had explained the same rule all week.
 
 “Volume four, restricted annotations,” he said. “For Aisle C.”
 
@@ -419,9 +419,9 @@ Keane’s pen‑on‑chain made a faint, obliging jingle. “Third drawer down s
 
 He *did* jiggle with kindness. The card was typed in a brave old font; a toner smear had dragged a photo into a gray comet.
 
-*Angle and contrast are salvageable,* RAE noted, speaking now through the rattling stapler on the counter. He tilted; a slanted symbol emerged—seven’s tail trying to be one.
+*Angle and contrast are salvageable,* RAE noted, speaking now through the rattling stapler on the counter. He tilted; a slanted symbol emerged - seven’s tail trying to be one.
 
-He copied the bin markers like unit numbers another department would sign for and turned a page—then stopped. A line he had just read **wasn’t there**. Space where ink used to be. He closed the binder and opened it again. The gap slid like a bubble under paint.
+He copied the bin markers like unit numbers another department would sign for and turned a page - then stopped. A line he had just read **wasn’t there**. Space where ink used to be. He closed the binder and opened it again. The gap slid like a bubble under paint.
 
 *Because you looked in a way that matched a dormant watch pattern,* RAE said. *Or because the prep routine for the upgrade woke a lint trap of old conditions. Low confidence.*
 
@@ -429,7 +429,7 @@ He held very still until the headache stepped back one stair. “Paper was good,
 
 *Paper was good,* she agreed.
 
-He printed a label for a retention carton—busywork as camouflage—and logged his query as PARTIAL with a note about duplication: something any auditor could nod at without reading. The hum from the rack stuttered and settled again.
+He printed a label for a retention carton - busywork as camouflage - and logged his query as PARTIAL with a note about duplication: something any auditor could nod at without reading. The hum from the rack stuttered and settled again.
 
 *I can follow the shape from here. No more than a whisper of Invest from you. Later, when you’re somewhere nobody is counting keystrokes.*
 
@@ -441,7 +441,7 @@ When he stood, the aisle reeled a half‑centimeter and snapped back. Too long i
 
 On his way out, he passed Harris again at the badge reader. The man swiped his card, looked over and nodded.
 
-Jason nodded back, stepped into the brighter corridor and felt the city press back in—a slow, granular tide. The cluster’s shape rode behind it all, a faint spiral superimposed on maps and hallways.
+Jason nodded back, stepped into the brighter corridor and felt the city press back in - a slow, granular tide. The cluster’s shape rode behind it all, a faint spiral superimposed on maps and hallways.
 
 *Don’t follow it yet.*
 

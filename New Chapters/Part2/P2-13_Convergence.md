@@ -2,11 +2,11 @@
 
 **Eight weeks in.**
 
-Jason's integration with RAE had stabilized at 32%. A number that felt both significant and arbitrary—high enough to matter, low enough to maintain some semblance of boundaries.
+Jason's integration with RAE had stabilized at 32%. A number that felt both significant and arbitrary - high enough to matter, low enough to maintain some semblance of boundaries.
 
 "Ready for another round?" Lina asked, tossing him a steel washer.
 
-Jason caught it, felt its weight. They were in an abandoned warehouse on the industrial edge of town—Elyra's preferred training ground. Real walls, real obstacles, real consequences if you misjudged a jump or mistimed a resonance pattern.
+Jason caught it, felt its weight. They were in an abandoned warehouse on the industrial edge of town - Elyra's preferred training ground. Real walls, real obstacles, real consequences if you misjudged a jump or mistimed a resonance pattern.
 
 "Remember," Elyra called from where she leaned against a support pillar, "this is about precision, not speed. Move like you're invisible. Because someday you'll need to be."
 
@@ -18,7 +18,7 @@ Jason nodded, studying the layout. Shipping containers stacked two high. Gaps be
 
 Lina grinned from her position near the far wall. "You've got this. Just don't overthink it."
 
-Jason took a breath. Reached out with his perception. The warehouse resolved around him—metal, concrete, oil-stained floor. He could sense the markers Elyra had placed: small ceramic discs tuned to detect resonance spikes. Tripwires for the careless.
+Jason took a breath. Reached out with his perception. The warehouse resolved around him - metal, concrete, oil-stained floor. He could sense the markers Elyra had placed: small ceramic discs tuned to detect resonance spikes. Tripwires for the careless.
 
 *Ready?* RAE asked.
 
@@ -26,17 +26,17 @@ Jason took a breath. Reached out with his perception. The warehouse resolved aro
 
 He moved.
 
-Not fast—fast attracted attention. Slow, deliberate steps that kept his weight distributed. He let his perception guide him, sensing the gaps between Milo's sight lines, the blind spots created by the container arrangement.
+Not fast - fast attracted attention. Slow, deliberate steps that kept his weight distributed. He let his perception guide him, sensing the gaps between Milo's sight lines, the blind spots created by the container arrangement.
 
-Halfway across the warehouse, he encountered an unexpected obstacle—a section of floor that rang differently under his feet. Hollow. Unstable.
+Halfway across the warehouse, he encountered an unexpected obstacle - a section of floor that rang differently under his feet. Hollow. Unstable.
 
-*Careful,* RAE warned. *Your weight distribution is off. The floor won't hold if you—*
+*Careful,* RAE warned. *Your weight distribution is off. The floor won't hold if you - *
 
 Jason shifted, redistributing his balance. One step. Another. The hollow section creaked but held.
 
 From somewhere in the darkness, Milo's voice: "Still clear. No visual."
 
-Jason continued, using the shipping containers as cover. He kept his resonance signature low—not invisible, but quiet enough to blend with the ambient field. Another lesson from Elyra: you couldn't hide completely, but you could make yourself uninteresting.
+Jason continued, using the shipping containers as cover. He kept his resonance signature low - not invisible, but quiet enough to blend with the ambient field. Another lesson from Elyra: you couldn't hide completely, but you could make yourself uninteresting.
 
 Near the far wall, he found what he was looking for: a steel door, locked but accessible. In a real scenario, this would be his exit point.
 
@@ -76,7 +76,7 @@ They'd been training for six weeks now. Six weeks of early mornings with Elyra. 
 
 And now, they had a lead.
 
-"Underground," Milo said, pointing at a map. "There's an old maintenance network. Pre-modern. Mostly abandoned. But utility records show occasional access. And look—" He traced a line. "—it connects directly under Mill-4."
+"Underground," Milo said, pointing at a map. "There's an old maintenance network. Pre-modern. Mostly abandoned. But utility records show occasional access. And look - " He traced a line. " - it connects directly under Mill-4."
 
 "So whatever's in Mill-4 might be connected to something below," Lina said.
 

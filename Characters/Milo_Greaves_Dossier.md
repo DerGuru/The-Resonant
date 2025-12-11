@@ -30,7 +30,7 @@ Milo is one of Jason’s companions. He’s socially awkward, intelligent, and a
 ---
 
 ## Connection to Jason
-- First contact with Jason begins with conflict: Jason stumbles across a set of mysteriously uploaded documents on a fringe magic forum — documents from his own archive system.
+- First contact with Jason begins with conflict: Jason stumbles across a set of mysteriously uploaded documents on a fringe magic forum  -  documents from his own archive system.
 - Second Contact is catching Milo in the archive at "releasing old archived files to the public domain" (he was hacking the archive)
 - Milo is unapologetic but intrigued; he didn’t know who Jason was but is now convinced Jason’s involvement isn’t random.
 - Despite the rocky start, Milo gradually earns Jason’s trust through help freely given, insight and surprising depth.
@@ -41,7 +41,7 @@ Milo is one of Jason’s companions. He’s socially awkward, intelligent, and a
 
 ## Role in the Story
 - Provides vital research leads and unlocks technical obstacles (digital or harmonic theory)  
-- Balances the team emotionally—snarky, but grounded in realism  
+- Balances the team emotionally - snarky, but grounded in realism  
 - Occasionally in over his head, but saves the group more often than expected  
 - Serves as the bridge between the mundane world and harmonic theory
 

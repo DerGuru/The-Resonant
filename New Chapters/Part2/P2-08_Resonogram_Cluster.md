@@ -34,7 +34,7 @@ Jason collapsed his awareness gratefully, pressing a hand to his nose. The blood
 
 By the second hour, they'd moved to active shaping drills.
 
-Elyra had set up a row of ceramic carriers—bowls, plates, cups. Each one slightly damaged. A crack here, a chip there, a wobble in the base.
+Elyra had set up a row of ceramic carriers - bowls, plates, cups. Each one slightly damaged. A crack here, a chip there, a wobble in the base.
 
 "Fix them," she said simply. "Not perfectly. Just enough to stabilize. Quality over force. Precision over power."
 
@@ -44,7 +44,7 @@ The bowl hummed softly. The crack didn't disappear, but it stopped growing. Stab
 
 "Good," Elyra said. "Next one."
 
-A chipped plate. Jason smoothed the rough edge where ceramic had broken away. Not restoring the lost material—that was beyond his capability—but making what remained less likely to chip further.
+A chipped plate. Jason smoothed the rough edge where ceramic had broken away. Not restoring the lost material - that was beyond his capability - but making what remained less likely to chip further.
 
 "Better. Again."
 
@@ -86,13 +86,13 @@ The afternoon brought combat drills.
 
 She had Jason and Lina face each other across the warehouse floor.
 
-"Lina, you're going to shape a pattern. Nothing dangerous—just a resonance pulse. Jason, you're going to deflect it. Not block. Deflect. Redirect the energy instead of stopping it."
+"Lina, you're going to shape a pattern. Nothing dangerous - just a resonance pulse. Jason, you're going to deflect it. Not block. Deflect. Redirect the energy instead of stopping it."
 
 "Ready?" Lina asked, hands already moving into position.
 
 "As I'll ever be," Jason said, bracing himself.
 
-Lina's pulse came fast but controlled. Jason felt it approaching, sensed the shape of it. Instead of throwing up a wall, he created an angled surface—a deflection field that caught the pulse and sent it sideways.
+Lina's pulse came fast but controlled. Jason felt it approaching, sensed the shape of it. Instead of throwing up a wall, he created an angled surface - a deflection field that caught the pulse and sent it sideways.
 
 It almost worked.
 
@@ -140,7 +140,7 @@ Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustaine
 
 ---
 
-Walking home that night, Jason felt the familiar ache behind his eyes—Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
+Walking home that night, Jason felt the familiar ache behind his eyes - Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
 
 *You did well today,* RAE said quietly.
 

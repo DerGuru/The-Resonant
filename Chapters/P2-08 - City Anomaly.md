@@ -26,17 +26,17 @@ The stroller chorus kept time; the bowed saw’s tone traced a silver wire throu
 
 “Table?” Milo nodded at a narrow, standing one bolted to the bakery wall.
 
-They gathered around it. The steel had a clean municipal hum that matched nothing and so made everything else make sense. Milo scribbled in the margin of his printout—little boxes and arrows and a pigeon with union eyes.
+They gathered around it. The steel had a clean municipal hum that matched nothing and so made everything else make sense. Milo scribbled in the margin of his printout - little boxes and arrows and a pigeon with union eyes.
 
-Someone down the block swore. Not that unusual. Then someone else said, “Hey—” in the tone people use when gravity stops cooperating.
+Someone down the block swore. Not that unusual. Then someone else said, “Hey - ” in the tone people use when gravity stops cooperating.
 
 Lina looked without looking like she was looking. “Left, by the florist.”
 
-Jason turned like a person admiring window boxes. The air by the florist’s awning had a thick patch in it—no color, just a pressure wrongness. Paper sleeves on bouquets tugged toward it with the lazy determinism of small weather. A toddler in a dinosaur jacket tugged the other way against his parent’s hand, eyes widening because kids feel it first.
+Jason turned like a person admiring window boxes. The air by the florist’s awning had a thick patch in it - no color, just a pressure wrongness. Paper sleeves on bouquets tugged toward it with the lazy determinism of small weather. A toddler in a dinosaur jacket tugged the other way against his parent’s hand, eyes widening because kids feel it first.
 
 The busker’s tone sharpened half a hair, as if the world had offered it a reason to mean more.
 
-Jason’s chest tightened—not pain; field slope. He put his fingers on the table’s edge to remind his body it had edges. No spectacle. If it’s real, it’s small. If it’s small, it can be made smaller.
+Jason’s chest tightened - not pain; field slope. He put his fingers on the table’s edge to remind his body it had edges. No spectacle. If it’s real, it’s small. If it’s small, it can be made smaller.
 
 “Milo,” Lina said softly, “stall the stroller flood.”
 
@@ -58,15 +58,15 @@ First shape: Hold. Not force. A teaching gesture pressed into the border between
 
 He exhaled. The flyers’ lean eased a breath.
 
-Second shape: Let go a little, behind and under the first—two handspans back, where the compression wanted to anchor. Not a pull. A quiet suggestion that the extra pressure had somewhere safe to return to.
+Second shape: Let go a little, behind and under the first - two handspans back, where the compression wanted to anchor. Not a pull. A quiet suggestion that the extra pressure had somewhere safe to return to.
 
 The toddler stopped tugging. The paper sleeves lost interest in drama. A ribbon that had been trying to lift decided to be ribbon instead of omen.
 
 “Okay,” Lina murmured, not quite a question.
 
-Jason let the shapes touch briefly—Hold and Let‑go brushing like palms. Where they met, the thin shell uncurled on itself and found its old normal. The pressure gradient flattened without a pop. The air resumed being air.
+Jason let the shapes touch briefly - Hold and Let‑go brushing like palms. Where they met, the thin shell uncurled on itself and found its old normal. The pressure gradient flattened without a pop. The air resumed being air.
 
-At the edge of the square, a woman who had been filming nothing in particular with her phone lowered it, eyebrows up in that did I just see— way. She caught Jason’s eyes. He held the look for a heartbeat that confessed nothing. She smiled, small and pleased, like a person who had just watched someone steady a ladder without being asked.
+At the edge of the square, a woman who had been filming nothing in particular with her phone lowered it, eyebrows up in that did I just see -  way. She caught Jason’s eyes. He held the look for a heartbeat that confessed nothing. She smiled, small and pleased, like a person who had just watched someone steady a ladder without being asked.
 
 The bowed saw relaxed a fraction. The busker slid off the pure line into a gentle, messy chord because lungs exist.
 
@@ -122,7 +122,7 @@ Milo held up a finger. “Floor: Milo.”
 
 Lina nodded, amused at the etiquette. “Floor to Milo.”
 
-Milo glanced at his notes. “We’ve confirmed: public anomalies can present at curb cuts, probably because edges stack there—materials, maintenance, human flow. If you hadn’t been paying attention to seams, you’d have missed it.”
+Milo glanced at his notes. “We’ve confirmed: public anomalies can present at curb cuts, probably because edges stack there - materials, maintenance, human flow. If you hadn’t been paying attention to seams, you’d have missed it.”
 
 “Add: the busker’s pure line forced RAE to shut up,” Lina said, glancing toward the corner. “Which makes me like the busker more, not less.”
 

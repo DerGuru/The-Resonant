@@ -6,7 +6,7 @@ Jason Fischer stared at the cracked ceramic mug on his desk and wondered, not fo
 
 A screen flickered softly in the empty cubicle, casting ghostly shadows across his hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.
 
-He was twenty-seven, average height, with the kind of build that came from sitting at desks rather than gyms—not thin, not heavy, just... unremarkable. Dark hair that needed a cut, perpetually slightly too long around the ears. Wire-rimmed glasses that he pushed up his nose every few minutes out of habit. The kind of face that people forgot five minutes after meeting him, which suited him fine.
+He was twenty-seven, average height, with the kind of build that came from sitting at desks rather than gyms - not thin, not heavy, just... unremarkable. Dark hair that needed a cut, perpetually slightly too long around the ears. Wire-rimmed glasses that he pushed up his nose every few minutes out of habit. The kind of face that people forgot five minutes after meeting him, which suited him fine.
 
 He leaned closer, adjusting those glasses for the hundredth time tonight, the blue glow reflecting in their lenses. He had found the old entry purely by chance, buried deep within archival layers he hadn't even known existed. Curious lines caught his attention, sparse and incomplete but clear enough to grip him:
 
@@ -23,9 +23,9 @@ Archive Status: Restricted
 
 Jason frowned deeply, mouthing the name softly: "Elyra…?"
 
-The screen continued its silent glow. He leaned back in his cheap office chair—the one that always squeaked when he shifted his weight—and unease twisted his stomach into a knot. It was a simple archive record, yet it felt strangely personal. Like something nudging at a half-buried memory, pressing on him gently, insistently.
+The screen continued its silent glow. He leaned back in his cheap office chair - the one that always squeaked when he shifted his weight - and unease twisted his stomach into a knot. It was a simple archive record, yet it felt strangely personal. Like something nudging at a half-buried memory, pressing on him gently, insistently.
 
-Jason reached for his tea, now cold and forgotten in its chipped mug. He took a distracted sip, grimacing at the bitter, over-steeped taste. The room was silent except for the hum of distant ventilation systems and the occasional tick of the old radiator in the corner. Usually, this kind of archival dive calmed him, gave him a sense of quiet purpose. But this—this felt different.
+Jason reached for his tea, now cold and forgotten in its chipped mug. He took a distracted sip, grimacing at the bitter, over-steeped taste. The room was silent except for the hum of distant ventilation systems and the occasional tick of the old radiator in the corner. Usually, this kind of archival dive calmed him, gave him a sense of quiet purpose. But this - this felt different.
 
 Something subtle pressed against his chest. It was faint, a gentle pull, but persistent. He inhaled slowly, puzzled. His hand went to his sternum, pressing through his worn button-down shirt as if he could push the sensation away.
 
@@ -37,7 +37,7 @@ Jason returned his focus to the screen, tapping the touchpad lightly to scroll f
 
 *Fragment stabilized.* Those words clung to his mind like a burr. Fragment of what?
 
-His finger hovered over the highlighted entry again. "Elyra Voss," he whispered, testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes—nothing surfaced. And yet...
+His finger hovered over the highlighted entry again. "Elyra Voss," he whispered, testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes - nothing surfaced. And yet...
 
 He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window.
 
@@ -45,7 +45,7 @@ Twenty-seven years old. Municipal Records Clerk. Living in a one-bedroom apartme
 
 *What am I even doing?*
 
-The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was—
+The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was - 
 
 The pressure against his chest pulsed once, stronger, and Jason's breath caught. His hand went to his sternum again, fingers splayed.
 
@@ -65,7 +65,7 @@ But his fingers hesitated over the keyboard when he reached the notes field.
 
 What did that mean? What kind of ritual left someone with only 3% of their original capacity? And why was it restricted?
 
-He copied the archive code to his personal drive—not the official one, but the encrypted thumb drive he kept in his jacket pocket for research that didn't quite fit the official scope of his job. Not that anyone checked. Frank barely remembered Jason existed most days.
+He copied the archive code to his personal drive - not the official one, but the encrypted thumb drive he kept in his jacket pocket for research that didn't quite fit the official scope of his job. Not that anyone checked. Frank barely remembered Jason existed most days.
 
 The screen saver kicked in: a slowly rotating geometric pattern that the IT department had chosen years ago. Jason watched it for a moment, his mind elsewhere.
 
@@ -81,13 +81,13 @@ The walk to his apartment usually helped him decompress, the solitude providing 
 
 The hum grew softer as he walked, more rhythmic, syncing subtly with his breathing. Jason paused mid-step, turning to glance back at the archive building towering behind him, now dark and impassive. 
 
-He felt foolish, but he couldn't shake the thought that something back there was calling him. Not loudly—just quietly, insistently, almost politely.
+He felt foolish, but he couldn't shake the thought that something back there was calling him. Not loudly - just quietly, insistently, almost politely.
 
 "You're losing it," he said aloud to the empty street. "Definitely losing it."
 
 But he picked up his pace anyway, suddenly eager to be home, behind a locked door, in his own space where things made sense.
 
-By the time he reached his building, the sensation had faded into something even subtler—less a sound, more a quiet internal pulse. He entered his small apartment, dropping his keys on the table with a familiar clink.
+By the time he reached his building, the sensation had faded into something even subtler - less a sound, more a quiet internal pulse. He entered his small apartment, dropping his keys on the table with a familiar clink.
 
 A message awaited him on his comms unit, the little light blinking insistently. It was Lina: *"You missed dinner, Jason. Let me know you're okay."*
 
@@ -99,7 +99,7 @@ Jason stepped out onto his small balcony, the cheap sliding door sticking slight
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
-And there—just for a moment—he heard it. Clearly this time, though still faint:
+And there - just for a moment - he heard it. Clearly this time, though still faint:
 
 A single, resonant tone. Pure, perfectly pitched, and resonating inside him in a way that had nothing to do with his ears.
 
@@ -107,7 +107,7 @@ His eyes snapped open.
 
 "What...?"
 
-But the sound was gone. Only the distant city hum filled his ears again—traffic, an argument somewhere below, a dog barking three streets over.
+But the sound was gone. Only the distant city hum filled his ears again - traffic, an argument somewhere below, a dog barking three streets over.
 
 Jason stood still for a long moment, his heart beating faster than it should, uncertainty swirling in his chest like smoke. Then he turned back inside, sliding the door shut with perhaps a bit more force than necessary.
 
@@ -117,7 +117,7 @@ Because whatever had hummed to life within him tonight wasn't finished.
 
 It was only beginning.
 
-And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope—
+And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope - 
 
 A small, traitorous part of him wondered:
 

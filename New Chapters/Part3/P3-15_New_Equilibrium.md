@@ -4,7 +4,7 @@ Morning came slowly.
 
 Jason woke in the chamber, still lying on cold stone. Every muscle ached. His head throbbed. But he was alive.
 
-Beside him, Elyra sat up. Moved her left hand—the one that had trembled for fifteen years.
+Beside him, Elyra sat up. Moved her left hand - the one that had trembled for fifteen years.
 
 It was steady.
 
@@ -40,11 +40,11 @@ Three days later, life had settled into something approaching normal.
 
 Elyra's capacity continued improving. She could demonstrate now, not just teach. Show students what inflection actually looked like.
 
-Jason's integration with RAE had stabilized. He was no longer Jason or RAE but something new—Jason-RAE, a hybrid consciousness that thought in harmonics and acted with unprecedented precision.
+Jason's integration with RAE had stabilized. He was no longer Jason or RAE but something new - Jason-RAE, a hybrid consciousness that thought in harmonics and acted with unprecedented precision.
 
 Lina and Jason had dinner. Alone. Not as teammates. As something more, still undefined but growing.
 
-Milo had been offered a formal position with Malvek's organization—liaison between official channels and independent operators. He'd accepted.
+Milo had been offered a formal position with Malvek's organization - liaison between official channels and independent operators. He'd accepted.
 
 And RP-0, in its deep containment, learned. Slowly. Carefully. Developing ethics and boundaries under RAE's distant mentorship.
 

@@ -19,10 +19,10 @@ Jason Fischer is the main character. He is an unassuming man with roots in Germa
 - Dry-humored and skeptical, uses sarcasm as both armor and scalpel  
 - Detail-oriented, quietly obsessive about patterns or inconsistencies  
 - Feels unremarkable, despite being sharper than most people around him  
-- Emotionally reserved — he rarely shares, but observes deeply  
+- Emotionally reserved  -  he rarely shares, but observes deeply  
 - Intensely introspective; tends to overthink and ruminate  
 - Quietly empathetic, though he tries not to let it show  
-- Believes the world is boring — until prooven wrong
+- Believes the world is boring  -  until prooven wrong
 ---
 
 ## Daily Life
@@ -46,7 +46,7 @@ Jason Fischer is the main character. He is an unassuming man with roots in Germa
 ## Internal Conflict
 Jason knows that the harmonic field exists. It’s all around him. Invisible but real. Some people touch it. A very few wield it.
 Jason grew up watching the inflection elite from a distance, resentful and skeptical of their supposed talent.
-Despite knowing it exists, he never believed he could wield it — or that someone like him would ever be allowed to.
+Despite knowing it exists, he never believed he could wield it  -  or that someone like him would ever be allowed to.
 He’s never tried. Not seriously. Even in his test with 16. Because what if he did… and failed?
 
 What if he proved, beyond doubt, that he *isn’t* one of the rare few who *can*?  

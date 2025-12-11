@@ -14,7 +14,7 @@ Jason ate salt first, then sugar, then the apology of a croissant flake off his 
 
 Jason’s phone sat face down between the cups: the prepaid they’d christened **figleaf**. Cash‑bought, no contacts, sticker residue like a disguise that forgot to try.
 
-He felt the city nudging at the edge of his skull—less a pain than a pressure asking to be named. He sipped water until it forgot its question.
+He felt the city nudging at the edge of his skull - less a pain than a pressure asking to be named. He sipped water until it forgot its question.
 
 Lina’s gaze flicked to the door. “Okay. Once more. We’re not poking Mill‑4 in public. We are…”
 
@@ -38,7 +38,7 @@ Jason did not stand. Standing concedes ground. “That depends who’s asking.�
 
 The corner table learned how to be very still.
 
-Arendt set his untouched saucer on their table uninvited and then, very deliberately, moved it half a centimeter—testing for reaction, seeing who flinched when the world changed by less than a thumb’s width. No one did.
+Arendt set his untouched saucer on their table uninvited and then, very deliberately, moved it half a centimeter - testing for reaction, seeing who flinched when the world changed by less than a thumb’s width. No one did.
 
 “I’m on a break,” Jason said. “If this is official, we can schedule something through my manager.”
 
@@ -48,7 +48,7 @@ Lina’s smile had edges. “We prefer short conversations in public.”
 
 “Good policy,” Arendt said. “Mine as well.”
 
-He placed a folded paper on the table—a printout of a municipal incident report. Three blanked rectangles, one time stamp. The paper smelled like a copier that had not forgiven its job.
+He placed a folded paper on the table - a printout of a municipal incident report. Three blanked rectangles, one time stamp. The paper smelled like a copier that had not forgiven its job.
 
 “Yesterday,” Arendt said. “Intersection near Mill‑4. Several witnesses described a… disturbance. Nothing dramatic. I even dare it to say, it has been clean.” His eyes held on *clean* like it was both: a compliment and a problem. “A compression shell, if you speak that language.”
 
@@ -94,7 +94,7 @@ Milo’s pen began moving again, as if possessed by bureaucracy. Lina did not bl
 
 “Variables,” Jason said, stalling because the word tasted like both a job and a trap. “Alright. You first.”
 
-“I’m here alone. No tail,” Arendt said. “I approached here because cafés are courteous to small talks. Your friend on the left tracks exits and reflections. The prepaid between the cups is a burner. Your tolerances are higher in public noise; you train there. And no—” his mouth tilted “—I don’t know your teacher. I can only guess that you have one?”
+“I’m here alone. No tail,” Arendt said. “I approached here because cafés are courteous to small talks. Your friend on the left tracks exits and reflections. The prepaid between the cups is a burner. Your tolerances are higher in public noise; you train there. And no - ” his mouth tilted “ - I don’t know your teacher. I can only guess that you have one?”
 
 *He is guessing well. Keep your face boring.*
 
@@ -108,7 +108,7 @@ Lina’s jaw moved again: the muscle that meant she was ready to stop being poli
 
 “We don’t sign understandings,” he said. “We sign receipts. If you have concerns, send them like any citizen. If you want to keep watching, do it like the weather and the traffic cameras: boring and predictable. We do not perform.”
 
-Arendt nodded as if he had expected the shape of the refusal and was relieved to fit inside it. “Fair.” He stood, leaving the tea untouched and the heat paid. “If you notice anything that looks like an experiment you didn’t choose—” he slid a small, unbranded card across, embossed with a number that would only ever ring during daylight— “call. Or don’t. I will not call you.”
+Arendt nodded as if he had expected the shape of the refusal and was relieved to fit inside it. “Fair.” He stood, leaving the tea untouched and the heat paid. “If you notice anything that looks like an experiment you didn’t choose - ” he slid a small, unbranded card across, embossed with a number that would only ever ring during daylight -  “call. Or don’t. I will not call you.”
 
 “Good,” Lina said.
 
@@ -144,7 +144,7 @@ Jason took the card, not to keep it, but to feel the symbol with his thumb. It w
 
 "RAE wants us to take a picture and get rid of the card".
 
-Milo snapped a photo—on the shared junk handset, not on any phone that knew their names. He held up the card. “Farewell forever, item of plausible deniability.”
+Milo snapped a photo - on the shared junk handset, not on any phone that knew their names. He held up the card. “Farewell forever, item of plausible deniability.”
 
 Jason looked through the window. Across the street, a woman laughed at nothing, then adjusted an earpiece that wasn’t there. A city worker moved cones with the slow authority of someone who had paperwork to bless the cones. The tram camera angled itself two degrees and decided to hold that angle, which was not how trams made decisions.
 
@@ -156,7 +156,7 @@ Jason looked through the window. Across the street, a woman laughed at nothing, 
 
 Jason slid the figleaf into his pocket, and with it, the promise they’d written on a napkin: ninety seconds, no recordings, not a syllable more than necessary.
 
-At the door, he paused. The frame was old wood painted the respectable brown of institutions and cafés. On its inner edge, just above eye level, someone—or something—had left a faint, fine mark: a curve that wanted to be a spiral but stopped short, as if it believed in restraint, too.
+At the door, he paused. The frame was old wood painted the respectable brown of institutions and cafés. On its inner edge, just above eye level, someone - or something - had left a faint, fine mark: a curve that wanted to be a spiral but stopped short, as if it believed in restraint, too.
 
 “Marker,” Lina said softly.
 
@@ -174,7 +174,7 @@ He stepped through. The sunlight read him as a person with a job. Behind them, t
 
 ---
 
-They turned right when the obvious route was left, let their reflections pass in three shop windows, and paused to argue—briefly and convincingly—about the difference between good and bad lamination.
+They turned right when the obvious route was left, let their reflections pass in three shop windows, and paused to argue - briefly and convincingly - about the difference between good and bad lamination.
 
 “Good lamination doesn’t try so hard,” Milo declaimed. “It trusts the butter to do the work.”
 

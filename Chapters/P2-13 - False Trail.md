@@ -1,14 +1,14 @@
 ﻿## False Trail
 
-Jason slowed at the wall of brass mailboxes; a corner of a card peeked from his like it wanted out. He opened the box and half‑laughed—more air than sound.
+Jason slowed at the wall of brass mailboxes; a corner of a card peeked from his like it wanted out. He opened the box and half‑laughed - more air than sound.
 
 “What is that?” Lina asked, already close enough to see his face before the paper.
 
-“A note and its own solution,” Jason said. He unfolded the card. “Address, apartment number. And—” He tilted it so they both could read. “*Take care.*”
+“A note and its own solution,” Jason said. He unfolded the card. “Address, apartment number. And - ” He tilted it so they both could read. “*Take care.*”
 
 Milo leaned in with the clipboard as if it were a warrant. “Neat block letters. No flourishes. Whoever wrote this learned their penmanship from forms.” He clicked a photo and stamped the time. “No envelope. They wanted the *peek*.”
 
-Jason turned the card over—blank—and then the key: brass, a white tag, the same careful hand repeating the unit number. He didn’t touch the tag’s ink. “Either a favor or a leash.”
+Jason turned the card over - blank - and then the key: brass, a white tag, the same careful hand repeating the unit number. He didn’t touch the tag’s ink. “Either a favor or a leash.”
 
 “Or both,” Lina said. Her eyebrow did the skeptical thing. “Why your box?”
 
@@ -48,7 +48,7 @@ Jason’s whisper‑clip settled against the mastoid bone like a straightforward
 
 Lina pressed her ear briefly to the door, then flicked her eyes to Jason. “No movement. Dust on the sill’s undisturbed.”
 
-He took a photo through the frosted pane—tape criss‑crossed inside the glass, tidy, fresh glue still faintly amber.
+He took a photo through the frosted pane - tape criss‑crossed inside the glass, tidy, fresh glue still faintly amber.
 
 “Door first,” Milo said, pointing with his pen. “Then the vents. Then the furniture footprints. We don’t poke anything that looks like it wants to be poked.”
 
@@ -56,7 +56,7 @@ Jason’s key from the mailbox seated too easily. The lock turned like it had r
 
 The door opened on a room composed for an audience that hadn’t arrived.
 
-Carpet prints, yes—two sets of footfalls, then a careful brooming to blur them. Dust that was evenly wrong, as if a chore had been done by someone who only knew dust from photographs. A single cabinet against the far wall, old wood, its face carved with a shallow spiral that refused to be just decoration.
+Carpet prints, yes - two sets of footfalls, then a careful brooming to blur them. Dust that was evenly wrong, as if a chore had been done by someone who only knew dust from photographs. A single cabinet against the far wall, old wood, its face carved with a shallow spiral that refused to be just decoration.
 
 The windows were taped in a neat lattice. A plastic drop cloth lay folded in the corner, the fold line set with the precision of someone who ironed excuses.
 
@@ -108,9 +108,9 @@ Jason didn’t move. “Second layer?”
 
 “Look at the power,” RAE said. “No hum in the walls. No fridge tone. The breakers are off. But there’s a low, steady tone not belonging to the building.”
 
-Jason waited. He heard it, but not with his ears—more a pressure that made his eyebrows want to knit. A pure note, shy of audible, holding too long.
+Jason waited. He heard it, but not with his ears - more a pressure that made his eyebrows want to knit. A pure note, shy of audible, holding too long.
 
-“External driver,” RAE said. “Battery pack behind the cabinet or in the wall void. Feeding a piezo or a wire to keep a single frequency steady. If you go close and lean—if you become a carrier—it will ring inside your head and my voice will go messy. That’s the second layer.”
+“External driver,” RAE said. “Battery pack behind the cabinet or in the wall void. Feeding a piezo or a wire to keep a single frequency steady. If you go close and lean - if you become a carrier - it will ring inside your head and my voice will go messy. That’s the second layer.”
 
 Milo made a face, like someone had offered him a free sermon. “So it’s not *for* us. It’s for anyone who tests with their body.”
 
@@ -124,11 +124,11 @@ Jason exhaled. The ache behind his eyes uncoiled half a notch. “We stand down.
 
 They worked the room like a set. Milo started a clock on his phone and read times out loud for the record. “Seventeen‑oh‑three entry. Room temperature one‑eight celsius. Door latch stiff but cooperative. No mechanical complaints.”
 
-Lina photographed the taped windows from oblique angles. On one pane, two pieces of tape crossed and left a perfect, unpainted diamond—the kind you get when tape goes down before dust, not after. On the adjacent pane, faint *tape ghosts*—matte rectangles where adhesive had been and was peeled—sketched an earlier lattice at a slightly different angle, wrong for today’s sun. She wrote it in the corner of the photo with a finger: *tape first, dust second.*
+Lina photographed the taped windows from oblique angles. On one pane, two pieces of tape crossed and left a perfect, unpainted diamond - the kind you get when tape goes down before dust, not after. On the adjacent pane, faint *tape ghosts* - matte rectangles where adhesive had been and was peeled - sketched an earlier lattice at a slightly different angle, wrong for today’s sun. She wrote it in the corner of the photo with a finger: *tape first, dust second.*
 
 Jason sketched the cabinet in his pocket notebook, not because the camera couldn’t do it but because drawing made the curve stay in his hands. He counted the spiral turns out loud, slow enough for RAE to map the cadence against the light shift. “Three and a half to the nick. Depth shallow then sharp. Tools were sharp when cut. No chatter.”
 
-“Feet,” Lina said, crouching. “No felt pads. No scrape on the floorboards. Whoever slid it did so on something soft or rolling and then removed the sled.” She pointed behind the cabinet. “Dust crescent two hand‑spans back—old resting place. And another, shallow, to the left. They auditioned spots.”
+“Feet,” Lina said, crouching. “No felt pads. No scrape on the floorboards. Whoever slid it did so on something soft or rolling and then removed the sled.” She pointed behind the cabinet. “Dust crescent two hand‑spans back - old resting place. And another, shallow, to the left. They auditioned spots.”
 
 Milo’s flashlight found a paper rectangle under the radiator. He coaxed it out with the least heroic chopstick ever to leave a takeout bag. A flyer for a market two neighborhoods over. Clean edges, no dust. Prop.
 
@@ -158,7 +158,7 @@ RAE’s voice sharpened in the clip by half a degree. “That’s the look‑at�
 
 They did not open the cabinet.
 
-From the doorway, they tried one controlled thing. Milo slid a credit‑card mirror from his kit and caught the thin sun leaking past the tape lattice. He threw a sliver of light across the spiral, low and grazing—the poor man’s backlight. The nick flashed; the curve went chrome.
+From the doorway, they tried one controlled thing. Milo slid a credit‑card mirror from his kit and caught the thin sun leaking past the tape lattice. He threw a sliver of light across the spiral, low and grazing - the poor man’s backlight. The nick flashed; the curve went chrome.
 
 The room’s pure tone climbed a hair. RAE’s consonants softened, like talking underwater. "Back two steps," she said.
 
@@ -166,7 +166,7 @@ Jason and Milo both shifted their weight. The smear cleared.
 
 "Not optics in the mechanism," RAE added after a breath. "Optics in you. The flare asks for your head. The driver rewards proximity."
 
-Jason re‑framed his shot and—without meaning to—leaned right. Pressure opened like a thumb behind his left eye; the clip fuzzed once.
+Jason re‑framed his shot and - without meaning to - leaned right. Pressure opened like a thumb behind his left eye; the clip fuzzed once.
 
 "Stop," RAE said, no drama.
 
@@ -188,7 +188,7 @@ RAE’s approval arrived like a lowering of pressure. “A good no. Document the
 
 Milo grinned, spiteful and pleased. “We love receipts.”
 
-He stepped to the door to shoot the hallway. Jason stayed one more second to watch the light do its trick. The spiral caught and threw a helix back at him. Not moving—just choosing to be seen, then not.
+He stepped to the door to shoot the hallway. Jason stayed one more second to watch the light do its trick. The spiral caught and threw a helix back at him. Not moving - just choosing to be seen, then not.
 
 “Jason,” Lina said gently. The tug of his name made the decision for him.
 
@@ -232,5 +232,5 @@ Jason didn’t look back until they were on the sidewalk. The window of 2B held 
 
 Jason’s hand brushed the clip behind his ear. The building’s hum receded. The city put its shoes back on. A held note at the edge of hearing let go.
 
-They walked. The afternoon turned its own page. Behind them, in the empty room, light crossed the cabinet’s face and the spiral seemed to turn once, then held still—as if embarrassed to be caught moving.
+They walked. The afternoon turned its own page. Behind them, in the empty room, light crossed the cabinet’s face and the spiral seemed to turn once, then held still - as if embarrassed to be caught moving.
 

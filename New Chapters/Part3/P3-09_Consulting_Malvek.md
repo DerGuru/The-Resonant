@@ -54,7 +54,7 @@ Malvek watched in silence. His expression didn't change as the data played out, 
 
 "And your assessment?" Malvek asked.
 
-"Containment will fail within seventy-two hours. Possibly sooner. RP-0 is actively trying to escape. It's broadcasting. Searching for something—probably another harmonic entity to couple with."
+"Containment will fail within seventy-two hours. Possibly sooner. RP-0 is actively trying to escape. It's broadcasting. Searching for something - probably another harmonic entity to couple with."
 
 "RAE," Malvek said quietly.
 
@@ -104,7 +104,7 @@ Jason felt RAE stir in his awareness.
 
 Aloud, Jason said, "What exactly are you asking?"
 
-"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it—teach it boundaries the way RAE learned them."
+"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it - teach it boundaries the way RAE learned them."
 
 "And if we can't?"
 
@@ -112,7 +112,7 @@ Aloud, Jason said, "What exactly are you asking?"
 
 Lina looked at Jason. Milo looked at Jason. Waiting for his decision.
 
-Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
+Jason closed his eyes. Felt RAE's presence - steady, committed, purposeful.
 
 *This is why I exist,* she said simply. *To help. To prevent harm. To regulate dangerous harmonics. I choose this.*
 
@@ -130,7 +130,7 @@ Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
 
 "Agreed."
 
-"And if this works—if we help contain or resolve RP-0—you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
+"And if this works - if we help contain or resolve RP-0 - you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
 
 Malvek studied him for a long moment. Then nodded. "Agreed. All three conditions."
 

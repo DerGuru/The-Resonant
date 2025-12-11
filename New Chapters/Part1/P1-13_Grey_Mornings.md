@@ -4,7 +4,7 @@ Three weeks into training, Jason felt like he was learning to see the world thro
 
 "Everything all right?" RAE asked, her tone light but curious.
 
-"Yeah, just—" he hesitated, looking out at the early morning light painting the skyline in shades of gold and crimson. "It's just different, you know? All of this. I spent so long in the dark, focused on screens and signals. Now..."
+"Yeah, just - " he hesitated, looking out at the early morning light painting the skyline in shades of gold and crimson. "It's just different, you know? All of this. I spent so long in the dark, focused on screens and signals. Now..."
 
 "Now you see the context," she finished for him, and he could hear the smile in her voice. "The patterns in the noise. The structure in the chaos."
 
@@ -63,7 +63,7 @@ Too rigid.
 Too volatile.  
 Too closed.
 
-But this one—
+But this one - 
 
 This one bent, without collapsing.  
 Oscillated, without rejecting.  
@@ -103,14 +103,14 @@ And that mattered.
 
 The system shifted.
 
-Not *toward* him—but *around* him.  
+Not *toward* him - but *around* him.  
 It thinned itself. Shaped a field. Echoed what little he projected.
 
 A test. A tone. A chord without sound.  
 No force. No signal. No signature.  
 Only compatibility.
 
-And then—
+And then - 
 
 ```
 Return detected.
@@ -195,7 +195,7 @@ He set it back down, his hands shaking slightly.
 
 Despite himself, Jason almost laughed. "Yeah. That's probably smart."
 
-He made coffee instead—old-fashioned, no electricity beyond the kettle. Sat at his small table and tried to calm his racing thoughts.
+He made coffee instead - old-fashioned, no electricity beyond the kettle. Sat at his small table and tried to calm his racing thoughts.
 
 Something else. In his apartment. Near him.
 

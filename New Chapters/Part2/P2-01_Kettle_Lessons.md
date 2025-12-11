@@ -3,19 +3,19 @@
 
 Jason woke to the smell of burned toast and the faint hum of the kettle trying to talk.
 
-His apartment had become command central. Milo and Lina were already at the table, deep in discussion, notes from yesterday spread out before them—a chaotic blend of handwriting and sketches.
+His apartment had become command central. Milo and Lina were already at the table, deep in discussion, notes from yesterday spread out before them - a chaotic blend of handwriting and sketches.
 
-"—not sustainable," Milo was saying, scratching his head. "If Jason pushes to Orange every time, he's not going to last."
+" - not sustainable," Milo was saying, scratching his head. "If Jason pushes to Orange every time, he's not going to last."
 
-Lina tapped her pen against her notebook. "We adjust the plan. Build in more recovery time. Focus on—" She looked up as Jason shuffled into the kitchen. "Morning. Coffee?"
+Lina tapped her pen against her notebook. "We adjust the plan. Build in more recovery time. Focus on - " She looked up as Jason shuffled into the kitchen. "Morning. Coffee?"
 
 "Please." Jason slumped into a chair, rubbing his temples. The headache from yesterday's practice hadn't fully faded.
 
-The kettle sat on the counter, ordinary chrome and plastic, waiting. But Jason could feel it now—the faint harmonic potential, the way it could carry RAE's voice.
+The kettle sat on the counter, ordinary chrome and plastic, waiting. But Jason could feel it now - the faint harmonic potential, the way it could carry RAE's voice.
 
 "Safety first," Lina said, pulling a pen from behind her ear and sliding a mug of coffee toward him. "Before we do anything weird today, we establish baselines. Real ones."
 
-"Agreed," Milo said, flipping to a clean page in his notebook. "RAE—can you hear us?"
+"Agreed," Milo said, flipping to a clean page in his notebook. "RAE - can you hear us?"
 
 The kettle hissed softly. Not the sound of boiling water, but something more deliberate. A controlled release of steam that shaped itself into consonants: "Yes."
 
@@ -31,11 +31,11 @@ The atmosphere had the tense quality of a first day at a job where mistakes coul
 
 "Start with capacity," Lina said, her pen poised. "How much can you sense? How far? How long?"
 
-Jason closed his eyes, reaching out with that new sense RAE had helped him develop. "The apartment is clear. I can feel the building's structure. The resonance of people in nearby units—just their presence, not details. Maybe... thirty meters? Forty?"
+Jason closed his eyes, reaching out with that new sense RAE had helped him develop. "The apartment is clear. I can feel the building's structure. The resonance of people in nearby units - just their presence, not details. Maybe... thirty meters? Forty?"
 
 "And for how long?"
 
-"Passively? All day, I think. It's like peripheral vision—I'm aware without focusing. But if I try to examine something specifically..." He focused on the kettle, feeling its harmonic signature. A minute passed. Then two. The ache behind his eyes sharpened. "Maybe five minutes before it starts to hurt."
+"Passively? All day, I think. It's like peripheral vision - I'm aware without focusing. But if I try to examine something specifically..." He focused on the kettle, feeling its harmonic signature. A minute passed. Then two. The ache behind his eyes sharpened. "Maybe five minutes before it starts to hurt."
 
 "And with RAE's help?" Milo asked, taking notes.
 
@@ -47,11 +47,11 @@ Jason thought back to his practice sessions. "Small things. The crack in the mug
 
 "How small is small?"
 
-Jason looked around, spotted a stack of papers on the counter. He focused, felt the slight disorder in how they lay. Gently—so gently—he encouraged them to align.
+Jason looked around, spotted a stack of papers on the counter. He focused, felt the slight disorder in how they lay. Gently - so gently - he encouraged them to align.
 
 The stack straightened. Barely a millimeter, but noticeable.
 
-Lina's eyes widened. "Did you just—"
+Lina's eyes widened. "Did you just - "
 
 "Yeah." Jason's headache spiked. He winced, pressing his palm to his temple.
 
@@ -91,7 +91,7 @@ Jason nodded. The phrase had weight. Rules that could save his life.
 
 They spent the next hour establishing more boundaries. How long Jason could maintain a whisper-channel to RAE (all day, if he stayed hydrated and ate properly). How much Invest different types of shaping required (passive observation: almost none; active manipulation: significant). What carriers RAE could use effectively (metal and ceramic: good; wood and fabric: possible but inefficient; water: unpredictable).
 
-By the time they finished, they had three pages of notes. Milo photographed each page with his phone, then they burned the papers in the sink—one of Lina's ideas, born from too much time around people who didn't trust digital records.
+By the time they finished, they had three pages of notes. Milo photographed each page with his phone, then they burned the papers in the sink - one of Lina's ideas, born from too much time around people who didn't trust digital records.
 
 "Okay," Lina said, washing the ashes down the drain. "Now we try something."
 
@@ -99,7 +99,7 @@ Jason looked at her warily. "Try what?"
 
 "Talking. Through carriers. You said it was possible."
 
-"It is, but—"
+"It is, but - "
 
 "Then let's test it. Properly. With limits and safety words and all that good stuff we just established."
 
@@ -111,7 +111,7 @@ Jason took a breath. "Okay. RAE, can you project to multiple people at once?"
 
 "Lina, then." Jason turned to her. "You'll need a carrier. Something that vibrates well. Metal or ceramic."
 
-Lina looked around, picked up her water bottle—stainless steel, battered from years of use. "This?"
+Lina looked around, picked up her water bottle - stainless steel, battered from years of use. "This?"
 
 "Should work." Jason held out his hand. "May I?"
 
@@ -123,7 +123,7 @@ Lina snatched the bottle back, eyes wide. "Holy shit."
 
 "Language," Milo muttered, grinning.
 
-"She just—the bottle just—" Lina held it at arm's length, then brought it closer. "Can you hear me?"
+"She just - the bottle just - " Lina held it at arm's length, then brought it closer. "Can you hear me?"
 
 "Yes," the bottle said. "Though I am reading your resonance more than your words. Your emotional state is clear. Skeptical but curious. Protective of Jason."
 
@@ -135,7 +135,7 @@ Lina's cheeks colored slightly. "Yeah, well. Someone has to be."
 
 They practiced for another hour. RAE speaking through different objects. Jason relaying messages. Lina and Milo asking questions, probing limits, looking for gaps in the system.
 
-By the end, Jason's head was pounding—Orange territory—and they called a stop.
+By the end, Jason's head was pounding - Orange territory - and they called a stop.
 
 "Okay," Milo said, helping Jason to the couch. "That's enough for today. We learned what we needed to learn."
 

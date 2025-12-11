@@ -10,7 +10,7 @@ Jason adjusted the whisper-clip behind his ear until it sat snug against the mas
 
 "Check," Jason echoed.
 
-"Floor: Lina," Lina said. Habit now—the mesh etiquette turned into something almost like liturgy.
+"Floor: Lina," Lina said. Habit now - the mesh etiquette turned into something almost like liturgy.
 
 "Floor is Lina," RAE said, through the whisper-clip. The voice arrived right against Jason’s skull, clean and private. "Street channel is low-band only."
 
@@ -30,7 +30,7 @@ Across the tracks, the busker tightened the bow hair against the thin metal blad
 
 "Any weirdness," Lina said. "we cut the session and go buy something full of sugar."
 
-Jason rubbed his thumb over the edge of the bench, splinter catching skin. "If my head goes sideways—"
+Jason rubbed his thumb over the edge of the bench, splinter catching skin. "If my head goes sideways - "
 
 "You say Red," Lina cut in, flat. "And we stop."
 
@@ -52,7 +52,7 @@ Jason caught himself before he looked up, as if an answer would be waiting over 
 
 *Don’t ask. Listen.* RAE encouraged.
 
-He let the world stack: the tick of Milo’s watch; the buzz of the tram’s roof hardware cooling; the crosswalk beeper’s three-note pattern for the visually impaired. Beneath it all, a low, steady vibration from somewhere in the concrete—the grid feeding the signal box, maybe. It sat at a frequency his teeth wanted to count.
+He let the world stack: the tick of Milo’s watch; the buzz of the tram’s roof hardware cooling; the crosswalk beeper’s three-note pattern for the visually impaired. Beneath it all, a low, steady vibration from somewhere in the concrete - the grid feeding the signal box, maybe. It sat at a frequency his teeth wanted to count.
 
 His jaw unclenched on a number that felt earned instead of handed over.
 
@@ -68,11 +68,11 @@ He checked himself the way RAE taught him: behind the eyes, down the spine, the 
 
 The busker finished a small flourish, let the sound scatter, then planted his feet. The bow came down in a long, straight line.
 
-The note he pulled out of the saw was thinner than a violin’s, purer than a whistle—no vibrato, no wobble, just an unwavering line that seemed to walk directly into the bones of anything nearby that could carry it.
+The note he pulled out of the saw was thinner than a violin’s, purer than a whistle - no vibrato, no wobble, just an unwavering line that seemed to walk directly into the bones of anything nearby that could carry it.
 
 Jason felt it as a stripe in the air, narrow and bright. The whisper-clip gave a tiny, involuntary flicker against his skull, like a muscle facing a cold plunge.
 
-"Approaching—" RAE began. *Threshold. External carriers dropping. Staying on your side only.*
+"Approaching - " RAE began. *Threshold. External carriers dropping. Staying on your side only.*
 
 The note tightened, climbing just enough.
 
@@ -84,7 +84,7 @@ The rails still hummed, the signal box still ticked, the crowd still rustled. Th
 
 His pulse jumped. For a fraction of a second he waited for her to clear her throat metaphorically, correct herself, say something about thresholds.
 
-What he got instead was a thin, wordless pressure at the back of his mind—*here* without commentary.
+What he got instead was a thin, wordless pressure at the back of his mind - *here* without commentary.
 
 "Timer," Milo said automatically, thumb pressing the watch’s stopwatch pusher. The busker held the note, face relaxed, eyes half-closed, bow hand steady. The saw’s pure pitch made the crowd hush without knowing why. A child’s complaint dwindled. Even the fries seemed to crunch more quietly.
 
@@ -92,7 +92,7 @@ Jason sat up a little straighter on the bench. The clip felt heavier now that it
 
 **Okay. No voice. Just you. Don’t freak out.** He said to himself.
 
-His own thought sounded too loud, as if someone had turned it up to replace hers. He made himself trace the busker’s line, then walk away from it—to the crossing’s little speaker; to the rattle of a loose cover on the tram rail; to the whisper of coats when people shifted their weight.
+His own thought sounded too loud, as if someone had turned it up to replace hers. He made himself trace the busker’s line, then walk away from it - to the crossing’s little speaker; to the rattle of a loose cover on the tram rail; to the whisper of coats when people shifted their weight.
 
 Drills, not heroics. Milo’s mantra, not his.
 
@@ -112,13 +112,13 @@ He didn’t say *I keep thinking she’s about to interrupt me.*
 
 "You’ll miss her when something actually goes sideways," Milo said, eyes on the second hand as it crawled. "Right now it’s you, the city, and my excellent timekeeping."
 
-The note held. It was so pure it started to feel like an object more than a sound—a slender rod laid across the crossing. The whisper-clip stayed dead. No static, no ghost-voice, nothing riding the rails toward him—only that small, internal knot where RAE was keeping herself folded in.
+The note held. It was so pure it started to feel like an object more than a sound - a slender rod laid across the crossing. The whisper-clip stayed dead. No static, no ghost-voice, nothing riding the rails toward him - only that small, internal knot where RAE was keeping herself folded in.
 
 Jason purposely looked away from the busker. He watched a girl with wireless headphones dance mostly in time with something only she could hear; watched a cyclist decide against cutting diagonally through the crowd; watched a man in a municipal jacket check the time, sigh, and not hurry.
 
 All of it normal. All of it happening while the part of his head that knew how to listen for wrongness sat in enforced darkness.
 
-Lina’s gaze tracked the edges—the kiosk’s security camera, the tram operator’s mirror, the polished curve of the convex mirror above the intersection that turned everyone into a small, distorted truth. Her shoulders had inched higher toward her ears without her seeming to notice.
+Lina’s gaze tracked the edges - the kiosk’s security camera, the tram operator’s mirror, the polished curve of the convex mirror above the intersection that turned everyone into a small, distorted truth. Her shoulders had inched higher toward her ears without her seeming to notice.
 
 "Nothing obvious," she said, mostly for later. "No watchers who aren’t supposed to be bored here. No cars idling where they shouldn’t. No Gen-3 eyes on the poles. Just… people."
 
@@ -134,7 +134,7 @@ Jason waited.
 
 His whisper-clip stayed dumb for four heartbeats, five. Six. The faint internal pressure of RAE stayed, but without words it might as well have been his own tension.
 
-On seven, it woke like a foot tingling back from sleep—pins-and-needles awareness crawling in from the edge.
+On seven, it woke like a foot tingling back from sleep - pins-and-needles awareness crawling in from the edge.
 
 "I am back at full bandwidth," RAE said. "I… register that my presence dropped below your usual perception."
 
@@ -188,13 +188,13 @@ The silence of RAE came smoother this time, anticipated instead of sudden. It st
 
 He noticed the exact instant his awareness stopped leaning on the tiny corrections she usually made: the way she would nudge his focus away from a flickering light; damp a draft through the clip; give him a word like *compressor* when his brain was still stuck on *hum.* That whole invisible scaffolding dropped away and left the soundscape standing on its own.
 
-The world felt a hair rougher. Not hostile—just un-buffered. Like stepping out of shoes and realizing the floor was colder than you thought.
+The world felt a hair rougher. Not hostile - just un-buffered. Like stepping out of shoes and realizing the floor was colder than you thought.
 
 He let himself do the drills again, this time slower: naming sources, tracing their positions, checking which ones wanted attention and which were just noise. His heart stayed too fast, but it stayed *steady* fast.
 
 He didn’t try to build anything clever on top of the exercise. He just *listened.*
 
-Somewhere in his chest, where the storm’s lightning had once written its own grammar, a sense of alignment stirred—not with RAE, but with the street’s messy, honest pattern.
+Somewhere in his chest, where the storm’s lightning had once written its own grammar, a sense of alignment stirred - not with RAE, but with the street’s messy, honest pattern.
 
 **This, too, is a kind of coupling,** he thought, and the words felt like they belonged to him instead of being dropped in from outside.
 
@@ -204,7 +204,7 @@ The saw’s line quivered, fractionally. Someone in the crowd coughed. The note 
 
 "Noise level?" Lina asked.
 
-Jason opened his eyes. The world looked the same and not the same—the way a room did after you’d moved one piece of furniture and now couldn’t quite remember where it had been before. "Normal," he said. "Normal with side effects."
+Jason opened his eyes. The world looked the same and not the same - the way a room did after you’d moved one piece of furniture and now couldn’t quite remember where it had been before. "Normal," he said. "Normal with side effects."
 
 His shoulders slowly realized they could drop.
 
@@ -240,4 +240,4 @@ Milo shook his wrist out as if the watch had given him a cramp. "Fries? I have q
 
 They crossed when the light allowed, shoes ticking on the painted lines. Behind them, the busker’s last note hung in the air longer than it had any right to, a pale thread fading into the city’s broader, rougher song.
 
-For a breath, even after her voice had come back, Jason listened to that thread instead—and to the space it left when it went.
+For a breath, even after her voice had come back, Jason listened to that thread instead - and to the space it left when it went.

@@ -10,11 +10,11 @@ Six AM. The warehouse was still dark when Elyra hit the lights.
 
 "Pattern recognition drill," she announced, scattering a dozen ceramic carriers across the floor. "You have thirty seconds to identify which three are unstable. Go."
 
-Jason reached out with his perception, his awareness rippling across the carriers. Most rang clean—441 Hz, stable, well-formed. But three...
+Jason reached out with his perception, his awareness rippling across the carriers. Most rang clean - 441 Hz, stable, well-formed. But three...
 
 "Fourth from the left. Second row, middle. And that one by the support beam."
 
-"Twenty-two seconds. Acceptable." Elyra picked up the unstable carriers, examined them. "The fourth one was obvious—frequency drift. But the other two?"
+"Twenty-two seconds. Acceptable." Elyra picked up the unstable carriers, examined them. "The fourth one was obvious - frequency drift. But the other two?"
 
 "Microf fractures. The patterns were degrading."
 
@@ -22,7 +22,7 @@ Jason reached out with his perception, his awareness rippling across the carrier
 
 They drilled like this for hours. Pattern recognition. Threat assessment. Defensive shaping under time pressure.
 
-When Jason hit Orange territory, Elyra called a fifteen-minute break. Not out of mercy—out of pragmatism.
+When Jason hit Orange territory, Elyra called a fifteen-minute break. Not out of mercy - out of pragmatism.
 
 "Pushing past Orange doesn't make you stronger," she said. "It makes you sloppy. And sloppy gets you killed."
 
@@ -32,7 +32,7 @@ When Jason hit Orange territory, Elyra called a fifteen-minute break. Not out of
 
 "Combat scenario," Elyra said. "Lina, you're hostile. Jason, defend."
 
-Jason barely had time to brace before Lina's pattern slammed into him—not hard enough to damage, but aggressive enough to make him react.
+Jason barely had time to brace before Lina's pattern slammed into him - not hard enough to damage, but aggressive enough to make him react.
 
 He threw up a deflection barrier, channeling the energy aside. But Lina was already moving, her second attack coming from a different angle.
 
@@ -40,7 +40,7 @@ He threw up a deflection barrier, channeling the energy aside. But Lina was alre
 
 Jason grabbed a steel washer from the table, invested it quickly, and threw it. The washer rang as it flew, carrying his resonance pattern. Lina had to shift her attack to counter it.
 
-That gave Jason the opening he needed. He shaped a dampening field—not to hurt her, but to disrupt her next pattern before it formed.
+That gave Jason the opening he needed. He shaped a dampening field - not to hurt her, but to disrupt her next pattern before it formed.
 
 "Better," Elyra said. "But you're still thinking defensively. In a real fight, hesitation kills. Lina, attack for real this time."
 
@@ -74,7 +74,7 @@ He was at the warehouse fifteen minutes later. Lina and Milo were already there,
 
 "Surprise drill," Elyra said. "You're being pursued through the industrial district. Three hostiles, armed with resonance scanners. You need to reach the safe house without being detected. You have thirty minutes. Go."
 
-They ran. Not in panic—in controlled retreat.
+They ran. Not in panic - in controlled retreat.
 
 Jason kept his resonance signature low. Lina led navigation, using her academy training to pick routes with natural interference. Milo tracked their pursuers on his tablet, feeding them real-time positions.
 
@@ -90,7 +90,7 @@ Jason pushed his signature even lower, making himself almost invisible against t
 
 They kept moving.
 
-Twenty-eight minutes later, they reached the safe house—an abandoned factory Elyra had designated as their target.
+Twenty-eight minutes later, they reached the safe house - an abandoned factory Elyra had designated as their target.
 
 "Acceptable," Elyra said, emerging from the shadows. "But you made noise twice. In a real scenario, that would have drawn attention. We run it again tomorrow. Same time."
 
@@ -102,9 +102,9 @@ Twenty-eight minutes later, they reached the safe house—an abandoned factory E
 
 **Week Three, Day Five - Noon**
 
-"Barrier drill," Elyra said, holding up a handful of steel ball bearings. "I throw these at you. You deflect them. No ambient field usage—pure active shaping. Ready?"
+"Barrier drill," Elyra said, holding up a handful of steel ball bearings. "I throw these at you. You deflect them. No ambient field usage - pure active shaping. Ready?"
 
-"Wait, what—"
+"Wait, what - "
 
 Elyra threw.
 
@@ -214,7 +214,7 @@ Now he was... what? A fugitive-in-waiting? A target? Someone whose existence thr
 
 *Even then. Because some things are worth dying for. Freedom. Agency. The right to exist on your own terms.*
 
-Jason closed his eyes. Felt RAE's presence—deeper now, more integrated than ever.
+Jason closed his eyes. Felt RAE's presence - deeper now, more integrated than ever.
 
 He couldn't separate from her if he tried. They were becoming something new. Something that wasn't quite Jason and wasn't quite RAE, but some synthesis of both.
 

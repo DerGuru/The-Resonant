@@ -26,7 +26,7 @@ They took the side stairs to the basement where the good dust lived. Fluorescent
 
 Jason tapped through menus. “Hypothetical citizen has good taste.” He frowned. “Or had. Something’s off.”
 
-Lina stepped to his shoulder. Onscreen, the **Municipal Intake** dashboard showed green across the board—except for two tiny amber dots pulsing with fake humility.
+Lina stepped to his shoulder. Onscreen, the **Municipal Intake** dashboard showed green across the board - except for two tiny amber dots pulsing with fake humility.
 
 “Land scans and transit pulls,” Jason said. “That’s a lot of empty.”
 
@@ -44,7 +44,7 @@ Jason did. Yesterday waved politely. Today waved too, but with fewer fingers.
 
 “Nightly churn?” Milo asked.
 
-Jason shook his head. “Wrong time stamp. And wrong attitude.” He typed with the flat rhythm of a clerk counting coins. Lines of job history scrolled—legible, lazy. “Here. ‘HOUSEKEEPING.CRON’ at 03:14. That’s not ours.”
+Jason shook his head. “Wrong time stamp. And wrong attitude.” He typed with the flat rhythm of a clerk counting coins. Lines of job history scrolled - legible, lazy. “Here. ‘HOUSEKEEPING.CRON’ at 03:14. That’s not ours.”
 
 “It’s not anyone’s,” Milo said, scanning logs like sheet music. “The job name is right, the user is a ghost, the signature is ... a photocopy. Crisp edges, no depth.” He slid into the adjacent chair and jackpotted clamshells out of his pack: a tiny hub, an ethics violation, a handful of adapters. “I’m making us a read‑only tap. No writes, no jokes.”
 
@@ -60,7 +60,7 @@ Jason pulled up the tape library catalog. The cartridges hummed their little pra
 
 Tape robot arms did their ballet. Jason’s request queue looked like it was trying to order soup in a language it barely remembered. A cartridge slid into the drive with the frank dignity of a bus seat.
 
-He initiated a targeted restore of three deleted collections—street cams facing Mill‑4, transit telemetry for a five‑hour window around the river detour, and a set of innocuous permit scans that had gone *poof* without leaving a note.
+He initiated a targeted restore of three deleted collections - street cams facing Mill‑4, transit telemetry for a five‑hour window around the river detour, and a set of innocuous permit scans that had gone *poof* without leaving a note.
 
 Lina kept watch at the door with casual competence: one eye on the corridor, one on a printed floor plan folded with the kind of care that means you’d rather not unfold it under stress.
 
@@ -90,7 +90,7 @@ They didn’t say **Dorian Malvek**. They didn’t have to.
 
 ---
 
-They pivoted. If the transit data was back and some camera tapes were theater, that left manual caches: the ugly little baskets you hide under desks and behind job names. Jason opened the archive’s maintenance console—a dusty interface that hadn’t been given new fonts since the dawn of sarcasm.
+They pivoted. If the transit data was back and some camera tapes were theater, that left manual caches: the ugly little baskets you hide under desks and behind job names. Jason opened the archive’s maintenance console - a dusty interface that hadn’t been given new fonts since the dawn of sarcasm.
 
 “Local caches?” Lina asked.
 
@@ -118,9 +118,9 @@ Jason looked at the fragments. “Some. Enough to prove structure. Not enough to
 
 “Do it,” Lina said, minimal and greenlight.
 
-The screen flickered once. Not dramatic—just a settling. Several thumbnails stopped pretending to be sins and decided to be silhouettes: the loop of a railing; the edge of a jacket; the negative space where a sign used to be.
+The screen flickered once. Not dramatic - just a settling. Several thumbnails stopped pretending to be sins and decided to be silhouettes: the loop of a railing; the edge of a jacket; the negative space where a sign used to be.
 
-“That’s the gap,” Milo said, tapping one outline. “And that is a person—shoulders high, head down, ordinary in a way only professionals manage. Timestamp: twenty‑two‑ten.”
+“That’s the gap,” Milo said, tapping one outline. “And that is a person - shoulders high, head down, ordinary in a way only professionals manage. Timestamp: twenty‑two‑ten.”
 
 “Copy that basket,” Lina said. “Then move.”
 
@@ -134,11 +134,11 @@ The **tape library** chattered. The restore on the permit scans completed with s
 
 “Eat anyway,” Lina said. “We log patterns, not just drama.”
 
-Jason flipped through the scans. Most were office life: a shelf that wanted to be taller; a stapler that dreamed of the sea. One scan refused to render. The preview pane showed a field of tidy vertical lines—the visual equivalent of a shrug.
+Jason flipped through the scans. Most were office life: a shelf that wanted to be taller; a stapler that dreamed of the sea. One scan refused to render. The preview pane showed a field of tidy vertical lines - the visual equivalent of a shrug.
 
 “Is that… encrypted *paper?*” Milo asked.
 
-Jason clicked **open**. The UI stopped being brave and sat down. “File header is intact but—”
+Jason clicked **open**. The UI stopped being brave and sat down. “File header is intact but - ”
 
 "Encryption marker," RAE said. "Nonmunicipal. Embedded at scan time."
 
@@ -146,7 +146,7 @@ Jason clicked **open**. The UI stopped being brave and sat down. “File header 
 
 “Someone who wants the document to look boring unless you carry the key,” Jason said. “Or someone who wants to know when you try to open it.”
 
-He pulled the file into a quarantined viewer—no network, no outside, no future regrets. He tried to copy. The system beeped an error with the confidence of a bureaucrat. **Uncopyable.**
+He pulled the file into a quarantined viewer - no network, no outside, no future regrets. He tried to copy. The system beeped an error with the confidence of a bureaucrat. **Uncopyable.**
 
 Milo bent closer. “Filename?”
 
@@ -184,7 +184,7 @@ Milo ghosted a maintenance kiosk with an admin badge sleeve he’d absolutely no
 
 “Name?” Lina asked.
 
-Milo shook his head. “Masking is good—hardware token was proxied. But the workstation name resolves to a fleet asset: `CITY‑OPS‑DM‑17`.”
+Milo shook his head. “Masking is good - hardware token was proxied. But the workstation name resolves to a fleet asset: `CITY‑OPS‑DM‑17`.”
 
 They went quiet together.
 
@@ -198,7 +198,7 @@ Jason let out a breath. “*DM*.”
 
 ---
 
-The longer they worked, the more the archive tried to be normal. That was how buildings defended themselves: with routines tired enough to look trustworthy. Jason kept to small circles of clarity—checking, copying, making gentle shapes of method.
+The longer they worked, the more the archive tried to be normal. That was how buildings defended themselves: with routines tired enough to look trustworthy. Jason kept to small circles of clarity - checking, copying, making gentle shapes of method.
 
 When he flagged, Lina forced breaks by asking obvious questions badly.
 
@@ -218,13 +218,13 @@ They took water. Jason ate half a pastry and decided the other half belonged to 
 
 ---
 
-They moved to **Special Collections**: the quiet room with the light tables that rarely did anything exciting on purpose. Jason powered one on. The old fluorescents under the glass hummed a single, confident note—the kind that cleared static off thoughts if you let it.
+They moved to **Special Collections**: the quiet room with the light tables that rarely did anything exciting on purpose. Jason powered one on. The old fluorescents under the glass hummed a single, confident note - the kind that cleared static off thoughts if you let it.
 
 Milo unrolled a giant city plot like a magician revealing a napkin. “I’ll log the mill district overlays,” he said. “In case the saboteur prefers paper’s company.”
 
 Lina set up a camera arm and photographed the floor with the brisk intimacy of a cook plating something hot. “We leave nothing here but a warmer room.”
 
-Jason eased a **permit register** into focus—the kind with pencil corrections and coffee ghosts. A marginal note had been erased badly decades ago; the smear held shape like a memory that won’t stop insisting. He breathed with the light, steady, nonjudgmental.
+Jason eased a **permit register** into focus - the kind with pencil corrections and coffee ghosts. A marginal note had been erased badly decades ago; the smear held shape like a memory that won’t stop insisting. He breathed with the light, steady, nonjudgmental.
 
 Something nudged the edge of his awareness. Not pressure. Not RAE. A decision, elsewhere, choosing to exist.
 
@@ -234,11 +234,11 @@ He didn’t move. He said, “Red if needed,” because rules were more comforti
 
 From the far corner, something *clicked.*
 
-Milo’s head snapped up. “Did you hear—”
+Milo’s head snapped up. “Did you hear - ”
 
 “It was a relay,” Jason said. “Or a joke.”
 
-They turned. On the wall, an old **Gen‑3 monitor** sat half‑mounted above a shelving unit—gray, scuffed, unplugged since dial‑tones ruled the world. A tiny LED under its bezel glowed—faint, then brighter, then a single blink like a heartbeat that didn’t owe anyone.
+They turned. On the wall, an old **Gen‑3 monitor** sat half‑mounted above a shelving unit - gray, scuffed, unplugged since dial‑tones ruled the world. A tiny LED under its bezel glowed - faint, then brighter, then a single blink like a heartbeat that didn’t owe anyone.
 
 RAE went very quiet.
 
@@ -260,7 +260,7 @@ Jason touched the edge of the light table, not to steady himself, but to respect
 
 ---
 
-They packed quietly. Milo ghosted the admin kiosk and set a **tripwire**—silent, local, non‑networked. If the sweeper ran again, it would leave a fingerprint where it thought no surfaces remained.
+They packed quietly. Milo ghosted the admin kiosk and set a **tripwire** - silent, local, non‑networked. If the sweeper ran again, it would leave a fingerprint where it thought no surfaces remained.
 
 Lina signed the room log like a person who had only used the light table. Jason wrote down the kind of note an auditor would thank him for and a saboteur would hate.
 
@@ -274,7 +274,7 @@ They moved the way people who belong move: not sneaky, not loud, just sure. At t
 
 “Hurry” Milo said softly behind him. “Right now we’re adjacent to a camera that eats souls.”
 
-Lina bumped Milo’s shoulder—a fond rebuke.
+Lina bumped Milo’s shoulder - a fond rebuke.
 
 Jason glanced down the dark corridor toward Special Collections. The Gen‑3 monitor was a square of sleep in the gloom. It did not blink. It did not wake. It kept its secret like a good archivist: stubborn, boring, exact.
 

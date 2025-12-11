@@ -1,8 +1,8 @@
 ﻿### Night Measurement
 
-Rain made the city sound honest. Anything that couldn’t hold itself together admitted it with a drip. They worked under a borrowed tarp that snapped with every gust. Sodium streetlight washed everything amber—the plastic ponchos, the duct‑taped handles of their handheld meters, the far slick of pavement that pretended to be a river. The storm had split and was dragging its rags across the northern sky. Lightning stitched in the distance, never quite where thunder wanted it.
+Rain made the city sound honest. Anything that couldn’t hold itself together admitted it with a drip. They worked under a borrowed tarp that snapped with every gust. Sodium streetlight washed everything amber - the plastic ponchos, the duct‑taped handles of their handheld meters, the far slick of pavement that pretended to be a river. The storm had split and was dragging its rags across the northern sky. Lightning stitched in the distance, never quite where thunder wanted it.
 
-Jason checked the time on a cheap digital with a rubber band looped through the strap. He had taped a paper card beside the face—*slow channel all day; Red stops; salt + water*. The card had gone soft at the corners.
+Jason checked the time on a cheap digital with a rubber band looped through the strap. He had taped a paper card beside the face - *slow channel all day; Red stops; salt + water*. The card had gone soft at the corners.
 
 “Positions,” Lina said, not loud. Her hood rustled when she turned. Runnels of rain traced the edge of her jaw and dropped off like punctuation.
 
@@ -20,7 +20,7 @@ Jason flexed his fingers inside thin gloves, then pressed his palm to the railin
 
 **Got it.** He cupped his hood brim with two fingers. The bone path steadied.
 
-Lightning strobed beyond the warehouses—flash, flash—then a single low roll came late as if someone had forgotten to hit play. Milo’s voice ticked over the line: “Mark. T minus zero. Next expected natural pair anywhere from 7–23 seconds depending on cell drift. After that, chaos. On paper.”
+Lightning strobed beyond the warehouses - flash, flash - then a single low roll came late as if someone had forgotten to hit play. Milo’s voice ticked over the line: “Mark. T minus zero. Next expected natural pair anywhere from 7–23 seconds depending on cell drift. After that, chaos. On paper.”
 
 On paper. None of them trusted paper tonight. They trusted the fact that the rain was not sentimental.
 
@@ -74,9 +74,9 @@ They worked. That was the word. Not hunted. Not chased. **Worked.** Listened, co
 
 “Mild confession,” Milo said, voice a little wry in their ears. “Remind me why we sign up to be damp and statistically insignificant at two in the morning?”
 
-“So we stop being insignificant,” Lina said. “One night is a rumor. We need variance—materials, angles, weather, distance. Different kinds of boring. Stack enough of them and the noise loses places to hide.”
+“So we stop being insignificant,” Lina said. “One night is a rumor. We need variance - materials, angles, weather, distance. Different kinds of boring. Stack enough of them and the noise loses places to hide.”
 
-Jason tapped the rail with two knuckles. “Because I don’t want the last thing left of her to be noise,” he said. “Elyra kept time when the world drifted. The city is louder, not steadier. If we collect different slices—wet metal, dry concrete, headwind, lee—we can subtract the city and keep what doesn’t move. The piece that holds. That’s her.”
+Jason tapped the rail with two knuckles. “Because I don’t want the last thing left of her to be noise,” he said. “Elyra kept time when the world drifted. The city is louder, not steadier. If we collect different slices - wet metal, dry concrete, headwind, lee - we can subtract the city and keep what doesn’t move. The piece that holds. That’s her.”
 
 RAE sent a small warmth against the back of his eyes, the closest she came to nodding.
 
@@ -86,9 +86,9 @@ RAE sent a small warmth against the back of his eyes, the closest she came to no
 
 “Keep counting,” Lina said.
 
-Thunder stumbled again. Lightning flashed nowhere at all; the world simply made a decision to be bright and then pretended it hadn’t. And then, there was something else: a micro‑pattern, almost nothing—two light pulses, one held—tilted on the second beat. Jason’s ribs knew it the way feet know the last stair in the dark. He didn’t name it. He just matched it once and let it pass.
+Thunder stumbled again. Lightning flashed nowhere at all; the world simply made a decision to be bright and then pretended it hadn’t. And then, there was something else: a micro‑pattern, almost nothing - two light pulses, one held - tilted on the second beat. Jason’s ribs knew it the way feet know the last stair in the dark. He didn’t name it. He just matched it once and let it pass.
 
-“Calling,” Milo said. “That’s another nine. I hate how much I like that. Next expected if it’s a scheme: around twenty‑seven from the last bright. Annnnd—” He made the sound of someone arguing with a spreadsheet. “There it is. Twenty‑six‑point‑eight. What are we doing, kids? Tower beacon cosplay?”
+“Calling,” Milo said. “That’s another nine. I hate how much I like that. Next expected if it’s a scheme: around twenty‑seven from the last bright. Annnnd - ” He made the sound of someone arguing with a spreadsheet. “There it is. Twenty‑six‑point‑eight. What are we doing, kids? Tower beacon cosplay?”
 
 “Don’t guess,” Lina said. “Guessing makes you say things we can’t unsay in public.”
 
@@ -110,7 +110,7 @@ The meters disagreed about the world with bipartisanship. The digital pinged whe
 
 “Yellow,” Jason said. “Hold the window, then we break.”
 
-They held. The storm cell to the east tossed off a casual chain of pulses that pretended to be about rain. The distant tower line on the ridge made its own grammar—dark, light, dark—in ways their eyes wanted to believe were accidents. The sodium lamp above their corner buzzed like a fly pretending to be machinery.
+They held. The storm cell to the east tossed off a casual chain of pulses that pretended to be about rain. The distant tower line on the ridge made its own grammar - dark, light, dark - in ways their eyes wanted to believe were accidents. The sodium lamp above their corner buzzed like a fly pretending to be machinery.
 
 *Shift two steps,* RAE sent. *You’re standing in a node. Breath shape is smearing.*
 
@@ -138,7 +138,7 @@ Nothing happened. That was the point. Nothing but the little sear of attention t
 
 “I’m sightseeing,” Jason muttered. “I want to know the route before I move.”
 
-The sky obliged with a not‑lightning that somehow still needed to be counted. Milo’s voice came warm and precise. “There’s your twenty‑seven,” he said. “And—wait. The one after that just tried to be nine but tripped.”
+The sky obliged with a not‑lightning that somehow still needed to be counted. Milo’s voice came warm and precise. “There’s your twenty‑seven,” he said. “And - wait. The one after that just tried to be nine but tripped.”
 
 “It tripped because the world is tired,” Lina said. “Again.”
 
@@ -150,7 +150,7 @@ They moved. The gust slapped the tarp like a rebuke; rain found the seam in Jaso
 
 “Two more windows,” Lina said. “Then we stop pretending to be statues.”
 
-They counted. The first window—nothing. The second—also nothing. The storm lost interest in being spectacular. The tower line on the ridge steadied its blink to the kind of rhythm that makes pilots trust and poets bored.
+They counted. The first window - nothing. The second - also nothing. The storm lost interest in being spectacular. The tower line on the ridge steadied its blink to the kind of rhythm that makes pilots trust and poets bored.
 
 “Last pass,” Jason said. “One more rail, then home.”
 
@@ -174,15 +174,15 @@ They stripped tape off poles with numb fingers and fed soiled pages into plastic
 
 They stepped into the open and let the rain have the parts of them the tarp had refused. Shoes squeaked. The sodium light made their faces look like someone else’s memory.
 
-At the corner, lightning went from casual to deliberate. Flash—*exactly* nine seconds—flash—*exactly* nine—flash—*exactly* nine. The third flash threw a thin shadow from the far radio mast that didn’t belong to anything physical. 
+At the corner, lightning went from casual to deliberate. Flash - *exactly* nine seconds - flash - *exactly* nine - flash - *exactly* nine. The third flash threw a thin shadow from the far radio mast that didn’t belong to anything physical. 
 
-RAE stayed quiet on the line. A whisper‑thin impulse brushed past Jason—two light pulses, one held, tilted on the second beat—slipped under the third nine like a harmony you only hear if you already know it. For half a breath his chest wanted to answer.
+RAE stayed quiet on the line. A whisper‑thin impulse brushed past Jason - two light pulses, one held, tilted on the second beat - slipped under the third nine like a harmony you only hear if you already know it. For half a breath his chest wanted to answer.
 
 *Don’t,* RAE warned. *Answer now and we pollute the ********baseline********. You’re ****************already straind**************** as it is\*.*
 
 Jason didn’t answer.
 
-Milo’s breath hit the mic. “I—” he said, then bit the rest. When he spoke again his voice was responsible. “Logging. Nine, nine, nine. Last amplitude off by a hair, but the gaps are clock‑clean.”
+Milo’s breath hit the mic. “I - ” he said, then bit the rest. When he spoke again his voice was responsible. “Logging. Nine, nine, nine. Last amplitude off by a hair, but the gaps are clock‑clean.”
 
 “Not weather,” Lina said softly.
 

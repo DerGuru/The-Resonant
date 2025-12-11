@@ -1,6 +1,6 @@
 ﻿## The Contact
 
-The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made—the paper cutter’s heavy thunk, followed by a breath held and released.
+The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made - the paper cutter’s heavy thunk, followed by a breath held and released.
 
 Milo pushed the door with two fingers and a harmless smile. Lina followed, hair pulled back, coat folded over her arm the way people do when they want to look like errands. Jason came last, one hand in his pocket around the salt packet.
 
@@ -38,7 +38,7 @@ Jason sat. The chair wanted to wobble and decided not to. He put the salt packet
 
 He didn’t touch the mug. He glanced at the stain. Slightly egged. The gap at eleven o’clock was a little proud; the table’s grain ran east-west; the desk was old enough to have opinions. The person at the desk watched and did not interrupt.
 
-Jason lifted his own cup from the tray by his elbow—paper, lukewarm—and let a ring decide itself onto the kraft paper beside the old stain. It landed wrong, as rings do: wider at one side, skated by a fraction toward the table edge.
+Jason lifted his own cup from the tray by his elbow - paper, lukewarm - and let a ring decide itself onto the kraft paper beside the old stain. It landed wrong, as rings do: wider at one side, skated by a fraction toward the table edge.
 
 **Quality over force,** he thought.
 
@@ -46,11 +46,11 @@ Jason lifted his own cup from the tray by his elbow—paper, lukewarm—and let 
 
 He tilted the cup just enough to pool a meniscus, then set it down again, not quite where the first ring had been. He moved his wrist like he was reaching for the pencil behind the person’s ear, and the ring shifted under its own impatience. The paper breathed. The salt stayed a small square of certainty at the edge of his reach.
 
-The two rings touched, wrong against wrong. The table hummed a timber smell. Jason counted the way Lina counted: three, two, one—not to do the thing, but to let the thing decide it wanted to be done.
+The two rings touched, wrong against wrong. The table hummed a timber smell. Jason counted the way Lina counted: three, two, one - not to do the thing, but to let the thing decide it wanted to be done.
 
 *East edge one millimeter,* RAE said, not words so much as the memory of a measurement. *Let the paper do the rest.*
 
-He slid the cup that impossible one millimeter, then lifted and set, no fuss. The fresh ring settled, its unevenness reading the older stain like a groove read a needle, and aligned itself without drama. What had been two almost-circles became one—hesitations matched, a gap met by a gap, the seam so honest it looked accidental.
+He slid the cup that impossible one millimeter, then lifted and set, no fuss. The fresh ring settled, its unevenness reading the older stain like a groove read a needle, and aligned itself without drama. What had been two almost-circles became one - hesitations matched, a gap met by a gap, the seam so honest it looked accidental.
 
 He sat back so the moment could stop being about him. He didn’t say anything. The room noticed and didn’t panick. Downstairs, the cutter thunked a second time and the breath upstairs did the same.
 
@@ -68,7 +68,7 @@ They didn’t hand Jason the paper. They turned it so the tear read left to righ
 
 “It’s not a location,” they said. “It’s a path that refuses to be a location. You’ll think it’s about pipes. It isn’t.”
 
-The paper was a fragment of a municipal plan—ink faded to the precise gray of a copier that had tried its best. Handwriting wormed in the margin: a time window, three digits, then another three. Someone had drawn a little arrow that pointed at the wrong thing in the way smart people did when they were being watched.
+The paper was a fragment of a municipal plan - ink faded to the precise gray of a copier that had tried its best. Handwriting wormed in the margin: a time window, three digits, then another three. Someone had drawn a little arrow that pointed at the wrong thing in the way smart people did when they were being watched.
 
 “Old waterworks,” the person said, almost to the plant. “The kind that got folded into ‘infrastructure’ and therefore disappeared from maps that showed anything anyone wanted to visit.”
 
@@ -168,9 +168,9 @@ Not the desk person. Not the print clerk downstairs. Not a neighbor’s door. Th
 
 They looked without looking like people who had been startled. The radiator under the window was the kind that had never been modern and didn’t intend to start. It sighed once and forgot them.
 
-“Did you—” Milo began.
+“Did you - ” Milo began.
 
-“Not me,” Jason said—honest, because the truth could be small and still be the whole truth.
+“Not me,” Jason said - honest, because the truth could be small and still be the whole truth.
 
 Lina’s eyes covered the stairwell with the kind of patience that kept people from getting hurt. She nodded to no one and they moved again. The door whispered against its rubber stop. The street took them back without ceremony and the cold made useful work of their noses.
 

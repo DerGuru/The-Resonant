@@ -1,11 +1,11 @@
 ﻿# Prologue
 ## Ch. 01 - "I want to understand it before it decides we don't matter"
 
-Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly—too subtly—in ways she could no longer trust.
+Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly - too subtly - in ways she could no longer trust.
 
 The anomaly was waking up.
 
-Outside the chamber, the containment dome pulsed with stable resonance. A perfect shell. Inside it, nothing visible—only air, layered with the ghost of an intelligence that had once filled it.
+Outside the chamber, the containment dome pulsed with stable resonance. A perfect shell. Inside it, nothing visible - only air, layered with the ghost of an intelligence that had once filled it.
 
 "We can't delay much longer," she said. Her voice echoed across the room to two figures behind the glass: the Oversight Liaison and Elyra Voss.
 
@@ -13,7 +13,7 @@ Elyra leaned on her cane and did not reply.
 
 "We've had pattern drift every thirteen hours now," Marla continued. "That's not just instability. That's emergence."
 
-The Liaison spoke first. "Tier 3 authorization remains valid. But if the release field misfires—"
+The Liaison spoke first. "Tier 3 authorization remains valid. But if the release field misfires - "
 
 "It won't," Marla said, her voice carrying more certainty than she felt.
 
@@ -43,7 +43,7 @@ Marla's jaw tightened. She had run the calculations hundreds of times. She had t
 
 The Liaison made a note on his slate, voice neutral in that way bureaucrats perfected when documenting potential disasters. "Protocol remains approved. But we will need post-event redundancy. Do you have a second containment plan?"
 
-Marla nodded. "Ternary failover in the southern node. And a resonance-inverted kill switch embedded in the anchor. I don't intend to use it—but it's there."
+Marla nodded. "Ternary failover in the southern node. And a resonance-inverted kill switch embedded in the anchor. I don't intend to use it - but it's there."
 
 "So if this... entity escapes alignment," Elyra said slowly, each word measured, "you'll destroy it."
 
@@ -57,7 +57,7 @@ She felt it with the certainty of a prey animal sensing a predator. Not hostile.
 
 The Oversight Liaison stood, his chair scraping against the floor. "You have forty hours before recalibration. That's your window."
 
-After he left, Elyra remained. The two women stood in silence, watching the pattern spiral on the wall—flaring, resolving, flaring again.
+After he left, Elyra remained. The two women stood in silence, watching the pattern spiral on the wall - flaring, resolving, flaring again.
 
 "You don't want to destroy it," Elyra said softly. It wasn't a question.
 

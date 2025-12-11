@@ -4,7 +4,7 @@
 
 Three months after the ritual, Jason sat across from Elyra in the warehouse they'd come to think of as headquarters.
 
-The space had transformed. What was once a simple concrete shell now served as a dojo, a classroom, a planning room. It hummed with the energy of potential—conduits pulsed softly, lights adjusted to optimal spectrums, air filtered and conditioned.
+The space had transformed. What was once a simple concrete shell now served as a dojo, a classroom, a planning room. It hummed with the energy of potential - conduits pulsed softly, lights adjusted to optimal spectrums, air filtered and conditioned.
 
 Elyra looked different too. No longer just a strategist or caretaker, she had become a mentor in every sense. Her posture was more assured, her movements precise and deliberate. Teaching had ignited a new flame in her, one that pushed against the shadows of her past.
 
@@ -30,7 +30,7 @@ The first day of the program dawned bright and clear. Students began to arrive, 
 
 Kira was there, of course. Her excitement was palpable, a bright beacon in the sea of new faces. Beside her was a taller young man with wary eyes, and a girl who couldn't have been older than fifteen, practically bouncing on her feet.
 
-"We're going to teach," Jason announced, heart swelling with pride and trepidation. "Not just skills or techniques, but critical thinking, responsibility, and the importance of community. You are embarking on a journey, one that will challenge you in ways you cannot yet imagine. But know this—you are not alone. We are all in this together."
+"We're going to teach," Jason announced, heart swelling with pride and trepidation. "Not just skills or techniques, but critical thinking, responsibility, and the importance of community. You are embarking on a journey, one that will challenge you in ways you cannot yet imagine. But know this - you are not alone. We are all in this together."
 
 The taller young man raised a hand. "What if we mess up? What if someone gets hurt?"
 
@@ -92,7 +92,7 @@ Jason turned as Elyra and Lina entered, both carrying coffee. Milo trailed behin
 
 "From where?" Elyra settled into a chair, wincing slightly as her knee protested.
 
-"One from Berlin. Two from Asia—Tokyo and Seoul."
+"One from Berlin. Two from Asia - Tokyo and Seoul."
 
 Jason whistled low. "International already?"
 
@@ -114,13 +114,13 @@ Jason shook his head, but he was smiling. She was right. He would have.
 
 "Okay," he said. "Then we plan. How do we do this right?"
 
-And as the four of them—five, counting RAE—bent over Milo's notebook and began sketching out the future, Jason felt something he hadn't felt in a long time.
+And as the four of them - five, counting RAE - bent over Milo's notebook and began sketching out the future, Jason felt something he hadn't felt in a long time.
 
 Certainty.
 
 Not about the outcome. Not about whether they'd succeed or fail.
 
-But certainty that this—teaching, building, sharing what they'd learned—this was exactly what they were meant to do.
+But certainty that this - teaching, building, sharing what they'd learned - this was exactly what they were meant to do.
 
 *You're smiling,* RAE observed.
 

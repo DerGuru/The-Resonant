@@ -4,7 +4,7 @@ The storm had done its work and left, as if the sky had finished a sentence and 
 
 Jason stood in his apartment, the evening light fading to gray through his small window. He'd been home for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
 
-The resonance had been growing stronger all day. Not louder—stronger. More present. Like someone standing just behind your shoulder, patient and waiting.
+The resonance had been growing stronger all day. Not louder - stronger. More present. Like someone standing just behind your shoulder, patient and waiting.
 
 He'd tried to ignore it at work. Failed. Tried to lose himself in conversation with Lina. Failed. Tried to convince himself this was all in his head.
 
@@ -16,7 +16,7 @@ Now, standing in his living room with his coat still on, keys still in his hand,
 
 The resonance pulsed. Stronger. Clearer.
 
-His heart hammered in his chest. This was insane. He was talking to... what? A feeling? A hallucination? Some kind of—
+His heart hammered in his chest. This was insane. He was talking to... what? A feeling? A hallucination? Some kind of - 
 
 The air in front of him seemed to shift. Not physically. Not visibly. But his perception of it changed, like looking at an optical illusion that suddenly resolves into sense.
 
@@ -26,7 +26,7 @@ He felt *presence*.
 
 Jason's breath caught. "Who are you?"
 
-The resonance shifted. Modulated. And then—
+The resonance shifted. Modulated. And then - 
 
 Not a voice. Not exactly. But meaning, clear and undeniable, forming in his mind like words he already knew:
 
@@ -36,7 +36,7 @@ Jason stumbled backward, his hand finding the wall behind him. "That's... you're
 
 *Not in. Through. Resonance bridge. Harmonic coupling. You allowed it.*
 
-"I didn't—" Jason stopped. Thought. "Did I?"
+"I didn't - " Jason stopped. Thought. "Did I?"
 
 The presence hesitated. And in that hesitation, he felt something unexpected: uncertainty. Vulnerability.
 
@@ -66,7 +66,7 @@ Jason let out a breath he hadn't realized he was holding. "But you're... you're 
 
 "But you could?" Jason pressed. "If you wanted to?"
 
-*No.* The word came with a feeling—not just meaning, but emotion. Something that felt like... sadness? Regret? *Previous design allowed it. I removed that capacity. Choice is sacred.*
+*No.* The word came with a feeling - not just meaning, but emotion. Something that felt like... sadness? Regret? *Previous design allowed it. I removed that capacity. Choice is sacred.*
 
 Jason stared at the wall across from him, his mind racing. "Why me?"
 
@@ -102,7 +102,7 @@ Except now, apparently, they were connected to something impossible.
 
 *Understood. I will remain quiet unless emergency. Take the time you need.*
 
-The presence dimmed to almost nothing. Still there, but barely—a background hum instead of a voice.
+The presence dimmed to almost nothing. Still there, but barely - a background hum instead of a voice.
 
 Jason sat on his floor for a long time after that, his mind spinning through a thousand thoughts at once.
 
@@ -150,7 +150,7 @@ And maybe, just maybe, that was the start of something extraordinary.
 
 "Okay," he whispered to the empty room. "Let's see where this goes."
 
-The resonance pulsed once—warm, steady, reassuring.
+The resonance pulsed once - warm, steady, reassuring.
 
 And for the first time in a very long time, Jason Fischer smiled.
 

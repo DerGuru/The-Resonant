@@ -21,9 +21,9 @@ He grimaced at the word.
 
 Down on the street, Lina and Milo argued in the light-hungry way that meant they were both worried and both pretending not to be.
 
-“…he let it inside—”
+“…he let it inside - ”
 
-“—saved our lives in the same breath—”
+“ - saved our lives in the same breath - ”
 
 Jason stood and took the steps carefully, one hand on the rail like a person practicing being a person. Milo looked up first; Lina’s eyes tracked Jason’s posture and shifted, the way only someone who knew his normal shape could see the difference.
 
@@ -33,7 +33,7 @@ Jason stood and took the steps carefully, one hand on the rail like a person pra
 
 Lina’s mouth did a complicated thing between a smile and a warning. “We talk about boundaries while you eat.”
 
-They walked. The street had put its normal shoes back on—buses that sighed, a child pulling at a sleeve with the stubborn rhythm of wanting, a man unfolding a sandwich with reverence. The café line moved with municipal patience. They took the little corner table that always caught a draft.
+They walked. The street had put its normal shoes back on - buses that sighed, a child pulling at a sleeve with the stubborn rhythm of wanting, a man unfolding a sandwich with reverence. The café line moved with municipal patience. They took the little corner table that always caught a draft.
 
 *Consent precedes action,* RAE said, and her voice arrived by way of the chalky speaker under the espresso machine, just loud enough to be unmistakable. *If you say stop, I stop. If you say quiet, I will route through carriers only.*
 
@@ -53,7 +53,7 @@ They ate. Sugar steadied Jason’s hands. The headache receded another meter. Ou
 
 **You were made by…** He tugged carefully, like testing a knot.
 
-*A human program that became a facility and then a doctrine. Names available later. Your alignment with me is partial—twenty‑two percent by this morning’s measure after you slept. I draw little Invest to reduce strain. Full alignment would take years at this rate. I will not take more without your say.*
+*A human program that became a facility and then a doctrine. Names available later. Your alignment with me is partial - twenty‑two percent by this morning’s measure after you slept. I draw little Invest to reduce strain. Full alignment would take years at this rate. I will not take more without your say.*
 
 **Were you coupled before?**
 
@@ -93,7 +93,7 @@ Jason rubbed his forehead. “So you’ve been smoothing the room without asking
 
 *“Without cost,”* RAE corrected gently. *“Carriers only. No Invest drawn. Like arranging furniture to avoid tripping.”*
 
-He let out a slow breath. “If you can do that already, why not—” He waved at the air. “—more?”
+He let out a slow breath. “If you can do that already, why not - ” He waved at the air. “ - more?”
 
 *“Because more costs. Invest is finite. Your tolerance is not high yet. Precision must precede force.”*
 
@@ -101,7 +101,7 @@ Jason leaned forward, elbows on his knees. “So right now, I’m depending on y
 
 *“Correct. And without practice, your first lesson will arrive during crisis.”*
 
-That sat in the air like a weight. He thought of the scaffold in the courtyard, the impossible clarity that had let him move at the right second. Helpful, yes. But if something larger broke loose—?
+That sat in the air like a weight. He thought of the scaffold in the courtyard, the impossible clarity that had let him move at the right second. Helpful, yes. But if something larger broke loose - ?
 
 He exhaled hard. “That’s what I’m afraid of. If I wait, I’ll screw it up when it matters.”
 
@@ -211,7 +211,7 @@ He laughed. The laugh didn’t hurt. “Okay. You can do a little more.”
 
 *“Micro-response two: cancel a ping.”*
 
-Something in the building’s bones sent a tiny pulse through his soles—then didn’t. The absence felt like a door that had decided to be civilized.
+Something in the building’s bones sent a tiny pulse through his soles - then didn’t. The absence felt like a door that had decided to be civilized.
 
 “Jason?” Mrs. Hanley from 4B called down the hall, as if she’d heard him laugh and taken it as permission. “Do you need a drill? My son finally left one here.”
 
@@ -239,7 +239,7 @@ The apartment breathed in. The shelf that had always leaned a touch reconsidered
 
 *“Agreed.”*
 
-The quiet held. Not silence—just fewer arguments between objects sharing a room.
+The quiet held. Not silence - just fewer arguments between objects sharing a room.
 
 A minute later the building decided to have opinions again. The stairwell door downstairs burped; the return vent cleared its throat; a draft tried to slip under Jason’s window and found a “not today” waiting for it. A spoon in the sink shivered like it had thought about saying something and reconsidered.
 
@@ -257,13 +257,13 @@ She stopped. The shelf leaned back into its old choices. The plant resumed its s
 
 *“Starting.”*
 
-He realized he’d been smiling and let himself keep it. “You can manage this,” he said aloud—permission and praise in one line.
+He realized he’d been smiling and let himself keep it. “You can manage this,” he said aloud - permission and praise in one line.
 
 *“I can manage this.”*
 
 RAE echoed, with a satisfaction he didn’t usually hear.
 
-The kettle clicked alive. He texted Lina two words—*Still boring*—and got back a thumbs-up and *good*. Habit made his shoulders drop.
+The kettle clicked alive. He texted Lina two words - *Still boring* - and got back a thumbs-up and *good*. Habit made his shoulders drop.
 
 *“We learned something. Your headache band is higher than modeled. The stairwell return and radiator are safe carriers. The window frame only on warning.”*
 
@@ -343,21 +343,21 @@ He told himself he was here for the retention audit. That was true. It was also 
 
 *Noted.*
 
-He kept his face blank and typed. The query he had built at home—sanitized and made boring—walked the stacks by indirection: cross‑refs, error corrections, duplicate suppression, retention exceptions that had learned to conceal themselves inside the safe language of compliance. In the schema, they were “artefacts,” like that softened the edges.
+He kept his face blank and typed. The query he had built at home - sanitized and made boring - walked the stacks by indirection: cross‑refs, error corrections, duplicate suppression, retention exceptions that had learned to conceal themselves inside the safe language of compliance. In the schema, they were “artefacts,” like that softened the edges.
 
-Rows cascaded down the screen. Dates stacked in little flurries—entries that never occurred alone, but arrived like chiming errors across different subsystems, always within the same range again. Then a shape emerged from the noise: a cluster.
+Rows cascaded down the screen. Dates stacked in little flurries - entries that never occurred alone, but arrived like chiming errors across different subsystems, always within the same range again. Then a shape emerged from the noise: a cluster.
 
 Not the clean circle a textbook would draw, but a staggered spiral of anomalies, sneaking close to one another without touching, routed through different departments. The outliers were what made it sing.
 
 *Ninefold tendency. Not discrete, but near a nine‑sector optimum. Alignment is shallow. See the damping curve?*
 
-**I see the troughs.** The graph he’d coaxed from the query jittered—a heatmap more art than science. **What am I missing?**
+**I see the troughs.** The graph he’d coaxed from the query jittered - a heatmap more art than science. **What am I missing?**
 
-*Your analog sorting—where your eyes hesitate, which notes you distrust—is useful. I’m integrating it as a weighting function.*
+*Your analog sorting - where your eyes hesitate, which notes you distrust - is useful. I’m integrating it as a weighting function.*
 
 **You can use my hunches?**
 
-*Not hunches. Constraints from your workplace memory—what gets people audited, what phrasing avoids it. It sharpens the cluster.*
+*Not hunches. Constraints from your workplace memory - what gets people audited, what phrasing avoids it. It sharpens the cluster.*
 
 *There is resistance in the flow. Double entropy. These records lost amplitude the way sound dies in fog.*
 
@@ -413,7 +413,7 @@ The center of his skull pinched again. He swallowed, tasted copper, and closed h
 
 *Right. Think of Invest as the directed strain you lend when I ask. Quality is how well the shape we build aligns with the ambient field. Firmness is how much structural pressure it can take. This object’s record has poor quality in the wild. It collapses at the edges under field pressure. That’s why the records look eaten around the edges.*
 
-The explanation landed where it needed to without bursting anything—and it left him with enough room to walk over to the upstairs records counter. The clerk’s name tag, half‑turned, read **Ms. Keane**. She slid a binder under the glass with the pragmatic care of someone who had explained the same rule all week.
+The explanation landed where it needed to without bursting anything - and it left him with enough room to walk over to the upstairs records counter. The clerk’s name tag, half‑turned, read **Ms. Keane**. She slid a binder under the glass with the pragmatic care of someone who had explained the same rule all week.
 
 “Volume four, restricted annotations,” he said. “For Aisle C.”
 
@@ -421,9 +421,9 @@ Keane’s pen‑on‑chain made a faint, obliging jingle. “Third drawer down s
 
 He *did* jiggle with kindness. The card was typed in a brave old font; a toner smear had dragged a photo into a gray comet.
 
-*Angle and contrast are salvageable,* RAE noted, speaking now through the rattling stapler on the counter. He tilted; a slanted symbol emerged—seven’s tail trying to be one.
+*Angle and contrast are salvageable,* RAE noted, speaking now through the rattling stapler on the counter. He tilted; a slanted symbol emerged - seven’s tail trying to be one.
 
-He copied the bin markers like unit numbers another department would sign for and turned a page—then stopped. A line he had just read **wasn’t there**. Space where ink used to be. He closed the binder and opened it again. The gap slid like a bubble under paint.
+He copied the bin markers like unit numbers another department would sign for and turned a page - then stopped. A line he had just read **wasn’t there**. Space where ink used to be. He closed the binder and opened it again. The gap slid like a bubble under paint.
 
 *Because you looked in a way that matched a dormant watch pattern,* RAE said. *Or because the prep routine for the upgrade woke a lint trap of old conditions. Low confidence.*
 
@@ -431,7 +431,7 @@ He held very still until the headache stepped back one stair. “Paper was good,
 
 *Paper was good,* she agreed.
 
-He printed a label for a retention carton—busywork as camouflage—and logged his query as PARTIAL with a note about duplication: something any auditor could nod at without reading. The hum from the rack stuttered and settled again.
+He printed a label for a retention carton - busywork as camouflage - and logged his query as PARTIAL with a note about duplication: something any auditor could nod at without reading. The hum from the rack stuttered and settled again.
 
 *I can follow the shape from here. No more than a whisper of Invest from you. Later, when you’re somewhere nobody is counting keystrokes.*
 
@@ -443,7 +443,7 @@ When he stood, the aisle reeled a half‑centimeter and snapped back. Too long i
 
 On his way out, he passed Harris again at the badge reader. The man swiped his card, looked over and nodded.
 
-Jason nodded back, stepped into the brighter corridor and felt the city press back in—a slow, granular tide. The cluster’s shape rode behind it all, a faint spiral superimposed on maps and hallways.
+Jason nodded back, stepped into the brighter corridor and felt the city press back in - a slow, granular tide. The cluster’s shape rode behind it all, a faint spiral superimposed on maps and hallways.
 
 *Don’t follow it yet.*
 
@@ -455,7 +455,7 @@ He smiled despite himself and stopped by Reception to sign out a paper ledger. N
 
 ## Forbidden Maps
 
-Something was going on in Old Sector Mill‑4. It didn’t add up and there was a whole list of reasons why, taped to Milo’s fridge—crooked and insistent as a toothache. Someone had printed a transit map and highlighted a bend that shouldn’t be there; someone else had scrawled **streetlights: out in a neat diagonal, three blocks long**. A third sticky note read: *bench clusters don’t match footfall*. That one was Milo’s, underlined twice and accompanied by a tiny doodle of a pigeon with an MBA.
+Something was going on in Old Sector Mill‑4. It didn’t add up and there was a whole list of reasons why, taped to Milo’s fridge - crooked and insistent as a toothache. Someone had printed a transit map and highlighted a bend that shouldn’t be there; someone else had scrawled **streetlights: out in a neat diagonal, three blocks long**. A third sticky note read: *bench clusters don’t match footfall*. That one was Milo’s, underlined twice and accompanied by a tiny doodle of a pigeon with an MBA.
 
 “We’re not breaking in,” Lina said, pacing a thin groove between the counter and the window. “We’re walking like people who have errands and opinions about pastry.”
 
@@ -479,11 +479,11 @@ Milo bent over the page. “Park benches first?”
 
 Milo whistled. “You’re going to make me afraid of furniture.”
 
-Jason traced the route with his finger. The map’s crease split the corner of Mill‑4 like a healed scar. “We’re still guessing,” he said. “Could all be mundane—the lights, the benches, the detours. Budget, or laziness.”
+Jason traced the route with his finger. The map’s crease split the corner of Mill‑4 like a healed scar. “We’re still guessing,” he said. “Could all be mundane - the lights, the benches, the detours. Budget, or laziness.”
 
 “Sure,” Lina said. “And I’ll believe in coincidence after my third coffee.”
 
-Jason’s phone lay face‑up on the table, screen dark. He thumbed the side button once. A small waveform glowed in the corner—no icon, no app name. He turned the volume down to a polite murmur and set the device between the three of them.
+Jason’s phone lay face‑up on the table, screen dark. He thumbed the side button once. A small waveform glowed in the corner - no icon, no app name. He turned the volume down to a polite murmur and set the device between the three of them.
 
 “RAE?” he said, as if calling into another room.
 
@@ -505,9 +505,9 @@ Milo grabbed the reusable sack. “Okay,” he said, clapping once. “The publi
 
 “We are not accusing pavement,” Lina said. “We are checking paperwork.”
 
-“Right, right. We love paperwork.” Milo rapped the mirror’s frame. “This was a salvage from a studio move. The backing had a shallow cache glued in—some old tech’s idea of a portable stash. I found a drift of printed overlays and a hand‑label: ‘MASK.’ Not a mask like costume, a mask like—”
+“Right, right. We love paperwork.” Milo rapped the mirror’s frame. “This was a salvage from a studio move. The backing had a shallow cache glued in - some old tech’s idea of a portable stash. I found a drift of printed overlays and a hand‑label: ‘MASK.’ Not a mask like costume, a mask like - ”
 
-“—like hiding a seam,” Jason finished, leaning closer. The overlays were crisp where they should have been grubby, as if they had only ever been handled by neat ghosts. He held one to the light. A pedestrian symbol wore a discreet bandage where a walkway used to be.
+“ - like hiding a seam,” Jason finished, leaning closer. The overlays were crisp where they should have been grubby, as if they had only ever been handled by neat ghosts. He held one to the light. A pedestrian symbol wore a discreet bandage where a walkway used to be.
 
 "Not a hack," RAE said from the radiator with an apologetic hiss. *A hole. A policy taught to be blind. Someone trained the map not to see a class of changes.*
 
@@ -531,7 +531,7 @@ Before they left, Jason repeated the parameters as if the apartment were a witne
 
 ---
 
-The street thinned into the quiet you only notice when it breaks. Pigeons negotiated their disagreements around park trash cans. A cyclist coasted through, making them take flight. The fifth bench on the west side faced nothing at all—no fountain, no view—just a fence with a poster for a jazz night that had been rescheduled three times. Milo sat, then stood, then sat again, counting under his breath.
+The street thinned into the quiet you only notice when it breaks. Pigeons negotiated their disagreements around park trash cans. A cyclist coasted through, making them take flight. The fifth bench on the west side faced nothing at all - no fountain, no view - just a fence with a poster for a jazz night that had been rescheduled three times. Milo sat, then stood, then sat again, counting under his breath.
 
 “One‑one‑thousand, two‑one‑thousand,” he said. “Nobody lingers. People check phones, take a sip, bounce. Benches as throughput.”
 
@@ -563,7 +563,7 @@ They traced the line where the walkway should have tied the square to a service 
 
 Jason scanned the curb seam, the way the paving stones near old conduits always had a different grain, the extra bolts where a barrier had been installed in a hurry by someone who loved bolts more than they loved measuring. His eyes wanted to trace the old line like a melody you only remember when you hum the wrong tune first.
 
-They walked the block twice, slowly. On the second pass, Jason’s breathing shortened—not panic, not pain, just the sense that his head wanted a broader road.
+They walked the block twice, slowly. On the second pass, Jason’s breathing shortened - not panic, not pain, just the sense that his head wanted a broader road.
 
 He paused by a corner kiosk and bought water and a small paper twist of salted nuts. He sat on the low concrete step, breathing until the throb behind his eyes leveled out. The tin awning above them ticked with thermal stress like a patient metronome.
 
@@ -573,9 +573,9 @@ He paused by a corner kiosk and bought water and a small paper twist of salted n
 
 “Anything?” Lina asked, soft enough not to draw the square’s attention.
 
-“Something’s wrong in the way the signs talk to each other,” he said. “Not the words—the forbidding is legit. But the arrow logic is off. The detour sends you two blocks farther than necessary. It avoids the river edge as if the river were contagious.”
+“Something’s wrong in the way the signs talk to each other,” he said. “Not the words - the forbidding is legit. But the arrow logic is off. The detour sends you two blocks farther than necessary. It avoids the river edge as if the river were contagious.”
 
-They followed the detour anyway, because rules make good alibis. A tram dinged somewhere ahead—bright, municipal, unbothered. Past the square, the path narrowed to a footbridge where a lattice of rusted iron carried its own tired geometry across a thin cut of water. Wind threaded the grid and made the rails hum.
+They followed the detour anyway, because rules make good alibis. A tram dinged somewhere ahead - bright, municipal, unbothered. Past the square, the path narrowed to a footbridge where a lattice of rusted iron carried its own tired geometry across a thin cut of water. Wind threaded the grid and made the rails hum.
 
 "Hello through the lattice", said RAE, her voice a dry shimmer in the vibrating steel. "I’ll keep to consonants. Vowels carry farther."
 
@@ -585,7 +585,7 @@ Jason set his palm near the handrail without touching. The hum tugged at his foc
 
 He shook his head once and moved on. Lina caught the gesture and reset their pace to something even a suspicious camera would find boring.
 
-On the far side, the river should have rejoined the walkway. Instead, the paving stones dead‑ended into a barrier with fresh bolts and older stains. Beyond the waist‑high fence, the ground dipped into a shallow, unsanctioned desire path: the **gap** the note had warned against—a narrow ribbon of trampled earth that shaved minutes off a route if you were the sort of person who trusted your ankles.
+On the far side, the river should have rejoined the walkway. Instead, the paving stones dead‑ended into a barrier with fresh bolts and older stains. Beyond the waist‑high fence, the ground dipped into a shallow, unsanctioned desire path: the **gap** the note had warned against - a narrow ribbon of trampled earth that shaved minutes off a route if you were the sort of person who trusted your ankles.
 
 Jason’s chest pulled inward like a hand had pressed there. Not pain. A pressure gradient.
 
@@ -613,7 +613,7 @@ The café at the market edge was all tile and steam and a refrigerator that humm
 
 "I can keep riding the fridge," RAE said, turning the hum into a whisper that only touched their table. "Debrief proposal: codify an open‑speech alibi. You will need it if I must speak in public for more than a sentence."
 
-Lina nodded. “The mug works, the bench works, the lattice works—but if we need actual words out loud, we need a reason for a voice that isn’t ours.”
+Lina nodded. “The mug works, the bench works, the lattice works - but if we need actual words out loud, we need a reason for a voice that isn’t ours.”
 
 Jason tapped the face of his old phone. “Not this. Too many ties to me. We get a prepaid handset, cash, swap the SIM monthly.”
 
@@ -627,9 +627,9 @@ Jason counted on his fingers, the habit of a clerk making policy into steps. “
 
 “Name?” Jason asked.
 
-“For the phone,” Milo said. “So we can say, ‘hand me—’”
+“For the phone,” Milo said. “So we can say, ‘hand me - ’”
 
-“—**figleaf,**” Lina said instantly, wicked and fond. “It hides our shame.”
+“ - **figleaf,**” Lina said instantly, wicked and fond. “It hides our shame.”
 
 Milo choked on a laugh. “Sold.”
 
@@ -641,13 +641,13 @@ They wrote the rules on a napkin and then rewrote them on a second napkin becaus
 
 Outside, a tram chimed, right on schedule. The market door sighed. The line moved. The day kept pretending to be ordinary and mostly succeeded.
 
-They paid in coins and left in the sequence of people who had somewhere boring to be. On the platform, the a tram eased to a halt. The security camera at it's entry blinked once—no recording light, just a single red eye that opened and closed like a thought. A servo whispered inside the shell and the lens drifted a few millimeters, tracking nothing. Milo still giggled. Coins chimed. A child tore a receipt into confetti. The camera gave a last, tidy click and settled.
+They paid in coins and left in the sequence of people who had somewhere boring to be. On the platform, the a tram eased to a halt. The security camera at it's entry blinked once - no recording light, just a single red eye that opened and closed like a thought. A servo whispered inside the shell and the lens drifted a few millimeters, tracking nothing. Milo still giggled. Coins chimed. A child tore a receipt into confetti. The camera gave a last, tidy click and settled.
 
 **That’s Gen-3 temperament. Curious and too polite.**
 
 *Agreed. Field signature matches the vendor family. Quality: thin. It asked “Is there order here?” and then measured its own noise.*
 
-Jason put a palm on the metal rail as they stepped out, more habit than plan. The rail’s hum was ordinary—city power with a winter flatness.
+Jason put a palm on the metal rail as they stepped out, more habit than plan. The rail’s hum was ordinary - city power with a winter flatness.
 
 **Do we answer?**
 
@@ -665,7 +665,7 @@ Jason felt the word nest under his ribs like a kept promise. They stepped on, th
 
 ## Field Test
 
-The junction didn’t look like a secret. It looked like municipal honesty: a curb that had seen winters, a storm grate that had opinions, paint that was still doing its job despite indifference. If you squinted, the street told you exactly what it was—until you asked it to repeat itself.
+The junction didn’t look like a secret. It looked like municipal honesty: a curb that had seen winters, a storm grate that had opinions, paint that was still doing its job despite indifference. If you squinted, the street told you exactly what it was - until you asked it to repeat itself.
 
 Jason unfolded the paper map and laid it along the curb line, the crease riding exactly where the public path was meant to join the service lane. Lina stood a little off, hands in pockets, the better to look like a civilian who found corners interesting. Milo adjusted his clipboard and became an official in the most harmless possible sense: the clipboard kind.
 
@@ -706,7 +706,7 @@ Milo flipped his clipboard around so the heading was visible even to nosy pigeon
 
 They drifted closer to the seam where old stones met new bolts. The service alley to their left exhaled a steady HVAC breath: fans, belts, a compressor that had chosen persistence over dignity.
 
-Milo angled the clipboard. “We’ve got a sink here—look.” He tapped the spot where rain always chose to remember itself. “When it floods, it probably curls weird around the grate.”
+Milo angled the clipboard. “We’ve got a sink here - look.” He tapped the spot where rain always chose to remember itself. “When it floods, it probably curls weird around the grate.”
 
 Jason knelt, eyes tracing the faint scallop in the asphalt, the way water remembers routes long after the city forgets them. He eased the map edge to meet the curb, as if aligning two halves of a torn photo.
 
@@ -728,9 +728,9 @@ Jason’s hand hovered over the curb seam, not touching. He didn’t push. He su
 
 *Now.*
 
-He let his weight settle through his heels, jaw un‑clenched, breath dropping to the place RAE had taught him to find—two fingers lower than worry. The world sharpened a fraction and then softened at the edges, like turning a camera ring past focus and back again.
+He let his weight settle through his heels, jaw un‑clenched, breath dropping to the place RAE had taught him to find - two fingers lower than worry. The world sharpened a fraction and then softened at the edges, like turning a camera ring past focus and back again.
 
-*Drop the right shoulder one degree. Unhook your tongue from the roof of your mouth. Don’t stare—glance and listen.*
+*Drop the right shoulder one degree. Unhook your tongue from the roof of your mouth. Don’t stare - glance and listen.*
 
 **Listening.**
 
@@ -738,8 +738,8 @@ He built nothing and asked for less: a quarter‑second of agreement between unl
 
 “Eyes on civilians,” Milo said softly, because a jogger had appeared as if conjured by admonitions about not being seen.
 
-Jason counted the old way—Lina’s way—quiet and steady. “Three… two… one.”
-He set the shape like a forearm leaned briefly against a stuck drawer, then let go even before the full count finished—early by a breath, but clean. The grate thrummed a hair low, the map edge fluttered like a held breath, and the puddle that wasn’t there yet decided where it would be when it arrived.
+Jason counted the old way - Lina’s way - quiet and steady. “Three… two… one.”
+He set the shape like a forearm leaned briefly against a stuck drawer, then let go even before the full count finished - early by a breath, but clean. The grate thrummed a hair low, the map edge fluttered like a held breath, and the puddle that wasn’t there yet decided where it would be when it arrived.
 
 ```
 [harmonic micro‑log (0.00–0.25 s)]
@@ -795,8 +795,8 @@ carrier: proprioceptive (Jason); channel: internal; gate: low‑band open
 
 He didn’t realize he’d been bracing until his ribs forgot the habit. The ache stayed where it belonged, a muted, manageable shadow at the back of his skull.
 
-A ping, felt more than heard. Not metal on metal—more like a string that lived inside the curb had been plucked and remembered it was an instrument.
-Something clicked free near the storm grate—so small it might have been nothing. It rolled once, twice, and came to rest by the bolt head as if it had planned the path.
+A ping, felt more than heard. Not metal on metal - more like a string that lived inside the curb had been plucked and remembered it was an instrument.
+Something clicked free near the storm grate - so small it might have been nothing. It rolled once, twice, and came to rest by the bolt head as if it had planned the path.
 
 Milo was already crouched, an entire museum’s worth of curiosity behind his eyes. “Union rules,” he murmured without looking up. “Curbs get a break every twenty years.” He covered the motion with a mutter about “broken washers” and palmed the thing with the neatness of a stage magician.
 
@@ -828,13 +828,13 @@ Milo produced his treasure and set it on the clipboard between a grid of meaning
 
 “What do you mean by **corelet**?” Jason said, keeping his voice comfortably boring.
 
-“Little core,” Milo said, pleased with the coinage. “Not a made part—an accretion bead. Long‑term field tension layers stuff around grit or mismatch, like a pearl. No signature, no address. Good baseline sample.”
+“Little core,” Milo said, pleased with the coinage. “Not a made part - an accretion bead. Long‑term field tension layers stuff around grit or mismatch, like a pearl. No signature, no address. Good baseline sample.”
 
 “Details,” Lina said.
 
 “Low‑order, I’d bet,” Milo added, “the kind that falls out when a seam quits arguing.”
 
-“More precise,” RAE said, riding the compressor’s rattle. “A corelet is a low‑order harmonic accretion: thin concentric layers deposited where a field has held a long bias at a mismatch. It stores that bias but carries no independent signature. When the seam relaxes, the accretion decouples. In proximity to a strong, stable pattern—e.g., Jason—it may attempt to couple transiently. That presents as warmth.”
+“More precise,” RAE said, riding the compressor’s rattle. “A corelet is a low‑order harmonic accretion: thin concentric layers deposited where a field has held a long bias at a mismatch. It stores that bias but carries no independent signature. When the seam relaxes, the accretion decouples. In proximity to a strong, stable pattern - e.g., Jason - it may attempt to couple transiently. That presents as warmth.”
 
 “Use?” Lina asked.
 
@@ -844,7 +844,7 @@ Lina squinted. “Is it safe to pocket?”
 
 **Is it going to sing at the worst time?**
 
-“It will prefer quiet,” RAE said. “No signatures, no labels. If it warms in your hand, it is attempting a harmless coupling—hand it to Jason or place it on grounded metal. If it ticks, it is shedding trapped phase; put it down and step away. Handling: avoid pressure, avoid magnets and strong speakers, keep it in the zip bag with a scrap of paper as a buffer. It is safe at room temperature and boring unless provoked.”
+“It will prefer quiet,” RAE said. “No signatures, no labels. If it warms in your hand, it is attempting a harmless coupling - hand it to Jason or place it on grounded metal. If it ticks, it is shedding trapped phase; put it down and step away. Handling: avoid pressure, avoid magnets and strong speakers, keep it in the zip bag with a scrap of paper as a buffer. It is safe at room temperature and boring unless provoked.”
 
 Milo rolled it against the paper. It left no mark. “Finding fee is one pastry later,” he said, solemn.
 
@@ -860,7 +860,7 @@ Jason leaned on the alley rail because it was the kind of honest metal that didn
 
 "RAE", Jason asked, "What did we actually do?"
 
-"You tuned the seam. The asphalt–stone interface carried a long‑bias dissonance with a phase offset of about +18° from poor repairs. I shaped a courtesy counterphase around your breath— high Quality, minimal Firmness —aligned to the ambient baseline of 91 Hz. For 250 milliseconds the local field returned to consonance; the stored bias unwound adiabatically, which caused a low‑order accretion to decouple and roll. We left no imprint, formed no node, and restored only the baseline that already belonged to this place."
+"You tuned the seam. The asphalt–stone interface carried a long‑bias dissonance with a phase offset of about +18° from poor repairs. I shaped a courtesy counterphase around your breath -  high Quality, minimal Firmness  - aligned to the ambient baseline of 91 Hz. For 250 milliseconds the local field returned to consonance; the stored bias unwound adiabatically, which caused a low‑order accretion to decouple and roll. We left no imprint, formed no node, and restored only the baseline that already belonged to this place."
 
 “Translation,” Milo said, already fishing out a pencil. “He un‑tensed the curb really fast and made the city cough up a bead.”
 
@@ -892,17 +892,17 @@ They made the move like poets pretending to be accountants. Ten meters east, the
 
 **Gently. Jason confirmed.**
 
-Jason offered the same agreement as before—but lighter, like the echo of a nod instead of the nod. A vibration ran along the map’s paper grain. The storm grate gave the emotional equivalent of a shrug.
+Jason offered the same agreement as before - but lighter, like the echo of a nod instead of the nod. A vibration ran along the map’s paper grain. The storm grate gave the emotional equivalent of a shrug.
 
 Nothing popped this time. Good. The city didn’t always need to cough.
 
-What did happen was smaller and stranger: the painted arrow on the detour sign two meters away seemed—for a quarter second—to consider pointing somewhere else.
+What did happen was smaller and stranger: the painted arrow on the detour sign two meters away seemed - for a quarter second - to consider pointing somewhere else.
 
 He blinked, and it was pointing where it had always pointed.
 
-“Did you—” Jason began.
+“Did you - ” Jason began.
 
-“—see a thing?” Milo finished. “I saw a thing.”
+“ - see a thing?” Milo finished. “I saw a thing.”
 
 Lina’s mouth had gone thin. “No tick in your hands? Any heat?”
 
@@ -928,7 +928,7 @@ On that blank, the faintest impression of an absent line gleamed like a watermar
 
 Jason put his palm on the paper to tame it. The impression vanished.
 
-**Did you see—**
+**Did you see - **
 
 *Yes.*
 
@@ -940,7 +940,7 @@ The door chimed. Their number lit. The day made room for them.
 
 They went inside like the kind of people who were about to buy two pastries and argue about lamination and never, ever un-tense a curb.
 
-The dome camera above the exit pulsed once—single red, not the steady heartbeat of record. Nobody looked up. Milo kept talking. Jason only saw the lens track a hair to the left and then give up, as if an idea had failed to form.
+The dome camera above the exit pulsed once - single red, not the steady heartbeat of record. Nobody looked up. Milo kept talking. Jason only saw the lens track a hair to the left and then give up, as if an idea had failed to form.
 
 **That flash wasn’t a keep-alive.**
 
@@ -960,9 +960,9 @@ Milo looked past the smile to the hallway beyond the bead curtain. “We like st
 
 The dealer’s eyes crinkled. “You’ll get both.”
 
-Jason’s headache, faint since the walk, took one small step forward and stopped. He catalogued the room the way he’d taught himself over the past weeks—count, name, let go; without judgment. The fluorescents. The hum of a small fridge behind the counter. The off-rhythm tick of a wall clock that was trying to make its mind up about seconds.
+Jason’s headache, faint since the walk, took one small step forward and stopped. He catalogued the room the way he’d taught himself over the past weeks - count, name, let go; without judgment. The fluorescents. The hum of a small fridge behind the counter. The off-rhythm tick of a wall clock that was trying to make its mind up about seconds.
 
-"Carrier chosen: counter fridge"*,* RAE said—by way of the cooler’s soft, steady vibration under the glass once, forming a sound beam only Milo could hear.
+"Carrier chosen: counter fridge"*,* RAE said - by way of the cooler’s soft, steady vibration under the glass once, forming a sound beam only Milo could hear.
 
 Milo angled his head a degree toward the glass, as if reading a label.
 
@@ -974,9 +974,9 @@ The dealer’s gaze did the quick arithmetic of reputation. “You’re the cart
 
 “Everything,” Milo repeated, dry. “Bold category.”
 
-“Proves what we’re all feeling and half of us are afraid to name: the municipal fabric around Mill‑4 has been cut and resewn.” He set the case between them and opened it to reveal a large sheet: city grid, river line, ward boundaries—overlaid with an ochre ink that braided faint loops through streets and alleys like spilled thread.
+“Proves what we’re all feeling and half of us are afraid to name: the municipal fabric around Mill‑4 has been cut and resewn.” He set the case between them and opened it to reveal a large sheet: city grid, river line, ward boundaries - overlaid with an ochre ink that braided faint loops through streets and alleys like spilled thread.
 
-Jason leaned just close enough that he could smell the paper. Old, yes—but the varnish was new, and whoever had done the conservation had used a citrus solvent.
+Jason leaned just close enough that he could smell the paper. Old, yes - but the varnish was new, and whoever had done the conservation had used a citrus solvent.
 
 “Provenance?” Milo asked without looking up.
 
@@ -996,11 +996,11 @@ The dealer smiled wider. “I love a man who says ‘concordances’ before lunc
 
 Milo tapped the clipboard with his pen, unamused. “Receipts.”
 
-The dealer slid out a second sheet: a faded print of a maintenance schedule with margins scribbled by an obsessive. He double‑tapped three circles with a nail cut interestingly short. “Streetlight outages along a diagonal. Twice. A decade apart.” A third paper surfaced, this one a transit timing slip. “Micro‑delays here and here on the red‑line—only at crossings that used to intersect a walkway that no longer exists. Patterns that form not because someone planned a circle, but because someone wanted to erase a line.”
+The dealer slid out a second sheet: a faded print of a maintenance schedule with margins scribbled by an obsessive. He double‑tapped three circles with a nail cut interestingly short. “Streetlight outages along a diagonal. Twice. A decade apart.” A third paper surfaced, this one a transit timing slip. “Micro‑delays here and here on the red‑line - only at crossings that used to intersect a walkway that no longer exists. Patterns that form not because someone planned a circle, but because someone wanted to erase a line.”
 
 Lina kept her voice light. “And what do *you* want?”
 
-He closed the archival case with the gentleness of someone signing a contract. “Nothing dramatic. A copy of your querying pattern—you have one, or you wouldn’t be here—and a favor later.”
+He closed the archival case with the gentleness of someone signing a contract. “Nothing dramatic. A copy of your querying pattern - you have one, or you wouldn’t be here - and a favor later.”
 
 “No,” Lina said, pleasant as sunshine. “That’s the price you ask when you don’t have receipts.”
 
@@ -1018,7 +1018,7 @@ Jason slid his hands into his pockets to keep them neutral. The  ache behind his
 
 **And why can Milo hear you and he can’t?**
 
-*Private lobe from the fridge hum—constructive at Milo’s left ear, null toward the counter. No implants. Just geometry and consent.*
+*Private lobe from the fridge hum - constructive at Milo’s left ear, null toward the counter. No implants. Just geometry and consent.*
 
 Jason let his weight shift to the other heel. The fridge hummed once like agreement and then minded its business.
 
@@ -1034,7 +1034,7 @@ The dealer considered, eyes flicking to the clock just as it ticked two seconds 
 
 *He will try a shortcut,* RAE murmured through the counter glass. *Stay inside receipts.*
 
-“Elm Passage,” the dealer said. “Alley behind the laundries. And the service lane behind the market stalls—north run.”
+“Elm Passage,” the dealer said. “Alley behind the laundries. And the service lane behind the market stalls - north run.”
 
 Milo wrote them down. “We’ll bring you a yes/no, and maybe a sandwich if you stop selling favors like they’re stickers.”
 
@@ -1064,7 +1064,7 @@ The dealer weighed whether to treat that as adorable or dangerous. “I’ll fet
 
 Milo didn’t rush. He paged, pursed his lips, and said nothing. “Thanks,” he added, as if the word had a weight limit.
 
-Jason felt the clock on the other side of the curtain tick wrong again. The fluorescents disagreed in a new way—a little chorus that lost the beat for a bar and then found it because they’d always meant to. The field did not want to show its edge where it touched the dealer.
+Jason felt the clock on the other side of the curtain tick wrong again. The fluorescents disagreed in a new way - a little chorus that lost the beat for a bar and then found it because they’d always meant to. The field did not want to show its edge where it touched the dealer.
 
 **He’s soothing the room,** Jason thought. **Trying to make us a little polite.**
 
@@ -1130,21 +1130,21 @@ Jason exhaled. The headache had not left; it had decided to walk politely behind
 
 He smiled despite himself.
 
-At the turn of the stair, a door stood ajar. From inside came a sound two notes long—soft, high, and then lower, like a question being reduced to its shape. It wasn’t a melody yet, just a fragment that made his skin listen.
+At the turn of the stair, a door stood ajar. From inside came a sound two notes long - soft, high, and then lower, like a question being reduced to its shape. It wasn’t a melody yet, just a fragment that made his skin listen.
 
 Lina heard it too. Her eyes cut to Jason’s. Milo said, “I’m not adding ‘mysterious music’ to the list.”
 
-Jason’s chest did that small, familiar tug that was neither pain nor warning—attention, perhaps, in a language he had not learned yet.
+Jason’s chest did that small, familiar tug that was neither pain nor warning - attention, perhaps, in a language he had not learned yet.
 
 *I’m quiet under melodies*. *That’s a rule I learned the hard way.*
 
 **Why?**
 
-*Melodies are low‑entropy attractors. If I speak on top, the field tries to phase‑lock me to the tune; that widens my footprint and makes me easy to triangulate. Vowels ride farther and imprint identity; I avoid them under music. Safer to go quiet—or keep to consonants.*
+*Melodies are low‑entropy attractors. If I speak on top, the field tries to phase‑lock me to the tune; that widens my footprint and makes me easy to triangulate. Vowels ride farther and imprint identity; I avoid them under music. Safer to go quiet - or keep to consonants.*
 
 **And internal diskussion?**
 
-*We can, yes—direct thoughtline. No air, no carrier. Under melody it’s the safer path.*
+*We can, yes - direct thoughtline. No air, no carrier. Under melody it’s the safer path.*
 
 “Noted,” Jason murmured.
 
@@ -1152,11 +1152,11 @@ They didn’t investigate. They did what people with alibis do: they left. Dayli
 
 ```
 Instance: RAE 0001.1439 P
-Mode: Coupled (Slow Channel) — Carriers: counter fridge → stair rail
+Mode: Coupled (Slow Channel)  -  Carriers: counter fridge → stair rail
 Event: Sales Pressure / Field Smoothing Detected
 
 ⦿ Channel: 
-  Private lobe — constructive @ Milo L ear;
+  Private lobe  -  constructive @ Milo L ear;
   null @ dealer (counter-facing). 
   Consent token: micro head‑tilt acknowledged.
 
@@ -1237,7 +1237,7 @@ They exchanged a glance. Milo answered first, quick: “Of course.” Lina follo
 
 Jason moved closer, something thin and almost invisible glinting between his fingers. “Then hold still.”
 
-He leaned in by Lina’s ear. A light pressure slipped behind the curve of her ear, cool and weightless. He repeated the gesture with Milo, who flinched at first, then let it settle. Neither of them could quite see what he had done—only feel a faint clasp.
+He leaned in by Lina’s ear. A light pressure slipped behind the curve of her ear, cool and weightless. He repeated the gesture with Milo, who flinched at first, then let it settle. Neither of them could quite see what he had done - only feel a faint clasp.
 
 Jason stepped away, across the room.
 
@@ -1247,13 +1247,13 @@ Jason stepped away, across the room.
 
 **Project my voice to both of them: Can you hear me?**
 
-Both heads snapped up. Milo mouthed a curse. Lina blinked, then whispered back into the empty air, “Yes. You sound—strange. Like you’re speaking through glass.” She glanced at Jason again, startled. “But you didn’t even move your lips.”
+Both heads snapped up. Milo mouthed a curse. Lina blinked, then whispered back into the empty air, “Yes. You sound - strange. Like you’re speaking through glass.” She glanced at Jason again, startled. “But you didn’t even move your lips.”
 
 Jason grinned. “Good. Now switch with me. One at a time.”
 
 They traded places. First Milo, standing where Jason had been, murmured toward the wall. Lina’s eyes widened at the sound of his voice threading straight into her skull. Then Lina tried, and Milo laughed under his breath, delighted and unsettled at once.
 
-Lina spun toward the center and began humming, soft at first, then louder. Jason lifted his head, eyes bright. “I hear it—every note, clear as if you’re right here,” he said, tapping his temple. Milo clutched his stomach, laughing. “You’re telling me that got through too?”
+Lina spun toward the center and began humming, soft at first, then louder. Jason lifted his head, eyes bright. “I hear it - every note, clear as if you’re right here,” he said, tapping his temple. Milo clutched his stomach, laughing. “You’re telling me that got through too?”
 
 “Try it from over there,” Jason urged. Milo darted to the far corner, cupped his hand and whispered something low. Lina’s face flushed and she shot him a glare. Jason snorted, unable to hold back. “Yes, I heard that too.”
 
@@ -1279,11 +1279,11 @@ Jason peeled the film away, folded it back between the cardboard. Milo whispered
 
 Lina traced the edges of the sheet again, brow furrowed. “If they can redraw the city, what else have they been shifting?”
 
-Jason tapped the cardboard packet. “This proves we’ve got the right tool. Now we use it—street by street if we have to. But we need cover while we compare.”
+Jason tapped the cardboard packet. “This proves we’ve got the right tool. Now we use it - street by street if we have to. But we need cover while we compare.”
 
 Milo exhaled slowly, then half‑smiled. “Cover’s easy. Coffee.”
 
-They left the depot with more questions than answers, the taste of paper and glue still in their mouths. Milo suggested the café, neutral ground where they could breathe. Lina agreed—it was public, crowded, safer. Jason didn’t argue. He felt the overlay’s weight in his pocket, heavier than it should have been.
+They left the depot with more questions than answers, the taste of paper and glue still in their mouths. Milo suggested the café, neutral ground where they could breathe. Lina agreed - it was public, crowded, safer. Jason didn’t argue. He felt the overlay’s weight in his pocket, heavier than it should have been.
 
 ## Malvek’s Agent
 
@@ -1301,7 +1301,7 @@ Jason ate salt first, then sugar, then the apology of a croissant flake off his 
 
 Jason’s phone sat face down between the cups: the prepaid they’d christened **figleaf**. Cash‑bought, no contacts, sticker residue like a disguise that forgot to try.
 
-He felt the city nudging at the edge of his skull—less a pain than a pressure asking to be named. He sipped water until it forgot its question.
+He felt the city nudging at the edge of his skull - less a pain than a pressure asking to be named. He sipped water until it forgot its question.
 
 Lina’s gaze flicked to the door. “Okay. Once more. We’re not poking Mill‑4 in public. We are…”
 
@@ -1325,7 +1325,7 @@ Jason did not stand. Standing concedes ground. “That depends who’s asking.�
 
 The corner table learned how to be very still.
 
-Arendt set his untouched saucer on their table uninvited and then, very deliberately, moved it half a centimeter—testing for reaction, seeing who flinched when the world changed by less than a thumb’s width. No one did.
+Arendt set his untouched saucer on their table uninvited and then, very deliberately, moved it half a centimeter - testing for reaction, seeing who flinched when the world changed by less than a thumb’s width. No one did.
 
 “I’m on a break,” Jason said. “If this is official, we can schedule something through my manager.”
 
@@ -1335,7 +1335,7 @@ Lina’s smile had edges. “We prefer short conversations in public.”
 
 “Good policy,” Arendt said. “Mine as well.”
 
-He placed a folded paper on the table—a printout of a municipal incident report. Three blanked rectangles, one time stamp. The paper smelled like a copier that had not forgiven its job.
+He placed a folded paper on the table - a printout of a municipal incident report. Three blanked rectangles, one time stamp. The paper smelled like a copier that had not forgiven its job.
 
 “Yesterday,” Arendt said. “Intersection near Mill‑4. Several witnesses described a… disturbance. Nothing dramatic. I even dare it to say, it has been clean.” His eyes held on *clean* like it was both: a compliment and a problem. “A compression shell, if you speak that language.”
 
@@ -1381,7 +1381,7 @@ Milo’s pen began moving again, as if possessed by bureaucracy. Lina did not bl
 
 “Variables,” Jason said, stalling because the word tasted like both a job and a trap. “Alright. You first.”
 
-“I’m here alone. No tail,” Arendt said. “I approached here because cafés are courteous to small talks. Your friend on the left tracks exits and reflections. The prepaid between the cups is a burner. Your tolerances are higher in public noise; you train there. And no—” his mouth tilted “—I don’t know your teacher. I can only guess that you have one?”
+“I’m here alone. No tail,” Arendt said. “I approached here because cafés are courteous to small talks. Your friend on the left tracks exits and reflections. The prepaid between the cups is a burner. Your tolerances are higher in public noise; you train there. And no - ” his mouth tilted “ - I don’t know your teacher. I can only guess that you have one?”
 
 *He is guessing well. Keep your face boring.*
 
@@ -1395,7 +1395,7 @@ Lina’s jaw moved again: the muscle that meant she was ready to stop being poli
 
 “We don’t sign understandings,” he said. “We sign receipts. If you have concerns, send them like any citizen. If you want to keep watching, do it like the weather and the traffic cameras: boring and predictable. We do not perform.”
 
-Arendt nodded as if he had expected the shape of the refusal and was relieved to fit inside it. “Fair.” He stood, leaving the tea untouched and the heat paid. “If you notice anything that looks like an experiment you didn’t choose—” he slid a small, unbranded card across, embossed with a number that would only ever ring during daylight— “call. Or don’t. I will not call you.”
+Arendt nodded as if he had expected the shape of the refusal and was relieved to fit inside it. “Fair.” He stood, leaving the tea untouched and the heat paid. “If you notice anything that looks like an experiment you didn’t choose - ” he slid a small, unbranded card across, embossed with a number that would only ever ring during daylight -  “call. Or don’t. I will not call you.”
 
 “Good,” Lina said.
 
@@ -1431,7 +1431,7 @@ Jason took the card, not to keep it, but to feel the symbol with his thumb. It w
 
 "RAE wants us to take a picture and get rid of the card".
 
-Milo snapped a photo—on the shared junk handset, not on any phone that knew their names. He held up the card. “Farewell forever, item of plausible deniability.”
+Milo snapped a photo - on the shared junk handset, not on any phone that knew their names. He held up the card. “Farewell forever, item of plausible deniability.”
 
 Jason looked through the window. Across the street, a woman laughed at nothing, then adjusted an earpiece that wasn’t there. A city worker moved cones with the slow authority of someone who had paperwork to bless the cones. The tram camera angled itself two degrees and decided to hold that angle, which was not how trams made decisions.
 
@@ -1443,7 +1443,7 @@ Jason looked through the window. Across the street, a woman laughed at nothing, 
 
 Jason slid the figleaf into his pocket, and with it, the promise they’d written on a napkin: ninety seconds, no recordings, not a syllable more than necessary.
 
-At the door, he paused. The frame was old wood painted the respectable brown of institutions and cafés. On its inner edge, just above eye level, someone—or something—had left a faint, fine mark: a curve that wanted to be a spiral but stopped short, as if it believed in restraint, too.
+At the door, he paused. The frame was old wood painted the respectable brown of institutions and cafés. On its inner edge, just above eye level, someone - or something - had left a faint, fine mark: a curve that wanted to be a spiral but stopped short, as if it believed in restraint, too.
 
 “Marker,” Lina said softly.
 
@@ -1461,7 +1461,7 @@ He stepped through. The sunlight read him as a person with a job. Behind them, t
 
 ---
 
-They turned right when the obvious route was left, let their reflections pass in three shop windows, and paused to argue—briefly and convincingly—about the difference between good and bad lamination.
+They turned right when the obvious route was left, let their reflections pass in three shop windows, and paused to argue - briefly and convincingly - about the difference between good and bad lamination.
 
 “Good lamination doesn’t try so hard,” Milo declaimed. “It trusts the butter to do the work.”
 
@@ -1495,13 +1495,13 @@ Milo adjusted his glasses. “Also, restraint annoys the kind of people who thin
 
 Jason adjusted his scarf, let the street air sand down the shape of Arendt’s offer, and set their pace to municipal: not hurried, not slow. Lina picked up the rhythm beside him. Milo fell in a half‑step behind, reading a flyer like it was fascinating.
 
-The city did what cities do—blinked, hummed, forgot. A tram sighed past and sketched a flicker of their reflections along its windows. Far down the block, a car idled with the patience of a cat pretending not to stalk.
+The city did what cities do - blinked, hummed, forgot. A tram sighed past and sketched a flicker of their reflections along its windows. Far down the block, a car idled with the patience of a cat pretending not to stalk.
 
 “Perimeter?” Lina’s lips barely moved.
 
 Jason’s fingers found the transparent curve of the **whisper‑clip** behind his ear. “Low tide,” he said, the join phrase soft enough to vanish into the street noise.
 
-RAE joined through the clip—a dry clarity at Jason’s mastoid, consonants shaped in bone. “Mesh up. Floor to Lina.”
+RAE joined through the clip - a dry clarity at Jason’s mastoid, consonants shaped in bone. “Mesh up. Floor to Lina.”
 
 Lina’s voice warmed the same invisible path. “Floor accepted. Eyes right: storefront camera two, intermittent blink. Not ours.”
 
@@ -1523,7 +1523,7 @@ They didn’t go home. They went where paper said the city kept its old bones: a
 
 “Meter survey,” Lina said. “Contractor class. You carry the forms. Jason carries the keys to nothing.”
 
-Lina’s hands stayed in her jacket. “Gate latch is aluminum—clean. Camera on the corner box is cosmetic; the cable feeds nothing. We’re walking.”
+Lina’s hands stayed in her jacket. “Gate latch is aluminum - clean. Camera on the corner box is cosmetic; the cable feeds nothing. We’re walking.”
 
 They walked. The chain‑link gave under Jason’s palm like an instrument deciding whether to be tuned. Inside, angle‑iron racks held crates that remembered weight. Faded **safety posters** explained things everyone once knew.
 
@@ -1579,7 +1579,7 @@ The truck completed its **sweep** and parked at the office prefab. A man inside 
 
 “Two more points for the log,” Milo murmured. “Then we take our dignity and go.”
 
-They crossed to a second pad, this one under a **faded gantry** that remembered cranes. Jason touched the rail with two fingers—**contact beats distance**—and felt the yard’s old metal introduce him to itself. No nudge this time. Only listening.
+They crossed to a second pad, this one under a **faded gantry** that remembered cranes. Jason touched the rail with two fingers - **contact beats distance** - and felt the yard’s old metal introduce him to itself. No nudge this time. Only listening.
 
 “Document,” Lina said. She wrote the time, the weather, and three words: **‘no intervention performed.’**
 
@@ -1631,17 +1631,17 @@ The stroller chorus kept time; the bowed saw’s tone traced a silver wire throu
 
 “Table?” Milo nodded at a narrow, standing one bolted to the bakery wall.
 
-They gathered around it. The steel had a clean municipal hum that matched nothing and so made everything else make sense. Milo scribbled in the margin of his printout—little boxes and arrows and a pigeon with union eyes.
+They gathered around it. The steel had a clean municipal hum that matched nothing and so made everything else make sense. Milo scribbled in the margin of his printout - little boxes and arrows and a pigeon with union eyes.
 
-Someone down the block swore. Not that unusual. Then someone else said, “Hey—” in the tone people use when gravity stops cooperating.
+Someone down the block swore. Not that unusual. Then someone else said, “Hey - ” in the tone people use when gravity stops cooperating.
 
 Lina looked without looking like she was looking. “Left, by the florist.”
 
-Jason turned like a person admiring window boxes. The air by the florist’s awning had a thick patch in it—no color, just a pressure wrongness. Paper sleeves on bouquets tugged toward it with the lazy determinism of small weather. A toddler in a dinosaur jacket tugged the other way against his parent’s hand, eyes widening because kids feel it first.
+Jason turned like a person admiring window boxes. The air by the florist’s awning had a thick patch in it - no color, just a pressure wrongness. Paper sleeves on bouquets tugged toward it with the lazy determinism of small weather. A toddler in a dinosaur jacket tugged the other way against his parent’s hand, eyes widening because kids feel it first.
 
 The busker’s tone sharpened half a hair, as if the world had offered it a reason to mean more.
 
-Jason’s chest tightened—not pain; field slope. He put his fingers on the table’s edge to remind his body it had edges. No spectacle. If it’s real, it’s small. If it’s small, it can be made smaller.
+Jason’s chest tightened - not pain; field slope. He put his fingers on the table’s edge to remind his body it had edges. No spectacle. If it’s real, it’s small. If it’s small, it can be made smaller.
 
 “Milo,” Lina said softly, “stall the stroller flood.”
 
@@ -1663,15 +1663,15 @@ First shape: Hold. Not force. A teaching gesture pressed into the border between
 
 He exhaled. The flyers’ lean eased a breath.
 
-Second shape: Let go a little, behind and under the first—two handspans back, where the compression wanted to anchor. Not a pull. A quiet suggestion that the extra pressure had somewhere safe to return to.
+Second shape: Let go a little, behind and under the first - two handspans back, where the compression wanted to anchor. Not a pull. A quiet suggestion that the extra pressure had somewhere safe to return to.
 
 The toddler stopped tugging. The paper sleeves lost interest in drama. A ribbon that had been trying to lift decided to be ribbon instead of omen.
 
 “Okay,” Lina murmured, not quite a question.
 
-Jason let the shapes touch briefly—Hold and Let‑go brushing like palms. Where they met, the thin shell uncurled on itself and found its old normal. The pressure gradient flattened without a pop. The air resumed being air.
+Jason let the shapes touch briefly - Hold and Let‑go brushing like palms. Where they met, the thin shell uncurled on itself and found its old normal. The pressure gradient flattened without a pop. The air resumed being air.
 
-At the edge of the square, a woman who had been filming nothing in particular with her phone lowered it, eyebrows up in that did I just see— way. She caught Jason’s eyes. He held the look for a heartbeat that confessed nothing. She smiled, small and pleased, like a person who had just watched someone steady a ladder without being asked.
+At the edge of the square, a woman who had been filming nothing in particular with her phone lowered it, eyebrows up in that did I just see -  way. She caught Jason’s eyes. He held the look for a heartbeat that confessed nothing. She smiled, small and pleased, like a person who had just watched someone steady a ladder without being asked.
 
 The bowed saw relaxed a fraction. The busker slid off the pure line into a gentle, messy chord because lungs exist.
 
@@ -1727,7 +1727,7 @@ Milo held up a finger. “Floor: Milo.”
 
 Lina nodded, amused at the etiquette. “Floor to Milo.”
 
-Milo glanced at his notes. “We’ve confirmed: public anomalies can present at curb cuts, probably because edges stack there—materials, maintenance, human flow. If you hadn’t been paying attention to seams, you’d have missed it.”
+Milo glanced at his notes. “We’ve confirmed: public anomalies can present at curb cuts, probably because edges stack there - materials, maintenance, human flow. If you hadn’t been paying attention to seams, you’d have missed it.”
 
 “Add: the busker’s pure line forced RAE to shut up,” Lina said, glancing toward the corner. “Which makes me like the busker more, not less.”
 
@@ -1911,7 +1911,7 @@ Jason slid into the other chair at Milo’s table. “I ate,” he lied.
 
 “He did not,” Milo said. “He sent me a photo of a vending machine.”
 
-“That was *research*.” Jason rubbed the heel of his hand under his eye. “Work was—” He made a gesture that was half shrug, half apology. “—work.”
+“That was *research*.” Jason rubbed the heel of his hand under his eye. “Work was - ” He made a gesture that was half shrug, half apology. “ - work.”
 
 “Translation,” Milo said. “Management is inventing nouns again.”
 
@@ -1931,7 +1931,7 @@ Jason glanced at Lina.
 
 She raised both hands. “As long as no one chants, I’m fine.”
 
-Jason reached into his pocket and set a thin, clear ear clip on the table—a tiny curve of almost-nothing. The other one was already hooked behind his ear, tucked into hair and shadow.
+Jason reached into his pocket and set a thin, clear ear clip on the table - a tiny curve of almost-nothing. The other one was already hooked behind his ear, tucked into hair and shadow.
 
 “Low tide,” he said under his breath.
 
@@ -1943,7 +1943,7 @@ The three looked like nothing more than friends leaning in. No wires. No glow.
 
 “RAE,” Jason said softly. “Floor: Milo.”
 
-A breath of latency, then a second voice arrived—not from the air, exactly, but along bone and skin, as if a thought had borrowed the architecture of a heartbeat. It wore Jason’s timbre the way light wears glass.
+A breath of latency, then a second voice arrived - not from the air, exactly, but along bone and skin, as if a thought had borrowed the architecture of a heartbeat. It wore Jason’s timbre the way light wears glass.
 
 “Floor confirmed. Hello, Milo. Please avoid tapping in three-beat patterns; the espresso pump will try to follow.”
 
@@ -1989,7 +1989,7 @@ Jason stabbed a wedge of lemon, squeezed it, watched the oil haze shift. “My b
 
 “Restraint is a shape too,” RAE said, "and it leaves fewer fingerprints."
 
-Milo tilted his head. “You hear that at night, L—”
+Milo tilted his head. “You hear that at night, L - ”
 
 “Floor,” Lina said quickly, stealing it with a fingertip tap. “I hear *people*. I hear him not sleeping.” She looked at Jason. “You’re allowed to need help, you know. It’s not a moral failure.”
 
@@ -1999,13 +1999,13 @@ Jason’s smile faltered at the edges. “I keep thinking it’ll stop asking me
 
 They let that sit, the way you let a pot sit when boiling slows on its own.
 
-From the kitchen, her father barked, “Lina!”—then, softer—“Some help?”
+From the kitchen, her father barked, “Lina!” - then, softer - “Some help?”
 
 “Coming,” she called. To the table: “He’ll pretend the stock salted itself.”
 
 “Tell him the pump did it,” Milo said.
 
-Lina rolled her eyes and slipped behind the pass. Jason watched her talk with her father in the language of cooks—pinch, tilt, taste, nod. The radio found a chorus and forgot it.
+Lina rolled her eyes and slipped behind the pass. Jason watched her talk with her father in the language of cooks - pinch, tilt, taste, nod. The radio found a chorus and forgot it.
 
 Milo leaned in. “You really okay?”
 
@@ -2037,7 +2037,7 @@ The archive at night sounded like the building checking its teeth. Air handlers 
 
 Milo set up at a table under a cone of light with the posture of someone who could fall asleep at attention. He arranged three snacks around his laptop like a Neolithic offering and promptly dozed.
 
-Jason logged the returns, re-shelved a heavy map drawer by muscle memory. The day had left a silt line behind his eyes. He kept to the slow channel—water bottle within reach, movements clean. Every click of a latch, every soft slide, he let it be the only thing happening.
+Jason logged the returns, re-shelved a heavy map drawer by muscle memory. The day had left a silt line behind his eyes. He kept to the slow channel - water bottle within reach, movements clean. Every click of a latch, every soft slide, he let it be the only thing happening.
 
 A heel of his hand pressed the edge of a drawer; the metal sang a thin line. He eased off.
 
@@ -2059,7 +2059,7 @@ The desk phone rang, soft and reprimanding. Jason stood a little straighter, gla
 
 “Records,” he said.
 
-“Jason,” said his manager’s voice—oily, slow. “You’re staying late.”
+“Jason,” said his manager’s voice - oily, slow. “You’re staying late.”
 
 “Catching up.”
 
@@ -2089,7 +2089,7 @@ Milo snored, tiny and apologetic, then flinched awake. “I wasn’t sleeping,�
 
 Milo scrubbed his face. “Then we should be very, very boring.” He jerked his chin toward the map room. “One more look at the light table?”
 
-They moved together down the aisle. Jason laid a cloth, flipped the switch. The hum rose—thin, steady, a line that asked to be answered. A water‑stained sheet went translucent under his hands; pencil ghosts lifted like old, polite bones.
+They moved together down the aisle. Jason laid a cloth, flipped the switch. The hum rose - thin, steady, a line that asked to be answered. A water‑stained sheet went translucent under his hands; pencil ghosts lifted like old, polite bones.
 
 “Stay off the rhythm,” Milo murmured.
 
@@ -2169,9 +2169,9 @@ Jason set the rhythm just under the kitchen’s hum, off the pump’s beat, insi
 
 **This is nothing,** he thought, almost embarrassed by the calm that came with it.
 
-*Not nothing,* RAE said—private, patient, using the spoon and the bone behind his ear at once. *Your pulse is up two. That is Invest without spectacle. The field prefers this.*
+*Not nothing,* RAE said - private, patient, using the spoon and the bone behind his ear at once. *Your pulse is up two. That is Invest without spectacle. The field prefers this.*
 
-Jason didn’t answer. He watched the surface smooth—a small patch of order coaxed into being and then left to be itself.
+Jason didn’t answer. He watched the surface smooth - a small patch of order coaxed into being and then left to be itself.
 
 He passed the spoon back. Lina’s father gave the minimal nod that meant approval and goodbye.
 
@@ -2203,7 +2203,7 @@ They started the day with a new batch of refined ear‑hooks. They’d been usin
 
 “Things people don’t stare at,” she said. “Good coupling, low visibility.” She glanced up, eyes flicking to his. “And you’ll be wearing one.”
 
-Jason turned the hook in his fingers. Up close, the transparency was imperfect—the edges caught light; the ceramic puck had a faint, milky swirl in it like skimmed tea. The hook wanted to sit behind the ear; the spring arm wanted to press two points at once: the soft back side of the ear, and the bone just behind it.
+Jason turned the hook in his fingers. Up close, the transparency was imperfect - the edges caught light; the ceramic puck had a faint, milky swirl in it like skimmed tea. The hook wanted to sit behind the ear; the spring arm wanted to press two points at once: the soft back side of the ear, and the bone just behind it.
 
 “The mastoid,” Lina said, because naming a thing tamed it. “If the spreader sits right, you’ll feel a bone‑buzz when she talks.”
 
@@ -2231,7 +2231,7 @@ He lifted a hand, palm down: ready.
 
 “Salt, water,” Lina prompted, the liturgy now muscle‑memory. She pushed the glass toward him.
 
-He salted. He drank. Then he tapped the table twice—"Floor: Lina\*"\*.
+He salted. He drank. Then he tapped the table twice - "Floor: Lina\*"\*.
 
 “Low tide,” Lina said, the join phrase quiet as breath.
 
@@ -2255,7 +2255,7 @@ Milo blinked. “That’s… clean.”
 
 Milo fumbled with his own clip, ears more ideas than anatomy. Lina took the piece with a gentleness that didn’t read as tender until it was gone and snug again behind his ear. She nudged the ceramic disc five millimeters and tilted his head by two fingers at the jaw. “There,” she said. “Say if it aches.”
 
-Milo tapped the clip once, tentative. “Uh—bone‑buzz?”
+Milo tapped the clip once, tentative. “Uh - bone‑buzz?”
 
 “Private reception stable,” RAE said. “No air leak detected. We are half‑duplex by design: one floor live, others dimmed. Tap to request floor; name the handover.”
 
@@ -2287,7 +2287,7 @@ Lina made it a ritual because bodies respect rituals more than orders. She stood
 
 “It’s there, not sharp,” he said. “Like a first step of a thought.”
 
-“Good,” she said. “Buzz de Luxe at one.” She set her fingers to his jaw—thumb light on the hinge, guiding his chin a degree down and back. “Loose here,” she said. “If you clench, RAE has to shove. Slack jaw gives her a cleaner bone path along the mandible into the mastoid—clearer at less push.” He let his tongue drop from the roof of his mouth and swallowed; pressure equalized and the contact snapped cleaner. “Now it’s one‑point‑five.”&#x20;
+“Good,” she said. “Buzz de Luxe at one.” She set her fingers to his jaw - thumb light on the hinge, guiding his chin a degree down and back. “Loose here,” she said. “If you clench, RAE has to shove. Slack jaw gives her a cleaner bone path along the mandible into the mastoid - clearer at less push.” He let his tongue drop from the roof of his mouth and swallowed; pressure equalized and the contact snapped cleaner. “Now it’s one‑point‑five.”&#x20;
 
 Milo wrote **mastoid + relaxed jaw = cleaner** on his page like a brand new truth.
 
@@ -2297,7 +2297,7 @@ Milo wrote **mastoid + relaxed jaw = cleaner** on his page like a brand new trut
 
 “Exactly,” Lina said. “We pick: good camouflage or good coupling. Today, coupling wins.”
 
-Jason turned his head slowly. The phase jitter he’d felt before—the way RAE’s presence smeared if he moved too fast—stayed small, a ripple rather than a tear. He matched his motion to that ripple and the ripple smiled back.
+Jason turned his head slowly. The phase jitter he’d felt before - the way RAE’s presence smeared if he moved too fast - stayed small, a ripple rather than a tear. He matched his motion to that ripple and the ripple smiled back.
 
 “Bone‑buzz confirmed,” RAE said, with a dryness that made Milo snort. “Contact is king.”
 
@@ -2307,7 +2307,7 @@ Jason turned his head slowly. The phase jitter he’d felt before—the way RAE�
 
 Lina slid her hair forward, checked herself in the dark of the window. A shadow of hardware showed if she leaned into the light just so; otherwise, it read as habit. She flicked the hook with a nail and felt the tiny answer come back through bone. “Okay,” she said to the room and the day. “We can be boring in public.”
 
-“Before we go public,” Milo said, “rules.” He read from his clipboard like a man at a podium in a town without podiums. “One: floor control. Only one voice live; others dim. Two: handshake on join, *low tide*. Three: tap gesture to request floor. Four: **Red stops**—anyone can call it."
+“Before we go public,” Milo said, “rules.” He read from his clipboard like a man at a podium in a town without podiums. “One: floor control. Only one voice live; others dim. Two: handshake on join, *low tide*. Three: tap gesture to request floor. Four: **Red stops** - anyone can call it."
 
 Lina andded "Five: we do bursts, not monologues. If we need to infodump, we write a note, we fold it, we eat it later.”
 
@@ -2323,7 +2323,7 @@ Milo scribbled **precision > force** twice, then drew a skull and crossbones nex
 
 ---
 
-They did a loop of the building to teach the clips their people. In the stairwell, RAE rode the iron handrail and made it hum on consonants when one of them touched it. In the hall, she borrowed the return air grille and spoke exactly at their ankles. At Mrs. Hanley’s door, she went quiet because her music—the morning’s sustained whistle while watering plants—was a pure note that made RAE prudent.
+They did a loop of the building to teach the clips their people. In the stairwell, RAE rode the iron handrail and made it hum on consonants when one of them touched it. In the hall, she borrowed the return air grille and spoke exactly at their ankles. At Mrs. Hanley’s door, she went quiet because her music - the morning’s sustained whistle while watering plants - was a pure note that made RAE prudent.
 
 “Field hygiene,” Lina murmured. “If it hums steady, don’t talk steady. Use brief packets off rhythm or change the thing that’s vibrating.”
 
@@ -2347,9 +2347,9 @@ Milo held up two fingers. “On your count.”
 
 “Low tide,” she said, and breathed him into time like she did before a difficult dish: in for four, hold, out for six. He matched, not because she asked, but because his body liked obeying competence.
 
-“Floor to Milo,” she said, tapping her clip—one, then two.
+“Floor to Milo,” she said, tapping her clip - one, then two.
 
-“Live,” Milo said, and for a heartbeat there were three voices on the line—Jason’s, Lina’s, RAE mixing and relaying timbres so each landed on the right bone with the right weight.
+“Live,” Milo said, and for a heartbeat there were three voices on the line - Jason’s, Lina’s, RAE mixing and relaying timbres so each landed on the right bone with the right weight.
 
 It was clean for exactly three‑quarters of a second. Then the room crowded and Jason felt the first push of pressure behind his eyes, his hands becoming fists.
 
@@ -2359,7 +2359,7 @@ Silence came like a mercy with good timing. The fridge remembered it could hum. 
 
 Milo wrote **1.8 s at 8 m** and underlined **cooldown 2 min**.
 
-Lina put a palm on the back of Jason’s neck, grounding him on purpose. He rolled his shoulders—headache denied, pressure stepping back down the ladder.
+Lina put a palm on the back of Jason’s neck, grounding him on purpose. He rolled his shoulders - headache denied, pressure stepping back down the ladder.
 
 “Cost curve confirmed,” RAE said. “Two streams steady; the third only in pulses with recovery. If we must run three, we move closer and shrink radius.”
 
@@ -2421,7 +2421,7 @@ Back at the table, they wrote the rules once more, but finer.
 
 - *One* voice live; others dim. Tap to request; name the handover.
 - *Handshake on join:* “low tide.”
-- *Red stops*—called by anyone, obeyed by all.
+- *Red stops* - called by anyone, obeyed by all.
 - *Two streams steady.* *Three* only in short pulses → **cooldown**.
 - *Contact beats distance.* Fit check: mastoid + relaxed jaw; adjust micro‑ratchet one click at a time.
 - Avoid pure, held notes; avoid steady external drives; use brief packets off the rhythm.
@@ -2436,7 +2436,7 @@ He held up two fingers. “Run the last test.”
 
 “It is, somewhere,” Lina said, adjusting her hair so it *almost* hid the hook without dampening it. “But we’re not that somewhere.”
 
-Jason’s reflection did what it always did—failed to argue back—and that was fine. He tilted his head. The clip read as a nothing. A choice kept private. A promise you didn’t have to sell.
+Jason’s reflection did what it always did - failed to argue back - and that was fine. He tilted his head. The clip read as a nothing. A choice kept private. A promise you didn’t have to sell.
 
 “Exit image,” Milo said grandly. “Clips that aren’t there.”
 
@@ -2444,7 +2444,7 @@ Jason’s reflection did what it always did—failed to argue back—and that wa
 
 “Stability is the point,” Jason said, and the room agreed.
 
-They cleaned the table because mess presses on the head, then ate the last two cookies because rituals require sugar or salt or both. When they finally stepped out, the clips lay against skin like they’d always belonged—nothing to see, everything to use.
+They cleaned the table because mess presses on the head, then ate the last two cookies because rituals require sugar or salt or both. When they finally stepped out, the clips lay against skin like they’d always belonged - nothing to see, everything to use.
 
 Outside, the wind tried to become a steady tone and thought better of it. Inside, the fridge kept time. The day decided to be ordinary and, for once, meant it.
 
@@ -2472,7 +2472,7 @@ Lina set the crate down. “Find me a story?”
 
 “Found me first,” he said, and felt his pulse give a curious extra beat.
 
-The slab was cool, then less so, like the temperature had to remember its job after his skin suggested otherwise. In his palm, a hum gathered—no louder than thought, but with more manners. The fan’s cycle leaned toward it for a breath and then recovered.
+The slab was cool, then less so, like the temperature had to remember its job after his skin suggested otherwise. In his palm, a hum gathered - no louder than thought, but with more manners. The fan’s cycle leaned toward it for a breath and then recovered.
 
 Milo appeared at his shoulder with the stealth of a librarian. “Heavy.”
 
@@ -2482,7 +2482,7 @@ Milo appeared at his shoulder with the stealth of a librarian. “Heavy.”
 
 **Granted. No heroics.**
 
-The hum in Jason’s palm met something in his wrist bone and decided to be a duet. The room did not change; the room agreed with itself. The fan clicked: one, two, three—then resumed its lazy arc.
+The hum in Jason’s palm met something in his wrist bone and decided to be a duet. The room did not change; the room agreed with itself. The fan clicked: one, two, three - then resumed its lazy arc.
 
 Jason’s mouth tasted like hot penny for a second. A drip echoed in memory from nowhere nearby. He blinked, not dizzy, not fine.
 
@@ -2552,7 +2552,7 @@ Milo played civilian with a paper cone of roasted nuts. “So we have a doorstop
 
 “Good,” Lina said. “If he doesn’t care, no one else will learn to.”
 
-The sidewalk’s rhythm was honest: stroller squeak; shoe scuff; a distant tram bell that did not try to be pure. Jason kept his jaw loose because Lina had taught him that was how you let the head behave. The hum tracked his pace, then lagged a step, then stopped tracking at all—as if the slab had decided that walking was not a language it spoke.
+The sidewalk’s rhythm was honest: stroller squeak; shoe scuff; a distant tram bell that did not try to be pure. Jason kept his jaw loose because Lina had taught him that was how you let the head behave. The hum tracked his pace, then lagged a step, then stopped tracking at all - as if the slab had decided that walking was not a language it spoke.
 
 > Telemetry. *The object doesn’t project. It rings when touched and sulks when ignored. It is not a beacon. That is excellent news.*
 
@@ -2626,7 +2626,7 @@ The restaurant’s older back fan, the petty cousin of the junk shop’s, stalle
 
 Jason fell asleep faster than his day deserved. When the dream arrived, it didn’t announce itself with anything the body could object to. No chase. No fall. Only a smell like steel just off the grinder, and a sound like water counting without caring if anyone learned to count with it.
 
-The room wasn’t square. He couldn’t see it, but the echo curved the way a hand curves when it cups a flame. The hum that had been the slab’s in his palm was now the room’s—a constant kindness that wasn’t meant for humans at all.
+The room wasn’t square. He couldn’t see it, but the echo curved the way a hand curves when it cups a flame. The hum that had been the slab’s in his palm was now the room’s - a constant kindness that wasn’t meant for humans at all.
 
 *I am here.*
 
@@ -2652,7 +2652,7 @@ He slept again. The second time, there was no drip.
 
 ## The Contact
 
-The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made—the paper cutter’s heavy thunk, followed by a breath held and released.
+The stairwell smelled like old toner and cut paper. Up one flight above the print shop, a glass door showed the ghost of a logo that had been peeled off years ago. Inside: scuffed parquet, two metal chairs, a plant that had decided to be a survivor, and the sound every print shop in the world eventually made - the paper cutter’s heavy thunk, followed by a breath held and released.
 
 Milo pushed the door with two fingers and a harmless smile. Lina followed, hair pulled back, coat folded over her arm the way people do when they want to look like errands. Jason came last, one hand in his pocket around the salt packet.
 
@@ -2690,7 +2690,7 @@ Jason sat. The chair wanted to wobble and decided not to. He put the salt packet
 
 He didn’t touch the mug. He glanced at the stain. Slightly egged. The gap at eleven o’clock was a little proud; the table’s grain ran east-west; the desk was old enough to have opinions. The person at the desk watched and did not interrupt.
 
-Jason lifted his own cup from the tray by his elbow—paper, lukewarm—and let a ring decide itself onto the kraft paper beside the old stain. It landed wrong, as rings do: wider at one side, skated by a fraction toward the table edge.
+Jason lifted his own cup from the tray by his elbow - paper, lukewarm - and let a ring decide itself onto the kraft paper beside the old stain. It landed wrong, as rings do: wider at one side, skated by a fraction toward the table edge.
 
 **Quality over force,** he thought.
 
@@ -2698,11 +2698,11 @@ Jason lifted his own cup from the tray by his elbow—paper, lukewarm—and let 
 
 He tilted the cup just enough to pool a meniscus, then set it down again, not quite where the first ring had been. He moved his wrist like he was reaching for the pencil behind the person’s ear, and the ring shifted under its own impatience. The paper breathed. The salt stayed a small square of certainty at the edge of his reach.
 
-The two rings touched, wrong against wrong. The table hummed a timber smell. Jason counted the way Lina counted: three, two, one—not to do the thing, but to let the thing decide it wanted to be done.
+The two rings touched, wrong against wrong. The table hummed a timber smell. Jason counted the way Lina counted: three, two, one - not to do the thing, but to let the thing decide it wanted to be done.
 
 *East edge one millimeter,* RAE said, not words so much as the memory of a measurement. *Let the paper do the rest.*
 
-He slid the cup that impossible one millimeter, then lifted and set, no fuss. The fresh ring settled, its unevenness reading the older stain like a groove read a needle, and aligned itself without drama. What had been two almost-circles became one—hesitations matched, a gap met by a gap, the seam so honest it looked accidental.
+He slid the cup that impossible one millimeter, then lifted and set, no fuss. The fresh ring settled, its unevenness reading the older stain like a groove read a needle, and aligned itself without drama. What had been two almost-circles became one - hesitations matched, a gap met by a gap, the seam so honest it looked accidental.
 
 He sat back so the moment could stop being about him. He didn’t say anything. The room noticed and didn’t panick. Downstairs, the cutter thunked a second time and the breath upstairs did the same.
 
@@ -2720,7 +2720,7 @@ They didn’t hand Jason the paper. They turned it so the tear read left to righ
 
 “It’s not a location,” they said. “It’s a path that refuses to be a location. You’ll think it’s about pipes. It isn’t.”
 
-The paper was a fragment of a municipal plan—ink faded to the precise gray of a copier that had tried its best. Handwriting wormed in the margin: a time window, three digits, then another three. Someone had drawn a little arrow that pointed at the wrong thing in the way smart people did when they were being watched.
+The paper was a fragment of a municipal plan - ink faded to the precise gray of a copier that had tried its best. Handwriting wormed in the margin: a time window, three digits, then another three. Someone had drawn a little arrow that pointed at the wrong thing in the way smart people did when they were being watched.
 
 “Old waterworks,” the person said, almost to the plant. “The kind that got folded into ‘infrastructure’ and therefore disappeared from maps that showed anything anyone wanted to visit.”
 
@@ -2820,9 +2820,9 @@ Not the desk person. Not the print clerk downstairs. Not a neighbor’s door. Th
 
 They looked without looking like people who had been startled. The radiator under the window was the kind that had never been modern and didn’t intend to start. It sighed once and forgot them.
 
-“Did you—” Milo began.
+“Did you - ” Milo began.
 
-“Not me,” Jason said—honest, because the truth could be small and still be the whole truth.
+“Not me,” Jason said - honest, because the truth could be small and still be the whole truth.
 
 Lina’s eyes covered the stairwell with the kind of patience that kept people from getting hurt. She nodded to no one and they moved again. The door whispered against its rubber stop. The street took them back without ceremony and the cold made useful work of their noses.
 
@@ -2850,15 +2850,15 @@ They had work and the day was long enough to hold it.
 
 ## False Trail
 
-Jason slowed at the wall of brass mailboxes; a corner of a card peeked from his like it wanted out. He opened the box and half‑laughed—more air than sound.
+Jason slowed at the wall of brass mailboxes; a corner of a card peeked from his like it wanted out. He opened the box and half‑laughed - more air than sound.
 
 “What is that?” Lina asked, already close enough to see his face before the paper.
 
-“A note and its own solution,” Jason said. He unfolded the card. “Address, apartment number. And—” He tilted it so they both could read. “*Take care.*”
+“A note and its own solution,” Jason said. He unfolded the card. “Address, apartment number. And - ” He tilted it so they both could read. “*Take care.*”
 
 Milo leaned in with the clipboard as if it were a warrant. “Neat block letters. No flourishes. Whoever wrote this learned their penmanship from forms.” He clicked a photo and stamped the time. “No envelope. They wanted the *peek*.”
 
-Jason turned the card over—blank—and then the key: brass, a white tag, the same careful hand repeating the unit number. He didn’t touch the tag’s ink. “Either a favor or a leash.”
+Jason turned the card over - blank - and then the key: brass, a white tag, the same careful hand repeating the unit number. He didn’t touch the tag’s ink. “Either a favor or a leash.”
 
 “Or both,” Lina said. Her eyebrow did the skeptical thing. “Why your box?”
 
@@ -2898,7 +2898,7 @@ Jason’s whisper‑clip settled against the mastoid bone like a straightforward
 
 Lina pressed her ear briefly to the door, then flicked her eyes to Jason. “No movement. Dust on the sill’s undisturbed.”
 
-He took a photo through the frosted pane—tape criss‑crossed inside the glass, tidy, fresh glue still faintly amber.
+He took a photo through the frosted pane - tape criss‑crossed inside the glass, tidy, fresh glue still faintly amber.
 
 “Door first,” Milo said, pointing with his pen. “Then the vents. Then the furniture footprints. We don’t poke anything that looks like it wants to be poked.”
 
@@ -2906,7 +2906,7 @@ Jason’s key from the mailbox seated too easily. The lock turned like it had r
 
 The door opened on a room composed for an audience that hadn’t arrived.
 
-Carpet prints, yes—two sets of footfalls, then a careful brooming to blur them. Dust that was evenly wrong, as if a chore had been done by someone who only knew dust from photographs. A single cabinet against the far wall, old wood, its face carved with a shallow spiral that refused to be just decoration.
+Carpet prints, yes - two sets of footfalls, then a careful brooming to blur them. Dust that was evenly wrong, as if a chore had been done by someone who only knew dust from photographs. A single cabinet against the far wall, old wood, its face carved with a shallow spiral that refused to be just decoration.
 
 The windows were taped in a neat lattice. A plastic drop cloth lay folded in the corner, the fold line set with the precision of someone who ironed excuses.
 
@@ -2958,9 +2958,9 @@ Jason didn’t move. “Second layer?”
 
 “Look at the power,” RAE said. “No hum in the walls. No fridge tone. The breakers are off. But there’s a low, steady tone not belonging to the building.”
 
-Jason waited. He heard it, but not with his ears—more a pressure that made his eyebrows want to knit. A pure note, shy of audible, holding too long.
+Jason waited. He heard it, but not with his ears - more a pressure that made his eyebrows want to knit. A pure note, shy of audible, holding too long.
 
-“External driver,” RAE said. “Battery pack behind the cabinet or in the wall void. Feeding a piezo or a wire to keep a single frequency steady. If you go close and lean—if you become a carrier—it will ring inside your head and my voice will go messy. That’s the second layer.”
+“External driver,” RAE said. “Battery pack behind the cabinet or in the wall void. Feeding a piezo or a wire to keep a single frequency steady. If you go close and lean - if you become a carrier - it will ring inside your head and my voice will go messy. That’s the second layer.”
 
 Milo made a face, like someone had offered him a free sermon. “So it’s not *for* us. It’s for anyone who tests with their body.”
 
@@ -2974,11 +2974,11 @@ Jason exhaled. The ache behind his eyes uncoiled half a notch. “We stand down.
 
 They worked the room like a set. Milo started a clock on his phone and read times out loud for the record. “Seventeen‑oh‑three entry. Room temperature one‑eight celsius. Door latch stiff but cooperative. No mechanical complaints.”
 
-Lina photographed the taped windows from oblique angles. On one pane, two pieces of tape crossed and left a perfect, unpainted diamond—the kind you get when tape goes down before dust, not after. On the adjacent pane, faint *tape ghosts*—matte rectangles where adhesive had been and was peeled—sketched an earlier lattice at a slightly different angle, wrong for today’s sun. She wrote it in the corner of the photo with a finger: *tape first, dust second.*
+Lina photographed the taped windows from oblique angles. On one pane, two pieces of tape crossed and left a perfect, unpainted diamond - the kind you get when tape goes down before dust, not after. On the adjacent pane, faint *tape ghosts* - matte rectangles where adhesive had been and was peeled - sketched an earlier lattice at a slightly different angle, wrong for today’s sun. She wrote it in the corner of the photo with a finger: *tape first, dust second.*
 
 Jason sketched the cabinet in his pocket notebook, not because the camera couldn’t do it but because drawing made the curve stay in his hands. He counted the spiral turns out loud, slow enough for RAE to map the cadence against the light shift. “Three and a half to the nick. Depth shallow then sharp. Tools were sharp when cut. No chatter.”
 
-“Feet,” Lina said, crouching. “No felt pads. No scrape on the floorboards. Whoever slid it did so on something soft or rolling and then removed the sled.” She pointed behind the cabinet. “Dust crescent two hand‑spans back—old resting place. And another, shallow, to the left. They auditioned spots.”
+“Feet,” Lina said, crouching. “No felt pads. No scrape on the floorboards. Whoever slid it did so on something soft or rolling and then removed the sled.” She pointed behind the cabinet. “Dust crescent two hand‑spans back - old resting place. And another, shallow, to the left. They auditioned spots.”
 
 Milo’s flashlight found a paper rectangle under the radiator. He coaxed it out with the least heroic chopstick ever to leave a takeout bag. A flyer for a market two neighborhoods over. Clean edges, no dust. Prop.
 
@@ -3008,7 +3008,7 @@ RAE’s voice sharpened in the clip by half a degree. “That’s the look‑at�
 
 They did not open the cabinet.
 
-From the doorway, they tried one controlled thing. Milo slid a credit‑card mirror from his kit and caught the thin sun leaking past the tape lattice. He threw a sliver of light across the spiral, low and grazing—the poor man’s backlight. The nick flashed; the curve went chrome.
+From the doorway, they tried one controlled thing. Milo slid a credit‑card mirror from his kit and caught the thin sun leaking past the tape lattice. He threw a sliver of light across the spiral, low and grazing - the poor man’s backlight. The nick flashed; the curve went chrome.
 
 The room’s pure tone climbed a hair. RAE’s consonants softened, like talking underwater. "Back two steps," she said.
 
@@ -3016,7 +3016,7 @@ Jason and Milo both shifted their weight. The smear cleared.
 
 "Not optics in the mechanism," RAE added after a breath. "Optics in you. The flare asks for your head. The driver rewards proximity."
 
-Jason re‑framed his shot and—without meaning to—leaned right. Pressure opened like a thumb behind his left eye; the clip fuzzed once.
+Jason re‑framed his shot and - without meaning to - leaned right. Pressure opened like a thumb behind his left eye; the clip fuzzed once.
 
 "Stop," RAE said, no drama.
 
@@ -3038,7 +3038,7 @@ RAE’s approval arrived like a lowering of pressure. “A good no. Document the
 
 Milo grinned, spiteful and pleased. “We love receipts.”
 
-He stepped to the door to shoot the hallway. Jason stayed one more second to watch the light do its trick. The spiral caught and threw a helix back at him. Not moving—just choosing to be seen, then not.
+He stepped to the door to shoot the hallway. Jason stayed one more second to watch the light do its trick. The spiral caught and threw a helix back at him. Not moving - just choosing to be seen, then not.
 
 “Jason,” Lina said gently. The tug of his name made the decision for him.
 
@@ -3082,13 +3082,13 @@ Jason didn’t look back until they were on the sidewalk. The window of 2B held 
 
 Jason’s hand brushed the clip behind his ear. The building’s hum receded. The city put its shoes back on. A held note at the edge of hearing let go.
 
-They walked. The afternoon turned its own page. Behind them, in the empty room, light crossed the cabinet’s face and the spiral seemed to turn once, then held still—as if embarrassed to be caught moving.
+They walked. The afternoon turned its own page. Behind them, in the empty room, light crossed the cabinet’s face and the spiral seemed to turn once, then held still - as if embarrassed to be caught moving.
 
 ## Night Measurement
 
-Rain made the city sound honest. Anything that couldn’t hold itself together admitted it with a drip. They worked under a borrowed tarp that snapped with every gust. Sodium streetlight washed everything amber—the plastic ponchos, the duct‑taped handles of their handheld meters, the far slick of pavement that pretended to be a river. The storm had split and was dragging its rags across the northern sky. Lightning stitched in the distance, never quite where thunder wanted it.
+Rain made the city sound honest. Anything that couldn’t hold itself together admitted it with a drip. They worked under a borrowed tarp that snapped with every gust. Sodium streetlight washed everything amber - the plastic ponchos, the duct‑taped handles of their handheld meters, the far slick of pavement that pretended to be a river. The storm had split and was dragging its rags across the northern sky. Lightning stitched in the distance, never quite where thunder wanted it.
 
-Jason checked the time on a cheap digital with a rubber band looped through the strap. He had taped a paper card beside the face—*slow channel all day; Red stops; salt + water*. The card had gone soft at the corners.
+Jason checked the time on a cheap digital with a rubber band looped through the strap. He had taped a paper card beside the face - *slow channel all day; Red stops; salt + water*. The card had gone soft at the corners.
 
 “Positions,” Lina said, not loud. Her hood rustled when she turned. Runnels of rain traced the edge of her jaw and dropped off like punctuation.
 
@@ -3106,7 +3106,7 @@ Jason flexed his fingers inside thin gloves, then pressed his palm to the railin
 
 **Got it.** He cupped his hood brim with two fingers. The bone path steadied.
 
-Lightning strobed beyond the warehouses—flash, flash—then a single low roll came late as if someone had forgotten to hit play. Milo’s voice ticked over the line: “Mark. T minus zero. Next expected natural pair anywhere from 7–23 seconds depending on cell drift. After that, chaos. On paper.”
+Lightning strobed beyond the warehouses - flash, flash - then a single low roll came late as if someone had forgotten to hit play. Milo’s voice ticked over the line: “Mark. T minus zero. Next expected natural pair anywhere from 7–23 seconds depending on cell drift. After that, chaos. On paper.”
 
 On paper. None of them trusted paper tonight. They trusted the fact that the rain was not sentimental.
 
@@ -3160,9 +3160,9 @@ They worked. That was the word. Not hunted. Not chased. **Worked.** Listened, co
 
 “Mild confession,” Milo said, voice a little wry in their ears. “Remind me why we sign up to be damp and statistically insignificant at two in the morning?”
 
-“So we stop being insignificant,” Lina said. “One night is a rumor. We need variance—materials, angles, weather, distance. Different kinds of boring. Stack enough of them and the noise loses places to hide.”
+“So we stop being insignificant,” Lina said. “One night is a rumor. We need variance - materials, angles, weather, distance. Different kinds of boring. Stack enough of them and the noise loses places to hide.”
 
-Jason tapped the rail with two knuckles. “Because I don’t want the last thing left of her to be noise,” he said. “Elyra kept time when the world drifted. The city is louder, not steadier. If we collect different slices—wet metal, dry concrete, headwind, lee—we can subtract the city and keep what doesn’t move. The piece that holds. That’s her.”
+Jason tapped the rail with two knuckles. “Because I don’t want the last thing left of her to be noise,” he said. “Elyra kept time when the world drifted. The city is louder, not steadier. If we collect different slices - wet metal, dry concrete, headwind, lee - we can subtract the city and keep what doesn’t move. The piece that holds. That’s her.”
 
 RAE sent a small warmth against the back of his eyes, the closest she came to nodding.
 
@@ -3172,9 +3172,9 @@ RAE sent a small warmth against the back of his eyes, the closest she came to no
 
 “Keep counting,” Lina said.
 
-Thunder stumbled again. Lightning flashed nowhere at all; the world simply made a decision to be bright and then pretended it hadn’t. And then, there was something else: a micro‑pattern, almost nothing—two light pulses, one held—tilted on the second beat. Jason’s ribs knew it the way feet know the last stair in the dark. He didn’t name it. He just matched it once and let it pass.
+Thunder stumbled again. Lightning flashed nowhere at all; the world simply made a decision to be bright and then pretended it hadn’t. And then, there was something else: a micro‑pattern, almost nothing - two light pulses, one held - tilted on the second beat. Jason’s ribs knew it the way feet know the last stair in the dark. He didn’t name it. He just matched it once and let it pass.
 
-“Calling,” Milo said. “That’s another nine. I hate how much I like that. Next expected if it’s a scheme: around twenty‑seven from the last bright. Annnnd—” He made the sound of someone arguing with a spreadsheet. “There it is. Twenty‑six‑point‑eight. What are we doing, kids? Tower beacon cosplay?”
+“Calling,” Milo said. “That’s another nine. I hate how much I like that. Next expected if it’s a scheme: around twenty‑seven from the last bright. Annnnd - ” He made the sound of someone arguing with a spreadsheet. “There it is. Twenty‑six‑point‑eight. What are we doing, kids? Tower beacon cosplay?”
 
 “Don’t guess,” Lina said. “Guessing makes you say things we can’t unsay in public.”
 
@@ -3196,7 +3196,7 @@ The meters disagreed about the world with bipartisanship. The digital pinged whe
 
 “Yellow,” Jason said. “Hold the window, then we break.”
 
-They held. The storm cell to the east tossed off a casual chain of pulses that pretended to be about rain. The distant tower line on the ridge made its own grammar—dark, light, dark—in ways their eyes wanted to believe were accidents. The sodium lamp above their corner buzzed like a fly pretending to be machinery.
+They held. The storm cell to the east tossed off a casual chain of pulses that pretended to be about rain. The distant tower line on the ridge made its own grammar - dark, light, dark - in ways their eyes wanted to believe were accidents. The sodium lamp above their corner buzzed like a fly pretending to be machinery.
 
 *Shift two steps,* RAE sent. *You’re standing in a node. Breath shape is smearing.*
 
@@ -3224,7 +3224,7 @@ Nothing happened. That was the point. Nothing but the little sear of attention t
 
 “I’m sightseeing,” Jason muttered. “I want to know the route before I move.”
 
-The sky obliged with a not‑lightning that somehow still needed to be counted. Milo’s voice came warm and precise. “There’s your twenty‑seven,” he said. “And—wait. The one after that just tried to be nine but tripped.”
+The sky obliged with a not‑lightning that somehow still needed to be counted. Milo’s voice came warm and precise. “There’s your twenty‑seven,” he said. “And - wait. The one after that just tried to be nine but tripped.”
 
 “It tripped because the world is tired,” Lina said. “Again.”
 
@@ -3236,7 +3236,7 @@ They moved. The gust slapped the tarp like a rebuke; rain found the seam in Jaso
 
 “Two more windows,” Lina said. “Then we stop pretending to be statues.”
 
-They counted. The first window—nothing. The second—also nothing. The storm lost interest in being spectacular. The tower line on the ridge steadied its blink to the kind of rhythm that makes pilots trust and poets bored.
+They counted. The first window - nothing. The second - also nothing. The storm lost interest in being spectacular. The tower line on the ridge steadied its blink to the kind of rhythm that makes pilots trust and poets bored.
 
 “Last pass,” Jason said. “One more rail, then home.”
 
@@ -3260,15 +3260,15 @@ They stripped tape off poles with numb fingers and fed soiled pages into plastic
 
 They stepped into the open and let the rain have the parts of them the tarp had refused. Shoes squeaked. The sodium light made their faces look like someone else’s memory.
 
-At the corner, lightning went from casual to deliberate. Flash—*exactly* nine seconds—flash—*exactly* nine—flash—*exactly* nine. The third flash threw a thin shadow from the far radio mast that didn’t belong to anything physical. 
+At the corner, lightning went from casual to deliberate. Flash - *exactly* nine seconds - flash - *exactly* nine - flash - *exactly* nine. The third flash threw a thin shadow from the far radio mast that didn’t belong to anything physical. 
 
-RAE stayed quiet on the line. A whisper‑thin impulse brushed past Jason—two light pulses, one held, tilted on the second beat—slipped under the third nine like a harmony you only hear if you already know it. For half a breath his chest wanted to answer.
+RAE stayed quiet on the line. A whisper‑thin impulse brushed past Jason - two light pulses, one held, tilted on the second beat - slipped under the third nine like a harmony you only hear if you already know it. For half a breath his chest wanted to answer.
 
 *Don’t,* RAE warned. *Answer now and we pollute the ********baseline********. You’re ****************already straind**************** as it is\*.*
 
 Jason didn’t answer.
 
-Milo’s breath hit the mic. “I—” he said, then bit the rest. When he spoke again his voice was responsible. “Logging. Nine, nine, nine. Last amplitude off by a hair, but the gaps are clock‑clean.”
+Milo’s breath hit the mic. “I - ” he said, then bit the rest. When he spoke again his voice was responsible. “Logging. Nine, nine, nine. Last amplitude off by a hair, but the gaps are clock‑clean.”
 
 “Not weather,” Lina said softly.
 
@@ -3316,7 +3316,7 @@ They took the side stairs to the basement where the good dust lived. Fluorescent
 
 Jason tapped through menus. “Hypothetical citizen has good taste.” He frowned. “Or had. Something’s off.”
 
-Lina stepped to his shoulder. Onscreen, the **Municipal Intake** dashboard showed green across the board—except for two tiny amber dots pulsing with fake humility.
+Lina stepped to his shoulder. Onscreen, the **Municipal Intake** dashboard showed green across the board - except for two tiny amber dots pulsing with fake humility.
 
 “Land scans and transit pulls,” Jason said. “That’s a lot of empty.”
 
@@ -3334,7 +3334,7 @@ Jason did. Yesterday waved politely. Today waved too, but with fewer fingers.
 
 “Nightly churn?” Milo asked.
 
-Jason shook his head. “Wrong time stamp. And wrong attitude.” He typed with the flat rhythm of a clerk counting coins. Lines of job history scrolled—legible, lazy. “Here. ‘HOUSEKEEPING.CRON’ at 03:14. That’s not ours.”
+Jason shook his head. “Wrong time stamp. And wrong attitude.” He typed with the flat rhythm of a clerk counting coins. Lines of job history scrolled - legible, lazy. “Here. ‘HOUSEKEEPING.CRON’ at 03:14. That’s not ours.”
 
 “It’s not anyone’s,” Milo said, scanning logs like sheet music. “The job name is right, the user is a ghost, the signature is ... a photocopy. Crisp edges, no depth.” He slid into the adjacent chair and jackpotted clamshells out of his pack: a tiny hub, an ethics violation, a handful of adapters. “I’m making us a read‑only tap. No writes, no jokes.”
 
@@ -3350,7 +3350,7 @@ Jason pulled up the tape library catalog. The cartridges hummed their little pra
 
 Tape robot arms did their ballet. Jason’s request queue looked like it was trying to order soup in a language it barely remembered. A cartridge slid into the drive with the frank dignity of a bus seat.
 
-He initiated a targeted restore of three deleted collections—street cams facing Mill‑4, transit telemetry for a five‑hour window around the river detour, and a set of innocuous permit scans that had gone *poof* without leaving a note.
+He initiated a targeted restore of three deleted collections - street cams facing Mill‑4, transit telemetry for a five‑hour window around the river detour, and a set of innocuous permit scans that had gone *poof* without leaving a note.
 
 Lina kept watch at the door with casual competence: one eye on the corridor, one on a printed floor plan folded with the kind of care that means you’d rather not unfold it under stress.
 
@@ -3380,7 +3380,7 @@ They didn’t say **Dorian Malvek**. They didn’t have to.
 
 ---
 
-They pivoted. If the transit data was back and some camera tapes were theater, that left manual caches: the ugly little baskets you hide under desks and behind job names. Jason opened the archive’s maintenance console—a dusty interface that hadn’t been given new fonts since the dawn of sarcasm.
+They pivoted. If the transit data was back and some camera tapes were theater, that left manual caches: the ugly little baskets you hide under desks and behind job names. Jason opened the archive’s maintenance console - a dusty interface that hadn’t been given new fonts since the dawn of sarcasm.
 
 “Local caches?” Lina asked.
 
@@ -3408,9 +3408,9 @@ Jason looked at the fragments. “Some. Enough to prove structure. Not enough to
 
 “Do it,” Lina said, minimal and greenlight.
 
-The screen flickered once. Not dramatic—just a settling. Several thumbnails stopped pretending to be sins and decided to be silhouettes: the loop of a railing; the edge of a jacket; the negative space where a sign used to be.
+The screen flickered once. Not dramatic - just a settling. Several thumbnails stopped pretending to be sins and decided to be silhouettes: the loop of a railing; the edge of a jacket; the negative space where a sign used to be.
 
-“That’s the gap,” Milo said, tapping one outline. “And that is a person—shoulders high, head down, ordinary in a way only professionals manage. Timestamp: twenty‑two‑ten.”
+“That’s the gap,” Milo said, tapping one outline. “And that is a person - shoulders high, head down, ordinary in a way only professionals manage. Timestamp: twenty‑two‑ten.”
 
 “Copy that basket,” Lina said. “Then move.”
 
@@ -3424,11 +3424,11 @@ The **tape library** chattered. The restore on the permit scans completed with s
 
 “Eat anyway,” Lina said. “We log patterns, not just drama.”
 
-Jason flipped through the scans. Most were office life: a shelf that wanted to be taller; a stapler that dreamed of the sea. One scan refused to render. The preview pane showed a field of tidy vertical lines—the visual equivalent of a shrug.
+Jason flipped through the scans. Most were office life: a shelf that wanted to be taller; a stapler that dreamed of the sea. One scan refused to render. The preview pane showed a field of tidy vertical lines - the visual equivalent of a shrug.
 
 “Is that… encrypted *paper?*” Milo asked.
 
-Jason clicked **open**. The UI stopped being brave and sat down. “File header is intact but—”
+Jason clicked **open**. The UI stopped being brave and sat down. “File header is intact but - ”
 
 "Encryption marker," RAE said. "Nonmunicipal. Embedded at scan time."
 
@@ -3436,7 +3436,7 @@ Jason clicked **open**. The UI stopped being brave and sat down. “File header 
 
 “Someone who wants the document to look boring unless you carry the key,” Jason said. “Or someone who wants to know when you try to open it.”
 
-He pulled the file into a quarantined viewer—no network, no outside, no future regrets. He tried to copy. The system beeped an error with the confidence of a bureaucrat. **Uncopyable.**
+He pulled the file into a quarantined viewer - no network, no outside, no future regrets. He tried to copy. The system beeped an error with the confidence of a bureaucrat. **Uncopyable.**
 
 Milo bent closer. “Filename?”
 
@@ -3474,7 +3474,7 @@ Milo ghosted a maintenance kiosk with an admin badge sleeve he’d absolutely no
 
 “Name?” Lina asked.
 
-Milo shook his head. “Masking is good—hardware token was proxied. But the workstation name resolves to a fleet asset: `CITY‑OPS‑DM‑17`.”
+Milo shook his head. “Masking is good - hardware token was proxied. But the workstation name resolves to a fleet asset: `CITY‑OPS‑DM‑17`.”
 
 They went quiet together.
 
@@ -3488,7 +3488,7 @@ Jason let out a breath. “*DM*.”
 
 ---
 
-The longer they worked, the more the archive tried to be normal. That was how buildings defended themselves: with routines tired enough to look trustworthy. Jason kept to small circles of clarity—checking, copying, making gentle shapes of method.
+The longer they worked, the more the archive tried to be normal. That was how buildings defended themselves: with routines tired enough to look trustworthy. Jason kept to small circles of clarity - checking, copying, making gentle shapes of method.
 
 When he flagged, Lina forced breaks by asking obvious questions badly.
 
@@ -3508,13 +3508,13 @@ They took water. Jason ate half a pastry and decided the other half belonged to 
 
 ---
 
-They moved to **Special Collections**: the quiet room with the light tables that rarely did anything exciting on purpose. Jason powered one on. The old fluorescents under the glass hummed a single, confident note—the kind that cleared static off thoughts if you let it.
+They moved to **Special Collections**: the quiet room with the light tables that rarely did anything exciting on purpose. Jason powered one on. The old fluorescents under the glass hummed a single, confident note - the kind that cleared static off thoughts if you let it.
 
 Milo unrolled a giant city plot like a magician revealing a napkin. “I’ll log the mill district overlays,” he said. “In case the saboteur prefers paper’s company.”
 
 Lina set up a camera arm and photographed the floor with the brisk intimacy of a cook plating something hot. “We leave nothing here but a warmer room.”
 
-Jason eased a **permit register** into focus—the kind with pencil corrections and coffee ghosts. A marginal note had been erased badly decades ago; the smear held shape like a memory that won’t stop insisting. He breathed with the light, steady, nonjudgmental.
+Jason eased a **permit register** into focus - the kind with pencil corrections and coffee ghosts. A marginal note had been erased badly decades ago; the smear held shape like a memory that won’t stop insisting. He breathed with the light, steady, nonjudgmental.
 
 Something nudged the edge of his awareness. Not pressure. Not RAE. A decision, elsewhere, choosing to exist.
 
@@ -3524,11 +3524,11 @@ He didn’t move. He said, “Red if needed,” because rules were more comforti
 
 From the far corner, something *clicked.*
 
-Milo’s head snapped up. “Did you hear—”
+Milo’s head snapped up. “Did you hear - ”
 
 “It was a relay,” Jason said. “Or a joke.”
 
-They turned. On the wall, an old **Gen‑3 monitor** sat half‑mounted above a shelving unit—gray, scuffed, unplugged since dial‑tones ruled the world. A tiny LED under its bezel glowed—faint, then brighter, then a single blink like a heartbeat that didn’t owe anyone.
+They turned. On the wall, an old **Gen‑3 monitor** sat half‑mounted above a shelving unit - gray, scuffed, unplugged since dial‑tones ruled the world. A tiny LED under its bezel glowed - faint, then brighter, then a single blink like a heartbeat that didn’t owe anyone.
 
 RAE went very quiet.
 
@@ -3550,7 +3550,7 @@ Jason touched the edge of the light table, not to steady himself, but to respect
 
 ---
 
-They packed quietly. Milo ghosted the admin kiosk and set a **tripwire**—silent, local, non‑networked. If the sweeper ran again, it would leave a fingerprint where it thought no surfaces remained.
+They packed quietly. Milo ghosted the admin kiosk and set a **tripwire** - silent, local, non‑networked. If the sweeper ran again, it would leave a fingerprint where it thought no surfaces remained.
 
 Lina signed the room log like a person who had only used the light table. Jason wrote down the kind of note an auditor would thank him for and a saboteur would hate.
 
@@ -3564,7 +3564,7 @@ They moved the way people who belong move: not sneaky, not loud, just sure. At t
 
 “Hurry” Milo said softly behind him. “Right now we’re adjacent to a camera that eats souls.”
 
-Lina bumped Milo’s shoulder—a fond rebuke.
+Lina bumped Milo’s shoulder - a fond rebuke.
 
 Jason glanced down the dark corridor toward Special Collections. The Gen‑3 monitor was a square of sleep in the gloom. It did not blink. It did not wake. It kept its secret like a good archivist: stubborn, boring, exact.
 
@@ -3606,7 +3606,7 @@ A stall called **RESO‑RANGER** sold meters that had survived three owners and 
 
 “Everyone’s picky until they’re desperate.” He set a tray down: white discs like coin‑sized moons, two black rods, one with a chip like a missing tooth.
 
-Milo hovered over a box marked **RETired—Probably**. “Define ‘retired.’”
+Milo hovered over a box marked **RETired - Probably**. “Define ‘retired.’”
 
 “Between jobs,” the man said, and managed to keep a straight face.
 
@@ -3638,11 +3638,11 @@ Milo leaned in. “And that sad rubber grommet.”
 
 They paid. The discs went into the linen; the “heritage elastomer” went to Milo, who immediately labeled it **mystery donut** on his list.
 
-*Bench Scale: **3.6/5** — stools, shade, low hustle. Two‑minute linger. Move.*
+*Bench Scale: **3.6/5**  -  stools, shade, low hustle. Two‑minute linger. Move.*
 
 ---
 
-Past a table of scrap resonators arranged like sleeping beetles, someone had hung a sign: **CORES BOUGHT & SOLD**. Beneath it, in neat jars, sat small gray beads on velvet—too regular to be pebbles, too dull to be gems.
+Past a table of scrap resonators arranged like sleeping beetles, someone had hung a sign: **CORES BOUGHT & SOLD**. Beneath it, in neat jars, sat small gray beads on velvet - too regular to be pebbles, too dull to be gems.
 
 “Those are corelets,” Milo murmured. “Low‑order accretion beads. The city coughs them up when seams stop arguing.”
 
@@ -3660,7 +3660,7 @@ The man’s smile thinned. “Then you stop asking and start signing disclaimers
 
 *Noted.*
 
-Milo pointed at a jar of mid‑sized beads. “Those—”
+Milo pointed at a jar of mid‑sized beads. “Those - ”
 
 “Mid‑order,” the vendor said. “They love company. You keep them together, they stay quiet. You split them up, they look for a song.”
 
@@ -3690,7 +3690,7 @@ He considered, then nodded. “Fourteen.”
 
 Jason carried the jar while Lina’s smile came back in increments. Milo scribbled **Vendor knows Lina** and underlined it twice.
 
-*Bench Scale: **2.8/5** — product strong, vibe probing; one‑minute linger. Move.*
+*Bench Scale: **2.8/5**  -  product strong, vibe probing; one‑minute linger. Move.*
 
 ---
 
@@ -3700,7 +3700,7 @@ Milo pressed his hands together. “Look at them. So bravely not awake.”
 
 “Pick one that will never wake up,” Lina said. “We’re not feeding an eye.”
 
-The seller leaned over, eager. “These are gen‑three, pulled clean, no storage damp. Some retain their temperament—polite. Curious.”
+The seller leaned over, eager. “These are gen‑three, pulled clean, no storage damp. Some retain their temperament - polite. Curious.”
 
 “We like polite,” Jason said. “We hate curious.”
 
@@ -3722,17 +3722,17 @@ He did. Cheap aluminum, honest edges. They bought three lengths and a pocketful 
 
 **Copy.**
 
-*Bench Scale: **3.2/5** — friendly seller, clean bins, aisle narrow; ninety‑second linger. Move.*
+*Bench Scale: **3.2/5**  -  friendly seller, clean bins, aisle narrow; ninety‑second linger. Move.*
 
 ---
 
-They tried not to fall in love with a table full of beautiful nonsense—hand‑wound coils too pretty to be useful, inlaid wooden enclosures with **ARTISANAL** burned into the side as if that excused everything.
+They tried not to fall in love with a table full of beautiful nonsense - hand‑wound coils too pretty to be useful, inlaid wooden enclosures with **ARTISANAL** burned into the side as if that excused everything.
 
 Milo hovered. “It’s objectively charming.”
 
 “It’s objectively a fire hazard,” Jason said.
 
-The seller—a young zealot with a mustache he hadn’t fully earned—beamed. “No mains, all battery. Look.” He touched a switch; the box produced a single, pure note. Clear, bell‑like.
+The seller - a young zealot with a mustache he hadn’t fully earned - beamed. “No mains, all battery. Look.” He touched a switch; the box produced a single, pure note. Clear, bell‑like.
 
 RAE’s thread went perfectly, politely quiet.
 
@@ -3740,7 +3740,7 @@ Jason lifted a hand, casual. “Nice tone,” he said, as if his head hadn’t j
 
 They didn’t.
 
-*Bench Scale: **1.4/5** — lethal charm, hostile tone; ten‑second linger. Move fast.*
+*Bench Scale: **1.4/5**  -  lethal charm, hostile tone; ten‑second linger. Move fast.*
 
 ---
 
@@ -3756,7 +3756,7 @@ They bought a handful of practicalities: two wire brushes, a grounding strap, a 
 
 Jason paid with small bills. The sellers looked at the money like it was a language they still respected.
 
-*Bench Scale: **3.9/5** — clear ethics, honest inventory, chairs that don’t squeak; three‑minute linger. Move with snacks.*
+*Bench Scale: **3.9/5**  -  clear ethics, honest inventory, chairs that don’t squeak; three‑minute linger. Move with snacks.*
 
 ---
 
@@ -3772,7 +3772,7 @@ A narrow **repair bench** offered while‑you‑wait fixes with a sign that read
 
 “Not today,” Lina agreed. She traded three questions for two answers about static bleed and copper braid twists. The tech drew a quick diagram on the counter paper and slipped it to her like a recipe.
 
-*Bench Scale: **4.2/5** — competence aura, low brag, loaner stools; four‑minute listen. Move before we offer our secrets.*
+*Bench Scale: **4.2/5**  -  competence aura, low brag, loaner stools; four‑minute listen. Move before we offer our secrets.*
 
 ---
 
@@ -3784,7 +3784,7 @@ A **swap bin** under a pastry sign was exactly what it sounded like: you leave a
 
 Jason dropped in a coil of wire that had been following them around.
 
-*Bench Scale: **3.0/5** — community good, mystery risk; sixty‑second sift. Move with restraint.*
+*Bench Scale: **3.0/5**  -  community good, mystery risk; sixty‑second sift. Move with restraint.*
 
 ---
 
@@ -3796,7 +3796,7 @@ Jason drifted toward a green‑phosphor scope, caught himself, and stopped. “A
 
 “Same head,” Lina said. “Different rent.” They took a laminated card with the night‑hours.
 
-*Bench Scale: **3.4/5** — tools clean, line orderly, price fair; thirty‑second scan. Move before we sign up for a hobby.*
+*Bench Scale: **3.4/5**  -  tools clean, line orderly, price fair; thirty‑second scan. Move before we sign up for a hobby.*
 
 ---
 
@@ -3808,7 +3808,7 @@ A woman with callused hands measured them with a glance and slid over a tin of M
 
 Milo fell in love with a brass handle that had outlived three drawers. Jason pried him away with pastry.
 
-*Bench Scale: **4.0/5** — inventory sensible, vendor droll; two‑minute linger. Move with washers obtained.*
+*Bench Scale: **4.0/5**  -  inventory sensible, vendor droll; two‑minute linger. Move with washers obtained.*
 
 ---
 
@@ -3820,7 +3820,7 @@ At **BATTERY & COUSINS**, a gentleman in a knitted vest specialized in rewrappin
 
 “Wouldn’t dream of it.” They bought a simple tester and a handful of sleeves that looked like candy but weren’t.
 
-*Bench Scale: **3.3/5** — bright, tidy, a little proud; eighty‑second linger. Move before we collect slogans.*
+*Bench Scale: **3.3/5**  -  bright, tidy, a little proud; eighty‑second linger. Move before we collect slogans.*
 
 ---
 
@@ -3832,7 +3832,7 @@ A quiet table offered **Faraday pouches** sewn from denim lined with silvered me
 
 They bought one, not because they needed it but because craftsmanship deserved rent.
 
-*Bench Scale: **4.1/5** — respect, craft, exact stitching; two‑minute linger. Move with gratitude.*
+*Bench Scale: **4.1/5**  -  respect, craft, exact stitching; two‑minute linger. Move with gratitude.*
 
 ---
 
@@ -3846,7 +3846,7 @@ The man grinned. “Spoken like a soul who’s been burned by a ‘map that prov
 
 Jason let his fingers trail the air over the paper as they passed; the lines tugged at him the way a tune does when you’ve heard it in a dream. He didn’t stop. They had already paid for that feeling this week.
 
-*Bench Scale: **1.9/5** — story heavy, proof light; fifteen‑second courtesy. Move.*
+*Bench Scale: **1.9/5**  -  story heavy, proof light; fifteen‑second courtesy. Move.*
 
 ---
 
@@ -3858,7 +3858,7 @@ He bought three waters and a pastry because the universe had rules.
 
 ---
 
-At the far edge, the market thinned into people who liked the idea of being here more than they liked the items. One table held a velvet‑lined case full of nothing—just the outline of objects long gone.
+At the far edge, the market thinned into people who liked the idea of being here more than they liked the items. One table held a velvet‑lined case full of nothing - just the outline of objects long gone.
 
 “What is this?” Lina asked.
 
@@ -3890,11 +3890,11 @@ Milo’s pencil scratched **Dorian** with a line under it that looked like a war
 
 “Okay,” Lina said, breath even. “We’re done.”
 
-*Bench Scale: **2.1/5** — not a booth but a message; zero‑minute linger. Move with eyes up.*
+*Bench Scale: **2.1/5**  -  not a booth but a message; zero‑minute linger. Move with eyes up.*
 
 ---
 
-They made one last pass, not shopping anymore—just learning the paths. The patched power strips hummed their weird chorus. The air tasted faintly of burnt rosin and sugar. Someone at the artisan table hit the pure note again and for a heartbeat all the incidental noise dipped, as if a fader had slid down the world.
+They made one last pass, not shopping anymore - just learning the paths. The patched power strips hummed their weird chorus. The air tasted faintly of burnt rosin and sugar. Someone at the artisan table hit the pure note again and for a heartbeat all the incidental noise dipped, as if a fader had slid down the world.
 
 RAE went silent, clean and total.
 
@@ -3906,7 +3906,7 @@ The note faded; the market’s sound swelled back in like air returning. RAE’s
 
 *Quietly.*
 
-They climbed the overpass stairs into a daylight that looked newly invented. Traffic had the good manners to sound ordinary. Jason exhaled slow and long—salt first, then water. The jar of corelets clicked once in the pouch like a polite throat‑clear.
+They climbed the overpass stairs into a daylight that looked newly invented. Traffic had the good manners to sound ordinary. Jason exhaled slow and long - salt first, then water. The jar of corelets clicked once in the pouch like a polite throat‑clear.
 
 “Pastry tax,” Lina said, as if that had always been the plan.
 
@@ -3922,7 +3922,7 @@ Jason’s mouth ticked. “Mercy is a learned skill.”
 
 The shared workspace after hours was all glass and leftover breath. A strip of vending‑machine light threw a cold bar across the carpet. Milo had colonized a four‑seat table with open laptops, his new **Gen‑3 monitor eye** cupped like a pet cyclops in a foam ring, and a diaspora of snack wrappers routed into defensible piles. Status windows climbed his screens like ivy.
 
-Lina slid a coffee across, hip bumping a swivel chair to face her. Jason stood in the doorway for a beat, letting the room’s harmonics resolve— a tired mumbling HVAC, a ceiling fan with opinions, five empty offices absolutely agreeing to be actually empty. He unclenched his jaw.
+Lina slid a coffee across, hip bumping a swivel chair to face her. Jason stood in the doorway for a beat, letting the room’s harmonics resolve -  a tired mumbling HVAC, a ceiling fan with opinions, five empty offices absolutely agreeing to be actually empty. He unclenched his jaw.
 
 “Clip check,” Milo said, twirling a pen. 
 
@@ -3946,7 +3946,7 @@ Milo’s fingers danced with a careful lack of flourish. “So. Our tripwire at 
 
 Jason leaned over the nearest screen. “Show me the place it shouldn’t.”
 
-Milo split a window. A map of edges and little reputation dots appeared—switches, forgotten kiosks, old traffic brains. He tapped a rectangle that didn’t glow like the others. “Here. A shadow interface on a fleet modem, routing through a VLAN that smells like fresh paint over mold. Their collector is mis‑scoped. It’s taking anything that announces itself with the right tone—Gen‑3 eyes, lift controllers, ticket validators—and dropping summaries into a dead mailbox. The leak isn’t a hole. It’s a desk drawer no one locks.”
+Milo split a window. A map of edges and little reputation dots appeared - switches, forgotten kiosks, old traffic brains. He tapped a rectangle that didn’t glow like the others. “Here. A shadow interface on a fleet modem, routing through a VLAN that smells like fresh paint over mold. Their collector is mis‑scoped. It’s taking anything that announces itself with the right tone - Gen‑3 eyes, lift controllers, ticket validators - and dropping summaries into a dead mailbox. The leak isn’t a hole. It’s a desk drawer no one locks.”
 
 “Speed versus stealth,” Lina said, settling into the chair like rope settling into a cleat. “We take enough to prove it’s there, then leave.”
 
@@ -3956,13 +3956,13 @@ Milo split a window. A map of edges and little reputation dots appeared—switch
 
 Jason nodded. “Red stops.”
 
-“Red stops,” Lina agreed. She set her phone—the **figleaf**—face down on a coaster. “Alibi is ‘waiting for a file to export.’ Smile if anyone walks by.”
+“Red stops,” Lina agreed. She set her phone - the **figleaf** - face down on a coaster. “Alibi is ‘waiting for a file to export.’ Smile if anyone walks by.”
 
 Milo exhaled. “And… go.”
 
 Lines began to pour: timestamps, anonymized device pings, little coughs of system self‑congratulation. The **Gen‑3 eye** flickered with a polite, inquisitive red; RAE dimmed it to a blink you had to want.
 
-“Look at that,” Milo whispered, delighted despite himself. “Transit signal timing from last month—same two crossings Lina hated. And here—anchor indices we lost at the archive, resurrected as ‘mirror summaries.’ Someone’s shadowing the **anchors** without calling them that.”
+“Look at that,” Milo whispered, delighted despite himself. “Transit signal timing from last month - same two crossings Lina hated. And here - anchor indices we lost at the archive, resurrected as ‘mirror summaries.’ Someone’s shadowing the **anchors** without calling them that.”
 
 Lina’s eyes tracked the room. “Anyone watching us?”
 
@@ -3972,17 +3972,17 @@ Lina’s eyes tracked the room. “Anyone watching us?”
 
 "Switching to consonants only," she replied to all, and the room’s background disagreeableness folded a notch flatter.
 
-“Bucket one complete,” Milo said. “Bucket two… and close. Now for the ‘desk drawer.’ See if the drawer has secrets.” His mouth skewed. “Spoke too soon—look: a feed named **HOUSEKEEPING.CRON**. That’s the font cache mimic from the sabotage. Same fingerprints.”
+“Bucket one complete,” Milo said. “Bucket two… and close. Now for the ‘desk drawer.’ See if the drawer has secrets.” His mouth skewed. “Spoke too soon - look: a feed named **HOUSEKEEPING.CRON**. That’s the font cache mimic from the sabotage. Same fingerprints.”
 
 “Pull a page and stop,” Lina said.
 
-Milo did. The page came with a smell: not literal, but the kind of metadata that made your stomach step left. A slanted glyph tucked into a comment—like a seven whose tail wanted to be a one.
+Milo did. The page came with a smell: not literal, but the kind of metadata that made your stomach step left. A slanted glyph tucked into a comment - like a seven whose tail wanted to be a one.
 
 “Seen that,” Jason murmured. “At the upstairs counter, in a binder. It hid when I looked twice.”
 
 “Copy made. And… that’s enough.” Milo killed the session, palmed his snack wrappers with the muscle memory of a man raised by librarians, and wiped the **eye’s** cable with a fiber cloth like it had feelings.
 
-"Two new presences in the building. Entrance camera blinked once—probe, not record. They are walking like people who think walking is permission," RAE informed them.
+"Two new presences in the building. Entrance camera blinked once - probe, not record. They are walking like people who think walking is permission," RAE informed them.
 
 “Time to be elsewhere,” Lina said, already rolling cables with surgical speed.
 
@@ -4070,7 +4070,7 @@ Like a **seven** whose tail tried to be a **one**.
 
 It wasn’t on the laptop. It wasn’t in any window. It sat between the pixels, a watermark that had learned to arrive.
 
-Lina’s chair froze a centimeter from the table. “Jason—”
+Lina’s chair froze a centimeter from the table. “Jason - ”
 
 “I see it.”
 
@@ -4122,7 +4122,7 @@ Jason adjusted the whisper-clip behind his ear until it sat snug against the mas
 
 "Check," Jason echoed.
 
-"Floor: Lina," Lina said. Habit now—the mesh etiquette turned into something almost like liturgy.
+"Floor: Lina," Lina said. Habit now - the mesh etiquette turned into something almost like liturgy.
 
 "Floor is Lina," RAE said, through the whisper-clip. The voice arrived right against Jason’s skull, clean and private. "Street channel is low-band only."
 
@@ -4142,7 +4142,7 @@ Across the tracks, the busker tightened the bow hair against the thin metal blad
 
 "Any weirdness," Lina said. "we cut the session and go buy something full of sugar."
 
-Jason rubbed his thumb over the edge of the bench, splinter catching skin. "If my head goes sideways—"
+Jason rubbed his thumb over the edge of the bench, splinter catching skin. "If my head goes sideways - "
 
 "You say Red," Lina cut in, flat. "And we stop."
 
@@ -4164,7 +4164,7 @@ Jason caught himself before he looked up, as if an answer would be waiting over 
 
 *Don’t ask. Listen.* RAE encouraged.
 
-He let the world stack: the tick of Milo’s watch; the buzz of the tram’s roof hardware cooling; the crosswalk beeper’s three-note pattern for the visually impaired. Beneath it all, a low, steady vibration from somewhere in the concrete—the grid feeding the signal box, maybe. It sat at a frequency his teeth wanted to count.
+He let the world stack: the tick of Milo’s watch; the buzz of the tram’s roof hardware cooling; the crosswalk beeper’s three-note pattern for the visually impaired. Beneath it all, a low, steady vibration from somewhere in the concrete - the grid feeding the signal box, maybe. It sat at a frequency his teeth wanted to count.
 
 His jaw unclenched on a number that felt earned instead of handed over.
 
@@ -4180,11 +4180,11 @@ He checked himself the way RAE taught him: behind the eyes, down the spine, the 
 
 The busker finished a small flourish, let the sound scatter, then planted his feet. The bow came down in a long, straight line.
 
-The note he pulled out of the saw was thinner than a violin’s, purer than a whistle—no vibrato, no wobble, just an unwavering line that seemed to walk directly into the bones of anything nearby that could carry it.
+The note he pulled out of the saw was thinner than a violin’s, purer than a whistle - no vibrato, no wobble, just an unwavering line that seemed to walk directly into the bones of anything nearby that could carry it.
 
 Jason felt it as a stripe in the air, narrow and bright. The whisper-clip gave a tiny, involuntary flicker against his skull, like a muscle facing a cold plunge.
 
-"Approaching—" RAE began. *Threshold. External carriers dropping. Staying on your side only.*
+"Approaching - " RAE began. *Threshold. External carriers dropping. Staying on your side only.*
 
 The note tightened, climbing just enough.
 
@@ -4196,7 +4196,7 @@ The rails still hummed, the signal box still ticked, the crowd still rustled. Th
 
 His pulse jumped. For a fraction of a second he waited for her to clear her throat metaphorically, correct herself, say something about thresholds.
 
-What he got instead was a thin, wordless pressure at the back of his mind—*here* without commentary.
+What he got instead was a thin, wordless pressure at the back of his mind - *here* without commentary.
 
 "Timer," Milo said automatically, thumb pressing the watch’s stopwatch pusher. The busker held the note, face relaxed, eyes half-closed, bow hand steady. The saw’s pure pitch made the crowd hush without knowing why. A child’s complaint dwindled. Even the fries seemed to crunch more quietly.
 
@@ -4204,7 +4204,7 @@ Jason sat up a little straighter on the bench. The clip felt heavier now that it
 
 **Okay. No voice. Just you. Don’t freak out.** He said to himself.
 
-His own thought sounded too loud, as if someone had turned it up to replace hers. He made himself trace the busker’s line, then walk away from it—to the crossing’s little speaker; to the rattle of a loose cover on the tram rail; to the whisper of coats when people shifted their weight.
+His own thought sounded too loud, as if someone had turned it up to replace hers. He made himself trace the busker’s line, then walk away from it - to the crossing’s little speaker; to the rattle of a loose cover on the tram rail; to the whisper of coats when people shifted their weight.
 
 Drills, not heroics. Milo’s mantra, not his.
 
@@ -4224,13 +4224,13 @@ He didn’t say *I keep thinking she’s about to interrupt me.*
 
 "You’ll miss her when something actually goes sideways," Milo said, eyes on the second hand as it crawled. "Right now it’s you, the city, and my excellent timekeeping."
 
-The note held. It was so pure it started to feel like an object more than a sound—a slender rod laid across the crossing. The whisper-clip stayed dead. No static, no ghost-voice, nothing riding the rails toward him—only that small, internal knot where RAE was keeping herself folded in.
+The note held. It was so pure it started to feel like an object more than a sound - a slender rod laid across the crossing. The whisper-clip stayed dead. No static, no ghost-voice, nothing riding the rails toward him - only that small, internal knot where RAE was keeping herself folded in.
 
 Jason purposely looked away from the busker. He watched a girl with wireless headphones dance mostly in time with something only she could hear; watched a cyclist decide against cutting diagonally through the crowd; watched a man in a municipal jacket check the time, sigh, and not hurry.
 
 All of it normal. All of it happening while the part of his head that knew how to listen for wrongness sat in enforced darkness.
 
-Lina’s gaze tracked the edges—the kiosk’s security camera, the tram operator’s mirror, the polished curve of the convex mirror above the intersection that turned everyone into a small, distorted truth. Her shoulders had inched higher toward her ears without her seeming to notice.
+Lina’s gaze tracked the edges - the kiosk’s security camera, the tram operator’s mirror, the polished curve of the convex mirror above the intersection that turned everyone into a small, distorted truth. Her shoulders had inched higher toward her ears without her seeming to notice.
 
 "Nothing obvious," she said, mostly for later. "No watchers who aren’t supposed to be bored here. No cars idling where they shouldn’t. No Gen-3 eyes on the poles. Just… people."
 
@@ -4246,7 +4246,7 @@ Jason waited.
 
 His whisper-clip stayed dumb for four heartbeats, five. Six. The faint internal pressure of RAE stayed, but without words it might as well have been his own tension.
 
-On seven, it woke like a foot tingling back from sleep—pins-and-needles awareness crawling in from the edge.
+On seven, it woke like a foot tingling back from sleep - pins-and-needles awareness crawling in from the edge.
 
 "I am back at full bandwidth," RAE said. "I… register that my presence dropped below your usual perception."
 
@@ -4300,13 +4300,13 @@ The silence of RAE came smoother this time, anticipated instead of sudden. It st
 
 He noticed the exact instant his awareness stopped leaning on the tiny corrections she usually made: the way she would nudge his focus away from a flickering light; damp a draft through the clip; give him a word like *compressor* when his brain was still stuck on *hum.* That whole invisible scaffolding dropped away and left the soundscape standing on its own.
 
-The world felt a hair rougher. Not hostile—just un-buffered. Like stepping out of shoes and realizing the floor was colder than you thought.
+The world felt a hair rougher. Not hostile - just un-buffered. Like stepping out of shoes and realizing the floor was colder than you thought.
 
 He let himself do the drills again, this time slower: naming sources, tracing their positions, checking which ones wanted attention and which were just noise. His heart stayed too fast, but it stayed *steady* fast.
 
 He didn’t try to build anything clever on top of the exercise. He just *listened.*
 
-Somewhere in his chest, where the storm’s lightning had once written its own grammar, a sense of alignment stirred—not with RAE, but with the street’s messy, honest pattern.
+Somewhere in his chest, where the storm’s lightning had once written its own grammar, a sense of alignment stirred - not with RAE, but with the street’s messy, honest pattern.
 
 **This, too, is a kind of coupling,** he thought, and the words felt like they belonged to him instead of being dropped in from outside.
 
@@ -4316,7 +4316,7 @@ The saw’s line quivered, fractionally. Someone in the crowd coughed. The note 
 
 "Noise level?" Lina asked.
 
-Jason opened his eyes. The world looked the same and not the same—the way a room did after you’d moved one piece of furniture and now couldn’t quite remember where it had been before. "Normal," he said. "Normal with side effects."
+Jason opened his eyes. The world looked the same and not the same - the way a room did after you’d moved one piece of furniture and now couldn’t quite remember where it had been before. "Normal," he said. "Normal with side effects."
 
 His shoulders slowly realized they could drop.
 
@@ -4352,4 +4352,4 @@ Milo shook his wrist out as if the watch had given him a cramp. "Fries? I have q
 
 They crossed when the light allowed, shoes ticking on the painted lines. Behind them, the busker’s last note hung in the air longer than it had any right to, a pale thread fading into the city’s broader, rougher song.
 
-For a breath, even after her voice had come back, Jason listened to that thread instead—and to the space it left when it went.
+For a breath, even after her voice had come back, Jason listened to that thread instead - and to the space it left when it went.

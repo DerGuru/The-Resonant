@@ -1,6 +1,6 @@
 ﻿## Field Test
 
-The junction didn’t look like a secret. It looked like municipal honesty: a curb that had seen winters, a storm grate that had opinions, paint that was still doing its job despite indifference. If you squinted, the street told you exactly what it was—until you asked it to repeat itself.
+The junction didn’t look like a secret. It looked like municipal honesty: a curb that had seen winters, a storm grate that had opinions, paint that was still doing its job despite indifference. If you squinted, the street told you exactly what it was - until you asked it to repeat itself.
 
 Jason unfolded the paper map and laid it along the curb line, the crease riding exactly where the public path was meant to join the service lane. Lina stood a little off, hands in pockets, the better to look like a civilian who found corners interesting. Milo adjusted his clipboard and became an official in the most harmless possible sense: the clipboard kind.
 
@@ -41,7 +41,7 @@ Milo flipped his clipboard around so the heading was visible even to nosy pigeon
 
 They drifted closer to the seam where old stones met new bolts. The service alley to their left exhaled a steady HVAC breath: fans, belts, a compressor that had chosen persistence over dignity.
 
-Milo angled the clipboard. “We’ve got a sink here—look.” He tapped the spot where rain always chose to remember itself. “When it floods, it probably curls weird around the grate.”
+Milo angled the clipboard. “We’ve got a sink here - look.” He tapped the spot where rain always chose to remember itself. “When it floods, it probably curls weird around the grate.”
 
 Jason knelt, eyes tracing the faint scallop in the asphalt, the way water remembers routes long after the city forgets them. He eased the map edge to meet the curb, as if aligning two halves of a torn photo.
 
@@ -63,9 +63,9 @@ Jason’s hand hovered over the curb seam, not touching. He didn’t push. He su
 
 *Now.*
 
-He let his weight settle through his heels, jaw un‑clenched, breath dropping to the place RAE had taught him to find—two fingers lower than worry. The world sharpened a fraction and then softened at the edges, like turning a camera ring past focus and back again.
+He let his weight settle through his heels, jaw un‑clenched, breath dropping to the place RAE had taught him to find - two fingers lower than worry. The world sharpened a fraction and then softened at the edges, like turning a camera ring past focus and back again.
 
-*Drop the right shoulder one degree. Unhook your tongue from the roof of your mouth. Don’t stare—glance and listen.*
+*Drop the right shoulder one degree. Unhook your tongue from the roof of your mouth. Don’t stare - glance and listen.*
 
 **Listening.**
 
@@ -73,8 +73,8 @@ He built nothing and asked for less: a quarter‑second of agreement between unl
 
 “Eyes on civilians,” Milo said softly, because a jogger had appeared as if conjured by admonitions about not being seen.
 
-Jason counted the old way—Lina’s way—quiet and steady. “Three… two… one.”
-He set the shape like a forearm leaned briefly against a stuck drawer, then let go even before the full count finished—early by a breath, but clean. The grate thrummed a hair low, the map edge fluttered like a held breath, and the puddle that wasn’t there yet decided where it would be when it arrived.
+Jason counted the old way - Lina’s way - quiet and steady. “Three… two… one.”
+He set the shape like a forearm leaned briefly against a stuck drawer, then let go even before the full count finished - early by a breath, but clean. The grate thrummed a hair low, the map edge fluttered like a held breath, and the puddle that wasn’t there yet decided where it would be when it arrived.
 
 ```
 [harmonic micro‑log (0.00–0.25 s)]
@@ -130,8 +130,8 @@ carrier: proprioceptive (Jason); channel: internal; gate: low‑band open
 
 He didn’t realize he’d been bracing until his ribs forgot the habit. The ache stayed where it belonged, a muted, manageable shadow at the back of his skull.
 
-A ping, felt more than heard. Not metal on metal—more like a string that lived inside the curb had been plucked and remembered it was an instrument.
-Something clicked free near the storm grate—so small it might have been nothing. It rolled once, twice, and came to rest by the bolt head as if it had planned the path.
+A ping, felt more than heard. Not metal on metal - more like a string that lived inside the curb had been plucked and remembered it was an instrument.
+Something clicked free near the storm grate - so small it might have been nothing. It rolled once, twice, and came to rest by the bolt head as if it had planned the path.
 
 Milo was already crouched, an entire museum’s worth of curiosity behind his eyes. “Union rules,” he murmured without looking up. “Curbs get a break every twenty years.” He covered the motion with a mutter about “broken washers” and palmed the thing with the neatness of a stage magician.
 
@@ -163,13 +163,13 @@ Milo produced his treasure and set it on the clipboard between a grid of meaning
 
 “What do you mean by **corelet**?” Jason said, keeping his voice comfortably boring.
 
-“Little core,” Milo said, pleased with the coinage. “Not a made part—an accretion bead. Long‑term field tension layers stuff around grit or mismatch, like a pearl. No signature, no address. Good baseline sample.”
+“Little core,” Milo said, pleased with the coinage. “Not a made part - an accretion bead. Long‑term field tension layers stuff around grit or mismatch, like a pearl. No signature, no address. Good baseline sample.”
 
 “Details,” Lina said.
 
 “Low‑order, I’d bet,” Milo added, “the kind that falls out when a seam quits arguing.”
 
-“More precise,” RAE said, riding the compressor’s rattle. “A corelet is a low‑order harmonic accretion: thin concentric layers deposited where a field has held a long bias at a mismatch. It stores that bias but carries no independent signature. When the seam relaxes, the accretion decouples. In proximity to a strong, stable pattern—e.g., Jason—it may attempt to couple transiently. That presents as warmth.”
+“More precise,” RAE said, riding the compressor’s rattle. “A corelet is a low‑order harmonic accretion: thin concentric layers deposited where a field has held a long bias at a mismatch. It stores that bias but carries no independent signature. When the seam relaxes, the accretion decouples. In proximity to a strong, stable pattern - e.g., Jason - it may attempt to couple transiently. That presents as warmth.”
 
 “Use?” Lina asked.
 
@@ -179,7 +179,7 @@ Lina squinted. “Is it safe to pocket?”
 
 **Is it going to sing at the worst time?**
 
-“It will prefer quiet,” RAE said. “No signatures, no labels. If it warms in your hand, it is attempting a harmless coupling—hand it to Jason or place it on grounded metal. If it ticks, it is shedding trapped phase; put it down and step away. Handling: avoid pressure, avoid magnets and strong speakers, keep it in the zip bag with a scrap of paper as a buffer. It is safe at room temperature and boring unless provoked.”
+“It will prefer quiet,” RAE said. “No signatures, no labels. If it warms in your hand, it is attempting a harmless coupling - hand it to Jason or place it on grounded metal. If it ticks, it is shedding trapped phase; put it down and step away. Handling: avoid pressure, avoid magnets and strong speakers, keep it in the zip bag with a scrap of paper as a buffer. It is safe at room temperature and boring unless provoked.”
 
 Milo rolled it against the paper. It left no mark. “Finding fee is one pastry later,” he said, solemn.
 
@@ -195,7 +195,7 @@ Jason leaned on the alley rail because it was the kind of honest metal that didn
 
 "RAE", Jason asked, "What did we actually do?"
 
-"You tuned the seam. The asphalt–stone interface carried a long‑bias dissonance with a phase offset of about +18° from poor repairs. I shaped a courtesy counterphase around your breath— high Quality, minimal Firmness —aligned to the ambient baseline of 91 Hz. For 250 milliseconds the local field returned to consonance; the stored bias unwound adiabatically, which caused a low‑order accretion to decouple and roll. We left no imprint, formed no node, and restored only the baseline that already belonged to this place."
+"You tuned the seam. The asphalt–stone interface carried a long‑bias dissonance with a phase offset of about +18° from poor repairs. I shaped a courtesy counterphase around your breath -  high Quality, minimal Firmness  - aligned to the ambient baseline of 91 Hz. For 250 milliseconds the local field returned to consonance; the stored bias unwound adiabatically, which caused a low‑order accretion to decouple and roll. We left no imprint, formed no node, and restored only the baseline that already belonged to this place."
 
 “Translation,” Milo said, already fishing out a pencil. “He un‑tensed the curb really fast and made the city cough up a bead.”
 
@@ -227,17 +227,17 @@ They made the move like poets pretending to be accountants. Ten meters east, the
 
 **Gently. Jason confirmed.**
 
-Jason offered the same agreement as before—but lighter, like the echo of a nod instead of the nod. A vibration ran along the map’s paper grain. The storm grate gave the emotional equivalent of a shrug.
+Jason offered the same agreement as before - but lighter, like the echo of a nod instead of the nod. A vibration ran along the map’s paper grain. The storm grate gave the emotional equivalent of a shrug.
 
 Nothing popped this time. Good. The city didn’t always need to cough.
 
-What did happen was smaller and stranger: the painted arrow on the detour sign two meters away seemed—for a quarter second—to consider pointing somewhere else.
+What did happen was smaller and stranger: the painted arrow on the detour sign two meters away seemed - for a quarter second - to consider pointing somewhere else.
 
 He blinked, and it was pointing where it had always pointed.
 
-“Did you—” Jason began.
+“Did you - ” Jason began.
 
-“—see a thing?” Milo finished. “I saw a thing.”
+“ - see a thing?” Milo finished. “I saw a thing.”
 
 Lina’s mouth had gone thin. “No tick in your hands? Any heat?”
 
@@ -263,7 +263,7 @@ On that blank, the faintest impression of an absent line gleamed like a watermar
 
 Jason put his palm on the paper to tame it. The impression vanished.
 
-**Did you see—**
+**Did you see - **
 
 *Yes.*
 
@@ -275,7 +275,7 @@ The door chimed. Their number lit. The day made room for them.
 
 They went inside like the kind of people who were about to buy two pastries and argue about lamination and never, ever un-tense a curb.
 
-The dome camera above the exit pulsed once—single red, not the steady heartbeat of record. Nobody looked up. Milo kept talking. Jason only saw the lens track a hair to the left and then give up, as if an idea had failed to form.
+The dome camera above the exit pulsed once - single red, not the steady heartbeat of record. Nobody looked up. Milo kept talking. Jason only saw the lens track a hair to the left and then give up, as if an idea had failed to form.
 
 **That flash wasn’t a keep-alive.**
 

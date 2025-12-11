@@ -2,7 +2,7 @@
 
 The week of preparation was intense in ways Jason hadn't anticipated.
 
-They didn't just train physically—though there was plenty of that. Lina put Jason through defensive drills until his head pounded Orange and RAE forced him to stop. They practiced emergency protocols: what to do if separation occurred, if communication failed, if someone was compromised.
+They didn't just train physically - though there was plenty of that. Lina put Jason through defensive drills until his head pounded Orange and RAE forced him to stop. They practiced emergency protocols: what to do if separation occurred, if communication failed, if someone was compromised.
 
 But the hardest part was the briefing with Malvek.
 
@@ -10,7 +10,7 @@ He arrived at the warehouse unannounced, as was his way, accompanied by two anal
 
 "I've reviewed Dr. Tanaka's reports," Malvek said without preamble. "All forty years of documentation on Kage-Kōzō. The entity is every bit as dangerous as she claims. Probably more."
 
-He activated a hologram—not the pattern itself, but incident reports. Video footage from the 1970s, grainy and terrible. An operator screaming as his harmonic field collapsed inward. Another frozen mid-step, her resonance pattern eating itself in real-time.
+He activated a hologram - not the pattern itself, but incident reports. Video footage from the 1970s, grainy and terrible. An operator screaming as his harmonic field collapsed inward. Another frozen mid-step, her resonance pattern eating itself in real-time.
 
 "These aren't theoretical risks," Malvek continued. "This thing was designed by Japan's military research division during their darkest period of harmonic weapons development. It has one purpose: destabilize and destroy resonant humans. And it does that job perfectly."
 
@@ -18,7 +18,7 @@ Lina's face had gone pale. Jason felt his stomach tighten.
 
 "Can we actually stop it?" Jason asked.
 
-"Yes. But not through reformation. You'll need to forcibly collapse its core pattern. RAE can help—she has the theoretical knowledge. But this isn't containment. This is combat. Against something built specifically to kill people like you."
+"Yes. But not through reformation. You'll need to forcibly collapse its core pattern. RAE can help - she has the theoretical knowledge. But this isn't containment. This is combat. Against something built specifically to kill people like you."
 
 The word hung in the air: combat.
 
@@ -36,7 +36,7 @@ RAE spoke through Jason's clip, her voice unusually formal. "Director Malvek is 
 
 "No," Malvek corrected. "You're being sent to assist Dr. Tanaka's team, which includes Japan's best operators. They'll handle primary engagement. Your role is support and strategic insight. But you need to be prepared for worst-case scenarios."
 
-He pulled up a final document—official authorization, stamped with international regulatory seals. "This gives you legal authority to act. It also puts you on record. If this goes wrong, there will be inquiries. Investigations. You need to understand that."
+He pulled up a final document - official authorization, stamped with international regulatory seals. "This gives you legal authority to act. It also puts you on record. If this goes wrong, there will be inquiries. Investigations. You need to understand that."
 
 "We understand," Jason said. He looked at Lina, saw her nod. "We're still going."
 
@@ -46,7 +46,7 @@ Malvek studied them both for a long moment. Then he nodded. "Good. Then let's ma
 
 Three days later, they stood in the warehouse one last time before departure.
 
-The team had been decided: Jason, Lina, and Yuki would go to Tokyo. RAE, obviously, integrated with Jason. But Milo would stay—too vulnerable in direct combat, better utilized as their remote coordinator. Elyra would stay to maintain the training program, her integration still too low for field operations this dangerous. Kira would stay to help Elyra, not yet experienced enough for a mission this severe.
+The team had been decided: Jason, Lina, and Yuki would go to Tokyo. RAE, obviously, integrated with Jason. But Milo would stay - too vulnerable in direct combat, better utilized as their remote coordinator. Elyra would stay to maintain the training program, her integration still too low for field operations this dangerous. Kira would stay to help Elyra, not yet experienced enough for a mission this severe.
 
 "Two weeks," Jason promised, looking at each of them. "We'll be back in two weeks."
 
