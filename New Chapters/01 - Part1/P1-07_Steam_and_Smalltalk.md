@@ -1,14 +1,14 @@
-﻿## Part 1 - Lost and Found | Ch. 07 - Small, careful changes
+﻿## Part 1 - Lost and Found | Ch. 07 - Learning to fly
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 
-The bell over the restaurant door jingled as Jason stepped inside, shrugging off his coat. The scent of garlic, simmering onions, and toasted spices hit him like a warm waveùfamiliar and grounding.
+The bell over the restaurant door jingled as Jason stepped inside, shrugging off his coat. The scent of garlic, simmering onions, and toasted spices hit him like a warm wave - familiar and grounding.
 
 It wasn't busy. It never really was, not during the late dinner lull. Two tables occupied. One family with a toddler fighting a spoon, one older couple sharing soup in silence. Jason nodded toward the kitchen door and took his usual spot by the window. Table three. Always table three.
 
 He didn't need to order.
 
-Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Her hair was pulled back in a practical knot today, a few strands escaped and framing her face. She had a smudge of somethingùflour? sauce?ùon her cheek.
+Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Her hair was pulled back in a practical knot today, a few strands escaped and framing her face. She had a smudge of something - flour? sauce? - on her cheek.
 
 "You're late," she said, sliding the plate down in front of him. Her voice had that perpetual rasp, warm and slightly rough.
 
@@ -34,9 +34,9 @@ Jason chewed thoughtfully, then nodded. "You win."
 
 "Obviously."
 
-They sat like that for a few minutesùquiet, easy. The kind of silence that only came after a hundred similar meals. Not awkward, not performative. Just... known.
+They sat like that for a few minutes - quiet, easy. The kind of silence that only came after a hundred similar meals. Not awkward, not performative. Just... known.
 
-Jason glanced up. Lina was staring past him, out the window, her expression soft and distant. The yellow light from the streetlamp caught in her dark hair, and for a moment she looked like someone from a paintingùstill, contemplative, unreachable.
+Jason glanced up. Lina was staring past him, out the window, her expression soft and distant. The yellow light from the streetlamp caught in her dark hair, and for a moment she looked like someone from a painting - still, contemplative, unreachable.
 
 "You ever think about leaving?" he asked before he could stop himself. The words came out quieter than intended.
 
@@ -70,7 +70,7 @@ Finally, he said, "Do you ever miss it?"
 
 "You know." He hesitated, choosing his words carefully. "The academy."
 
-Lina raised an eyebrow but didn't laugh. That was one of the things he appreciated about herùshe took questions seriously, even when they seemed to come from nowhere. "That's a weird question."
+Lina raised an eyebrow but didn't laugh. That was one of the things he appreciated about her - she took questions seriously, even when they seemed to come from nowhere. "That's a weird question."
 
 "I know. Sorry."
 
@@ -80,7 +80,7 @@ Jason nodded. That made sense. That made too much sense.
 
 "Why?" she asked, tilting her head. "You thinking of applying somewhere?"
 
-He shook his head. "No. Justà curious. Trying to understand what makes someone go for it."
+He shook his head. "No. Just... curious. Trying to understand what makes someone go for it."
 
 "Desperation. Arrogance. Hope," Lina said, ticking them off on her fingers. "Sometimes boredom. Sometimes a teacher who sees something and won't shut up about it."
 
@@ -136,7 +136,7 @@ Lina's words echoed in his mind. *Standing on the edge of something.*
 
 She was right. She was always right.
 
-But what she didn't knowùwhat he couldn't tell her yetùwas that he'd already stepped off the edge.
+But what she didn't know - what he couldn't tell her yet - was that he'd already stepped off the edge.
 
 And he was still falling.
 

@@ -1,6 +1,6 @@
-﻿## Part 1 - Lost and Found | Ch. 08 - Why me?
+﻿## Part 1 - Lost and Found | Ch. 08 - Some doors stay locked for a reason
 
-Monday came too quickly.
+Monday came too quickly. He'd seen Lina just a few nights before, but it felt like weeks had passed since their conversation at the window table.
 
 The restaurant was nearly empty, the late dinner crowd having long since trickled out. Lina leaned against the counter, fiddling with a half-filled salt shaker, her movements idle but precise. Jason still sat in his usual seat, the warmth of a finished meal lingering on the table.
 

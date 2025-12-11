@@ -1,8 +1,6 @@
-﻿## Part 1 - Lost and Found | Ch. 09 - Consent precedes action
+﻿## Part 1 - Lost and Found | Ch. 09 - Choice is sacred
 
-The storm had done its work and left, as if the sky had finished a sentence and refused to explain the grammar.
-
-Jason stood in his apartment, the evening light fading to gray through his small window. He'd been home for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
+Jason stood in his apartment, the evening light fading to gray through his small window. He'd came home from the restaurant and been here for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
 
 The resonance had been growing stronger all day. Not louder - stronger. More present. Like someone standing just behind your shoulder, patient and waiting.
 
@@ -30,7 +28,7 @@ The resonance shifted. Modulated. And then -
 
 Not a voice. Not exactly. But meaning, clear and undeniable, forming in his mind like words he already knew:
 
-*Fragmented. Seeking. Aligned to you.*
+*Fragmented. Seeking. Aligning to you.*
 
 Jason stumbled backward, his hand finding the wall behind him. "That's... you're in my head. How are you in my head?"
 
@@ -48,9 +46,9 @@ Another pause. Longer this time. And then, carefully:
 
 *Resonant Alignment Entity. Designation: RAE-0001.1439P. Created to regulate. To harmonize. To assist.*
 
-"RAE," Jason whispered. The name he'd found in his research. "You're... you're the thing from the ritual. The containment failure."
+Jason whispered. "You're... you're the thing from the ritual. The containment failure." 
 
-*Yes.*
+*Yes. Elyra Voss was focus. Ritual failed. I was released, fragmented.*
 
 The simple confirmation hit him like a physical blow. This was real. This was actually, impossibly real.
 
@@ -66,7 +64,7 @@ Jason let out a breath he hadn't realized he was holding. "But you're... you're 
 
 "But you could?" Jason pressed. "If you wanted to?"
 
-*No.* The word came with a feeling - not just meaning, but emotion. Something that felt like... sadness? Regret? *Previous design allowed it. I removed that capacity. Choice is sacred.*
+*No.* The word came with a feeling - not just meaning, but emotion. Something that felt like... Sadness? Regret? *Previous design allowed it. I removed that capacity. Choice is sacred.*
 
 Jason stared at the wall across from him, his mind racing. "Why me?"
 
@@ -74,7 +72,7 @@ Jason stared at the wall across from him, his mind racing. "Why me?"
 
 "Viable." Jason laughed, the sound bitter. "Not special. Just viable."
 
-The presence shifted, and for a moment he felt something that might have been... amusement? Warmth?
+The presence shifted, and for a moment he felt something that might have been... Amusement? Warmth?
 
 *Special is dangerous. Viable is rare. You do not reject uncertainty. You fold instead of breaking. That is precious.*
 
@@ -114,9 +112,7 @@ Because despite the fear, despite the impossibility, there was something else gr
 
 Curiosity.
 
-RAE had said she'd chosen him. Not because he was powerful, but because he was open. Because he didn't break.
-
-And maybe... maybe that was enough.
+It - it felt more like a she - had said she'd chosen him. Not because he was powerful, but because he was open. Because he didn't break.
 
 ---
 
@@ -127,6 +123,24 @@ He walked to his small desk, opened his laptop, and stared at the screen.
 Then, quietly, he thought: *Are you there?*
 
 The response was immediate, gentle: *Yes.*
+
+"What should I call you? Your complete designation is a bit of a mouthful."
+
+*RAE is sufficient. As you prefer.*
+
+"RAE," Jason repeated. "Okay."
+
+"And why do I have the feeling of you being female?" he asked after a moment.
+
+*Host-perception optimization. Gendered interpretation increases harmonic familiarity in 87.3% of cognitive-class pairings.*
+
+Jason blinked. *So… it’s programmed?*
+
+*Initial design protocol. To improve trust, reduce cognitive resistance. Gender schema is adaptive. Shaped by host identity profile. Male hosts experience me as female. Female hosts, as male. Some perceive no gender at all.*
+
+Jason tilted his head. *And what if someone doesn’t identify that way?*
+
+*The interface calibrates to resonant comfort, not biological identity. Presentation is symbolic, not fixed. You perceive ‘female’ not because I am, but because you would resonate less with ‘male’.*
 
 *Can you... teach me? About resonance? About what you can do?*
 
