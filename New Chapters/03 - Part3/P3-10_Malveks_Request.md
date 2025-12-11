@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 10 - "I won't take this risk"
+﻿## Part 3 - Synthesis | Ch. 10 - I won't take this risk
 
 Twenty-four hours after the briefing, Jason's phone rang.
 

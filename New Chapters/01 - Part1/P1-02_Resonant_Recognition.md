@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 02 - "Do not overwrite"
+﻿## Part 1 - Lost and Found | Ch. 02 - Do not overwrite
 
 ```
 [System Update]

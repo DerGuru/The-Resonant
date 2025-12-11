@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 08 - "There's no reforming this"
+﻿## Part 4 - We Are Family | Ch. 08 - There's no reforming this
 
 Tokyo was overwhelming in ways Jason hadn't anticipated.
 

@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 05 - "This is permanent, Jason"
+﻿## Part 1 - Lost and Found | Ch. 05 - This is permanent, Jason
 
 The whisper came at 3 AM, slipping through the edges of Jason's awareness like smoke under a door.
 

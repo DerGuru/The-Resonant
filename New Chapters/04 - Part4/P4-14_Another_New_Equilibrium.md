@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 14 - "This is where it started"
+﻿## Part 4 - We Are Family | Ch. 14 - This is where it started
 
 One year later.
 

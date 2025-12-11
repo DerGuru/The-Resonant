@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 07 - "This isn't containment. This is combat."
+﻿## Part 4 - We Are Family | Ch. 07 - This isn't containment. This is combat.
 
 The week of preparation was intense in ways Jason hadn't anticipated.
 

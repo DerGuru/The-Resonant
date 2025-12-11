@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 12 - "That's not a bad ending."
+﻿## Part 3 - Synthesis | Ch. 12 - That's not a bad ending.
 
 The warehouse felt smaller with the weight of the decision pressing down.
 

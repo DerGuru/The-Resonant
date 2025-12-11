@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 11 - "Mirror.Vox doesn't exist"
+﻿## Part 1 - Lost and Found | Ch. 11 - Mirror.Vox doesn't exist
 
 Jason had never been good at forums. Instead he had been a lurker on the forums for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
 

@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 09 - "Some things must be unmade"
+﻿## Part 4 - We Are Family | Ch. 09 - Some things must be unmade
 
 The plan was elegant in its simplicity and terrifying in its execution.
 

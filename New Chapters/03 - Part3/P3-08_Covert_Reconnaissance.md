@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 08 - "Approximately seventy-two hours"
+﻿## Part 3 - Synthesis | Ch. 08 - Approximately seventy-two hours
 
 The night smelled like rain that hadn't fallen yet.
 

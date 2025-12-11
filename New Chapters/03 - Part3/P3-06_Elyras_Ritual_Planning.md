@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 06 - "Once we start, we commit"
+﻿## Part 3 - Synthesis | Ch. 06 - Once we start, we commit
 
 Three weeks into the agreement, Elyra raised the possibility.
 

@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 16 - "Run. Now."
+﻿## Part 1 - Lost and Found | Ch. 16 - Run. Now.
 
 The storm arrived without warning.
 

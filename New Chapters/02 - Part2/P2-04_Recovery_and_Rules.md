@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 04 - "Sixteen hours unconscious"
+﻿## Part 2 - Learning to Listen | Ch. 04 - Sixteen hours unconscious
 
 Jason woke in stages.
 

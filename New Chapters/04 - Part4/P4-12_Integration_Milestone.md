@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 12 - "I'm not losing myself. I'm becoming more."
+﻿## Part 4 - We Are Family | Ch. 12 - I'm not losing myself. I'm becoming more.
 
 The medical scan at four months post-Japan showed numbers that made the technician's eyebrows rise.
 

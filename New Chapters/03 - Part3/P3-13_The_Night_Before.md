@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 13 - "You have to survive first."
+﻿## Part 3 - Synthesis | Ch. 13 - You have to survive first.
 
 The chamber Malvek provided was perfect.
 

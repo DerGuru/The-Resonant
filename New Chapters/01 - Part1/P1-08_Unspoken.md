@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 08 - "Why me?"
+﻿## Part 1 - Lost and Found | Ch. 08 - Why me?
 
 Monday came too quickly.
 

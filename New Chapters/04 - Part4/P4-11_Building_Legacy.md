@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 11 - "That requires more than good intentions"
+﻿## Part 4 - We Are Family | Ch. 11 - That requires more than good intentions
 
 Return to the warehouse felt like stepping back into a life that had happened to someone else.
 

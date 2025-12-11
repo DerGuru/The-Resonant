@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 14 - "They marked my door"
+﻿## Part 1 - Lost and Found | Ch. 14 - They marked my door
 
 Jason noticed the mark three days after meeting Milo.
 

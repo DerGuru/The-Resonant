@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 04 - "Routine Noise"
+﻿## Part 1 - Lost and Found | Ch. 04 - Routine Noise
 
 ```
 [ System state: passive detection mode ]

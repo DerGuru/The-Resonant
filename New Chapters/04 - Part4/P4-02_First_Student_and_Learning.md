@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 02 - "You're not me. You need your own path."
+﻿## Part 4 - We Are Family | Ch. 02 - You're not me. You need your own path.
 
 ### The Interview
 

@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 13 - "Family. Yeah. That's what we are."
+﻿## Part 4 - We Are Family | Ch. 13 - Family. Yeah. That's what we are.
 
 Six months after Japan. Six months of building, teaching, growing.
 

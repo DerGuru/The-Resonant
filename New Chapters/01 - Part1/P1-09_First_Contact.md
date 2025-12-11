@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 09 - "Consent precedes action"
+﻿## Part 1 - Lost and Found | Ch. 09 - Consent precedes action
 
 The storm had done its work and left, as if the sky had finished a sentence and refused to explain the grammar.
 

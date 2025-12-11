@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 01 - "Red stops. No exceptions."
+﻿## Part 2 - Learning to Listen | Ch. 01 - Red stops. No exceptions.
 
 Jason woke to the smell of burned toast and the faint hum of the kettle trying to talk.
 

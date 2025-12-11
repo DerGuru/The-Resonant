@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 07 - "The only successful integration-capable entity"
+﻿## Part 3 - Synthesis | Ch. 07 - The only successful integration-capable entity
 
 Milo's monitoring setup looked like paranoia made physical.
 

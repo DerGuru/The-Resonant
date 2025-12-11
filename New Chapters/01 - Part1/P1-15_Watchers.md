@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 15 - "Someone's paying attention"
+﻿## Part 1 - Lost and Found | Ch. 15 - Someone's paying attention
 
 The warehouse district felt different at night.
 

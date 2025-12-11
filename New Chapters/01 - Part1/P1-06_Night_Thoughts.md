@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 06 - "What if I'm not enough?"
+﻿## Part 1 - Lost and Found | Ch. 06 - What if I'm not enough?
 
 Jason lay on his back, staring at the ceiling. The digital clock on his nightstand read 2:47 AM, its red numbers burning into his retinas every time he blinked.
 

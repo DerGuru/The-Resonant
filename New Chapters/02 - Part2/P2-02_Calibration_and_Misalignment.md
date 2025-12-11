@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 02 - "Small acts, carefully done"
+﻿## Part 2 - Learning to Listen | Ch. 02 - Small acts, carefully done
 
 Training began in earnest the next morning.
 

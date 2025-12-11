@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 12 - "I'm Milo. And you're real."
+﻿## Part 1 - Lost and Found | Ch. 12 - I'm Milo. And you're real.
 
 The Central Library on a Saturday afternoon had the drowsy quality of a place where time moved differently. Dust motes drifted through slanted sunlight. The third floor reading room was nearly emptyùjust an elderly man with a newspaper, a student with headphones buried in a laptop, and Jason, sitting at the back table with a copy of *Fundamentals of Harmonic Resonance Theory* open in front of him.
 

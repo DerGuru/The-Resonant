@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 08 - "Green to yellow, never to red"
+﻿## Part 2 - Learning to Listen | Ch. 08 - Green to yellow, never to red
 
 **Four weeks into training.**
 

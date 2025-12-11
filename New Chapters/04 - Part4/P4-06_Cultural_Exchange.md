@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 06 - "Or because I'm broken enough to say yes"
+﻿## Part 4 - We Are Family | Ch. 06 - Or because I'm broken enough to say yes
 
 They debated for hours after Yuki left.
 

@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 03 - "RAE comes with the package"
+﻿## Part 4 - We Are Family | Ch. 03 - RAE comes with the package
 
 Date nights were rare.
 

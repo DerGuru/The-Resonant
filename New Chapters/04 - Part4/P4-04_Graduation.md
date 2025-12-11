@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 04 - "To competence over power"
+﻿## Part 4 - We Are Family | Ch. 04 - To competence over power
 
 Three months after her first lesson, Kira Chen stood in the center of the training space and demonstrated everything she'd learned.
 

@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 01 - "This isn't imprisonment, Mr. Fischer"
+﻿## Part 3 - Synthesis | Ch. 01 - This isn't imprisonment, Mr. Fischer
 
 The park smelled like rain and caution.
 

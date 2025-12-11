@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 13 - "Yellow means caution, not stop"
+﻿## Part 1 - Lost and Found | Ch. 13 - Yellow means caution, not stop
 
 Three weeks into training, Jason felt like he was learning to see the world through new eyes.
 

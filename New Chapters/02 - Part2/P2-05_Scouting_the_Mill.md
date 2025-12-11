@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 05 - "She knows something we don't"
+﻿## Part 2 - Learning to Listen | Ch. 05 - She knows something we don't
 
 Mill-4 sat on the city's edge like a broken tooth.
 

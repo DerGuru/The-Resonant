@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 05 - "Some things cannot be reformed"
+﻿## Part 4 - We Are Family | Ch. 05 - Some things cannot be reformed
 
 The visitor arrived unannounced, but with Malvek's approval - which meant she'd been vetted through channels Jason was only beginning to understand.
 

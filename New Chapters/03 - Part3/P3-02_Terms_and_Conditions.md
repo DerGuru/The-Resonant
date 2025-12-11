@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 02 - "This is a trial period. Don't forget that"
+﻿## Part 3 - Synthesis | Ch. 02 - This is a trial period. Don't forget that
 
 Forty-eight hours felt simultaneously too long and not long enough.
 

@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 16 - "Containment teams are coming"
+﻿## Part 2 - Learning to Listen | Ch. 16 - Containment teams are coming
 
 The call came at 3 AM.
 

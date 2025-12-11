@@ -1,4 +1,4 @@
-﻿## Part 4 - We Are Family | Ch. 10 - "Changed, but okay"
+﻿## Part 4 - We Are Family | Ch. 10 - Changed, but okay
 
 Jason woke in a hospital room that smelled of antiseptic and filtered air.
 

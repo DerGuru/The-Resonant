@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 03 - "You're not"
+﻿## Part 1 - Lost and Found | Ch. 03 - You're not
 
 The flea market was more noise than purpose. A maze of fold-out tables, milk crates, and handwritten price tags spread across what used to be a parking lot. Somewhere between rusted tools and vintage magazines, Jason walked beside Lina in comfortable aimlessness.
 

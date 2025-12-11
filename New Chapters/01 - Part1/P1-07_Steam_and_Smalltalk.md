@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 07 - "Small, careful changes"
+﻿## Part 1 - Lost and Found | Ch. 07 - Small, careful changes
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 

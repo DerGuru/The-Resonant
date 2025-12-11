@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 03 - "Your mother worries."
+﻿## Part 3 - Synthesis | Ch. 03 - Your mother worries.
 
 The first week of monitored freedom felt like learning to walk on ice - careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
 

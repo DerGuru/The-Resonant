@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 03 - "You saved them, but you almost died"
+﻿## Part 2 - Learning to Listen | Ch. 03 - You saved them, but you almost died
 
 The scaffold buckled without warning.
 

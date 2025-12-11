@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 14 - "INCOMING!"
+﻿## Part 3 - Synthesis | Ch. 14 - INCOMING!
 
 The chamber hummed with potential.
 

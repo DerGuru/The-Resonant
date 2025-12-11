@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 04 - "Not if she's not recruiting or demonstrating publicly."
+﻿## Part 3 - Synthesis | Ch. 04 - Not if she's not recruiting or demonstrating publicly.
 
 Meridian Coffee smelled like espresso and nervous energy.
 

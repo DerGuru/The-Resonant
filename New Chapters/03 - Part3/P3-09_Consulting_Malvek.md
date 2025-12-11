@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 09 - "The casualties will be significant"
+﻿## Part 3 - Synthesis | Ch. 09 - The casualties will be significant
 
 Thomas Reeves answered on the second ring.
 

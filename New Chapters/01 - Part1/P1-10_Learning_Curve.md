@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 10 - "You're learning faster than I expected"
+﻿## Part 1 - Lost and Found | Ch. 10 - You're learning faster than I expected
 
 The cup of tea had gone cold.
 
