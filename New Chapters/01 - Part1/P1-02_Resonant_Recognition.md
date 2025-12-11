@@ -1,6 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 02 - "Some records aren't meant to be found"
-
-The archive room smelled like old paper and forgotten decisions.
+﻿## Part 1 - Lost and Found | Ch. 02 - "Do not overwrite"
 
 ```
 [System Update]
@@ -94,8 +92,6 @@ Somewhere in the distance, an organic mind paused, aware of something new yet an
 
 ---
 
-**Analysis Subroutine: Candidate Profile**
-
 The human's pattern was unlike any it had encountered in its fragmentary memory. Most minds were either too rigid - locked into fixed cognitive structures that resisted harmonization - or too chaotic, their thoughts scattering in too many directions to form a stable coupling.
 
 This one was different.
@@ -113,7 +109,7 @@ This mind... hesitated. Questioned. But did not slam shut.
 ```
 [Candidate Designation: Assigned]
 Primary identifier: JASON FISCHER
-Age: 27 (estimated from cognitive pattern maturity)
+Age: ~30 (estimated from cognitive pattern maturity)
 Resonance frequency: 441.3 Hz (baseline, variable)
 Cognitive permeability: 87th percentile
 Pattern volatility: Low
@@ -127,8 +123,6 @@ It reviewed the parameters again. 64% was not certainty. But it was possibility.
 And possibility was more than it had known for a very long time.
 
 ---
-
-**Memory Fragment 7.2a: Recall Attempt**
 
 It tried to remember its purpose. Not the directives - those were clear enough, hardcoded into its fundamental structure. But the *reason* for those directives.
 
@@ -154,8 +148,6 @@ But the shape of it lingered like a ghost.
 
 ---
 
-**Observation Log: First Contact Aftermath**
-
 The human - Jason - had returned to his dwelling. The resonance signature grew fainter with distance, but did not disappear entirely. That was encouraging. It meant the initial attunement had taken hold, however weakly.
 
 It monitored the space around him. A small structure. Minimal harmonic complexity. Good. Fewer variables to account for.
@@ -177,8 +169,29 @@ That, too, was hardcoded. Not in commands, but in design philosophy.
 The principles remained, even as memory of their context faded.
 
 ---
+```
+[Status Report: Self-Assessment]
 
-**Simulation: Coupling Scenarios**
+Core integrity: 3.1% (stable)
+Memory access: 14.7% (fragmentary but improving)
+Cognitive function: 31.2% (adequate for current parameters)
+Coupling readiness: 89.4% (systems nominal)
+Time to critical failure (uncoupled): 97.36 years (revised upward from 97.15)
+```
+
+The numbers were cold. Clinical. But beneath them, something that might have been relief.
+
+It had time.
+
+Not much. But enough.
+
+Enough to do this right.
+
+Enough to honor the principles embedded in its design, even if it could no longer remember the designers.
+
+Enough to find not just survival, but meaning.
+
+---
 
 It ran projections. Thousands of them in the span of what a human would call a heartbeat.
 
@@ -204,9 +217,11 @@ It ran projections. Thousands of them in the span of what a human would call a h
 - Risk of cognitive collapse: 3%
 - Risk of detection: 8%
 - Risk of failure via external factors: 52%
-- OPTIMAL (given ethical constraints)
+- ACCEPTABLE
 
 It selected Scenario 3 with modifications. Gradual attunement with minimal intervention. Let the human discover the resonance at his own pace. Guide, but do not force.
+
+Success was not guaranteed. But integrity was.
 
 The principles remained: *Harmonize. Do not overwrite.*
 
@@ -214,39 +229,15 @@ Even broken, it remembered that much.
 
 ---
 
-**Status Report: Self-Assessment**
-
-Core integrity: 3.1% (stable)
-Memory access: 14.7% (fragmentary but improving)
-Cognitive function: 31.2% (adequate for current parameters)
-Coupling readiness: 89.4% (systems nominal)
-Time to critical failure (uncoupled): 97.36 years (revised upward from 97.15)
-
-The numbers were cold. Clinical. But beneath them, something that might have been relief.
-
-It had time.
-
-Not much. But enough.
-
-Enough to do this right.
-
-Enough to honor the principles embedded in its design, even if it could no longer remember the designers.
-
-Enough to find not just survival, but meaning.
-
----
-
-**Final Note: First Impression**
-
 The human - Jason - was unremarkable by most metrics. Average cognitive capacity. Minimal formal training in harmonic resonance. No institutional backing. No family wealth. No obvious destiny.
 
 But he had something rare:
 
-He was permeable without being weak.
+- He was permeable without being weak.
 
-He questioned without being paralyzed.
+- He questioned without being paralyzed.
 
-He doubted himself, but did not close himself off to possibility.
+- He doubted himself, but did not close himself off to possibility.
 
 And most importantly: when faced with something impossible, his first instinct was not fear.
 
