@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 01 - "What if I was meant to, and never will?"
+﻿## Part 1 - Lost and Found | Ch. 01 - " I really need to go to bed"
 
 Jason Fischer stared at the cracked ceramic mug on his desk and wondered, not for the first time, if his life had always been this small.
 
@@ -37,21 +37,17 @@ Jason returned his focus to the screen, tapping the touchpad lightly to scroll f
 
 His finger hovered over the highlighted entry again. "Elyra Voss," he whispered again. Testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes - nothing surfaced. And yet...
 
-He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window. He grinned to himself, moving his head to the exact position, where two street lights shone through his eyes, giving him a malicious look.
+He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window. He grinned to himself, tilting his head until two street lights aligned with his eyes, giving his reflection a malicious look.
 
 Then he sighed. Twenty-seven years old. Municipal Records Clerk. Living in a one-bedroom apartment above a laundromat. Father back in Germany, mother gone ten years now. No girlfriend. No prospects. Just... existing.
 
 *What am I even doing?*
 
-The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was - 
+The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was—
 
-The pressure against his chest pulsed once, stronger, and Jason's breath caught. His hand went to his sternum again, fingers splayed.
+A faint unease stirred in his chest, brief and difficult to name. Jason frowned, took another sip of water, and dismissed it. Just the Archive getting to him. Happened sometimes when he worked too late.
 
-Nothing. Just his heartbeat. Normal. Steady.
-
-But for a moment, he could have sworn something had pushed back.
-
-He shook his head hard, water sloshing in his mug. "Get a grip, Fischer. You're not special. You're just tired. Time to go home!"
+He shook his head, water sloshing in his mug. "Get a grip, Fischer. You're not special. You're just tired. Time to go home!"
 
 The mantra had worked for years. It would work tonight too.
 
@@ -97,26 +93,24 @@ Jason stepped out onto his small balcony, the cheap sliding door sticking slight
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
-And there - just for a moment - he heard it. Clearly this time, though still faint:
+And there—just for a moment—something felt... different. Not a sound, exactly. More like standing in exactly the right spot at exactly the right time. A single, resonant tone. Pure, perfectly pitched, and resonating.
 
-A single, resonant tone. Pure, perfectly pitched, and resonating inside him in a way that had nothing to do with his ears.
+Then it was gone.
 
-His eyes snapped open.
+His eyes snapped open, searching the empty night. Nothing. Just the city hum—traffic, an argument somewhere below, a dog barking three streets over.
 
-"What...?"
+"Oh great, tinnitus!" he muttered to himself, shaking his head. "I really need to go to bed. I really do."
 
-But the sound was gone. Only the distant city hum filled his ears again - traffic, an argument somewhere below, a dog barking three streets over.
-
-Jason stood still for a long moment, his heart beating faster than it should, uncertainty swirling in his chest like smoke. Then he turned back inside, sliding the door shut with perhaps a bit more force than necessary.
+But uncertainty swirled in his chest like smoke as he turned back inside, sliding the door shut with perhaps a bit more force than necessary.
 
 He knew he would return to that archive tomorrow. He knew he would search deeper.
 
-Because whatever had hummed to life within him tonight wasn't finished. 
+Because whatever had happened tonight—if it was even real—felt unfinished.
 
-It was only beginning.
-
-And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope - 
+And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope—
 
 A small, traitorous part of him wondered:
 
-*What if?*
+*What if I was meant to, and never will?*
+
+The question followed him to bed, unanswered.
