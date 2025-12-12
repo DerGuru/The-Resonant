@@ -1,8 +1,6 @@
 ﻿## Part 2 - Learning to Listen | Ch. 01 - Red stops. No exceptions.
 
-Jason woke to the smell of burned toast and the faint hum of the kettle trying to talk.
-
-His apartment had become command central. Milo and Lina were already at the table, deep in discussion, notes from yesterday spread out before them - a chaotic blend of handwriting and sketches.
+Jasons apartment had become command central. Milo and Lina were already at the table, deep in discussion, notes from yesterday spread out before them - a chaotic blend of handwriting and sketches.
 
 " - not sustainable," Milo was saying, scratching his head. "If Jason pushes to Orange every time, he's not going to last."
 
