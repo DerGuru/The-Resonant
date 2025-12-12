@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 04 - Sixteen hours unconscious
+﻿## Part 2 - Learning to Listen | Ch. 03 - Smart choices, not heroic ones
 
 Jason woke in stages.
 

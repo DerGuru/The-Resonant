@@ -1,6 +1,6 @@
 ﻿# Part 2: In Search of Elyra - Final Outline
 
-**Status:** Complete (18 chapters)  
+**Status:** Complete (15 chapters)  
 **Timeline:** ~8 weeks  
 **Theme:** Training, discovery, and escalation
 
@@ -8,36 +8,36 @@
 
 ## Chapter List
 
-**Ch. 00 - Between Storm and Step:** Aftermath, establishing protocols  
-**Ch. 01 - Kettle Lessons:** Safety systems (Green/Yellow/Orange/Red)  
-**Ch. 02 - Calibration & Misalignment:** Training expands  
-**Ch. 03 - Scaffold and Consequences:** ? Saves children, 16h unconscious  
-**Ch. 04 - Recovery and Rules:** Mandatory rest, new protocols  
-**Ch. 05 - Scouting the Mill:** Find Elyra  
-**Ch. 06 - First Lessons with Elyra:** Training begins, 441 Hz established  
-**Ch. 07 - The Whisper Clips:** Build communication devices  
-**Ch. 08 - Resonogram Cluster:** Archive research, patterns  
-**Ch. 09 - Forbidden Maps:** Mill-4 reconnaissance  
-**Ch. 10 - Malvek's Agent:** Thomas Reeves, offer refused  
-**Ch. 11 - Night Measurement:** 9-second pattern discovered  
-**Ch. 12 - Archive Sabotage:** Files erased by Malvek  
-**Ch. 13 - Resonance Market:** Equipment, meet Marco  
-**Ch. 14 - Convergence:** Planning underground exploration  
-**Ch. 15 - Into the Network:** Discover containment facility  
-**Ch. 16 - Acceleration:** Brutal training week  
-**Ch. 17 - The Reckoning:** Capture attempt, negotiation offered  
+**Ch. 01 - Red stops. No exceptions:** Safety systems (Green/Yellow/Orange/Red), teapot breakthrough  
+**Ch. 02 - You saved them, but you almost died:** Training week summary, Mrs. Amari warning, scaffold crisis, immediate recovery  
+**Ch. 03 - Smart choices, not heroic ones:** Deep recovery (16h), five protocols established, Elyra preview  
+**Ch. 04 - Scouting the Mill:** Find Elyra  
+**Ch. 05 - First Lessons with Elyra:** Training begins, 441 Hz established  
+**Ch. 06 - The Whisper Clips:** Build communication devices  
+**Ch. 07 - Resonogram Cluster:** Archive research, patterns  
+**Ch. 08 - Forbidden Maps:** Mill-4 reconnaissance  
+**Ch. 09 - Malvek's Agent:** Thomas Reeves, offer refused  
+**Ch. 10 - Archive Sabotage:** Files erased by Malvek  
+**Ch. 11 - Resonance Market:** Equipment, meet Marco  
+**Ch. 12 - Convergence:** Planning underground exploration  
+**Ch. 13 - Into the Network:** Discover containment facility  
+**Ch. 14 - Acceleration:** Brutal training week  
+**Ch. 15 - The Reckoning:** Capture attempt, negotiation offered  
 
 ---
 
 ## Key Achievements
 
-? Elyra joins as mentor  
-? Whisper clips created and tested  
-? Training progresses (combat-ready)  
-? Malvek's offer refused  
-? Containment facility discovered  
-? Integration reaches 40%  
-? Team scattered but commits to negotiate  
+✓ Safety protocols established (Color scale + 5 rules)  
+✓ RAE learns carrier projection (teapot speaks)  
+✓ Jason's heroic impulse checked (scaffold aftermath)  
+✓ Elyra joins as mentor  
+✓ Whisper clips created and tested  
+✓ Training progresses (combat-ready)  
+✓ Malvek's offer refused  
+✓ Containment facility discovered  
+✓ Integration reaches 40%  
+✓ Team scattered but commits to negotiate  
 
 ---
 
@@ -48,10 +48,22 @@
 **Lina:** Fully committed, combat-capable  
 **Milo:** Essential team member, tactical  
 **Elyra:** Teaching, 3.2% capacity (unchanged yet)  
-**Malvek:** Hunting ? willing to negotiate  
+**Malvek:** Hunting → willing to negotiate  
 
 ---
 
-**Word Count:** ~50,000 words  
-**Status:** Complete Rewrite  
-**Quality:** Consequence-focused, realistic progression
+## Structural Changes (vs. Original Outline)
+
+**Merged:**
+- Ch. 00 "Between Storm and Step" → Removed (content already in P1-17)
+- Ch. 02 "Calibration & Misalignment" → Merged into Ch. 02 opening (training week summary)
+- Ch. 03 & Ch. 04 → Now Ch. 02 (crisis) and Ch. 03 (recovery/rules)
+- Ch. 11 "Night Measurement" → Merged/removed (9-second pattern integrated elsewhere)
+
+**Result:** Tighter pacing, less repetitive training montages, faster to Elyra introduction
+
+---
+
+**Word Count:** ~48,000 words (estimated after mergers)  
+**Status:** Rewrite in Progress  
+**Quality:** Consequence-focused, realistic progression, improved pace
