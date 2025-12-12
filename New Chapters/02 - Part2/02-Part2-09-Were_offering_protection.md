@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 10 - We're offering protection
+﻿## Part 2 - Learning to Listen | Ch. 09 - We're offering protection
 
 **Five weeks into training.**
 

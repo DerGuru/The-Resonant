@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 07 - Max three channels. That's the limit.
+﻿## Part 2 - Learning to Listen | Ch. 06 - Max three channels. That's the limit.
 
 **Three weeks into training with Elyra.**
 

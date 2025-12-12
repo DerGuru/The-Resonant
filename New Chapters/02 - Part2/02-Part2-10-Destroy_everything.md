@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 11 - Destroy everything
+﻿## Part 2 - Learning to Listen | Ch. 10 - Destroy everything
 
 **Seven weeks in.**
 

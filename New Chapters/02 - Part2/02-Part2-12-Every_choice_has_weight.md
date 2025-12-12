@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 13 - Destroy everything
+﻿## Part 2 - Learning to Listen | Ch. 12 - Every choice has weight
 
 **Eight weeks in.**
 

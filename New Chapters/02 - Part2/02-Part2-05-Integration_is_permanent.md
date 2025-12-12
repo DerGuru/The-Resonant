@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 06 - Integration is permanent
+﻿## Part 2 - Learning to Listen | Ch. 05 - Integration is permanent
 
 Elyra Voss's apartment was exactly what Jason expected: clinical, organized, and faintly sad.
 

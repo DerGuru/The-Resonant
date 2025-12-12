@@ -52,6 +52,34 @@ Where:
 
 ---
 
+## Part 2 Files Renamed
+
+| Old Filename | New Filename |
+|--------------|--------------|
+| `P2-01_Kettle_Lessons.md` | `02-Part2-01-Red_stops_No_exceptions.md` |
+| `P2-02_Scaffold_and_Consequences.md` | `02-Part2-02-You_saved_them_but_you_almost_died.md` |
+| `P2-03_Recovery_and_Rules.md` | `02-Part2-03-Smart_choices_not_heroic_ones.md` |
+| `P2-04_Scouting_the_Mill.md` | `02-Part2-04-She_knows_something_we_dont.md` |
+| `P2-05_First_Lessons_with_Elyra.md` | `02-Part2-05-Integration_is_permanent.md` |
+| `P2-06_The_Whisper_Clips.md` | `02-Part2-06-Max_three_channels_Thats_the_limit.md` |
+| `P2-07_Resonogram_Cluster.md` | `02-Part2-07-Green_to_yellow_never_to_red.md` |
+| `P2-08_Forbidden_Maps.md` | `02-Part2-08-Precision_over_power.md` |
+| `P2-09_Malveks_Agent.md` | `02-Part2-09-Were_offering_protection.md` |
+| `P2-10_Archive_Sabotage.md` | `02-Part2-10-Destroy_everything.md` |
+| `P2-11_Resonance_Market.md` | `02-Part2-11-Theyre_watching_now.md` |
+| `P2-12_Convergence.md` | `02-Part2-12-Every_choice_has_weight.md` |
+| `P2-13_Into_the_Network.md` | `02-Part2-13-This_is_Mill-4.md` |
+| `P2-14_Acceleration.md` | `02-Part2-14-Forty_percent_Thats_permanent.md` |
+| `P2-15_The_Reckoning.md` | `02-Part2-15-Containment_teams_are_coming.md` |
+
+**Directory:** `New Chapters\02 - Part2\`
+
+**Additional fixes:**
+- Corrected chapter numbers in headers (Ch. 04-15) to match filename numbers
+- Fixed P2-12 title from "Destroy everything" to "Every choice has weight"
+
+---
+
 ## Character Replacements
 
 Special characters were handled as follows:
@@ -93,7 +121,13 @@ Get-ChildItem "New Chapters\01 - Part1" -Filter "*.md" | Measure-Object
 # Count: 17 ?
 ```
 
-**Total renamed:** 20 files
+**Part 2:**
+```powershell
+Get-ChildItem "New Chapters\02 - Part2" -Filter "*.md" | Measure-Object
+# Count: 15 ?
+```
+
+**Total renamed:** 35 files
 
 ---
 
@@ -102,19 +136,23 @@ Get-ChildItem "New Chapters\01 - Part1" -Filter "*.md" | Measure-Object
 The following remain unchanged (not chapter files):
 - Feedback files in `Feedbacks\` directory
 - Documentation files in `General\` and `CHANGELOGS\`
-- Part 2 files (still use old P2-XX format, pending decision)
 
 ---
 
-## Next Steps (Optional)
+## Summary
 
-1. **Part 2 Renaming:** Apply same convention to Part 2 files (P2-01 through P2-15)
-2. **Git Commit:** Commit these filename changes with clear message
-3. **Update References:** Check if any external references need updating (unlikely)
+**Total files renamed:** 35
+- Prologue: 3 files
+- Part 1: 17 files  
+- Part 2: 15 files
+
+**Additional fixes:**
+- Part 2 chapter numbers corrected in file headers (Ch. 04-15)
+- Part 2 Ch. 12 title corrected from "Destroy everything" to "Every choice has weight"
 
 ---
 
 **Date:** December 2025  
-**Files Renamed:** 20 (3 Prologue + 17 Part 1)  
+**Files Renamed:** 35 (3 Prologue + 17 Part 1 + 15 Part 2)  
 **Status:** Complete and verified  
 **Format:** `[Part]-[Chapter#]-[Quote_Title].md`

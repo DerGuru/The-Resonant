@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 12 - They're watching now
+﻿## Part 2 - Learning to Listen | Ch. 11 - They're watching now
 
 The surveillance started subtly.
 

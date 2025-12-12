@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 14 - This is Mill-4
+﻿## Part 2 - Learning to Listen | Ch. 13 - This is Mill-4
 
 The message came through Milo's monitoring system at 2:17 AM.
 

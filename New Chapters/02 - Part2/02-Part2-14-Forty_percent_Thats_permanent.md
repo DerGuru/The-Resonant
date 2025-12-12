@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 15 - Forty percent. That's permanent.
+﻿## Part 2 - Learning to Listen | Ch. 14 - Forty percent. That's permanent.
 
 **Ten weeks in. Two weeks before the containment teams came.**
 

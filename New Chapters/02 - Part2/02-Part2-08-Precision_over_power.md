@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 09 - Precision over power
+﻿## Part 2 - Learning to Listen | Ch. 08 - Precision over power
 
 Six weeks into training with Elyra, and Jason's head still hurt every night.
 
