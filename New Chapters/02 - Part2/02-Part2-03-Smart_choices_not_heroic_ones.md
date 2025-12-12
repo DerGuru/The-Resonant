@@ -1,249 +1,284 @@
 ﻿## Part 2 - Learning to Listen | Ch. 03 - Smart choices, not heroic ones
 
-Jason woke in stages.
+The video had been viewed forty-three thousand times by morning.
 
-One moment, he was in the depths of darkness, wrapped in a cocoon of nothingness.
+Jason stared at his phone, watching the grainy footage for the twentieth time. The scaffold shuddering, steadying, holding just long enough for the children to escape before collapsing in a cloud of dust and twisted metal.
 
-The next, he was blinking against the harsh light of his bedroom, disoriented and groggy.
+The comments were worse than the video.
 
-*You're awake,* RAE said, her voice cutting through the fog. *Mostly.*
+*"How did it just STOP like that?"*
 
-**Mostly?** Jason tried to sit up, but his body felt heavy, uncooperative.
+*"Watch his face at 0:47 - he's doing something"*
 
-*You've been unconscious for over sixteen hours,* RAE explained. *As close to a hard reboot as I could manage without external intervention.*
+*"Resonance practitioner? Has to be"*
 
-**Sixteen hours? What�?**
+*"Government coverup incoming in 3... 2... 1..."*
 
-*You pushed yourself too far, too fast. Your neural patterns were on the verge of collapse. You need to rest.*
+"Stop reading those," Lina said, snatching the phone from his hand. "You're spiraling."
 
-**I can't.** The thought of lying back down, of being inactive, set off a fresh wave of panic. **I have to keep moving. There are people�**
+They were back in Milo's apartment, the morning sun filtering through the drawn curtains. Jason had managed maybe three hours of sleep after seeing the news alert. The rest of the night had been spent watching the video spread across social media, each share adding to his growing anxiety.
 
-*Who are already being taken care of. The children are safe. You succeeded. But you must allow yourself time to recover. Both for your sake and theirs.*
+"Someone's going to figure it out," Jason said. "Someone's going to recognize me."
 
-Jason wanted to argue. Wanted to scream. But even in his addled state, he knew RAE was right.
+"Maybe," Milo said from his computer. "But look at the footage quality. It's a phone camera from seventy feet away, shooting into afternoon sun. Your face is mostly shadow and motion blur."
 
-He'd pushed himself past his limits. Again. And this time, it could have cost him everything.
+"Mostly isn't enough."
 
-With a pained grunt, he sank back into the pillows, closed his eyes against the spinning room.
+"He's right to worry," RAE said through Milo's laptop speaker. "The video itself is ambiguous, but combined with witness testimony and the scaffold's documented stability during the crucial thirty seconds... pattern-recognition algorithms will flag this. If they haven't already."
 
-*Just rest,* RAE urged, soothingly. *Let the world fade. It will be here when you wake up. I promise.*
+"Who's 'they'?" Jason asked.
 
----
+"Multiple entities," RAE replied. "City construction safety boards will want to understand what happened. Insurance investigators. And yes, potentially Academy oversight committees."
 
-When Jason next opened his eyes, it was to the soft beeping of his monitor and the muted sounds of the city outside.
+Lina leaned against the desk, arms crossed. "How much trouble are we in?"
 
-He felt... better. Stronger. More like himself.
+"That depends," Milo said slowly, pulling up several news sites. "The official story is calling it 'structural anomaly' and 'material resonance.' The construction company is claiming the scaffold's integrity was better than initial assessment suggested. They're spinning it as a near-miss rather than a mystery."
 
-Sitting up slowly, he took stock. No dizzy spells. No flashing lights. Just the steady thrum of his heart and the distant hum of traffic.
+"That's... surprisingly convenient," Jason said.
 
-*Welcome back,* RAE said, her presence brushing against his mind. *How do you feel?*
+"It is," RAE agreed. "Which means someone with influence is shaping the narrative. The question is who, and whether their interests align with ours."
 
-**Like I slept for a week.**
+Jason's phone buzzed. Lina still had it.
 
-*You needed it. Your brain shows significant signs of recovery. How much do you remember?*
+"Who's calling?" he asked.
 
-**Hazy bits. Darkness. Voices. Yours, I think. Telling me to rest.**
+Lina looked at the screen, her expression darkening. "Unknown number. Third one this morning."
 
-*Good. That's to be expected. You suffered a serious trauma, Jason. Both physically and mentally. It will take time to heal.*
+"Don't answer it," Milo said immediately.
 
-**Am I okay?** The question felt both ridiculous and vital.
+"Agreed," RAE added. "Until we know who's looking for you, maintaining low profile is essential."
 
-*You will be. But it will take time. Patience is essential. Both for you and for those who care about you.*
+The phone stopped buzzing. Thirty seconds later, it started again. Different unknown number.
 
-**They were scared, weren't they?** The thought of his friends�of Lina, Milo, even RAE�worrying about him twisted something in his chest.
+"Persistent," Lina muttered.
 
-*They were concerned, yes. But they understand. You're not the only one learning to navigate this new reality. They are, too.*
+Jason took the phone back, stared at the screen. His thumb hovered over the decline button.
 
-Jason swung his legs over the side of the bed, wincing at the slight tremor in his hands.
+"What if it's someone who needs help?" he asked quietly.
 
-**I should talk to them.** Apologize. Explain. Promise to be better.
+"Then they can leave a message," Lina said firmly. "Jason, you nearly died yesterday. You're still recovering. You're not saving anyone today."
 
-*Later,* RAE soothed. *For now, focus on steadying yourself. The world will wait a little longer.*
+The phone went to voicemail. Jason waited.
 
-Taking a deep breath, Jason nodded. RAE was right. As always.
+No message notification appeared.
 
-**Okay. One step at a time.**
+"Journalists," Milo said. "Has to be. They're fishing for interviews with anyone who was at the scene."
 
-*Exactly. And the first step is to breathe.*
+"How did they get my number?" Jason asked.
 
-So he did. Inhale. Exhale. Gradually feeling more centered, more present.
+"You gave your contact info to the daycare staff before you left," Lina reminded him. "In case there were questions about the incident. Someone probably shared the witness list with media."
 
-The panic that had squeezed his heart began to ease.
+Jason closed his eyes, feeling the weight of his own good intentions. Of course he'd left his number. He'd wanted to help. To follow up. To make sure everyone was okay.
 
-*There you go. See? One step at a time.*
+"I'm an idiot."
 
-**Thanks, RAE. Really.**
+"You're thorough," Lina corrected. "It's one of your better traits. Usually."
 
-*You're welcome. Now, let me help you up. The sooner you start moving, the sooner you'll feel like yourself again.*
+"We need new protocols," Milo said, turning back to his computer. "Yesterday we talked about safety margins for resonance work. But we also need protocols for... this." He gestured at the cascade of news articles on his screen. "Public exposure. Media management. Identity protection."
 
-With RAE's gentle guidance, Jason stood, took a tentative step, then another.
+"I'm not sure we're qualified for that," Jason said.
 
-Each movement felt like a small victory. A reclaiming of himself.
-
-*Good. See? You're already improving.*
-
-**Yeah. Thanks to you.**
-
-*And to your own resilience. Never underestimate that.*
-
-He smiled, a genuine, heartfelt smile. **I won't. I promise.**
-
-*Now, let's get you something to eat. I believe Milo left you some of his 'famous' scrambled eggs.*
-
-**Famous?**
-
-*Infamous, perhaps, among those who have had the misfortune of tasting them.*
-
-Jason chuckled, the sound foreign yet freeing.
-
-**Lead the way, RAE. To the kitchen!**
-
-*With pleasure, Jason. But perhaps we should take it slow...*
-
-**No promises.**
-
-*Fair enough. But if you feel faint, I will be strongly advocating for a nap.*
-
-**Deal.**
-
-As they made their way to the kitchen, Jason felt a sense of gratitude wash over him.
-
-For RAE. For Milo. For Lina. For the second chance he'd been given.
-
-He might have a long way to go, but for the first time in what felt like forever, he believed he could make it.
-
-One step at a time.
+"Then we'll figure it out together," Lina said. "Like everything else."
 
 ---
 
-After breakfast, Jason sat with Milo and Lina in what was becoming their customary debriefing session.
+They spent the next two hours building a framework.
 
-Milo's apartment was small but organized, the kind of space that reflected its owner's methodical mind. Charts and notes covered one wall. Three laptops hummed on the desk. The curtains were drawn�Milo's standard operating procedure when they needed to talk freely.
+Milo pulled up Academy resources on public interaction policies. Lina contributed security protocols from her academy training. RAE provided historical data on how other practitioners had handled exposure.
 
-"You look better," Lina said, studying his face with the intensity she usually reserved for resonance patterns. "Less like death warmed over."
+By the time they were done, they had a new section in their growing rule book:
 
-"Thanks," Jason said dryly. "Your bedside manner is impeccable."
+**Public Exposure Protocols:**
 
-"She's not wrong though," Milo added, setting down three mugs of tea. "Yesterday you were gray. Today you're only pale."
+**1. No direct media contact without preparation**
+- All interview requests go through group discussion first
+- Prepared statements only, no improvisation
+- Milo handles written communication when possible
 
-Jason accepted the tea, grateful for the warmth against his still-shaky hands. "How long was I really out?"
+**2. Plausible deniability as default position**
+- "I was helping coordinate evacuation"
+- "I'm not qualified to explain structural mechanics"
+- "I'm glad everyone is safe" - then redirect
 
-"Sixteen hours the first time," Lina said. "Then you'd wake up for a few minutes, drink some water, and pass out again. Happened three times before you finally stayed conscious." She paused. "You scared the hell out of us, Jason."
+**3. Digital footprint management**
+- New phone number for sensitive contacts
+- Separate devices for resonance-related work
+- Regular monitoring of social media mentions
 
-"I'm sorry."
+**4. Witness management**
+- Follow up with people who were at the scene
+- Gentle steering of narrative toward official story
+- Build relationships with key witnesses
 
-"Don't be sorry. Be smarter." Lina's voice was sharp, but her eyes were worried. "What you did yesterday�stabilizing that scaffold�that was master-level work. Maybe beyond master-level. And you're what, a month into active training?"
+**5. Recognition response plan**
+- If recognized in public: acknowledge briefly, move on quickly
+- If cornered: Lina or Milo run interference
+- If detained: say nothing without legal representation
 
-"Twenty-three days," RAE supplied helpfully.
+"This feels paranoid," Jason said, reading through the list.
 
-"Right. Twenty-three days." Lina leaned forward. "Jason, people train for years before attempting something like that. And most of them still wouldn't try it because the risk is too high."
+"It feels necessary," Lina countered. "You're going to keep helping people. Which means you're going to keep being seen. Better to have a plan now than scramble later."
 
-"But the kids�"
+"She's right," RAE said. "These protocols protect not only you but also everyone you work with. Visibility carries risks for all of us."
 
-"Would have been evacuated by emergency services if you'd given them another two minutes," Milo interrupted gently. "I checked the response times. Fire department was four blocks away. They had inflatable crash pads. Those kids would have been fine."
+Jason nodded slowly. "Okay. So we stay quiet, keep our heads down, let the official story hold."
 
-Jason felt something cold settle in his stomach. "You're saying I didn't need to�"
+"For now," Milo agreed. "Though we should also think about long-term strategy. You can't hide forever, Jason. Eventually, you'll need a public identity that explains what you do without revealing everything."
 
-"I'm saying you didn't need to risk your life," Milo corrected. "The kids needed help, yes. But there were other options. Safer options."
+"Like what? 'Freelance safety consultant'?"
 
-*He's right,* RAE said quietly. *I should have insisted we wait. But in the moment, when you felt their fear, when you knew you could help... I didn't push back hard enough.*
+"Maybe," Milo said seriously. "Or 'structural assessment specialist.' Something vague enough to cover a range of activities but specific enough to sound legitimate."
 
-"That's on both of us," Jason said aloud. "RAE tried to warn me. I overruled her."
+"We'll workshop it," Lina said. "But that's a problem for later. Right now, the priority is managing the current situation."
 
-"Which is your right," Lina said. "You have final authority. RAE's built that way. But that means you need to be responsible with that authority." She pulled out a notebook�the same one they'd used to establish the Green/Yellow/Orange/Red system. "Which is why we're implementing new protocols. Starting now."
+Jason's phone buzzed again. Same unknown number as before.
 
-Milo took over. "We did some research while you were unconscious. Talked to some people. Pulled data from academy archives." He tapped his laptop. "Turns out there's a reason emergency services don't use resonance practitioners for structural work. It's too unpredictable. Too many variables."
+This time, a voicemail notification appeared.
 
-"So what are you suggesting?" Jason asked.
+"Should I listen to it?" Jason asked.
 
-"Rules," Lina said simply. "Clear, non-negotiable rules for when you can and can't act."
+"Speaker phone," Lina said. "So we all hear it."
 
-She flipped to a new page and began writing:
+Jason pulled up the voicemail, hit play.
 
-**1. Always have a backup plan.**
+A woman's voice, professional and measured: "Mr. Hayes, this is Catherine Vance with the Metropolitan Safety Review Board. We're conducting routine follow-up interviews with witnesses to yesterday's incident at Porter Street. Nothing formal, just gathering accounts for our records. Please call me back at your earliest convenience."
 
-"No more improvisation in emergencies," she explained. "If you're going to intervene, you need at least one alternative option identified first."
+She left a number and ended the call.
 
-**2. Regular check-ins.**
+The three of them looked at each other.
 
-"Every five minutes during active work," Milo added. "RAE monitors your status. If you hit Yellow, you have two minutes to wrap up or pull back. If you hit Orange, you stop immediately."
+"Routine follow-up," Milo said carefully, "doesn't usually happen this fast."
 
-**3. Contingency measures for overload.**
+"No," RAE agreed. "Metropolitan Safety Review Board is typically understaffed and slow to respond. Having someone contact witnesses within twenty-four hours suggests either exceptional efficiency or particular interest."
 
-"This is the big one," Lina said. "From now on, when you're doing anything risky, one of us is with you. With authority to call Red if you're too compromised to do it yourself."
+"Which means?" Jason asked.
 
-Jason started to protest, but Lina cut him off. "Non-negotiable, Jason. You were bleeding from your nose yesterday. Your hands were shaking so badly you couldn't hold water. And you still wanted to keep going. That's not bravery�that's recklessness."
+"Which means someone flagged the incident as unusual," Lina said. "Question is, are they fishing for information or do they already know something?"
 
-The words stung because they were true.
+"Either way, we need to respond," Milo said. "Ignoring official inquiry looks suspicious. But Jason can't just call back blind."
 
-**4. Emergency protocols for resonance surges.**
+"What do you suggest?" Jason asked.
 
-"RAE says she can detect when you're approaching critical overload," Milo explained. "From now on, if she gives a Red warning, it overrides your authority. You stop. Period."
+"We prepare," Lina said. "We script your responses. We anticipate their questions. And we make sure you have backup."
 
-*I can implement that,* RAE confirmed. *I should have done so already. I'm sorry, Jason. I trusted your judgment when I should have protected you from yourself.*
+"I can be monitoring through your phone," RAE offered. "If questions stray into dangerous territory, I can alert you."
 
-**You were respecting my autonomy.**
+"And I'll be physically present if possible," Lina added. "Moral support and witness to the conversation."
 
-*Your autonomy doesn't matter if you're dead.*
+"You think they'll let you sit in?" Jason asked.
 
-"She's got a point," Lina said, having heard the exchange through her whisper clip. "So. Rule four: RAE's Red warnings are absolute. You stop, no questions."
+"They'll let a concerned friend wait nearby," Lina said. "And I'll be close enough to intervene if necessary."
 
-**5. Mandatory cooldown periods after intense scenarios.**
+Milo was already typing. "Okay, so likely questions: What did you see? Where were you standing? What did you do? Why were you at the scene? Did you notice anything unusual about the scaffold's behavior?"
 
-"Minimum three days of reduced activity after hitting Orange," Milo said. "A full week if you hit Red. And by reduced activity, we mean no shaping. None. Just recovery."
+"And my answers?" Jason asked.
 
-Jason looked at the list, feeling the weight of each rule. They were constraints. Limits. But they were also... necessary.
+"Truthful but limited," Lina said. "You saw the scaffold failing. You were on your way home from work. You helped direct people to safety. You didn't notice anything unusual about the structure itself."
 
-"You think I'm reckless," he said quietly.
+"Except I did," Jason pointed out. "I noticed everything about it."
 
-"I think you're heroic," Lina corrected. "Which is dangerous in a different way. You see someone who needs help and your first instinct is to help them. That's admirable. But it's also going to get you killed if you don't balance it with caution."
+"But you're not a structural engineer," Milo said. "You're just a regular person who happened to be there. You helped people evacuate. That's your story."
 
-Milo nodded. "We're not trying to stop you from helping people, Jason. We're trying to make sure you survive long enough to help more than one group of people."
+*Can you maintain that narrative?* RAE asked privately.
 
-*These protocols are wise,* RAE said. *They will serve you well. And Jason? I'm implementing my own internal rules as well. I will be more aggressive in warning you when I detect danger. Even if it annoys you.*
+**I can try. But what if they know more than they're saying?**
 
-**It won't annoy me. You're keeping me alive.**
+*Then we adapt. But defaulting to civilian ignorance is safest. You're allowed to have helped without understanding what you helped with.*
 
-*That is the plan, yes.*
+Jason took a breath. "Okay. I'll call her back. But we script this first. Every possible question, every safe answer."
 
-"Okay," Jason said, looking at his friends. "I agree. All of it. No more improvised heroics. We plan. We prepare. We have backups."
+"Agreed," Lina said. "And Jason? Remember the core rule: you're allowed to say 'I don't know' or 'I don't remember clearly.' Amnesia from trauma is common. Use it if you need to."
 
-"And if you break these rules?" Lina asked.
+They spent another hour preparing. Building a consistent narrative. Anticipating angles of inquiry. Creating a version of events that was true enough to be believable but vague enough to be safe.
 
-"Then you have permission to lock me in this apartment until I remember why they exist."
+When they were done, Jason felt marginally more confident.
 
-"Noted," Milo said, grinning. "Though I'd probably let you out after a day or two. My place isn't that big."
+"Remember," Milo said as Jason picked up his phone. "You're the good guy who helped save kids. They have no reason to be hostile. This is probably exactly what she said - routine follow-up."
 
-Despite everything, Jason smiled. "Thanks. Both of you. For not giving up on me."
+"Probably," Lina echoed, though her expression suggested she believed otherwise.
 
-"We're a team," Lina said simply. "Teams look out for each other. Which includes sometimes protecting you from yourself."
+Jason dialed the number.
 
-They spent another hour refining the protocols, adding details, planning for scenarios. By the end, they had something solid�a framework that balanced Jason's capabilities with realistic safety margins.
+Catherine Vance answered on the second ring. "Mr. Hayes, thank you for calling back. I hope I'm not catching you at a bad time?"
 
-*This is good work,* RAE said when they were done. *These rules will serve us well. And Jason? Thank you for accepting them. I know constraints feel limiting. But they're what will allow you to do this long-term.*
+"No, this is fine," Jason said, keeping his voice calm. Cooperative but not eager. "You said you wanted to ask about yesterday?"
 
-**I'm learning,** Jason replied. **Slowly. But learning.**
+"That's right. Just a few questions for our incident report. Nothing to worry about."
 
-As Milo and Lina cleaned up the tea mugs and put away their notes, Jason felt something settle in his chest. Not quite peace�more like purpose with boundaries.
+*She's establishing rapport,* RAE observed. *Standard interrogation technique. Remain pleasant but guarded.*
 
-He could still help people. But now he'd do it smarter. Safer.
+"I'm happy to help," Jason said. "Though I'm not sure how much I'll be able to tell you. Everything happened very fast."
 
-One careful step at a time.
+"Of course, that's understandable. Let's start simple: what time did you arrive at the scene?"
 
-"Next session with Elyra is in two days," Lina said, checking her phone. "You feel up for that?"
+And so it began.
 
-Jason took stock of himself. The tremor in his hands had faded. The headache was gone. He felt weak, yes, but recovering.
+---
+
+Twenty minutes later, Jason ended the call and let out a breath he felt like he'd been holding the entire time.
+
+"How bad?" Lina asked immediately.
+
+"She was... polite. Professional. Asked about my position, what I saw, whether I noticed anyone doing anything unusual near the scaffold."
+
+"Did she ask about you specifically?" Milo pressed. "About whether you did anything unusual?"
+
+"She asked if I'd had any direct contact with the structure," Jason said carefully. "I said no. Which is technically true. I didn't touch it."
+
+"Technically true is still true," Lina said. "What else?"
+
+"She wanted to know if I had engineering or construction experience. I said no. She asked if I'd ever worked with resonance practitioners. I said I'd met a few at community events but didn't know any personally."
+
+*Also technically true,* RAE noted. *You've met practitioners but don't personally know any beyond this group.*
+
+"Did she seem satisfied?" Milo asked.
+
+"Hard to tell," Jason admitted. "She thanked me for my time, said someone might follow up if they had additional questions, and that was it."
+
+"Might follow up," Lina repeated. "That's the part that worries me."
+
+"Why?" Jason asked.
+
+"Because it means you're still on their radar," she said. "They're not done looking at you."
+
+"But they don't have anything," Milo said. "Right? Just a video that shows a scaffold not falling when it should have. That's not proof of anything."
+
+"It's enough to ask questions," RAE said. "And questions lead to investigation. Investigation leads to attention. Attention is dangerous."
+
+Jason felt the weight of it settling on his shoulders. "So what do we do?"
+
+"We stick to the plan," Lina said firmly. "Low profile. Consistent story. Smart choices, not heroic ones."
+
+"Smart choices," Jason echoed, hearing the title of their new chapter in his life.
+
+No more improvised rescues. No more assuming he could handle anything that came his way. From now on, they planned. They prepared. They considered consequences before acting.
+
+It felt like a cage.
+
+It also felt like the only way to survive.
+
+"Next session with Elyra is tomorrow," Lina said, checking her phone. "You still feel up for that?"
+
+Jason took stock of himself. The headache was gone. The tremor in his hands had faded. He felt weak still, but functional.
 
 "Yeah," he said. "I'll be ready."
 
 "Good. Because from what Milo found, she's not going to go easy on you."
 
-Jason remembered Elyra's sharp eyes, her bitter smile, the way she'd sized him up in seconds.
+Jason remembered Elyra's sharp eyes, her assessment of him as someone playing with forces he didn't understand.
 
 "I'm counting on it," he said.
 
-Because easy training wouldn't keep him alive.
+Because easy training wouldn't teach him to navigate this new reality they were building. One where helping people meant also protecting himself. Where being seen meant being vulnerable.
 
-And now, with protocols in place and friends watching his back, he had a real chance at surviving long enough to make a difference.
+Where smart choices might save his life more reliably than heroic ones ever could.
 
-One properly planned, carefully executed, definitely-not-improvised step at a time.
+His phone buzzed. Another unknown number.
+
+Jason declined the call without hesitation.
+
+"Learning already," Lina said with approval.
+
+"One properly planned, carefully executed, definitely-not-improvised step at a time," Jason replied.
+
+It would have to be enough.

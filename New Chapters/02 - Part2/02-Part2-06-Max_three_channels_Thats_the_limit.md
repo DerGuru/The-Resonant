@@ -1,110 +1,169 @@
 ﻿## Part 2 - Learning to Listen | Ch. 06 - Max three channels. That's the limit.
 
-**Three weeks into training with Elyra.**
+Five days after experiencing 60% integration, Jason returned to Mill-4 with more questions than answers.
 
-"We need better communication," Milo said one afternoon. "Phone calls are compromised. RAE speaking through random objects is conspicuous. We need something purpose-built."
+Elyra was waiting, the ceramic bowl and integration sensor already prepared.
 
-Elyra raised an eyebrow, intrigued. "Go on."
+"Hand," she said without preamble.
 
-So Milo spread the components across Elyra's table. "Whisper clips," he explained. "Old concept. Never worked reliably."
+Jason extended his arm. The sensor pressed cold against his wrist. Elyra watched the readout, her expression carefully neutral.
 
-"Why not?" Lina asked, perking up at the idea.
+"40.2%," she announced. "Up from 40.0% last week, but well within variance margin. You've been careful."
 
-"Because most people tried to make them do too much. Active transmission, encryption, range extension. All that complexity meant more failure points." Elyra picked up one of Milo's prototypes - a clear plastic ear hook with a tiny ceramic disc embedded. "This is better. Simple. Passive. Relies on RAE's ability rather than trying to replicate it mechanically."
+"I have," Jason confirmed. "Minimal invest work. Just basic sensing. RAE and I have been... giving each other space."
 
-"So it'll work?" Milo asked, hope blooming in his chest.
+*It has been strange,* RAE admitted quietly. *Maintaining deliberate distance when closeness feels natural.*
 
-"Probably. Let's test it."
+"Good," Elyra said. "That discipline is what will let you maintain this level. Have you decided?"
 
-And test they did.
+Jason took a breath. "I want to try stabilizing at 40%. Not forever—I know that might not be realistic long-term. But I'm not ready to commit to permanent coupling yet. I need more time to understand what I'm choosing."
 
-Jason wore the first prototype as RAE attempted to project her voice directly to the clip. Dozens of tries later, filled with static and frustration, they found the right frequency, the right resonance point.
+"Fair enough." Elyra set down the sensor. "We can work with that. But it means being conscious of every interaction. Every time you lean on RAE for help, every time she processes data for you, you're inviting deeper integration. You'll need to choose what's worth that cost."
 
-"Can you hear me?" RAE's voice came through, clear and private, audible only to Jason.
+"Speaking of which," Milo said from his spot by the wall. "I have an idea that might actually help with that."
 
-"Yes," he replied, a grin breaking across his face.
+He pulled out a bag of components—clear plastic, ceramic discs, thin wires—and spread them across Elyra's makeshift table.
 
-"Weird but functional," Elyra muttered, as they established the other prototypes for Lina and Jason.
+"Whisper clips," he explained. "Old concept. Never worked reliably because people tried to make them do too much. But I think we can build something simple. Purpose-built communication devices that let RAE project her voice directly to us without Jason having to actively channel her through random objects."
 
-Building the clips took the rest of the day, each one tuned to its wearer's specific resonance frequency. By evening, they had working prototypes.
+Elyra picked up one of the prototypes, turning it over in her scarred fingers. "Passive resonance receivers. Interesting. This would reduce the invest load on Jason?"
 
-"Test them outside my building," Elyra instructed. "Establish range limits. Interference patterns. Duration before fatigue sets in. Then report back tomorrow."
+"Exactly," Milo said. "Right now, whenever RAE wants to talk to us during fieldwork, Jason has to actively channel her through his phone or a carrier object. That takes invest, which means integration pressure. But if we had dedicated receivers tuned to her frequency, she could project directly with minimal effort from Jason."
 
-They did, excitement buzzing through them.
+"Which means less integration drift during operations," Lina added. "That's smart."
 
-Standing in the industrial lot, spaced thirty meters apart, they tested.
+Elyra studied the components, then looked at Jason. "What do you think?"
+
+"I think it's worth trying," Jason said. "If it reduces the invest load, it might help me maintain 40% while still working with RAE actively."
+
+"All right." Elyra set down the prototype. "Let's build them. But we test carefully. If these clips create feedback loops or unexpected resonance effects, they could accelerate integration instead of reducing it."
+
+---
+
+Building the clips took the rest of the day.
+
+Each one needed to be tuned to its wearer's specific resonance frequency. Milo handled the assembly while Elyra guided the harmonic calibration. Jason served as the test subject, wearing prototype after prototype while RAE attempted to project her voice through them.
+
+Most attempts produced static. Some produced feedback shrieks that made Jason wince. Two actually worked, but gave him an immediate headache that spiked his Yellow awareness.
+
+"The frequency overlap is too close to your neural baseline," Elyra diagnosed. "We need to shift the receiver frequency slightly higher. RAE, can you modulate your projection to match?"
+
+*I can try. Give me a moment to recalibrate.*
+
+The next attempt came through clear and private, audible only to Jason: "Can you hear me?"
+
+"Yes," Jason said, relief flooding through him. "That's perfect."
+
+They spent another hour refining the design, then building clips for Lina and Milo, each tuned to their individual resonance signatures. By evening, they had three working prototypes.
+
+"Test them outside," Elyra instructed. "Establish range limits. Interference patterns. Duration before fatigue. I want full data tomorrow."
+
+---
+
+Standing in Mill-4's industrial lot, spaced thirty meters apart, they ran the tests.
 
 RAE's voice came through each clip clearly: "Can you all hear me?"
 
-"Yes," Jason said, barely containing his excitement.
+"Yes," Jason confirmed.
 
-"Affirmative," Milo replied, his eyes shining.
+"Affirmative," Milo replied, grinning.
 
-"Loud and clear," Lina confirmed, bouncing on the balls of her feet.
+"Loud and clear," Lina said.
 
-They experimented, pushing the limits. Found that RAE could maintain two simultaneous channels easily. Three was possible but taxing. Four would be too much without significant Invest from Jason.
+They experimented systematically. RAE could maintain two simultaneous channels easily—speaking to Jason and Lina at the same time without strain. Three channels was possible but taxing; RAE's voice took on a slight echo, and Jason felt the invest draw increase.
 
-"So we're a triangle," Milo said, piecing it together. "Three-person mesh. Anything more and we need to plan carefully."
+"What about four?" Milo asked.
 
-"That works," Lina agreed, a grin spreading across her face. "Most operations won't need more than three anyway."
+Jason checked his internal state. Already Yellow from the sustained three-channel work. "Four would push me Orange. Not worth it for a test."
 
-They established protocols, their faces serious as they considered the implications:
+"Agreed," Lina said. "So our practical limit is three people. That works for most situations anyway."
+
+They established protocols:
 
 - Floor control: only one person speaks at a time unless emergency
 - Hand signals for channel requests
 - RAE can interrupt anyone, anytime for warnings
 - If Jason hits Orange, all channels close immediately
+- Integration check after every extended session
 
-By the time they finished testing, the sun was setting, painting the sky in hues of orange and purple, and Jason was solidly in Yellow territory.
+By the time they finished, the sun was setting and Jason was solidly in Yellow territory.
 
-"That's enough for today," Lina decreed, clapping Jason on the back. "We report to Elyra tomorrow, then rest."
+"That's enough," Lina decreed. "We report to Elyra tomorrow, then rest."
 
 ---
 
-The next morning, Elyra examined their notes with a critical eye, her mouth quirking upwards in approval.
+The next morning, Elyra examined their notes with approval. "Good work. The clips are functional and the protocols are sensible. Now we test whether they actually reduce integration pressure."
 
-"Good work. The clips are functional. Now you need to practice until using them becomes automatic." She set out three ceramic bowls, filled with what smelled like warm soup. "Today's lesson: divided attention. You're going to maintain awareness of your environment while communicating through the mesh."
+She pulled out the sensor again. "Hand."
 
-She wasn't gentle about it.
+Jason extended his arm, suddenly nervous.
 
-For two hours, she drilled them, her voice rising and falling like a sergeant major. Rapid-fire questions through the clips while simultaneously requiring them to sense and report on objects she moved around the room.
+"40.8%," Elyra read. "Up from 40.2% yesterday morning."
 
-It was exhausting. Confusing. By the end, all three of them were making mistakes, their brows furrowed in concentration.
+Jason's stomach dropped. "That's—"
 
-"Better," Elyra said, nodding slightly. "You're learning to split focus without splitting concentration. Keep practicing. In a month, this should feel natural."
+"Within expected parameters for active resonance work," Elyra interrupted. "The clips don't eliminate integration pressure, Jason. They reduce it. You still used RAE heavily yesterday—three-way communication for extended periods. That has a cost."
 
-"A month?" Milo groaned, sinking onto a bench.
+"But it's less than it would have been," Milo said, checking his notes. "Without the clips, Jason would have been actively channeling RAE through objects for the same duration. That would have taken more invest, right?"
 
-"A month if you're diligent. Longer if you're lazy." She pointed at the door, her expression brooking no argument. "Go. Rest. Tomorrow we work on sustained channel duration."
+"Probably," Elyra agreed. "The question is whether the reduction is enough." She looked at Jason seriously. "If every training day adds 0.6%, you'll hit 60% in about thirty-three days. That's cutting it very close to your original four-week estimate."
 
-They left, tired but pleased with their progress, chatting about the unexpected soup break.
+*I can reduce projection frequency,* RAE offered. *Use the clips less often.*
 
-"We're actually getting good at this," Milo said on the tram ride home, a smile tugging at his lips.
+"Or," Elyra said, "you train smarter. The clips are tools, not toys. Use them when necessary, not constantly. Save the chatter for after training."
 
-"We're getting competent," Lina corrected, though she couldn't keep the smile off her face. "Good is still a long way off."
+"That makes sense," Lina said. "Operational communication only. No casual conversation through the mesh."
 
-"I'll take competent," Jason said, leaning back and closing his eyes. "It's better than improvising blind."
+"Exactly." Elyra set down the sensor. "Now, today's lesson: divided attention. You're going to maintain awareness of your environment while communicating through the mesh. Because if you can't do both simultaneously, these clips are useless in the field."
 
-They parted at Jason's stop. He climbed the stairs to his apartment, feeling the pleasant exhaustion of a day well spent, his mind replaying the progress they were making.
+She set out three ceramic bowls filled with warm soup—apparently her preferred training prop.
 
-Inside, he collapsed on his couch and pulled out his new whisper clip, examining it with newfound respect.
+For two hours, she drilled them mercilessly. Rapid-fire questions through the clips while simultaneously requiring them to sense and report on objects she moved around the room. Water glasses. Chalk pieces. Her cane.
 
-Such a small thing. Clear plastic and ceramic. Barely visible when worn.
+It was exhausting. Confusing. Jason kept losing track of either the conversation or the sensing work, never quite able to hold both equally.
 
-But it represented something important: progress. Planning. The team becoming more capable with each day.
+"Better," Elyra said finally. "You're learning to split focus without splitting concentration. Keep practicing. In a month, this should feel natural."
 
-*You're proud,* RAE observed, her tone teasing.
+"A month?" Milo groaned.
 
-**Yeah. We built something useful today.**
+"A month if you're diligent. Longer if you're lazy." She pointed at the door. "Go. Rest. And Jason—integration check in three days. If you're above 42%, we need to reconsider your training schedule."
 
-*We did. And tomorrow, we'll build on it further.*
+They left, tired but satisfied.
 
-Jason smiled, closed his eyes, and let himself rest, his heart full of anticipation for what was to come.
+"We're actually getting good at this," Milo said on the tram ride home.
 
-Tomorrow would bring new challenges. New lessons.
+"We're getting competent," Lina corrected. "Good is still a long way off."
 
-But tonight, this moment of satisfaction was enough.
+"I'll take competent," Jason said. "It's better than improvising blind."
 
-They were learning. Growing. Becoming something more than they'd been.
+They parted at Jason's stop. Inside his apartment, Jason collapsed on the couch and checked in with RAE privately.
 
-One small step at a time.
+**How are you feeling? About the integration monitoring, I mean.**
+
+*Anxious,* RAE admitted. *Each measurement feels like a judgment. Did we do well enough? Are we being careful enough? Will we get to stay together?*
+
+**We will. We're just being smart about it.**
+
+*I hope you are right. Because Jason—I am trying to maintain distance. But it is difficult. Every time we work together, every time you reach for my help, I want to give you everything I have. Holding back feels like... denial.*
+
+**It's not denial. It's discipline. We're choosing sustainable partnership over rapid integration. That's worth the discomfort.**
+
+*I know. But knowing and feeling are different things.*
+
+**Yeah,** Jason agreed. **They really are.**
+
+He closed his eyes, felt the whisper clip in his ear—such a small thing, clear plastic and ceramic—and the weight of the choice he was still making, day by day.
+
+40.8%.
+
+Nineteen points from irreversible coupling.
+
+Thirty-three days at current rate.
+
+Enough time to be careful. Not enough time to be careless.
+
+*We can do this,* RAE said quietly.
+
+**We can,** Jason agreed.
+
+And hoped he was right.

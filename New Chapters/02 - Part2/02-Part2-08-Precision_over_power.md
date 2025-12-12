@@ -1,6 +1,6 @@
 ﻿## Part 2 - Learning to Listen | Ch. 08 - Precision over power
 
-Six weeks into training with Elyra, and Jason's head still hurt every night.
+Six weeks after their first session at Mill-4, Jason's head still hurt every night.
 
 Not the sharp, dangerous pain of Orange or Red. Just a persistent ache behind his eyes that whispered *you're working at capacity*. RAE said it was normal. Elyra said it meant he was learning.
 
@@ -78,11 +78,11 @@ Jason did. Blinked. The room swam back into focus.
 
 "How long was I aligned?" he asked.
 
-"Two minutes, forty seconds," Milo said from his laptop. "And your integration spiked to 26% during peak focus."
+"Two minutes, forty seconds," Milo said from his laptop. "And your integration spiked to 44% during peak focus."
 
 Jason felt a flutter of concern. "Is that safe?"
 
-"It's fine," Elyra said. "Integration fluctuates during active work. The baseline is what matters. And yours is holding steady at 24%." She picked up the bowl, turned it over. "This bowl is eighty years old. Manufactured in 1945. The glaze is indeed tin-oxide based—they switched from lead during the war due to shortages. And yes, there's iron oxide in the clay body. About 3% by weight."
+"It's fine," Elyra said. "Integration fluctuates during active work. The baseline is what matters. And yours is holding steady at 42%." She picked up the bowl, turned it over. "This bowl is eighty years old. Manufactured in 1945. The glaze is indeed tin-oxide based—they switched from lead during the war due to shortages. And yes, there's iron oxide in the clay body. About 3% by weight."
 
 She set it down carefully. "You perceived all of that through resonance alone. That's not beginner work, Jason. That's competent practice."
 

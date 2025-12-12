@@ -1,6 +1,6 @@
 ﻿## Part 2 - Learning to Listen | Ch. 02 - You saved them, but you almost died
 
-The next week passed in careful increments.
+The next week passed in measured increments.
 
 Training at Mr. Morandi's restaurant became routine. Jason learned to hold carrier connections longer - fifteen minutes without strain, then twenty, then half an hour. Multiple carriers simultaneously remained difficult, but single-carrier work grew almost effortless. RAE's voice through the teapot became clearer as they both adapted to the technique.
 
@@ -32,7 +32,7 @@ Jason's awareness prickled. He could feel her resonance now - that same wariness
 
 "Things?" he echoed.
 
-"People coming and going. Strange marks on doors." She looked at him directly. "Late-night visitors. Storms that aren't natural."
+"People coming and going at strange hours. Unusual visitors. That storm last month that only seemed to touch our building." She looked at him directly. "You're involved in something, aren't you?"
 
 The elevator dinged. Jason's heart hammered.
 
@@ -94,7 +94,7 @@ Lina spotted him, waved him over. She and Milo stood at the edge of the courtyar
 
 "Tell me you can do something," Lina said.
 
-Jason's mind raced. The scaffold. The weight. The resonance of stressed metal and failing structure.
+Adrenaline burned through Jason's fatigue from the day. His mind raced. The scaffold. The weight. The resonance of stressed metal and failing structure.
 
 "I can try. But I've never done anything this big."
 
@@ -286,14 +286,24 @@ And that, for now, was enough.
 
 Jason smiled despite himself. Ate his food. Felt his body slowly remember how to be normal.
 
-Tomorrow, they'd rest. The day after, they'd resume training.
+His phone buzzed. A news alert.
 
-But for now, this moment - safe, fed, surrounded by friends - was exactly what he needed.
+**"Miracle Save at Porter Street: Collapsing Scaffold Avoided Tragedy"**
 
-Even if his head still felt like it had been used as a drum.
+Beneath it, a grainy cell phone video still showing the exact moment the scaffold steadied before falling. Dozens of witnesses. Hundreds of shares already.
 
-Small price to pay for a successful first crisis.
+Jason's stomach dropped.
 
-He just hoped the second one would be easier.
+"Guys," he said quietly. "We have a problem."
 
-Somehow, he doubted it would be.
+Lina and Milo looked at the screen. Their faces went pale.
+
+"Tomorrow," Lina said firmly. "We deal with it tomorrow. Tonight, you rest."
+
+But Jason could see it in her eyes - the same worry he felt.
+
+They'd saved lives today.
+
+But they'd also been seen.
+
+And in the world they were navigating, being seen carried its own dangers.

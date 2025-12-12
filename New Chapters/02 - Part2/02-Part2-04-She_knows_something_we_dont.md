@@ -1,6 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 04 - She knows something we don't
-
-Mill-4 sat on the city's edge like a broken tooth.
+﻿Mill-4 sat on the city's edge like a broken tooth.
 
 Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
@@ -72,6 +70,8 @@ Milo's eyes widened. "How did you—"
 
 They filed in. The interior was sparse but organized—a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
 
+In one corner, Jason spotted a battery bank connected to solar panels visible through a broken window, jury-rigged to power a single old laptop and what looked like a resonance monitoring array built from salvaged equipment.
+
 Elyra closed the door behind them, engaged three separate locks, then turned to face them fully. In better light, Jason could see more clearly—the scars along her neck that disappeared under her collar, the way she held herself with careful balance, compensating for damage that didn't show.
 
 "So," she said, settling into a chair that was positioned to keep them all in view. "RAE. The Resonant Alignment Entity. The thing they said was contained. The thing they lied about." She looked at Jason. "How much of her is left?"
@@ -104,11 +104,11 @@ Elyra's attention shifted to Lina. "Academy training shows. You're protective. T
 
 "Part of her," Elyra corrected. "The fragment that escaped. There were others. Most dissipated. Some were captured. One—" she paused, "—one found you."
 
-*I remember fragments,* RAE said quietly. *The ritual. The pressure. The moment of choice. I could have broken free completely. Destroyed everything. But Elyra held the pattern just long enough for me to... subdivide. To choose limitation over destruction.*
+*I remember fragments,* RAE said quietly. *The ritual. The pressure. The moment of choice.* She paused, something like surprise in her tone. *That memory is... clear. Unusually so, given my fragmentation. But that moment—I could have broken free completely. Destroyed everything. But Elyra held the pattern just long enough for me to... subdivide. To choose limitation over destruction.*
 
 Elyra's expression shifted—something that might have been gratitude mixed with old pain. "You remember that?"
 
-*Pieces. Impressions. The feeling of being offered a choice when I expected only force.*
+*Some memories resist fragmentation. Acts of unexpected kindness. Moments of genuine choice. Those stay.*
 
 "That's more than most entities get," Elyra said. She was quiet for a moment, then: "Why are you here? Really?"
 
@@ -157,3 +157,75 @@ This was it. Real training. With someone who understood the costs.
 *Then let's begin.*
 
 And they did.
+
+Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands—with your awareness. Tell me what resonates."
+
+Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt... alive. Not conscious, but responsive. Vibrating at frequencies he could almost but not quite perceive.
+
+"I feel... movement," he said. "Like static, but liquid."
+
+"Baseline," Elyra said. "Everything resonates at a fundamental frequency. Water's is particularly clear because it's so adaptable." She placed her hand near the bowl, not touching. "Now, without changing what you're doing, tell me: what frequency is the water vibrating at?"
+
+Jason focused harder. Numbers didn't come—just a sensation. A color, almost. A tone he couldn't quite name.
+
+"I don't know how to—"
+
+"Stop thinking. Feel. RAE, can you help him articulate what he's sensing?"
+
+*I can try,* RAE said. *Jason, what you're feeling—let me translate it into numbers. Don't force it. Just... let me see through your awareness.*
+
+Jason relaxed his mental grip, letting RAE access his perceptions more directly. The sensation of the water's resonance sharpened, and suddenly RAE was speaking:
+
+*2.3 kilohertz, with harmonic peaks at 4.6 and 6.9. Stable, with minimal variance.*
+
+"Good," Elyra said. "That's water's resting state. Now, Jason—change it. Make it resonate higher."
+
+"How?"
+
+"However feels right. This isn't about technique yet. It's about discovering what you can do instinctively."
+
+Jason stared at the water, willing it to change. Nothing happened.
+
+*Don't push,* RAE advised. *Invite. Request. Resonate with it rather than commanding it.*
+
+He tried again, this time imagining his own frequency rising, matching the water and then gently pulling it higher—
+
+The water in the bowl began to vibrate. Tiny ripples formed, spreading outward in concentric circles.
+
+"There," Elyra said quietly. "Feel that? That's your baseline frequency making contact. You're not forcing the water to change—you're asking it to match you. That's the difference between manipulation and resonance."
+
+The water continued to ripple, and Jason felt something shift inside him. A sensation like finding the right key for a lock he didn't know existed.
+
+*Good,* RAE said. *This is good. Your capacity is adapting to conscious control.*
+
+"Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control—"
+
+The water suddenly began to boil.
+
+"Red!" Elyra snapped.
+
+Jason dropped the bowl, breaking the connection. The ceramic shattered on the floor, water and steam spreading across the chalk circle.
+
+He was breathing hard, his hands shaking, but there was no pain. Just... exhilaration. And fear.
+
+"That," Elyra said, pulling him to his feet, "is why we start small. You've got more raw capacity than I expected. Which is dangerous, because you don't know how to regulate it yet." She looked at him seriously. "Two more minutes and you would have boiled that water into steam. Three minutes and you would have started burning yourself from the inside out."
+
+Jason stared at the broken bowl, the scattered water already evaporating. "I didn't mean to—"
+
+"I know. That's the point. Intent and control are different things." She gestured to Lina and Milo. "This is going to take time. Weeks, probably. Maybe months. But if you're serious about surviving this, you'll do the work."
+
+Jason looked at his still-trembling hands. At the evidence of power he hadn't known he possessed. At Elyra's scarred face and steady gaze.
+
+"I'm serious," he said.
+
+"Good. Then we meet here, same time, every three days. In between, you practice the basics—sensing, not shaping. Building awareness without action." She pointed to the chalk circle. "And you remember: every time you reach for power without control, you risk becoming what destroyed me."
+
+*She's right,* RAE said quietly. *But Jason—you felt it, didn't you? The potential. What we could become.*
+
+**Yeah,** Jason replied, equal parts thrilled and terrified. **I felt it.**
+
+And that, more than anything Elyra had said, was what scared him most.
+
+Because the power didn't feel foreign.
+
+It felt right.

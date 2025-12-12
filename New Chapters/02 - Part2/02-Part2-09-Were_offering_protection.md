@@ -1,6 +1,6 @@
 ﻿## Part 2 - Learning to Listen | Ch. 09 - We're offering protection
 
-**Five weeks into training.**
+**Seven weeks into training.**
 
 Jason was three blocks from Morandi's when the man stepped out of a coffee shop doorway.
 
@@ -76,7 +76,7 @@ Elyra held the card under her desk lamp, examining it like a counterfeit bill. L
 
 "He's a recruiter," Elyra said, setting the card down. "Malvek's recruiter. This is how the Authority operates. They identify unaffiliated practitioners, offer oversight, and if you refuse—"
 
-"They what?" Lina asked.
+"Do they what?" Lina asked.
 
 "Depends. Sometimes nothing. Sometimes passive observation. Sometimes active containment." Elyra's hands were steady, but her jaw was tight. "I refused a similar offer eleven years ago. Three months later, they tried to force-integrate me with a compliance AI. That's what damaged me."
 
@@ -161,3 +161,15 @@ He let sleep pull him under, the card still visible in the moonlight streaming t
 Forty-eight hours.
 
 The clock was ticking.
+
+---
+
+Across the street, in a parked sedan with tinted windows, Thomas Reeves made a note on his tablet.
+
+*Subject declined initial contact. Proceeding to observation phase. Recommend elevated monitoring.*
+
+He looked up at Jason's lit window, now dark.
+
+Forty-six hours remaining.
+
+Then things would get more complicated.

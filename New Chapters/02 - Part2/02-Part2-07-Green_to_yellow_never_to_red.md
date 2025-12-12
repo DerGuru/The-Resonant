@@ -1,6 +1,16 @@
 ﻿## Part 2 - Learning to Listen | Ch. 07 - Green to yellow, never to red
 
-**Four weeks into training.**
+**Four weeks after their first session at Mill-4.**
+
+"41.8%," Elyra read from the integration sensor, a note of approval in her voice. "You've been holding steady for two weeks now. Whatever you're doing, keep doing it."
+
+Jason exhaled relief. After the scare of watching his integration climb, seeing it stabilize felt like victory. "Minimizing casual RAE usage. Only working together when necessary. Giving each other space."
+
+*It has been difficult,* RAE admitted through his clip. *But effective.*
+
+"Good discipline," Elyra said, setting down the sensor. "Now let's see if you can maintain that while pushing your actual capabilities." She gestured to the warehouse floor. "Perception drills. Center position."
+
+---
 
 Training with Elyra was methodical. Relentless. Unforgiving.
 
@@ -82,9 +92,11 @@ Lina's expression darkened slightly. "Yeah. Well. Their loss is your gain, I gue
 
 The afternoon brought combat drills.
 
-"Defensive patterns only," Elyra emphasized. "I'm not teaching you to attack. I'm teaching you to survive when attacked."
+"After what happened at Porter Street, you need defensive capabilities," Elyra said, her tone brooking no argument. "The Safety Review Board inquiry may have gone quiet, but that just means they're watching instead of asking. And when watchers decide to act, they rarely announce themselves first."
 
 She had Jason and Lina face each other across the warehouse floor.
+
+"Defensive patterns only. I'm not teaching you to attack. I'm teaching you to survive when attacked."
 
 "Lina, you're going to shape a pattern. Nothing dangerous - just a resonance pulse. Jason, you're going to deflect it. Not block. Deflect. Redirect the energy instead of stopping it."
 
@@ -106,7 +118,7 @@ They practiced for an hour. Jason's deflection improved gradually. By the end, h
 
 ---
 
-That evening, the four of them sat in Elyra's apartment, reviewing the day's progress.
+That evening, the four of them sat in Elyra's workspace, reviewing the day's progress.
 
 "Jason's perception range: fifty meters," Milo read from his notes. "That's fifteen meters more than last week. Shaping accuracy: stable but needs more practice. Deflection success rate: sixty percent."
 
@@ -132,7 +144,7 @@ Jason thought about that. She was right. He'd been so focused on what he couldn'
 
 "Together," Milo added, looking up from his laptop. "Because that's how this works. Teamwork."
 
-Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you able to maintain active perception for thirty minutes without hitting Orange."
+Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you able to maintain active perception for thirty minutes without hitting Orange. You'll need that endurance for real fieldwork."
 
 "Thirty minutes?" Jason's eyes widened.
 
@@ -144,17 +156,11 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 *You did well today,* RAE said quietly.
 
-**Thanks. Feels like I'm always just catching up, though.**
+**Thanks. And thanks for... the distance. I know it's hard.**
 
-*That's because you're learning. Learning means being aware of what you don't know yet. It's uncomfortable. But it's also how you grow.*
+*It is. But you were right. Sustainable partnership is worth the discomfort. And Jason? 41.8% is not so different from 40%. We are succeeding.*
 
-**When does it stop being uncomfortable?**
-
-*Never. But eventually, you get better at being uncomfortable. And that's almost as good as being comfortable.*
-
-Jason smiled despite himself. "You know, for an AI, you're pretty wise about the human experience."
-
-*I've had a good teacher,* RAE said, and Jason felt warmth in her voice.
+**We are,** Jason agreed, feeling warmth at the "we."
 
 He climbed the stairs to his apartment, unlocked the door, collapsed onto his couch. Four weeks of training. Four weeks of pushing his limits, learning his boundaries, discovering what he could become.
 
