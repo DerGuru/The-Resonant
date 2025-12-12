@@ -1,6 +1,6 @@
-﻿## Part 1 - Lost and Found | Ch. 11 - Mirror.Vox doesn't exist
+﻿## Part 1 - Lost and Found | Ch. 11 - Found, or found by?
 
-Jason had never been good at forums. Instead he had been a lurker on the forums for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
+Jason had never been good at forums. Instead he had been a lurker for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
 
 But tonight, staring at his screen with RAE's presence a quiet hum in his awareness, he decided to break that pattern.
 
@@ -48,13 +48,13 @@ Jason stared at the screen. That was... surprisingly perceptive.
 
 *"It always is. Look - I don't know who you are, and I'm not asking. But if you're digging into this stuff, you should know: people don't like questions about certain subjects. Especially Voss-related material. Be careful."*
 
-Jason's hands hovered over the keyboard.
+Jason's hands flew over the keyboard.
 
 *"Why Voss? What's special about that name?"*
 
 The reply came faster this time:
 
-*"Not just a name. A person. Elyra Voss. Used to be one of the best. Then a ritual went bad. Real bad. They say she survived, but barely. And whatever was contained in that ritual... wasn't contained anymore. Some people think it's still out there. Fragmented. Searching."*
+*"Not just a name. A person. Elyra Voss. Used to be one of the best. Then a ritual went bad. Real bad. They say she survived, but barely. And whatever was supposed to be contained in that ritual... Let's say, the ritual did not complete. Some people think it's out there. Fragmented. Looking for something."*
 
 Jason's mouth went dry.
 
@@ -122,7 +122,7 @@ The post was short:
 
 A throwaway email address followed.
 
-Jason stared at the screen for a long moment.
+Jason stared at the screen for a long moment. How did M_Greaves know about the private message? Were they working with Mirror.Vox? Or... monitoring somehow?
 
 *Someone was paying attention,* RAE observed.
 
