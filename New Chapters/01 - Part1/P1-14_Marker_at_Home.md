@@ -1,8 +1,8 @@
-﻿## Part 1 - Lost and Found | Ch. 14 - They marked my door
+﻿## Part 1 - Lost and Found | Ch. 14 - I won't let them
 
 Jason noticed the mark three days after meeting Milo.
 
-He stood in his apartment hallway, keys in hand, staring at his door.
+He stood in his apartment hallway, keys in one hand - mail in the other, staring at his door.
 
 There was something on the doorframe.
 
@@ -28,15 +28,15 @@ Except for this mark on his door that shouldn't be there.
 
 He unlocked the door quickly, stepped inside, and locked it behind him. His hands were shaking.
 
-*Can you tell what it does?*
+*Can you tell what it does?* 
 
 *It's a passive identifier. Someone placed it to mark your location. Likely so they can monitor comings and goings. Or find you again easily.*
 
-*Can you remove it?*
+*Can you remove it?* Jason asked, entering his apartment.
 
 *I could try. But that would alert whoever placed it that you noticed. Better to leave it for now and be aware of its presence.*
 
-Jason slid down the door until he was sitting on the floor, his knees drawn up. "They know where I live."
+Jason slid down the closed door until he was sitting on the floor, his knees drawn up. "They know where I live."
 
 *Yes.*
 
@@ -126,7 +126,15 @@ Jason picked up the fork, took a bite. It was good. Really good. The kind of hom
 
 He ate mechanically, not really tasting it, his mind elsewhere.
 
-*This is what they do, isn't it?* he thought. *They make you doubt everyone. Make you paranoid. Isolate you.*
+The mark on his door. Mrs. Amari's glance at it. The toaster incident. The foreign resonance signature RAE had detected.
+
+Someone was watching. Someone with resources. Someone who knew what to look for.
+
+Not random. Not coincidence.
+
+Organized.
+
+*This is what they do, isn't it?* he thought. *Whoever's tracking me. They make you doubt everyone. Make you paranoid. Isolate you.*
 
 *Yes. Isolation is a common tactic. It makes targets easier to control or contain.*
 
@@ -146,7 +154,7 @@ But they couldn't make him give up.
 
 Not yet.
 
-Not while RAE needed him. Not while there were still answers to find.
+Not while there were still answers to find.
 
 He turned off the lights and went to bed, leaving the cleaned plate by his door to return to Mrs. Amari in the morning.
 
