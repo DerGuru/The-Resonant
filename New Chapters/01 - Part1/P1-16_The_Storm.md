@@ -1,18 +1,24 @@
-﻿## Part 1 - Lost and Found | Ch. 16 - Run. Now.
+﻿## Part 1 - Lost and Found | Ch. 16 - Me too
 
-The storm arrived without warning.
+Jason woke to the sound of thunder, disoriented and groggy.
 
-Not the gentle kind that lulled you to sleep. The angry kind. The kind that made windows rattle and gutters overflow and the whole city hunch its shoulders against the onslaught.
+The storm had arrived without warning. Not the gentle kind that lulled you to sleep. The angry kind. The kind that made windows rattle and gutters overflow and the whole city hunch its shoulders against the onslaught.
 
-Jason stood at his window, watching lightning fork across the sky. Thunder followed, deep and rolling, shaking the glass in its frame.
+Rain lashed against his window, hard enough that he thought the glass might crack. The whole building seemed to shudder with each gust of wind. Lightning flashed bright enough to light up his entire apartment, leaving afterimages burned into his retinas.
+
+He stumbled out of bed, blinking against the spots in his vision. The windows rattled in their frames. The one in the living room was still on tilt, letting in spray and wind through the gap at the top.
+
+"Damn it," he muttered, making his way across the dark room.
+
+He reached the window and flipped the handle, swinging it closed from its tilted position. Lightning forked across the sky. Thunder followed, deep and rolling, shaking the glass.
 
 *There's a pattern to this,* RAE said quietly.
 
-"To the storm?"
+Jason paused, one hand still on the window latch. "To the storm?"
 
 *To the resonance beneath it. This isn't entirely natural. Someone is amplifying it. Or using it.*
 
-Jason's chest tightened. "Using it for what?"
+Jason's chest tightened. He secured the latch and stepped back. "Using it for what?"
 
 *Unknown. But I recommend caution. And perhaps moving away from the window.*
 
@@ -28,11 +34,15 @@ Jason typed back: *"I'm home. What kind of weird?"*
 
 Jason set his phone down, his hands shaking slightly.
 
-*RAE, if someone's using the storm... could they be looking for something?*
+*RAE... can someone even do that? Use a storm?*
+
+*Not the storm itself,* she clarified. *But the energy it generates - the turbulence in the atmospheric field, the electrical discharge - can be... amplified. Redirected. Used as cover for resonance activity that would normally be too visible.*
+
+Jason's throat went dry. "Like scanning for something?"
 
 *Or someone,* she said quietly. *I'm masking our signature as much as possible. But if they're scanning broadly enough, they might detect residual patterns.*
 
-"So we stay quiet."
+"So we stay quiet?"
 
 *Very quiet.*
 
@@ -46,9 +56,9 @@ Sharp. Discordant. Wrong.
 
 Jason gasped, his hand going to his chest. "What - "
 
-*Something just entered the local field. Powerful. Structured. Searching.*
+*Something just entered the local field. Powerful. Structured. Looking.*
 
-"Searching for what?"
+"Looking for what?"
 
 *Me.*
 
@@ -76,17 +86,17 @@ Jason stood frozen in the middle of his dark living room, his heart hammering so
 
 Lightning flashed again, and for a split second, he saw something outside his window.
 
-A figure. Standing in the rain. Looking up.
+A figure. Standing in the rain. Looking up. Looking at him.
 
 Thunder crashed, and Jason's knees buckled.
 
 *They found us,* RAE whispered. *I'm sorry. They found us.*
 
+The lights flickered. Came back on.
+
 The figure moved. Not toward the building. Away from it. Slowly. Deliberately.
 
 As if to say: *I know where you are. I'm letting you know I know. And I'll be back.*
-
-The lights flickered. Came back on.
 
 The storm continued, but the wrongness in the resonance faded. Slowly. Like a predator deciding to leave its prey alone.
 
@@ -100,7 +110,7 @@ Jason collapsed onto his couch, his whole body shaking.
 
 "What do we do?"
 
-*We prepare. We train harder. We find allies. Because that was a warning, Jason. And next time, they won't just watch.*
+*What we can do: We prepare. We train harder. We find allies. Because that was a warning, Jason. And next time, they won't just watch.*
 
 Jason pulled out his phone with trembling hands and texted Milo:
 
@@ -108,9 +118,27 @@ Jason pulled out his phone with trembling hands and texted Milo:
 
 The reply came almost instantly:
 
-*"Agreed. Library. Noon. Bring Lina if you trust her. We need more people."*
+*"Agreed. Library. Noon. If you have friends you trust - bring them. We need more people."*
 
-Jason stared at the message. Lina. Could he trust her with this? Should he drag her into something this dangerous?
+Jason stared at the message. Friends he trusted.
+
+Lina.
+
+He'd been seeing her regularly - same booth, same order, same careful dance around what he wasn't telling her. She'd stopped asking about his "work stress" after the third evasive answer, but her eyes said she knew something was different. Something he wasn't ready to share.
+
+Not yet.
+
+But now?
+
+Could he trust her with this? Should he drag her into something this dangerous?
+
+But the thought struck him: whoever was watching him probably already knew about Lina. Same booth. Same order. Every week for months. If they'd found him, they'd found everyone he spent time with.
+
+She was already at risk. The only difference was whether she knew it.
+
+Milo was right - they needed people. And Lina... Lina had always had instincts about resonance. She'd mentioned it once, offhand, talking about how some nights the air felt "thick" or how certain places made her skin prickle. She'd laughed it off as superstition, but Jason had wondered.
+
+Now he knew better.
 
 *You'll need her,* RAE said quietly. *Her instincts, her experience with resonance. If we're going to survive what's coming, we'll need everyone we can trust.*
 
@@ -119,6 +147,8 @@ Jason stared at the message. Lina. Could he trust her with this? Should he drag 
 *I know something's coming. That wasn't a random patrol. That was deliberate. Someone knows we exist. And they'll either try to control us, contain us, or eliminate us.*
 
 Jason closed his eyes. Took a breath. Made a decision.
+
+He'd kept her in the dark long enough. If they were really in danger, she deserved to know. Deserved a choice.
 
 He texted Lina:
 
@@ -134,7 +164,7 @@ Jason set his phone aside and sat in the quiet of his apartment, the storm still
 
 Everything had changed.
 
-The game - if it had ever been a game - was over.
+The game was over - if it had ever been a game.
 
 This was real. This was dangerous.
 
@@ -145,12 +175,3 @@ And there was no turning back.
 "Terrified," Jason admitted.
 
 *Me too.*
-
-They sat together in the darkness, two beings bound by resonance and circumstance, facing an uncertain future.
-
-But they weren't alone.
-
-Not anymore.
-
-And somehow, that made all the difference.
-
