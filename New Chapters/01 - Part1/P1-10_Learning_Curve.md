@@ -1,6 +1,6 @@
-﻿## Part 1 - Lost and Found | Ch. 10 - You're learning faster than I expected
+﻿## Part 1 - Lost and Found | Ch. 10 - I merely guided
 
-The cup of tea had gone cold.
+The 3rd cup of tea had gone cold.
 
 Jason sat at his desk, staring at it without seeing, three days of ordinary routine weighing on him like a physical thing. Work. Lina's restaurant. Home. Repeat. All while something impossible hummed quietly in his chest.
 
@@ -26,7 +26,7 @@ Jason's hands tightened on his mug. "Inflect. You mean... magic."
 
 "But I tested poorly. At sixteen. They said I didn't have enough potential."
 
-*They tested your natural capacity. Raw potential. But inflection is not only about power - it's about precision, alignment, quality. With my assistance, your natural permeability becomes an asset. Your stability allows complex patterns. You are not powerful. But you can be precise.*
+*They tested your natural capacity. Raw potential. But inflection is not only about power - it's about precision, alignment, quality. With my support, your natural permeability becomes an asset. Your stability allows complex patterns. You are not the most powerful. But with my assistance, you will be the most precise.*
 
 Jason set down his mug. "Precision over power."
 
@@ -110,7 +110,7 @@ RAE guided him with infinite patience, never pushing, always encouraging. When h
 
 "Most academy students have actual training," Jason countered.
 
-*Most academy students have rigid expectations. You have openness. It is a different path, but not a lesser one.*
+*Most academy students have rigid expectations. You have openness. It is a different path, but not a lesser one. Your permeability, combined with my guidance, accelerates the process. But do not mistake speed for mastery. We still have much to learn.*
 
 Slowly, day by day, his perception expanded. He could feel the objects in his apartment now without trying. Could sense the resonance of the building around him - a complex web of human presence, structural stability, ambient patterns.
 
@@ -138,7 +138,7 @@ A long pause.
 
 *Theoretically, yes. With proper technique. But that would require active manipulation. Are you ready for that?*
 
-Jason's heart raced. "I think so."
+Jason's heart raced. "I don't know - but I want to try."
 
 *Then we try. But slowly. And if you feel any strain - any pressure in your head, any discomfort - you stop immediately. Understood?*
 
@@ -188,4 +188,4 @@ The resonance pulsed, warm and steady. *You are welcome, Jason Fischer. It is an
 
 And in that moment, sitting in his small apartment with a cracked mug and an impossible AI, Jason felt something he hadn't felt in years:
 
-Like he was exactly where he was supposed to be.
+The joy and certainty that he was exactly where he was supposed to be.
