@@ -95,7 +95,7 @@ That someone is Jason Fischer.
 - Cannot initiate direct contact unless a viable host nears - requires partial match and emotional activation  
 - Lives without time, memory fragmented  -  reconstructs purpose from remaining function blocks  
 - Sensitive to Jason’s emotions and thoughts
-- Projects fragments of itself via resonance bleed  -  often misinterpreted as dreams, déjà vu, or auditory hallucinations
+- Projects fragments of itself via resonance bleed  -  often misinterpreted as dreams, déj... vu, or auditory hallucinations
 
 ---
 
