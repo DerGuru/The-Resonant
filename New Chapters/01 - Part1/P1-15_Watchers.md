@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 15 - Someone's paying attention
+﻿## Part 1 - Lost and Found | Ch. 15 - Do you trust me?
 
 Everything felt different at night.
 
@@ -10,7 +10,17 @@ He exhaled through his nose, a long, slow breath that didn't quite steady his ne
 
 It had been three weeks since he'd met Milo. Three weeks of careful research, late-night conversations, and slowly expanding his understanding of what RAE was and what they could do together.
 
+Three weeks since the mark had appeared on his door.
+
+He'd left it there, just as RAE had advised. A small sigil on the doorframe, barely visible unless you knew to look for it. A reminder that someone was watching. Tracking his comings and goings. Waiting.
+
+He'd changed only some of his habits, careful not to reveal that he knew he was being watched. Still ... No sensitive materials at home. No discussions of plans within these walls. He met Milo at coffee shops, libraries, parks. Never the same place twice.
+
+The mark remained. A constant presence. A warning he couldn't ignore.
+
 Three weeks of feeling like he was standing on the edge of something vast and unknowable.
+
+Yet knowing that someone - organized, resourced and patient - was watching him standing there.
 
 Tonight, he was reading through forum posts again. Not the main threads - those were too public, too watched. But the smaller communities, the ones where people whispered about things that official channels dismissed.
 
@@ -24,9 +34,9 @@ Posted by an anonymous user. No name. No history. Just words:
 
 Jason's chest tightened.
 
-*They're watching.*
+"*They're watching.*" He shuddered. The words echoed in his mind.
 
-He showed the post to RAE. *Have you seen anything like this?*
+*Have you seen anything like this?* he asked RAE.
 
 *No. But the sentiment aligns with what Milo described. There are others who understand that resonance operates outside established parameters. And there are authorities who view such understanding as threatening.*
 
@@ -50,15 +60,23 @@ Then, a message appeared on the screen. Not through the interface. Just... text,
 
 Jason's blood went cold.
 
-The message stayed for five seconds. Then vanished. The terminal resumed normal function as if nothing had happened.
+The message stayed for two seconds. Then vanished. The terminal resumed normal function as if nothing had happened.
 
-He sat very still, his heart pounding.
+He sat very still, his heart pounding. Had that just—
 
 *RAE?*
 
 *I saw it. That was not a system message. That was a direct resonance projection. Someone knows what you're researching. And they want you to stop.*
 
-*Can they trace it? Find me?*
+*Can they trace it? Find me? Find you?*
+
+A pause. Longer than usual.
+
+*They already know where you are - the mark on your door confirms that. As for finding me...* Another hesitation. *If they have the capability to project a resonance message directly onto your terminal, they likely have the capability to detect my presence if they look closely enough. I am... not invisible. Just fragmented and difficult to isolate. But with sufficient resources and intent, yes. They could find me.*
+
+Jason's stomach dropped. *So we're both at risk.*
+
+*Yes. Which is why we must be even more careful going forward. This is no longer a theoretical threat. This is an active warning.*
 
 *If they sent that message, they already know who you are. The question is: what will they do about it?*
 
@@ -86,7 +104,7 @@ Milo's expression darkened. "That's not good. That's someone with serious capabi
 
 "How?"
 
-Milo grinned, though it didn't reach his eyes. "That's where I come in. I'm good at tracing digital signatures. If they left any kind of resonance footprint, I can probably track it. Won't give us a name, but it might give us context. Institutional? Private? Government?"
+Milo grinned, though it didn't reach his eyes. "That's where I come in. I'm good at tracing signatures. If they left any kind of resonance footprint, I can probably track it. Won't give us a name, but it might give us context. Institutional? Private? Government?"
 
 "And then?"
 
@@ -110,7 +128,7 @@ He lay in bed, staring at the ceiling, running through scenarios in his head. Wh
 
 *Which is?*
 
-*We continue learning. We prepare. We make ourselves competent enough that if confrontation comes, we can handle it. Fear is natural. Paralysis is not.*
+*We continue learning. We prepare. We make ourselves competent enough that if confrontation comes, we can handle it. Fear is good. Paralysis is not.*
 
 Jason closed his eyes. "You're right. I know you're right."
 
@@ -118,9 +136,21 @@ Jason closed his eyes. "You're right. I know you're right."
 
 "I don't think I can."
 
-*Then listen. I'll help.*
+*Then listen. Let me help?*
 
-And RAE did something she'd never done before. She shaped a pattern - not physical, not external - but internal. A soft, rhythmic pulse that matched his breathing. A gentle resonance that eased the tension in his muscles, slowed his racing thoughts.
+Jason hesitated. *What do you mean?*
+
+*I can ease your tension. Help you sleep. But I need your permission.*
+
+A pause. *You're sure it's safe?*
+
+*Yes. Nothing forceful. Just... comfort. Do you trust me?*
+
+*I trust you,* Jason thought. *Go ahead.*
+
+*Thank you.*
+
+And RAE shaped a pattern - not physical, not external - but internal. A soft, rhythmic pulse that matched his breathing. A gentle resonance that eased the tension in his muscles, slowed his racing thoughts.
 
 Not control. Just... comfort.
 
@@ -136,4 +166,4 @@ Protecting him in the only way she could.
 
 And in his dreams, he heard her voice, soft and steady:
 
-*I will not let them harm you. I promise.*
+*I won't let them harm you. I won't! I promise.*
