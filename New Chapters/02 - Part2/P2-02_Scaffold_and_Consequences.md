@@ -1,14 +1,68 @@
-﻿## Part 2 - Learning to Listen | Ch. 03 - You saved them, but you almost died
+﻿## Part 2 - Learning to Listen | Ch. 02 - You saved them, but you almost died
 
-The scaffold buckled without warning.
+The next week passed in careful increments.
 
-Jason was at work, halfway through digitizing a box of land deeds from the 1970s, when his phone buzzed. Lina's name on the screen.
+Training at Mr. Morandi's restaurant became routine. Jason learned to hold carrier connections longer - fifteen minutes without strain, then twenty, then half an hour. Multiple carriers simultaneously remained difficult, but single-carrier work grew almost effortless. RAE's voice through the teapot became clearer as they both adapted to the technique.
 
-He stepped into the hallway before answering. "Hey."
+They ventured outside. Streets, parks, crowded intersections. Jason practiced filtering ambient noise, reading emotional resonances from passersby, maintaining awareness without active examination. The color scale became second nature - Green for safe, Yellow for caution, Orange for concern, Red for stop. 
+
+He never hit Orange. They were careful. Methodical. Building foundation before attempting anything ambitious.
+
+Lina's protective instincts remained sharp. Milo documented everything. Mr. Morandi fed them and asked no questions.
+
+By the end of the week, Jason could sense resonance patterns across an entire city block while maintaining a conversation. Progress, measured and documented.
+
+Then came Tuesday afternoon.
+
+---
+
+Jason was walking home from work, mind half on the day's digitization tasks, when he saw Mrs. Amari on the front steps of his building, struggling with grocery bags.
+
+"Oh, Jason," she said, spotting him. "Perfect timing. Could you help an old woman?"
+
+"Of course." Jason took two of the heavier bags, following her inside.
+
+In the elevator, Mrs. Amari studied him. "You look tired, dear. Working too hard?"
+
+"Just... busy," Jason said carefully.
+
+"Mm." She didn't sound convinced. "You know, I've lived in this building a long time. I see things."
+
+Jason's awareness prickled. He could feel her resonance now - that same wariness he'd sensed before, but sharper. More focused.
+
+"Things?" he echoed.
+
+"People coming and going. Strange marks on doors." She looked at him directly. "Late-night visitors. Storms that aren't natural."
+
+The elevator dinged. Jason's heart hammered.
+
+"Mrs. Amari - "
+
+"I'm not asking questions, dear." She took her bags as the doors opened. "I'm just saying... be careful. Whatever you're involved in, it's noticed. And not everyone who notices is friendly."
+
+She walked to her door, then paused. "You're a good boy, Jason. Don't let them make you into something you're not."
+
+She disappeared inside, leaving Jason standing in the hallway, her words echoing.
+
+*She knows,* RAE said quietly.
+
+*How much?*
+
+*Enough to be frightened. Not enough to understand. That makes her dangerous - to herself and to us.*
+
+*Should we... do something?*
+
+*Like what? We cannot erase her memories. We cannot stop her from observing. All we can do is be more careful.*
+
+Jason continued to his apartment, Mrs. Amari's warning heavy in his chest. He'd barely set down his keys when his phone buzzed.
+
+Lina's name on the screen.
+
+He answered immediately. "Hey."
 
 "Where are you?" Her voice was tight. Controlled. Scared.
 
-"Work. What's wrong?"
+"Home. Just got in. What's wrong?"
 
 "How fast can you get to Porter Street? Near the old theater?"
 
@@ -20,7 +74,7 @@ Jason's blood went cold. "What do you mean you can't wait?"
 
 "I mean the scaffold is falling *now*. And there are kids in the courtyard below."
 
-He was already moving, grabbing his coat, his badge, heading for the exit. "I'm coming. Don't do anything stupid."
+He was already moving, grabbing his coat, heading back out. "I'm coming. Don't do anything stupid."
 
 "Too late. Get here fast."
 
