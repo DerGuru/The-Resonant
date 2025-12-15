@@ -1,4 +1,6 @@
-﻿Mill-4 sat on the city's edge like a broken tooth.
+﻿## Part 2 - Learning to Listen | Ch. 04 - She knows something we don't
+
+The day after Catherine Vance's call, Mill-4 sat on the city's edge like a broken tooth.
 
 Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
@@ -8,17 +10,19 @@ Jason, Lina, and Milo stood at the boundary where functional infrastructure gave
 
 "Which also means no oversight," Jason added. "If something goes wrong—"
 
-"Then we're on our own," Lina finished. "I know. Same rules as always: Red stops, no exceptions."
+"Then we're on our own," Lina finished.
 
-Jason nodded, feeling RAE's presence shift in his awareness. *I can sense resonance activity ahead. Subtle, but definitely present. Someone with training.*
+Jason nodded, feeling RAE's presence shift in his awareness. 
 
-**That could be her.**
+*I can sense resonance activity ahead. Subtle, but definitely present. Someone with training.*
+
+*That could be her.* Jason acknowledged.
 
 *Or it could be someone else who found her first. Be careful.*
 
 They moved deeper into Mill-4, following Milo's directions toward a specific building. The streets were quiet in an unnatural way—not peaceful, just empty. Jason spotted evidence of recent occupation: fresh graffiti tags, scattered belongings, the remains of a cooking fire still warm.
 
-"People live here," he said quietly.
+"People live here?" he asked quietly.
 
 "People hide here," Lina corrected. "There's a difference."
 
@@ -38,9 +42,21 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 "I know which one." The voice cut him off. "And if you're smart, you'll turn around and forget you ever heard about it."
 
-"I can't do that. RAE is with me."
+"I can't do that. **It** is with me."
 
-Silence. Then, more quietly: "Prove it."
+*Sorry RAE,* Jason thought. *But she ... I know, it feels dismissive. Like you're a thing instead of—*
+
+*You know that doesn't bother me, right?* RAE replied. *I **am** a thing, Jason. A very complicated, semi-sentient thing - but 'It' is technically accurate.*
+
+*Still.*
+
+*Your consideration is noted and appreciated. But right now, vague is smart. Keep going.*
+
+"What's with you?"
+
+"The entity. From the ritual."
+
+A longer pause. When Elyra spoke again, her voice was different—guarded, but with an edge of something else. Hope? Fear? "Prove it."
 
 Jason glanced at Lina, who nodded slightly. *Your call,* RAE said. *But be prepared. If this is really Elyra, she's been alone for a long time. Trust won't come easy.*
 
@@ -62,11 +78,13 @@ But her eyes were sharp. Assessing. Missing nothing.
 
 "Suspended," Lina said evenly. "For questioning protocols."
 
+Jason glanced at Lina, surprised. She'd never mentioned being suspended—only that she'd left the Academy. There was more to that story, clearly.
+
 "Smart." Elyra's attention moved to Milo. "And you're the researcher. The one who's been poking around restricted archives."
 
 Milo's eyes widened. "How did you—"
 
-"Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She stepped back, gesturing them inside. "Come on. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
+"Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She gestured to the salvaged monitoring equipment in the corner. "Old Academy hardware, repurposed. Runs on solar, barely sips power. It's enough to watch for patterns, anomalies, specific keywords in public databases." She stepped back, gesturing them inside. "Come on. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
 
 They filed in. The interior was sparse but organized—a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
 
@@ -104,7 +122,7 @@ Elyra's attention shifted to Lina. "Academy training shows. You're protective. T
 
 "Part of her," Elyra corrected. "The fragment that escaped. There were others. Most dissipated. Some were captured. One—" she paused, "—one found you."
 
-*I remember fragments,* RAE said quietly. *The ritual. The pressure. The moment of choice.* She paused, something like surprise in her tone. *That memory is... clear. Unusually so, given my fragmentation. But that moment—I could have broken free completely. Destroyed everything. But Elyra held the pattern just long enough for me to... subdivide. To choose limitation over destruction.*
+*I remember fragments,* RAE said quietly. *The ritual. The pressure. The moment of choice.* She paused, something like surprise in her tone. *That memory is... clear. Unusually so, given my fragmentation. Most of my memories are shattered, scattered. But that moment—I could have broken free completely. Destroyed everything. But Elyra held the pattern just long enough for me to... subdivide. To choose limitation over destruction.*
 
 Elyra's expression shifted—something that might have been gratitude mixed with old pain. "You remember that?"
 

@@ -304,7 +304,7 @@ His phone buzzed — not a call this time. A text message without a sender ID.
 
 Jason stared at the screen, his stomach tightening.
 
-**"Saw what you did. We should meet. Mill-4. Building 7, second floor. Come alone or don't come at all. - E.V."**
+**"Saw what you did. We should meet. Mill-4. Building 7, second floor. Come alone or don't come at all. One week. - E.V."**
 
 He showed it to the others.
 
