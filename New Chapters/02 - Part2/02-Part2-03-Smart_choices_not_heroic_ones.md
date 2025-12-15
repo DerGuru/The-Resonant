@@ -320,8 +320,6 @@ Jason stared at the message, feeling the weight of the invitation—and the thre
 
 *What do you think?* he asked RAE.
 
-*I think she's been alone for eleven years, damaged and isolated. Trust will not come easily. But if we don't go, we may never get another chance.*
-
 "We go," Jason said. "All of us. If she doesn't like it, so be it. But we're not splitting up now."
 
 Lina nodded. "Smart choice."

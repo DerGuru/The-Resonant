@@ -1,8 +1,10 @@
 ﻿## Part 2 - Learning to Listen | Ch. 04 - She knows something we don't
 
-The day after Catherine Vance's call, Mill-4 sat on the city's edge like a broken tooth.
+Mill-4 sat on the city's edge like a broken tooth.
 
-Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
+Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. They'd spent three days preparing for this—researching Elyra's background, planning their approach, letting Jason recover enough strength - just in case.
+
+Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
 "Charming," Lina said, pulling her jacket tighter against the wind that carried the smell of rust and stagnant water.
 
@@ -10,7 +12,9 @@ Jason, Lina, and Milo stood at the boundary where functional infrastructure gave
 
 "Which also means no oversight," Jason added. "If something goes wrong—"
 
-"Then we're on our own," Lina finished.
+"Then we're on our own," Lina continued.
+
+"Let's hope she's as reasonable as we're betting she is." Jason finished.
 
 Jason nodded, feeling RAE's presence shift in his awareness. 
 
@@ -58,7 +62,7 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 A longer pause. When Elyra spoke again, her voice was different—guarded, but with an edge of something else. Hope? Fear? "Prove it."
 
-Jason glanced at Lina, who nodded slightly. *Your call,* RAE said. *But be prepared. If this is really Elyra, she's been alone for a long time. Trust won't come easy.*
+Jason glanced at Lina, who nodded slightly. *Your call,* RAE said.
 
 "RAE," Jason said aloud, "can you project a harmonic signature? Something Elyra would recognize."
 
