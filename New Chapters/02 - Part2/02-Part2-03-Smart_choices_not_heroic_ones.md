@@ -1,32 +1,112 @@
 ﻿## Part 2 - Learning to Listen | Ch. 03 - Smart choices, not heroic ones
 
-The video had been viewed forty-three thousand times by morning.
+"You need to see this."
 
-Jason stared at his phone, watching the grainy footage for the twentieth time. The scaffold shuddering, steadying, holding just long enough for the children to escape before collapsing in a cloud of dust and twisted metal.
+Dorian Malvek looked up from the quarterly financial reports scattered across his steel and glass desk in his corner office. Exposed brick on one wall, polished concrete floors, industrial lighting overhead. The leather couch against the far wall—where he conducted his more delicate negotiations with Council members—sat empty.
 
-The comments were worse than the video.
+Afternoon light filtered through the windows—he'd been reviewing the quarter's numbers for the past two hours, and Marcus knew better than to interrupt unless it was important.
 
-*"How did it just STOP like that?"*
+His assistant stood in the doorway—tablet in hand, expression carefully neutral in the way that meant something significant had happened.
 
-*"Watch his face at 0:47 - he's doing something"*
+"Unless it's an emergency, Marcus, I'm rather busy."
+
+"I know Sir, I would not be here, if it weren't." Marcus crossed to the desk, set the tablet down. "There is a viral video. Started spreading last night. Forty-three thousand views and climbing rapidly."
+
+Dorian glanced at the screen. Construction site. Scaffold failure. Children evacuating. The usual chaos of near-tragedy averted.
+
+"Touching," he said dryly. "But hardly relevant to our operations."
+
+"Watch the timing," Marcus said, tapping the screen to replay. "Specifically, watch the scaffold at the twenty-three-second mark."
+
+Dorian watched. The structure shuddered, twisted—then steadied. Held. Just long enough for the evacuation to complete before collapsing in a cloud of debris.
+
+"Material resonance," Dorian said. "The steel held longer than expected. Unfortunate for the construction company's insurance claim, but—"
+
+"Sir." Marcus pulled up another angle. "This is from a different witness. Watch the man at the edge of the frame."
+
+Dorian watched. A figure, mostly shadow and motion blur, standing perfectly still while chaos erupted around him. Blood visible on his face. Posture rigid, focused. And then—collapse, exactly as the scaffold gave way.
+
+Dorian's expression sharpened. His fingers stilled on the desk.
+
+"How many people have seen this?" he asked, his voice taking on a measured precision.
+
+"This particular angle? Maybe five thousand now. But the main video is everywhere. It's been accelerating—started with a few hundred views overnight, hit ten thousand by morning, and now..." He gestured at the screen. "Forty-three thousand. The algorithms have picked it up. Comments are... speculative."
+
+"Show me."
+
+Marcus pulled up the comment threads. Dorian read through them with professional detachment, though his focus intensified with each line.
 
 *"Resonance practitioner? Has to be"*
+
+*"Government coverup incoming"*
+
+*"That guy at 0:47 is definitely doing something"*
+
+"The construction company is calling it structural anomaly," Marcus said. "Safety Review Board is investigating. But if someone with the right knowledge looks at this..."
+
+"Then they'll recognize it exactly for what it is," Dorian said quietly. "Unregistered harmonic resonance work." He leaned back, replaying the video. "Master-level work. Possibly beyond. Real-time stabilization of a failing structure under stress—performed without authorization, without oversight, without registration."
+
+His tone remained even, almost clinical. But there was an undercurrent of something firm. "Who is he?"
+
+"Working on it. Hospital records show a Jason Chen was treated for exhaustion and nosebleed at the scene. Released this morning. No prior record of Academy affiliation or registered practitioner status."
+
+"No record." Dorian set the tablet down with deliberate care. "So we have an unregistered practitioner with master-level capability performing resonance work without authorization." His fingers drummed once against the desk—a single, controlled gesture. "This is precisely the kind of situation we are here to prevent."
+
+"Orders, sir?"
+
+Dorian was silent for a moment, watching the figure collapse in perfect synchronization with the structure's failure. The timing was too precise. The cost too visible. And the violation too clear.
+
+"Locate him," he finally said, determination in his voice. "I want to know everything about Mr. Chen. Associates, training history, recent activities. Every detail. If he's truly unregistered, we need to bring him in before this becomes a larger problem. Or before someone else finds him first."
+
+"And if he's affiliated?"
+
+"Then we identify who's been training him without proper registration and address the oversight failure." Dorian's expression remained neutral, professional. "Either way, this situation requires resolution. Unregistered practice isn't something we can allow to continue."
+
+Marcus nodded, collected the tablet. "One more thing, sir. The Safety Review Board assigned Catherine Vance to the investigation."
+
+"Vance." Dorian's expression became thoughtful. "Efficient. She'll be thorough, and she understands what to look for."
+
+"Should we reach out?"
+
+"Not yet. Let her gather her evidence first. If Chen is unregistered, her investigation will confirm it. If he attempts to conceal his capabilities..." Dorian turned back to his financial reports, though his mind was clearly elsewhere. "Then we'll have both the documentation and the justification we need to bring him in. One way or another."
+
+Marcus left quietly. 
+
+Forty-three thousand views and climbing. A viral video of unregistered resonance work, performed with the kind of capability that should have been monitored, guided and especially controlled. Instead, this Chen had operated without oversight until his actions made concealment impossible.
+
+He pulled up his Council access, began drafting a priority flag for the name Jason Chen. Someone with that much capability didn't just appear fully formed. There would be traces. Training. Previous incidents.
+
+And if there weren't—if this truly was an unregistered practitioner operating without any oversight—then the problem required immediate attention.
+
+Dorian made a note to accelerate the inquiry. Unregistered practice wasn't just a violation of protocol. It was a systemic failure that demanded correction.
+
+---
+
+Jason stared at his phone, watching the grainy footage for what felt like the hundredth time. The scaffold shuddering, steadying, holding just long enough for the children to escape before collapsing in a cloud of dust and twisted metal.
+
+He'd collapsed into exhausted sleep yesterday afternoon after getting home from the hospital. Six hours, maybe—then he'd woken to find his phone full of notifications. The rest of the night had been spent watching the video spread across social media, each share adding to his growing anxiety.
+
+The view count had exploded overnight. Sixty-eight thousand now.
+
+The comments were worse than before.
+
+*"How did it just STOP like that?"*
 
 *"Government coverup incoming in 3... 2... 1..."*
 
 "Stop reading those," Lina said, snatching the phone from his hand. "You're spiraling."
 
-They were back in Milo's apartment, the morning sun filtering through the drawn curtains. Jason had managed maybe three hours of sleep after seeing the news alert. The rest of the night had been spent watching the video spread across social media, each share adding to his growing anxiety.
+They were back in Milo's apartment, the morning sun filtering through the drawn curtains. 
 
 "Someone's going to figure it out," Jason said. "Someone's going to recognize me."
 
-"Maybe," Milo said from his computer. "But look at the footage quality. It's a phone camera from seventy feet away, shooting into afternoon sun. Your face is mostly shadow and motion blur."
+"Maybe," Milo said from his computer. "But very unlikely. I mean, look at the footage quality. It's a cheap phone camera from seventy feet away, shooting into the afternoon sun. It is full of noise and your face is mostly shadow and motion blur."
 
 "Mostly isn't enough."
 
-"He's right to worry," RAE said through Milo's laptop speaker. "The video itself is ambiguous, but combined with witness testimony and the scaffold's documented stability during the crucial thirty seconds... pattern-recognition algorithms will flag this. If they haven't already."
+"He's right to worry," RAE said through Milo's laptop speaker. "The video itself is ambiguous, but combined with witness testimony and the scaffold's documented stability during the crucial thirty seconds... pattern-recognition algorithms will flag this."
 
-"Who's 'they'?" Jason asked.
+"Who'd want this?" Jason asked.
 
 "Multiple entities," RAE replied. "City construction safety boards will want to understand what happened. Insurance investigators. And yes, potentially Academy oversight committees."
 
@@ -46,7 +126,7 @@ Lina looked at the screen, her expression darkening. "Unknown number. Third one 
 
 "Don't answer it," Milo said immediately.
 
-"Agreed," RAE added. "Until we know who's looking for you, maintaining low profile is essential."
+"Agreed," RAE added. "Until we know who's looking for you, maintaining a low profile is essential."
 
 The phone stopped buzzing. Thirty seconds later, it started again. Different unknown number.
 
@@ -56,7 +136,7 @@ Jason took the phone back, stared at the screen. His thumb hovered over the decl
 
 "What if it's someone who needs help?" he asked quietly.
 
-"Then they can leave a message," Lina said firmly. "Jason, you nearly died yesterday. You're still recovering. You're not saving anyone today."
+"Then they should call the police," Lina said firmly. "Jason, you nearly died yesterday. You're still recovering. You're not saving anyone today."
 
 The phone went to voicemail. Jason waited.
 
@@ -66,64 +146,45 @@ No message notification appeared.
 
 "How did they get my number?" Jason asked.
 
-"You gave your contact info to the daycare staff before you left," Lina reminded him. "In case there were questions about the incident. Someone probably shared the witness list with media."
+"Hospital intake records. I gave them a false name - *Mr. Chen* - and a fake address, not yours—thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
 
-Jason closed his eyes, feeling the weight of his own good intentions. Of course he'd left his number. He'd wanted to help. To follow up. To make sure everyone was okay.
+"You couldn't have known," Lina said firmly.
 
-"I'm an idiot."
+"Medical privacy—" Jason started.
+
+"Doesn't stop everyone," Lina cut in. "Especially not when there's a viral video and a 'mystery hero' angle. Someone at the hospital probably got offered money. Name, address, contact info—everything leaked as a package deal."
+
+Jason closed his eyes, feeling the weight of his own visibility. He'd been unconscious, helpless, and still somehow left a trail.
+
+"I'm an idiot." Milo sagged. "I should have known better."
 
 "You're thorough," Lina corrected. "It's one of your better traits. Usually."
 
-"We need new protocols," Milo said, turning back to his computer. "Yesterday we talked about safety margins for resonance work. But we also need protocols for... this." He gestured at the cascade of news articles on his screen. "Public exposure. Media management. Identity protection."
+"We need new protocols," Milo said, turning back to his computer. "We talked about safety margins for resonance work. But we also need protocols for... for... **this** - Whatever this is." He gestured at the cascade of news articles on his screen. "Public exposure. Media management. Identity protection."
 
 "I'm not sure we're qualified for that," Jason said.
 
-"Then we'll figure it out together," Lina said. "Like everything else."
+"We'll figure it out together," Lina said. "Like everything else."
 
 ---
 
-They spent the next two hours building a framework.
+They spent the next two hours brainstorming and building a framework.
 
 Milo pulled up Academy resources on public interaction policies. Lina contributed security protocols from her academy training. RAE provided historical data on how other practitioners had handled exposure.
 
-By the time they were done, they had a new section in their growing rule book:
+By the time they were done, they had a new section in their growing rule book.
 
-**Public Exposure Protocols:**
+It basically boiled down to: No improvisation when exposed, maintain plausible deniability as a civilian who helped coordinate evacuation, and always have scripted responses ready. If cornered, Lina or Milo would run interference. If detained, say nothing without legal representation.
 
-**1. No direct media contact without preparation**
-- All interview requests go through group discussion first
-- Prepared statements only, no improvisation
-- Milo handles written communication when possible
-
-**2. Plausible deniability as default position**
-- "I was helping coordinate evacuation"
-- "I'm not qualified to explain structural mechanics"
-- "I'm glad everyone is safe" - then redirect
-
-**3. Digital footprint management**
-- New phone number for sensitive contacts
-- Separate devices for resonance-related work
-- Regular monitoring of social media mentions
-
-**4. Witness management**
-- Follow up with people who were at the scene
-- Gentle steering of narrative toward official story
-- Build relationships with key witnesses
-
-**5. Recognition response plan**
-- If recognized in public: acknowledge briefly, move on quickly
-- If cornered: Lina or Milo run interference
-- If detained: say nothing without legal representation
-
-"This feels paranoid," Jason said, reading through the list.
+"This feels a little paranoid," Jason said, reading through the list.
 
 "It feels necessary," Lina countered. "You're going to keep helping people. Which means you're going to keep being seen. Better to have a plan now than scramble later."
 
 "She's right," RAE said. "These protocols protect not only you but also everyone you work with. Visibility carries risks for all of us."
 
-Jason nodded slowly. "Okay. So we stay quiet, keep our heads down, let the official story hold."
+Jason nodded slowly. "Okay. So we stay quiet, keep our heads down and let the official story hold."
 
-"For now," Milo agreed. "Though we should also think about long-term strategy. You can't hide forever, Jason. Eventually, you'll need a public identity that explains what you do without revealing everything."
+"For now," Milo agreed. "Though we should also think about long-term strategy. You can't hide forever, Jason. This was bound to happen eventually - although I did not expect it to happen this soon. Nevertheless, you'll need a public identity that explains what you do and why you were there without revealing everything."
 
 "Like what? 'Freelance safety consultant'?"
 
@@ -131,7 +192,9 @@ Jason nodded slowly. "Okay. So we stay quiet, keep our heads down, let the offic
 
 "We'll workshop it," Lina said. "But that's a problem for later. Right now, the priority is managing the current situation."
 
-Jason's phone buzzed again. Same unknown number as before.
+Jason's phone buzzed again. He glanced at it.
+
+Same unknown number as before. The one that had called three times already this morning.
 
 This time, a voicemail notification appeared.
 
@@ -141,39 +204,37 @@ This time, a voicemail notification appeared.
 
 Jason pulled up the voicemail, hit play.
 
-A woman's voice, professional and measured: "Mr. Hayes, this is Catherine Vance with the Metropolitan Safety Review Board. We're conducting routine follow-up interviews with witnesses to yesterday's incident at Porter Street. Nothing formal, just gathering accounts for our records. Please call me back at your earliest convenience."
+A woman's voice, professional and measured: "Mr. Chen, this is Catherine Vance with the Metropolitan Safety Review Board. I've tried reaching you several times this morning. We're conducting routine follow-up interviews with witnesses to yesterday's incident at Porter Street. Nothing formal, just gathering accounts for our records. Please call me back at your earliest convenience."
 
 She left a number and ended the call.
 
 The three of them looked at each other.
 
-"Routine follow-up," Milo said carefully, "doesn't usually happen this fast."
+"She's been calling all morning," Lina said slowly. "Those unknown numbers—that was her."
 
-"No," RAE agreed. "Metropolitan Safety Review Board is typically understaffed and slow to respond. Having someone contact witnesses within twenty-four hours suggests either exceptional efficiency or particular interest."
+"Routine follow-up," Milo said carefully, "doesn't usually involve calling someone three times before noon."
 
-"Which means?" Jason asked.
+"No," RAE agreed. "Metropolitan Safety Review Board is typically understaffed and slow to respond. This level of persistence suggests particular interest—not routine documentation."
 
 "Which means someone flagged the incident as unusual," Lina said. "Question is, are they fishing for information or do they already know something?"
 
 "Either way, we need to respond," Milo said. "Ignoring official inquiry looks suspicious. But Jason can't just call back blind."
 
-"What do you suggest?" Jason asked.
+Jason looked at the phone in his hand, then at his friends. "Okay. So how do we do this right?"
 
-"We prepare," Lina said. "We script your responses. We anticipate their questions. And we make sure you have backup."
+"We prepare," Lina said. "Script your responses. Anticipate their questions. Make sure you have backup."
 
-"I can be monitoring through your phone," RAE offered. "If questions stray into dangerous territory, I can alert you."
+"I'll be there," RAE offered. "If questions stray into dangerous territory, I can alert you."
 
-"And I'll be physically present if possible," Lina added. "Moral support and witness to the conversation."
+"And I'll be there physically if possible," Lina added. "Moral support and witness to the conversation."
 
-"You think they'll let you sit in?" Jason asked.
-
-"They'll let a concerned friend wait nearby," Lina said. "And I'll be close enough to intervene if necessary."
+Jason nodded. "Good. Let's do this properly then."
 
 Milo was already typing. "Okay, so likely questions: What did you see? Where were you standing? What did you do? Why were you at the scene? Did you notice anything unusual about the scaffold's behavior?"
 
-"And my answers?" Jason asked.
+"And my answers?" Jason asked, leaning forward.
 
-"Truthful but limited," Lina said. "You saw the scaffold failing. You were on your way home from work. You helped direct people to safety. You didn't notice anything unusual about the structure itself."
+"Truthful but limited," Lina said. "You saw the scaffold failing. You were on your way to grab a bite. You helped direct people to safety. You didn't notice anything unusual about the structure itself."
 
 "Except I did," Jason pointed out. "I noticed everything about it."
 
@@ -181,37 +242,19 @@ Milo was already typing. "Okay, so likely questions: What did you see? Where wer
 
 *Can you maintain that narrative?* RAE asked privately.
 
-**I can try. But what if they know more than they're saying?**
+*I can try. But what if they know more than they're saying?*
 
 *Then we adapt. But defaulting to civilian ignorance is safest. You're allowed to have helped without understanding what you helped with.*
 
-Jason took a breath. "Okay. I'll call her back. But we script this first. Every possible question, every safe answer."
-
-"Agreed," Lina said. "And Jason? Remember the core rule: you're allowed to say 'I don't know' or 'I don't remember clearly.' Amnesia from trauma is common. Use it if you need to."
-
-They spent another hour preparing. Building a consistent narrative. Anticipating angles of inquiry. Creating a version of events that was true enough to be believable but vague enough to be safe.
-
-When they were done, Jason felt marginally more confident.
-
 "Remember," Milo said as Jason picked up his phone. "You're the good guy who helped save kids. They have no reason to be hostile. This is probably exactly what she said - routine follow-up."
-
-"Probably," Lina echoed, though her expression suggested she believed otherwise.
 
 Jason dialed the number.
 
-Catherine Vance answered on the second ring. "Mr. Hayes, thank you for calling back. I hope I'm not catching you at a bad time?"
+Catherine Vance answered on the second ring. "Mr. Chen, thank you for calling back. I hope I'm not catching you at a bad time?"
 
 "No, this is fine," Jason said, keeping his voice calm. Cooperative but not eager. "You said you wanted to ask about yesterday?"
 
 "That's right. Just a few questions for our incident report. Nothing to worry about."
-
-*She's establishing rapport,* RAE observed. *Standard interrogation technique. Remain pleasant but guarded.*
-
-"I'm happy to help," Jason said. "Though I'm not sure how much I'll be able to tell you. Everything happened very fast."
-
-"Of course, that's understandable. Let's start simple: what time did you arrive at the scene?"
-
-And so it began.
 
 ---
 
@@ -219,7 +262,7 @@ Twenty minutes later, Jason ended the call and let out a breath he felt like he'
 
 "How bad?" Lina asked immediately.
 
-"She was... polite. Professional. Asked about my position, what I saw, whether I noticed anyone doing anything unusual near the scaffold."
+"She was... polite. Professional. Asked about my position, what I saw, whether I noticed anyone doing something unusual near the scaffold."
 
 "Did she ask about you specifically?" Milo pressed. "About whether you did anything unusual?"
 
@@ -249,36 +292,38 @@ Jason felt the weight of it settling on his shoulders. "So what do we do?"
 
 "We stick to the plan," Lina said firmly. "Low profile. Consistent story. Smart choices, not heroic ones."
 
-"Smart choices," Jason echoed, hearing the title of their new chapter in his life.
+"Smart choices," Jason echoed.
 
 No more improvised rescues. No more assuming he could handle anything that came his way. From now on, they planned. They prepared. They considered consequences before acting.
 
-It felt like a cage.
+It felt like a cage. It also felt like the only way to survive.
 
-It also felt like the only way to survive.
+For a few minutes, they sat in silence. Jason stared at his phone, Milo at his monitors, Lina at the wall. The weight of what they'd just done—the lies, the protocols, the acceptance of constant surveillance—settled over them like dust.
 
-"Next session with Elyra is tomorrow," Lina said, checking her phone. "You still feel up for that?"
+His phone buzzed — not a call this time. A text message without a sender ID.
 
-Jason took stock of himself. The headache was gone. The tremor in his hands had faded. He felt weak still, but functional.
+Jason stared at the screen, his stomach tightening.
 
-"Yeah," he said. "I'll be ready."
+**"Saw what you did. We should meet. Mill-4. Building 7, second floor. Come alone or don't come at all. - E.V."**
 
-"Good. Because from what Milo found, she's not going to go easy on you."
+He showed it to the others.
 
-Jason remembered Elyra's sharp eyes, her assessment of him as someone playing with forces he didn't understand.
+"E.V.," Milo breathed. "Elyra Voss."
 
-"I'm counting on it," he said.
+Jason looked at the address. Mill-4. The condemned industrial district on the city's edge. Exactly where Milo's research had pointed.
 
-Because easy training wouldn't teach him to navigate this new reality they were building. One where helping people meant also protecting himself. Where being seen meant being vulnerable.
+"Come alone," Lina read. "That's not happening."
 
-Where smart choices might save his life more reliably than heroic ones ever could.
+"Agreed," Milo said. "If she's been watching, she knows you're not alone. This is a test."
 
-His phone buzzed. Another unknown number.
+Jason stared at the message, feeling the weight of the invitation—and the threat behind it.
 
-Jason declined the call without hesitation.
+*What do you think?* he asked RAE.
 
-"Learning already," Lina said with approval.
+*I think she's been alone for eleven years, damaged and isolated. Trust will not come easily. But if we don't go, we may never get another chance.*
 
-"One properly planned, carefully executed, definitely-not-improvised step at a time," Jason replied.
+"We go," Jason said. "All of us. If she doesn't like it, so be it. But we're not splitting up now."
 
-It would have to be enough.
+Lina nodded. "Smart choice."
+
+"Mill-4," he said. "Let's go see what she knows."

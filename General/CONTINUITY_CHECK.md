@@ -396,6 +396,48 @@ Dieses Dokument dient als Referenz f�r die Konsistenz von Charakteren, Technol
 - **Cold cores:** Spent, stable, "judging"
 - **Fresh cores:** Hungry, unsafe in small rooms
 
+### Public Exposure Protocols (established P2-03)
+
+After the scaffold incident and viral video exposure, the team established formal protocols for managing public visibility and media attention.
+
+**Summary:** No improvisation when exposed, maintain plausible deniability as a civilian who helped coordinate evacuation, and always have scripted responses ready. If cornered, Lina or Milo run interference. If detained, say nothing without legal representation.
+
+**Full Protocol List:**
+
+**1. No direct media contact without preparation**
+- All interview requests go through group discussion first
+- Prepared statements only, no improvisation
+- Milo handles written communication when possible
+
+**2. Plausible deniability as default position**
+- "I was helping coordinate evacuation"
+- "I'm not qualified to explain structural mechanics"
+- "I'm glad everyone is safe" - then redirect
+
+**3. Digital footprint management**
+- New phone number for sensitive contacts
+- Separate devices for resonance-related work
+- Regular monitoring of social media mentions
+
+**4. Witness management**
+- Follow up with people who were at the scene
+- Gentle steering of narrative toward official story
+- Build relationships with key witnesses
+
+**5. Recognition response plan**
+- If recognized in public: acknowledge briefly, move on quickly
+- If cornered: Lina or Milo run interference
+- If detained: say nothing without legal representation
+
+**Context:** Created after Jason's face appeared in viral video showing the scaffold stabilization. Journalists obtained his contact info through hospital intake records (Milo gave emergency contact number when Jason was admitted unconscious) and public databases (name + address from paramedic reports). Catherine Vance (Metropolitan Safety Review Board) called three times before leaving voicemail, suggesting official interest beyond routine follow-up.
+
+**Key Responses Scripted:**
+- "I was on my way home from work"
+- "I helped direct people to safety"
+- "Everything happened very fast"
+- "I don't remember clearly" (amnesia from trauma is plausible)
+- "I didn't have any direct contact with the structure" (technically true - he didn't touch it)
+
 ---
 
 ## Timeline
