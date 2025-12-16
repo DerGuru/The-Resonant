@@ -30,10 +30,6 @@ Jason felt frustration bubble up. Six weeks. Six weeks of this, and he still cou
 
 *Because Lina had academy training,* RAE reminded him gently. *And you're learning faster than most people with no background. Give yourself credit.*
 
-**It doesn't feel fast.**
-
-*Growth rarely does. But compare where you are now to where you started.*
-
 Jason closed his eyes. Thought back to the first day, when he couldn't sense anything beyond ten meters. Now he could perceive resonance signatures across the entire warehouse. Could identify materials by their harmonic properties. Could maintain active shaping for minutes instead of seconds.
 
 "Better," Elyra said, watching him. "Your field just smoothed out. What did you do?"
@@ -114,13 +110,17 @@ She set them down carefully. "Every material has different quality and firmness 
 
 "That sounds like a lot," Jason said.
 
-"It is. But it's also fundamental. If you can't tune a carrier, you can't build a whisper clip. Can't stabilize a damaged pattern. Can't help someone whose resonance is failing." She paused. "Can't fight back if someone tries to force-couple with you."
+"It is. But it's also fundamental. If you can't tune a carrier, you can't stabilize a damaged pattern. Can't help someone whose resonance is failing." She paused. "Can't defend yourself if someone tries to force patterns into you."
 
 The room went quiet.
 
 "Is that a real risk?" Lina asked.
 
-"It's how I got damaged," Elyra said flatly. "Someone tried to override my will, force their pattern into mine. I resisted. The resulting feedback burned out most of my capacity." She tapped her cane. "So yes. It's a real risk. And precision is your best defense against it."
+Elyra's expression hardened. "It's how the ritual failed. The one eleven years ago. Someone on our team panicked, tried to force a containment pattern instead of maintaining the structure we'd agreed on. The feedback cascade killed three people and burned out most of my capacity." She tapped her cane. "So yes. Forced resonance is a real risk. And precision is your best defense against it."
+
+Jason felt cold. RAE was quiet in his mind—she remembered that day too, in fragments.
+
+"The point," Elyra continued, voice steady but firm, "is that you need to know your materials. Respect their limits. Push too hard, and the pattern collapses—or worse, feeds back into you. Precision keeps you alive."
 
 Jason looked at the box of carriers. Suddenly they seemed less like toys and more like weapons.
 
@@ -132,7 +132,7 @@ Jason looked at the box of carriers. Suddenly they seemed less like toys and mor
 
 *She's right,* RAE said. *I've been masking what I can, but there are limits to what I can hide while still functioning.*
 
-**Can you teach me to do it myself?**
+*Can you teach me to do it myself?*
 
 *With Elyra's help, yes. It's a form of harmonic dampening—making your pattern appear quieter than it is without actually reducing capability.*
 
@@ -154,7 +154,7 @@ But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His ba
 
 "From Malvek," Milo said.
 
-"Among others." Elyra's expression was grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours—" she gestured at Jason, "—is rare enough to be valuable. Which makes you a target."
+Elyra's expression became grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours—" she gestured at Jason, "—is rare enough to be valuable. Which makes you a target."
 
 "So what do we do?" Lina asked.
 
@@ -174,13 +174,11 @@ But power was what kept you safe, right?
 
 *Not always,* RAE said, sensing his thoughts. *Power attracts conflict. Precision allows you to avoid it. Or end it quickly.*
 
-**Which do we need?**
+*Which do we need?*
 
 *Both. But we're building the right foundation. Trust the process.*
 
-Jason set the washer down carefully. His hands had stopped shaking. The headache was fading to a manageable throb.
-
-Tomorrow they'd learn dampening. Then carrier tuning. Then whatever came next.
+Jason set the washer down carefully. 
 
 One precise step at a time.
 

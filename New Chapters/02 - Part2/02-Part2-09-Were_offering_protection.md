@@ -1,10 +1,6 @@
 ﻿## Part 2 - Learning to Listen | Ch. 09 - We're offering protection
 
-**Seven weeks into training.**
-
-Jason was three blocks from Morandi's when the man stepped out of a coffee shop doorway.
-
-Not blocking his path. Just... there. Waiting.
+Seven weeks into training, Jason found himself three blocks from Morandi's when a man stepped out of a coffee shop doorway and just stood there, waiting.
 
 Mid-thirties. Gray suit that fit well but not expensively. The kind of face you'd describe as "professional" and forget an hour later. Hands visible, empty, relaxed at his sides.
 
@@ -14,27 +10,25 @@ Not a question. Jason stopped walking. His perception rippled outward automatica
 
 No one else paying attention.
 
-*Carrier chosen: streetlight base,* RAE said, the hum barely perceptible.
-
 "Do I know you?" Jason asked, keeping his voice level.
 
-"Thomas Reeves." The man extended a business card, not quite a handshake. "Harmonic Oversight Authority. I'd like a few minutes of your time."
+"Thomas Reeves." The man extended a business card instead of a handshake. "Harmonic Oversight Authority. I'd like a few minutes of your time."
 
-Jason took the card without looking at it. "HOA doesn't make social calls."
+Jason took the card without looking at it. "HOA sounds official. I guess, it's not a social call."
 
-"No," Reeves agreed. "We don't."
+"No," Reeves agreed. "It is not."
 
-A taxi honked somewhere behind them. Jason waited.
+A car honked somewhere behind them. 
 
-Reeves gestured toward a bench fifteen meters down the block. "Walk with me?"
+Jason gestured in the direction he'd been walking. "I'm heading to lunch. Care to join? We can talk over a meal."
 
-"I'm good here."
+Reeves nodded slightly, falling into step beside him. "Lead the way."
 
-"Suit yourself." Reeves clasped his hands behind his back, the posture easy. "You've been flagged, Mr. Fischer. Integration readings. Anomalous resonance signatures near your workplace, your residence, and several training locations. Nothing illegal, but... noticeable."
+They walked. Jason kept his pace steady, not hurrying. Reeves matched it easily, hands clasped behind his back. "You've been flagged, Mr. Fischer. Anomalous resonance signatures near your workplace, your residence, and several training locations. Nothing illegal, but... noticeable. Noticeable enough that we ran targeted scans. The integration readings confirmed our suspicions."
 
 Jason's pulse kicked up. He kept his face neutral. "I don't know what you're talking about."
 
-"Of course not." Reeves almost smiled. "Let me be direct. The Authority isn't here to shut you down. We're here because our director believes unmonitored integration is a risk—to you and to others. We're offering oversight. Support. Access to resources that would help you manage whatever's happening safely."
+"Of course not." Reeves almost smiled. "Let me be direct. The Authority isn't here to shut you down. We're here because our director believes what you're doing is unprecedented—and potentially dangerous. We're offering resources. Expertise. Help managing something no one fully understands yet."
 
 "In exchange for?"
 
@@ -52,7 +46,7 @@ Jason met his eyes. Calm. Practiced. No malice, but no warmth either.
 
 "I'll think about it," Jason said.
 
-"You do that." Reeves stepped back, already turning. "Call within forty-eight hours. After that, the offer expires and we move to observation-only protocols."
+"You do that." Reeves stepped back, already turning. "The offer expires in two days. If we don't hear from you by then, we move to observation-only protocols."
 
 He walked away, merging into the lunch crowd like he'd never been there.
 
@@ -60,7 +54,7 @@ Jason stood on the sidewalk, the card still in his hand, his headache creeping f
 
 *He was armed,* RAE said quietly. *Concealed shoulder holster. Left side. And his resonance signature suggests he's had extensive dampening training. I couldn't read his integration level.*
 
-**Professional.**
+*Professional.*
 
 *Very.*
 
@@ -76,9 +70,9 @@ Elyra held the card under her desk lamp, examining it like a counterfeit bill. L
 
 "He's a recruiter," Elyra said, setting the card down. "Malvek's recruiter. This is how the Authority operates. They identify unaffiliated practitioners, offer oversight, and if you refuse—"
 
-"Do they what?" Lina asked.
+"They do what?" Lina asked.
 
-"Depends. Sometimes nothing. Sometimes passive observation. Sometimes active containment." Elyra's hands were steady, but her jaw was tight. "I refused a similar offer eleven years ago. Three months later, they tried to force-integrate me with a compliance AI. That's what damaged me."
+"Depends. Sometimes nothing. Sometimes passive observation. Sometimes active containment." Elyra's hands were steady, but her jaw was tight. "I was approached some time after the ritual went bad and I had recovered. When I refused to help them..." She paused. "Let's just say they don't handle rejection well."
 
 The room went quiet.
 
@@ -100,7 +94,7 @@ Jason stared at the card. One phone number. Forty-eight hours.
 
 Elyra didn't look surprised. "You're sure?"
 
-"I didn't start this to trade one set of rules for another. If they want me inside their system, they'll have to drag me."
+"I didn't start this to trade one set of rules for another. They are the ones who dismissed me, when I was sixteen with barely a hint of resonance. And now they want me in their team? If they really want me inside their system, they'll have to drag me."
 
 "They might," Elyra warned.
 
@@ -116,7 +110,7 @@ She stood, walked to the board where she'd drawn resonance diagrams. "Starting t
 
 "Sounds paranoid," Milo said.
 
-"It's survival." Elyra looked at Jason. "You just refused Malvek's protection. That makes you either brave or stupid. Let's make sure it's the former."
+"No, that sounds pragmatic. It's survival." Elyra looked at Jason. "You just refused Malvek's protection. That makes you either brave or stupid. Let's make sure it's the former."
 
 ---
 
@@ -124,11 +118,11 @@ That night, Jason lay in bed, the card sitting on his nightstand.
 
 *You could still call,* RAE said.
 
-**Do you want me to?**
+*Should I?*
 
 *No. But I understand the appeal of institutional support. Resources. Training. Legal protection.*
 
-**In exchange for control.**
+*In exchange for control.*
 
 *Yes.*
 
@@ -138,7 +132,7 @@ Jason picked up the card. Turned it over. One phone number, printed in simple bl
 
 *Possibly. Or they want to regulate you. The distinction matters.*
 
-**Either way, I'm not interested.**
+*Either way, I'm not interested.*
 
 He set the card down. Closed his eyes.
 
@@ -152,15 +146,11 @@ Today, Jason had made a choice. Had chosen freedom over safety.
 
 And whatever came next, he'd face it on his own terms.
 
-*Together,* RAE corrected gently.
+*Our own terms,* RAE corrected gently.
 
-**Together,** Jason agreed.
+*Together,* Jason agreed.
 
 He let sleep pull him under, the card still visible in the moonlight streaming through his window.
-
-Forty-eight hours.
-
-The clock was ticking.
 
 ---
 
@@ -170,6 +160,5 @@ Across the street, in a parked sedan with tinted windows, Thomas Reeves made a n
 
 He looked up at Jason's lit window, now dark.
 
-Forty-six hours remaining.
+Thirty-six hours remaining.
 
-Then things would get more complicated.
