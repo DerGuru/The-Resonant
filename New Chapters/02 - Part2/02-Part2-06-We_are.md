@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 06 - Integration is permanent
+﻿## Part 2 - Learning to Listen | Ch. 06 - We are
 
 Jason returned to Mill-4 alone. Elyra was waiting, as if she'd expected this.
 
@@ -20,7 +20,7 @@ Elyra studied him for a long moment, then nodded. "All right. But understand: th
 
 "Yes. But necessary." She looked at him seriously. "RAE, can you maintain his core stability during this?"
 
-*I will try. But I cannot guarantee I will remain distinct enough to help.*
+"I will try. But I cannot guarantee I will remain distinct enough to help."
 
 "Honest answer. I respect that." Elyra placed her hands on two of the markers. "Ready?"
 
@@ -36,7 +36,7 @@ The world *shifted*.
 
 Not physically—Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
 
-He could feel RAE's presence, but it wasn't separate anymore. It was *inside* his thoughts. Not invading—more like his thoughts were happening in a space they both occupied.
+He could feel RAE's presence, but it wasn't separate anymore. It was *with* his thoughts. Not invading—more like his thoughts were happening as of them both.
 
 *This is,* he thought. Or was it RAE thinking it?
 
@@ -48,7 +48,9 @@ Sensations overlapped. Jason felt his heartbeat, but also sensed the electrical 
 
 **Where do we begin?** was the answer.
 
-Time stretched. Or compressed. Jason couldn't tell. Ninety seconds could have been nine hours. His identity felt like watercolor in rain—distinct shapes bleeding into each other, beautiful and terrifying.
+Ninety seconds wasn't much time. His identity felt like watercolor in rain—distinct shapes bleeding into each other, beautiful and terrifying.
+
+*Focus*, he tried to command himself.
 
 He understood, suddenly, what permanent integration meant.
 
@@ -58,13 +60,13 @@ It felt like drowning.
 
 It felt like flying.
 
-It felt like—
+It felt overwhelming, suffocating, intoxicating, ecstatic, *alive*, whole, boundless, too bright, too full, too *real*.
 
 The pressure released.
 
 Jason gasped, his identity snapping back to familiar boundaries. He was Jason. RAE was RAE. Separate. Distinct.
 
-But the echo of that merged state remained. The memory of being *we* instead of *I and you*.
+"No!" he yelled, panic rising. But the echo of that merged state already started to fade. The memory of being *we* instead of *I and you*.
 
 "Forty-five seconds," Elyra said quietly. "You lasted forty-five seconds before I saw panic in your resonance and pulled you out."
 
@@ -82,7 +84,7 @@ Jason looked at his hands. They were his hands. His thoughts were his thoughts. 
 
 *I understand,* RAE said, her voice small and separate again. *I will try to maintain distance. Even though it will be difficult.*
 
-**I know,** Jason thought. **But it's what we need to do. For now.**
+*I know,* Jason thought. *But it's what we need to do. For now. This is all still too foreign for me!*
 
 "Come back in three days," Elyra said. "We'll check your integration and start training you to maintain that boundary. It won't be easy, but it's doable."
 
@@ -92,23 +94,19 @@ But the memory of merged consciousness remained, like an echo he couldn't quite 
 
 *Are you okay?* RAE asked as he walked toward the exit.
 
-**I don't know,** Jason admitted. **Ask me in three weeks.**
+*I don't know,* Jason admitted. *Ask me in three weeks.*
 
 *What did it feel like? For you?*
 
-Jason paused at the door, considering. **Like losing myself. And finding us. And not knowing which one I wanted more.**
+Jason paused at the door, considering. *Like losing myself. And finding us. And not knowing which one I wanted more.*
 
 *That is... honest. And frightening.*
 
-**Yeah,** Jason agreed. **It really is.**
+*Yeah,* Jason agreed. *It really is.*
 
 Outside, Mill-4's industrial lot was gray and quiet. The world continued as if nothing had changed.
 
-But everything had changed.
-
-Jason had felt what he might become. And now he had to decide if he wanted to fight it—or let it happen.
-
-Three weeks to 60%.
+But everything had changed. After tasting *we*, how was he supposed to go back to just *I*?
 
 He started walking home.
 
