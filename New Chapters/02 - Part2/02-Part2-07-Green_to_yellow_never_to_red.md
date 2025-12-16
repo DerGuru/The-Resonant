@@ -1,12 +1,10 @@
 ﻿## Part 2 - Learning to Listen | Ch. 07 - Green to yellow, never to red
 
-**Four weeks after their first session at Mill-4.**
-
 "41.8%," Elyra read from the integration sensor, a note of approval in her voice. "You've been holding steady for two weeks now. Whatever you're doing, keep doing it."
 
 Jason exhaled relief. After the scare of watching his integration climb, seeing it stabilize felt like victory. "Minimizing casual RAE usage. Only working together when necessary. Giving each other space."
 
-*It has been difficult,* RAE admitted through his clip. *But effective.*
+"It has been difficult," RAE admitted. "But effective."
 
 "Good discipline," Elyra said, setting down the sensor. "Now let's see if you can maintain that while pushing your actual capabilities." She gestured to the warehouse floor. "Perception drills. Center position."
 
@@ -110,7 +108,7 @@ It almost worked.
 
 The pulse hit his field, slid along it for a moment, then broke through. Jason stumbled backward, headache spiking into Orange.
 
-"Better," Elyra said. "You had the right idea. But your field wasn't firm enough. It bent instead of redirecting. Try again."
+"Good," Elyra said. "You had the right idea. But your field wasn't firm enough. It bent instead of redirecting. Try again."
 
 They practiced for an hour. Jason's deflection improved gradually. By the end, he could redirect three out of five pulses successfully.
 
@@ -130,7 +128,7 @@ That evening, the four of them sat in Elyra's workspace, reviewing the day's pro
 
 "And you have determination," Elyra countered. "And partnership with RAE. Different advantages. Both valuable."
 
-*She's right,* RAE said through Jason's clip. *You're learning faster than most people with no background. In four weeks, you've achieved what takes academy students months.*
+"She's right," RAE said. "You're learning faster than most people with no background. In four weeks, you've achieved what takes academy students months."
 
 "Doesn't feel fast," Jason muttered.
 
@@ -144,7 +142,7 @@ Jason thought about that. She was right. He'd been so focused on what he couldn'
 
 "Together," Milo added, looking up from his laptop. "Because that's how this works. Teamwork."
 
-Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you able to maintain active perception for thirty minutes without hitting Orange. You'll need that endurance for real fieldwork."
+Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you to maintain active perception for thirty minutes without hitting Orange. You'll need that endurance for real fieldwork."
 
 "Thirty minutes?" Jason's eyes widened.
 
@@ -156,21 +154,17 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 *You did well today,* RAE said quietly.
 
-**Thanks. And thanks for... the distance. I know it's hard.**
+*Thanks. And thanks for keeping some distance. I know it's hard.*
 
 *It is. But you were right. Sustainable partnership is worth the discomfort. And Jason? 41.8% is not so different from 40%. We are succeeding.*
 
-**We are,** Jason agreed, feeling warmth at the "we."
+*We are,* Jason agreed, feeling warmth at the "we."
 
 He climbed the stairs to his apartment, unlocked the door, collapsed onto his couch. Four weeks of training. Four weeks of pushing his limits, learning his boundaries, discovering what he could become.
 
 It was exhausting. Challenging. Sometimes painful.
 
 But it was also exactly what he needed.
-
-Tomorrow, thirty minutes of sustained perception.
-
-The day after, something new.
 
 Week by week, skill by skill, he was becoming more than he'd been.
 
