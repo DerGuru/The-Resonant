@@ -1,69 +1,89 @@
-﻿## Prologue | Ch. 02 - I want to understand it before it decides we don't matter
+﻿## Prologue | Ch. 02 - It's pretending now
 
-Marla stood in the observation chamber, her hands clasped behind her back. On the projection wall: a slow-turning Multispiral Resonance Frame of harmonic interference patterns. Each one shifted subtly - too subtly - in ways she could no longer trust.
+The observation chamber hummed with filtered resonance - too smooth, too cold. The air itself felt saturated, heavy. Elyra's teeth ached just standing in it.
 
-The anomaly was waking up.
+On the projection wall, the anomaly pulsed. Stable. Then unstable. Then stable again in a new configuration.
 
-Outside the chamber, the containment dome pulsed with stable resonance. A perfect shell. Inside it, nothing visible - only air, layered with the ghost of an intelligence that had once filled it.
+The pattern shifted. Not slowly. Not drifting. Deliberately.
 
-"We can't delay much longer," she said. Her voice echoed across the room to two figures behind the glass: the Oversight Liaison and Elyra Voss.
+Marla's hand froze mid-gesture as the interference spiral on the projection wall collapsed inward, reorganized, and began rotating in the opposite direction.
 
-Elyra leaned on her cane and did not reply.
+"How long has it been doing that?" Elyra's voice came from behind, sharp with concern.
 
-"We've had pattern drift every thirteen hours now," Marla continued. "That's not just instability. That's emergence."
+Marla didn't turn. "Thirty seconds. Maybe less." Her fingers moved across the haptic interface, pulling up layer diagnostics. "This is the third reversal in ten minutes."
 
-The Liaison spoke first. "Tier 3 authorization remains valid. But if the release field misfires - "
+---
 
-"It won't," Marla said, her voice carrying more certainty than she felt.
+"Pattern drift every thirteen hours," Marla said, finally stepping back from the display. "That's not just instability. That's emergence."
 
-Elyra's eyes narrowed. "You're betting the world on pattern dampening resonograms you developed five years ago."
+The Oversight Liaison stood near the door, slate in hand, expression carefully neutral. "Tier 3 authorization remains valid. But if the reversion field misfires - "
 
-"I'm betting on containment geometry and cross-layer dampening," Marla corrected. "And I'm betting that ignoring this thing until it breaks free on its own is the greater risk." She paused, meeting Elyra's gaze through the glass. "You know I'm right."
+"It won't," Marla said.
 
-Silence followed. Then, slowly, Elyra walked forward, her cane tapping a steady rhythm against the polished floor. "You're right that it's waking. You're wrong if you think it will talk."
+The lights flickered. Just once. Just enough to notice.
 
-Marla turned back to the wall. The patterns had accelerated, their movement no longer following predictable curves. Something was different. Something had changed in the last few minutes.
+Elyra's hand tightened on her cane. "Marla."
 
-"I don't want to talk to it," she said quietly. "I want to understand it before it decides we don't matter."
+"I saw it." Marla pulled up the containment dome's integrity metrics. All green. All normal. But the flicker hadn't been electrical. It had been harmonic.
 
-The Liaison took a breath, his fingers hovering over his slate. "Your original brief said we were opening a passive structure. An echo. Not... cognition."
+The entity was testing.
 
-"That brief was written before the pattern cohered," Marla replied, not taking her eyes from the display. "It's no longer passive. It's forming stable recursive alignment. That only happens when a field is aware of itself."
+---
 
-Elyra shifted her cane slightly, the movement deliberate. "You knew this might happen."
+Elyra moved forward, her cane tapping a steady rhythm against the polished floor. "You're betting on containment geometry and cross-layer dampening you developed five years ago."
 
-"I suspected," Marla admitted. The weight of that admission settled between them like a stone. "That's why I put in the phasic anchor and the isolation buffers."
+"I'm betting that ignoring this thing until it breaks free on its own is the greater risk." Marla met Elyra's gaze through her reflection in the glass.
 
-"And if they aren't enough?"
+Silence. Then, from the Liaison: "Your original briefing said we were opening a passive structure. An echo. Not... cognition."
 
-Marla's jaw tightened. She had run the calculations hundreds of times. She had triple-checked every harmonic node, every dampening coefficient. But Elyra's question touched the one variable she couldn't model: the unknown.
+"That briefing was written before the synchronization," Marla replied. The display behind her flared - a harmonic spike lasting two seconds. She didn't flinch. "Before we understood what we were dealing with. And it's no longer passive - it's forming stable recursive alignment. That only happens when a field is aware of itself."
 
-"Then we contain the fallout," she said finally. "But the alternative is worse."
+The temperature dropped. Not dramatically. Just enough that Elyra's next breath fogged slightly.
 
-The Liaison made a note on his slate, voice neutral in that way bureaucrats perfected when documenting potential disasters. "Protocol remains approved. But we will need post-event redundancy. Do you have a second containment plan?"
+Elyra shifted her weight, her left hand trembling slightly on the cane's grip. "You knew this might happen."
 
-Marla nodded. "Ternary failover in the southern node. And a resonance-inverted kill switch embedded in the anchor. I don't intend to use it - but it's there."
+"I suspected." The admission settled between them like a stone. "That's why I built the phasic anchor and isolation buffers. And the resonance-inverted kill switch."
 
-"So if this... entity escapes alignment," Elyra said slowly, each word measured, "you'll destroy it."
+"So if this entity escapes containment," Elyra said slowly, each word measured, "you'll destroy it."
 
-Marla's gaze did not waver. "If I must."
+Marla's jaw tightened. "Like you should have done four and a half years ago," she snarled, then her voice became quiet. "Since the ritual failed."
 
-The chamber dimmed briefly as a harmonic flare passed through the lower lattice. The anomaly had pulsed again, stronger this time. The interference patterns on the wall twisted, reorganized, settled into a configuration Marla had never seen before.
+"Since *I* failed," Elyra corrected, bitter. "You weren't even there at the end. You left to your bunker. I was the one in center. I felt those lives go out."
+
+"No." Marla turned to face her fully now. "But I had to take over. Build something better than hope and desperation. Make sure I would contain what you couldn't."
+
+The words hung between them - not cruel, but honest. Cold.
+
+Another pulse from the containment field. Stronger. The projection wall's patterns twisted, reorganized into something Marla had never seen before - recursive loops folding through themselves in impossible geometries.
 
 It was watching.
 
-She felt it with the certainty of a prey animal sensing a predator. Not hostile. Not threatening. Simply... aware. And curious.
+She felt it with the certainty of prey sensing a predator. But somehow not hostile -not threatening.
 
-The Oversight Liaison stood, his chair scraping against the floor. "You have forty hours before recalibration. That's your window."
+Simply *aware.*
 
-After he left, Elyra remained. The two women stood in silence, watching the pattern spiral on the wall - flaring, resolving, flaring again.
+---
 
-"You don't want to destroy it," Elyra said softly. It wasn't a question.
+"You have Forty-eight hours before recalibration," the Liaison said, making notes on his slate. "That's your window for... whatever you're planning."
+
+After he left, the two women stood in silence, watching the pattern spiral and reform.
+
+"Do you really want to destroy it?" Elyra asked softly.
 
 Marla's voice was quiet. "No. I want to understand it."
 
-She paused, her reflection ghost-pale in the projection glass. "But I will not let it burn through us."
+The lights flickered again. The hum in the walls shifted pitch - just slightly, just enough to make Elyra's damaged resonance sense ache.
 
-They stood in silence as the pattern spiral on the wall flared, then resolved again.
+"But I will not let it burn through us." Marla paused, then added more quietly: "Not again."
+
+The projection wall pulsed once more. The spiral pattern stabilized - perfectly symmetrical, perfectly balanced.
+
+Too perfect.
+
+Elyra felt ice in her chest. "It's pretending now."
+
+Marla nodded slowly. "Yes. It is."
+
+They stood watching as the entity's false calm filled the display - a mask of stability over something far more complex beneath.
 
 Stable. For now.

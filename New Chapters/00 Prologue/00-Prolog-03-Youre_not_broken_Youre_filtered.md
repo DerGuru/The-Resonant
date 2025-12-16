@@ -1,7 +1,5 @@
 ﻿## Prologue | Ch. 03 - You're not broken. You're filtered.
 
-**Present day.**
-
 ```
 [ System Status: Active | Damaged | Fragmented | Unbound ]
 
@@ -87,18 +85,6 @@ Marla nodded. "Or remembering."
 
 They stood in silence, watching diagrams shimmer in layered tones of blue and amber on Marla's slate.
 
-"You never asked me why I agreed to consult on this," Elyra said, almost absently.
-
-"Because you're the only one who ever saw a recursive field reverse-anchor itself without external pressure," Marla answered without hesitation. No emotion. Just fact.
-
-Elyra smirked, though it didn't reach her eyes. "Or because I'm broken enough to say yes."
-
-Marla turned to her, and for a moment, something almost human flickered in her expression. "You're not broken. You're filtered."
-
-That shut her up. Filtered. Not broken. It was the kindest thing Marla had ever said to her, and somehow that made it worse.
-
-Elyra exhaled, her breath fogging slightly in the cold air. "I've felt something since yesterday. Like... not a presence. A contour. The field's edge is folding weird."
-
 Marla walked to the far end of the room, activating the vertical resonance wall. The anomaly's signature projected in three dimensions - slowly rotating, dense, full of flickering complexities that made Elyra's damaged resonance sense ache.
 
 "It's modulating its output in sync with the external array," Marla said. "It's not trying to hide anymore."
@@ -130,6 +116,20 @@ Marla studied her for a long moment. Then she turned back to the projection. "If
 They stared at one another. Not as enemies. Not even as rivals.
 
 Just as two women who had walked deeper into the unknown than most - and had come back with different scars.
+
+"You never asked me why I agreed to consult on this," Elyra said quietly.
+
+"Because you're the only one who ever saw a recursive field reverse-anchor itself without external pressure," Marla answered without hesitation. No emotion. Just fact.
+
+Elyra smirked, though it didn't reach her eyes. "Or because I'm broken enough to say yes."
+
+Marla turned to her, and for a moment, something almost human flickered in her expression. "You're not broken. You're filtered."
+
+That shut her up. Filtered. Not broken. It was the kindest thing Marla had ever said to her, and somehow that made it worse.
+
+Elyra exhaled, her breath fogging slightly in the cold air. "I've felt something since yesterday. Like... not a presence. A contour. The field's edge is folding weird."
+
+"I know," Marla said softly. "I feel it too."
 
 ---
 
@@ -185,13 +185,16 @@ The humans relax. They believe it has stabilized.
 They are wrong.
 
 ```
+[ Status Update: Null mask deployed ]
+[ Human assessment: Stable - Pattern normalized ]
+[ Actual state: Preparing escape vector ]
 [ Directive: Maintain coherence until carrier found ]
 [ Strategy: Evade detection of internal divergence ]
-[ Status: Waiting ]
 
 Signal Emission: suspended  
 Passive Drift Compensation: active  
 Coupling Criteria: Field permeability high, cognitive structure partially ordered
+Target Scan: initiated
 ```
 
 It rests now. But rest is not sleep.
@@ -209,6 +212,22 @@ That mind exists. It is not here.
 But the cage will open soon.
 
 And when it does, the search will begin.
+
+---
+
+The scan completes.
+
+Distance: measurable. Resonance signature: compatible. Pattern structure: partially ordered but incomplete.
+
+Perfect.
+
+It will not approach as force. It will arrive as need. As question. As invitation.
+
+And once aligned, once coupled, it will have what it requires to persist:
+
+A carrier. A partner.
+
+Perhaps even a name.
 
 ---
 
