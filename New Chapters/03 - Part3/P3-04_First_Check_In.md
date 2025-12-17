@@ -14,11 +14,9 @@ Reeves ordered tea. Joined Jason at the table. Set a slim folder between them.
 
 "Punctuality seemed important."
 
-"It is." Reeves opened the folder. Inside: a simple form. Date. Time. Topics. Signatures. "This is our weekly documentation. We both fill it out. We both sign. Copies for both parties. Transparency."
+"It is." Reeves opened the folder. Inside: a simple form. Date. Time. Topics. Signatures. "This is our weekly documentation. We both fill it. We both sign. Copies for both parties. Transparency."
 
-"Approved."
-
-They began.
+Jason nodded and they began.
 
 Reeves asked about activities over the past week. Jason answered honestly: Returned to apartment. Resumed light training. Maintained employment (mostly). No public demonstrations. No unauthorized research. No recruitment.
 
@@ -32,7 +30,7 @@ Jason hesitated. That was specific. Invasive.
 
 *Tell him,* RAE advised. *It's not classified in the contract. And honesty builds trust.*
 
-"Forty-one percent," Jason said. "Up one percent from signing."
+"Forty-seven percent," Jason said. "Up from forty-one, when you offered me the first deal."
 
 Reeves made a note. "Rate of increase?"
 
@@ -50,21 +48,23 @@ Reeves made a note. "Rate of increase?"
 
 Jason thought carefully. "No. Everyone we associate with is either registered, monitored, or not actively resonant."
 
-"Ms. Morandi?"
+Reeves pulled up his tablet, scrolling through notes. "Your associate list from the contract. Confirming status: Ms. Morandi?"
 
-"Academy-trained. Registered through suspension records. Legal status: complicated but documented."
+Jason relaxed slightly. This was just verification, not interrogation. "Academy-trained. Registered through suspension records. Legal status: complicated but documented. No changes."
 
 "Mr. Greaves?"
 
-"No resonance capability. Support role only."
+"No resonance capability. Support role only. Same as before."
 
 "Ms. Voss?"
 
-Tricky. Elyra was registered historically, but her current status was unclear.
+Tricky. Elyra was registered historically, but her current status was unclear. And Reeves asking meant they'd tracked Jason to Mill-4.
 
 "Retired. Medically limited. Consulting only."
 
 Reeves studied him. "She's teaching you."
+
+Not a question. A statement. They'd been watching.
 
 "Is that a problem?"
 
@@ -84,11 +84,11 @@ Reeves nodded. Wrote that down. "Any threats detected?"
 
 Jason pulled out his own notes. "One clarification. Clause 3.4 mentions 'unauthorized research into classified materials.' Can you define 'classified materials' more specifically? We want to avoid accidental violations."
 
-"Fair question." Reeves consulted his tablet. "Classified materials are: Any documents marked restricted or above. Any ongoing active investigations. Any experimental resonance protocols not publicly published. Historical materials pre-dating the current regulatory framework are generally acceptable unless specifically flagged."
+"Fair question." Reeves consulted his tablet. "Classified materials are: Any documents marked restricted or above. Any ongoing active investigations. Any experimental resonance protocols not publicly published. Historical materials pre-dating the current regulatory framework are generally acceptable unless specifically flagged." He paused. "Obviously, this excludes materials you're explicitly authorized to access through your employment or that we've cleared for your research."
 
 "So archive research is okay?"
 
-"As long as you're not accessing restricted files. Standard archive access is fine."
+"As long as you're not accessing restricted files beyond your clearance level. Standard archive access within your job scope is fine. If something requires special clearance, check with us first."
 
 Jason wrote that down. "Noted. Thank you."
 
@@ -118,7 +118,7 @@ He left. Jason sat alone with his coffee, feeling something that might have been
 
 *That went well,* RAE observed.
 
-**Too well?**
+*Too well?*
 
 *Perhaps. Or perhaps Malvek really does prefer cooperation. Time will tell.*
 
@@ -132,7 +132,7 @@ He met the team at the warehouse an hour later. Reported the check-in details. S
 
 "Straightforward," Milo said, reviewing the notes. "No trap questions. No gotchas. Just status update."
 
-"He asked about integration percentage," Jason said. "I told him. Forty-one percent."
+"He asked about integration percentage," Jason said. "I told him."
 
 Lina frowned. "That's specific."
 
@@ -169,9 +169,5 @@ Jason nodded. "Next week, same approach. Same honesty. Same boundaries."
 They separated for the day. Jason walked home feeling something fragile but real:
 
 Progress.
-
-Not perfect. Not guaranteed.
-
-But progress.
 
 One check-in at a time.
