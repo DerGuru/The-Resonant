@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 06 - Once we start, we commit
+﻿## Part 3 - Synthesis | Ch. 06 - I'd consider coming out of retirement
 
 Three weeks into the agreement, Milo found the notebook.
 
@@ -36,142 +36,94 @@ Elyra set down her cane carefully. Crossed to the table. Closed the notebook wit
 
 Elyra studied them for a long moment. Then sighed, opened the notebook again.
 
-"This ritual draws on successful coupling architecture—Jason and RAE. Uses that as a template to guide my damaged patterns toward healing. Slowly. Over months, potentially years. But it would start the process." She pointed to the center pattern. "I would be the focus. Jason would be the anchor. Lina, harmonic stabilizer. Milo, pattern keeper. RAE distributed through the field."
+"This ritual draws on successful coupling architecture—Jason and RAE. Uses that as a template to guide my damaged patterns toward healing. Slowly. Over months, potentially years. But it would start the process." She pointed to the center pattern. "I would be the focus. Jason would be the anchor. Lina, harmonic stabilizer. RAE in the field. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
 
-"And the risks?" Lina asked.
+She paused. "Milo would be timekeeper and observer. Outside the pattern, monitoring, but essential."
 
-"If the pattern destabilizes mid-ritual, it could feedback into Jason. Disrupt his integration. Cause damage similar to what I experienced." She met Jason's eyes. "Low probability. Maybe five percent. But not zero."
+"Five participants," Milo said slowly. "We have four. Who's the fifth?"
 
-"That's manageable," Jason said.
+Elyra was quiet. "That's why it's theoretical. I know no one else I'd trust with this. No one else who'd risk it for me."
 
-"Is it? Because I've spent eleven years living with three percent capacity. I know what ritual failure costs. And I won't inflict that on someone else. Especially not someone who's helped me as much as you have."
+Jason felt something click into place. Mrs. Amari. Her watchfulness. Her warning after the scaffold. The way she'd looked at the storm.
 
-"But you've been researching it anyway," Milo observed. "Why?"
+"I might," he said slowly. "I might know someone."
 
-Elyra was quiet for a moment. "Because hope is hard to kill. Even when you know better."
+Elyra looked at him sharply. "Who?"
 
-*She wants this,* RAE said privately. *Desperately. But won't ask.*
+"My neighbor. Mrs. Amari. She's been... watching. Since the beginning. She warned me after the scaffold incident. Said I'd been noticed. Said not everyone who notices is friendly." He paused. "The way she talks about these things... I think she might have experience. But I don't know if she'd be willing."
 
-**Then we offer.**
+"You think she was a practitioner?" Lina asked.
 
-"What would we need to make this work?" Jason asked.
+"Maybe. Or she knows enough to recognize what we're doing." Jason met Elyra's eyes. "I could ask. Carefully. See if she'd even consider it."
 
-"Jason—"
+Elyra was quiet for a long moment. "If she does have experience—and if she's willing—the outer boundary role requires someone stable. Defensive work. Holding a position without wavering for hours." She studied him. "Are you willing to ask her? To explain what we need?"
 
-"What would we need?" he repeated, firmer. "Time? Materials? Practice?"
+"Yes. But I'll respect her answer. If she says no—"
 
-Elyra looked at each of them. At Jason, determined. At Lina, evaluating but not dismissive. At Milo, already thinking logistics.
+"Then we find another way," Elyra said firmly. "Or we don't proceed. I won't pressure anyone into this."
 
-"Minimum two weeks preparation," she said finally. "Ideally a month. You'd need to memorize the pattern. Practice the resonances. Coordinate timing perfectly." She hesitated. "It's not something you improvise."
+"Understood," Jason said. "I'll talk to her. See if she's even open to the conversation."
 
-"Then we don't improvise," Lina said. "We prepare. Properly."
+---
+Jason found Mrs. Amari in the building's small garden. Late afternoon. She was tending her flowers—the same ones he'd helped her carry six years ago.
 
-"Why?" Elyra's voice was rough. "Why would you risk this?"
+"Mrs. Amari," he said. "Can we talk?"
 
-"Because you're our teacher," Jason said simply. "Because you've risked training us when you had no obligation to. Because—" He paused. "Because if this works, you get to actually demonstrate. Not just teach from limitation. And we get a mentor at full capability."
+She looked up, studied him with those sharp eyes. "About what you're planning? Or about what I already know?"
 
-"Or you get damaged trying to help me."
+Jason's breath caught. "You... know?"
 
-"Or we succeed," Milo said. "And prove we can do complex, difficult things. Together."
+"I've known for months, Jason. Since the storm. Since before that, even." She set down her trowel, brushed soil from her hands. "You're not as subtle as you think. And I've been around resonance long enough to recognize the signs."
 
-Elyra's grip tightened on her cane. When she spoke, her voice was quieter. "I designed this specifically to leverage your coupling architecture. The risk is real but... manageable. And the benefits..." She stopped. Started again. "It would stabilize Jason's integration. Prevent complications as it deepens. And it would give me back... not everything. But enough."
+"Around resonance," Jason repeated carefully.
 
-"Then let us help," Lina said.
+"I was a practitioner. Thirty years ago. Defensive specialist—wards, barriers, perimeter work." She smiled faintly. "Retired after my husband died. Didn't want that life anymore. But I never lost the instinct. The awareness."
 
-Elyra studied the notebook. Then them. Then nodded slowly.
+"That's why you warned me. After the scaffold."
 
-"One week. Study the pattern. Run simulations. Understand exactly what you're committing to." She handed Jason the notebook. "Then we vote. Unanimous agreement or we don't proceed. I won't risk your safety without full consent."
+"Because I saw what you did. What you're becoming. And I saw the people watching." She met his eyes. "You're in deep, Jason. Deeper than you realize."
 
-"Fair," Jason said.
+"I know." He took a breath. "That's actually... that's part of why I'm here. Not to ask about what you know. But to ask if—" He stopped. Started again. "Would you be willing to look at something? A resonogram. It's for a healing ritual. Complex. Requires specific roles. And I think... I think one of those roles might match your training."
+
+Mrs. Amari was quiet for a moment. "You're asking if I'd consider coming out of retirement."
 
 ---
 
-They spent the week studying.
+That night, Jason reported to the team.
 
-The resonogram was elegant. Complex. Six interlocking patterns that had to align perfectly. Timing measured in heartbeats. Resonance modulated through harmonic intervals Jason barely understood.
+"Mrs. Amari was a practitioner," he said. "Thirty years ago. Defensive specialist—wards, barriers, perimeter work. Retired after her husband died."
 
-But slowly, it made sense.
+"And?" Lina asked. "Is she willing?"
 
-Elyra's damage was structural—patterns that had been torn couldn't simply be regrown. But they could be guided. New growth encouraged along old pathways. Like physical therapy for resonance.
+"She wants to see the full pattern first. Meet everyone. Evaluate if we're ready." Jason paused. "Tomorrow morning. Six AM. She'll come to training, see what we're capable of, and then decide."
 
-Jason's role was anchor. His stable integration with RAE would provide a template. A reference pattern that the ritual could adapt from. Not duplicate—adapt. Elyra's patterns would learn from his, but remain distinctly hers.
+"That's fair," Milo said. "She's being smart. Not committing without full information."
 
-Lina would stabilize. Her academy training meant she could sense drift and compensate. Keep the pattern from collapsing under stress.
+"She's also testing us," Elyra said quietly. "Seeing if we're serious. If we understand what we're asking." She nodded approval. "I like her already."
 
-Milo would keep time. Call intervals. Monitor from outside. Be the voice that guided them through phases.
+"What if she says no?" Lina asked.
 
-RAE would distribute through the field. Not concentrated in Jason, but spread through the entire ritual space. A harmonic foundation supporting all of it.
+"Then we respect that," Jason said. "And we figure out another way. But I think..." He paused. "I think she wants to say yes. She just needs to know we're ready. That we're not going into this blind."
 
-"It's beautiful," Lina said on day four. "Dangerous, but beautiful."
+"Then we show her we're ready," Elyra said. "Tomorrow, we demonstrate. Perfect execution. No mistakes. We show her that this team knows what it's doing."
 
-"Most worthwhile things are," Elyra said quietly.
+"Agreed," Jason said.
 
-By day seven, they'd memorized the pattern. Could draw it from memory. Could explain each phase and its purpose.
+And as he walked home that night, Jason felt something shift.
 
-Elyra called a meeting.
+They weren't just asking Mrs. Amari to help.
 
-"Decision time," she said. "Full consent or we abandon the idea. No pressure. No judgment. This is voluntary."
+They were inviting her back into a world she'd left behind.
 
-"I'm in," Jason said immediately.
+Giving her a reason to use skills she thought she'd never need again.
 
-"Me too," Lina said.
+Offering her community. Purpose. Connection.
 
-"Same," Milo added.
+And that, more than anything, was what they were really asking for.
 
-Elyra looked at each of them. "You understand the risks? The time commitment? The possibility of failure?"
+Not just her defensive work.
 
-"We understand," Jason said. "And we're willing."
+But her trust.
 
-She was quiet for a long moment. Then nodded. "Then we proceed. Starting tomorrow, we practice. Every day. Two hours. Until the pattern is instinct. Until we can execute it blind and exhausted." She paused. "This isn't training. This is preparation for something that could change everything. Treat it accordingly."
+One careful conversation at a time.
 
-They nodded.
-
-"One more thing," Elyra said. "We don't tell Malvek. Not yet. The ritual isn't illegal. But it's complex enough that explaining it would raise questions. Better to execute it successfully, then report it as completed medical treatment."
-
-"Agreed," Jason said. "After next check-in, we mention researching healing options. Frame it as personal development. Then proceed quietly."
-
-"Smart," Milo said. "Transparent enough to maintain trust. Vague enough to avoid oversight."
-
-They began the next day.
-
-Two hours. Every day. Memorizing not just the pattern, but the feeling. The rhythm. The resonance signatures of each participant.
-
-Elyra was merciless. Any mistake meant starting over. Any hesitation meant more practice.
-
-"In the actual ritual, you won't have the luxury of stopping," she said. "Once we start, we commit. So you practice until it's perfect. Then practice more."
-
-By week two, they could execute the first three phases flawlessly.
-
-By week three, all six phases. With coordination. With timing.
-
-By week four, they were ready.
-
-"One more week," Elyra said. "To rest. To center. To ensure we're at peak capability."
-
-"And then?" Lina asked.
-
-"Then we attempt it. And we hope I designed this correctly."
-
-Jason met her eyes. "You did. We trust your work."
-
-"Thank you. But trust doesn't guarantee success. Only preparation does. So we prepare."
-
-They did.
-
-And as the scheduled date approached, Jason felt something growing:
-
-Not fear. Not exactly.
-
-Anticipation.
-
-This wasn't just healing for Elyra.
-
-This was proof that they could do complex, difficult, important things.
-
-Together.
-
-As a team.
-
-And that proof, more than anything, would show Malvek—and themselves—that partnership was real.
-
-One ritual at a time.
