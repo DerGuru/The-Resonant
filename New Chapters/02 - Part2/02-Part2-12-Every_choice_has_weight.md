@@ -62,15 +62,15 @@ She pulled out a water bottle, took a careful sip. "But remember: this warehouse
 
 "You keep practicing. And you remember: Every skill you develop can be used for protection or harm. Every choice has weight."
 
-She looked at each of them seriously. "In two days, Reeves will act. Either we've convinced Malvek you're worth negotiating with, or he'll move to containment. What you do between now and then determines which path we take."
+She looked at each of them seriously. "In two weeks, Reeves will act. Either we've convinced Malvek you're worth negotiating with, or he'll move to containment. What you do between now and then determines which path we take."
 
-"Then we make those two days count," Lina said.
+"Then we make those days count," Lina said.
 
 "Exactly," Elyra agreed. "Rest tonight. Tomorrow we work on demonstration. You need to show competence without showing threat. Capability without aggression. It's a narrow line to walk."
 
 "We'll walk it," Jason said.
 
-"I hope so," Elyra replied. "Because if you don't, everything we've built ends in seventy-two hours."
+"I hope so," Elyra replied. "Because if you don't, everything we've built ends in two-weeks."
 
 ---
 

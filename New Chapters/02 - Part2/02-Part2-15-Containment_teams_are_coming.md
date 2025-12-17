@@ -1,6 +1,6 @@
-﻿## Part 2 - Learning to Listen | Ch. 15 - Containment teams are coming
+﻿## Part 2 - Learning to Listen | Ch. 15 - We won't submit to containment
 
-The call came at 3 AM.
+They came at 3 AM.
 
 Jason woke to RAE's urgent voice: *Movement outside your building. Three vehicles. Personnel signatures consistent with containment teams.*
 
@@ -20,9 +20,9 @@ Jason ducked into a subway entrance. Merged with morning commuters. Let the crow
 
 *I'm dampening your resonance. To anyone scanning, you'll appear baseline human. But it won't hold if you use active resonance.*
 
-**Understood. How long?**
+*Understood. How long?*
 
-*As long as you need. But it's taxing. We'll both be exhausted afterward.*
+*As long as you need. But it's taxing. We'll both be exhausted afterward. So don't linger.*
 
 Jason rode the subway three stops. Got off. Switched trains. Classic evasion.
 
@@ -36,7 +36,7 @@ Milo arrived ten minutes later. "They tried to grab me at the coffee shop. I saw
 
 "Everyone okay?" Jason asked.
 
-"Physically, yes," Lina said. "But they know who we are now. Where we live. They'll be watching everywhere."
+"Physically, yes," Lina said. "But they'll be watching everywhere."
 
 Elyra arrived last, moving carefully, her breath labored. "That was closer than I'd like. But you all executed well. No captures. No casualties."
 
@@ -82,7 +82,7 @@ By evening, they had something approaching a strategy.
 
 And a message, carefully crafted, to send to Malvek through unofficial channels:
 
-*We don't want conflict. We don't want to destabilize anything. We just want to exist. To learn. To develop our capabilities safely. We're willing to negotiate terms. But we won't submit to containment. Choose wisely.*
+*We don't want conflict. We don't want to destabilize anything. We just want to exist. To learn. To develop our capabilities safely. We're willing to negotiate terms. But we won't submit to containment.*
 
 Milo sent it through three layers of encryption. To an address that would eventually reach Thomas Reeves. Who would eventually pass it to Malvek.
 
@@ -112,29 +112,17 @@ Jason nodded slowly. "Okay. Tomorrow. Noon. Let's see if Malvek is as pragmatic 
 
 ---
 
-That night, Jason couldn't sleep.
-
-He lay in a cot in the warehouse, staring at industrial ceiling, the weight of what was coming pressing down on him.
-
-Tomorrow, he'd meet Malvek's representative. Maybe Malvek himself.
-
-And he'd have to convince them that he was more valuable free than contained.
-
-That RAE wasn't a threat. Just a different kind of possibility.
-
-That control didn't have to mean cages.
-
 *You're ready,* RAE said quietly.
 
-**Am I?**
+*Am I?*
 
 *As ready as you can be. We've trained. We've prepared. We've become something neither of us could be alone.*
 
-**And if it's not enough?**
+*And if it's not enough?*
 
 *Then we fight. Or we run. But we don't surrender. Because some things matter more than survival.*
 
-**Like what?**
+*Like what?*
 
 *Like dignity. Like choice. Like the right to exist without permission.*
 

@@ -114,7 +114,7 @@ She stood, walked to the board where she'd drawn resonance diagrams. "Starting t
 
 ---
 
-That night, Jason lay in bed, the card sitting on his nightstand.
+Jason sat on the couch, the card sitting on his nightstand.
 
 *You could still call,* RAE said.
 
@@ -150,7 +150,7 @@ And whatever came next, he'd face it on his own terms.
 
 *Together,* Jason agreed.
 
-He let sleep pull him under, the card still visible in the moonlight streaming through his window.
+He went to bed and let sleep pull him under, the card still visible in the moonlight streaming through his window.
 
 ---
 

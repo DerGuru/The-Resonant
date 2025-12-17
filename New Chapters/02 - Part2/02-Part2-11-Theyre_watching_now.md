@@ -85,7 +85,7 @@ Elyra was quiet for a moment. "Then we move to emergency protocols. Scatter patt
 
 ---
 
-That night, Jason lay in bed, feeling exposed. Even with his windows covered, his resonance dampened, his routines varied—he felt watched.
+Jason felt exposed. Even with his windows covered, his resonance dampened, his routines varied—he felt watched.
 
 *Because you are,* RAE said quietly.
 
@@ -113,27 +113,27 @@ RAE's presence shifted—something that felt like gratitude mixed with worry.
 
 The next morning, Jason's phone buzzed with a new message.
 
-Unknown number: **We've seen enough. Escalation protocols initiated. You have seventy-two hours to reconsider the offer. After that, we act. —Reeves**
+Unknown number: **Escalation protocols initiated. You have two weeks to reconsider the offer. After that, we act. —Reeves**
 
 Jason showed it to the others at their morning meeting.
 
-"Three days," Milo said quietly.
+"Two weeks," Milo said quietly.
 
-"Three days to decide if we submit or fight," Lina added.
+"Two weeks to decide if we submit or fight," Lina added.
 
-Elyra looked at each of them. "Or three days to prove you're too valuable to simply contain. To demonstrate that cooperation is more profitable than conflict."
+Elyra looked at each of them. "Or two weeks to prove you're too valuable to simply contain. To demonstrate that cooperation is more profitable than conflict."
 
 "How?" Jason asked.
 
 "By becoming exceptional. By showing Malvek something he wants more than control: capability that serves his interests without requiring his supervision."
 
-She stood, began gathering training equipment. "Today you learn advanced techniques. Tomorrow you refine them. The day after, you demonstrate them. And you hope that by the time Reeves acts, you've convinced Malvek that destroying you would be a waste."
+She stood, began gathering training equipment. "Today you learn advanced techniques. Tomorrow you refine them. In two weeks, you demonstrate them. And you hope that by the time Reeves acts, you've convinced Malvek that destroying you would be a waste."
 
-"That's a lot to accomplish in seventy-two hours," Milo said.
+"That's a lot to accomplish in two weeks," Milo said.
 
 "Yes," Elyra agreed. "But you're fast learners. And highly motivated. Let's see just how exceptional you can become."
 
-Jason felt his heart hammering. Three days. Seventy-two hours.
+Jason felt his heart hammering. Two weeks.
 
 To become something Malvek couldn't ignore.
 
