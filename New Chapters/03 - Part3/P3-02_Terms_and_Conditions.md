@@ -2,7 +2,7 @@
 
 Forty-eight hours felt simultaneously too long and not long enough.
 
-Jason spent the first twelve dissecting the contract with Milo. Every clause. Every subsection. Every word that could potentially be weaponized against them.
+Jason spent the first twelve hours dissecting the contract with Milo. Every clause. Every subsection. Every word that could potentially be weaponized against them.
 
 "Clause 4.2 is concerning," Milo said, highlighting text on his screen. "It gives them discretion to redefine 'public demonstration' if circumstances change. That's a trap door."
 
@@ -24,11 +24,11 @@ They ate in companionable silence for a few minutes. The food was good - some ki
 
 "You're welcome. Now tell me: are we actually going to sign this?"
 
-"Modified version, yes." Jason set down his fork. "We can't keep running. Malvek has resources. Time. Patience. We don't. This buys us legitimacy. Room to operate. Time to get stronger."
+"I am still hesitant, but a modified version, yes." Jason set down his fork. "We can't keep running. Malvek has resources. Time. Patience. We don't. This buys us legitimacy. Room to operate. Time to get stronger."
 
 "And when we're strong enough?"
 
-"Then we decide if the terms still serve us. Or if we renegotiate from a position of even greater capability." He paused. "But right now? We take the deal. We document everything. And we prove we can be trusted partners."
+"Then we decide if the terms still serve us. Or if we renegotiate." He paused. "But right now? We take the deal. We document everything. And we prove we can be trusted partners."
 
 Lina looked at him for a long moment. "You're thinking like a leader now."
 
@@ -52,7 +52,7 @@ Jason handed over their counter-proposal. "Seventeen amendments. Specific langua
 
 Reeves pulled out his tablet, began reading. His expression didn't change as he scrolled through their modifications.
 
-After five minutes: "Most of these are acceptable. Three need clarification. And one requires Director Malvek's direct approval."
+After five minutes: "Most of these are acceptable. Three need clarification. And one got Director Malvek's direct approval."
 
 "Which one?" Milo asked.
 
@@ -88,7 +88,7 @@ They stood in the afternoon light, watching him go.
 
 "He really wants this to work," Milo said quietly.
 
-"Because it's cheaper than the alternative," Lina said. "We proved we're expensive to cage. Now we're proving we're cheap to manage. Basic economics."
+"Because it's cheaper than the alternative," Lina said. "We've proven we're expensive to cage. Now we're proving we're cheap to manage. Basic economics."
 
 "Is that cynical?" Jason asked.
 
@@ -98,7 +98,7 @@ They stood in the afternoon light, watching him go.
 
 Twenty-two hours later, Jason's phone buzzed. A message from Reeves:
 
-*"Director Malvek has approved all seventeen amendments. Contract ready for signing. Attorney's office, tomorrow, 2 PM. Bring ID and your team. This is official."*
+*"Director Malvek has approved all seventeen amendments. Contract ready for signing. Attorney's office, tomorrow, 2 PM. Bring some form of ID and your team. This is official."*
 
 Jason showed the message to the others.
 
@@ -172,15 +172,15 @@ Outside, the sun was setting. They walked three blocks before anyone spoke.
 
 *How do you feel?* RAE asked.
 
-**Relieved. Anxious. Committed.**
+*Relieved. Anxious. Committed.*
 
 *All appropriate. We've traded absolute freedom for conditional security. That's not weakness. That's strategy.*
 
-**I hope you're right.**
+*I hope you're right.*
 
 *So do I.*
 
-They reached the warehouse as full dark fell. Inside, Elyra had prepared tea - actual tea, not the cheap stuff - and they sat around the makeshift table, holding warm cups, feeling the weight of what they'd done.
+They reached the warehouse as full dark fell. Inside, Elyra had prepared tea and they sat around the makeshift table, holding warm cups, feeling the weight of what they'd done.
 
 "First check-in is in seven days," Jason said. "At Meridian Coffee. Wednesday, 10 AM. Thirty minutes. Status update only."
 

@@ -1,8 +1,8 @@
-﻿## Part 3 - Synthesis | Ch. 03 - Your mother worries.
+﻿## Part 3 - Synthesis | Ch. 03 - Your mother worries
 
 The first week of monitored freedom felt like learning to walk on ice - careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
 
-Jason returned to his apartment for the first time in ten days. The door marker was still there - faint, visible only to resonance perception. But now it felt different. Not hostile. Just... present. A reminder that he was being watched, but not hunted.
+Jason returned to his apartment for the first time in what felt like weeks. The door marker was still there - faint, visible only to resonance perception. But now it felt different. Not hostile. Just... present. A reminder that he was being watched, but not hunted.
 
 Mrs. Amari opened her door as he climbed the stairs. "Jason. You're back."
 
@@ -28,31 +28,31 @@ Jason stood in the hallway, holding warm food and certainty that Mrs. Amari knew
 
 *She's been watching over you,* RAE observed.
 
-**Yeah. But for who? Herself? Malvek?**
+*Yeah. But for who? Herself? Malvek?*
 
 *Perhaps both. Or neither. Some people just watch because they remember when no one watched them.*
 
 Jason unlocked his apartment. Everything was as he'd left it - clothes still in drawers, dishes still in the sink, the life he'd abandoned when everything changed still waiting.
 
-He ate Mrs. Amari's food. It was good. Really good. And as he ate, he realized something: he wasn't the same person who'd left this apartment ten days ago.
+He ate Mrs. Amari's food. It was good. Really good. And as he ate, he realized something: he wasn't the same person who'd left this apartment just days ago.
 
 That Jason Fischer had been scared. Reactive. Unsure of his place in the world.
 
 This Jason Fischer had negotiated with institutional power. Had signed contracts. Had team members who trusted him to lead.
 
-Integration was 40% and climbing. He wasn't just Jason anymore. He was Jason-and-RAE. A hybrid consciousness that thought in collaborative patterns, made decisions through consultation, existed in partnership.
+Integration was still climbing. He wasn't just Jason anymore. He had RAE. They thought in collaborative patterns, made decisions together, existed in partnership.
 
 *You're processing,* RAE said gently.
 
-**I'm realizing I can't go back. Even if I wanted to.**
+*I'm realizing I can't go back. Even if I wanted to.*
 
 *Would you want to?*
 
 Jason thought about that. About what "back" would mean. The archive job. The lonely apartment. The resigned acceptance of mediocrity.
 
-**No. I wouldn't want to.**
+*No. I wouldn't want to.*
 
-*Good. Forward is the only direction that matters now.*
+*Good. Then forward is the only direction that matters now.*
 
 ---
 
@@ -62,7 +62,7 @@ Lina's return to the restaurant was less philosophical and more immediate.
 
 "I told you. Helping a friend."
 
-"For ten days? Without calling?" He gestured sharply with a wooden spoon. "Your mother worries. I worry."
+"For days? Without calling?" He gestured sharply with a wooden spoon. "Your mother worries. I worry."
 
 "I'm an adult, Dad."
 
@@ -98,9 +98,7 @@ Her father studied her for a long moment. Then nodded once. "Okay. But you stay 
 
 They worked side by side, chopping and stirring, falling into the familiar rhythm of kitchen collaboration. And Lina realized something: her father had let her go because he trusted her judgment.
 
-That meant something.
-
-That meant she couldn't fail him.
+And that meant, she couldn't fail him.
 
 ---
 
@@ -130,7 +128,7 @@ And more importantly: *What happens to the ones who refuse?*
 
 ---
 
-The team regrouped on day five.
+The team regrouped a few days later.
 
 Warehouse. Evening. Tea and planning.
 

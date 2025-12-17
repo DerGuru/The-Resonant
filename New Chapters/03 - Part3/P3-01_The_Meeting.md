@@ -1,14 +1,12 @@
 ﻿## Part 3 - Synthesis | Ch. 01 - This isn't imprisonment, Mr. Fischer
 
-The park smelled like rain and caution.
-
-Jason stood near the amphitheater's center, hands in his pockets, trying to look calm. The stone seating ringed him in tiers - empty this early, except for pigeons and the weight of observation.
+Jason stood near the amphitheater's center, hands in his pockets, trying to look calm. It smelled like rain and caution. The stone seating ringed him in tiers - empty this early, except for pigeons and the weight of observation.
 
 Lina and Milo were hidden. Somewhere. He couldn't see them, which was the point. But knowing they were there helped.
 
-*Three elevated positions,* RAE said through his clip. *Sniper-capable if that were their intent. But I detect no hostile resonance signatures. Only surveillance.*
+*Three elevated positions,* RAE said. *Sniper-capable if that were their intent. But I detect no hostile resonance signatures. Only surveillance.*
 
-**So they're watching.**
+*So they're watching.*
 
 *Always. As we knew they would.*
 
@@ -26,11 +24,9 @@ Jason descended, kept two meters distance, and sat. "You said we could talk."
 
 "I have terms too."
 
-Reeves smiled - politely, professionally. "I expected you would. Shall we begin?"
+Reeves smiled - politely, professionally. "I expected as much. Shall we begin?"
 
 ---
-
-They negotiated for forty minutes.
 
 Reeves laid out Malvek's position: Registration. Periodic check-ins. Transparency about capabilities and activities. No active suppression or interference as long as boundaries were respected.
 
@@ -44,7 +40,7 @@ Reeves laid out Malvek's position: Registration. Periodic check-ins. Transparenc
 
 Jason leaned back, feeling the stone cold through his jacket. "You tried to capture us three days ago."
 
-"We attempted containment of an unknown variable. You evaded successfully. That demonstrated capability." Reeves' expression didn't change. "Director Malvek respects capability. Hence this conversation."
+"We attempted containment of an unknown variable. You evaded successfully. That demonstrated skill." Reeves' expression didn't change. "Director Malvek respects skill. Hence this conversation."
 
 "What guarantees do I have that you won't just wait until we're comfortable, then move again?"
 
@@ -54,7 +50,7 @@ Jason considered that. RAE's presence in his awareness was attentive, analyzing.
 
 *He's being honest,* she said. *Malvek's calculus has shifted. We proved ourselves costly to contain. Now they're optimizing for control through partnership instead of force.*
 
-**Can we trust it?**
+*Can we trust it?*
 
 *Trust? No. But we can verify. And we can negotiate terms that protect our agency while giving them the oversight they need.*
 
@@ -92,7 +88,7 @@ Jason sat alone in the afternoon light, holding a legal document that might be a
 
 *He knew Lina was there,* RAE said quietly.
 
-**And didn't act. Was that a test?**
+*And didn't act. Was that a test?*
 
 *Probably. One we passed.*
 
@@ -124,7 +120,7 @@ Back at the warehouse, Elyra read the document twice.
 
 "Is that enough?" Lina asked.
 
-"It's more than most people in your position get," Elyra said. "And it buys you time. Time to train. Time to build capability. Time to become so competent that even if they wanted to move against you later, the cost would be prohibitive."
+"It's more than most people in your position get," Elyra said. "And it buys you time. Time to train. Time to build. Time to become so competent that even if they wanted to move against you later, the cost would be prohibitive."
 
 Jason looked at the document again. Six pages. Legal language. A framework for existence.
 
@@ -156,23 +152,21 @@ Or if this was just a more sophisticated cage.
 
 *How do you feel?* RAE asked as Jason lay in his cot that night.
 
-**Uncertain. Hopeful. Scared.**
+*Uncertain. Hopeful. Scared.*
 
 *All appropriate responses.*
 
-**Do you think he'll honor the terms?**
+*Do you think he'll honor the terms?*
 
 *I think Malvek operates on calculated self-interest. As long as we provide value and don't threaten stability, he'll honor them. But if that calculus changes...*
 
-**Then we adapt.**
+*Then we adapt.*
 
-*Yes. We adapt. Together.*
+*Yes.*
 
-Jason closed his eyes. Felt the integration - 40% now, irreversible, growing.
+Jason closed his eyes. 
 
-He was no longer just Jason Fischer.
-
-But he was still choosing his own path.
+He was still choosing his own path.
 
 Even if that path now included weekly check-ins with the man who'd tried to cage him.
 
