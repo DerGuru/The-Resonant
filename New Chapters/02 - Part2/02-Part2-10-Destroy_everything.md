@@ -1,12 +1,10 @@
 ﻿## Part 2 - Learning to Listen | Ch. 10 - Destroy everything
 
-**Seven weeks in.**
-
 The screen went blank.
 
 Not deleted. Not corrupted. Just... gone. As if the files had never existed.
 
-Jason stared at his terminal, his blood turning cold. Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
+Jason stared at his terminal, his blood turning cold. Just yesterday he was approached by Thomas Reeves. Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
 
 Systematically erased.
 
