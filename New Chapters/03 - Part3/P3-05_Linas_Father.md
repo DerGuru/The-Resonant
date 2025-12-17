@@ -30,7 +30,7 @@ He sighed. Set down the knife. Leaned against the counter. "I moved materials. C
 
 "And Marco?"
 
-"Was my handler. Connection between suppliers and runners. Good man. Fair. Didn't exploit people." He smiled faintly. "Seeing you at that market... he recognized your moves. Your instincts. Knew you were my daughter before you said your name."
+"Connection between suppliers and runners. Good man. Fair. Didn't exploit people." He smiled faintly. "Seeing you at that market... he recognized your moves. Your instincts. Knew you were my daughter before you said your name."
 
 Lina processed that. "The academy fees. The loans. That came from - "
 
@@ -70,27 +70,29 @@ Lina laughed despite herself. "Yeah. She would."
 
 "Go. Get rest. We open early tomorrow, and you're on morning prep."
 
-"Yes, chef."
+"Yes, chef." She paused at the door, turned back. "Hey, Dad? Remember that Venetian place across town? The one with the risotto bianco Jason's always going on about? With the octopus and clams?"
 
-She left through the back door, stepping into cool night air. The city hummed around her - cars, voices, the distant sound of music from somewhere close but not here.
+Her father smiled—a real smile this time, chef to chef. "Bortoletto's. Good kitchen. The old man knows his stock work. His seafood risotto is... proper. Clean broth, good timing on the polpo."
+
+"Think we could do something like that here? Not copy it, but... our version?"
+
+He considered that. "Your mother had her own way with rice dishes. Taught me patience, precision—the way she'd been taught." He smiled, softer now. "But my mother—your nonna—she made a risotto. Friulian style. With radicchio and speck. I still have her notes, from before she passed."
+
+"Could you teach me?"
+
+"Tomorrow night. After close. Bring Jason if you want—he has good taste, that one. Should learn to appreciate more than just takeout." His expression softened. "Your nonna would like that. And your mother would approve—she always said good food brings people together, no matter where it comes from."
+
+"Thanks, Dad."
+
+"Now go. Before I give you tonight's dishes too."
+
+She grinned, slipped out the back door into cool night air. The city hummed around her - cars, voices, the distant sound of music from somewhere close but not here.
 
 Her father had been part of the resonance circuit. Had moved illegal materials. Had seen people disappear.
 
 And he'd chosen to leave. To go legitimate. To protect her from that world.
 
 But now she was in it anyway.
-
-Not because she had to be.
-
-Because she'd chosen to be.
-
-Because Jason needed her. Because the team needed her. Because fighting for their freedom mattered more than safety.
-
-Her father understood that. Even if he hated it.
-
-And that understanding, somehow, made the danger feel more manageable.
-
-Not less real. Just... manageable.
 
 She pulled out her phone. Texted Jason: *"Check-in with family went okay. Still here. Still committed."*
 
