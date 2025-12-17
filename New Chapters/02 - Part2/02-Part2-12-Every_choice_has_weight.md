@@ -1,7 +1,5 @@
 ﻿## Part 2 - Learning to Listen | Ch. 12 - Every choice has weight
 
-**Nine weeks into training. Three days to prove themselves.**
-
 Jason's integration with RAE had stabilized at 42%. A number that felt both significant and hard-won—high enough to provide real capability, carefully maintained to avoid the point of no return.
 
 "Ready for another round?" Lina asked, tossing him a steel washer.
@@ -14,7 +12,7 @@ Jason nodded, studying the layout. Shipping containers stacked two high. Gaps be
 
 "If Milo spots you," Elyra continued, "you fail. If you trigger any of the markers I placed, you fail. If you resort to brute-force resonance instead of subtlety, you fail."
 
-"Pressure-free, got it," Jason muttered.
+"No Pressure - got it," Jason muttered.
 
 Lina grinned from her position near the far wall. "You've got this. Just don't overthink it."
 
@@ -22,7 +20,7 @@ Jason took a breath. Reached out with his perception. The warehouse resolved aro
 
 *Ready?* RAE asked.
 
-**As I'll ever be.**
+*As I'll ever be.*
 
 He moved.
 
@@ -62,13 +60,13 @@ She pulled out a water bottle, took a careful sip. "But remember: this warehouse
 
 "So we keep practicing," Jason said.
 
-"You keep practicing. And you remember that with this training comes responsibility. Every skill you develop can be used for protection or harm. Every choice has weight."
+"You keep practicing. And you remember: Every skill you develop can be used for protection or harm. Every choice has weight."
 
 She looked at each of them seriously. "In two days, Reeves will act. Either we've convinced Malvek you're worth negotiating with, or he'll move to containment. What you do between now and then determines which path we take."
 
 "Then we make those two days count," Lina said.
 
-"Exactly," Elyra agreed. "Rest tonight. Tomorrow we work on demonstration protocols. You need to show competence without showing threat. Capability without aggression. It's a narrow line to walk."
+"Exactly," Elyra agreed. "Rest tonight. Tomorrow we work on demonstration. You need to show competence without showing threat. Capability without aggression. It's a narrow line to walk."
 
 "We'll walk it," Jason said.
 
@@ -84,14 +82,6 @@ He kept replaying the exercises. The moments where he'd almost failed. The insta
 
 *You're catastrophizing,* RAE said gently.
 
-**I'm planning for contingencies.**
-
-*You're worrying. There's a difference.*
-
-**Isn't worry just unproductive planning?**
-
-*Sometimes. But sometimes it's fear trying to protect you. And fear isn't always wrong.*
-
 Jason sat up, stared at the darkened ceiling. "I keep thinking about what Elyra said. About becoming exceptional. About being strong enough that Malvek can't just erase us."
 
 *And?*
@@ -102,9 +92,9 @@ Jason sat up, stared at the darkened ceiling. "I keep thinking about what Elyra 
 
 "Confrontation. Containment. Forced choice between compliance and elimination."
 
-RAE was quiet for a moment. Then: *Those may be inevitable. But the timing isn't fixed. Every day of training pushes the timeline further out. Gives us more options. More capability to shape the confrontation on our terms.*
+RAE was quiet for a moment. *They may be inevitable. But the timing isn't fixed. Every day of training pushes the timeline further out. Gives us more options. More influence to shape the confrontation on our terms.*
 
-**So we keep training.**
+*So we keep training.*
 
 *We keep training. And we trust that preparation matters. That effort compounds. That today's small improvements become tomorrow's survival margin.*
 
@@ -116,15 +106,15 @@ Jason lay back down. Stared at the ceiling.
 
 "No. But I wonder sometimes what my life would have been like if I hadn't."
 
-*Safer. Smaller. Lonelier.*
+*Safer. Smaller. Lonelier?*
 
 "Yeah." Jason closed his eyes. "Exactly."
 
 *For what it's worth, I believe you would have found something eventually. Some purpose. Some meaning. It might not have been me. But you were always too curious to stay in that archive forever.*
 
-**You think?**
+"You think?"
 
-*I know. Your pattern shows someone searching. You were just waiting for something worth finding.*
+*I do. Your pattern shows someone searching. You were just waiting for something worth finding.*
 
 Jason smiled despite himself. "Thank you."
 
@@ -132,20 +122,10 @@ Jason smiled despite himself. "Thank you."
 
 "For believing I'm more than I thought I was."
 
-*You are welcome. Now sleep. Tomorrow requires rest.*
+*Sleep now. Tomorrow requires rest.*
 
 Jason did. Eventually.
 
 And when morning came, he woke with determination instead of dread.
-
-They had a plan. They had training. They had each other.
-
-And they had seventy-two hours to prove they were worth more free than contained.
-
-It would have to be enough.
-
-Because the alternative was unacceptable.
-
-And Jason had learned, over nine weeks of training, that the unacceptable could be overcome.
 
 One precise, careful, deliberate choice at a time.
