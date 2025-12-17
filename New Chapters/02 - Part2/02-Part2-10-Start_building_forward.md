@@ -1,26 +1,26 @@
-﻿## Part 2 - Learning to Listen | Ch. 10 - Destroy everything
+﻿## Part 2 - Learning to Listen | Ch. 10 - Start building forward
 
 The screen went blank.
 
 Not deleted. Not corrupted. Just... gone. As if the files had never existed.
 
-Jason stared at his terminal, his blood turning cold. Just yesterday he was approached by Thomas Reeves. Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
+Jason stared at his terminal, his blood turning cold. Thomas Reeves ultimatum expired today and nothing changed so far. 
+
+And now this. Every archive entry he'd flagged over the past three weeks. Every cross-reference to the Voss incident. Every breadcrumb trail Milo had helped him identify.
 
 Systematically erased.
 
-"RAE?" he said quietly.
+*RAE?*
 
 *I see it. This was professional. Surgical. They removed specific entries while leaving surrounding records intact. To anyone not looking for them, it would appear normal.*
 
-**Can we recover them?**
+*So someone had accessed the municipal archive system. With enough clearance to delete protected records and without leaving obvious traces. Can we recover them?*
 
 *Perhaps. If you had offline backups.*
 
 Jason's stomach sank. He did have backups. On his encrypted drive at home.
 
-But that meant someone had accessed the municipal archive system. With enough clearance to delete protected records. Without leaving obvious traces.
-
-That was Malvek-level access.
+That was institutional authority. The kind that came from the very top.
 
 He logged out carefully. Stood. Walked to the break room as if nothing was wrong.
 
@@ -48,9 +48,9 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 ---
 
-They left separately. Took different routes home. Met at Elyra's building two hours later, after dark.
+They left separately, each taking a different route home. Two hours later, they met at Elyra's building.
 
-She listened to their report, her expression darkening with each detail.
+It was dark already when Elyra finished listening to their report, her expression darkening with each detail.
 
 "Malvek's moving," she said finally. "Cleaning house. Making sure the official narrative stays intact."
 
@@ -72,31 +72,31 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 "Containment," Lina repeated. "You mean—"
 
-"I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're accelerating your training. Starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
+"I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're expanding your training. You are moving in here and starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
+
+"I know that you all have jobs," she continued. "But this is more important. Use your vacation days, call in sick, request a leave of absence or quit - I don't care how you manage it, but you need to stay hidden until this is all resolved."
 
 ---
 
-That night, Jason lay awake, replaying everything.
-
-The erased files. Elyra's warning about containment.
+That night, Jason lay awake.
 
 It all pointed to the same conclusion: they were running out of time. The window for staying small and unnoticed was closing.
 
 *Does it bother you?* RAE asked. *Losing the evidence?*
 
-**Yes. Truth should matter.**
+*Yes. Truth should matter.*
 
 *It does. But power matters more, in the short term.*
 
-**That's depressing.**
+*That's depressing.*
 
 *It's reality. But reality can be changed. With enough capability. Enough persistence.*
 
-**How long?**
+*How long?*
 
 *Unknown. But we're learning. Growing stronger. Someday, we'll be strong enough that Malvek can't simply erase us.*
 
-**And until then?**
+*And until then?*
 
 *We survive. We train. We become exceptional.*
 
@@ -106,7 +106,7 @@ And about Elyra, damaged but still brilliant, teaching them how to fight back wi
 
 *You're learning wisdom,* RAE observed. *Fear can be productive if you channel it correctly.*
 
-**Is that what this is? Productive fear?**
+*Is that what this is? Productive fear?*
 
 *You're not running. You're not giving up. You're planning. Preparing. That's the difference between panic and strategy.*
 
@@ -114,20 +114,8 @@ Jason smiled despite himself. "Tomorrow we train harder."
 
 *Tomorrow we train smarter. There's a difference.*
 
-**Yeah. There is.**
+*Yeah. There is.*
 
-He closed his eyes. Let exhaustion pull him toward sleep.
+"One precise, careful step at a time." he muttered.
 
-Tomorrow, they'd work on defensive patterns. Would learn to hide their integration levels. Would become a little bit more capable.
-
-And someday—maybe soon, maybe not—they'd be strong enough to stand against institutional power.
-
-But not today.
-
-Today, they were still small. Still learning. Still vulnerable.
-
-And that was okay.
-
-Because every day of training was a day closer to strength.
-
-One precise, careful step at a time.
+*One precise, careful step at a time.* RAE echoed
