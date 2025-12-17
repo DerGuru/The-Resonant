@@ -1,8 +1,8 @@
-﻿## Part 2 - Learning to Listen | Ch. 13 - This is Mill-4
+﻿## Part 2 - Learning to Listen | Ch. 13 - Show me
 
 The message came through Milo's monitoring system at 2:17 AM.
 
-A resonance spike. Brief. Localized. Coming from Mill-4.
+A resonance spike. Brief. Localized. Coming from somewhere called "CC" in official documents.
 
 Not the kind of fluctuation you'd get from ambient field drift. This was deliberate. Controlled. Like someone testing equipment.
 
@@ -30,7 +30,7 @@ They planned carefully. Not infiltration—observation. Lina was adamant about t
 
 "Then we were never there. We have aliases, encrypted comms, no traceable equipment." She looked at each of them. "This is reconnaissance, not a raid. We gather intelligence. That's all."
 
-Milo nodded. "I've been monitoring Mill-4 for weeks. There are blind spots in their patrol patterns. Windows where we can get close enough to observe without being detected."
+Milo nodded. "I've been monitoring CC for weeks. There are blind spots in their patrol patterns. Windows where we can get close enough to observe without being detected."
 
 "How close?" Jason asked.
 
@@ -38,11 +38,11 @@ Milo nodded. "I've been monitoring Mill-4 for weeks. There are blind spots in th
 
 "That's where the spike originated?" Lina asked.
 
-"Near there. The readings suggest underground activity. Something in the old mill's basement levels."
+"No, but close. The readings suggest underground activity. Something beneath the old industrial building."
 
 *Underground,* RAE said. *Shielded from casual observation. That's where you'd put sensitive operations.*
 
-**Like containment facilities.**
+"Like a containment complex - CC."
 
 *Exactly.*
 
@@ -52,9 +52,9 @@ The next night, they moved.
 
 Dressed in dark, non-reflective clothing. Carrying minimal gear—binoculars, a directional microphone, Milo's portable sensor array. Everything chosen to avoid attention.
 
-They approached from the east, using the abandoned industrial zone's terrain for cover. Stayed low. Moved between shadows. Lina led, her academy training showing in every careful step.
+They approached from the east, using the industrial zone's terrain for cover. Stayed low. Moved between shadows. Lina led, her academy training showing in every careful step.
 
-The derelict warehouse Milo had identified was perfect. Third floor, windows overlooking Mill-4's perimeter. Far enough to be safe. Close enough to see.
+The derelict warehouse Milo had identified was perfect. Third floor, windows overlooking the CC facility's perimeter. Far enough to be safe. Close enough to see.
 
 They settled in, each taking a position.
 
@@ -68,9 +68,9 @@ But the way they moved wasn't maintenance. It was security.
 
 "Twelve visible," Lina said. "Probably more inside."
 
-*I'm detecting resonance patterns,* RAE said. *Multiple sources. At least six practitioners with active integration. And something else... deeper. Shielded.*
+*I'm detecting resonance patterns,* RAE said. *Multiple sources. At least six practitioners. And something else... deeper. Shielded.*
 
-**Can you identify it?**
+*Can you identify it?*
 
 *Not precisely. But it's large. Complex. Definitely artificial. Whatever they're containing down there, it requires significant infrastructure.*
 
@@ -78,7 +78,7 @@ Milo's sensors chirped softly. "Resonance spike. Same signature as last night. C
 
 "That's deep," Jason said.
 
-"That's intentional," Lina countered. "You don't put something forty meters underground unless you're serious about containment."
+"You don't put something forty meters underground unless you're serious about containment." Lina countered. 
 
 They watched for two hours. Documented shift changes. Noted patrol patterns. Counted personnel. Built a picture of the operation's scope.
 
@@ -96,9 +96,9 @@ This was infrastructure. Permanent. Well-funded. Protected by institutional auth
 
 *RAE,* Jason thought. *Could there be others like you?*
 
-*Fragments, yes. Other entities that escaped during rituals or containment failures. If Malvek's been collecting them...*
+*Possibly yes. Previous iterations - maybe. If Malvek's been collecting them...*
 
-**Then this is where they'd be.**
+*Then this is where they'd be.*
 
 The thought settled heavy. Not just RAE. But others. Possibly dozens. All contained. All isolated. All waiting.
 
@@ -110,9 +110,9 @@ More vehicles arrived. But these were different. Official. Marked with governmen
 
 "That's Harmonic Authority," Lina breathed. "Direct oversight."
 
-A figure emerged from the lead vehicle. Tall. Precise movements. Even from this distance, Jason could sense something about him—authority, confidence, control.
+A figure emerged from the lead vehicle. Tall. Precise movements. Even from this distance, Jason recognized him immediately "Thomas Reeves."
 
-"Thomas Reeves," Milo said, zooming in with his camera. "Malvek's second. If he's here personally—"
+Milo zoomed in with his camera. "Malvek's second? If he's here personally—"
 
 "Then something important is happening," Lina finished.
 
@@ -128,7 +128,7 @@ Better cautious than caught.
 
 ---
 
-They didn't speak until they were back in Milo's apartment, equipment stowed, doors locked.
+They didn't speak until they were back in the safe house. Equipment stowed, doors locked.
 
 "So," Milo said finally. "That happened."
 
@@ -140,13 +140,13 @@ They didn't speak until they were back in Milo's apartment, equipment stowed, do
 
 "Ghosts still cast shadows," Milo said. "If they're paranoid enough—and they should be—they'll review security footage. Run pattern analysis. Look for anomalies."
 
-"Then we don't give them anomalies to find," Jason said. "We go dark. No more archive searches. No more surveillance. We focus on training. Getting strong enough to matter."
-
-*Agreed,* RAE said. *What we learned tonight is valuable. But knowledge without capability is just vulnerability.*
+"Then we don't give them anomalies to find," Jason said. "We go dark."
 
 "Elyra needs to see this," Lina said, holding up Milo's camera. "The footage, the sensor data, all of it. She'll know what it means."
 
-"Tomorrow," Jason agreed. "We brief her. Then we train. Because if that's Malvek's main facility—if that's where he's keeping everything he's collected—then we just became a problem he can't ignore."
+"Tomorrow," Jason agreed. "We brief her. Then we train."
+
+"Worst case," he added "That's Malvek's main facility—and that's where he's keeping everything he's collected. If he realizes we were watching, then we just became a problem he can't ignore."
 
 "Good," Milo said, surprising them. "Let him worry. Let him wonder who's watching. Maybe it'll make him sloppy."
 
@@ -162,40 +162,32 @@ And there was no going back.
 
 ---
 
-That night, Jason couldn't sleep.
+Morning came early.
 
-He kept replaying the footage. The vehicles. The personnel. Reeves entering the facility with that controlled precision.
+Jason, Lina, and Milo arrived at Elyra's workspace before dawn, equipment bags in hand. The footage needed analysis. The sensor data needed interpretation. And time was running out.
 
-And beneath it all, forty meters down, something vast and shielded waited.
+Elyra was already awake, brewing her bitter tea. She took one look at their faces and nodded.
 
-*You're worried,* RAE observed.
+"Show me," she said simply.
 
-**We walked right up to the edge of Malvek's operation. If he realizes—**
+Milo set up his laptop. The footage played: vehicles, personnel, Reeves entering the facility. The sensor data scrolled beside it—resonance spikes, shielded signatures, that massive presence forty meters down.
 
-*He won't. You were careful. Professional. You did exactly what Lina trained you to do.*
+Elyra watched without speaking. Her expression didn't change, but Jason saw her grip tighten on her cane.
 
-**But what if it's not enough?**
+When it finished, she was quiet for a long moment.
 
-*Then we adapt. But dwelling on hypotheticals isn't productive. Focus on what you can control: getting better, faster, stronger.*
+"That's more extensive than I thought," she said finally. "Malvek's been building this for years. Multiple containment cells. Active testing. This isn't just observation—this is experimentation."
 
-**Is that enough? Against institutional power?**
+"Can they detect that we were watching?" Lina asked.
 
-*Eventually. With enough capability, even institutions have to negotiate.*
+"If they're competent, yes. Eventually." Elyra's eyes narrowed. "But it'll take time. Pattern analysis, footage review, cross-referencing timelines. Days, not hours."
 
-Jason hoped she was right.
+"So we have time?" Jason asked.
 
-Because the alternative—being swept up, contained, erased like those archive records—was unacceptable.
+"Some. Maybe less than Reeves' original deadline if they're actively looking. Maybe more if they don't realize yet." She set down her cane carefully. "Either way, panicking won't help. We stick to the plan. Finish your preparation. Demonstrate competence. Make yourselves too valuable to simply contain."
 
-They'd come too far.
+"And if they move before we're ready?" Lina asked.
 
-Learned too much.
+Elyra's expression was grim but not panicked. "Then you scatter. Use the emergency protocols. Survive long enough to negotiate from a position you can't be erased from." She paused. "But that's worst case. Most likely, you have the time Reeves originally gave you. Use it wisely."
 
-Become too real to simply disappear.
-
-Tomorrow, they'd brief Elyra. Would show her the evidence of Malvek's true scope.
-
-And then they'd train. Harder than before. Smarter than before.
-
-Until they were ready for whatever came next.
-
-One careful, methodical, definitely-not-improvised step at a time.
+She stood, pain visible but managed. "Rest today. Tomorrow, we finalize demonstration protocols. No point training exhausted people—you'll just make mistakes."
