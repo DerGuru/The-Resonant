@@ -72,9 +72,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 "Containment," Lina repeated. "You mean—"
 
-"I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're expanding your training. You are moving in here and starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
-
-"I know that you all have jobs," she continued. "But this is more important. Use your vacation days, call in sick, request a leave of absence or quit - I don't care how you manage it, but you need to stay hidden until this is all resolved."
+"I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're expanding your training. Starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
 
 ---
 

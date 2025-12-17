@@ -1,7 +1,5 @@
 ﻿## Part 2 - Learning to Listen | Ch. 11 - They're watching now
 
-**Eight weeks into training. Forty-eight hours after refusing Malvek's offer.**
-
 The surveillance started subtly.
 
 Jason noticed it first on his morning commute. The same sedan, three days in a row, parked across from the tram stop. Different drivers, but the same deliberate positioning. Always with a clear line of sight to his building's entrance.
