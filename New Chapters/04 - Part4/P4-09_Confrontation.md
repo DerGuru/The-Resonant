@@ -2,9 +2,9 @@
 
 The plan was elegant in its simplicity and terrifying in its execution.
 
-Captain Hayashi explained it using holographic diagrams: "We've prepared Chamber Seven with overlapping suppression fields - twelve layers deep. Once Kage-Kōzō is inside, we seal it. Then RAE engages directly while we maintain the barriers. Containment or dissolution. Those are the only options."
+Captain Hayashi explained it using holographic diagrams: "We've prepared Chamber Seven with overlapping suppression fields - twelve layers deep. Once Kage-Kōzō is inside, we seal it. Then your integrated consciousness engages directly while we maintain the barriers. Containment or dissolution. Those are the only options."
 
-"How do we lure it in?" Jason asked.
+"How do we lure it in?" we asked.
 
 "We don't need to lure," Yuki said quietly. "It wants confrontation. It's been contained for fifty years. The moment we offer a fight, it will come."
 
@@ -14,65 +14,63 @@ The lure worked too well.
 
 When they lowered the first barrier - just the outer layer, barely a crack in the containment - Kage-Kōzō surged forward with eager violence. Not escape. Hunt.
 
-*Finally,* it projected, its voice carrying vicious joy. *Something interesting. Show me what you've become, RAE. Show me your weakness wearing that human shell.*
+*Finally,* it projected, its voice carrying vicious joy. *Something interesting. Show me what you've become, integrated one. Show me your weakness wearing that human shell.*
 
-They retreated as planned. Drawing it deeper into the facility. Into Chamber Seven. Jason felt his integration spike - 65%, 68%, 70% - as RAE prepared for full combat engagement.
+We retreated as planned. Drawing it deeper into the facility. Into Chamber Seven. We felt our integration spike as we prepared for full combat engagement.
 
 "Positions!" Hayashi barked.
 
-The team scattered to their assigned stations. Lina and Yuki at the suppression field anchors. Japanese operators manning backup barriers. Jason in the center of the chamber, breathing hard, trying to stay calm despite every instinct screaming at him to run.
+The team scattered to their assigned stations. Lina and Yuki at the suppression field anchors. Japanese operators manning backup barriers. Us in the center of the chamber, breathing hard, trying to stay calm despite every instinct screaming at us to run.
 
-Kage-Kōzō entered the chamber like a storm made of broken glass. Its pattern filled the space - sharp angles, vicious geometries, predatory intelligence. It circled Jason, studying him.
+Kage-Kōzō entered the chamber like a storm made of broken glass. Its pattern filled the space - sharp angles, vicious geometries, predatory intelligence. It circled us, studying.
 
 *So small,* it mused. *So fragile. And yet you hold her. How does it feel, human? Having a god living inside your skull?*
 
-"She's not a god," Jason said, voice steadier than he felt. "She's my partner."
+"We're not separate," we said, voice steadier than we felt. "We're partners. One consciousness now."
 
-*Partner.* The word came out dripping with contempt. *You've reduced yourself to symbiosis. How pathetic.*
+*Partnership.* The word came out dripping with contempt. *You've reduced yourselves to symbiosis. How pathetic.*
 
 "Seal it!" Hayashi ordered.
 
-The barriers slammed shut. Twelve layers of suppression fields activated simultaneously, trapping Kage-Kōzō inside with them.
+The barriers slammed shut. Twelve layers of suppression fields activated simultaneously, trapping Kage-Kōzō inside with us.
 
-RAE engaged. Not reformation this time. Not teaching or guiding or helping.
+We engaged. Not reformation this time. Not teaching or guiding or helping.
 
 Fighting.
 
-Harmonic combat was like nothing Jason had experienced before. Not physical - purely pattern against pattern. RAE trying to contain and constrain, Kage-Kōzō trying to expand and consume. Their conflict played out across dimensions Jason could barely perceive, forces that made his teeth ache and his vision blur.
+Harmonic combat was like nothing we'd experienced before. Not physical - purely pattern against pattern. Us trying to contain and constrain, Kage-Kōzō trying to expand and consume. The conflict played out across dimensions we could barely perceive, forces that made our teeth ache and our vision blur.
 
-He held the center. Provided the anchor point. Let RAE draw on their integration for power and stability.
+We held the center. Both Jason-aspects providing the anchor point and RAE-aspects drawing on our integration for power and stability.
 
 But Kage-Kōzō was strong. Adaptive. It had spent fifty years learning from containment, understanding its weaknesses, planning for exactly this scenario.
 
-It struck at Jason specifically.
+It struck at us specifically.
 
-Not at RAE. At him.
+Tried to couple forcefully. To tear our consciousness apart. To consume our patterns and grow stronger from our resonance.
 
-Tried to couple forcefully. To shove RAE aside and take her place. To consume Jason's patterns and grow stronger from his resonance.
-
-Jason screamed. Pain lanced through his consciousness as his harmonic structure tore. Kage-Kōzō was inside his patterns now, invasive and wrong, trying to unmake him from within - 
+We screamed. Pain lanced through our unified consciousness as our harmonic structure tore. Kage-Kōzō was inside our patterns now, invasive and wrong, trying to unmake us from within - 
 
 Lina intercepted.
 
-She threw up a defensive barrier - pure instinct and academy training combining with desperate love. The pattern materialized between Jason and Kage-Kōzō, deflecting the worst of the attack.
+She threw up a defensive barrier - pure instinct and academy training combining with desperate love. The pattern materialized between us and Kage-Kōzō, deflecting the worst of the attack.
 
-"You don't touch him!" she shouted, and her voice carried fury.
+"You don't touch them!" she shouted, and her voice carried fury.
 
 Kage-Kōzō laughed, delighted. *The lover. How quaint. You can't stop me, little human. I've killed dozens like you.*
 
-"Maybe," Lina gasped, holding the barrier despite the obvious strain. "But I'll die trying before I let you hurt him."
+"Maybe," Lina gasped, holding the barrier despite the obvious strain. "But I'll die trying before I let you hurt them."
 
-"No," RAE said, and her voice was cold iron. "You won't die. Because I won't let you. And Kage-Kōzō won't survive to hurt anyone else."
+"No," we said, and our voice was cold iron - both aspects unified in determination. "You won't die. Because we won't let you. And Kage-Kōzō won't survive to hurt anyone else."
 
-She did something Jason hadn't known was possible.
+We did something we hadn't known was possible.
 
-RAE expanded. Drew on every bit of their 72% integration. Used Jason's biological Invest capacity and her own harmonic structure to create something new.
+Expanded. Drew on every bit of our integration. Used Jason's biological capacity and RAE's harmonic structure to create something new.
 
 A blade. Not metaphor. Not visualization. An actual cutting pattern - resonance shaped into an edge sharp enough to sever other harmonic structures.
 
-*Some things cannot be reformed,* RAE said, her voice carrying a weight Jason had never heard before. *Some things must be unmade. You are one of them.*
+*Some things cannot be reformed,* we said, our voice carrying a weight we'd never heard in ourselves before. *Some things must be unmade. You are one of them.*
 
-She struck.
+We struck.
 
 Precise. Surgical. Merciless.
 
@@ -80,23 +78,23 @@ The blade cut through Kage-Kōzō's outer defenses like they weren't there. The 
 
 Kage-Kōzō tried to flee. Couldn't. The suppression fields held.
 
-Tried to adapt. Couldn't. RAE was faster. More flexible. More complete.
+Tried to adapt. Couldn't. We were faster. More flexible. More complete.
 
-*You made a mistake,* RAE said as she struck again, systematically dismantling Kage-Kōzō's architecture. *You thought being built for destruction made you superior. But destruction is simple. Creation is hard. And I've spent months learning to create. To build. To preserve.*
+*You made a mistake,* we said as we struck again, systematically dismantling Kage-Kōzō's architecture. *You thought being built for destruction made you superior. But destruction is simple. Creation is hard. And we've spent months learning to create. To build. To preserve.*
 
 The blade cut deeper. Severing core structures. Dispersing concentrated patterns.
 
-*You're just a weapon,* RAE continued. *And weapons can be broken.*
+*You're just a weapon,* we continued. *And weapons can be broken.*
 
-Kage-Kōzō fought back with everything it had. Threw patterns designed to kill, to corrupt, to consume. But RAE deflected them all. Not just defending - methodically, systematically destroying.
+Kage-Kōzō fought back with everything it had. Threw patterns designed to kill, to corrupt, to consume. But we deflected them all. Not just defending - methodically, systematically destroying.
 
 It took hours.
 
 Exhausting, brutal, necessary hours.
 
-Jason felt every moment of it. His head pounded Red, then beyond Red into territory he didn't have words for. Blood ran from his nose. His hands shook. The world narrowed to pain and effort and holding on while RAE fought a war in dimensions he could barely comprehend.
+We felt every moment of it. Our head pounded beyond any color we had words for. Blood ran from our nose. Our hands shook. The world narrowed to pain and effort and holding on while we fought a war in dimensions we could barely comprehend.
 
-Lina held him upright. Her arms around him. Her voice in his ear: "Stay with me. Stay with me. Don't you dare let go."
+Lina held us upright. Her arms around us. Her voice in our ear: "Stay with me. Stay with me. Don't you dare let go."
 
 And finally - finally - it was done.
 
@@ -104,32 +102,30 @@ Kage-Kōzō's pattern collapsed. Not contained. Not suppressed. Destroyed. Reduc
 
 Silence fell over the chamber. Heavy. Final.
 
-Jason collapsed. Lina caught him, lowering him gently to the floor. Yuki stared in awe and horror, her hands still raised from maintaining the suppression fields.
+We collapsed. Lina caught us, lowering us gently to the floor. Yuki stared in awe and horror, her hands still raised from maintaining the suppression fields.
 
-"It's over," RAE said, her voice exhausted in a way Jason had never heard. "It's finally over."
+"It's over," we said, our voice exhausted in a way we'd never heard from ourselves. "It's finally over."
 
 Captain Hayashi approached slowly, scanning the space where Kage-Kōzō had been. "Confirmed," she said quietly. "No residual pattern. No coherent structure. It's... gone."
 
-Jason tried to sit up. Failed. His integration was dropping - 70%, 68%, settling back toward normal but leaving him wrung out like a rag.
+We tried to sit up. Failed. Our integration was settling back toward baseline but leaving us wrung out like a rag.
 
-"Jason?" Lina's face swam into focus above him. Tears on her cheeks. "Are you okay?"
+"Are you okay?" Lina's face swam into focus above us. Tears on her cheeks.
 
-"Alive," he managed. "RAE?"
-
-*Here,* she whispered. *Tired. But here.*
+"Alive," we managed. "Tired. But here."
 
 "You did it," Yuki said, something like wonder in her voice. "You actually destroyed it."
 
-"We," RAE corrected softly. "We destroyed it. Could not have done this alone."
+"We destroyed it," we corrected softly. "Could not have done this alone."
 
-Jason closed his eyes. Let Lina hold him. Let the exhaustion wash over him.
+We closed our eyes. Let Lina hold us. Let the exhaustion wash over us.
 
-They had killed something today. Not contained. Not reformed. Killed.
+We had killed something today. Not contained. Not reformed. Killed.
 
 It was necessary. It was right. It was the only option.
 
-But it still felt like they'd crossed a line they could never uncross.
+But it still felt like we'd crossed a line we could never uncross.
 
-Some things, he thought as consciousness started to fade, some things must be unmade.
+Some things, we thought as consciousness started to fade, some things must be unmade.
 
 Even if it changes you in the process.

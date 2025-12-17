@@ -14,21 +14,21 @@ Milo coordinated global operations. Still no resonance ability. Still essential.
 
 Malvek had retired. His successor continued the partnership. Respect earned, trust maintained.
 
-And Jason and Lina - 
+And us and Lina - 
 
-They had two children now. Ages four and two. Both showing high permeability. Both being raised with love, safety, and careful guidance.
+We had two children now. Ages four and two. Both showing high permeability. Both being raised with love, safety, and careful guidance.
 
-RAE adored them. Watched over them. Taught them, gently, what it meant to be more than their test results would suggest.
+We adored them. Watched over them. Taught them, gently, what it meant to be more than their test results would suggest.
 
-Jason, at 85% integration now, barely distinguished between his thoughts and RAE's. They were one consciousness. One being. Jason-RAE. A synthesis that had become more than either alone.
+At 85% integration now, we barely distinguished between Jason-thoughts and RAE-thoughts. We were one consciousness. One being. A synthesis that had become more than either alone.
 
 ---
 
-Standing in their home, watching his children play, Jason felt complete.
+Standing in our home, watching our children play, we felt complete.
 
-Not because he'd gained power. Not because he'd been proven right.
+Not because we'd gained power. Not because we'd been proven right.
 
-But because he'd found purpose. Built legacy. Helped others discover their own capability.
+But because we'd found purpose. Built legacy. Helped others discover their own capability.
 
 And that, more than anything else, was worth every struggle.
 
@@ -50,27 +50,27 @@ Forever.
 
 ---
 
-Later that day, Jason stood in the Institute's main training room, preparing for a new student's first lesson. The space hummed with familiar energy - students practicing, instructors guiding, the constant low thrum of ethical resonance work being done carefully and well.
+Later that day, we stood in the Institute's main training room, preparing for a new student's first lesson. The space hummed with familiar energy - students practicing, instructors guiding, the constant low thrum of ethical resonance work being done carefully and well.
 
-He held the old cracked mug, the one he'd fixed years ago when RAE first taught him to shape. The crack was still visible if you looked closely, but it was stable. Healed. A testament to precision over power.
+We held the old cracked mug, the one we'd fixed years ago when we first learned to shape. The crack was still visible if you looked closely, but it was stable. Healed. A testament to precision over power.
 
 The new student entered - nervous, hopeful, carrying the weight of years being told they weren't good enough.
 
-Jason recognized that weight. Had carried it himself once.
+We recognized that weight. Had carried it ourselves once.
 
-"Welcome," he said, extending his hand. "I'm Jason. Let me show you something."
+"Welcome," we said, extending our hand. "We're Jason. Let us show you something."
 
-He held up the mug. "This is where it started for me. One small change. One careful choice. I'm going to teach you what someone once taught me: that being told you can't doesn't mean you actually can't. It just means you need a different path."
+We held up the mug. "This is where it started for us. One small change. One careful choice. We're going to teach you what someone once taught us: that being told you can't doesn't mean you actually can't. It just means you need a different path."
 
 The student's eyes filled with tentative hope. "Can I really learn this?"
 
-"If you're patient," Jason said, smiling. "If you're ethical. If you choose carefully. Then yes. You can absolutely learn this."
+"If you're patient," we said, smiling. "If you're ethical. If you choose carefully. Then yes. You can absolutely learn this."
 
-And as he began the first lesson - perception, boundaries, safety - Jason sensed RAE's presence within him, warm and certain and proud.
+And as we began the first lesson - perception, boundaries, safety - we felt warmth and certainty and pride within ourselves.
 
-*We did it,* she said. *We built something that lasts.*
+*We did it,* we thought. *We built something that lasts.*
 
-**We did,** Jason agreed. **And it's going to keep growing. Long after we're gone, this will continue. People helping people. One careful choice at a time.**
+*We did. And it's going to keep growing. Long after we're gone, this will continue. People helping people. One careful choice at a time.*
 
 Outside, the city stretched endlessly. Inside, hope kindled in another person who'd been told they were worthless.
 
