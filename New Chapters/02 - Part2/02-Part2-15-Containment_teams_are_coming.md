@@ -1,159 +1,238 @@
-﻿## Part 2 - Learning to Listen | Ch. 15 - We won't submit to containment
+﻿## Part 2 - Learning to Listen | Ch. 15 - They Came at Dawn
 
-They came at 3 AM.
 
-Jason woke to RAE's urgent voice: *Movement outside your building. Three vehicles. Personnel signatures consistent with containment teams.*
+They came at 7:10 AM.
 
-He was dressed and out the window in under two minutes. Down the fire escape. Through the alley. Moving before they could establish a perimeter.
+Three vehicles. Twelve personnel. Black tactical gear.
 
-His phone buzzed. Group message from Elyra: *EXECUTE PLAN GAMMA. SCATTER. REGROUP AT SECONDARY LOCATION. DO NOT ENGAGE UNLESS NO CHOICE.*
-
-Jason ran.
-
-He made it four blocks before he sensed them behind him. Not close. But closing.
-
-Professional. Coordinated. The kind of pursuit you couldn't outrun without help.
-
-*I can obscure your signature,* RAE said. *But only if you stop moving. Find cover. Now.*
-
-Jason ducked into a subway entrance. Merged with morning commuters. Let the crowd swallow him.
-
-*I'm dampening your resonance. To anyone scanning, you'll appear baseline human. But it won't hold if you use active resonance.*
-
-*Understood. How long?*
-
-*As long as you need. But it's taxing. We'll both be exhausted afterward. So don't linger.*
-
-Jason rode the subway three stops. Got off. Switched trains. Classic evasion.
-
-By the time he emerged, the pursuit had lost him.
-
-He made his way to the secondary location - an old warehouse Elyra had prepared months ago. Safe. Stocked. Off the grid.
-
-Lina was already there, looking shaken but unharmed. "They hit my apartment. I was out on a run. Got Elyra's message and ran here."
-
-Milo arrived ten minutes later. "They tried to grab me at the coffee shop. I saw them coming. Left through the kitchen. Lost them in the market district."
-
-"Everyone okay?" Jason asked.
-
-"Physically, yes," Lina said. "But they'll be watching everywhere."
-
-Elyra arrived last, moving carefully, her breath labored. "That was closer than I'd like. But you all executed well. No captures. No casualties."
-
-"What now?" Milo asked.
-
-"Now we decide. Stay and fight. Or run and hope they give up."
-
-"They won't give up," Jason said. "Malvek doesn't stop. We've seen his facility. We know too much."
-
-"Then we negotiate," Elyra said. "From a position of strength. You show him you're too competent to easily contain. Too valuable to simply eliminate. Make him realize that cooperation is more profitable than conflict."
-
-"How do we do that?" Lina asked.
-
-"You survive. Long enough to prove you're not a threat. That you can self-regulate. That you understand boundaries." Elyra looked at Jason. "And you let Malvek save face. Give him a way to claim victory without having to destroy you."
-
-"What kind of victory?" Jason asked.
-
-"Registration. Monitoring. Periodic check-ins. Enough oversight that he can tell his superiors you're contained without actually caging you."
-
-"That sounds like surrender," Milo said.
-
-"It sounds like survival," Elyra corrected. "Because the alternative is being hunted until you're caught. And I've seen what happens to people Malvek catches. It's not pretty."
-
-Jason looked at his friends. At the choice in front of them.
-
-They'd trained for weeks. Had gotten better. Stronger. More capable.
-
-But were they strong enough to stand against institutional power indefinitely?
-
-"We negotiate," he said finally. "But from strength. We show him we can fight if we have to. That catching us would be costly. Then we offer terms that protect our freedom while giving him the control he needs."
-
-"It might work," Elyra said. "If you're lucky. And if Malvek is feeling pragmatic."
-
-"And if he's not?" Lina asked.
-
-"Then we fight. And we hope we're as good as I've trained you to be."
+Cars moved in silently through the pre-dawn streets. Parked just outside the Meridian Hotel.
 
 ---
 
-They spent the day preparing. Establishing fallback positions. Creating escape routes. Planning for every contingency they could imagine.
+Milo's tablet blinked. Alert notification.
 
-By evening, they had something approaching a strategy.
+He sat up. "They're there."
 
-And a message, carefully crafted, to send to Malvek through unofficial channels:
+Jason rolled over in the other bed. "How many?"
 
-*We don't want conflict. We don't want to destabilize anything. We just want to exist. To learn. To develop our capabilities safely. We're willing to negotiate terms. But we won't submit to containment.*
+"Twelve." Milo's fingers flew across the screen.
 
-Milo sent it through three layers of encryption. To an address that would eventually reach Thomas Reeves. Who would eventually pass it to Malvek.
+Jason sat up. Reached for his clothes. "Lina?"
 
-And then they waited.
+"Sending alert now." Milo kept watching the feed. "They're getting into the lobby."
+
+Jason pulled on his shirt. Jeans. His hands steady. 
+
+"Time to move," RAE said quietly.
+
+"How long?" Jason asked.
+
+Milo checked the feed. "10 minutes. Maybe less."
 
 ---
 
-The response came at midnight.
+Team Leader Reeves stepped into the hotel lobby. Showed credentials to the night clerk. Professional. Polite.
 
-A single message, to Jason's phone: *Amphitheater Park. Tomorrow. Noon. Come alone. Bring the entity. We'll talk.*
+"Good morning. I need access to rooms 314, 316, and 318." He laid an official HOA warrant on the counter. Stamped. Signed. "This authorizes immediate entry. Keys, please."
+
+The clerk's hands shook as he typed. "Sir, I—"
+
+"I understand. But this is time-sensitive." Reeves kept his voice level. "The keys, please. We'll handle it from here."
+
+The clerk fumbled with the keyboard. Pulled three keycards from the drawer.
+
+"Thank you." Reeves took them. "Stay at your desk. We'll be done shortly."
+
+His team moved toward the stairwell. Silent. Professional. No weapons visible—yet.
+
+Reeves knew how this looked. Knew what the clerk was thinking.
+
+But orders were orders. And Fischer needed to be contained before he became a bigger problem.
+
+---
+
+Jason laced his shoes. "Lina?"
+
+"On her way." Milo shoved equipment into his bag. Tablet. Chargers. Documents.
+
+A knock at the door.
+
+Jason opened it. Lina stood there, already dressed. Hair damp.
+
+"How close?" she asked.
+
+"Entering the stairwell. Milo, hurry up," Jason said, not looking up from the tablet.
+
+---
+
+Third floor. Reeves's team reached the corridor. No sound. No movement.
+
+He positioned units at each door. 314. 316. 318.
+
+Raised his hand. Three fingers. Two. One.
+
+Keycards slid into locks. Green lights.
+
+Doors opened.
+
+Reeves swept into 314. Weapon ready. Two agents flanking. Scanners 
+sweeping for resonance signatures.
+
+Nothing.
+
+The room was pristine. Bed made. Bathroom spotless. Like no one had 
+ever been here.
+
+He lowered his weapon. Felt his jaw tighten.
+
+Gone.
+
+---
+
+
+"Should we go?" Lina asked.
+
+"Yeah," Jason said. "Elyra's waiting."
+
+Milo grabbed his tablet. "Want to see how this plays out."
+
+They left the room. Jason locked the door behind them. Not rushing. Just walking.
+
+Down the hall. To the elevator.
+
+The hotel was waking up. Business travelers. Morning shift workers. Anonymous faces.
+
+Perfect.
+
+---
+
+"316?" Reeves said into his radio.
+
+"Empty, sir."
+
+"318?"
+
+"Also empty. No signs of occupation."
+
+
+---
+
+Jason leaned over Milo's shoulder. he watched the feed, while they were walking. 
+
+Reeves stood in an empty room.
+
+"He's pissed," Milo said quietly.
+
+"Good," Jason replied.
+
+Lina came closer. Watched Reeves search. Methodical. Looking for anything they might have left.
+
+Finding nothing.
+
+"How long ago did we leave?" she asked.
+
+"Eighteen hours," Milo said. "Yesterday afternoon. They're a day late."
+
+---
+
+Frustration gnawed at Reeves.
+
+Twelve personnel. Three vehicles. Element of surprise.
+
+All wasted on empty beds.
+
+"Sir." His second pointed to the table.
+
+A piece of paper. Folded. Left in plain sight.
+
+Reeves picked it up. Read:
+
+**We don't want conflict. We don't want to destabilize anything. We just want to exist. To learn. We're willing to negotiate terms. But we won't submit to containment.**
+
+He stared at the note. At the careful handwriting.
+
+He pulled out his phone. Called Malvek.
+
+"They're gone," Reeves said.
+
+"Unfortunate," Malvek said. His voice cold.
+
+"They left a message. Says they want to negotiate."
+
+Silence. Then: "Do you still have Fischer's number?"
+
+"Yes, sir."
+
+"Text him. Set up a meeting. Public space. Tomorrow. Noon. Let's see if they're serious."
+
+---
+
+**Diner - District 9 - 8:30 AM**
+
+The diner was cheap. Anonymous. Crowded with morning workers.
+
+Elyra sat in a corner booth. Four cups of coffee already on the table. She didn't look up when they arrived. Just gestured to the empty seats.
+
+Jason slid in. Lina beside him. Milo took the end, propping his tablet against the salt shaker.
+
+"They hit Meridian at 7:10," Jason said. 
+
+"Found empty rooms," Milo confirmed. Turned his tablet so they could all see. The feed showed Reeves and his team still at the hotel. Searching. Finding nothing.
+
+"Good," Elyra said. "That's a message sent. We knew they were coming. We weren't there. That's all Malvek needs to know."
+
+Lina let out a breath she'd been holding. "We actually did it."
+
+"Yeah," Milo said. "We did."
+
+Jason looked at his hands. They'd been steady in the moment. But now? Now they were shaking.
+
+"You okay?" Lina asked.
+
+"Fine. Just... processing."
+
+Elyra sipped her coffee. "That's adrenaline. Give it a few minutes."
+
+Jason's phone buzzed.
+
+Unknown number. **Let's talk. Amphitheater Park. Tomorrow. Noon. Come alone. We'll do the same.**
 
 Jason showed it to the others.
 
-"It's a trap," Milo said immediately.
+"Reeves," Milo said immediately. "He just texted."
 
-"Probably," Elyra agreed. "But it's also an opening. He's willing to talk instead of just acting. That's something."
+"Will he actually come alone?" Lina asked.
 
-"Should I go?" Jason asked.
+"No," Elyra said. "He'll have backup. Hidden. Just like we will." She sipped her coffee. "But the fact that he's asking means Malvek wants to negotiate or at least explore the option."
 
-"Yes," Elyra said. "But not alone. The rest of us will be nearby. Hidden. If things go wrong, we extract you."
+"Should I respond?" Jason asked.
 
-"And if they go right?"
+"Yes. Keep it simple."
 
-"Then you negotiate. You find terms both sides can live with. And you walk away free."
+Jason typed: **Agreed. Noon. No Tricks. Just talk.**
 
-Jason nodded slowly. "Okay. Tomorrow. Noon. Let's see if Malvek is as pragmatic as you hope."
+The response came within seconds: **Of Course.**
 
 ---
 
-*You're ready,* RAE said quietly.
+On Milo's tablet, Reeves was leaving the hotel. His team loading into vehicles. Driving away.
 
-*Am I?*
+"What if he brings more people?" Milo asked. "More weapons?"
 
-*As ready as you can be. We've trained. We've prepared. We've become something neither of us could be alone.*
+"Then we adapt," Elyra said. "But my guess? He'll come light. Test the waters. See if you're serious about negotiating."
 
-*And if it's not enough?*
+"And if we can't find terms we both accept?"
 
-*Then we fight. Or we run. But we don't surrender. Because some things matter more than survival.*
+"Then we walk away. And we keep playing this game until someone blinks." Elyra set down her cup. "But at least we're playing now. Not just running."
 
-*Like what?*
+Jason looked at his friends. At Lina's quiet determination. At Milo's tactical mind already planning contingencies. At Elyra's unreadable calm.
 
-*Like dignity. Like choice. Like the right to exist without permission.*
+They'd done it. Outmaneuvered HOA. Set the terms.
 
-Jason closed his eyes. Let exhaustion pull him toward sleep.
+Now came the hard part - Facing Malvek. In person. And convincing him they were worth more alive and free than contained or dead.
 
-Tomorrow would change everything.
+The game was in play.
 
-Either they'd find a way to coexist with Malvek's system...
+And for the first time since this started...
 
-Or they'd become fugitives. Permanently.
-
-Either way, nothing would be the same.
-
-But that was okay.
-
-Because nothing had been the same since the moment RAE had reached out to him in that archive.
-
-And he'd chosen to answer.
-
-Everything after was just consequence.
-
-And consequences, good or bad, were better than stagnation.
-
-Better than safety without meaning.
-
-Better than existence without purpose.
-
-Tomorrow, he'd face Malvek.
-
-And whatever happened next...
-
-He'd face it standing. Free. Unbroken.
-
-Each choice his own.
+They had a seat at the table.

@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 14 - Staying Alive Out of Spite
+## Part 2 - Learning to Listen | Ch. 14.1 - Staying Alive Out of Spite
 
 Jason's training entered its final phase.
 
@@ -202,7 +202,7 @@ Jason barely saw it. He threw up a barrier - started to throw up a barrier - but
 
 Jason hit the ground. His skull bounced off concrete. Vision whited out. When it came back, the warehouse ceiling swam in lazy circles. He tried to sit up. Couldn't. His arms wouldn't respond. The taste of copper filled his mouth.
 
-*Jason!* RAE's voice, distant. Underwater. *Jason, can you—*
+*Jason!* RAE's voice, distant. Underwater. *Jason, can you�*
 
 He managed to turn his head. Retched. Nothing came up but bile and blood.
 
@@ -278,149 +278,13 @@ Jason didn't have an answer for that.
 
 "This is what real combat looks like," Elyra said that evening, watching them stumble through another defensive drill. "Exhausted. Hurt. Overwhelmed. And still fighting because stopping means capture or worse."
 
----
+Jason could barely stand. His vision blurred at the edges. One more day until rest.
 
-Day Fourteen. The final day.
+One more day until the deadline arrived.
 
-Elyra didn't call them to the warehouse. No emergency code at 3 AM. No drills.
+One more day to become something he wasn't sure he could be.
 
-Instead, a simple text: *Rest. Hydrate. Eat well. Be ready.*
+But he was still standing.
 
-Jason slept until noon. When he woke, his body still ached, but the headache had faded to background noise. He could think in straight lines again.
+And that had to count for something.
 
-*How are you feeling?* RAE asked.
-
-*Better.*
-
-*Good. You needed this.*
-
-He spent the afternoon at Mr. Morandi's restaurant. Lina was already there, reading something on her phone. She looked up when he entered. Almost smiled.
-
-Milo arrived later. His tablet was charging in his bag, his glasses taped together with a fresh piece of white medical tape.
-
-They ate. Mr. Morandi kept bringing food - pasta, bread, soup. He didn't ask questions. Just nodded when Jason thanked him.
-
-"Tomorrow," Lina said finally. She pushed her empty plate away.
-
-"Tomorrow," Milo agreed.
-
-Jason felt RAE's presence shift. Settle deeper. She was scared.
-
-So was he.
-
-But they were rested. 
-
-At eight PM, Elyra's text came through: *Warehouse*
-
----
-They met one last time. Not to train. Just to stand together in that cold, empty space and acknowledge what was coming.
-
-Elyra looked at each of them. "You did well. Better than I expected. Most people would have broken." She pulled something from her jacket - three small objects. Ceramic, Jason realized. Carriers. "Emergency beacons. If everything goes wrong. If you need to run. Crush it, and I'll know."
-
-She handed one to each of them.
-
-"Tomorrow they come, or they don't. But you're as ready as you're going to be."
-
-"You need to decide: submit or resist. And you need to decide now. Because when they arrive, there won't be time for debate."
-
-"We've already decided," Jason said. His voice came out steady this time. Rested. Sure.
-
-"Then prove it," Elyra replied. "When the moment comes. When it's real. When the alternative is imprisonment or forced compliance or worse. Because saying you'll resist is easy. Actually doing it? That's when you find out who you really are."
-
-She walked toward the warehouse exit, then stopped.
-
-"For what it's worth?" She didn't turn around. "You made it to the end." A pause. "That counts for something."
-
-Then she was gone, leaving them alone in the warehouse one last time.
-
----
-
-They sat in silence for a while. Somewhere, water dripped from a rusted pipe. The sodium lights outside cast rectangular patterns through high windows.
-
-"Certification exams," Milo said. "Two weeks ago, that's what I was worried about."
-
-"Yeah." Lina pulled her jacket tighter. "Funny."
-
-They sat there. The cold seeped up through the metal containers. Tomorrow was the deadline. Fourteen days since Reeves's ultimatum.
-
-Elyra appeared from the shadows. "You need to move. Tonight. Get essentials from your apartments. Twenty minutes each. Don't linger. Don't talk to anyone."
-
-"Where do we go after?" Jason asked.
-
-She handed them each a slip of paper with an address. "Hotel. District 7. Cash only. Use the names I wrote down. Two rooms." She paused. "This is it. After tonight, you can't go home again."
-
-"What about—" Milo started.
-
-"Your families will be fine. You're the targets, not them. But you can't contact them. Not for a while." Elyra's expression softened slightly. "I know it's hard. But it's necessary."
-
-Jason looked at the paper. A false name: Marcus Webb. District 7 was anonymous. Industrial. The kind of place where people didn't ask questions.
-
-"Twenty minutes," Elyra repeated. "Then you disappear."
-
----
-
-Jason's apartment felt different. Smaller. Like he was seeing it through glass.
-
-He moved quickly. Grabbed clothes from the closet. His second phone from the drawer. The photo of his parents - the only one he had. Documents. The carrier RAE had first touched, carefully wrapped.
-
-*This is it,* RAE said quietly. *We're not coming back.*
-
-*I know.*
-
-He stood in the doorway for a moment. Looking at the life he'd built here. Quiet. Safe. Forgettable. The couch where he'd read on weekends. The kitchen where he'd made coffee every morning. The window where he'd watched the city wake up.
-
-*Are you okay?* RAE asked.
-
-Jason picked up his bag. Stepped into the hallway. Left the keys on the counter.
-
-*Yeah,* he thought. *I'm okay.*
-
-He closed the door. Didn't lock it. There was nothing left worth stealing.
-
----
-
-The hotel was exactly what Elyra had promised. Anonymous. Cheap. The kind of place with flickering neon and a clerk who barely looked up when Jason paid cash.
-
-Lina was waiting in the lobby. She'd changed clothes. Looked smaller somehow, holding a single backpack.
-
-"Got everything?" Jason asked.
-
-"Everything that matters." She managed a tired smile. "Not much, turns out."
-
-Milo arrived last, his equipment bag slung over one shoulder, tablet clutched to his chest. His glasses were crooked. He looked exhausted.
-
-"My mom called while I was packing," he said quietly. "I didn't answer."
-
-Nobody knew what to say to that.
-
-Elyra appeared from a side hallway. "Rooms 314 and 316. Jason and Milo in 314. Lina in 316. I'm in 318, across the hall." She handed out keys. Physical keys, not cards. Old school. "Emergency beacons stay with you. Always. If anything happens—"
-
-"We know," Jason said. "Crush it."
-
-"Good." Elyra looked at each of them. "Get some sleep. Tomorrow they come, or they don't. Either way, we're ready."
-
-She walked away. Her footsteps echoed in the stairwell.
-
----
-
-The room smelled like old cigarettes and industrial cleaner. The carpet was stained. The window overlooked an alley. Not home. But safe. For now.
-
-Milo was already lying on his bed, staring at the ceiling. His tablet sat charging on the nightstand, screen dark.
-
-Jason set his bag down. Sat on the edge of his own bed. The mattress was too soft. Or maybe too hard. He couldn't tell.
-
-*Tomorrow,* RAE said quietly.
-
-*Tomorrow,* Jason agreed.
-
-He lay back. Closed his eyes. Listened to the sounds of the hotel - footsteps above, voices through thin walls, the hum of old pipes.
-
-They didn't know if they'd survive to see the day after tomorrow.
-
-But they were as ready as they could be.
-
-And they weren't alone.
-
-That had to be enough.
-
----
