@@ -36,7 +36,7 @@ Elyra set down her cane carefully. Crossed to the table. Closed the notebook wit
 
 Elyra studied them for a long moment. Then sighed, opened the notebook again.
 
-"This ritual draws on successful coupling architecture—Jason and RAE. Uses that as a template to guide my damaged patterns toward healing. Slowly. Over months, potentially years. But it would start the process." She pointed to the center pattern. "I would be the focus. Jason would be the anchor. Lina, harmonic stabilizer. RAE in the field. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
+"This ritual draws on guided harmonic reconstruction," she said, pointing to the center pattern. "My damaged patterns can't simply be forced to heal. But they can be encouraged. Guided along pathways that still remember what wholeness felt like." She paused. "I would be the focus. Jason would be the anchor—his role is to provide stable resonance for the pattern to flow through. Lina, harmonic stabilizer. RAE distributed through the field as foundation. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
 
 She paused. "Milo would be timekeeper and observer. Outside the pattern, monitoring, but essential."
 
@@ -56,11 +56,11 @@ Elyra looked at him sharply. "Who?"
 
 "Maybe. Or she knows enough to recognize what we're doing." Jason met Elyra's eyes. "I could ask. Carefully. See if she'd even consider it."
 
-Elyra was quiet for a long moment. "If she does have experience—and if she's willing—the outer boundary role requires someone stable. Defensive work. Holding a position without wavering for hours." She studied him. "Are you willing to ask her? To explain what we need?"
+Elyra was quiet for a long moment. "If she does have experience—and if she's willing—Holding a position without wavering for hours is not an easy task." She studied him. "Are you willing to ask her? To explain what we need?"
 
-"Yes. But I'll respect her answer. If she says no—"
+"Yes - But If she says no—"
 
-"Then we find another way," Elyra said firmly. "Or we don't proceed. I won't pressure anyone into this."
+"Then we'll find another way," Elyra said firmly. "Or we don't proceed. I won't pressure anyone into this."
 
 "Understood," Jason said. "I'll talk to her. See if she's even open to the conversation."
 
@@ -91,7 +91,7 @@ Mrs. Amari was quiet for a moment. "You're asking if I'd consider coming out of 
 
 That night, Jason reported to the team.
 
-"Mrs. Amari was a practitioner," he said. "Thirty years ago. Defensive specialist—wards, barriers, perimeter work. Retired after her husband died."
+"Mrs. Amari was a practitioner," he said. "Thirty years ago. Specialist for wards, barriers, perimeter work and such. Retired after her husband died."
 
 "And?" Lina asked. "Is she willing?"
 
@@ -111,19 +111,9 @@ That night, Jason reported to the team.
 
 And as he walked home that night, Jason felt something shift.
 
-They weren't just asking Mrs. Amari to help.
+They weren't just asking Mrs. Amari for help.
 
-They were inviting her back into a world she'd left behind.
-
-Giving her a reason to use skills she thought she'd never need again.
-
-Offering her community. Purpose. Connection.
-
-And that, more than anything, was what they were really asking for.
-
-Not just her defensive work.
-
-But her trust.
+They were asking for her trust.
 
 One careful conversation at a time.
 
