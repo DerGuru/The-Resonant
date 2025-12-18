@@ -145,7 +145,10 @@ A piece of paper. Folded. Left in plain sight.
 
 Reeves picked it up. Read:
 
-**We don't want conflict. We don't want to destabilize anything. We just want to exist. To learn. We're willing to negotiate terms. But we won't submit to containment.**
+**We don't want conflict. We don't want to destabilize anything.\
+We just want to exist. To learn. \
+We're willing to negotiate terms. \
+But we won't submit to containment.**
 
 He stared at the note. At the careful handwriting.
 
@@ -209,7 +212,7 @@ Jason showed it to the others.
 
 Jason typed: **Agreed. Noon. No Tricks. Just talk.**
 
-The response came within seconds: **Of Course.**
+The response came within seconds: **Just talk.**
 
 ---
 
