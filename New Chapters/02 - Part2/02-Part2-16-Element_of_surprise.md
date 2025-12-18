@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 15 - They Came at Dawn
+﻿## Part 2 - Learning to Listen | Ch. 16 - Element of surprise
 
 
 They came at 7:10 AM.
@@ -75,13 +75,11 @@ Keycards slid into locks. Green lights.
 
 Doors opened.
 
-Reeves swept into 314. Weapon ready. Two agents flanking. Scanners 
-sweeping for resonance signatures.
+Reeves swept into 314. Weapon ready. Two agents flanking. Scanners sweeping for resonance signatures.
 
 Nothing.
 
-The room was pristine. Bed made. Bathroom spotless. Like no one had 
-ever been here.
+The room was pristine. Bed made. Bathroom spotless. Like no one had ever been here.
 
 He lowered his weapon. Felt his jaw tighten.
 
