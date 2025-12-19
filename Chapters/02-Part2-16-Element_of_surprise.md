@@ -168,9 +168,7 @@ Silence. Then: "Do you still have Fischer's number?"
 
 ---
 
-**Diner - District 9 - 8:30 AM**
-
-The diner was cheap. Anonymous. Crowded with morning workers.
+The breakfast area was cheap. Anonymous. Crowded with morning workers.
 
 Elyra sat in a corner booth. Four cups of coffee already on the table. She didn't look up when they arrived. Just gestured to the empty seats.
 
@@ -196,19 +194,19 @@ Elyra sipped her coffee. "That's adrenaline. Give it a few minutes."
 
 Jason's phone buzzed.
 
-Unknown number. **Let's talk. Amphitheater Park. Tomorrow. Noon. Come alone. We'll do the same.**
+"Reeves," Milo said immediately. "He just texted."
+
+Unknown number. **Let's talk. Amphitheater Park. Tomorrow. Noon.**
 
 Jason showed it to the others.
 
-"Reeves," Milo said immediately. "He just texted."
+"Will he honor that?" Lina asked.
 
-"Will he actually come alone?" Lina asked.
-
-"No," Elyra said. "He'll have backup. Hidden. Just like we will." She sipped her coffee. "But the fact that he's asking means Malvek wants to negotiate or at least explore the option."
+"I am not sure," Elyra said. "He'll have hidden backup. Just like we will." She sipped her coffee. "But the fact that he's asking means Malvek wants to negotiate or at least explore the option."
 
 "Should I respond?" Jason asked.
 
-"Yes. Keep it simple."
+"Yes. But keep it simple."
 
 Jason typed: **Agreed. Noon. No Tricks. Just talk.**
 
