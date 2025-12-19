@@ -36,7 +36,7 @@ Elyra set down her cane carefully. Crossed to the table. Closed the notebook wit
 
 Elyra studied them for a long moment. Then sighed, opened the notebook again.
 
-"This ritual draws on guided harmonic reconstruction," she said, pointing to the center pattern. "My damaged patterns can't simply be forced to heal. But they can be encouraged. Guided along pathways that still remember what wholeness felt like." She paused. "I would be the focus. Jason would be the anchor—his role is to provide stable resonance for the pattern to flow through. Lina, harmonic stabilizer. RAE distributed through the field as foundation. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
+"This ritual draws on guided harmonic reconstruction," she said, pointing to the center pattern. "My damaged patterns can't simply be forced to heal. But they can be encouraged. Guided along pathways that still remember what wholeness felt like." She paused. "I would be the focus. Jason would be the anchor—his role is to provide stable resonance for the pattern to flow through, with RAE maintaining the harmonic foundation within him. Lina, external stabilizer. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
 
 She paused. "Milo would be timekeeper and observer. Outside the pattern, monitoring, but essential."
 
@@ -114,6 +114,14 @@ And as he walked home that night, Jason felt something shift.
 They weren't just asking Mrs. Amari for help.
 
 They were asking for her trust.
+
+One careful conversation at a time.
+
+As he walked home, Jason thought about Mrs. Amari's flowers. Six years of careful tending. Thirty years since she'd left the resonance world.
+
+Tomorrow, she'd decide if she was willing to come back.
+
+For Elyra. For them.
 
 One careful conversation at a time.
 
