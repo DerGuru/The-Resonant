@@ -96,23 +96,19 @@ Jason wrote that down. "Noted. Thank you."
 
 "No. Clean week. No issues."
 
-Reeves closed the folder. "Good. Keep it up. These early check-ins set precedent. The Director is watching progress. So far, you're exceeding expectations."
+Reeves closed the folder. "Good. Keep it up. These early check-ins set precedent. So far, you're exceeding expectations."
 
 "What expectations were those?"
 
-"Honesty. He gives a half-smile. "Most people in your position try to hide activity or minimize capability. You're being straightforward. That's appreciated."
+"Cooperation." He gives a half-smile. "Most people in your position try to hide activity or minimize capability. You're being straightforward. That's appreciated."
 
 "Lying would be stupid," Jason said. "You'd catch it eventually. Then trust breaks. Then the whole arrangement fails."
 
 "Exactly. Which is why I suspect this will work." Reeves stood. "Same time next week?"
 
-"I'll be here."
+"I'll see you next week."
 
-"Good. Oh - one more thing. The Director still wants to meet. At your convenience. No pressure. But it would help establish rapport."
-
-Jason considered that. "Next month. After a few more successful check-ins. When we've proven consistency."
-
-"Reasonable. I'll relay that." Reeves picked up his folder. "Until next week, Mr. Fischer."
+"Good." Reeves picked up his folder. "Until next week, Mr. Fischer."
 
 He left. Jason sat alone with his coffee, feeling something that might have been relief.
 
@@ -126,48 +122,8 @@ Jason finished his coffee. Paid. Left.
 
 Outside, the morning sun felt warmer than it should.
 
----
+They were being watched. But they were also being trusted.
 
-He met the team at the warehouse an hour later. Reported the check-in details. Showed them his copy of the documentation form.
-
-"Straightforward," Milo said, reviewing the notes. "No trap questions. No gotchas. Just status update."
-
-"He asked about integration percentage," Jason said. "I told him."
-
-Lina frowned. "That's specific."
-
-"It's also verifiable," Elyra said. "If they scan him with the right equipment, they'd measure it anyway. Better to volunteer the information than hide it. Shows transparency."
-
-"And he asked about you," Jason told Elyra. "I said you're retired, medically limited, consulting only."
-
-"Accurate. And tactful." Elyra nodded approval. "You handled it well."
-
-"He wants me to meet Malvek. In person. I said next month."
-
-"Good call," Milo said. "Don't seem too eager. But don't refuse outright. Show willingness with conditions."
-
-"Exactly what I thought."
-
-They spent the next hour dissecting every word of the check-in. Looking for subtext. Hidden implications. Pressure points.
-
-Found none.
-
-"It was just a check-in," Lina said finally. "Professional. Documented. Clean."
-
-"Which means it's working," Jason said. "The arrangement. The terms. The partnership."
-
-"Or it means they're being patient," Milo cautioned. "Building trust before testing limits."
-
-"Either way," Elyra said, "you respond the same: Professional. Consistent. Honest within bounds. That's how you build sustainable coexistence."
-
-Jason nodded. "Next week, same approach. Same honesty. Same boundaries."
-
-"And we keep training," Lina added. "Get better. Stay competent."
-
-"Always," Jason agreed.
-
-They separated for the day. Jason walked home feeling something fragile but real:
-
-Progress.
+And trust, once established, could be built on.
 
 One check-in at a time.
