@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 15 - Yeah. Freedom.
+﻿## Part 3 - Synthesis | Ch. 14 - Yeah. Freedom.
 
 Morning came slowly.
 

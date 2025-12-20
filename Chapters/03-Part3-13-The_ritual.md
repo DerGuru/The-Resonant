@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 14 - The ritual
+﻿## Part 3 - Synthesis | Ch. 13 - The ritual
 
 The chamber hummed with potential.
 

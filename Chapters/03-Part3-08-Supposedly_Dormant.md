@@ -46,7 +46,7 @@ This qualified.
 
 The call connected after three rings. Reeves' voice, alert despite the hour. "Mr. Fischer. What's wrong?"
 
-"We've encountered a threat. Major threat. An older harmonic entity is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it as pre-her architecture—dangerous, uncontained."
+"We've encountered a threat. Major threat. An older harmonic entity is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it as pre-her architecture—dangerous."
 
 A pause. Then: "We know. Where are you now?"
 
@@ -64,6 +64,6 @@ The line went dead.
 
 Forty minutes later, a car pulled up beside them. The back seat door opening, revealing a serious-looking Reeves.
 
-"Get in," he said. "We need to talk. Director Malvek wants a debrief."
+"Get in," he said. "Director Malvek wants to brief you."
 
 They climbed into the back seat, and Reeves closed the door behind them. The car pulled away from the curb, merging into the flow of traffic.

@@ -76,10 +76,6 @@ Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
 
 *This is why I exist,* she said simply. *To help. To prevent harm. I choose this.*
 
-*Or it might consume you.*
-
-*Possible. But this is what I was designed for. Regulation. Harmonization. Preventing cascade failures.*
-
 *Then I choose it too.*
 
 "We'll help," Jason said. "But on conditions."

@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 11 - It's like me
+﻿## Part 3 - Synthesis | Ch. 10 - It's like me
 
 The briefing room three levels underground felt like a tomb designed by bureaucrats.
 
