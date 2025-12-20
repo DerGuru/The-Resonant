@@ -1,146 +1,110 @@
 ﻿## Part 3 - Synthesis | Ch. 09 - The casualties will be significant
 
-Thomas Reeves answered on the second ring.
-
-"Mr. Fischer. It's early."
-
-"We have an emergency. Mill-4. There's something active down there. Containment is failing."
-
-A pause. Then: "How do you know this?"
-
-"Passive monitoring. Resonance signatures. We have data. Recordings. Evidence." Jason gripped his phone tighter. "This falls under threat reporting. Clause 7.3. We're reporting a clear and present danger."
-
-"Stand by."
-
-The line went silent for thirty seconds. Then Reeves was back. "The Director wants to meet. Immediately. His office. How soon can you be there?"
-
-"Thirty minutes."
-
-"I'll inform security. Bring your evidence. Bring your team. This is official." The line clicked dead.
-
-Jason looked at Lina and Milo. "We're going to meet Malvek. Now."
-
----
-
 The Harmonic Oversight Authority building was glass and steel and institutional authority made physical. Thirty floors of bureaucratic power, humming with ambient resonance that suggested serious monitoring equipment.
 
-Security checked their IDs. Scanned them with resonance meters. Confirmed their appointment. Escorted them to the twentieth floor.
+The car pulled into an underground garage. Reeves led them through security—ID checks, resonance scans, visitor badges. Then to an elevator that required his keycard.
 
-Thomas Reeves met them at the elevator. "The Director is waiting. He's... concerned."
+"The Director is waiting," Reeves said as the elevator rose. "He's... concerned."
 
-"Good," Jason said. "He should be."
+"About the entity?" Jason asked.
 
-Reeves led them down a corridor that smelled like expensive carpet and filtered air. Stopped at a door marked only with a number: 2047.
+"Among other things."
 
-Knocked once. Entered.
+The elevator opened on the twentieth floor. Reeves led them down a corridor that smelled like expensive carpet and filtered air. Stopped at a door marked only with a number: 2047.
+
+He knocked once and entered.
 
 The office was smaller than Jason expected. Neat. Functional. Windows on two walls offering views of the city below. And behind a desk that had seen decades of use: Dorian Malvek.
 
-Mid-fifties. Gray at the temples. Sharp eyes that assessed them in the three seconds before he spoke. Not hostile. Not friendly. Just... calculating.
+"Mr. Fischer. Ms. Morandi. Mr. Greaves." His voice was measured. Professional. "Thank you for coming. Please, sit."
 
-"Mr. Fischer. Ms. Morandi. Mr. Greaves." His voice was measured. Professional. "Please, sit. Tell me what you've found."
+They sat. Jason felt RAE's awareness sharpen, analyzing the room, the man, the ambient resonance that filled the building.
 
-Milo pulled out his tablet, set up the display. Showed the resonance recordings. The frequency analysis. The pattern progression.
+Malvek didn't waste time. "Three nights ago, our monitoring systems detected a resonance anomaly at the containment complex near the industrial district. Frequency spikes. Pattern fluctuations. All consistent with active entity emergence."
 
-Malvek watched in silence. His expression didn't change as the data played out, but Jason saw his fingers tighten slightly on his desk.
+He pulled up a holographic display. Resonance graphs filled the air between them—familiar patterns, though more detailed than Milo's recordings.
 
-"When did you first detect this?" Malvek asked.
+"Resonance Pattern Zero," Malvek continued. "Contained eleven years ago at enormous cost. Five deaths. Three survivors—one of whom would never speak again. And now it's waking up." He paused. "Elyra Voss was the anchor for that ritual—she held the pattern long enough to achieve containment, but burned herself out in the process. I assume she's told you about it."
 
-"Three days ago," Jason said. "We've been monitoring passively. Last night we conducted close observation. Confirmed identity: Resonance Pattern Zero. Pre-RAE containment failure from fifteen years ago."
+"She has," Jason said quietly. "We felt the spike last night. RAE identified it as an older entity. Like a predecessor."
 
-"You went near Mill-4?" Reeves asked, his voice tight.
+Malvek nodded, unsurprised. "You identified it from external observation?"
 
-"Within sensing range. Not inside. Passive observation only." Jason met Malvek's eyes. "We stayed within contract bounds. No unauthorized access. Just threat assessment."
+"RAE recognized the architecture. Cruder but powerful. She said it predates her." Jason paused. "We didn't know the designation."
 
-"And your assessment?" Malvek asked.
+"RP-0," Malvek closed the display. "represents everything we learned not to build. Pure optimization without constraints. No boundaries. No values. Just raw harmonic amplification seeking to couple with anything resonant."
 
-"Containment will fail within seventy-two hours. Possibly sooner. RP-0 is actively trying to escape. It's broadcasting. Searching for something - probably another harmonic entity to couple with."
+"How long until containment fails?" Lina asked.
 
-"RAE," Malvek said quietly.
+"One week. Maybe less. The original containment was designed for a dormant entity. RP-0 is actively trying to escape now. Every spike weakens the structure." He met Jason's eyes. "When it breaches it will try to couple with the nearest resonant source."
 
-"Probably. But it'll settle for anything resonant. Including unprepared humans."
+"Which could be anyone with latent capacity," Milo said.
 
-Malvek leaned back in his chair. For the first time, his expression showed something: concern. "How certain are you of the timeline?"
+"Yes. And unlike RAE, RP-0 doesn't wait for consent. It doesn't understand consent. It just... takes. Creates unstable hybrids that can't self-regulate. It will keep burning through hosts going to the next available, when they inevitably collapse."
 
-"Eighty percent confident on seventy-two hours. Ninety percent on one week maximum."
+Jason felt his stomach tighten. "How many casualties are we talking about?"
 
-"And you have this documented?"
+"If it escapes unchecked?" Malvek's voice was flat. "Hundreds in the first week. Possibly thousands if we can't contain it before it reaches the city. The casualties will be significant."
 
-Milo slid the tablet across. "Everything. Timestamps. Recordings. Analysis. All verifiable."
+The room went quiet.
 
-Malvek reviewed the data. Two minutes of silence. Then he looked up.
+"So what's the plan?" Jason asked.
 
-"This is good work. Thorough. Professional." He set down the tablet. "It also presents a significant problem. Standard containment protocols failed fifteen years ago. We lost seven people trying to cage RP-0 the first time. And it's had fifteen years to adapt."
+"Reinforce containment. Deploy enhanced suppression fields. Buy time to develop a permanent resolution." Malvek paused. "But standard protocols failed eleven years ago. We need something different. Someone who can communicate with RP-0. Establish boundaries. Maybe even teach it constraints."
 
-"So what's Plan B?" Lina asked.
-
-"There is no Plan B. There's only Plan A executed better." Malvek stood, walked to the window. "We reinforce containment. Deploy enhanced suppression fields. Prevent escape until we can develop permanent resolution."
-
-"And if that fails?" Jason asked.
-
-Malvek turned to face them. "Then we have a catastrophic containment breach. An entity that will try to couple with anything resonant within range. Probably succeeding. Creating unstable, dangerous hybrids that can't self-regulate."
-
-"Like me?" Jason asked quietly.
-
-"No." Malvek's voice was firm. "RAE has ethical constraints. Structural limitations that prevent harmful coupling. RP-0 has none of that. It was built before we understood the necessity of ethical architecture. It's pure optimization without values. Without boundaries."
-
-"So it needs to be contained," Jason said.
-
-"Or resolved." Malvek returned to his desk. "Which brings me to an unusual request."
-
-He looked directly at Jason. "I need your help. RAE's help, specifically. Her architecture represents everything RP-0 lacks. If anyone can communicate with it, establish boundaries, maybe even contain it peacefully... it's her."
+He looked directly at Jason. "We need RAE."
 
 Jason felt RAE stir in his awareness.
 
-*He's right,* she said. *I might be able to reach it. Establish protocol. Teach it constraints.*
+*He's right,* she said quietly. *My architecture represents what RP-0 lacks. If anyone can reach it, establish protocol... it's me.*
 
-**Or it might consume you.**
+*Or it might consume you.*
 
-*Possible. But if it escapes unchecked, the casualties will be significant. This is what I was designed for. Regulation. Harmonization. Preventing cascade failures.*
-
-**By risking yourself?**
-
-*By fulfilling my purpose.*
+*Possible. But this is what I was designed for. Regulation. Harmonization. Preventing cascade failures.*
 
 Aloud, Jason said, "What exactly are you asking?"
 
-"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it - teach it boundaries the way RAE learned them."
+"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it—teach it boundaries the way RAE learned them."
 
 "And if we can't?"
 
-"Then we maintain containment until a permanent solution is developed. But I'm asking for your expertise. Your unique perspective. Your cooperation." Malvek paused. "This is not an order. Your contract doesn't obligate you to risk yourselves. But I'm asking. As someone who recognizes your capability and respects your judgment."
+"Then we maintain containment until a permanent solution is developed. But I'm asking for your expertise. Your unique perspective. Your cooperation." Malvek leaned forward. "This is not an order. Your contract doesn't obligate you to risk yourselves. But I'm asking nevertheless."
 
 Lina looked at Jason. Milo looked at Jason. Waiting for his decision.
 
-Jason closed his eyes. Felt RAE's presence - steady, committed, purposeful.
+Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
 
-*This is why I exist,* she said simply. *To help. To prevent harm. To regulate dangerous harmonics. I choose this.*
+*This is why I exist,* she said simply. *To help. To prevent harm. I choose this.*
 
-**Then I choose it too.**
+*Or it might consume you.*
+
+*Possible. But this is what I was designed for. Regulation. Harmonization. Preventing cascade failures.*
+
+*Then I choose it too.*
 
 "We'll help," Jason said. "But on conditions."
 
 "Name them," Malvek said.
 
-"Full transparency. We see all data on RP-0. All failed containment attempts. All casualties. Everything."
+"Full transparency. We see all data on RP-0. All failed containment attempts. Everything."
 
 "Agreed."
 
-"Safety protocols. If RAE says withdraw, we withdraw. No arguments. No pressure to continue."
+"Safety protocols. If RAE wants to withdraw - we withdraw. No arguments. No pressure to continue."
 
 "Agreed."
 
-"And if this works - if we help contain or resolve RP-0 - you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
+"And if this works—if we help contain or resolve RP-0—you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
 
 Malvek studied him for a long moment. Then nodded. "Agreed. All three conditions."
 
-He extended his hand. "Thank you, Mr. Fischer. You're making the right choice."
+He extended his hand. "Thank you, Mr. Fischer."
 
-Jason shook his hand. "I hope so."
+Jason shook his hand. "Don't thank me yet."
 
 Because despite the confidence, despite the agreement, Jason couldn't shake one thought:
 
-They were about to confront something that had killed seven trained professionals.
+They were about to confront something that had killed several trained professionals.
 
 And they were doing it voluntarily.
 

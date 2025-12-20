@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 08 - Approximately seventy-two hours
+﻿## Part 3 - Synthesis | Ch. 08 - Supposedly Dormant
 
 It was late evening. The air smelled like rain that hadn't fallen yet. Jason, Lina, and Milo had finished yet another practice session with Mrs. Amari and Elyra. Their route home from the warehouse took them close to the industrial district. Beyond the abandoned buildings, with only the moon and the stars as their light, they entered a zone of bright yet dormant streets.
 
@@ -28,7 +28,7 @@ But not empty.
 
 *I can identify it from here,* RAE said, her voice tight. *The architecture predates mine, but has similarities. It's cruder. But powerful.*
 
-A pause. Then, quieter: *That's Resonance Pattern Zero. An earlier attempt. Contained over a decade ago.*
+A pause. Then, quieter: *An earlier attempt. Failed containment from over a decade ago. I don't know the designation, but this is dangerous.*
 
 Jason felt his stomach drop. An entity older than RAE. Powerful enough to need containment. And it was awake.
 
@@ -46,13 +46,13 @@ This qualified.
 
 The call connected after three rings. Reeves' voice, alert despite the hour. "Mr. Fischer. What's wrong?"
 
-"We've encountered a threat. Major threat. Resonance Pattern Zero is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it definitively."
+"We've encountered a threat. Major threat. An older harmonic entity is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it as pre-her architecture—dangerous, uncontained."
 
 A pause. Then: "We know. Where are you now?"
 
 "Border Mill-4. We were walking home past the industrial district when the spike hit."
 
-"Good. Stay there. Don't come closer. I'm contacting Director Malvek now. Expect a call within the hour for emergency debrief."
+"Good. Stay there. Don't come closer. I'm contacting Director Malvek now. Expect a car within the hour for emergency debrief."
 
 The line went dead.
 
