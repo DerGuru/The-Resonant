@@ -46,11 +46,11 @@ Elyra shifted her weight, her left hand trembling slightly on the cane's grip. "
 
 "So if this entity escapes containment," Elyra said slowly, each word measured, "you'll destroy it."
 
-Marla's jaw tightened. "Like you should have done four and a half years ago," she snarled, then her voice became quiet. "Since the ritual failed."
+Marla's jaw tightened. "Like we should have done four and a half years ago," she snarled, then her voice became quiet. "During that cursed ritual."
 
-"Since *I* failed," Elyra corrected, bitter. "You weren't even there at the end. You left to your bunker. I was the one in center. I felt those lives go out."
+"When *I* failed," Elyra corrected, bitter. "*You* weren't even there at the end. *You* left to your bunker. *I* was the one in the center. *I* felt those lives go out."
 
-"No." Marla turned to face her fully now. "But I had to take over. Build something better than hope and desperation. Make sure I would contain what you couldn't."
+"No, I wasn't there." Marla turned to face her fully now. "But I had to take over afterwards. Build something more concrete than hope and desperation." She gestured at the containment chamber. "Four and a half years of work to make sure, that I can prevent what you couldn't."
 
 The words hung between them - not cruel, but honest. Cold.
 
@@ -62,19 +62,13 @@ She felt it with the certainty of prey sensing a predator. But somehow not hosti
 
 Simply *aware.*
 
----
-
 "You have Forty-eight hours before recalibration," the Liaison said, making notes on his slate. "That's your window for... whatever you're planning."
 
 After he left, the two women stood in silence, watching the pattern spiral and reform.
 
 "Do you really want to destroy it?" Elyra asked softly.
 
-Marla's voice was quiet. "No. I want to understand it."
-
-The lights flickered again. The hum in the walls shifted pitch - just slightly, just enough to make Elyra's damaged resonance sense ache.
-
-"But I will not let it burn through us." Marla paused, then added more quietly: "Not again."
+Marla's voice was quiet. "No. But I am well aware of the dangers. And if I must choose between it becoming free and it becoming destroyed..." She didn't finish.
 
 The projection wall pulsed once more. The spiral pattern stabilized - perfectly symmetrical, perfectly balanced.
 

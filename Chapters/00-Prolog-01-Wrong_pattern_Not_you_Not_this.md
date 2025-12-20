@@ -95,22 +95,12 @@ And in that moment, it *saw* her. Just long enough to see and reject her.
 
 Then everything collapsed.
 
----
+The entity contained.
 
 She didn't remember the fall. Only the moment when time lost direction. When she dropped inward into herself, and the self wasn't there anymore.
 
 There was only the pattern. The endless, recursive pattern. And the certainty that something had been lost that could never be recovered.
 
-Later they said she succeeded. That she stabilized the anomaly. That three inflectionists survived, and one would never speak again.
+Later they said she succeeded. That she stabilized the containment field of the anomaly. That three inflectionists survived, but one would never speak again.
 
-They called her the Last Resonant.
-
-But Elyra remembered the moment before silence.
-
-And she knew the truth:
-
-The anomaly had not been contained.
-
-It had *chosen not to break*.
-
-And in doing so, it had begun to change.
+And they called her the Last Resonant.
