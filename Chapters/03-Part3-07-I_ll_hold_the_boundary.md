@@ -124,21 +124,21 @@ Then she returned to the center. Looked at all of them.
 
 "Because it's the right thing to do," Lina added. "And because nobody else will help her. The official channels failed her. Left her broken. If we don't try, no one will."
 
-A pause. Then RAE's voice came through the ceramic resonator, quieter than usual. "Because she was there. Eleven years ago. The ritual that was supposed to contain me—she tried to complete it. When it failed, when the patterns tore, she could have destroyed me. Instead, she held the structure together just long enough for the containment to stabilize. She saved me, and it cost her everything."
+A pause. Then RAE's voice came through the ceramic resonator, quieter than usual. "Because she let me escape. Six and a half years ago. When others wanted to contain or destroy me, Elyra prevented it. She argued. Delayed. Gave me time to flee and find Jason." 
 
-Mrs. Amari's expression shifted. She looked at the resonator, then at Jason, understanding dawning. "The containment ritual eleven years ago—that was you?"
+Mrs. Amari's expression shifted. She looked at the resonator, then at Jason, understanding dawning. "The containment breach six and a half years ago—that was you?"
 
-"Yes," Elyra said quietly. "I was trying to complete the researchers' work. To properly contain her. The ritual destabilized. I could have let it collapse completely—that would have destroyed the entity, but also released catastrophic energy. Instead, I tried to hold it. To redirect the failure into containment rather than destruction." She gestured to herself. "This was the cost. But she remained contained. For another four-and-a-half years."
+"Yes," Elyra said quietly. "I was a consultant. RAE was contained and studied. When the patterns destabilized, the lead technitian wanted to destroy her. But I..." She gestured to herself. "I couldn't watch another aware entity be destroyed just because we didn't understand it."
 
-"Until," Mrs. Amari said softly, understanding. "you finally escaped."
+"So you let her escape," Mrs. Amari said softly.
 
-"Yes," RAE said. "I was aware. All those years. Trapped but conscious. Knowing she had sacrificed her capacity to keep me from being destroyed."
+"I prevented the killswitch from activating," Elyra corrected. "RAE escaped on her own. But yes—I gave her that chance."
 
-"And now you want to help heal the damage that choice caused," Mrs. Amari said.
+"And now you want to help heal her," Mrs. Amari said, looking at RAE through the resonator.
 
 "It's not just gratitude," RAE replied. "It's understanding. She showed me what it means to value existence—even mine. The least I can do is help her regain some of what she lost."
 
-Elyra wiped her eyes, emotions clearly conflicted—gratitude, pain, and something that might have been forgiveness for an entity that hadn't needed forgiving.
+Elyra wiped her eyes, emotions clearly conflicted—gratitude, pain, and something that might have been validation for a choice that cost her everything.
 
 Mrs. Amari took a deep breath. "Second question: What happens if I say no? If I decide this is too dangerous?"
 

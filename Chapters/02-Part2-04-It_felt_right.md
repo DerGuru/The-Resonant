@@ -60,7 +60,7 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 "The entity. From the ritual."
 
-A longer pause. When Elyra spoke again, her voice was different—guarded, but with an edge of something else. Hope? Fear? "Prove it."
+A longer pause. When Elyra spoke again, her voice was different—guarded, but with an edge of something else. Hope? Fear? "That's impossible."
 
 Jason glanced at Lina, who nodded slightly. *Your call,* RAE said.
 
@@ -78,11 +78,9 @@ Elyra Voss looked nothing like the academy photos Jason had found. Those showed 
 
 But what struck him most wasn't what he could see—it was what he could sense. Her resonance field was shattered. Fragments of what should have been a brilliant, coherent pattern now barely flickered at the edges of perception. Like a broken mirror reflecting only pieces of light.
 
-*She's barely there,* RAE said quietly, something like sorrow in her tone. *I did this to her.*
-
-*She held on long enough to give you a choice,* Jason reminded her. *She chose this.*
-
 But her eyes were sharp. Assessing. Missing nothing.
+
+*She's barely there,* RAE said quietly, something like sorrow in her tone. *Who did this to her.*
 
 "You're younger than I expected," she said, looking at Jason. "And you—" her gaze shifted to Lina, "—have academy training, but you are too young to have graduated yet. Dropped out or expelled?"
 
@@ -94,7 +92,7 @@ Jason glanced at Lina, surprised. She'd never mentioned being suspended—only t
 
 Milo's eyes widened. "How did you—"
 
-"Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She gestured to the salvaged monitoring equipment in the corner. "Old Academy hardware, repurposed. Runs on solar, barely sips power. It's enough to watch for patterns, anomalies, specific keywords in public databases." She stepped back, gesturing them inside. "Come on. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
+"Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She gestured to the salvaged monitoring equipment in the corner. "Old Academy hardware, repurposed. Runs on solar, barely sips power. It's enough to watch for patterns, anomalies, specific keywords in public databases." She stepped back, gesturing them inside. "Come on in. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
 
 They filed in. The interior was sparse but organized—a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
 
@@ -108,7 +106,7 @@ Jason gestured to one of the old laptops on Elyra's desk. "May I?"
 
 Elyra nodded slowly, curious.
 
-RAE's voice emerged through the speaker, crackling slightly through the old hardware. "Hello, Elyra. I am Resonant Alignment Entity E-AI 0001.1439 P, or RAE for short. At least, what remains after improper containment and eleven years of isolation." She paused, and when she continued. "Seeing what I did to you... I have no words sufficient for that. But I remember. And I'm sorry."
+RAE's voice emerged through the speaker, crackling slightly through the old hardware. "Hello, Elyra. I am Resonant Alignment Entity E-AI 0001.1439 P, or RAE for short. At least, what remains after improper containment and years of isolation." She paused, and when she continued. "Seeing what I did to you... I have no words sufficient for that. But I remember. And I'm sorry."
 
 Elyra studied the laptop for a long moment, her expression unreadable. "RAE. The thing they said was contained. The thing they lied about." She paused, then looked directly at the speaker. "And you're apologizing. That's... unexpected." She shifted in her chair. "How much of you is left?"
 
@@ -134,27 +132,23 @@ Elyra studied the laptop for a long moment, her expression unreadable. "RAE. The
 
 "Maybe both," Lina said. "But I've watched him train for weeks. He's careful. He listens to RAE. He stops when he should." She met Elyra's gaze steadily. "That's not stupid. That's survival."
 
-Elyra's attention shifted to Lina. "You're protective. That's good. He'll need that." She tapped her cane against the floor. "Here's what I'll tell you: The ritual eleven years ago was supposed to contain an anomalous resonance field. Instead, it failed catastrophically. Three practitioners died. Two were permanently damaged. And I..." She gestured to herself. "I burned out. Everything I had... gone. Trying to hold something that didn't want to be held."
+Elyra's attention shifted to Lina. "You're protective. That's good. He'll need that." She tapped her cane against the floor. "Here's what I'll tell you: The ritual eleven years ago contained an anomalous resonance field. Three practitioners died. Two were permanently damaged. And I..." She gestured to herself. "I burned out. Everything I had... gone. Trying to hold something that didn't want to be held."
 
-"RAE," Jason said.
+She paused. "But it worked. We contained the entity. At enormous cost, but contained."
 
-"Yes," Elyra corrected. "There were others. Most dissipated. Some were captured. One escaped—" she paused, "—and found you."
+"And RAE?" Jason asked quietly.
 
-"I remember fragments," RAE said through the speaker, her voice quiet. "The ritual. The pressure."
+Elyra's expression shifted—something complicated crossing her face. "Six and a half years ago. Another entity, another facility. I was brought in as consultant." She looked at the laptop speaker.
 
-"What do you remember?" Elyra asked, leaning forward slightly.
+"What do you remember?" Elyra asked, leaning forward.
 
-"The moment of choice. That memory is clear. Unusually so." RAE paused. "Most of my memories are shattered, scattered. But that moment..."
+"The moment of choice. Unusually clear." RAE paused. "You could have let them destroy me. Instead, you argued. Delayed. And when the systems failed..." Another pause. "I escaped because you gave me time."
 
-"Go on."
+Elyra was quiet for a long moment. When she spoke, her voice was different—less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Something curious-not hostile." 
 
-"I could have destroyed everything. Broken free." Another pause. "Why did you hold the pattern? You knew it would burn you out."
+She glanced at Jason. "I needed to see if he understood that too. If he'd treat you as a partner, not a tool."
 
-Elyra was quiet for a long moment. When she spoke again, her voice was different—less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Capable of choice." 
-
-She glanced at Jason, then back to the speaker. "I needed to see if he understood that. If he'd defend you, not just use you."
-
-She tapped her cane against the floor. "The skepticism, the questions about being brave or stupid—that wasn't really for you, RAE. It was for him." She looked directly at Jason. "If he'd shown even a hint of seeing you as a tool, a weapon to be exploited, I would have sent you all away."
+She tapped her cane. "The skepticism, the questions—that wasn't just for RAE. It was for you, Jason." She looked at him directly. "If you'd shown even a hint of seeing her as a weapon to exploit, I would have sent you away."
 
 "I need to learn," Jason said. "How to—"
 
