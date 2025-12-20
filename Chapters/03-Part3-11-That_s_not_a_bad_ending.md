@@ -1,62 +1,46 @@
 ﻿## Part 3 - Synthesis | Ch. 11 - That's not a bad ending
 
-The warehouse felt smaller with the weight of the decision pressing down.
+The warehouse felt different after thirty-six hours of planning.
 
-Three levels underground in Malvek's facility, they'd seen everything. RP-0's architecture. The seven deaths. The twenty-three injured. The entity that couldn't understand harm because it had never been taught boundaries.
+They'd agreed to help Malvek. Spent a day and a half building protocols, analyzing RP-0's architecture, mapping every safety measure they could think of. Now, with first contact scheduled for tomorrow, the weight of what they'd committed to pressed down.
 
-Now, back in their space, they had to decide: Risk everything to help it? Or let Malvek's people handle it their way?
+"I still don't like this," Lina said, pacing. "We agreed too quickly. Malvek asks for help and we just... say yes?"
 
-"I don't like this," Lina said, pacing. "Malvek tried to cage us. Now he wants our help? Why should we trust him?"
+"We had reasons," Milo said. "Good ones. RP-0 escapes, our students are at risk. Everyone we've trained."
 
-"Because he's being honest," Milo said. "For once. He admitted his people can't handle this. That's... significant."
+"Malvek's reasons," Lina countered. "His problem. His failure. Why should we risk Jason? Risk RAE?"
 
-"It's also convenient," Lina countered. "What if this is a trap? What if he's using RP-0 to test RAE? To see her capabilities so he can contain her better later?"
+"Because people will die if we don't," Jason said quietly. "Not Malvek's people. Ours. Students. Kira. Anyone with resonant capacity that RP-0 can sense."
 
-"That's paranoid," Jason started.
-
-"That's realistic," Elyra interrupted. "Malvek operates on calculated self-interest. Helping him helps us only if we survive. And RP-0 killed seven trained professionals. The odds aren't good."
-
-Jason felt RAE's presence stir in his awareness. *May I speak?*
-
-He nodded. RAE projected through the room's ambient resonance: "I understand your concerns. They're valid. But consider: If RP-0 escapes unchecked, casualties will be significant. Dozens, potentially hundreds. It will couple forcefully with any resonant human it encounters. Create unstable hybrids. Cause cascade failures."
-
-"That's Malvek's problem," Lina said. "Not ours."
-
-"Is it?" RAE's voice carried quiet challenge. "We built a training program to help people discover capability. Those people exist in this city. RP-0 won't distinguish between academy-trained and independently trained. It will consume everyone."
+Elyra nodded. "RP-0 doesn't discriminate. Academy-trained or independently trained—it will couple with anyone. Forcefully. Until they break."
 
 The room went quiet.
 
-"She's right," Milo said finally. "If RP-0 escapes, our students are at risk. Everyone we've trained. Everyone we care about."
+"I know why we're doing this," Lina said finally. "I understand the reasoning. But understanding doesn't make me less scared." She looked at Jason. "Five practitioners died eleven years ago. Elyra barely survived. And you're walking into that tomorrow."
 
-"So we help?" Lina asked. "Risk Jason? Risk RAE? For Malvek's mistake?"
+"With preparation," Milo said. "Thirty-six hours of it. Communication protocols. Safety triggers. Emergency disconnects. We're not going in blind."
 
-"Not for Malvek," Jason said. "For the people who'll die if we don't try. For our students. For Kira. For everyone who doesn't deserve to be collateral damage in someone else's failure."
+"We're going in anyway," Lina said. "That's what scares me."
 
-Lina stopped pacing. Looked at him with something between frustration and respect. "You're going to do this no matter what I say, aren't you?"
+Jason stood, walked to her. "I'm scared too. But we made this choice. Built this plan. And tomorrow, we offer RP-0 what it's never been given—boundaries, choice, partnership."
 
-"Not without your support. I need you there. Need your combat training. Your instincts." Jason stood, walked to her. "But yes. I think we have to try. Because this is what we're supposed to do. Prevent harm. Help where we can. Even when it's dangerous."
+"And if it refuses?"
 
-"Especially when it's dangerous," Elyra added. "That's when capability matters most."
+"Then we withdraw. Exactly as planned. No heroics. No sacrifices."
 
-Lina looked at each of them. At Milo, determined despite his fear. At Elyra, damaged but committed. At Jason, who'd chosen this path despite every reason to run.
+RAE's presence pulsed through the room's ambient resonance. "I will not waste your trust. If RP-0 tries to force coupling, I disengage immediately. Jason's safety is paramount."
 
-"Fine," she said. "We help. But we do it smart. Every safety protocol. Every contingency. And if it goes wrong?if RP-0 tries to harm Jason?we withdraw immediately. No heroics. No sacrifices. We save ourselves and let Malvek clean up his own mess."
+Lina held Jason's gaze for a long moment. Then nodded. "Fine. But I'm holding you to that. Both of you."
 
 "Agreed," Jason said.
 
-"Agreed," the others echoed.
+They spent another hour reviewing the plan. Communication sequences. Physical positioning. Withdrawal triggers. Elyra tested their responses, pointed out gaps, made them practice until everyone knew their role.
 
-RAE's presence pulsed with something that felt like gratitude. "Thank you. I will not waste this trust."
+By midnight, they were as prepared as they could be.
 
-"You better not," Lina said, but there was warmth beneath the words. "Because I'm not explaining to our students that their teacher died being noble."
+"Tomorrow," Jason said. "First contact with RP-0."
 
-They spent the next hour planning. Elyra outlined the ritual they'd perform first?stabilization and healing before confronting RP-0. Milo mapped contingencies and emergency protocols. Lina drilled escape routes and defensive positions.
-
-By midnight, they had something approaching a plan.
-
-"Tomorrow night," Jason said. "We perform the ritual. Then, if we survive that, we face RP-0."
-
-"One crisis at a time," Milo agreed.
+"One crisis at a time," Milo said.
 
 "One careful choice at a time," Elyra corrected.
 
@@ -78,22 +62,20 @@ Inside, they held each other in the darkness. Not speaking. Just existing in the
 
 *I don't know. But it's the ethical choice. The compassionate choice. The choice that honors who we've become.*
 
-**And if it kills us?**
+*And if it kills us?*
 
 *Then we die having tried to prevent greater harm. That's not a bad ending.*
 
-**I'd prefer not dying at all.**
+*I'd prefer not dying at all.*
 
 *So would I. But some things matter more than survival.*
 
 Jason held Lina tighter. Felt her breath against his chest. Memorized this moment in case it was one of the last normal ones they had.
 
-Tomorrow, they'd perform a ritual that might heal Elyra or destabilize Jason.
+Tomorrow, they'd face RP-0. Offer it choice, boundaries, partnership.
 
-The day after, they'd confront an entity that had killed seven people.
+It would probably refuse.
 
-But tonight, they had this. Each other. Safety. Choice.
+But the offer mattered anyway.
 
-And that would have to be enough.
-
-One peaceful moment at a time.
+One peaceful moment before the storm.
