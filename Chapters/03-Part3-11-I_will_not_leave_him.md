@@ -162,7 +162,7 @@ Inside, they held each other as morning light filled the room. Not speaking. Jus
 
 Jason held Lina tighter. Felt her breath, her warmth, her presence.
 
-Today, they'd face RP-0. Offer it choice, boundaries, partnership.
+Soon, they'd face RP-0. Offer it choice, boundaries, partnership.
 
 It would probably refuse.
 
