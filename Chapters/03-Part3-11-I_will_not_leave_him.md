@@ -110,23 +110,19 @@ Milo raised an eyebrow. "Preparations for what, exactly? Beyond the obvious?"
 
 "Contingencies," Elyra said simply. "What-ifs. Making sure we're as ready as we can be."
 
-Milo nodded slowly, looking at the chalk patterns on the floor. "Escape routes?"
+Milo nodded slowly, looking at the chalk patterns on the floor. "Communication channels?"
 
-"Among other things," Elyra confirmed.
+"And buffers," Elyra confirmed. "Shield configurations. Ways to establish contact while maintaining separation."
 
-"Good." Milo sat down, cross-legged on the mat. "Because I've been thinking about what happens if RP-0 doesn't respond to communication. If it tries to force coupling anyway."
+"Good." Milo sat down, cross-legged on the mat. "Because I've been thinking about what happens if RP-0 tries to rush Jason and force coupling."
 
-"We sever contact," Lina said, in a matter of fact tone. "Immediately. That's the protocol."
+"Exactly, what this is for." Elyra said.
 
-Milo was quiet for a moment. Then: "He's really going through with this."
+"And we immediately sever contact," Lina said, in a matter of fact tone. "Immediately. That's the protocol."
 
-"Yes," Lina said simply.
+"And the physical positioning?" Milo asked. 
 
-"And we're supporting him."
-
-"Yes."
-
-Milo nodded. "Then let's make sure we're ready. Show me what you've mapped out. Maybe I still have two cents of wisdom I can share."
+"Mapped out," Elyra said. "Jason approaches from here"—she pointed to a mark on the floor—"maintaining this distance. If RP-0 surges, he can withdraw to these positions." She indicated fallback points with her chalk. "Plus emergency protocols if all three are compromised."
 
 They spent the next hour going over the plan in detail. Making sure everyone understood their role, their responsibilities.
 
