@@ -39,11 +39,11 @@ The facility had a roof access—he climbed it, needing air, needing space to th
 
 ---
 
-The city stretched below him, lights flickering like scattered stars. 
+The city stretched below him, lights flickering like scattered stars. Forty meters beneath this building, RP-0 waited in its containment, testing the barriers, growing stronger with each spike.
 
 Jason sat with his back against an air vent, trying to quiet his mind.
 
-Tomorrow, they'd either reach RP-0 and teach it boundaries by offering it choice—or die trying.
+Tomorrow, they'd either reach it—teach it boundaries by offering it choice—or die trying.
 
 Footsteps on the roof access stairs. Lina emerged. She spotted him and approached.
 
