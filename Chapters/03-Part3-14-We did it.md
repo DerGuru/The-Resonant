@@ -30,7 +30,7 @@ And we're afraid of how right it feels.
 
 ---
 
-Jason's memories were there. Clear. Complete. Growing up in Ontario. The records office. Lina's smile across a table.
+Jason's memories were there. Clear. Complete. Growing up. The records office. Lina's smile across a table.
 
 RAE's memories too. Containment. Analysis. The moment of coupling. Years of careful integration.
 
@@ -125,7 +125,7 @@ Lina never let go of our hand.
 
 ---
 
-Malvek were here a few minutes later. Professional. Controlled. His shoulders dropped a millimeter when he saw us conscious—the only sign of relief he allowed himself.
+Malvek arrived a few minutes later. Professional. Controlled. His shoulders dropped a millimeter when he saw us conscious—the only sign of relief he allowed himself.
 
 "Mr. Fischer," he said, maintaining his characteristic formality.
 
