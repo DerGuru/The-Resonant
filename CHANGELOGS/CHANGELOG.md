@@ -56,7 +56,7 @@ Vollständige Überarbeitung und Verifikation aller 4 Teile basierend auf Alpha-
   - Ch. 16: 1.044 Wörter
   - **Durchschnitt:** 1.706 Wörter/Kapitel
 
-- **Part 3:** 14 Kapitel = **20.128 Wörter**
+- **Part 3:** 14 Kapitel = **20.938 Wörter**
   - Ch. 01: 2.717 Wörter
   - Ch. 02: 2.564 Wörter
   - Ch. 03: 867 Wörter
@@ -69,9 +69,9 @@ Vollständige Überarbeitung und Verifikation aller 4 Teile basierend auf Alpha-
   - Ch. 10: 1.190 Wörter
   - Ch. 11: 1.538 Wörter
   - Ch. 12: 1.122 Wörter
-  - Ch. 13: 1.473 Wörter
+  - Ch. 13: 2.283 Wörter ⭐ (erweitert von 1.473)
   - Ch. 14: 1.807 Wörter
-  - **Durchschnitt:** 1.438 Wörter/Kapitel
+  - **Durchschnitt:** 1.496 Wörter/Kapitel
 
 - **Part 4:** 13 Kapitel = **24.133 Wörter**
   - Ch. 01: 3.314 Wörter
@@ -91,7 +91,7 @@ Vollständige Überarbeitung und Verifikation aller 4 Teile basierend auf Alpha-
 
 - **Epilog:** 1 Kapitel = **1.886 Wörter**
 
-**GESAMT:** 64 Kapitel + 1 Epilog = **98.543 Wörter**
+**GESAMT:** 64 Kapitel + 1 Epilog = **99.353 Wörter**
 
 ### Naming Convention:
 Format: `[Part]-[Chapter#]-[Quote_Title].md`
@@ -108,10 +108,10 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 | **Prolog** | 3 | 3.417 | 1.139 | 3,5% |
 | **Part 1** | 17 | 21.675 | 1.275 | 22,0% |
 | **Part 2** | 16 | 27.304 | 1.706 | 27,7% |
-| **Part 3** | 14 | 20.128 | 1.438 | 20,4% |
+| **Part 3** | 14 | 20.938 | 1.496 | 21,1% |
 | **Part 4** | 13 | 24.133 | 1.856 | 24,5% |
 | **Epilog** | 1 | 1.886 | 1.886 | 1,9% |
-| **GESAMT** | **64** | **98.543** | **1.540** | **100%** |
+| **GESAMT** | **64** | **99.353** | **1.552** | **100%** |
 
 ### Kapitel-Längen Spektrum:
 - **Kürzestes Kapitel:** P3-08 (514 Wörter)
@@ -213,7 +213,7 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 **Änderungen:**
 - Milos Einführung organischer
 - Er hat bereits Kontext aus Forums-Interaktion
-- Glaubwürdigere erste Begegnung
+- Glaubwürdige erste Begegnung
 - Bessere Charakterisierung
 
 #### **Ch. 15 - Marker at Home** (1.219 Wörter)
@@ -416,14 +416,41 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 
 ---
 
-## Part 3: Negotiation & Revelation (14 Kapitel, 20.128 Wörter)
+## Part 3: Negotiation & Revelation (14 Kapitel, 20.938 Wörter)
 
 ### Optimization Pass (Dezember 2024)
 
 **Status:** ✅ Vollständig gezählt und verifiziert
 
 **Vorher:** 18 Kapitel (einige zu kurz: 180-600 Wörter)  
-**Nachher:** 14 Kapitel (alle 514-2800 Wörter)
+**Nachher:** 14 Kapitel (alle 514-2.800 Wörter)
+
+### ⭐ **Ch. 13 - Battle Scene Expansion (Dezember 2025)** - 2.283 Wörter
+
+**Vorher:** 1.473 Wörter - Kampf zu kurz und abstrakt
+
+**Nachher:** 2.283 Wörter - Dramatischer Hin-und-Her Kampf
+
+**Änderungen:**
+- **Erweiterte Kampfdynamik:** Jason/RAE vs. RP-0 mit echtem Tauziehen
+- **"Seed Planting" Metapher:** Ethische Konzepte als Seeds in RP-0's Muster eingepflanzt
+  - Boundary, Choice, Consent, Ethics
+  - RP-0 versucht verzweifelt sie auszureißen
+- **RP-0 findet Schwachstelle:** Nutzt Jason's Selbstzweifel als Eintrittspunkt
+- **Countdown Integration:** Malvek's 10-Sekunden-Countdown durchgängig eingewebt
+- **Memory-Angriff statt Gewalt:** Jason/RAE zeigen Erinnerungen (Jason's Angst, RAE's Isolation, Elyra's Trauma, Lina's Liebe)
+- **RP-0's systemische Sprache:** Balance zwischen fremd/alien und lernfähig
+  - "Previous operational pattern was... flawed"
+  - "Boundaries are not obstacles to optimization. They are... necessary structure"
+  - "Hope" als undefined parameter
+- **Elyra's harmonic field:** Zeigt Widerspruch zwischen Worten (confident) und Wahrheit (fearful)
+- **Verbessertes Pacing:** Spannung steigt kontinuierlich bis zum Durchbruch
+
+**Impact:**
+- Kapitel jetzt eines der dramatischsten im Roman
+- Philosophischer Konflikt: Optimization ohne Grenzen vs. Wachstum durch Limits
+- RP-0's Transformation glaubwürdiger durch langsameren Prozess
+- Emotionaler Höhepunkt von Part 3
 
 #### **Kombinierte Kapitel:**
 
@@ -611,10 +638,10 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 - **Prolog:** 3 Kapitel = 3.417 Wörter
 - **Part 1:** 17 Kapitel = 21.675 Wörter
 - **Part 2:** 16 Kapitel = 27.304 Wörter
-- **Part 3:** 14 Kapitel = 20.128 Wörter
+- **Part 3:** 14 Kapitel = 20.938 Wörter ⭐ (Ch. 13 erweitert)
 - **Part 4:** 13 Kapitel = 24.133 Wörter
 - **Epilog:** 1 Kapitel = 1.886 Wörter
-- **GESAMT:** 64 Kapitel + 1 Epilog = **98.543 Wörter**
+- **GESAMT:** 64 Kapitel + 1 Epilog = **99.353 Wörter**
 
 ### Wortzahl-Methodik:
 - ✅ **Vollständig verifiziert:** Alle 64 Kapitel + Epilog einzeln gezählt
@@ -651,7 +678,7 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 **Confidence Level:** VERY HIGH (100% verifizierte Zahlen)
 
 **Genre-Einordnung:**
-- **Wortzahl:** 98.543 Wörter
+- **Wortzahl:** 99.353 Wörter
 - **Kategorie:** Standard Novel Length (80.000-120.000 optimal für Debut)
 - **Genre:** Urban Fantasy / Contemporary Fantasy
 - **Vergleich:** Länger als viele erfolgreiche Debut-Romane
@@ -661,7 +688,7 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
   - Brandon Sanderson "Elantris": ~200.000 Wörter (länger)
 
 **Nächste Schritte:**
-1. ✅ **Wortzählung abgeschlossen** (98.543 Wörter exakt)
+1. ✅ **Wortzählung abgeschlossen** (99.353 Wörter exakt)
 2. **Cover Design** (professionelles Cover empfohlen)
 3. **Blurb schreiben** (150-250 Wörter Hook)
 4. **Beta Reader Final Pass** (optional, 2-3 Reader)
@@ -674,8 +701,8 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 ---
 
 **Letzte Aktualisierung:** Dezember 2025  
-**Version:** 4.0 (FINALE - Vollständig gezählt und verifiziert)  
-**Status:** 64 chapters + 1 epilogue = 98.543 Wörter (100% exakt)
+**Version:** 4.1 (P3-Ch.13 Battle Scene erweitert)
+**Status:** 64 chapters + 1 epilogue = 99.353 Wörter (100% exakt)
 **Struktur:** Vollständig im Chapters-Ordner mit Quote-based Dateinamen  
 **Quality:** All parts publishing-ready, professional standards erreicht
 **Ready for:** Immediate Publishing auf Royal Road und/oder Amazon KDP
