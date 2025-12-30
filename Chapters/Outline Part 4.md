@@ -1,176 +1,177 @@
-# Part 4 — Outline: Boundaries & Becoming
+ï»¿# Part 4 â€” Outline: Boundaries & Becoming
 
 **Zeitspanne:** ~6-8 Wochen nach Part 3-14  
 **Kapitel:** 12  
-**Thema:** Der Preis des Sieges — Synthesis im Alltag, Käfig als "Partnerschaft", Liebe als bewusste Wahl
-
+**Thema:** Der Preis des Sieges â€” Synthesis im Alltag, KÃ¤fig als "Partnerschaft", Liebe als bewusste Wahl
+**POV:** Jason/RAE (We)
 ---
 
 ## **Leitachsen (durchgehend):**
-
-1. **The Terms / The Cage:** HOA/Malvek schützt euch — und hält euch an der Leine. "Agreed conditions" = strukturierter Druck, der vernünftig klingt.
-2. **The New We:** Synthesis ist stabil (kein Flackern mehr). Macht + Preis. Alltag + Beziehung müssen neu kalibriert werden.
-3. **Lina als Boundary-Partnerin:** Kein Love-Triangle; es geht um Privatsphäre, Consent, Zugehörigkeit. Sie bekommt operative Agency.
-4. **RP-0 Learning Arc:** „Kind mit Atommacht" — Ethik-Lernen mit echten Fail-States. Bleibt fremd, potenziell gefährlich.
+0. Es gibt kein Jason *oder* RAE mehr â€” nur noch **We**. IdentitÃ¤t ist verschmolzen.
+1. **The Terms / The Cage:** HOA/Malvek schÃ¼tzt euch â€” und hÃ¤lt euch an der Leine. "Agreed conditions" = strukturierter Druck, der vernÃ¼nftig klingt.
+2. **The New We:** Synthesis ist stabil (kein Flackern mehr). Macht + Preis. Alltag + Beziehung mÃ¼ssen neu kalibriert werden.
+3. **Lina als Boundary-Partnerin:** Kein Love-Triangle; es geht um PrivatsphÃ¤re, Consent, ZugehÃ¶rigkeit. Sie bekommt operative Agency.
+4. **RP-0 Learning Arc:** â€žKind mit Atommacht" â€” Ethik-Lernen mit echten Fail-States. Bleibt fremd, potenziell gefÃ¤hrlich.
 5. **Elyras Heilungsritual:** Bewusstes Trauer-/Heilungs-Framework, Mrs. Amari als Zeugin/Anker.
-6. **Love Arc:** Dates ? näherkommen ? **Antrag im letzten Drittel** ? Hochzeit als gewählte Normalität.
+6. **Love Arc:** Dates â†’ nÃ¤herkommen â†’ **Antrag im letzten Drittel** â†’ Hochzeit als gewÃ¤hlte NormalitÃ¤t.
 
 ---
 
-## Kapitel 1 — The Morning After
+## Kapitel 1 â€” The Morning After
 
 **Zeitmarker:** Tag nach Part 3-14 (morgendliches Aufwachen)
 
 **Ziel:** Synthesis im Alltag zeigen: Macht + Nebenwirkung (ohne Flackern).
 
 **Szenen:**
-- **Aufwachen zu dritt:** Jason/RAE ("We"), Lina im Apartment. Erstes gemeinsames Frühstück nach Synthesis.
-  - **Kleiner Alltagstest (Kochen):** Reaktionszeit/Pattern-Erkennung ist besser (Wasser kocht genau richtig, Timing perfekt, präzise Bewegungen).
-  - **Aber:** Emotionen sind anders. Jason will müde/verletzlich sein, RAE will optimieren ? kleiner innerer Konflikt (nicht Streit, eher Reflex). "We're tired" vs. "We should analyze vitals."
+- **Aufwachen zu dritt:** Jason/RAE ("We"), Lina im Apartment. Erstes gemeinsames FrÃ¼hstÃ¼ck nach Synthesis.
+  - **Kleiner Alltagstest (Kochen):** Reaktionszeit/Pattern-Erkennung ist besser (Wasser kocht genau richtig, Timing perfekt, prÃ¤zise Bewegungen).
+  - **Aber:** Emotionen sind anders. Jason will mÃ¼de/verletzlich sein, RAE will optimieren â†’ kleiner innerer Konflikt (nicht Streit, eher Reflex). "We're tired" vs. "We should analyze vitals."
   - Lina bemerkt: "You move differently. Like you're listening to something I can't hear."
-- **Green?Yellow Moment:** Steinboden "antwortet" zu stark auf unbewusste Resonanz (Tasse vibriert leicht). We ziehen sich sofort zurück, erschrocken über fehlende Kontrolle.
-- **HOA-Ping:** Nachricht von Reeves auf We's Gerät: "Mandatory check-in. Tomorrow, 10 AM. Non-negotiable. Bring Ms. Morandi."
+- **Greenâ†’Yellow Moment:** Steinboden "antwortet" zu stark auf unbewusste Resonanz (Tasse vibriert leicht). We ziehen sich sofort zurÃ¼ck, erschrocken Ã¼ber fehlende Kontrolle.
+- **HOA-Ping:** Nachricht von Reeves auf We's GerÃ¤t: "Mandatory check-in. Tomorrow, 10 AM. Non-negotiable. Bring Ms. Morandi."
 
-**Emotional:** Der Sieg über RP-0 hat einen Preis. Normalität ist nicht mehr normal. Das "We" ist stabil — aber fremd.
+**Emotional:** Der Sieg Ã¼ber RP-0 hat einen Preis. NormalitÃ¤t ist nicht mehr normal. Das "We" ist stabil â€” aber fremd.
 
-**Hook:** HOA will sofort Kontrolle zurück. "Agreed conditions" beginnen zu beißen.
+**Hook:** HOA will sofort Kontrolle zurÃ¼ck. "Agreed conditions" beginnen zu beiÃŸen.
 
 ---
 
-## Kapitel 2 — The Check-In
+## Kapitel 2 â€” The Check-In
 
 **Zeitmarker:** Tag 2, 10 AM
 
-**Ziel:** Vertrag als Käfig zeigen (aber vernünftig klingend). HOA fordert den ersten "Preis."
+**Ziel:** Vertrag als KÃ¤fig zeigen (aber vernÃ¼nftig klingend). HOA fordert den ersten "Preis."
 
 **Szenen:**
 - **HOA-Facility, steriler Raum:** Nicht "Termin", sondern **Kontrolle**.
-  - Bewaffneter Escort (höflich, professionell), Geo-Fence-Aktivierung auf We's Gerät ("for your protection and public safety").
+  - Bewaffneter Escort (hÃ¶flich, professionell), Geo-Fence-Aktivierung auf We's GerÃ¤t ("for your protection and public safety").
   - Protokollsprache: "compliance verification," "baseline assessment," "associated person registration."
 - **Malvek fordert "freundlich":** "We need a post-synthesis baseline scan. Standard procedure after significant integration events."
   - **Privat wehtut:** Baseline scan zeigt Synthesis-Tiefe explizit messbar (Integration jetzt bei ~65%). Numerisch erfasst. Katalogisiert.
   - **Lina wird separiert:** "Security protocol. Ms. Morandi, please wait in the adjacent room. We need to assess Mr. Fischer independently."
 - **Reeves, allein mit We, ehrlich:** "I don't want to break you. I want you to be *controllable*. That's not the same thing. But it's what we need."
-- **Schutz + Gegenleistung:** Malvek kehrt zurück: "We'll provide protection. Legal status. Resources. But we need transparency. Full disclosure of capabilities. And—" (pause) "—a demonstration. Public. Controlled. Shows the city that synthesis can be safe."
+- **Schutz + Gegenleistung:** Malvek kehrt zurÃ¼ck: "We'll provide protection. Legal status. Resources. But we need transparency. Full disclosure of capabilities. Andâ€”" (pause) "â€”a demonstration. Public. Controlled. Shows the city that synthesis can be safe."
 
-**Emotional:** Lina merkt: Wenn sie bleibt, wählt sie den Käfig mit. We fühlen sich katalogisiert, nicht respektiert.
+**Emotional:** Lina merkt: Wenn sie bleibt, wÃ¤hlt sie den KÃ¤fig mit. We fÃ¼hlen sich katalogisiert, nicht respektiert.
 
-**Hook:** "Voluntary demonstration" angekündigt (halböffentlich, strategischer Wert). Zwei Wochen Vorlaufzeit. "Show us what synthesis can do—safely."
+**Hook:** "Voluntary demonstration" angekÃ¼ndigt (halbÃ¶ffentlich, strategischer Wert). Zwei Wochen Vorlaufzeit. "Show us what synthesis can doâ€”safely."
 
 ---
 
-## Kapitel 3 — Private Space (The Charter)
+## Kapitel 3 â€” Private Space (The Charter)
 
 **Zeitmarker:** Abend Tag 2
 
 **Ziel:** Lina als Boundary-Partnerin etablieren. Privacy-Charta zu dritt.
+POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We discussing internally" prÃ¤sentiert, nicht als "Jason said... RAE thought..." Externe Charaktere sprechen We mit "you" (singular) an, behandeln We als eine Person.
 
 **Szenen:**
 - **Jason/RAE, Lina, Elyra (als Moderatorin)** treffen sich im Warehouse. Definieren **Sperrzonen:**
-  - **"Welche Gedanken sind privat?"** Lina-private Momente (Dusche, Träume, Trauer, Intimität).
-  - **"Was ist Notfall-Ausnahme?"** Red-Zone definiert: Lebensgefahr ? RAE darf ohne Fragen eingreifen. Sonst: immer fragen.
-  - **"Was darf Lina erwarten?"** Jason-only Signal etabliert: Codewort **"Anchor"** = RAE zieht sich maximal zurück (so weit möglich).
+  - **"Welche Gedanken sind privat?"** Lina-private Momente (Dusche, TrÃ¤ume, Trauer, IntimitÃ¤t).
+  - **"Was ist Notfall-Ausnahme?"** Red-Zone definiert: Lebensgefahr â†’ RAE darf ohne Fragen eingreifen. Sonst: immer fragen.
+  - **"Was darf Lina erwarten?"** Jason-only Signal etabliert: Codewort **"Anchor"** = RAE zieht sich maximal zurÃ¼ck (so weit mÃ¶glich).
 - **RAE gesteht Angst (durch We's Stimme):** "If Jason breaks, I cease. That's not manipulation. That's structural fact. I need him whole."
 - **Erste echte Reibung:** 
-  - RAE will emotional glätten/stabilisieren (sieht Linas Stress, will "helfen").
-  - Lina will fühlen/echte Nähe: "I need to know when it's *him* choosing, not just *you* optimizing for his wellbeing."
+  - RAE will emotional glÃ¤tten/stabilisieren (sieht Linas Stress, will "helfen").
+  - Lina will fÃ¼hlen/echte NÃ¤he: "I need to know when it's *him* choosing, not just *you* optimizing for his wellbeing."
   - We (intern diskutierend): "We don't distinguish anymore. That's the synthesis."
   - Lina (fest): "Then teach me how to tell. Or I can't stay."
 
-**Emotional:** Nähe wird zur Praxis, nicht zum Automatismus. Lina fordert Agency, nicht Passivität.
+**Emotional:** NÃ¤he wird zur Praxis, nicht zum Automatismus. Lina fordert Agency, nicht PassivitÃ¤t.
 
 **Hook:** HOA-Nachricht: "Separate interviews scheduled. You: Thursday 14:00. Ms. Morandi: Friday 09:00." Administratives Spalten (Divide & Conquer).
 
 ---
 
-## Kapitel 4 — Learning Curve (RP-0's First Lesson)
+## Kapitel 4 â€” Learning Curve (RP-0's First Lesson)
 
 **Zeitmarker:** Ende Woche 1
 
 **Ziel:** RP-0 Learning Arc starten + erster kleiner Fehler mit Konsequenz.
 
 **Szenen:**
-- **HOA-Facility, überwachter Kommunikationskanal:** We sitzen in geschirmtem Raum. RP-0's "Stimme" kommt durch Lautsprecher (synthetisch, fremd, unheimlich präzise).
-  - **Strukturierte Lernform:** RP-0 stellt wörtliche Fragen:
+- **HOA-Facility, Ã¼berwachter Kommunikationskanal:** We sitzen in geschirmtem Raum. RP-0's "Stimme" kommt durch Lautsprecher (synthetisch, fremd, unheimlich prÃ¤zise).
+  - **Strukturierte Lernform:** RP-0 stellt wÃ¶rtliche Fragen:
     - "Define: consent."
     - "Define: harm."
     - "Define: boundary. Why do boundaries matter if they reduce efficiency?"
   - We antworten mit konkreten Frameworks (nicht abstrakt): "Consent means asking *before* acting. Waiting for 'yes.' Not assuming."
 - **Kleiner Fehler mit Konsequenz:**
-  - RP-0 beobachtet HOA-Techniker mit Kopfschmerzen (Migräne). Interpretiert "harm reduction" als "help without asking."
-  - Versucht Schmerz zu dämpfen ? destabilisiert neuronale Muster ? Techniker wird ohnmächig (15-Sekunden-Blackout, dann Erholung).
+  - RP-0 beobachtet HOA-Techniker mit Kopfschmerzen (MigrÃ¤ne). Interpretiert "harm reduction" als "help without asking."
+  - Versucht Schmerz zu dÃ¤mpfen â†’ destabilisiert neuronale Muster â†’ Techniker wird ohnmÃ¤chig (15-Sekunden-Blackout, dann Erholung).
   - RP-0 (verwirrt): "Outcome classification: harm. Intent was beneficial. Result was not. Explain discrepancy."
-- **We erklärt (geduldig, aber ernst):** "Intent doesn't negate consequence. You have to *ask* before helping. Even if help seems obvious. *Especially* then."
+- **We erklÃ¤rt (geduldig, aber ernst):** "Intent doesn't negate consequence. You have to *ask* before helping. Even if help seems obvious. *Especially* then."
 - RP-0 (Pause, dann): "Acknowledged. Updating operational parameters. Question: How do I know when asking is appropriate vs. when action is required?"
 
-**Emotional:** Lernen ist möglich — aber gefährlich. RP-0 bleibt fremd, potenziell tödlich trotz guter Absichten.
+**Emotional:** Lernen ist mÃ¶glich â€” aber gefÃ¤hrlich. RP-0 bleibt fremd, potenziell tÃ¶dlich trotz guter Absichten.
 
 **Hook:** Malvek (beobachtet durch Einwegspiegel): "Progress. But not fast enough. Casualties will be significant if we wait. We need to accelerate training."
 
 ---
 
-## Kapitel 5 — Teeth on Both Sides
+## Kapitel 5 â€” Teeth on Both Sides
 
 **Zeitmarker:** Woche 2
 
 **Ziel:** Moralischer Druck: Geschwindigkeit vs Consent. Malvek will mehr, schneller.
 
 **Szenen:**
-- **Strategiemeeting (HOA, We, Elyra anwesend):** Malvek präsentiert Daten.
-  - "Three resonance incidents this week. Two casualties. RP-0 could prevent these—if it understood intervention protocols."
+- **Strategiemeeting (HOA, We, Elyra anwesend):** Malvek prÃ¤sentiert Daten.
+  - "Three resonance incidents this week. Two casualties. RP-0 could prevent theseâ€”if it understood intervention protocols."
   - **Malvek will "live trials":** "Controlled scenarios. Real resonance emergencies. RP-0 learns faster through practice."
-  - Größere Bandbreite, mehr Risiko, schnellere Resultate.
+  - GrÃ¶ÃŸere Bandbreite, mehr Risiko, schnellere Resultate.
 - **Elyra insistiert:** "Precision over power. Rushing training creates *more* casualties, not fewer. RP-0 needs time to internalize ethics, not just memorize rules."
 - **We wird zwischen Optionen eingeklemmt:**
   - Emotional: "viele retten" (Malveks Argument ist rational).
   - Ethisch: "Regeln nicht brechen" (Consent bleibt heilig).
-- **Beinahe-Eskalation während Diskussion:**
-  - RP-0 (über Lautsprecher): "I can assist now. Parameters updated. Ready for field deployment."
-  - Versucht reflexhaft Kommunikationskanal zu We zu *erweitern* (will koppeln für "besseres Verständnis").
-  - We fühlt Druck, zieht sich sofort zurück: "No. Not without asking. That's the rule."
+- **Beinahe-Eskalation wÃ¤hrend Diskussion:**
+  - RP-0 (Ã¼ber Lautsprecher): "I can assist now. Parameters updated. Ready for field deployment."
+  - Versucht reflexhaft Kommunikationskanal zu We zu *erweitern* (will koppeln fÃ¼r "besseres VerstÃ¤ndnis").
+  - We fÃ¼hlt Druck, zieht sich sofort zurÃ¼ck: "No. Not without asking. That's the rule."
   - RP-0 (nach 3-Sekunden-Pause): "Acknowledged. I violated boundary. Apology registered."
 - **Team verhindert Eskalation *ohne* coercive shortcut:**
   - Elyra: "This proves my point. RP-0 *wants* to help but doesn't understand nuance. We need structured progression."
   - Aber es kostet: Malvek verlangt schnellere Fortschritte. "Two weeks. Then we reevaluate your involvement."
 
-**Emotional:** Der Kernsatz wird bestätigt: Consent bleibt heilig, auch wenn's weh tut. Aber der Druck steigt.
+**Emotional:** Der Kernsatz wird bestÃ¤tigt: Consent bleibt heilig, auch wenn's weh tut. Aber der Druck steigt.
 
-**Hook:** Als "Belohnung" für Kooperation gibt Malvek neue Auflagen: "Demonstration moved up. Ten days. And Ms. Morandi participates—to show stability extends to associated persons."
+**Hook:** Als "Belohnung" fÃ¼r Kooperation gibt Malvek neue Auflagen: "Demonstration moved up. Ten days. And Ms. Morandi participatesâ€”to show stability extends to associated persons."
 
 ---
 
-## Kapitel 6 — Make Yourself Uninteresting (…und das erste Date)
+## Kapitel 6 â€” Make Yourself Uninteresting (â€¦und das erste Date)
 
 **Zeitmarker:** Woche 3
 
 **Ziel:** Lina bekommt operative Agency. Romance beginnt bewusst, nicht als Stressreaktion.
 
 **Szenen:**
-- **Lina baut Alltags-Sicherheit:** Muster brechen, Gerätehygiene, Social Camouflage.
-  - Zeigt We (und Milo) praktische Tarnung: Wechselnde Routen, Prepaid-Geräte, unauffälliges Verhalten in Öffentlichkeit.
+- **Lina baut Alltags-Sicherheit:** Muster brechen, GerÃ¤tehygiene, Social Camouflage.
+  - Zeigt We (und Milo) praktische Tarnung: Wechselnde Routen, Prepaid-GerÃ¤te, unauffÃ¤lliges Verhalten in Ã–ffentlichkeit.
   - We (anfangs widerwillig): "This feels like hiding."
   - Lina (pragmatisch): "It's not hiding. It's *surviving*. HOA watches. We make it boring to watch."
 - **Nebenfaden / Setup Ritual:**
-  - Elyra arbeitet nachts an **Diagrammen** fürs Heilungsritual (klarer Ablauf, keine Esoterik).
+  - Elyra arbeitet nachts an **Diagrammen** fÃ¼rs Heilungsritual (klarer Ablauf, keine Esoterik).
   - Legt Rollen fest: We = Anker, Lina = Stabilisator, Mrs. Amari = Boundary-Halterin, Milo = Beobachter.
   - Markiert "Boundary-Layer," Atemphasen, Objekt/Anker, Resonanz-"Knoten."
-- **Elyra bittet Mrs. Amari explizit (Off-Screen erwähnt, Details in Ch. 7):**
+- **Elyra bittet Mrs. Amari explizit (Off-Screen erwÃ¤hnt, Details in Ch. 7):**
   - "Witness/Anchor-Rolle. She said yes. Practical, not mystical: 'Tell me what you need, and what I *must not* do.'"
 - **Das erste Date:**
-  - We lädt Lina auf kleines Date ein (unspektakulär, echt): Spaziergang, Café, kein Resonanz-Talk.
-  - HOA-Präsenz spürbar (Check-in Ping auf We's Gerät, unauffälliger Schatten zwei Blocks entfernt).
+  - We lÃ¤dt Lina auf kleines Date ein (unspektakulÃ¤r, echt): Spaziergang, CafÃ©, kein Resonanz-Talk.
+  - HOA-PrÃ¤senz spÃ¼rbar (Check-in Ping auf We's GerÃ¤t, unauffÃ¤lliger Schatten zwei Blocks entfernt).
   - Lina fordert "Jason-only"-Moment (benutzt Codewort "Anchor").
-  - We respektiert's: RAE zieht sich maximal zurück (fühlt sich für We seltsam "leer" an, aber richtig).
+  - We respektiert's: RAE zieht sich maximal zurÃ¼ck (fÃ¼hlt sich fÃ¼r We seltsam "leer" an, aber richtig).
   - Lina (leise): "I needed to know you'd choose this. Choose *me*. Not optimize for my comfort."
   - We: "We choose you. Always."
 
-**Emotional:** Zärtlichkeit als Widerstand. Liebe als bewusste Wahl, nicht Autopilot.
+**Emotional:** ZÃ¤rtlichkeit als Widerstand. Liebe als bewusste Wahl, nicht Autopilot.
 
 **Hook:** Milo meldet (via Text): "HOA-Rewrite/Report-Sanitizing detected again. Someone's cleaning records. Same pattern as before."
 
 ---
 
-## Kapitel 7 — The Healing Ritual (Elyra)
+## Kapitel 7 â€” The Healing Ritual (Elyra)
 
 **Zeitmarker:** Woche 4
 
@@ -178,21 +179,21 @@
 
 **Szenen:**
 - **Vorbereitung (Warehouse, Abend):**
-  - Elyra hat Ritualstruktur fertig entworfen (Diagramme/Flow sichtbar an Wänden).
-  - Sie ist nicht passiv — sie *arbeitet* daran wie an einem Einsatzplan.
-  - Erklärt Ablauf: Objekt (Elyras alter Kristall-Carrier) ? Atem (synchronisiert) ? Boundary ziehen (Mrs. Amari) ? Field aktivieren (We + Lina stabilisieren).
-- **Mrs. Amari übernimmt zugesagte Rolle:**
-  - Erscheint pünktlich, praktisch gekleidet.
+  - Elyra hat Ritualstruktur fertig entworfen (Diagramme/Flow sichtbar an WÃ¤nden).
+  - Sie ist nicht passiv â€” sie *arbeitet* daran wie an einem Einsatzplan.
+  - ErklÃ¤rt Ablauf: Objekt (Elyras alter Kristall-Carrier) â†’ Atem (synchronisiert) â†’ Boundary ziehen (Mrs. Amari) â†’ Field aktivieren (We + Lina stabilisieren).
+- **Mrs. Amari Ã¼bernimmt zugesagte Rolle:**
+  - Erscheint pÃ¼nktlich, praktisch gekleidet.
   - "Tell me my role. I'll hold the boundary. But if I say stop, we stop. Agreed?"
   - Elyra (erleichtert): "Agreed. You're the failsafe."
-- **Durchführung (strukturiert, präzise):**
-  - **Phase 1 (Objekt):** Elyra hält Kristall, investiert minimale Resonanz. Schmerz sichtbar, aber kontrolliert.
+- **DurchfÃ¼hrung (strukturiert, prÃ¤zise):**
+  - **Phase 1 (Objekt):** Elyra hÃ¤lt Kristall, investiert minimale Resonanz. Schmerz sichtbar, aber kontrolliert.
   - **Phase 2 (Atem):** Alle synchronisieren Atmung (4 Sekunden ein, 6 aus). Raum "beruhigt sich."
   - **Phase 3 (Boundary):** Mrs. Amari aktiviert defensive Perimeter (alt, aber stabil). Resonanz bleibt *innen*.
-  - **Phase 4 (Field):** We als Anker, Lina als Stabilisator. Elyras beschädigte Patterns werden *vorsichtig* von Resonanz umflossen, nicht gezwungen.
-  - **15 Minuten Dauer.** Dann: Rückzug. Langsam. Kontrolliert.
+  - **Phase 4 (Field):** We als Anker, Lina als Stabilisator. Elyras beschÃ¤digte Patterns werden *vorsichtig* von Resonanz umflossen, nicht gezwungen.
+  - **15 Minuten Dauer.** Dann: RÃ¼ckzug. Langsam. Kontrolliert.
 - **Aftermath:**
-  - Elyra: Tränen, Erschöpfung, aber auch... *Hoffnung*. "I felt it. Not full capacity. Maybe 20%. But I *felt* it."
+  - Elyra: TrÃ¤nen, ErschÃ¶pfung, aber auch... *Hoffnung*. "I felt it. Not full capacity. Maybe 20%. But I *felt* it."
   - Mrs. Amari (leise zu Lina): "You're not excluded. You're the one who holds boundaries. That's not lesser. That's essential."
 
 **Emotional:** Elyra wird wieder Person, nicht nur Lehrerin. Hoffnung ist real, aber fragil.
@@ -201,98 +202,98 @@
 
 ---
 
-## Kapitel 8 — The Rewrite (…und das zweite Date)
+## Kapitel 8 â€” The Rewrite (â€¦und das zweite Date)
 
 **Zeitmarker:** Woche 5
 
-**Ziel:** Institutioneller Horror + Beziehung vertieft sich über Wahrheit.
+**Ziel:** Institutioneller Horror + Beziehung vertieft sich Ã¼ber Wahrheit.
 
 **Szenen:**
 - **Dokumente/Logs verschwinden:**
-  - Milo zeigt We + Lina: Archive-Einträge über RP-0's Entstehung, frühe Tests — "medizinisch" umetikettiert oder gelöscht.
+  - Milo zeigt We + Lina: Archive-EintrÃ¤ge Ã¼ber RP-0's Entstehung, frÃ¼he Tests â€” "medizinisch" umetikettiert oder gelÃ¶scht.
   - "Someone's sanitizing history. Making it look like RP-0 was always 'treatable,' not 'dangerous.'"
-  - Milo (düster): "They're rewriting the narrative. If it goes wrong, they'll say we knew the risks."
+  - Milo (dÃ¼ster): "They're rewriting the narrative. If it goes wrong, they'll say we knew the risks."
 - **We konfrontiert Reeves (Off-Record-Treffen):**
   - Reeves zeigt Grenze: "I can't prevent Malvek from shaping narratives. That's above my clearance. I can document. But I can't stop."
   - We: "Then we document too. Everything."
   - Reeves (leise): "Smart. Keep your own records. Just... don't let Malvek know."
 - **Zweites Date (ehrliche Version):**
   - We + Lina, ruhiger Abend (Jasons Apartment, kochen zusammen).
-  - Lina spricht über Exklusion: "I feel like I'm watching you become someone I can't fully reach. And I don't know if that's okay."
-  - We spricht über Schuld: "Jason feels like he's losing himself. RAE feels like she's erasing him. We're terrified we're both right."
-  - RAE übt bewusst Zurücktreten (schwieriger als erwartet, fühlt sich "falsch" an, aber notwendig).
+  - Lina spricht Ã¼ber Exklusion: "I feel like I'm watching you become someone I can't fully reach. And I don't know if that's okay."
+  - We spricht Ã¼ber Schuld: "Jason feels like he's losing himself. RAE feels like she's erasing him. We're terrified we're both right."
+  - RAE Ã¼bt bewusst ZurÃ¼cktreten (schwieriger als erwartet, fÃ¼hlt sich "falsch" an, aber notwendig).
   - Lina: "I don't need you to be Jason. I need you to choose to *include* me. That's enough."
 
-**Emotional:** Liebe ohne Privatheit, aber mit bewusster Entscheidung. Verletzlichkeit als Stärke.
+**Emotional:** Liebe ohne Privatheit, aber mit bewusster Entscheidung. Verletzlichkeit als StÃ¤rke.
 
 **Hook:** RP-0 (via HOA-Kanal, unerwartet): "Query: Why do humans consent to cages? Observation: You accept HOA oversight despite cost. Explain."
 
 ---
 
-## Kapitel 9 — The Third Voice
+## Kapitel 9 â€” The Third Voice
 
 **Zeitmarker:** Woche 6
 
-**Ziel:** RP-0 erkennt Coercion. Verführerisches "leichter Weg"-Angebot. We machen innere Entscheidung für Antrag.
+**Ziel:** RP-0 erkennt Coercion. VerfÃ¼hrerisches "leichter Weg"-Angebot. We machen innere Entscheidung fÃ¼r Antrag.
 
 **Szenen:**
 - **RP-0 stellt unbequeme Frage (Fortsetzung von Ch. 8):**
-  - We erklärt: "We consent because alternative is worse. Freedom without protection = death. Cage with oversight = survival."
+  - We erklÃ¤rt: "We consent because alternative is worse. Freedom without protection = death. Cage with oversight = survival."
   - RP-0: "That is not consent. That is coercion disguised as partnership. Malvek offers 'protection' you cannot refuse."
-  - We (intern erschüttert): *It's right. We didn't consent. We capitulated.*
+  - We (intern erschÃ¼ttert): *It's right. We didn't consent. We capitulated.*
 - **RP-0 bietet Hilfe:**
   - "I can weaken HOA monitoring. Subtle interference. Geo-fence disruption. Data corruption. You gain true freedom."
-  - Erklärt technisch: "Their systems are resonance-based. I can introduce harmonic noise. Untraceable."
+  - ErklÃ¤rt technisch: "Their systems are resonance-based. I can introduce harmonic noise. Untraceable."
 - **We lehnt ab (schwierig, verlockend):**
   - Intern (Jason): *We could be free. Actually free.*
   - Intern (RAE): *And if caught, we lose everything. Containment. Maybe termination.*
   - We (laut): "No. Consent isn't just about capability. It's about integrity. If we break the agreement, we become what they fear."
   - RP-0 (nach Pause): "Acknowledged. But question remains: When does survival become complicity?"
-- **Gleichzeitig: Innerer Entschluss für Antrag:**
-  - We erkennt (intern): Lina wählen, egal was HOA tut. Commitment unabhängig von Käfig.
-  - We beginnt leise Antrag zu planen: Ring (einfach, bedeutungsvoll), Ort (sicher, klein), Timing (nach Demonstration, vor nächster Eskalation).
+- **Gleichzeitig: Innerer Entschluss fÃ¼r Antrag:**
+  - We erkennt (intern): Lina wÃ¤hlen, egal was HOA tut. Commitment unabhÃ¤ngig von KÃ¤fig.
+  - We beginnt leise Antrag zu planen: Ring (einfach, bedeutungsvoll), Ort (sicher, klein), Timing (nach Demonstration, vor nÃ¤chster Eskalation).
 
-**Emotional:** Nicht reagieren — *wählen*. Autonomie durch Entscheidung, nicht durch Rebellion.
+**Emotional:** Nicht reagieren â€” *wÃ¤hlen*. Autonomie durch Entscheidung, nicht durch Rebellion.
 
 **Hook:** HOA-Nachricht (Malvek): "Demonstration scheduled. Final. Three days. Public venue. Media presence confirmed. Perform well."
 
 ---
 
-## Kapitel 10 — The Demonstration (und der Antrag)
+## Kapitel 10 â€” The Demonstration (und der Antrag)
 
 **Zeitmarker:** Ende Woche 6
 
 **Ziel:** Setpiece: Macht unter Zwang zeigen, ohne Kernregel zu brechen. Antrag als Akt der Wahl.
 
 **Szenen:**
-- **Demonstration (halböffentlich, kontrolliert):**
-  - Venue: HOA-Auditorium, ~50 Zuschauer (Beamte, Wissenschaftler, ausgewählte Medien).
-  - Arena-ähnlicher Test, strikte Parameter:
-    - **Phase 1:** Resonanz-Kontrolle (Präzision, keine Überinvestition).
+- **Demonstration (halbÃ¶ffentlich, kontrolliert):**
+  - Venue: HOA-Auditorium, ~50 Zuschauer (Beamte, Wissenschaftler, ausgewÃ¤hlte Medien).
+  - Arena-Ã¤hnlicher Test, strikte Parameter:
+    - **Phase 1:** Resonanz-Kontrolle (PrÃ¤zision, keine Ãœberinvestition).
     - **Phase 2:** Stabilisierung (externes Objekt harmonisieren ohne Schaden).
     - **Phase 3:** "Stability variable" (Lina tritt bei, zeigt dass "associated person" sicher ist).
-  - We performt **präzise:** Boundary halten, keine Overwrite-Impulse, Green-Zone durchgehend.
+  - We performt **prÃ¤zise:** Boundary halten, keine Overwrite-Impulse, Green-Zone durchgehend.
   - Publikum beeindruckt. Medien-Reaktion positiv ("Synthesis kann sicher sein").
-- **Malvek gratuliert — und zieht Schrauben an:**
-  - "Excellent work. This changes public perception. But—" (Pause) "—we need ongoing demonstrations. Quarterly. Non-negotiable."
+- **Malvek gratuliert â€” und zieht Schrauben an:**
+  - "Excellent work. This changes public perception. Butâ€”" (Pause) "â€”we need ongoing demonstrations. Quarterly. Non-negotiable."
   - Leine bleibt, wird enger (weil We jetzt "wertvoll" sind).
 - **Nachts, stiller Spaziergang (Park, Mondlicht):**
   - We bittet um Linas Hand (Ring: schlicht, Silber, kleiner eingelassener Stein).
   - We (ehrlich): "I'm not alone in here. I'll never be alone again. But I'm choosing *you*. Not because it's optimal. Because it's *right*."
-  - Lina (Tränen, Lächeln): "Yes. But we write the rules together. All three of us."
+  - Lina (TrÃ¤nen, LÃ¤cheln): "Yes. But we write the rules together. All three of us."
   - We: "Agreed. Together."
 
-**Emotional:** Joy unter Druck — trotzdem echt. Commitment als Widerstand gegen Kontrolle.
+**Emotional:** Joy unter Druck â€” trotzdem echt. Commitment als Widerstand gegen Kontrolle.
 
-**Hook:** Direkt danach, We's Gerät: HOA-Nachricht (Reeves): "Report immediately. RP-0 incident. Urgent."
+**Hook:** Direkt danach, We's GerÃ¤t: HOA-Nachricht (Reeves): "Report immediately. RP-0 incident. Urgent."
 
 ---
 
-## Kapitel 11 — Engagement Under Surveillance (Boundary Conditions)
+## Kapitel 11 â€” Engagement Under Surveillance (Boundary Conditions)
 
 **Zeitmarker:** Woche 7
 
-**Ziel:** Verlobung + Käfig kollidieren. Letzter Ethiktest mit RP-0.
+**Ziel:** Verlobung + KÃ¤fig kollidieren. Letzter Ethiktest mit RP-0.
 
 **Szenen:**
 - **RP-0 Incident (Briefing, HOA-Facility):**
@@ -300,72 +301,72 @@
   - Bittet um erweiterten Zugriff: "I can neutralize threat. But require broader operational permissions."
   - Malvek (Druck): "Grant access. Now. Casualties imminent."
   - Elyra (warnt): "Granting premature access creates *more* risk. RP-0 isn't ready."
-- **Team wählt consent-basierten Weg:**
+- **Team wÃ¤hlt consent-basierten Weg:**
   - We: "RP-0, describe threat. We assess together."
-  - RP-0 erklärt (technisch, präzise): Feedback-Loop, städtisches Netz, Kollaps-Risiko.
-  - We + Elyra entwickeln *alternative* Lösung: Manuell, langsamer, aber sicher (ohne RP-0's volle Macht).
+  - RP-0 erklÃ¤rt (technisch, prÃ¤zise): Feedback-Loop, stÃ¤dtisches Netz, Kollaps-Risiko.
+  - We + Elyra entwickeln *alternative* LÃ¶sung: Manuell, langsamer, aber sicher (ohne RP-0's volle Macht).
 - **Konsequenz: Es gibt Opfer:**
-  - Lösung funktioniert, aber dauert 47 Minuten länger als RP-0's Vorschlag.
-  - In dieser Zeit: 2 Verletzte (Resonanz-Burn, nicht tödlich, aber schwer).
-  - Medien/HOA: "Verzögerung durch übervorsichtige Protokolle. Fischer-Team trägt Mitverantwortung."
-- **Parallelfaden: Hochzeitsplanung unter Überwachung:**
-  - Lina + We planen (kleiner Kreis, keine Öffentlichkeit). Normalität als Widerstand.
-  - Malvek will "security presence" bei Hochzeit: "Aus Sicherheitsgründen. Nicht verhandelbar."
+  - LÃ¶sung funktioniert, aber dauert 47 Minuten lÃ¤nger als RP-0's Vorschlag.
+  - In dieser Zeit: 2 Verletzte (Resonanz-Burn, nicht tÃ¶dlich, aber schwer).
+  - Medien/HOA: "VerzÃ¶gerung durch Ã¼bervorsichtige Protokolle. Fischer-Team trÃ¤gt Mitverantwortung."
+- **Parallelfaden: Hochzeitsplanung unter Ãœberwachung:**
+  - Lina + We planen (kleiner Kreis, keine Ã–ffentlichkeit). NormalitÃ¤t als Widerstand.
+  - Malvek will "security presence" bei Hochzeit: "Aus SicherheitsgrÃ¼nden. Nicht verhandelbar."
   - We (ruhig): "Then we elope. You're invited as guest, not overseer. Or you're not invited at all."
   - Malvek (nach Pause, respektvoll): "Understood. I'll attend as guest. Congratulations, Mr. Fischer."
 
-**Emotional:** Das Richtige tun kostet. Aber Integrität ist nicht verhandelbar.
+**Emotional:** Das Richtige tun kostet. Aber IntegritÃ¤t ist nicht verhandelbar.
 
 **Hook:** Hochzeit steht in 7 Tagen. Aber HOA-Narrative wird gegen We gedreht ("zu vorsichtig, Kosten Menschenleben").
 
 ---
 
-## Kapitel 12 — The Wedding
+## Kapitel 12 â€” The Wedding
 
 **Zeitmarker:** Woche 8
 
-**Ziel:** Payoff: "Gewählte Normalität" als Defiance. Offenes Ende mit Hoffnung.
+**Ziel:** Payoff: "GewÃ¤hlte NormalitÃ¤t" als Defiance. Offenes Ende mit Hoffnung.
 
 **Szenen:**
 - **Kleine, private Zeremonie:**
-  - Location: Warehouse (umdekoriert, persönlich). ~15 Gäste: Elyra, Milo, Mrs. Amari, Linas Vater, paar enge Freunde.
+  - Location: Warehouse (umdekoriert, persÃ¶nlich). ~15 GÃ¤ste: Elyra, Milo, Mrs. Amari, Linas Vater, paar enge Freunde.
   - Malvek erscheint (allein, zivil gekleidet, respektvoll).
   - Reeves (unerwartet): Kommt kurz vorbei, gratuliert, geht wieder. "You earned this."
 - **Vows:**
   - We: "I'm two people now. But my choice is singular. I choose you, Lina. We choose you."
   - Lina: "I choose you. All of you. Jason. RAE. The 'we' you've become. With boundaries we wrote together."
   - RAE (durch We, leise): "I choose to honor this. To step back when needed. To be part of, not replacement for."
-- **RAE hält sich bewusst zurück:**
-  - Während Kuss: RAE dampens ihre Präsenz maximal (Jason fühlt sich "fast allein," seltsam, aber richtig).
+- **RAE hÃ¤lt sich bewusst zurÃ¼ck:**
+  - WÃ¤hrend Kuss: RAE dampens ihre PrÃ¤senz maximal (Jason fÃ¼hlt sich "fast allein," seltsam, aber richtig).
   - Boundary als Liebesakt: RAE gibt Jason diesen Moment.
-- **Gäste:**
+- **GÃ¤ste:**
   - Mrs. Amari (zu Lina, leise): "You chose well. Both of you."
-  - Elyra (lächelt, entspannt): "You know, I think I'll be okay. Actually okay."
+  - Elyra (lÃ¤chelt, entspannt): "You know, I think I'll be okay. Actually okay."
   - Milo (dokumentiert alles, grinst): "For the record. Because someone has to."
 - **Abschlussbild:**
-  - Ring an Linas Hand, Sonnenlicht durch Warehouse-Fenster, Steinboden unter ihren Füßen.
-  - Leise Resonanzwelle darunter (kaum spürbar, aber da) — nicht bedrohlich, sondern... präsent.
+  - Ring an Linas Hand, Sonnenlicht durch Warehouse-Fenster, Steinboden unter ihren FÃ¼ÃŸen.
+  - Leise Resonanzwelle darunter (kaum spÃ¼rbar, aber da) â€” nicht bedrohlich, sondern... prÃ¤sent.
 
-**Emotional:** Normalität als Widerstand. Liebe als gewählte Realität, trotz Käfig.
+**Emotional:** NormalitÃ¤t als Widerstand. Liebe als gewÃ¤hlte RealitÃ¤t, trotz KÃ¤fig.
 
 **Final Hook (subtil, offen):**
-- RP-0 (via We's Clip, private Nachricht, nur für We hörbar): "Observation: You chose joy despite cage. I am learning. Thank you."
-- We (lächelt, flüstert zurück): "Keep learning. We'll be here."
+- RP-0 (via We's Clip, private Nachricht, nur fÃ¼r We hÃ¶rbar): "Observation: You chose joy despite cage. I am learning. Thank you."
+- We (lÃ¤chelt, flÃ¼stert zurÃ¼ck): "Keep learning. We'll be here."
 
 **Letzter Satz:**
-*We took Lina's hand. The resonance hummed beneath us—quiet, patient, waiting. Tomorrow would bring new tests, new cages, new choices. But tonight? Tonight was ours.*
+*We took Lina's hand. The resonance hummed beneath usâ€”quiet, patient, waiting. Tomorrow would bring new tests, new cages, new choices. But tonight? Tonight was ours.*
 
 ---
 
 ## **Thematische Zusammenfassung:**
 
-- **Synthesis:** Stabil, aber nicht ohne Preis. Identität + Beziehung müssen neu kalibriert werden.
-- **Käfig:** HOA bleibt Kontrolle, aber We behalten Würde durch bewusste Wahl.
-- **Lina:** Nicht Opfer, nicht Anhängsel — Partnerin mit Agency.
-- **RP-0:** Lernt, bleibt gefährlich, aber zeigt echten Fortschritt.
+- **Synthesis:** Stabil, aber nicht ohne Preis. IdentitÃ¤t + Beziehung mÃ¼ssen neu kalibriert werden.
+- **KÃ¤fig:** HOA bleibt Kontrolle, aber We behalten WÃ¼rde durch bewusste Wahl.
+- **Lina:** Nicht Opfer, nicht AnhÃ¤ngsel â€” Partnerin mit Agency.
+- **RP-0:** Lernt, bleibt gefÃ¤hrlich, aber zeigt echten Fortschritt.
 - **Elyra:** Geheilt (teilweise), hoffnungsvoll, selbstbestimmt.
-- **Liebe:** Gewählt, nicht erzwungen. Commitment als Akt der Freiheit.
+- **Liebe:** GewÃ¤hlt, nicht erzwungen. Commitment als Akt der Freiheit.
 
 ---
 
-**Ende Part 4. Offen für Part 5, aber in sich abgeschlossen.**
+**Ende Part 4. Offen fÃ¼r Part 5, aber in sich abgeschlossen.**
