@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 11 - The richtige tun kostet
+## Part 4 - Boundaries & Becoming | Ch. 11 - Doing right costs
 
 *Week 7*
 
