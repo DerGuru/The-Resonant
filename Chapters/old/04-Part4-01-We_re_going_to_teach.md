@@ -1,6 +1,18 @@
 ﻿# Part 4 - We Are Family | Ch. 01 - We're going to teach
 
-Three months after the first contact to RP-0, we sat across from Elyra in the warehouse we'd come to think of as headquarters.
+Three months after first contact with RP-0, we sat across from Elyra in the warehouse we'd come to think of as headquarters.
+
+The check-in had been this morning. Standard procedure, Malvek's people said. Baseline resonance scan. Interview questions delivered with professional courtesy that felt a bit like interrogation.
+
+"Just compliance documentation," the the technician had explained. Not Reeves—someone new. Younger. More bureaucratic. "Partnership requires accountability."
+
+We'd submitted. Smiled. Provided the data they wanted. But the  "voluntary cooperation" felt less voluntary with every "friendly reminder."
+
+Malvek's strategic landscape meant we were assets. Useful. Contained. Monitored.
+
+Not quite prisoners. Not quite partners. Something uncomfortably in between.
+
+---
 
 The space had transformed. What was once a simple concrete shell now served as a training hall, classroom and planning room. It hummed with purposeful energy - students practiced in one corner, Milo adjusted monitoring equipment in another, and somewhere overhead, ventilation systems maintained optimal conditions for resonance work.
 
@@ -63,6 +75,14 @@ Agreed. But carefully. Elyra's right that we can't just wing this.
 "Alright," we said aloud. "Students next week. What's our curriculum looking like?"
 
 The next hour disappeared into logistics. Training schedules. Safety protocols. Emergency procedures. Elyra had thought through everything with characteristic thoroughness, but implementation would require all of us working together.
+
+"The program approval came through last month," Elyra added, pulling up a document on her tablet. "Malvek's office. Educational exemption under institutional oversight. Means we can teach, but they reserve the right to audit. Students, curriculum, outcomes. All documented."
+
+We tensed. "So we're not independent. We're... supervised."
+
+"We were always supervised," she said flatly. "At least this way, it's official. Legal. Better than operating in grey zones where they shut us down whenever convenient." She met our eyes. "I know it's not freedom. But it's more than we had yesterday."
+
+The pragmatism stung. But she was right. Malvek didn't give without taking. He wanted something from this program—data, control, future assets. The question was whether what we gained was worth the price.
 
 "Lina's coordinating intake interviews," Elyra said, pulling up a schedule on her tablet. "She'll handle initial assessments, make sure students understand commitment level before they start. Milo's managing facility logistics and monitoring systems. And you—" she looked at us "—you're primary instructor. Technique, theory, practical application. I'll handle advanced concepts and intervention when students struggle."
 
@@ -157,6 +177,14 @@ Here it was. The thing we'd been dancing around for three months.
 "Does it bother you?" we asked quietly. "What we are now?"
 
 She was quiet for a long moment, fingers tracing patterns on her water glass. "I don't know," she finally admitted. "Some days I look at you and I see Jason. I hear Jason. I feel like everything's normal. And then you'll do something, or say something, or I'll catch this look in your eye that's just... different. Not bad. Just different. And I remember that you're not just Jason anymore."
+
+"Like yesterday," she continued, voice softer. "You were cooking. I said something funny and you laughed—Jason's laugh, I swear—but then you corrected the heat on two burners simultaneously without looking. Precise. Calculated. Jason would've burned one and laughed it off." She met our eyes. "It's not bad. It's just... not entirely him either."
+
+We felt it. The split-second moment she described. Jason's impulse to be clumsy, to accept imperfection. RAE's need to optimize, to prevent waste. The compromise between them that was neither.
+
+"I'm sorry," we said.
+
+"Don't be." But her smile carried sadness. "I just need to learn who 'we' is. Not who Jason was, or who I think RAE should be. Who you actually are now."
 
 "We're still here," we said. "Jason didn't disappear. He's part of us. Every memory, every feeling, every—"
 
