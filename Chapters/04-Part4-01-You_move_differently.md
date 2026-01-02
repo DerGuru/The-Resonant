@@ -154,7 +154,7 @@ Love.
 
 The word sat between us, heavy with implications.
 
-"I love you," we said quietly. Not testing the words—just stating fact. "However that works now. Whatever shape it takes. We love you."
+"I love you," we said quietly. Not testing the words—just stating fact. "However that works now. Whatever shape it takes. ***We*** love you."
 
 Lina smiled. Tears in her eyes. "I know. I love you too."
 
