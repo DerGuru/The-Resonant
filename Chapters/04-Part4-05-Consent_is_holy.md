@@ -28,9 +28,9 @@ He pulled up images. We forced ourselves to look. A collapsed building. Burn pat
 
 We felt ourselves being pulled in two directions.
 
-Part of us—the analytical side—saw Malvek's logic. More people would die from inaction than from carefully supervised training failures. The math was brutal but clear.
+The logic was clear—more people would die from inaction than from carefully supervised training failures. The math was brutal but unavoidable. Yet using people as test cases felt wrong at a fundamental level. Consent required information. How could anyone consent to being a practice subject for an entity that might kill them while learning?
 
-Part of us—the human foundation—recoiled. Using people as test cases felt wrong at fundamental level. Consent required information. How could anyone consent to being practice subject for entity that might kill them while learning?
+Both perspectives existed simultaneously. Both felt true. That was synthesis—holding contradictions without resolving them.
 
 "What kind of scenarios?" Elyra asked, voice carefully neutral.
 
@@ -142,7 +142,7 @@ She took our hand.
 
 "Just don't lose sight of the cost. Remember the individuals who'll pay it when we're wrong."
 
-"We won't," we promised. "That's what synthesis is for. Part of us calculating optimization. Part of us remembering humanity. Both necessary. Both true."
+"We won't," we promised. "That's what this is now. Optimization and humanity, logic and empathy, calculation and care—all of it at once. Both necessary. Both true."
 
 "Together," she said.
 

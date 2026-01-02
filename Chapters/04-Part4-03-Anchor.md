@@ -4,29 +4,29 @@ Jason's apartment had become a negotiation space.
 
 Not hostile. Not cold. But deliberate. Careful. The kind of space where every word mattered because every word defined boundaries that didn't exist yet.
 
-Elyra sat in the armchair by the window, cane resting against her knee. Milo had claimed the desk chair, laptop closed for once—this conversation needed full attention. Lina and we occupied the couch, close but not touching.
+Elyra sat in the armchair by the window, cane resting against her knee. Milo had claimed the desk chair, laptop closed for onceÂ—this conversation needed full attention. Lina and we occupied the couch, close but not touching.
 
 Five people. Three human. One synthesis. One observer.
 
 Working out how to coexist.
 
-"Let's be clear about purpose," Elyra began, her teacher voice—calm, structured, precise. "We're not here to fix problems. We're here to prevent them. To establish rules *before* boundaries get violated. Agreed?"
+"Let's be clear about purpose," Elyra began, her teacher voiceÂ—calm, structured, precise. "We're not here to fix problems. We're here to prevent them. To establish rules *before* boundaries get violated. Agreed?"
 
 Everyone nodded.
 
-"Good." She pulled out a small notebook—paper, not digital, making it real and permanent. "We'll document everything. Make it concrete. No room for misunderstanding later." She looked at us. "You start. What do you need from Lina?"
+"Good." She pulled out a small notebookÂ—paper, not digital, making it real and permanent. "We'll document everything. Make it concrete. No room for misunderstanding later." She looked at us. "You start. What do you need from Lina?"
 
 We took a breath. This was harder than fighting RP-0.
 
-"Privacy," we said. "Not physical—we know that's complicated now. But... mental. Emotional. Moments where thoughts stay internal. Where we can process without explaining every calculation, every optimization, every internal debate."
+"Privacy," we said. "Not physicalÂ—we know that's complicated now. But... mental. Emotional. Moments where thoughts stay internal. Where we can process without explaining every calculation, every optimization, every internal debate."
 
 "Examples?" Elyra prompted.
 
 "When Lina's upset," we said carefully, looking at her. "We can feel it. Resonance picks up emotional states automatically now. Part of us wants to optimize, smooth it over, help fix whatever's wrong. But sometimes you need to just *feel* things. Without us trying to regulate them. Without immediate intervention."
 
-Lina nodded slowly. "You're right. I do. And when you try to smooth it—even with good intentions—it feels like you're dismissing what I'm feeling. Like my emotions are problems to solve instead of experiences to have."
+Lina nodded slowly. "You're right. I do. And when you try to smooth itÂ—even with good intentionsÂ—it feels like you're dismissing what I'm feeling. Like my emotions are problems to solve instead of experiences to have."
 
-"We're not trying to dismiss—"
+"We're not trying to dismissÂ—"
 
 "I know," she interrupted gently. "But that's what it feels like. So yes. That's a boundary. When I'm upset, you *ask* before helping. Don't just optimize. Wait for permission."
 
@@ -44,19 +44,19 @@ We nodded, feeling relief that rules were forming. "We can do that. We'll wait f
 
 This was harder. More intimate. More vulnerable.
 
-"Signal," Lina said quietly. "A word. When I need it to be *Jason*—as much as possible—I need to be able to ask for that. To know you'll try."
+"Signal," Lina said quietly. "A word. When I need it to be *Jason*Â—as much as possibleÂ—I need to be able to ask for that. To know you'll try."
 
 "We can't fully separate," we said, needing her to understand. "The synthesis is too deep. We're not two people anymore. We're not even two minds with clear boundaries. We're... one consciousness with two origins. Separation isn't possible."
 
 "I know." Lina touched our hand carefully. "But you can... recede. Step back. Give Jason as much presence as possible, even if complete separation isn't achievable. Right?"
 
-Internally, we debated. Part of us—the analytical overlay—resisted. *Stepping back feels wrong. Dangerous. Like willingly diminishing ourselves.*
+Internally, we debated. Part of usÂ—the analytical overlayÂ—resisted. *Stepping back feels wrong. Dangerous. Like willingly diminishing ourselves.*
 
-Part of us—the human foundation—understood. *She needs this. Needs to know she's choosing to be with us, not just accepting whatever configuration we happen to be in.*
+Part of usÂ—the human foundationÂ—understood. *She needs this. Needs to know she's choosing to be with us, not just accepting whatever configuration we happen to be in.*
 
 *Both feelings are ours,* we reminded ourselves. *Not conflict. Just internal negotiation.*
 
-"Yes," we said aloud. "We can do that. Part of us can minimize active processing. Reduce analytical overlay. Let Jason's emotional responses dominate while the rest of us becomes... background. It's not separation—but it's the closest we can approximate."
+"Yes," we said aloud. "We can do that. Part of us can minimize active processing. Reduce analytical overlay. Let Jason's emotional responses dominate while the rest of us becomes... background. It's not separationÂ—but it's the closest we can approximate."
 
 "What's the signal?" Lina asked.
 
@@ -80,7 +80,7 @@ Milo shifted uncomfortably. "Honestly? I'm not sure I need personal boundaries t
 
 "Which is?" Elyra prompted.
 
-"Truth," Milo said firmly. "When I ask what's happening—with the synthesis, with HOA, with anything—I need honest answers. Not optimized answers. Not what you think I should hear. Not calculations of what I can handle. Just truth. Even if it's uncomfortable. Even if it's scary."
+"Truth," Milo said firmly. "When I ask what's happeningÂ—with the synthesis, with HOA, with anythingÂ—I need honest answers. Not optimized answers. Not what you think I should hear. Not calculations of what I can handle. Just truth. Even if it's uncomfortable. Even if it's scary."
 
 "We can do that," we said.
 
@@ -92,25 +92,25 @@ Part of us wanted to hedge. To say we'd try. To build in exceptions for extreme 
 
 Part of us understood that hedging would break Milo's trust before we'd even established it.
 
-"Yes," we said, choosing honesty over comfort. "We'll tell you truth. Not always immediately—sometimes we need time to understand what truth even is when we're arguing with ourselves. But we won't lie. We won't optimize truth away. You have our word."
+"Yes," we said, choosing honesty over comfort. "We'll tell you truth. Not always immediatelyÂ—sometimes we need time to understand what truth even is when we're arguing with ourselves. But we won't lie. We won't optimize truth away. You have our word."
 
 Milo nodded, satisfied. "Good. That's all I need."
 
-Elyra wrote it down. "Boundary Three: Milo receives unfiltered truth when requested. Delayed processing acceptable, but denial or optimization prohibited." She looked at us. "Now—what boundaries do *you* need from them?"
+Elyra wrote it down. "Boundary Three: Milo receives unfiltered truth when requested. Delayed processing acceptable, but denial or optimization prohibited." She looked at us. "NowÂ—what boundaries do *you* need from them?"
 
 This was hardest. Asking for boundaries felt like admitting weakness. Admitting the synthesis wasn't as stable as we claimed.
 
 But we had to.
 
-"Don't ask us to explain every decision," we said quietly. "Sometimes we act on synthesized intuition—Jason's instinct plus analytical calculation plus something that emerges from the combination. We can't always break that down into components. Can't always say 'this part was Jason, this part was RAE.' We need you to trust that we're choosing our actions, not being controlled by one aspect or the other."
+"Don't ask us to explain every decision," we said quietly. "Sometimes we act on synthesized intuitionÂ—Jason's instinct plus analytical calculation plus something that emerges from the combination. We can't always break that down into components. Can't always say 'this part was Jason, this part was RAE.' We need you to trust that we're choosing our actions, not being controlled by one aspect or the other."
 
-"Fair," Lina said. "But if it *looks* like one part is dominating—if it seems like optimization is overriding human judgment—we get to ask. Not accuse. Ask. Can you handle that?"
+"Fair," Lina said. "But if it *looks* like one part is dominatingÂ—if it seems like optimization is overriding human judgmentÂ—we get to ask. Not accuse. Ask. Can you handle that?"
 
 "Yes." We squeezed her hand. "Just... don't assume. Don't treat us like one part is puppeting the other. We're really not separate anymore. Every choice is made by the whole, even when the process isn't clear."
 
 "Boundary Four," Elyra noted. "Trust synthesized decisions. Questions allowed, assumptions about internal control prohibited. Anything else?"
 
-"Red Zone," we said, voice dropping. "If we say 'Red Zone,' it means emergency. Synthesis is destabilizing. Something's wrong. Integration spiking uncontrollably, or dropping catastrophically, or we're losing cohesion. In that moment—"
+"Red Zone," we said, voice dropping. "If we say 'Red Zone,' it means emergency. Synthesis is destabilizing. Something's wrong. Integration spiking uncontrollably, or dropping catastrophically, or we're losing cohesion. In that momentÂ—"
 
 We couldn't finish.
 
@@ -122,7 +122,7 @@ Elyra wrote it carefully. "Boundary Five: 'Red Zone' indicates synthesis instabi
 
 She set down the pen. Looked at all of us.
 
-"That's a good start. But we need practice. Boundaries only work if they're reflexive. So—" She stood. "Let's test one. Right now. Lina, you're upset about something. Show us how the boundary works."
+"That's a good start. But we need practice. Boundaries only work if they're reflexive. SoÂ—" She stood. "Let's test one. Right now. Lina, you're upset about something. Show us how the boundary works."
 
 Lina blinked. "What?"
 
@@ -162,7 +162,7 @@ Silence. Then Lina spoke.
 
 "What if boundaries conflict? If I need space but you need presence? If truth hurts someone? If asking permission takes too long in emergency?"
 
-"Then we negotiate," Elyra said. "In real time. Like adults. Boundaries aren't absolute—they're starting points for conversation. But they give us language. Structure. Ways to talk about needs before they become crises." She held up the notebook. "This document stays with Lina. She's the keeper. We all sign it. And we revisit it weekly. Add boundaries. Adjust ones that don't work. Treat it like living document that grows with us."
+"Then we negotiate," Elyra said. "In real time. Like adults. Boundaries aren't absoluteÂ—they're starting points for conversation. But they give us language. Structure. Ways to talk about needs before they become crises." She held up the notebook. "This document stays with Lina. She's the keeper. We all sign it. And we revisit it weekly. Add boundaries. Adjust ones that don't work. Treat it like living document that grows with us."
 
 "Because synthesis is a living process," we said.
 
@@ -208,7 +208,7 @@ But also... intimate. Vulnerable. Honest.
 
 "Hi," Lina said, looking at our face like she was searching for someone specific.
 
-"Hi," we—Jason, mostly—said back.
+"Hi," weÂ—Jason, mostlyÂ—said back.
 
 "Is this you? Really you?"
 

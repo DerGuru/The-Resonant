@@ -1,7 +1,5 @@
 ## Part 4 - Boundaries & Becoming | Ch. 06 - We choose you. Always.
 
-*Week 3*
-
 "This feels like hiding," we said, watching Lina demonstrate the third burner phone technique in as many hours.
 
 "It's not hiding," she replied patiently, showing us how to swap SIM cards without leaving digital traces. "It's *surviving*. HOA watches. We make it boring to watch."

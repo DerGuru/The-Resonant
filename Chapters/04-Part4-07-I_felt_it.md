@@ -116,76 +116,84 @@ Mrs. Amari had sat down heavily, clearly drained from holding boundary for fifte
 
 Lina moved to embrace her. Elyra held on like drowning person finding surface.
 
-We gave them space. Moved to sit beside Mrs. Amari.
+I gave them space. Moved to sit beside Mrs. Amari.
 
-"Thank you," we said quietly. "For doing this. For risking it."
+"Thank you," I said quietly. "For doing this. For risking it."
 
-"You're welcome." She looked at us with that uncanny perception she sometimes showed. "You're not excluded, you know. From what Lina and Jason have. From what any of this means."
+"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. "Something's different."
 
-"We know," we said. "But sometimes we feel like we're watching it from inside glass. Present but separate."
+"Different how?"
 
-"That's not exclusion," Mrs. Amari said. "That's just being different. Different doesn't mean less." She paused. "And Lina knows that. She's not choosing Jason despite you. She's choosing both. The whole. The 'we.'"
+"I'm not sure." She tilted her head slightly. "You move differently. Feel differently. Like..." She paused, searching for words. "Like you've settled into yourself. Does that make sense?"
 
-"How do you know?" we asked.
+I thought about it. "Yes. I think it does."
 
-"Because I've been watching. Because I remember what love looks like when it's real." She stood, still tired but steady. "She looks at you—all of you—like you're whole. Not broken. Not compromise. Whole."
+"Good." She smiled slightly. "You're not excluded, you know. From what matters. From love, from connection, from all of it. Just because you're different doesn't mean you're outside."
+
+"I know," I said. "Sometimes it felt like watching from inside glass. Present but separate. But not anymore."
+
+"No," Mrs. Amari agreed, still studying me. "Not anymore. You're here now. Fully here." She paused. "And Lina knows that. She's choosing you. All of you. Whole."
+
+"How do you know?" I asked.
+
+"Because I've been watching. Because I remember what love looks like when it's real." She stood, still tired but steady. "She looks at you like you're whole. Not broken. Not compromise. Whole."
 
 She moved toward the door, then paused.
 
-"And for the record: You're the one who holds boundaries now. Not for this ritual. For her. You're the one who gives her space when she needs it, presence when she asks, choice when it matters. That's not lesser. That's essential."
+"And for the record: You're the one who holds boundaries now. Not for this ritual. For her. You give her space when she needs it, presence when she asks, choice when it matters. That's not lesser. That's essential."
 
-She left before we could respond.
+She left before I could respond.
 
 ---
 
-Later, after everything was cleaned up, after Elyra had rested, after Milo had documented everything, Lina and we walked home.
+Later, after everything was cleaned up, after Elyra had rested, after Milo had documented everything, Lina and I walked home.
 
 "That was beautiful," she said quietly. "Seeing her hope. Seeing it work."
 
-"Twenty percent," we said. "Not full restoration. Not complete healing. But something."
+"Twenty percent," I said. "Not full restoration. Not complete healing. But something."
 
 "Sometimes something is everything," Lina replied.
 
-We walked in silence for a block. Then she said, "Mrs. Amari talked to you. At the end. What did she say?"
+I walked in silence for a block. Then she said, "Mrs. Amari talked to you. At the end. What did she say?"
 
-We told her. About boundaries. About wholeness. About how Lina looked at us.
+I told her. About boundaries. About wholeness. About how Lina looked at me.
 
-"She's right," Lina said simply. "I do see you as whole. Not despite synthesis. Not in spite of what you've become. Just... whole. Complete. The person—people—whatever—that I choose."
+"She's right," Lina said simply. "I do see you as whole. Not despite synthesis. Not in spite of what you've become. Just... whole. Complete. The person I choose."
 
-"We don't know if we're person anymore," we admitted. "Singular. If 'we' is one or two or something between."
+"I don't know if I'm singular or something else," I admitted. "If what I am has a name that makes sense."
 
 "Does it matter?" she asked.
 
-We thought about that. Really thought about it.
+I thought about that. Really thought about it.
 
-"No," we said finally. "It doesn't. We're we. However that's counted. Whatever that means. We're here. We're choosing you. That's what matters."
+"No," I said finally. "It doesn't. I'm here. I'm choosing you. That's what matters."
 
-"Good." She took our hand. "Then let's go home. I'm exhausted. You're exhausted. We need rest before the demonstration."
+"Good." She took my hand. "Then let's go home. I'm exhausted. You're exhausted. We need rest before the demonstration."
 
 The demonstration. One week away now.
 
-We'd almost forgotten again.
+I'd almost forgotten again.
 
 ---
 
-That night, lying in bed with Lina beside us, we felt something we hadn't felt in weeks:
+That night, lying in bed with Lina beside me, I felt something I hadn't felt in weeks:
 
 Contentment.
 
-Not happiness exactly. Not peace. But contentment. The sense that despite everything—HOA, surveillance, synthesis, transformation—we were exactly where we chose to be.
+Not happiness exactly. Not peace. But contentment. The sense that despite everything—HOA, surveillance, synthesis, transformation—I was exactly where I chose to be.
 
-With someone who chose us back.
+With someone who chose me back.
 
-All of us.
-
-Together.
+Sleep came easier than it had in weeks.
 
 ---
 
 *Tomorrow would bring new pressures.*
 
-*But tonight: hope made real.*
+*But tonight: transformation, quiet and complete.*
 
-*Twenty percent wasn't everything.*
+*Twenty percent wasn't everything for Elyra.*
 
-*But sometimes, it was enough.*
+*But for me? It was enough.*
+
+*More than enough.*

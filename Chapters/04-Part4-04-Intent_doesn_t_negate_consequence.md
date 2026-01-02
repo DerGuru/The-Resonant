@@ -154,11 +154,11 @@ Hoping it learned before someone died.
 
 "Do you think it can learn?" she asked quietly.
 
-"We don't know," we admitted. "Part of us thinks yes—it updated parameters, recognized error, that's growth. Part of us thinks no—the underlying architecture might be too fundamentally broken. It might always default to optimization over consent when pressure increases."
+"We don't know," we admitted. "It updated parameters, recognized error—that's growth. But the underlying architecture might be too fundamentally broken. It might always default to optimization over consent when pressure increases. Both possibilities feel equally true."
 
-"Which part is right?"
+"Which one is right?"
 
-"Both. Neither. We don't know." We took her hand. "But we keep trying. Because the alternative—giving up, letting RP-0 stay dangerous—that's worse."
+"Maybe both. Maybe neither. We don't know." We took her hand. "But we keep trying. Because the alternative—giving up, letting RP-0 stay dangerous—that's worse."
 
 "Even if trying gets people hurt?"
 

@@ -18,11 +18,7 @@ Two guards—not aggressive, but armed—fell into step beside us as we entered. Esc
 
 We followed them through security. ID verification. Resonance scan—more invasive than before, measuring deeper, recording everything. We felt it probe our synthesis, catalog the integration depth, map the boundaries between Jason and RAE that no longer quite existed.
 
-*They're building a profile,* part of us observed. *Capability assessment. Threat evaluation.*
-
-*We're not a threat,* another part protested.
-
-*To them? We're the definition of threat. Unknown variables are always dangerous.*
+They were building a profile. Capability assessment. Threat evaluation. We weren't a threat—at least, we didn't want to be. But to them? We were the definition of threat. Unknown variables were always dangerous.
 
 The guards led us to a different wing than before. Deeper. More secure. The walls here had suppression fields embedded—we felt them pressing against our awareness, dampening, constraining. Like trying to breathe through wet cloth.
 
@@ -134,9 +130,7 @@ Lina took our hand. Squeezed once. Solidarity.
 
 "Then public fear increases. Regulations tighten. Other integrated individuals lose what few freedoms they have. The precedent you set—cooperation or resistance—affects everyone who comes after you." He paused, letting that sink in. "You succeeded where RP-0 failed. That matters. But only if we can demonstrate it publicly. Only if people can see that synthesis doesn't automatically mean danger."
 
-*Hostage logic,* part of us thought bitterly.
-
-*Pragmatic logic,* another part countered. *He's right. Public perception drives policy. We can either shape that perception or let fear do it for us.*
+Hostage logic. But also pragmatic logic. He was right—public perception drove policy. We could either shape that perception or let fear do it for us.
 
 We looked at Lina. She looked back, reading the question in our expression.
 
