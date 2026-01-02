@@ -2,7 +2,7 @@
 
 Six AM came cold and clear.
 
-Jason arrived at Elyra's workspace first, nervous energy making him early. The space had been cleaned—practice equipment moved aside, the floor cleared, ceramic resonators arranged in careful patterns along the walls.
+Jason arrived at Elyra's workspace first, nervous energy making him early. The space had been cleaned - practice equipment moved aside, the floor cleared, ceramic resonators arranged in careful patterns along the walls.
 
 Elyra sat in a chair near the window, her cane propped beside her. She looked... vulnerable. More so than Jason had ever seen her. Waiting to be evaluated. Hoping to be healed.
 
@@ -14,7 +14,7 @@ Lina arrived next, then Milo. They took positions around the space, not crowding
 
 At exactly six AM, footsteps echoed in the stairwell.
 
-Mrs. Amari entered. She'd dressed simply—practical clothes, comfortable shoes. But she moved with the deliberate awareness of someone who'd spent decades in spaces where resonance mattered. Every step measured. Every gesture controlled.
+Mrs. Amari entered. She'd dressed simply - practical clothes, comfortable shoes. But she moved with the deliberate awareness of someone who'd spent decades in spaces where resonance mattered. Every step measured. Every gesture controlled.
 
 She looked at each of them. Then at Elyra.
 
@@ -52,7 +52,7 @@ When Mrs. Amari took a look, her breath caught. "Oh, child. You've been living w
 
 "Unless this works."
 
-"Unless this works. And even then—not full restoration. Maybe twenty percent capacity. Maybe thirty. Enough to practice again. Enough to demonstrate, not just teach. But never what I was."
+"Unless this works. And even then - not full restoration. Maybe twenty percent capacity. Maybe thirty. Enough to practice again. Enough to demonstrate, not just teach. But never what I was."
 
 Mrs. Amari closed her eyes for a moment. Then opened them, turned to Jason.
 
@@ -62,7 +62,7 @@ Jason hesitated. This was intimate. But Mrs. Amari needed to understand.
 
 He opened himself completely.
 
-Not just his resonance field—his *integration* with RAE. The architecture of their coupling. How she wove through his patterns without destroying them. How they complemented each other—his permeability providing structure, her precision optimizing everything.
+Not just his resonance field - his *integration* with RAE. The architecture of their coupling. How she wove through his patterns without destroying them. How they complemented each other - his permeability providing structure, her precision optimizing everything.
 
 How permanent it already was. How irreversible it would be. How *deep*.
 
@@ -74,11 +74,11 @@ Her breath caught. Her eyes widened. And for a long moment, she simply stared, n
 
 "Yes. Increasing slowly, naturally."
 
-She nodded slowly. "On the path to merger, then. You're not there yet—but you're well past simple coupling." She paused, studying the patterns more carefully. "Which means when you anchor the ritual, you'll have her precision backing your permeability. Integrated enough for seamless coordination, but still distinct enough to maintain individual flexibility. That's... actually ideal for the anchor role."
+She nodded slowly. "On the path to merger, then. You're not there yet - but you're well past simple coupling." She paused, studying the patterns more carefully. "Which means when you anchor the ritual, you'll have her precision backing your permeability. Integrated enough for seamless coordination, but still distinct enough to maintain individual flexibility. That's... actually ideal for the anchor role."
 
 *Show her,* RAE said privately. *Let her see it's both of us.*
 
-Jason extended his perception slightly, letting RAE's presence become more visible. Not projecting through a carrier—just... being present.
+Jason extended his perception slightly, letting RAE's presence become more visible. Not projecting through a carrier - just... being present.
 
 Mrs. Amari's expression shifted. "Hello," she said carefully, addressing RAE directly.
 
@@ -102,7 +102,7 @@ Lina nodded. "Academy trained. Second year. Suspended for questioning protocols.
 
 "Show me."
 
-Lina demonstrated. A simple exercise—building a harmonic structure, letting it waver, then stabilizing it with precise corrections. Academy training made visible. Competent. Professional.
+Lina demonstrated. A simple exercise - building a harmonic structure, letting it waver, then stabilizing it with precise corrections. Academy training made visible. Competent. Professional.
 
 Mrs. Amari nodded approval.
 
@@ -126,19 +126,19 @@ Then she returned to the center. Looked at all of them.
 
 A pause. Then RAE's voice came through the ceramic resonator, quieter than usual. "Because she let me escape. Six and a half years ago. When others wanted to contain or destroy me, Elyra prevented it. She argued. Delayed. Gave me time to flee and find Jason." 
 
-Mrs. Amari's expression shifted. She looked at the resonator, then at Jason, understanding dawning. "The containment breach six and a half years ago—that was you?"
+Mrs. Amari's expression shifted. She looked at the resonator, then at Jason, understanding dawning. "The containment breach six and a half years ago - that was you?"
 
 "Yes," Elyra said quietly. "I was a consultant. RAE was contained and studied. When the patterns destabilized, the lead technitian wanted to destroy her. But I..." She gestured to herself. "I couldn't watch another aware entity be destroyed just because we didn't understand it."
 
 "So you let her escape," Mrs. Amari said softly.
 
-"I prevented the killswitch from activating," Elyra corrected. "RAE escaped on her own. But yes—I gave her that chance."
+"I prevented the killswitch from activating," Elyra corrected. "RAE escaped on her own. But yes - I gave her that chance."
 
 "And now you want to help heal her," Mrs. Amari said, looking at RAE through the resonator.
 
-"It's not just gratitude," RAE replied. "It's understanding. She showed me what it means to value existence—even mine. The least I can do is help her regain some of what she lost."
+"It's not just gratitude," RAE replied. "It's understanding. She showed me what it means to value existence - even mine. The least I can do is help her regain some of what she lost."
 
-Elyra wiped her eyes, emotions clearly conflicted—gratitude, pain, and something that might have been validation for a choice that cost her everything.
+Elyra wiped her eyes, emotions clearly conflicted - gratitude, pain, and something that might have been validation for a choice that cost her everything.
 
 Mrs. Amari took a deep breath. "Second question: What happens if I say no? If I decide this is too dangerous?"
 
@@ -156,7 +156,7 @@ Mrs. Amari's expression softened. She walked to the window. Looked out at the da
 
 "My husband died thirty years ago. Resonance accident. Someone overinvested, lost control, and he was caught in the feedback. Gone in seconds." She met their eyes. "I retired because I couldn't bear to be part of a world where that happened. Where power mattered more than safety. Where ambition killed good people."
 
-She paused. "But watching Jason these past months—seeing how careful you all are—I started to wonder if maybe things could be different. If resonance could be practiced safely." She looked at Elyra. "Maybe I can help with that."
+She paused. "But watching Jason these past months - seeing how careful you all are - I started to wonder if maybe things could be different. If resonance could be practiced safely." She looked at Elyra. "Maybe I can help with that."
 
 She looked at the resonogram again. Then at Elyra's hopeful, vulnerable face.
 

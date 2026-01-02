@@ -65,7 +65,7 @@
 
 **The conversation:**
 
-> "There's that Italian place near the old theater. The owner's from Venice—makes his mother's risotto."
+> "There's that Italian place near the old theater. The owner's from Venice - makes his mother's risotto."
 > 
 > "Risotto bianco al Polpo e Vongole?" Lina's face lit up with recognition.
 > 
@@ -125,7 +125,7 @@
 
 **The setup:**
 
-> Scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children played—laughing, running, oblivious. Two adults supervised, equally unaware of the structure groaning above them.
+> Scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children played - laughing, running, oblivious. Two adults supervised, equally unaware of the structure groaning above them.
 
 **Why this is perfect:**
 
@@ -154,7 +154,7 @@
 
 > "Lina! Milo!" His voice cut through the ambient noise, sharp and commanding in a way they'd never heard from him. "Get those kids out. Now!"
 > 
-> "Jason—" Lina started.
+> "Jason - " Lina started.
 > 
 > "Move!" He was already reaching out, feeling for the scaffold's resonance. "You have thirty seconds. Maybe less."
 
@@ -167,7 +167,7 @@
 - Gives specific time limit (30 seconds)
 
 **Lina's reaction:**
-- Starts to question ("Jason—")
+- Starts to question ("Jason - ")
 - But his tone cuts through confusion
 - She runs (trusts his certainty)
 - Milo follows (team responds)
@@ -210,14 +210,14 @@
 - Each response shorter, more certain
 
 **RAE's choice:**
-> *Jason—*
+> *Jason - *
 > 
 > ***Help me! Please!***
 > 
 > She did.
 
 **Perfect beat:**
-- RAE's last hesitation (Jason—)
+- RAE's last hesitation (Jason - )
 - Jason's desperate plea (Help me! Please!)
 - RAE's decision (She did.)
 - Three lines, massive choice
@@ -252,7 +252,7 @@
 
 > Blood ran from Jason's nose. He tasted copper.
 > 
-> "Huuuurry!" The scream tore from his throat—raw, desperate, prolonged—releasing a fraction of the unbearable pressure crushing his mind.
+> "Huuuurry!" The scream tore from his throat - raw, desperate, prolonged - releasing a fraction of the unbearable pressure crushing his mind.
 
 **Perfect execution:**
 
@@ -302,7 +302,7 @@
 
 **The edge:**
 
-> Jason felt something in his cognitive patterns strain and stretch and threaten to *snap*—
+> Jason felt something in his cognitive patterns strain and stretch and threaten to *snap* - 
 
 **Three verbs describing degradation:**
 - **Strain** - Pushing limits
@@ -432,14 +432,14 @@
 
 **The breakdown:**
 
-> "Don't." Lina stood abruptly, turned away. "Don't joke. We thought—" She stopped. Took a breath. "Your nose wouldn't stop bleeding. You were unconscious before you hit the ground. The paramedics couldn't find anything wrong, but you wouldn't wake up."
+> "Don't." Lina stood abruptly, turned away. "Don't joke. We thought - " She stopped. Took a breath. "Your nose wouldn't stop bleeding. You were unconscious before you hit the ground. The paramedics couldn't find anything wrong, but you wouldn't wake up."
 
 **Why this is powerful:**
 
 **Lina losing composure:**
 - "stood abruptly" - Can't sit still
 - "turned away" - Can't face him
-- "We thought—" - Can't finish sentence
+- "We thought - " - Can't finish sentence
 - She who is always in control
 
 **The details she remembers:**
@@ -466,7 +466,7 @@
 
 > "Minimum," RAE continued. "I recommend a week. Your body needs time to heal."
 > 
-> Jason wanted to argue. A week felt like forever when there was so much to do, so much to learn. But the exhaustion pulling at him, the dull throb in his head—he knew she was right.
+> Jason wanted to argue. A week felt like forever when there was so much to do, so much to learn. But the exhaustion pulling at him, the dull throb in his head - he knew she was right.
 > 
 > "Fine," he said quietly. "A week."
 
@@ -549,7 +549,7 @@
 - All three identifiable positions
 
 **The reassurance:**
-> "But your face isn't clear," Milo added quickly. "Distance, angle, chaos. Most people think it's just coincidence—right place, right time, medical emergency from stress."
+> "But your face isn't clear," Milo added quickly. "Distance, angle, chaos. Most people think it's just coincidence - right place, right time, medical emergency from stress."
 
 **For normal people:**
 - Face not clear (can't identify)
@@ -564,7 +564,7 @@
 
 > "Not everyone," RAE confirmed. "Anyone with knowledge of resonance work who sees that video will recognize what they're witnessing. The timing is too precise. Your position too deliberate."
 > 
-> She paused, her voice dropping lower. "And what you did—stabilizing a failing structure of that size in real-time—that's master-level work, Jason. Possibly beyond. Anyone who understands resonance will know that whoever did this is either exceptionally precise or exceptionally powerful. Possibly both."
+> She paused, her voice dropping lower. "And what you did - stabilizing a failing structure of that size in real-time - that's master-level work, Jason. Possibly beyond. Anyone who understands resonance will know that whoever did this is either exceptionally precise or exceptionally powerful. Possibly both."
 
 **Why this is terrifying:**
 
@@ -614,7 +614,7 @@
 
 **The reveal:**
 
-> "Jason—" Lina started.
+> "Jason - " Lina started.
 > 
 > "I don't..." He met her eyes. "I just..."
 > 
@@ -651,7 +651,7 @@
 
 > The building's front door opened. Mrs. Amari stepped out, keys in hand, then froze when she saw them.
 > 
-> "Jason." Her eyes took in everything—his pale face, his unsteady gait, the way Lina and Milo flanked him protectively. "What happened?"
+> "Jason." Her eyes took in everything - his pale face, his unsteady gait, the way Lina and Milo flanked him protectively. "What happened?"
 
 **Perfect observer:**
 - Exits building (timing)
@@ -686,7 +686,7 @@
 
 > In the enclosed space, she studied him. "You know, I've lived in this building a very long time. I see things."
 > 
-> Jason's awareness prickled despite his exhaustion. He could feel her resonance—concern, fear, protective instinct.
+> Jason's awareness prickled despite his exhaustion. He could feel her resonance - concern, fear, protective instinct.
 > 
 > "Things?" he echoed.
 > 
@@ -780,7 +780,7 @@
 
 **The interpretation:**
 
-> Jason leaned against the wall, exhaustion overwhelming. But beneath it, he could still feel the echo of Mrs. Amari's resonance—genuine concern, protective fear, the instinct to shield him from something she didn't understand.
+> Jason leaned against the wall, exhaustion overwhelming. But beneath it, he could still feel the echo of Mrs. Amari's resonance - genuine concern, protective fear, the instinct to shield him from something she didn't understand.
 > 
 > "She's worried," he said quietly. "Not curious. Not threatening. Just... worried. Like she's seen something bad coming and doesn't know how to warn us properly."
 
@@ -884,7 +884,7 @@
 - Too exhausted for more
 
 **The final beat:**
-> And despite everything—the pain, the fear, the complications—Jason felt something unexpected.
+> And despite everything - the pain, the fear, the complications - Jason felt something unexpected.
 > 
 > Hope.
 > 
@@ -1215,7 +1215,7 @@ Both already corrected in current version:
 
 ## Alpha Reader's Gut Reaction
 
-*"The opening is perfect - week of training summarized, they're making progress, getting dinner. Normal. Then Jason feels it - Discord. Sharp and wrong. They round the corner and scaffold is failing, kids playing below, oblivious. Jason COMMANDS Lina and Milo - 'Get those kids out. Now!' They've never heard him like this but they move. RAE warns this is dangerous, Jason says 'Then we don't fail,' she helps. He's stabilizing it, conducting an orchestra where every instrument is screaming. Nosebleed. The scream - 'Huuuurry!' - raw and desperate. Kid trips, Milo scoops her up. Jason at the edge of snapping. 'Clear!' He lets go. Scaffold falls. They're safe. Jason's falling. Then - 'Sixteen hours.' SIXTEEN HOURS unconscious. Lina crying. 'We thought—' Can't finish. Video exists. Hundreds of shares. Master-level work visible. 'Not everyone' will think it's coincidence. 'We have a problem.' Hospital trauma - grandmother died there. Mrs. Amari sees everything. 'You have been noticed. And not everyone who notices is friendly.' Flower memory - six years ago, first day, Jason helped. 'Don't let whatever this is take away the good person you are.' Jason reads her: genuine concern, protective fear. Window moment - video spreading, witnesses talking, Mrs. Amari watching. They saved lives. But they've been seen. Phone buzzes - another share. Collapses fully clothed. 'Together,' he agrees. And despite everything - Hope. YES. This chapter takes everything from P2-01 and stress-tests it in real crisis. Jason leads, team responds, kids saved, but now exposed. Can't hide anymore. Perfect Part 2 escalation."*
+*"The opening is perfect - week of training summarized, they're making progress, getting dinner. Normal. Then Jason feels it - Discord. Sharp and wrong. They round the corner and scaffold is failing, kids playing below, oblivious. Jason COMMANDS Lina and Milo - 'Get those kids out. Now!' They've never heard him like this but they move. RAE warns this is dangerous, Jason says 'Then we don't fail,' she helps. He's stabilizing it, conducting an orchestra where every instrument is screaming. Nosebleed. The scream - 'Huuuurry!' - raw and desperate. Kid trips, Milo scoops her up. Jason at the edge of snapping. 'Clear!' He lets go. Scaffold falls. They're safe. Jason's falling. Then - 'Sixteen hours.' SIXTEEN HOURS unconscious. Lina crying. 'We thought - ' Can't finish. Video exists. Hundreds of shares. Master-level work visible. 'Not everyone' will think it's coincidence. 'We have a problem.' Hospital trauma - grandmother died there. Mrs. Amari sees everything. 'You have been noticed. And not everyone who notices is friendly.' Flower memory - six years ago, first day, Jason helped. 'Don't let whatever this is take away the good person you are.' Jason reads her: genuine concern, protective fear. Window moment - video spreading, witnesses talking, Mrs. Amari watching. They saved lives. But they've been seen. Phone buzzes - another share. Collapses fully clothed. 'Together,' he agrees. And despite everything - Hope. YES. This chapter takes everything from P2-01 and stress-tests it in real crisis. Jason leads, team responds, kids saved, but now exposed. Can't hide anymore. Perfect Part 2 escalation."*
 
 **Would I keep reading?** Absolutely. What happens when the Council sees the video? How does Mrs. Amari's knowledge play out? Can Jason recover in time? Who else is watching?
 
@@ -1229,7 +1229,7 @@ Both already corrected in current version:
 
 **Second strongest:** "You have been noticed" - Mrs. Amari's warning after the flower memory. Personal care combined with existential threat. The title moment that captures Jason's new reality: visible, exposed, hunted.
 
-**Third strongest:** Lina's tears - "We thought—" she can't finish. The tough, strategic one breaking down because she thought Jason would never wake up. Shows depth of relationship, terror of loss, relief of survival all at once.
+**Third strongest:** Lina's tears - "We thought - " she can't finish. The tough, strategic one breaking down because she thought Jason would never wake up. Shows depth of relationship, terror of loss, relief of survival all at once.
 
 **Hook effectiveness:** Exceptional. Part 1 was Jason learning his abilities. Part 2 started with controlled training. Now he's used those abilities publicly, successfully, and catastrophically. Can't go back. Must move forward into whatever "being noticed" brings.
 

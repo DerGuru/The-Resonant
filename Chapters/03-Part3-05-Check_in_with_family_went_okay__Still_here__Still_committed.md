@@ -72,15 +72,15 @@ Lina laughed despite herself. "Yeah. She would."
 
 "Yes, chef." She paused at the door, turned back. "Hey, Dad? Remember that Venetian place across town? The one with the risotto bianco Jason's always going on about? With the octopus and clams?"
 
-Her father smiled—a real smile this time, chef to chef. "Bortoletto's. Good kitchen. The old man knows his stock work. His seafood risotto is... proper. Clean broth, good timing on the polpo."
+Her father smiled - a real smile this time, chef to chef. "Bortoletto's. Good kitchen. The old man knows his stock work. His seafood risotto is... proper. Clean broth, good timing on the polpo."
 
 "Think we could do something like that here? Not copy it, but... our version?"
 
-He considered that. "Your mother had her own way with rice dishes. Taught me patience, precision—the way she'd been taught." He smiled, softer now. "But my mother—your nonna—she made a risotto. Friulian style. With radicchio and speck. I still have her notes, from before she passed."
+He considered that. "Your mother had her own way with rice dishes. Taught me patience, precision - the way she'd been taught." He smiled, softer now. "But my mother - your nonna - she made a risotto. Friulian style. With radicchio and speck. I still have her notes, from before she passed."
 
 "Could you teach me?"
 
-"Tomorrow night. After close. Bring Jason if you want—he has good taste, that one. Should learn to appreciate more than just takeout." His expression softened. "Your nonna would like that. And your mother would approve—she always said good food brings people together, no matter where it comes from."
+"Tomorrow night. After close. Bring Jason if you want - he has good taste, that one. Should learn to appreciate more than just takeout." His expression softened. "Your nonna would like that. And your mother would approve - she always said good food brings people together, no matter where it comes from."
 
 "Thanks, Dad."
 

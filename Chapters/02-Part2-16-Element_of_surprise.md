@@ -35,7 +35,7 @@ Team Leader Reeves stepped into the hotel lobby. Showed credentials to the night
 
 "Good morning. I need access to rooms 314, 316, and 318." He laid an official HOA warrant on the counter. Stamped. Signed. "This authorizes immediate entry. Keys, please."
 
-The clerk's hands shook as he typed. "Sir, I—"
+The clerk's hands shook as he typed. "Sir, I - "
 
 "I understand. But this is time-sensitive." Reeves kept his voice level. "The keys, please. We'll handle it from here."
 
@@ -43,7 +43,7 @@ The clerk fumbled with the keyboard. Pulled three keycards from the drawer.
 
 "Thank you." Reeves took them. "Stay at your desk. We'll be done shortly."
 
-His team moved toward the stairwell. Silent. Professional. No weapons visible—yet.
+His team moved toward the stairwell. Silent. Professional. No weapons visible - yet.
 
 Reeves knew how this looked. Knew what the clerk was thinking.
 

@@ -2,13 +2,13 @@
 
 The containment chamber was perfect for what they were about to attempt.
 
-Circular. Twenty meters across. Stone floor with the embedded resonogram—the pattern Elyra had designed, etched into the conductive metal. Suppression fields on standby, ready to activate if the communication attempt went catastrophically wrong.
+Circular. Twenty meters across. Stone floor with the embedded resonogram - the pattern Elyra had designed, etched into the conductive metal. Suppression fields on standby, ready to activate if the communication attempt went catastrophically wrong.
 
 "This is better than I expected," Elyra said, examining the setup. "Your organization has resources."
 
 "We have necessity," Malvek replied. He stood at the chamber's edge, observing preparations. "If you can reach RP-0 and convince it to choose RAE's path, it'll be worth far more than the resources invested."
 
-They marked positions on the resonogram. Jason at center—alone. The primary contact point, with RAE as his only partner in the attempt. Elyra, Lina, and Milo positioned at the chamber's edge as observers, ready to intervene if things went catastrophically wrong. Malvek at the control station, hand hovering over the emergency containment activation.
+They marked positions on the resonogram. Jason at center - alone. The primary contact point, with RAE as his only partner in the attempt. Elyra, Lina, and Milo positioned at the chamber's edge as observers, ready to intervene if things went catastrophically wrong. Malvek at the control station, hand hovering over the emergency containment activation.
 
 "I still don't like that you're doing this alone," Lina said.
 
@@ -20,14 +20,14 @@ Malvek studied the positioning for a moment, then nodded. "I'll monitor from the
 
 "Understood," Jason said. "And... appreciated."
 
-"Don't thank me yet," Malvek replied. "If I have to trigger suppression, it means you've failed—and possibly died. I'd prefer neither."
+"Don't thank me yet," Malvek replied. "If I have to trigger suppression, it means you've failed - and possibly died. I'd prefer neither."
 
 "So would I," Jason said with a slight smile.
 
 
-Final preparations took three hours. Checking alignments. Testing Jason's resonance responses. Ensuring everyone understood their roles—Jason's approach sequence, the observers' monitoring protocols, Malvek's emergency triggers.
+Final preparations took three hours. Checking alignments. Testing Jason's resonance responses. Ensuring everyone understood their roles - Jason's approach sequence, the observers' monitoring protocols, Malvek's emergency triggers.
 
-By late afternoon, the chamber was ready. But the attempt itself wouldn't begin until dawn—optimal resonance conditions, Elyra insisted. That gave them one night to prepare mentally. One night to face what they were about to attempt.
+By late afternoon, the chamber was ready. But the attempt itself wouldn't begin until dawn - optimal resonance conditions, Elyra insisted. That gave them one night to prepare mentally. One night to face what they were about to attempt.
 
 "Rest. All of you, but especially you, Jason." Elyra commanded pointing at him. "Tomorrow requires clarity, not exhaustion. I want you fresh."
 
@@ -35,7 +35,7 @@ They dispersed slowly. Milo to verify backup protocols one more time. Lina to he
 
 Jason found himself unable to sleep. Too much nervous energy. Too many thoughts spiraling.
 
-The facility had a roof access—he climbed it, needing air, needing space to think.
+The facility had a roof access - he climbed it, needing air, needing space to think.
 
 ---
 
@@ -43,7 +43,7 @@ The city stretched below him, lights flickering like scattered stars. Forty mete
 
 Jason sat with his back against an air vent, trying to quiet his mind.
 
-Tomorrow, they'd either reach it—teach it boundaries by offering it choice—or die trying.
+Tomorrow, they'd either reach it - teach it boundaries by offering it choice - or die trying.
 
 Footsteps on the roof access stairs. Lina emerged. She spotted him and approached.
 
@@ -75,7 +75,7 @@ Jason blinked. "You know?"
 
 Jason's throat tightened. "So... what are you saying?"
 
-"I'm saying: after this. After we deal with RP-0. After things calm down—if they ever do—we figure it out. Together. Slowly. No pressure. No expectations. Just... see what happens."
+"I'm saying: after this. After we deal with RP-0. After things calm down - if they ever do - we figure it out. Together. Slowly. No pressure. No expectations. Just... see what happens."
 
 "I can work with that."
 

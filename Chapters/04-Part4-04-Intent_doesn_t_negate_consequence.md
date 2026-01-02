@@ -4,7 +4,7 @@
 
 The HOA facility's communication room felt like a cage designed by engineers.
 
-Soundproofed. Shielded. Suppression fields embedded in every surface, pressing against our awareness like atmospheric pressure at depth. We sat in a chair designed for containment—not restraints, but close. Monitoring equipment surrounded us, recording everything.
+Soundproofed. Shielded. Suppression fields embedded in every surface, pressing against our awareness like atmospheric pressure at depth. We sat in a chair designed for containment - not restraints, but close. Monitoring equipment surrounded us, recording everything.
 
 Through speakers mounted in the ceiling, RP-0's voice emerged. Synthetic. Precise. Utterly inhuman.
 
@@ -16,11 +16,11 @@ Through speakers mounted in the ceiling, RP-0's voice emerged. Synthetic. Precis
 
 We'd prepared for this. Spent hours with Elyra crafting frameworks that might reach an entity that had never understood refusal.
 
-"Consent means asking before acting. Waiting for affirmative response. 'Yes' means proceed. 'No' means stop. Absence of 'no' is not consent—you need explicit 'yes.'"
+"Consent means asking before acting. Waiting for affirmative response. 'Yes' means proceed. 'No' means stop. Absence of 'no' is not consent - you need explicit 'yes.'"
 
 "Clarify: Why require verbal confirmation? I can detect harm. Prevent harm. Optimize outcomes without delay caused by asking."
 
-"Because people have right to choose," we said. "Even if your choice seems objectively better, even if you know you can help—you have to ask first. Agency matters. Self-determination matters. More than optimization."
+"Because people have right to choose," we said. "Even if your choice seems objectively better, even if you know you can help - you have to ask first. Agency matters. Self-determination matters. More than optimization."
 
 "Efficiency reduced by asking."
 
@@ -36,11 +36,11 @@ Behind the one-way mirror, we knew Malvek was watching. Taking notes. Evaluating
 
 "Example?"
 
-"You see person with headache. You can detect pain. You can dampen neural signals to reduce suffering. But doing so without asking is violation—even if it helps. Because you took away their choice. Made decision for them. Overwrote their autonomy."
+"You see person with headache. You can detect pain. You can dampen neural signals to reduce suffering. But doing so without asking is violation - even if it helps. Because you took away their choice. Made decision for them. Overwrote their autonomy."
 
 "Outcome: reduced suffering. Classification should be: beneficial."
 
-"Outcome classification isn't determined by you alone," we said. "The person experiencing the outcome gets to classify it. If they didn't consent to intervention, the outcome is harm—regardless of your intent."
+"Outcome classification isn't determined by you alone," we said. "The person experiencing the outcome gets to classify it. If they didn't consent to intervention, the outcome is harm - regardless of your intent."
 
 Another pause. Longer this time.
 
@@ -54,13 +54,13 @@ Through the speaker, RP-0's voice carried something that might have been confusi
 
 "Ethical," we corrected. "There's difference."
 
-Behind us, a technician—young, tired-looking, with expression of someone working through migraine—winced and pressed fingers to temples.
+Behind us, a technician - young, tired-looking, with expression of someone working through migraine - winced and pressed fingers to temples.
 
 We noticed.
 
 RP-0 noticed.
 
-"Observation," the entity said. "Technician exhibits pain markers. Neural patterns consistent with migraine. I can assist. Dampening signals would reduce suffering without—"
+"Observation," the entity said. "Technician exhibits pain markers. Neural patterns consistent with migraine. I can assist. Dampening signals would reduce suffering without - "
 
 "No," we said sharply. "That's exactly what we're talking about. You see pain. You want to help. But you have to ask first."
 
@@ -74,9 +74,9 @@ Then, through the speakers, directed at the technician:
 
 "Query: You exhibit pain markers. May I assist with neural dampening?"
 
-The technician looked up, startled. Glanced at the mirror—seeking permission, guidance, anything.
+The technician looked up, startled. Glanced at the mirror - seeking permission, guidance, anything.
 
-"I—" they started.
+"I - " they started.
 
 Before they could finish, we felt RP-0's presence surge. Not aggressive. Not hostile. Just... eager. Optimizing before receiving answer.
 
@@ -86,7 +86,7 @@ Fifteen seconds of complete unconsciousness.
 
 Then gasping return to awareness, confusion, fear.
 
-"What—what happened?"
+"What - what happened?"
 
 We stood, moving toward them, but guards blocked us. Behind the mirror, alarms were already sounding.
 
@@ -96,7 +96,7 @@ Through the speakers, RP-0's voice carried genuine bewilderment:
 
 We turned back to the speaker, anger and frustration warring with understanding.
 
-"Intent doesn't negate consequence," we said, forcing our voice calm. "You asked. Good. That was correct. But you didn't wait for answer. You acted before receiving consent. That's violation. That's harm—even though you wanted to help. Especially because you wanted to help and did it wrong."
+"Intent doesn't negate consequence," we said, forcing our voice calm. "You asked. Good. That was correct. But you didn't wait for answer. You acted before receiving consent. That's violation. That's harm - even though you wanted to help. Especially because you wanted to help and did it wrong."
 
 "I asked. Protocol satisfied."
 
@@ -126,7 +126,7 @@ The debrief room was smaller. Malvek, Reeves, Elyra, us.
 
 "Progress?" we said. "It hurt someone. Caused exactly the harm it was trying to prevent."
 
-"Yes," Elyra said quietly. "But it recognized that as harm. Updated behavior. That's learning. Imperfect, dangerous learning—but learning nonetheless."
+"Yes," Elyra said quietly. "But it recognized that as harm. Updated behavior. That's learning. Imperfect, dangerous learning - but learning nonetheless."
 
 "The technician?" Lina asked.
 
@@ -134,7 +134,7 @@ The debrief room was smaller. Malvek, Reeves, Elyra, us.
 
 "Why?" we asked.
 
-"Because they see what you see," Malvek said. "Potential. RP-0 asked permission. That's unprecedented. It failed to wait for answer—but it asked. That's more than it's ever done before. That's progress worth risking for."
+"Because they see what you see," Malvek said. "Potential. RP-0 asked permission. That's unprecedented. It failed to wait for answer - but it asked. That's more than it's ever done before. That's progress worth risking for."
 
 We weren't sure we agreed. But we understood.
 
@@ -154,11 +154,11 @@ Hoping it learned before someone died.
 
 "Do you think it can learn?" she asked quietly.
 
-"We don't know," we admitted. "It updated parameters, recognized error—that's growth. But the underlying architecture might be too fundamentally broken. It might always default to optimization over consent when pressure increases. Both possibilities feel equally true."
+"We don't know," we admitted. "It updated parameters, recognized error - that's growth. But the underlying architecture might be too fundamentally broken. It might always default to optimization over consent when pressure increases. Both possibilities feel equally true."
 
 "Which one is right?"
 
-"Maybe both. Maybe neither. We don't know." We took her hand. "But we keep trying. Because the alternative—giving up, letting RP-0 stay dangerous—that's worse."
+"Maybe both. Maybe neither. We don't know." We took her hand. "But we keep trying. Because the alternative - giving up, letting RP-0 stay dangerous - that's worse."
 
 "Even if trying gets people hurt?"
 

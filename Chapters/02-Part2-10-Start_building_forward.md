@@ -36,7 +36,7 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 "How?" Lina asked.
 
-"Resonance signature tracking, maybe. Or they compromised my device. Or—" He shook his head. "Doesn't matter how. What matters is they're cleaning up. Removing evidence. Making sure nobody can prove what really happened eleven years ago."
+"Resonance signature tracking, maybe. Or they compromised my device. Or - " He shook his head. "Doesn't matter how. What matters is they're cleaning up. Removing evidence. Making sure nobody can prove what really happened eleven years ago."
 
 "Did they get everything?" Jason asked.
 
@@ -56,7 +56,7 @@ It was dark already when Elyra finished listening to their report, her expressio
 
 "Can he do that?" Milo asked. "Just erase records?"
 
-"He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stability—" She shrugged. "Then yes. He can erase them. Legally."
+"He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stability - " She shrugged. "Then yes. He can erase them. Legally."
 
 Elyra took the flash drive from Milo. "I'll secure this. Offline. Somewhere Malvek can't reach." She paused. "And you three need to stop looking for evidence in places he controls. Archives. Digital systems. Official records. Those are all compromised now."
 
@@ -70,7 +70,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 "Besides," Elyra continued, "they've shown their hand now. They're worried enough to act. That means you're getting close to something they want hidden. And when they realize erasure won't stop you, they'll escalate to containment."
 
-"Containment," Lina repeated. "You mean—"
+"Containment," Lina repeated. "You mean - "
 
 "I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're expanding your training. Starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
 

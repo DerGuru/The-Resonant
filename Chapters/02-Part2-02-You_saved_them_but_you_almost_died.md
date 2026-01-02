@@ -22,7 +22,7 @@ They'd been training since morning. Perception exercises, carrier connections, e
 
 "My notes are not nutritionally balanced," Milo said, packing away his tablet.
 
-Jason smiled, fatigue pulling at him. "There's that Italian place near the old theater. The owner's from Venice—makes his mother's risotto."
+Jason smiled, fatigue pulling at him. "There's that Italian place near the old theater. The owner's from Venice - makes his mother's risotto."
 
 "Risotto bianco al Polpo e Vongole?" Lina's face lit up with recognition.
 
@@ -48,7 +48,7 @@ Jason stopped dead. "Something's wrong."
 
 They rounded the corner - the construction site loomed above them.
 
-Scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children played—laughing, running, oblivious. Two adults supervised, equally unaware of the structure groaning above them.
+Scaffolding twisted and sagging, held by cables that screamed with strain. Below, in a small courtyard used as a daycare play area, children played - laughing, running, oblivious. Two adults supervised, equally unaware of the structure groaning above them.
 
 The scaffold wouldn't hold much longer. Seconds, maybe.
 
@@ -62,7 +62,7 @@ He acted.
 
 "Lina! Milo!" His voice cut through the ambient noise, sharp and commanding in a way they'd never heard from him. "Get those kids out. Now!"
 
-"Jason—" Lina started.
+"Jason - " Lina started.
 
 "Move!" He was already reaching out, feeling for the scaffold's resonance. "You have thirty seconds. Maybe less."
 
@@ -82,7 +82,7 @@ Jason closed his eyes. Reached deeper.
 
 *Then we don't fail.*
 
-*Jason—*
+*Jason - *
 
 ***Help me! Please!***
 
@@ -100,11 +100,11 @@ Below, Lina and Milo had reached the courtyard. The adults understood immediatel
 
 Blood ran from Jason's nose. He tasted copper.
 
-"Hurryyyhh!" The scream tore from his throat—raw, desperate, prolonged—releasing a fraction of the unbearable pressure crushing his mind.
+"Hurryyyhh!" The scream tore from his throat - raw, desperate, prolonged - releasing a fraction of the unbearable pressure crushing his mind.
 
 One child tripped. Milo scooped her up without breaking stride.
 
-Jason felt something in his cognitive patterns strain and stretch and threaten to *snap*—
+Jason felt something in his cognitive patterns strain and stretch and threaten to *snap* - 
 
 "Clear!" Lina's voice, distant but certain.
 
@@ -142,7 +142,7 @@ Jason turned his head carefully. His friends sat in chairs beside the bed, both 
 
 Jason closed his eyes with relief, and managed a weak smile. "You're welcome?"
 
-"Don't." Lina stood abruptly, turned away. "Don't joke. We thought—" She stopped. Took a breath. "Your nose wouldn't stop bleeding. You were unconscious before you hit the ground. The paramedics couldn't find anything wrong, but you wouldn't wake up."
+"Don't." Lina stood abruptly, turned away. "Don't joke. We thought - " She stopped. Took a breath. "Your nose wouldn't stop bleeding. You were unconscious before you hit the ground. The paramedics couldn't find anything wrong, but you wouldn't wake up."
 
 "I'm sorry," Jason said quietly.
 
@@ -154,7 +154,7 @@ Jason closed his eyes with relief, and managed a weak smile. "You're welcome?"
 
 "Minimum," RAE continued. "I recommend a week. Your body needs time to heal."
 
-Jason wanted to argue. A week felt like forever when there was so much to do, so much to learn. But the exhaustion pulling at him, the dull throb in his head—he knew she was right.
+Jason wanted to argue. A week felt like forever when there was so much to do, so much to learn. But the exhaustion pulling at him, the dull throb in his head - he knew she was right.
 
 "Fine," he said quietly. "A week."
 
@@ -182,13 +182,13 @@ Milo and Lina exchanged a glance.
 
 "Standing at the edge," Lina finished. "Not moving. Bleeding from your nose. Then collapsing the moment it falls."
 
-"But your face isn't clear," Milo added quickly. "Distance, angle, chaos. Most people think it's just coincidence—right place, right time, medical emergency from stress."
+"But your face isn't clear," Milo added quickly. "Distance, angle, chaos. Most people think it's just coincidence - right place, right time, medical emergency from stress."
 
 "Most people," Jason repeated. "But not everyone."
 
 "Not everyone," RAE confirmed. "Anyone with knowledge of resonance work who sees that video will recognize what they're witnessing. The timing is too precise. Your position too deliberate."
 
-She paused, her voice dropping lower. "And what you did—stabilizing a failing structure of that size in real-time—that's master-level work, Jason. Possibly beyond. Anyone who understands resonance will know that whoever did this is either exceptionally precise or exceptionally powerful. Possibly both."
+She paused, her voice dropping lower. "And what you did - stabilizing a failing structure of that size in real-time - that's master-level work, Jason. Possibly beyond. Anyone who understands resonance will know that whoever did this is either exceptionally precise or exceptionally powerful. Possibly both."
 
 "We have a problem," Jason said quietly and with dread in his voice.
 
@@ -208,7 +208,7 @@ Jason considered. His head still throbbed, but dull. Manageable. His body felt h
 
 Jason didn't hesitate. "I want to leave."
 
-"Jason—" Lina started.
+"Jason - " Lina started.
 
 "I don't..." He met her eyes. "I just..."
 
@@ -218,7 +218,7 @@ She studied him, then nodded slowly. "Your grandmother?"
 
 "Okay," Lina said. "But you're not going home alone. We'll make sure you get there safely."
 
-Discharge took another hour. Paperwork. Instructions. A wheelchair ride to the exit that Jason found simultaneously humiliating and necessary—his legs weren't quite steady yet.
+Discharge took another hour. Paperwork. Instructions. A wheelchair ride to the exit that Jason found simultaneously humiliating and necessary - his legs weren't quite steady yet.
 
 Lina called a car. Milo gathered his things. They rode in silence, the weight of what had happened settling into something they'd have to process later.
 
@@ -232,13 +232,13 @@ They helped him out. Jason felt steadier on his feet now, the fresh air helping 
 
 The building's front door opened. Mrs. Amari stepped out, keys in hand, then froze when she saw them.
 
-"Jason." Her eyes took in everything—his pale face, his unsteady gait, the way Lina and Milo flanked him protectively. "What happened?"
+"Jason." Her eyes took in everything - his pale face, his unsteady gait, the way Lina and Milo flanked him protectively. "What happened?"
 
 "I'm fine, Mrs. Amari. Just a little accident."
 
 "You don't look fine." She moved closer, that same sharp wariness he'd felt before now focused and intense. "You look like you've been through something terrible."
 
-"Really, I'm okay—"
+"Really, I'm okay - "
 
 "No." She cut him off gently but firmly. "You're not. And I think you haven't been okay for some time."
 
@@ -250,7 +250,7 @@ She took his other arm, surprisingly strong for her age, and together they got J
 
 In the enclosed space, she studied him. "You know, I've lived in this building a very long time. I see things."
 
-Jason's awareness prickled despite his exhaustion. He could feel her resonance—concern, fear, protective instinct.
+Jason's awareness prickled despite his exhaustion. He could feel her resonance - concern, fear, protective instinct.
 
 "Things?" he echoed.
 
@@ -258,7 +258,7 @@ Jason's awareness prickled despite his exhaustion. He could feel her resonance�
 
 Lina stiffened. Milo shifted uncomfortably. The elevator dinged. Jason's heart hammered.
 
-"Mrs. Amari—"
+"Mrs. Amari - "
 
 She helped him out, still supporting his weight. "Just... be careful. You have been noticed. And not everyone who notices is friendly."
 
@@ -284,7 +284,7 @@ She released him gently, disappeared inside her apartment, leaving the three of 
 
 *Like what? We cannot erase her memories. We cannot stop her from observing. All we can do is be more careful.*
 
-Jason leaned against the wall, exhaustion overwhelming. But beneath it, he could still feel the echo of Mrs. Amari's resonance—genuine concern, protective fear, the instinct to shield him from something she didn't understand.
+Jason leaned against the wall, exhaustion overwhelming. But beneath it, he could still feel the echo of Mrs. Amari's resonance - genuine concern, protective fear, the instinct to shield him from something she didn't understand.
 
 "She's worried," he said quietly. "Not curious. Not threatening. Just... worried. Like she's seen something bad coming and doesn't know how to warn us properly."
 

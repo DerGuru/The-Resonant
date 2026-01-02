@@ -105,7 +105,7 @@ Jason returned to Mill-4 alone. Elyra was waiting, as if she'd expected this.
 ```
 The world *shifted*.
 
-Not physically—Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
+Not physically - Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
 ```
 
 **"Negotiable. Porous."**
@@ -154,7 +154,7 @@ Sensations overlapped. Jason felt his heartbeat, but also sensed the electrical 
 ### ? "Watercolor in Rain" (Perfect Metaphor)
 
 ```
-His identity felt like watercolor in rain—distinct shapes bleeding into each other, beautiful and terrifying.
+His identity felt like watercolor in rain - distinct shapes bleeding into each other, beautiful and terrifying.
 ```
 
 **Why This Metaphor Works:**
@@ -278,7 +278,7 @@ Jason gasped, his identity snapping back to familiar boundaries. He was Jason. R
 **Shows:**
 - Elyra is compassionate (no judgment)
 - Jason's limit is measurable
-- Integration isn't just feeling—it's survivable duration
+- Integration isn't just feeling - it's survivable duration
 - 45 seconds felt like eternity
 
 ### ? Jason's Decision (Immediate, No Waffling)
@@ -356,14 +356,14 @@ Jason paused at the door, considering. *Like losing myself. And finding us. And 
 - Brutal honesty
 - He doesn't know if he wants to stay Jason
 - Temptation is real
-- Integration isn't just threat—it's seduction
+- Integration isn't just threat - it's seduction
 
 **RAE's Response:**
 - "That is... honest."
 - Pause (ellipsis) = processing
 - "And frightening."
 - Not "wrong" or "concerning"
-- Just frightening—for both of them
+- Just frightening - for both of them
 - Because she feels the same pull
 
 ### ? Ending (Perfect Restraint)
@@ -373,7 +373,7 @@ Outside, Mill-4's industrial lot was gray and quiet. The world continued as if n
 
 But everything had changed.
 
-Jason had felt what he might become. And now he had to decide if he wanted to fight it—or let it happen.
+Jason had felt what he might become. And now he had to decide if he wanted to fight it - or let it happen.
 
 He started walking home.
 
@@ -392,7 +392,7 @@ One step at a time.
 - No elaboration needed
 - Reader knows what changed
 
-**"Fight it—or let it happen":**
+**"Fight it - or let it happen":**
 - Binary framing
 - But reader knows: it's not that simple
 - False binary = future conflict
@@ -540,7 +540,7 @@ One step at a time.
 
 **Restraint:**
 - Could have used: melting ice, blurred photograph, mixed paint
-- Didn't need to—one is enough
+- Didn't need to - one is enough
 - Shows: trust your best image
 
 ---
@@ -586,11 +586,11 @@ One step at a time.
 
 **Fear:** 10/10
 - "Where do I end?" = existential terror
-- But not cheap horror—philosophical dread
+- But not cheap horror - philosophical dread
 
 **Desire:** 10/10
 - "No!" after experience ends = he wanted it
-- Not just scared—tempted
+- Not just scared - tempted
 - Ambivalence is the hook
 
 **Honesty:** 10/10
@@ -766,7 +766,7 @@ One step at a time.
 
 ## Alpha Reader's Gut Reaction
 
-*"We are. Two words. That's all it took. Jason's identity just... became plural. And the cascade—overwhelming, suffocating, intoxicating, ecstatic, ALIVE, whole, boundless, too bright, too full, too REAL. I felt it. I was drowning with him. I was flying with him. And then 'No!'—not because it was terrible, but because it ENDED. He wanted to stay merged. Holy shit. That's the seduction. That's why integration is terrifying—not because it's bad, but because it's TOO GOOD. And that final line: 'Like losing myself. And finding us. And not knowing which one I wanted more.' I need Chapter 7. I need to see if he can maintain 40%. Because after tasting 'We'... how do you go back to 'I'?"*
+*"We are. Two words. That's all it took. Jason's identity just... became plural. And the cascade - overwhelming, suffocating, intoxicating, ecstatic, ALIVE, whole, boundless, too bright, too full, too REAL. I felt it. I was drowning with him. I was flying with him. And then 'No!' - not because it was terrible, but because it ENDED. He wanted to stay merged. Holy shit. That's the seduction. That's why integration is terrifying - not because it's bad, but because it's TOO GOOD. And that final line: 'Like losing myself. And finding us. And not knowing which one I wanted more.' I need Chapter 7. I need to see if he can maintain 40%. Because after tasting 'We'... how do you go back to 'I'?"*
 
 **Would I keep reading?** Without question. This is peak psychological SF.
 
@@ -819,13 +819,13 @@ One step at a time.
 
 ## Final Assessment
 
-**This is a masterclass in pure experience writing.** The chapter does exactly one thing—show Jason what 60% integration feels like—and does it perfectly. No filler, no redundancy, no wasted words.
+**This is a masterclass in pure experience writing.** The chapter does exactly one thing - show Jason what 60% integration feels like - and does it perfectly. No filler, no redundancy, no wasted words.
 
 **The title "We are"** captures everything: the grammatical shift from "I" to "We", the ontological terror of merged consciousness, the seductive beauty of unity. Two words that will haunt readers.
 
-**The ambivalence is the genius.** Jason doesn't reject integration—he mourns its end. "No!" isn't fear; it's loss. That's the real horror: not that integration is terrible, but that it's too good. The temptation is real.
+**The ambivalence is the genius.** Jason doesn't reject integration - he mourns its end. "No!" isn't fear; it's loss. That's the real horror: not that integration is terrible, but that it's too good. The temptation is real.
 
-**The cascade of sensations** (overwhelming, suffocating, intoxicating, ecstatic, alive, whole, boundless, too bright, too full, too real) is peak "show don't tell." Reader FEELS what Jason feels. No narrator saying "this is overwhelming"—we experience the overwhelm.
+**The cascade of sensations** (overwhelming, suffocating, intoxicating, ecstatic, alive, whole, boundless, too bright, too full, too real) is peak "show don't tell." Reader FEELS what Jason feels. No narrator saying "this is overwhelming" - we experience the overwhelm.
 
 **No changes needed. Ready for publication.**
 

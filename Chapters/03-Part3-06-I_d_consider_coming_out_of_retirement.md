@@ -26,7 +26,7 @@ Elyra set down her cane carefully. Crossed to the table. Closed the notebook wit
 
 "Why not?" Jason asked.
 
-"Because it's dangerous. Complex. Requires five participants working in perfect coordination. One mistake and—" She stopped. "And I won't ask you to risk yourselves for my healing."
+"Because it's dangerous. Complex. Requires five participants working in perfect coordination. One mistake and - " She stopped. "And I won't ask you to risk yourselves for my healing."
 
 "What if we're willing?" Milo asked.
 
@@ -36,7 +36,7 @@ Elyra set down her cane carefully. Crossed to the table. Closed the notebook wit
 
 Elyra studied them for a long moment. Then sighed, opened the notebook again.
 
-"This ritual draws on guided harmonic reconstruction," she said, pointing to the center pattern. "My damaged patterns can't simply be forced to heal. But they can be encouraged. Guided along pathways that still remember what wholeness felt like." She paused. "I would be the focus. Jason would be the anchor—his role is to provide stable resonance for the pattern to flow through, with RAE maintaining the harmonic foundation within him. Lina, external stabilizer. But we need a fifth—someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
+"This ritual draws on guided harmonic reconstruction," she said, pointing to the center pattern. "My damaged patterns can't simply be forced to heal. But they can be encouraged. Guided along pathways that still remember what wholeness felt like." She paused. "I would be the focus. Jason would be the anchor - his role is to provide stable resonance for the pattern to flow through, with RAE maintaining the harmonic foundation within him. Lina, external stabilizer. But we need a fifth - someone to hold the outer boundary. Keep the pattern from bleeding into surroundings. It requires defensive training, stability, and... trust."
 
 She paused. "Milo would be timekeeper and observer. Outside the pattern, monitoring, but essential."
 
@@ -56,16 +56,16 @@ Elyra looked at him sharply. "Who?"
 
 "Maybe. Or she knows enough to recognize what we're doing." Jason met Elyra's eyes. "I could ask. Carefully. See if she'd even consider it."
 
-Elyra was quiet for a long moment. "If she does have experience—and if she's willing—Holding a position without wavering for hours is not an easy task." She studied him. "Are you willing to ask her? To explain what we need?"
+Elyra was quiet for a long moment. "If she does have experience - and if she's willing - Holding a position without wavering for hours is not an easy task." She studied him. "Are you willing to ask her? To explain what we need?"
 
-"Yes - But If she says no—"
+"Yes - But If she says no - "
 
 "Then we'll find another way," Elyra said firmly. "Or we don't proceed. I won't pressure anyone into this."
 
 "Understood," Jason said. "I'll talk to her. See if she's even open to the conversation."
 
 ---
-Jason found Mrs. Amari in the building's small garden. Late afternoon. She was tending her flowers—the same ones he'd helped her carry six years ago.
+Jason found Mrs. Amari in the building's small garden. Late afternoon. She was tending her flowers - the same ones he'd helped her carry six years ago.
 
 "Mrs. Amari," he said. "Can we talk?"
 
@@ -77,13 +77,13 @@ Jason's breath caught. "You... know?"
 
 "Around resonance," Jason repeated carefully.
 
-"I was a practitioner. Thirty years ago. Defensive specialist—wards, barriers, perimeter work." She smiled faintly. "Retired after my husband died. Didn't want that life anymore. But I never lost the instinct. The awareness."
+"I was a practitioner. Thirty years ago. Defensive specialist - wards, barriers, perimeter work." She smiled faintly. "Retired after my husband died. Didn't want that life anymore. But I never lost the instinct. The awareness."
 
 "That's why you warned me. After the scaffold."
 
 "Because I saw what you did. What you're becoming. And I saw the people watching." She met his eyes. "You're in deep, Jason. Deeper than you realize."
 
-"I know." He took a breath. "That's actually... that's part of why I'm here. Not to ask about what you know. But to ask if—" He stopped. Started again. "Would you be willing to look at something? A resonogram. It's for a healing ritual. Complex. Requires specific roles. And I think... I think one of those roles might match your training."
+"I know." He took a breath. "That's actually... that's part of why I'm here. Not to ask about what you know. But to ask if - " He stopped. Started again. "Would you be willing to look at something? A resonogram. It's for a healing ritual. Complex. Requires specific roles. And I think... I think one of those roles might match your training."
 
 Mrs. Amari was quiet for a moment. "You're asking if I'd consider coming out of retirement."
 

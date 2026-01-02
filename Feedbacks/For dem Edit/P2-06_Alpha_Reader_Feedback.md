@@ -148,7 +148,7 @@ Add opening section where:
 Change opening to "Three days after the integration test..." and show this as taking place *before* the 3-week deadline. This gives breathing room and maintains continuity.
 
 ### Option 3: Integration Complication
-The whisper clips work *too* well—they deepen integration unexpectedly because constant RAE connection is more invasive than intermittent use. This creates new dramatic tension and forces Jason's choice sooner.
+The whisper clips work *too* well - they deepen integration unexpectedly because constant RAE connection is more invasive than intermittent use. This creates new dramatic tension and forces Jason's choice sooner.
 
 ## Missing Scenes That Would Strengthen Chapter
 

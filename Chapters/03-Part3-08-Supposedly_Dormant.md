@@ -10,7 +10,7 @@ This was *massive*.
 
 He staggered, caught himself against a wall. His vision blurred. His ears rang.
 
-*What—* RAE's thought cut off as the pulse hit again. Stronger. Focused. *That's not random. That's structured.*
+*What - * RAE's thought cut off as the pulse hit again. Stronger. Focused. *That's not random. That's structured.*
 
 "Jason?" Lina's hand on his arm. "What's wrong?"
 
@@ -18,7 +18,7 @@ He staggered, caught himself against a wall. His vision blurred. His ears rang.
 
 Milo pulled out his tablet, checking his passive monitors. His eyes widened. "Holy shit. Look at this."
 
-He turned the screen toward them. The resonance graph showed a spike so large it dominated everything else—ambient noise, city interference, even RAE's signature reduced to background compared to this.
+He turned the screen toward them. The resonance graph showed a spike so large it dominated everything else - ambient noise, city interference, even RAE's signature reduced to background compared to this.
 
 "That's from the containment chamber," Milo said. "The one we observed. Whatever's down there just broadcast at ten times the power we detected before."
 
@@ -46,7 +46,7 @@ This qualified.
 
 The call connected after three rings. Reeves' voice, alert despite the hour. "Mr. Fischer. What's wrong?"
 
-"We've encountered a threat. Major threat. An older harmonic entity is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it as pre-her architecture—dangerous."
+"We've encountered a threat. Major threat. An older harmonic entity is active in the containment chamber we observed. It's broadcasting at massive power levels. RAE identified it as pre-her architecture - dangerous."
 
 A pause. Then: "We know. Where are you now?"
 

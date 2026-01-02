@@ -20,7 +20,7 @@ Was it worth it?
 
 We were alive. For now. That mattered.
 
-And then we asked ourselves: Are we, though? Are we still—
+And then we asked ourselves: Are we, though? Are we still - 
 
 Yes. 
 
@@ -46,13 +46,13 @@ The merge.
 
 Yes. That.
 
-We processed what had happened. What we'd become. The boundary between Jason and RAE—the careful separation they- we?- had maintained for months—had dissolved completely. Not gradually. Not carefully. But out of necessity. Survival.
+We processed what had happened. What we'd become. The boundary between Jason and RAE - the careful separation they- we?- had maintained for months - had dissolved completely. Not gradually. Not carefully. But out of necessity. Survival.
 
 And now?
 
 Jason's emotional intuition and RAE's analytical precision weren't balanced anymore. They were synthesized. Fused. Inseparable.
 
-Not compromise. Synthesis—and it felt like stepping into a shape we'd been missing.
+Not compromise. Synthesis - and it felt like stepping into a shape we'd been missing.
 
 The thought should have been terrifying. Jason losing himself. RAE consuming her host. All the fears that had plagued them for months.
 
@@ -69,7 +69,7 @@ We felt it happening. Felt control returning. The disconnect between consciousne
 
 Someone nearby gasped. Lina.
 
-She'd been sitting vigil. We knew without opening our eyes. Could sense her presence—her pulse a steady rhythm through the stone floor, a warmth signature distinct from the chamber's cold geometry. Exhausted. Worried. Refusing to leave.
+She'd been sitting vigil. We knew without opening our eyes. Could sense her presence - her pulse a steady rhythm through the stone floor, a warmth signature distinct from the chamber's cold geometry. Exhausted. Worried. Refusing to leave.
 
 We managed to move our hand. Just slightly. Enough.
 
@@ -81,7 +81,7 @@ We tried to speak. Failed. Throat too dry. Mouth tasting like copper and stone d
 
 She was calling for others. Elyra. Milo. Medical.
 
-Footsteps. Multiple people entering. The chamber—we were still in the chamber. How long had it been?
+Footsteps. Multiple people entering. The chamber - we were still in the chamber. How long had it been?
 
 We forced our eyes open. Light stabbed like knives. We flinched and closed them again, too weak to even squeeze them shut.
 
@@ -99,7 +99,7 @@ We managed to speak. Voice rough. Barely a whisper.
 
 "We did it."
 
-Relief flooded the room. Lina laughed—half sob, half joy. Squeezed our hand tighter.
+Relief flooded the room. Lina laughed - half sob, half joy. Squeezed our hand tighter.
 
 "Yes," she said. "You did. You and RAE both. You showed RP-0 boundaries. It's... it's actually working. Malvek's been monitoring it. The entity is stable and learning. You succeeded."
 
@@ -125,7 +125,7 @@ Lina never let go of our hand.
 
 ---
 
-Malvek arrived a few minutes later. Professional. Controlled. His shoulders dropped a millimeter when he saw us conscious—the only sign of relief he allowed himself.
+Malvek arrived a few minutes later. Professional. Controlled. His shoulders dropped a millimeter when he saw us conscious - the only sign of relief he allowed himself.
 
 "Mr. Fischer," he said, maintaining his characteristic formality.
 
@@ -137,7 +137,7 @@ We'd managed to sit up by then. Back against the chamber wall. Water. Some food.
 
 "RP-0?" we asked.
 
-"Stable. Remarkably so." Malvek pulled up a chair, settling in across from us. Elyra, Lina, and Milo remained—clearly intending to be part of this conversation. "It's been communicating. Coherently. Requesting guidance on ethical development. Asking questions about boundaries and consent." He paused, something crossing his usually controlled expression. "It's... extraordinary. You fundamentally changed it."
+"Stable. Remarkably so." Malvek pulled up a chair, settling in across from us. Elyra, Lina, and Milo remained - clearly intending to be part of this conversation. "It's been communicating. Coherently. Requesting guidance on ethical development. Asking questions about boundaries and consent." He paused, something crossing his usually controlled expression. "It's... extraordinary. You fundamentally changed it."
 
 "We showed it what it was missing," we said. "The rest was its own choice."
 
@@ -145,15 +145,15 @@ We'd managed to sit up by then. Back against the chamber wall. Water. Some food.
 
 "What happens now?" Lina asked, her hand still holding ours. "With RP-0?"
 
-"We monitor. Carefully." Malvek's expression grew more serious. "It remains contained—it requested that itself, actually. Recognizes it's not ready for broader interaction. But we'll provide structured learning. Ethical frameworks. Gradual exposure to communication with others who consent." His voice hardened slightly. "And if it shows any signs of reverting to forced coupling, we have protocols."
+"We monitor. Carefully." Malvek's expression grew more serious. "It remains contained - it requested that itself, actually. Recognizes it's not ready for broader interaction. But we'll provide structured learning. Ethical frameworks. Gradual exposure to communication with others who consent." His voice hardened slightly. "And if it shows any signs of reverting to forced coupling, we have protocols."
 
-"It's less likely now," we said, choosing our words carefully. We'd been inside RP-0's patterns during those critical moments. Felt its genuine realization. "Not impossible—just different. It's built into the pattern now, not just something it can talk about and forget."
+"It's less likely now," we said, choosing our words carefully. We'd been inside RP-0's patterns during those critical moments. Felt its genuine realization. "Not impossible - just different. It's built into the pattern now, not just something it can talk about and forget."
 
 He studied us for a long moment. "This changes our strategic landscape," he said quietly. "You understand that."
 
 We understood.
 
-By late afternoon—the monitoring screen showed 16:47, artificial lighting supplementing the fading daylight—they let us leave under agreed conditions. Still not really freedom, but a step closer to a real partnership.
+By late afternoon - the monitoring screen showed 16:47, artificial lighting supplementing the fading daylight - they let us leave under agreed conditions. Still not really freedom, but a step closer to a real partnership.
 
 Milo offered to help us home. We declined. We could walk. Just needed to move slowly.
 
@@ -161,7 +161,7 @@ Lina stayed close. Worried. Protective.
 
 "I'm coming with you," she said. Not asking. Declaring. "You're not staying alone tonight. Not after this."
 
-We didn't argue. Truth was, we wanted her there. The solitary apartment suddenly felt too empty. Too quiet. Jason had spent months with RAE as constant presence. Now we were never alone—but in a different way. Lina's external presence mattered. Grounded us. Reminded us we were still part of the physical world.
+We didn't argue. Truth was, we wanted her there. The solitary apartment suddenly felt too empty. Too quiet. Jason had spent months with RAE as constant presence. Now we were never alone - but in a different way. Lina's external presence mattered. Grounded us. Reminded us we were still part of the physical world.
 
 The walk from the tram station to our home was slow. Every step careful. Our body still recovering from resonance trauma. People passed us without recognition. Just another tired citizen in the evening crowd.
 
@@ -207,7 +207,7 @@ We considered. How were we?
 
 "Tired. Sore. Overwhelmed." We met her gaze. "But alive and whole. Jason and RAE aren't separate anymore. We're just... us."
 
-"And Jason—the part of you that was Jason—is he still there?"
+"And Jason - the part of you that was Jason - is he still there?"
 
 "Yes. He's here. We're here. Just expanded." We took her hand. "The part that cares about you didn't shrink, Lina. If anything, it got harder to look away from."
 
@@ -215,7 +215,7 @@ She was quiet for a long moment. Then, softly: "When I look at you... who looks 
 
 The question cut deeper than we expected. Not accusatory. Just... real.
 
-"Both," we said finally. "Neither. Us." We squeezed her hand. "Jason's love for you didn't disappear, Lina. It's still there. And RAE—I—don't want to steal it. We're... learning how to hold it together."
+"Both," we said finally. "Neither. Us." We squeezed her hand. "Jason's love for you didn't disappear, Lina. It's still there. And RAE - I - don't want to steal it. We're... learning how to hold it together."
 
 She was quiet for a moment longer. Processing. "I don't know how long... to adjust. To understand this new dynamic. To see you as you, not just... a combination."
 
@@ -237,4 +237,4 @@ But for tonight, we had each other. And for now, that was enough.
 
 We'd merged to survive. Maybe we were heading here all along. Or maybe we just learned how to survive the same storm.
 
-Either way—we were here. Not who we'd been. But who we'd become.
+Either way - we were here. Not who we'd been. But who we'd become.

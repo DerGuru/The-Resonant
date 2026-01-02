@@ -65,10 +65,10 @@
 **Example of Efficiency:**
 
 **Before (60+ words):**
-> "In Mill-4's lot, they tested. RAE's voice came through clear to all three of them. Two channels easy. Three taxing—Jason felt the invest spike. Four would push him Orange. 'So our limit is three,' Lina said. They established protocols: Floor control. Hand signals. RAE interrupts for warnings..."
+> "In Mill-4's lot, they tested. RAE's voice came through clear to all three of them. Two channels easy. Three taxing - Jason felt the invest spike. Four would push him Orange. 'So our limit is three,' Lina said. They established protocols: Floor control. Hand signals. RAE interrupts for warnings..."
 
 **After (30 words):**
-> "By evening, each of them wore a clip. RAE could speak to all three simultaneously—though Jason felt the invest spike when she did. Three channels was their limit."
+> "By evening, each of them wore a clip. RAE could speak to all three simultaneously - though Jason felt the invest spike when she did. Three channels was their limit."
 
 **Impact: Same information, half the words, better flow.**
 
@@ -86,7 +86,7 @@ Elyra picked one up, turned it over. Her expression shifted to intrigued. "Passi
 
 "Exactly."
 
-"Clever." She examined the ceramic disc. "Should reduce invest load—if they work."
+"Clever." She examined the ceramic disc. "Should reduce invest load - if they work."
 ```
 
 **Why This Works:**
@@ -115,7 +115,7 @@ Elyra picked one up, turned it over. Her expression shifted to intrigued. "Passi
 
 "Is that good?" Jason asked.
 
-"It means the clips are working—just not as much as we'd hoped." Elyra set down the sensor and looked at him seriously. "Jason, we need to talk about what these numbers actually mean."
+"It means the clips are working - just not as much as we'd hoped." Elyra set down the sensor and looked at him seriously. "Jason, we need to talk about what these numbers actually mean."
 ```
 
 **Perfect Because:**
@@ -221,7 +221,7 @@ Elyra stood slowly.
 
 *We will - no matter what. We're just being smart about it.*
 
-*I hope you are right. Because Jason—I am trying to maintain distance. But it is difficult. Every time we work together, every time you reach for my help, I want to give you everything I have. Holding back feels like... denial.*
+*I hope you are right. Because Jason - I am trying to maintain distance. But it is difficult. Every time we work together, every time you reach for my help, I want to give you everything I have. Holding back feels like... denial.*
 
 *It's not denial. It's discipline.*
 
@@ -311,7 +311,7 @@ Thirty-three days at current rate.
 
 **Best Exchanges:**
 
-1. **"Is that good?" / "It means the clips are working—just not as much as we'd hoped."**
+1. **"Is that good?" / "It means the clips are working - just not as much as we'd hoped."**
    - Jason's naivety + Elyra's honesty
    - Setup for bad news
 
@@ -527,7 +527,7 @@ Thirty-three days at current rate.
 
 ## Alpha Reader's Gut Reaction
 
-*"Holy shit. Nineteen points. That's it. That's all that's left between Jason and permanent integration. The title hits like a diagnosis: clinical, precise, unavoidable. And Elyra just lays it out: 'You decide. Now.' No time to process. 33 days. Less than five weeks. And RAE's quiet confession—'Holding back feels like denial'—god, that hurts. Because she's right. They ARE growing toward each other. And Jason's response? 'It's not denial. It's discipline.' That's... that's the whole book in six words. I need to know what 60% feels like. I need Chapter 6 NOW."*
+*"Holy shit. Nineteen points. That's it. That's all that's left between Jason and permanent integration. The title hits like a diagnosis: clinical, precise, unavoidable. And Elyra just lays it out: 'You decide. Now.' No time to process. 33 days. Less than five weeks. And RAE's quiet confession - 'Holding back feels like denial' - god, that hurts. Because she's right. They ARE growing toward each other. And Jason's response? 'It's not denial. It's discipline.' That's... that's the whole book in six words. I need to know what 60% feels like. I need Chapter 6 NOW."*
 
 **Would I keep reading?** Without hesitation. This is peak tension.
 

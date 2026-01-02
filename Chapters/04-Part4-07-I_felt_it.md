@@ -4,7 +4,7 @@
 
 The warehouse had been transformed.
 
-Not into something mystical or esoteric—Elyra had been clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
+Not into something mystical or esoteric - Elyra had been clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
 
 Diagrams covered one wall. Flow charts showing each phase of the ritual. Resonance patterns mapped with precision. Roles clearly defined. Failsafes marked in red.
 
@@ -16,17 +16,17 @@ Mrs. Amari arrived exactly on time. Practical clothes. No mysticism in her beari
 
 Elyra nodded, appreciating the directness. Pointed to the diagram.
 
-"You hold the outer boundary. The perimeter. Resonance stays inside this space—" she indicated a circle marked on the floor "—or the pattern destabilizes catastrophically. Your job is containment. Not healing. Not assistance. Just... holding the line."
+"You hold the outer boundary. The perimeter. Resonance stays inside this space - " she indicated a circle marked on the floor " - or the pattern destabilizes catastrophically. Your job is containment. Not healing. Not assistance. Just... holding the line."
 
 "And if I say stop?" Mrs. Amari asked.
 
-"We stop," Elyra said immediately. "No questions. No debate. You're the failsafe. If you sense danger, if you feel the boundary weakening, if anything seems wrong—you call it. We listen."
+"We stop," Elyra said immediately. "No questions. No debate. You're the failsafe. If you sense danger, if you feel the boundary weakening, if anything seems wrong - you call it. We listen."
 
 "Agreed." Mrs. Amari moved to the marked position. Tested it. Nodded. "I'll hold the boundary. But if I say stop, we stop."
 
 "Agreed," Elyra confirmed.
 
-Lina and we took our positions. Lina as stabilizer—watching for drift, compensating for fluctuation. We as anchor—providing stable resonance baseline for the pattern to flow through.
+Lina and we took our positions. Lina as stabilizer - watching for drift, compensating for fluctuation. We as anchor - providing stable resonance baseline for the pattern to flow through.
 
 Milo sat outside the circle with monitoring equipment. Observer. Documentarian. The one who'd record what happened regardless of outcome.
 
@@ -34,7 +34,7 @@ Milo sat outside the circle with monitoring equipment. Observer. Documentarian. 
 
 Nods all around.
 
-"Good." She moved to the center, holding a small crystal—her old carrier, from before the damage. "Phase one: object investment. I establish connection. This will hurt. That's expected. Don't interfere unless I signal distress."
+"Good." She moved to the center, holding a small crystal - her old carrier, from before the damage. "Phase one: object investment. I establish connection. This will hurt. That's expected. Don't interfere unless I signal distress."
 
 She closed her eyes. Invested minimally into the crystal.
 
@@ -48,11 +48,11 @@ We synchronized. All of us. Breathing together. The room's ambient resonance beg
 
 Four in. Six out. Four in. Six out.
 
-The jagged patterns smoothed slightly. Not fixed—just... calmer.
+The jagged patterns smoothed slightly. Not fixed - just... calmer.
 
 "Phase three," Elyra said. "Mrs. Amari, activate boundary."
 
-Mrs. Amari's presence shifted. We felt her defensive perimeter snap into place—old training, decades dormant, but still functional. Still strong.
+Mrs. Amari's presence shifted. We felt her defensive perimeter snap into place - old training, decades dormant, but still functional. Still strong.
 
 The resonance that had been seeping outward suddenly contained. Held. Trapped inside the circle like water in a bowl.
 
@@ -80,7 +80,7 @@ At minute seven, Elyra's hand began to shake uncontrollably. We felt her pattern
 
 We held. Lina held. Mrs. Amari held.
 
-At minute twelve, something shifted. We felt it—a tiny reconnection. A damaged pathway finding alternate route. Not healing exactly. More like... compensation. Adaptation.
+At minute twelve, something shifted. We felt it - a tiny reconnection. A damaged pathway finding alternate route. Not healing exactly. More like... compensation. Adaptation.
 
 Elyra's breathing changed. Tears streaming down her face. But she didn't stop.
 
@@ -100,11 +100,11 @@ Elyra took three breaths before answering. When she spoke, her voice carried som
 
 Hope. Real hope.
 
-"I felt it," she said. "Not full capacity. Maybe twenty percent. Maybe less. But I *felt* it. Resonance responding. Patterns connecting. Not healed—but not dead either."
+"I felt it," she said. "Not full capacity. Maybe twenty percent. Maybe less. But I *felt* it. Resonance responding. Patterns connecting. Not healed - but not dead either."
 
 She raised her damaged hand. It still trembled. Still looked scarred. Still showed eleven years of trauma.
 
-But when she invested—carefully, minimally—a faint glow appeared.
+But when she invested - carefully, minimally - a faint glow appeared.
 
 "Twenty percent," she confirmed, tears still flowing. "That's... that's more than I've had in eleven years. That's *something*."
 
@@ -112,7 +112,7 @@ Mrs. Amari had sat down heavily, clearly drained from holding boundary for fifte
 
 "You did it," she said simply.
 
-"*We* did it," Elyra corrected, looking at all of us. "This only worked because everyone held their role. Because we trusted the structure. Because—" her voice broke "—because you all believed it was possible when I wasn't sure I did."
+"*We* did it," Elyra corrected, looking at all of us. "This only worked because everyone held their role. Because we trusted the structure. Because - " her voice broke " - because you all believed it was possible when I wasn't sure I did."
 
 Lina moved to embrace her. Elyra held on like drowning person finding surface.
 
@@ -180,7 +180,7 @@ That night, lying in bed with Lina beside me, I felt something I hadn't felt in 
 
 Contentment.
 
-Not happiness exactly. Not peace. But contentment. The sense that despite everything—HOA, surveillance, synthesis, transformation—I was exactly where I chose to be.
+Not happiness exactly. Not peace. But contentment. The sense that despite everything - HOA, surveillance, synthesis, transformation - I was exactly where I chose to be.
 
 With someone who chose me back.
 

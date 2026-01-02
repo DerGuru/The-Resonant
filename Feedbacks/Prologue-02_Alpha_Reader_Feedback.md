@@ -523,7 +523,7 @@ The pattern shifted. Not slowly. Not drifting. Deliberately.
 
 3. **Marla's Absence from Ritual End (one sentence):**
    - After "You weren't even there at the end"
-   - Consider adding: "I was outside the containment zone. Protocol required—"
+   - Consider adding: "I was outside the containment zone. Protocol required - "
    - Elyra interrupts: "Protocol. Right."
    - OR leave ambiguous (creates interesting mystery)
 
@@ -571,7 +571,7 @@ The pattern shifted. Not slowly. Not drifting. Deliberately.
 
 ## Alpha Reader's Gut Reaction
 
-*"This is where the prologue shifts from visceral horror to intellectual dread, and it works beautifully. The entity responding to their conversation—flickering lights, dropping temperature—makes it feel like a character in the scene, not just a threat they're discussing. Marla and Elyra's conflict is so well done; I sympathize with both. Marla's line 'I want to understand it before it decides we don't matter' gives me chills. And that ending—'It's pretending now'—perfect. I need to know what happens in those 48 hours. The revision transformed this from necessary setup into genuinely tense storytelling."*
+*"This is where the prologue shifts from visceral horror to intellectual dread, and it works beautifully. The entity responding to their conversation - flickering lights, dropping temperature - makes it feel like a character in the scene, not just a threat they're discussing. Marla and Elyra's conflict is so well done; I sympathize with both. Marla's line 'I want to understand it before it decides we don't matter' gives me chills. And that ending - 'It's pretending now' - perfect. I need to know what happens in those 48 hours. The revision transformed this from necessary setup into genuinely tense storytelling."*
 
 **Would I keep reading?** Absolutely yes.
 

@@ -4,7 +4,7 @@
 
 The HOA facility felt different at midnight. Empty corridors. Emergency lighting. Skeleton crew manning essential stations.
 
-I arrived within thirty minutes of Reeves' message. Lina with me—not leaving me, not after tonight, not with ring still new on her finger.
+I arrived within thirty minutes of Reeves' message. Lina with me - not leaving me, not after tonight, not with ring still new on her finger.
 
 Malvek waited in the briefing room. Elyra already there, looking grim. Charts and resonance readings covering the walls.
 
@@ -14,7 +14,7 @@ He pulled up the data. I studied it, feeling my analytical aspects engage despit
 
 "Feedback loop," I said. "In the city's resonance infrastructure. Someone overinvested. Pattern's reinforcing itself. Will reach critical threshold around 5 AM."
 
-"Correct." Malvek gestured to another screen. "RP-0 has proposed intervention. Says it can dampen the loop. Prevent cascade. But—"
+"Correct." Malvek gestured to another screen. "RP-0 has proposed intervention. Says it can dampen the loop. Prevent cascade. But - "
 
 "But it requires broader operational permissions than current training allows," I finished. "It's asking for authority to act beyond established parameters."
 
@@ -50,11 +50,11 @@ I calculated. Ran the numbers. Felt my synthesis processing variables faster tha
 
 "Two injuries become ten. One building at risk becomes three. Containable problem becomes significant emergency." I met his eyes. "But not catastrophic. Not hundreds dead. Just... worse than it could be. The price of caution."
 
-"The price of ethics," Elyra corrected. "Rushing isn't just risky—it sets precedent. Teaches RP-0 that pressure overrides protocol. That good intentions justify boundary violations. That's more dangerous long-term than temporary casualties."
+"The price of ethics," Elyra corrected. "Rushing isn't just risky - it sets precedent. Teaches RP-0 that pressure overrides protocol. That good intentions justify boundary violations. That's more dangerous long-term than temporary casualties."
 
 "Tell that to the people who'll be injured in those extra forty-seven minutes," Malvek said coldly.
 
-"I will," Elyra replied without flinching. "If asked. I'll explain that their suffering prevented worse suffering. That ethics requires accepting immediate cost to prevent systemic harm. That's not cruelty—it's proportion."
+"I will," Elyra replied without flinching. "If asked. I'll explain that their suffering prevented worse suffering. That ethics requires accepting immediate cost to prevent systemic harm. That's not cruelty - it's proportion."
 
 Malvek turned to me. "Your call. You're the ethics expert. You're the synthesis who taught RP-0 consent. What do you recommend?"
 
@@ -68,7 +68,7 @@ So I chose the hard answer. The one that hurt but maintained integrity.
 
 "That will cost lives," Malvek said flatly.
 
-"Yes," I agreed. "And I'll carry that cost. But the alternative—teaching RP-0 that good intentions justify any action—that costs more. Different. Future. But more."
+"Yes," I agreed. "And I'll carry that cost. But the alternative - teaching RP-0 that good intentions justify any action - that costs more. Different. Future. But more."
 
 Malvek studied me for long moment. Then nodded.
 
@@ -84,7 +84,7 @@ It was harder. Required more precision. Offered more opportunities for failure.
 
 But it was *mine*. Human. Ethical. Chosen.
 
-At 4:17 AM—forty-three minutes after RP-0's solution would have completed—I executed the intervention.
+At 4:17 AM - forty-three minutes after RP-0's solution would have completed - I executed the intervention.
 
 It worked.
 
@@ -140,7 +140,7 @@ I sat in silence for several minutes. City humming below. Sun tracking across sk
 
 "Can they do that?"
 
-"They can try." I felt tired beyond measure. "But I documented everything. Have recordings. Proof that I followed exact recommendations from ethics consultant they hired. They can blame me—but I can prove I did what they trained me to do."
+"They can try." I felt tired beyond measure. "But I documented everything. Have recordings. Proof that I followed exact recommendations from ethics consultant they hired. They can blame me - but I can prove I did what they trained me to do."
 
 "Mutually assured documentation," Lina said wryly.
 
@@ -164,7 +164,7 @@ And on that roof, surrounded by city I'd failed to protect perfectly, I made ano
 
 To keep going. To keep trying. To accept that ethics sometimes costs more than I wanted to pay.
 
-To marry her anyway. To love her anyway. To be human—synthetic, complicated, responsible human—anyway.
+To marry her anyway. To love her anyway. To be human - synthetic, complicated, responsible human - anyway.
 
 ---
 
@@ -202,7 +202,7 @@ To marry her anyway. To love her anyway. To be human—synthetic, complicated, res
 
 "Then he can come," I said. "As guest. Not overseer. Not security. Guest. I'll invite him formally. Make it clear what role he's filling. If he can accept that, he's welcome. If not, he stays away."
 
-Plans formed. Guest list: fifteen people. Ceremony: simple. Vows: written together. Both of us contributing—my memories, my experiences, my synthesis.
+Plans formed. Guest list: fifteen people. Ceremony: simple. Vows: written together. Both of us contributing - my memories, my experiences, my synthesis.
 
 It would be small.
 

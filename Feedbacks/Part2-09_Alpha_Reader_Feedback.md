@@ -81,7 +81,7 @@ Mid-thirties. Gray suit that fit well but not expensively. The kind of face you'
 
 **Jason's Response:**
 ```markdown
-His perception rippled outward automatically now—a habit Elyra had drilled into him. Twenty meters. Thirty. The street resolved: lunch crowd, car exhaust, a delivery truck idling, pigeons on the overhead wires.
+His perception rippled outward automatically now - a habit Elyra had drilled into him. Twenty meters. Thirty. The street resolved: lunch crowd, car exhaust, a delivery truck idling, pigeons on the overhead wires.
 
 No one else paying attention.
 ```
@@ -166,10 +166,10 @@ Reeves nodded slightly, falling into step beside him. "Lead the way."
 - Integration rare enough to investigate
 - System has layers
 
-### ? "Unprecedented—and Potentially Dangerous"
+### ? "Unprecedented - and Potentially Dangerous"
 
 ```markdown
-"Let me be direct. The Authority isn't here to shut you down. We're here because our director believes what you're doing is unprecedented—and potentially dangerous. We're offering resources. Expertise. Help managing something no one fully understands yet."
+"Let me be direct. The Authority isn't here to shut you down. We're here because our director believes what you're doing is unprecedented - and potentially dangerous. We're offering resources. Expertise. Help managing something no one fully understands yet."
 ```
 
 **Why This Pitch Works:**
@@ -1060,7 +1060,7 @@ Thirty-six hours remaining.
 
 ## Alpha Reader's Gut Reaction
 
-*"The man just WAITING in the doorway—instant tension. And then Jason doesn't panic, doesn't run, he invites Reeves to LUNCH. That confidence! Seven weeks of training showing. Reeves is terrifying BECAUSE he's polite. Professional menace is so much worse than cartoonish villain. 'That a threat?' 'It's a fact.' CHILLS. And Jason's reason—they rejected him at 16, now suddenly he's valuable? Fuck them. That's PERSONAL. Not just principle, REVENGE. And the team—Lina immediate, Milo cautious but loyal, RAE offering out but supporting—that's FAMILY. Then that ending: Reeves across the street, watching, taking notes. 'Thirty-six hours remaining.' Jason chose freedom, but the price is coming due. He's not safe. He's not hidden. He's HUNTED. And the countdown is ticking. I'm terrified for him. And I can't wait to see what happens next."*
+*"The man just WAITING in the doorway - instant tension. And then Jason doesn't panic, doesn't run, he invites Reeves to LUNCH. That confidence! Seven weeks of training showing. Reeves is terrifying BECAUSE he's polite. Professional menace is so much worse than cartoonish villain. 'That a threat?' 'It's a fact.' CHILLS. And Jason's reason - they rejected him at 16, now suddenly he's valuable? Fuck them. That's PERSONAL. Not just principle, REVENGE. And the team - Lina immediate, Milo cautious but loyal, RAE offering out but supporting - that's FAMILY. Then that ending: Reeves across the street, watching, taking notes. 'Thirty-six hours remaining.' Jason chose freedom, but the price is coming due. He's not safe. He's not hidden. He's HUNTED. And the countdown is ticking. I'm terrified for him. And I can't wait to see what happens next."*
 
 **Would I keep reading?** Absolutely. Stakes just went from internal (integration) to external (institutional power).
 
@@ -1096,13 +1096,13 @@ Thirty-six hours remaining.
 
 ## Final Assessment
 
-**This is masterful tension-building.** The chapter introduces external conflict (HOA) without making Reeves cartoonishly evil. He's polite, reasonable, professional—and terrifying BECAUSE of that. Jason's choice to refuse is principled but also deeply personal (they rejected him once). The team's solidarity feels earned. And that ending—Reeves watching, countdown ticking—perfect ominous note.
+**This is masterful tension-building.** The chapter introduces external conflict (HOA) without making Reeves cartoonishly evil. He's polite, reasonable, professional - and terrifying BECAUSE of that. Jason's choice to refuse is principled but also deeply personal (they rejected him once). The team's solidarity feels earned. And that ending - Reeves watching, countdown ticking - perfect ominous note.
 
-**The title "We're offering protection"** is brilliantly ironic—euphemism for cage, delivered with professional courtesy.
+**The title "We're offering protection"** is brilliantly ironic - euphemism for cage, delivered with professional courtesy.
 
 **No changes needed. Ready for publication.**
 
-**Final Rating: ????? (5/5)** - Pivotal chapter, professional menace, personal stakes, team solidarity, ominous ending. This is how you introduce institutional antagonist—not cartoon villain, but reasonable face of oppressive system.
+**Final Rating: ????? (5/5)** - Pivotal chapter, professional menace, personal stakes, team solidarity, ominous ending. This is how you introduce institutional antagonist - not cartoon villain, but reasonable face of oppressive system.
 
 ---
 

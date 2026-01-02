@@ -43,7 +43,7 @@ Then he sighed. Twenty-seven years old. Municipal Records Clerk. Living in a one
 
 *What am I even doing?*
 
-The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was—
+The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was - 
 
 A faint unease stirred in his chest, brief and difficult to name. Jason frowned, took another sip of water, and dismissed it. Just the Archive getting to him. Happened sometimes when he worked too late.
 
@@ -93,11 +93,11 @@ Jason stepped out onto his small balcony, the cheap sliding door sticking slight
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
-And there—just for a moment—something felt... different. Not a sound, exactly. More like standing in exactly the right spot at exactly the right time. A single, resonant tone. Pure, perfectly pitched, and resonating.
+And there - just for a moment - something felt... different. Not a sound, exactly. More like standing in exactly the right spot at exactly the right time. A single, resonant tone. Pure, perfectly pitched, and resonating.
 
 Then it was gone.
 
-His eyes snapped open, searching the empty night. Nothing. Just the city hum—traffic, an argument somewhere below, a dog barking three streets over.
+His eyes snapped open, searching the empty night. Nothing. Just the city hum - traffic, an argument somewhere below, a dog barking three streets over.
 
 "Oh great, tinnitus!" he muttered to himself, shaking his head. "I really need to go to bed. I really do."
 
@@ -105,9 +105,9 @@ But uncertainty swirled in his chest like smoke as he turned back inside, slidin
 
 He knew he would return to that archive tomorrow. He knew he would search deeper.
 
-Because whatever had happened tonight—if it was even real—felt unfinished.
+Because whatever had happened tonight - if it was even real - felt unfinished.
 
-And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope—
+And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope - 
 
 A small, traitorous part of him wondered:
 

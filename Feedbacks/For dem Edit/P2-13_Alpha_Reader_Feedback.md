@@ -18,6 +18,6 @@ Strong reconnaissance chapter with good tension and professional execution. The 
 - Could use brief character moment during the long stake-out
 
 ## Recommendation
-Add single line distinguishing this Mill-4 facility from training warehouse: "Not the industrial training space Elyra had claimed—this was the real Mill-4, Malvek's operation."
+Add single line distinguishing this Mill-4 facility from training warehouse: "Not the industrial training space Elyra had claimed - this was the real Mill-4, Malvek's operation."
 
 **Rating: 8/10**

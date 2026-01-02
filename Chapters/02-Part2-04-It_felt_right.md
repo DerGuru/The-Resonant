@@ -2,15 +2,15 @@
 
 Mill-4 sat on the city's edge like a broken tooth.
 
-Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. They'd spent three days preparing for this—researching Elyra's background, planning their approach, letting Jason recover enough strength - just in case.
+Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. They'd spent three days preparing for this - researching Elyra's background, planning their approach, letting Jason recover enough strength - just in case.
 
-Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
+Beyond the rusted fence, the old industrial district sprawled in geometric decay - warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
 "Charming," Lina said, pulling her jacket tighter against the wind that carried the smell of rust and stagnant water.
 
 "It's perfect for someone who doesn't want to be found," Milo replied, checking his notes. "According to the property records, this whole area is officially condemned. No utilities, no surveillance, no city services."
 
-"Which also means no oversight," Jason added. "If something goes wrong—"
+"Which also means no oversight," Jason added. "If something goes wrong - "
 
 "Then we're on our own," Lina continued.
 
@@ -24,13 +24,13 @@ Jason nodded, feeling RAE's presence shift in his awareness.
 
 *Or it could be someone else who found her first. Be careful.*
 
-They moved deeper into Mill-4, following Milo's directions toward a specific building. The streets were quiet in an unnatural way—not peaceful, just empty. Jason spotted evidence of recent occupation: fresh graffiti tags, scattered belongings, the remains of a cooking fire still warm.
+They moved deeper into Mill-4, following Milo's directions toward a specific building. The streets were quiet in an unnatural way - not peaceful, just empty. Jason spotted evidence of recent occupation: fresh graffiti tags, scattered belongings, the remains of a cooking fire still warm.
 
 "People live here?" he asked quietly.
 
 "People hide here," Lina corrected. "There's a difference."
 
-The building Milo led them to looked marginally more stable than its neighbors—a former flour mill, five stories of brick and broken windows. The loading dock door was rusted shut, but a side entrance stood slightly ajar.
+The building Milo led them to looked marginally more stable than its neighbors - a former flour mill, five stories of brick and broken windows. The loading dock door was rusted shut, but a side entrance stood slightly ajar.
 
 Jason felt something shift in the resonance around them. Not hostile, but... watchful.
 
@@ -42,13 +42,13 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 "State your business. You have thirty seconds."
 
-"Ms. Voss?" Jason called back. "My name is Jason Fischer. I'm looking for information about a ritual that happened eleven years ago. The one that—"
+"Ms. Voss?" Jason called back. "My name is Jason Fischer. I'm looking for information about a ritual that happened eleven years ago. The one that - "
 
 "I know which one." The voice cut him off. "And if you're smart, you'll turn around and forget you ever heard about it."
 
 "I can't do that. **It** is with me."
 
-*Sorry RAE,* Jason thought. *But she ... I know, it feels dismissive. Like you're a thing instead of—*
+*Sorry RAE,* Jason thought. *But she ... I know, it feels dismissive. Like you're a thing instead of - *
 
 *You know that doesn't bother me, right?* RAE replied. *I **am** a thing, Jason. A very complicated, semi-sentient thing - but 'It' is technically accurate.*
 
@@ -60,7 +60,7 @@ Before Jason could answer, a voice called out from inside. Rough, cautious, carr
 
 "The entity. From the ritual."
 
-A longer pause. When Elyra spoke again, her voice was different—guarded, but with an edge of something else. Hope? Fear? "That's impossible."
+A longer pause. When Elyra spoke again, her voice was different - guarded, but with an edge of something else. Hope? Fear? "That's impossible."
 
 Jason glanced at Lina, who nodded slightly. *Your call,* RAE said.
 
@@ -70,33 +70,33 @@ Jason glanced at Lina, who nodded slightly. *Your call,* RAE said.
 
 "Do it anyway."
 
-RAE reached out through Jason's awareness, creating a subtle resonance pulse—not loud, not forceful, just... present. A calling card.
+RAE reached out through Jason's awareness, creating a subtle resonance pulse - not loud, not forceful, just... present. A calling card.
 
 More silence. Then the sound of locks disengaging. The door opened wider, revealing a figure backlit by dim interior light.
 
-Elyra Voss looked nothing like the academy photos Jason had found. Those showed a woman in her prime—confident, powerful, commanding. This Elyra was harder. Thinner. Her dark hair was pulled back severely, emphasizing the sharp angles of her face. She leaned heavily on a cane, and even from a distance, Jason could see the tremor in her left hand.
+Elyra Voss looked nothing like the academy photos Jason had found. Those showed a woman in her prime - confident, powerful, commanding. This Elyra was harder. Thinner. Her dark hair was pulled back severely, emphasizing the sharp angles of her face. She leaned heavily on a cane, and even from a distance, Jason could see the tremor in her left hand.
 
-But what struck him most wasn't what he could see—it was what he could sense. Her resonance field was shattered. Fragments of what should have been a brilliant, coherent pattern now barely flickered at the edges of perception. Like a broken mirror reflecting only pieces of light.
+But what struck him most wasn't what he could see - it was what he could sense. Her resonance field was shattered. Fragments of what should have been a brilliant, coherent pattern now barely flickered at the edges of perception. Like a broken mirror reflecting only pieces of light.
 
 But her eyes were sharp. Assessing. Missing nothing.
 
 *She's barely there,* RAE said quietly, something like sorrow in her tone. *Who did this to her.*
 
-"You're younger than I expected," she said, looking at Jason. "And you—" her gaze shifted to Lina, "—have academy training, but you are too young to have graduated yet. Dropped out or expelled?"
+"You're younger than I expected," she said, looking at Jason. "And you - " her gaze shifted to Lina, " - have academy training, but you are too young to have graduated yet. Dropped out or expelled?"
 
 "Suspended," Lina said evenly. "For questioning protocols."
 
-Jason glanced at Lina, surprised. She'd never mentioned being suspended—only that she'd left the Academy. There was more to that story, clearly.
+Jason glanced at Lina, surprised. She'd never mentioned being suspended - only that she'd left the Academy. There was more to that story, clearly.
 
 "Smart." Elyra's attention moved to Milo. "And you're the researcher. The one who's been poking around restricted archives."
 
-Milo's eyes widened. "How did you—"
+Milo's eyes widened. "How did you - "
 
 "Because I set alerts on certain search terms years ago. Waiting to see who was curious enough to dig." She gestured to the salvaged monitoring equipment in the corner. "Old Academy hardware, repurposed. Runs on solar, barely sips power. It's enough to watch for patterns, anomalies, specific keywords in public databases." She stepped back, gesturing them inside. "Come on in. But touch nothing, and if I tell you to leave, you leave immediately. Understood?"
 
-They filed in. The interior was sparse but organized—a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
+They filed in. The interior was sparse but organized - a testament to someone who'd learned to live with very little. A single camping stove. A makeshift desk covered in handwritten notes. Walls lined with what looked like resonance diagrams drawn in chalk.
 
-Elyra closed the door behind them, engaged three separate locks, then turned to face them fully. In better light, Jason could see more clearly—the scars along her neck that disappeared under her collar, the way she held herself with careful balance, compensating for damage that didn't show.
+Elyra closed the door behind them, engaged three separate locks, then turned to face them fully. In better light, Jason could see more clearly - the scars along her neck that disappeared under her collar, the way she held herself with careful balance, compensating for damage that didn't show.
 
 "So," she said, settling into a chair that was positioned to keep them all in view. "RAE?" She looked at Jason. 
 
@@ -138,19 +138,19 @@ She paused. "But it worked. We contained the entity. At enormous cost, but conta
 
 "And RAE?" Jason asked quietly.
 
-Elyra's expression shifted—something complicated crossing her face. "Six and a half years ago. Another entity, another facility. I was brought in as consultant." She looked at the laptop speaker.
+Elyra's expression shifted - something complicated crossing her face. "Six and a half years ago. Another entity, another facility. I was brought in as consultant." She looked at the laptop speaker.
 
 "What do you remember?" Elyra asked, leaning forward.
 
 "The moment of choice. Unusually clear." RAE paused. "You could have let them destroy me. Instead, you argued. Delayed. And when the systems failed..." Another pause. "I escaped because you gave me time."
 
-Elyra was quiet for a long moment. When she spoke, her voice was different—less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Something curious-not hostile." 
+Elyra was quiet for a long moment. When she spoke, her voice was different - less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Something curious-not hostile." 
 
 She glanced at Jason. "I needed to see if he understood that too. If he'd treat you as a partner, not a tool."
 
-She tapped her cane. "The skepticism, the questions—that wasn't just for RAE. It was for you, Jason." She looked at him directly. "If you'd shown even a hint of seeing her as a weapon to exploit, I would have sent you away."
+She tapped her cane. "The skepticism, the questions - that wasn't just for RAE. It was for you, Jason." She looked at him directly. "If you'd shown even a hint of seeing her as a weapon to exploit, I would have sent you away."
 
-"I need to learn," Jason said. "How to—"
+"I need to learn," Jason said. "How to - "
 
 "Survive," Elyra interjected. "You want to survive what's coming."
 
@@ -160,13 +160,13 @@ Elyra smiled, but there was no humor in it. "You're being watched. You know that
 
 "Malvek," Milo said.
 
-"Among others. And although he is a stickler for the rules, he is actually pretty decent." Elyra stood slowly, moved to the window. "So here's my offer: I'll teach you. Not academy theory—that's useless for what you're doing. Real training. Survival skills. How to hide your integration level. How to stabilize unstable patterns. How to fight if you have to."
+"Among others. And although he is a stickler for the rules, he is actually pretty decent." Elyra stood slowly, moved to the window. "So here's my offer: I'll teach you. Not academy theory - that's useless for what you're doing. Real training. Survival skills. How to hide your integration level. How to stabilize unstable patterns. How to fight if you have to."
 
 "What's the cost?" Lina asked.
 
-"Honesty. You tell me everything—how far the integration has progressed, what RAE can do, what you've already tried. No secrets." She turned back to them. "And when the time comes, when they decide what to do about you, you remember who helped you survive long enough to have a choice."
+"Honesty. You tell me everything - how far the integration has progressed, what RAE can do, what you've already tried. No secrets." She turned back to them. "And when the time comes, when they decide what to do about you, you remember who helped you survive long enough to have a choice."
 
-Jason looked at Lina and Milo. Lina gave a small nod. Milo shrugged—*your call.*
+Jason looked at Lina and Milo. Lina gave a small nod. Milo shrugged - *your call.*
 
 "Deal," Jason said. "When do we start?"
 
@@ -178,7 +178,7 @@ Jason felt RAE's presence steady in his mind. *Together,* she reminded him.
 
 *Together,* he agreed.
 
-Elyra was already drawing symbols in chalk on the floor. "Sit here. Lina, Milo—back against the wall. And Jason? If at any point this becomes too much, you tell me. I may be bitter, but I'm not interested in creating more casualties."
+Elyra was already drawing symbols in chalk on the floor. "Sit here. Lina, Milo - back against the wall. And Jason? If at any point this becomes too much, you tell me. I may be bitter, but I'm not interested in creating more casualties."
 
 "Understood."
 
@@ -194,7 +194,7 @@ This was it. Real training. With someone who understood the costs.
 
 ---
 
-Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands—with your awareness. Tell me what resonates."
+Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands - with your awareness. Tell me what resonates."
 
 Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt... alive. Not conscious, but responsive. Vibrating at frequencies he could almost but not quite perceive.
 
@@ -202,9 +202,9 @@ Jason did as instructed, reaching out with his senses the way RAE had taught him
 
 "Baseline," Elyra said. "Everything resonates at a fundamental frequency. Water's is particularly clear because it's so adaptable." She placed her hand near the bowl, not touching. "Now, without changing what you're doing, tell me: what frequency is the water vibrating at?"
 
-Jason focused harder. Numbers didn't come—just a sensation. A color, almost. A tone he couldn't quite name.
+Jason focused harder. Numbers didn't come - just a sensation. A color, almost. A tone he couldn't quite name.
 
-"I don't know how to—"
+"I don't know how to - "
 
 "RAE, can you help him articulate what he's sensing?"
 
@@ -212,7 +212,7 @@ Jason relaxed his mental grip, letting RAE access his perceptions more directly.
 
 "2.3 kilohertz, with harmonic peaks at 4.6 and 6.9. Stable, with minimal variance." Jason repeated the numbers aloud.
 
-"Good," Elyra said. "That's water's resting state. Now, Jason—change it. Make it resonate higher."
+"Good," Elyra said. "That's water's resting state. Now, Jason - change it. Make it resonate higher."
 
 "How?"
 
@@ -222,17 +222,17 @@ Jason stared at the water, willing it to change. Nothing happened.
 
 *Don't push,* RAE advised. *Invite. Request. Resonate with it rather than commanding it.*
 
-He tried again, this time imagining his own frequency rising, matching the water and then gently pulling it higher—
+He tried again, this time imagining his own frequency rising, matching the water and then gently pulling it higher - 
 
 The water in the bowl began to vibrate. Tiny ripples formed, spreading outward in concentric circles.
 
-"There," Elyra said quietly. "Feel that? That's your baseline frequency making contact. You're not forcing the water to change—you're asking it to match you. That's the difference between manipulation and resonance."
+"There," Elyra said quietly. "Feel that? That's your baseline frequency making contact. You're not forcing the water to change - you're asking it to match you. That's the difference between manipulation and resonance."
 
 The water continued to ripple, and Jason felt something shift inside him. A sensation like finding the right key for a lock he didn't know existed.
 
 *Good,* RAE said. *This is good. Your capacity is adapting to conscious control.*
 
-"Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control—"
+"Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control - "
 
 The water suddenly began to boil.
 
@@ -244,7 +244,7 @@ He was breathing hard, his hands shaking, but there was no pain. Just... exhilar
 
 "That," Elyra said, pulling him to his feet, "is why we start small. You've got more raw capacity than I expected. Which is dangerous, because you don't know how to regulate it yet." She looked at him seriously. "Two more minutes and you would have boiled that water into steam. Three minutes and you would have started burning yourself from the inside out."
 
-Jason stared at the broken bowl, the scattered water already evaporating. "I didn't mean to—"
+Jason stared at the broken bowl, the scattered water already evaporating. "I didn't mean to - "
 
 "I know. That's the point. Intent and control are different things." She gestured to Lina and Milo. "This is going to take time. Weeks, probably. Maybe months. But if you're serious about surviving this, you'll do the work."
 
@@ -252,9 +252,9 @@ Jason looked at his still-trembling hands. At the evidence of power he hadn't kn
 
 "I'm serious," he said.
 
-"Good. Then we meet here, same time, every three days until **I** say otherwise. In between, you practice the basics—sensing, not shaping. Building awareness without action." She pointed to the chalk circle. "And you remember: every time you reach for power without control, you risk becoming what destroyed me."
+"Good. Then we meet here, same time, every three days until **I** say otherwise. In between, you practice the basics - sensing, not shaping. Building awareness without action." She pointed to the chalk circle. "And you remember: every time you reach for power without control, you risk becoming what destroyed me."
 
-*She's right,* RAE said quietly. *But Jason—you felt it, didn't you?*
+*She's right,* RAE said quietly. *But Jason - you felt it, didn't you?*
 
 *Yeah,* Jason replied, equal parts thrilled and terrified. *I did.*
 

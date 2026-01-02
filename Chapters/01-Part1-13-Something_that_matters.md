@@ -10,7 +10,7 @@ He blinked. "Am I that obvious?"
 
 Jason considered that. How to put it into words?
 
-"It's just different now," he said finally. "All of this. I spent so long looking at screens, tracking data, filing records. Everything was... flat. Two-dimensional. But now—"
+"It's just different now," he said finally. "All of this. I spent so long looking at screens, tracking data, filing records. Everything was... flat. Two-dimensional. But now - "
 
 *Now you perceive depth,* RAE finished. *Layers. Context beyond the surface.*
 

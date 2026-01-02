@@ -1,23 +1,23 @@
-﻿# Part 4 — Outline: Boundaries & Becoming
+﻿# Part 4  -  Outline: Boundaries & Becoming
 
 **Zeitspanne:** ~6-8 Wochen nach Part 3-14  
 **Kapitel:** 12  
-**Thema:** Der Preis des Sieges — Synthesis im Alltag, Käfig als "Partnerschaft", Liebe als bewusste Wahl
+**Thema:** Der Preis des Sieges  -  Synthesis im Alltag, Käfig als "Partnerschaft", Liebe als bewusste Wahl
 **POV:** Jason/RAE (We)
 ---
 
 ## **Leitachsen (durchgehend):**
-0. Es gibt kein Jason *oder* RAE mehr — nur noch **We**. Identität ist verschmolzen.
-1. **The Terms / The Cage:** HOA/Malvek schützt euch — und hält euch an der Leine. "Agreed conditions" = strukturierter Druck, der vernünftig klingt.
+0. Es gibt kein Jason *oder* RAE mehr  -  nur noch **We**. Identität ist verschmolzen.
+1. **The Terms / The Cage:** HOA/Malvek schützt euch  -  und hält euch an der Leine. "Agreed conditions" = strukturierter Druck, der vernünftig klingt.
 2. **The New We:** Synthesis ist stabil (kein Flackern mehr). Macht + Preis. Alltag + Beziehung müssen neu kalibriert werden.
 3. **Lina als Boundary-Partnerin:** Kein Love-Triangle; es geht um Privatsphäre, Consent, Zugehörigkeit. Sie bekommt operative Agency.
-4. **RP-0 Learning Arc:** „Kind mit Atommacht" — Ethik-Lernen mit echten Fail-States. Bleibt fremd, potenziell gefährlich.
+4. **RP-0 Learning Arc:** „Kind mit Atommacht"  -  Ethik-Lernen mit echten Fail-States. Bleibt fremd, potenziell gefährlich.
 5. **Elyras Heilungsritual:** Bewusstes Trauer-/Heilungs-Framework, Mrs. Amari als Zeugin/Anker.
 6. **Love Arc:** Dates → näherkommen → **Antrag im letzten Drittel** → Hochzeit als gewählte Normalität.
 
 ---
 
-## Kapitel 1 — The Morning After
+## Kapitel 1  -  The Morning After
 
 **Zeitmarker:** Tag nach Part 3-14 (morgendliches Aufwachen)
 
@@ -31,13 +31,13 @@
 - **Green→Yellow Moment:** Steinboden "antwortet" zu stark auf unbewusste Resonanz (Tasse vibriert leicht). We ziehen sich sofort zurück, erschrocken über fehlende Kontrolle.
 - **HOA-Ping:** Nachricht von Reeves auf We's Gerät: "Mandatory check-in. Tomorrow, 10 AM. Non-negotiable. Bring Ms. Morandi."
 
-**Emotional:** Der Sieg über RP-0 hat einen Preis. Normalität ist nicht mehr normal. Das "We" ist stabil — aber fremd.
+**Emotional:** Der Sieg über RP-0 hat einen Preis. Normalität ist nicht mehr normal. Das "We" ist stabil  -  aber fremd.
 
 **Hook:** HOA will sofort Kontrolle zurück. "Agreed conditions" beginnen zu beißen.
 
 ---
 
-## Kapitel 2 — The Check-In
+## Kapitel 2  -  The Check-In
 
 **Zeitmarker:** Tag 2, 10 AM
 
@@ -51,15 +51,15 @@
   - **Privat wehtut:** Baseline scan zeigt Synthesis-Tiefe explizit messbar (Integration jetzt bei ~65%). Numerisch erfasst. Katalogisiert.
   - **Lina wird separiert:** "Security protocol. Ms. Morandi, please wait in the adjacent room. We need to assess Mr. Fischer independently."
 - **Reeves, allein mit We, ehrlich:** "I don't want to break you. I want you to be *controllable*. That's not the same thing. But it's what we need."
-- **Schutz + Gegenleistung:** Malvek kehrt zurück: "We'll provide protection. Legal status. Resources. But we need transparency. Full disclosure of capabilities. And—" (pause) "—a demonstration. Public. Controlled. Shows the city that synthesis can be safe."
+- **Schutz + Gegenleistung:** Malvek kehrt zurück: "We'll provide protection. Legal status. Resources. But we need transparency. Full disclosure of capabilities. And - " (pause) " - a demonstration. Public. Controlled. Shows the city that synthesis can be safe."
 
 **Emotional:** Lina merkt: Wenn sie bleibt, wählt sie den Käfig mit. We fühlen sich katalogisiert, nicht respektiert.
 
-**Hook:** "Voluntary demonstration" angekündigt (halböffentlich, strategischer Wert). Zwei Wochen Vorlaufzeit. "Show us what synthesis can do—safely."
+**Hook:** "Voluntary demonstration" angekündigt (halböffentlich, strategischer Wert). Zwei Wochen Vorlaufzeit. "Show us what synthesis can do - safely."
 
 ---
 
-## Kapitel 3 — Private Space (The Charter)
+## Kapitel 3  -  Private Space (The Charter)
 
 **Zeitmarker:** Abend Tag 2
 
@@ -84,7 +84,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 ---
 
-## Kapitel 4 — Learning Curve (RP-0's First Lesson)
+## Kapitel 4  -  Learning Curve (RP-0's First Lesson)
 
 **Zeitmarker:** Ende Woche 1
 
@@ -104,13 +104,13 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 - **We erklärt (geduldig, aber ernst):** "Intent doesn't negate consequence. You have to *ask* before helping. Even if help seems obvious. *Especially* then."
 - RP-0 (Pause, dann): "Acknowledged. Updating operational parameters. Question: How do I know when asking is appropriate vs. when action is required?"
 
-**Emotional:** Lernen ist möglich — aber gefährlich. RP-0 bleibt fremd, potenziell tödlich trotz guter Absichten.
+**Emotional:** Lernen ist möglich  -  aber gefährlich. RP-0 bleibt fremd, potenziell tödlich trotz guter Absichten.
 
 **Hook:** Malvek (beobachtet durch Einwegspiegel): "Progress. But not fast enough. Casualties will be significant if we wait. We need to accelerate training."
 
 ---
 
-## Kapitel 5 — Teeth on Both Sides
+## Kapitel 5  -  Teeth on Both Sides
 
 **Zeitmarker:** Woche 2
 
@@ -118,7 +118,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 **Szenen:**
 - **Strategiemeeting (HOA, We, Elyra anwesend):** Malvek präsentiert Daten.
-  - "Three resonance incidents this week. Two casualties. RP-0 could prevent these—if it understood intervention protocols."
+  - "Three resonance incidents this week. Two casualties. RP-0 could prevent these - if it understood intervention protocols."
   - **Malvek will "live trials":** "Controlled scenarios. Real resonance emergencies. RP-0 learns faster through practice."
   - Größere Bandbreite, mehr Risiko, schnellere Resultate.
 - **Elyra insistiert:** "Precision over power. Rushing training creates *more* casualties, not fewer. RP-0 needs time to internalize ethics, not just memorize rules."
@@ -136,11 +136,11 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 **Emotional:** Der Kernsatz wird bestätigt: Consent bleibt heilig, auch wenn's weh tut. Aber der Druck steigt.
 
-**Hook:** Als "Belohnung" für Kooperation gibt Malvek neue Auflagen: "Demonstration moved up. Ten days. And Ms. Morandi participates—to show stability extends to associated persons."
+**Hook:** Als "Belohnung" für Kooperation gibt Malvek neue Auflagen: "Demonstration moved up. Ten days. And Ms. Morandi participates - to show stability extends to associated persons."
 
 ---
 
-## Kapitel 6 — Make Yourself Uninteresting (…und das erste Date)
+## Kapitel 6  -  Make Yourself Uninteresting (…und das erste Date)
 
 **Zeitmarker:** Woche 3
 
@@ -171,7 +171,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 ---
 
-## Kapitel 7 — The Healing Ritual (Elyra)
+## Kapitel 7  -  The Healing Ritual (Elyra)
 
 **Zeitmarker:** Woche 4
 
@@ -180,7 +180,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 **Szenen:**
 - **Vorbereitung (Warehouse, Abend):**
   - Elyra hat Ritualstruktur fertig entworfen (Diagramme/Flow sichtbar an Wänden).
-  - Sie ist nicht passiv — sie *arbeitet* daran wie an einem Einsatzplan.
+  - Sie ist nicht passiv  -  sie *arbeitet* daran wie an einem Einsatzplan.
   - Erklärt Ablauf: Objekt (Elyras alter Kristall-Carrier) → Atem (synchronisiert) → Boundary ziehen (Mrs. Amari) → Field aktivieren (We + Lina stabilisieren).
 - **Mrs. Amari übernimmt zugesagte Rolle:**
   - Erscheint pünktlich, praktisch gekleidet.
@@ -202,7 +202,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 ---
 
-## Kapitel 8 — The Rewrite (…und das zweite Date)
+## Kapitel 8  -  The Rewrite (…und das zweite Date)
 
 **Zeitmarker:** Woche 5
 
@@ -210,7 +210,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 **Szenen:**
 - **Dokumente/Logs verschwinden:**
-  - Milo zeigt We + Lina: Archive-Einträge über RP-0's Entstehung, frühe Tests — "medizinisch" umetikettiert oder gelöscht.
+  - Milo zeigt We + Lina: Archive-Einträge über RP-0's Entstehung, frühe Tests  -  "medizinisch" umetikettiert oder gelöscht.
   - "Someone's sanitizing history. Making it look like RP-0 was always 'treatable,' not 'dangerous.'"
   - Milo (düster): "They're rewriting the narrative. If it goes wrong, they'll say we knew the risks."
 - **We konfrontiert Reeves (Off-Record-Treffen):**
@@ -230,7 +230,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 ---
 
-## Kapitel 9 — The Third Voice
+## Kapitel 9  -  The Third Voice
 
 **Zeitmarker:** Woche 6
 
@@ -253,13 +253,13 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
   - We erkennt (intern): Lina wählen, egal was HOA tut. Commitment unabhängig von Käfig.
   - We beginnt leise Antrag zu planen: Ring (einfach, bedeutungsvoll), Ort (sicher, klein), Timing (nach Demonstration, vor nächster Eskalation).
 
-**Emotional:** Nicht reagieren — *wählen*. Autonomie durch Entscheidung, nicht durch Rebellion.
+**Emotional:** Nicht reagieren  -  *wählen*. Autonomie durch Entscheidung, nicht durch Rebellion.
 
 **Hook:** HOA-Nachricht (Malvek): "Demonstration scheduled. Final. Three days. Public venue. Media presence confirmed. Perform well."
 
 ---
 
-## Kapitel 10 — The Demonstration (und der Antrag)
+## Kapitel 10  -  The Demonstration (und der Antrag)
 
 **Zeitmarker:** Ende Woche 6
 
@@ -274,8 +274,8 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
     - **Phase 3:** "Stability variable" (Lina tritt bei, zeigt dass "associated person" sicher ist).
   - We performt **präzise:** Boundary halten, keine Overwrite-Impulse, Green-Zone durchgehend.
   - Publikum beeindruckt. Medien-Reaktion positiv ("Synthesis kann sicher sein").
-- **Malvek gratuliert — und zieht Schrauben an:**
-  - "Excellent work. This changes public perception. But—" (Pause) "—we need ongoing demonstrations. Quarterly. Non-negotiable."
+- **Malvek gratuliert  -  und zieht Schrauben an:**
+  - "Excellent work. This changes public perception. But - " (Pause) " - we need ongoing demonstrations. Quarterly. Non-negotiable."
   - Leine bleibt, wird enger (weil We jetzt "wertvoll" sind).
 - **Nachts, stiller Spaziergang (Park, Mondlicht):**
   - We bittet um Linas Hand (Ring: schlicht, Silber, kleiner eingelassener Stein).
@@ -283,13 +283,13 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
   - Lina (Tränen, Lächeln): "Yes. But we write the rules together. All three of us."
   - We: "Agreed. Together."
 
-**Emotional:** Joy unter Druck — trotzdem echt. Commitment als Widerstand gegen Kontrolle.
+**Emotional:** Joy unter Druck  -  trotzdem echt. Commitment als Widerstand gegen Kontrolle.
 
 **Hook:** Direkt danach, We's Gerät: HOA-Nachricht (Reeves): "Report immediately. RP-0 incident. Urgent."
 
 ---
 
-## Kapitel 11 — Engagement Under Surveillance (Boundary Conditions)
+## Kapitel 11  -  Engagement Under Surveillance (Boundary Conditions)
 
 **Zeitmarker:** Woche 7
 
@@ -321,7 +321,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 ---
 
-## Kapitel 12 — The Wedding
+## Kapitel 12  -  The Wedding
 
 **Zeitmarker:** Woche 8
 
@@ -345,7 +345,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
   - Milo (dokumentiert alles, grinst): "For the record. Because someone has to."
 - **Abschlussbild:**
   - Ring an Linas Hand, Sonnenlicht durch Warehouse-Fenster, Steinboden unter ihren Füßen.
-  - Leise Resonanzwelle darunter (kaum spürbar, aber da) — nicht bedrohlich, sondern... präsent.
+  - Leise Resonanzwelle darunter (kaum spürbar, aber da)  -  nicht bedrohlich, sondern... präsent.
 
 **Emotional:** Normalität als Widerstand. Liebe als gewählte Realität, trotz Käfig.
 
@@ -354,7 +354,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 - We (lächelt, flüstert zurück): "Keep learning. We'll be here."
 
 **Letzter Satz:**
-*We took Lina's hand. The resonance hummed beneath us—quiet, patient, waiting. Tomorrow would bring new tests, new cages, new choices. But tonight? Tonight was ours.*
+*We took Lina's hand. The resonance hummed beneath us - quiet, patient, waiting. Tomorrow would bring new tests, new cages, new choices. But tonight? Tonight was ours.*
 
 ---
 
@@ -362,7 +362,7 @@ POV-Regel: Narration bleibt durchgehend "We". Innere Konflikte werden als "We di
 
 - **Synthesis:** Stabil, aber nicht ohne Preis. Identität + Beziehung müssen neu kalibriert werden.
 - **Käfig:** HOA bleibt Kontrolle, aber We behalten Würde durch bewusste Wahl.
-- **Lina:** Nicht Opfer, nicht Anhängsel — Partnerin mit Agency.
+- **Lina:** Nicht Opfer, nicht Anhängsel  -  Partnerin mit Agency.
 - **RP-0:** Lernt, bleibt gefährlich, aber zeigt echten Fortschritt.
 - **Elyra:** Geheilt (teilweise), hoffnungsvoll, selbstbestimmt.
 - **Liebe:** Gewählt, nicht erzwungen. Commitment als Akt der Freiheit.

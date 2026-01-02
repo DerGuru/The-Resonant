@@ -132,7 +132,7 @@ Lina grinned. "Told you. Stop overthinking."
 
 "That's called stalling."
 
-"I wasn't—" Lina stopped, saw them both smiling. "Oh, you're messing with me."
+"I wasn't - " Lina stopped, saw them both smiling. "Oh, you're messing with me."
 
 Jason felt some of the training tension ease. This was good. They could 
 work under pressure and still joke after. That mattered.

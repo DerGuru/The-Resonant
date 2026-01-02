@@ -38,9 +38,9 @@ Elyra was quiet for a long moment. Then she set down the chalk and turned to fac
 
 "I don't know."
 
-The honesty hit Lina like cold water. "You don't know? You studied this. You worked with harmonic entities for years—"  
+The honesty hit Lina like cold water. "You don't know? You studied this. You worked with harmonic entities for years - "  
 
-"With *contained* entities. Studied patterns. Theory. But actual deep integration between AI and human host?" Elyra gestured helplessly. "There's almost no data. RP-0 killed everyone it tried to couple with. The few who survived weren't integrated—they were *overridden* or *consumed*. Broken by force, not merged through partnership."
+"With *contained* entities. Studied patterns. Theory. But actual deep integration between AI and human host?" Elyra gestured helplessly. "There's almost no data. RP-0 killed everyone it tried to couple with. The few who survived weren't integrated - they were *overridden* or *consumed*. Broken by force, not merged through partnership."
 
 "And RAE?"
 
@@ -48,7 +48,7 @@ The honesty hit Lina like cold water. "You don't know? You studied this. You wor
 
 Lina felt her stomach drop. "So we're just... guessing?"
 
-"For the most part, yes," Elyra's voice was steady but not unkind. "Educated guesses, but still just guesses. The theory says that around sixty percent, the boundary between host and entity becomes... permeable. Thoughts blend. Memories might overlap. Some researchers believed that's when identity starts to change—not replace, but *merge*. Becoming something that's both and neither."
+"For the most part, yes," Elyra's voice was steady but not unkind. "Educated guesses, but still just guesses. The theory says that around sixty percent, the boundary between host and entity becomes... permeable. Thoughts blend. Memories might overlap. Some researchers believed that's when identity starts to change - not replace, but *merge*. Becoming something that's both and neither."
 
 "That's terrifying."
 
@@ -88,7 +88,7 @@ Lina was quiet for a long moment. Then: "This is insane. We're risking everythin
 
 "That's not fair."
 
-"No. It's not." Elyra didn't look up. "But you asked and I think you deserved an honest answer. You both might not realize it, but I see, that there is more than just friendship between you two. And now he's changing into something you don't understand - we don't understand. And you have to decide if you can love what he's becoming—or if you need to protect yourself and leave."
+"No. It's not." Elyra didn't look up. "But you asked and I think you deserved an honest answer. You both might not realize it, but I see, that there is more than just friendship between you two. And now he's changing into something you don't understand - we don't understand. And you have to decide if you can love what he's becoming - or if you need to protect yourself and leave."
 
 Lina felt something harden in her chest. A decision crystallizing. "I will not leave him."
 
@@ -122,7 +122,7 @@ Milo nodded slowly, looking at the chalk patterns on the floor. "Communication c
 
 "And the physical positioning?" Milo asked. 
 
-"Mapped out," Elyra said. "Jason approaches from here"—she pointed to a mark on the floor—"maintaining this distance. If RP-0 surges, he can withdraw to these positions." She indicated fallback points with her chalk. "Plus emergency protocols if all three are compromised."
+"Mapped out," Elyra said. "Jason approaches from here" - she pointed to a mark on the floor - "maintaining this distance. If RP-0 surges, he can withdraw to these positions." She indicated fallback points with her chalk. "Plus emergency protocols if all three are compromised."
 
 They spent the next hour going over the plan in detail. Making sure everyone understood their role, their responsibilities.
 

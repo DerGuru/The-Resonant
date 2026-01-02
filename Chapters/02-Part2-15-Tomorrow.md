@@ -42,19 +42,19 @@ He picked up his fork. Set it down. "I told you about this already, didn't I?"
 
 "Sorry. I just..." Milo shook his head. "I keep thinking about it. About how real it felt. How close it was." He looked up. "Three weeks ago, that was my biggest worry. Whether she'd say yes."
 
-"You still could," Jason said. "After—"
+"You still could," Jason said. "After - "
 
 "After what?" Milo looked up. His eyes were tired. "After we become fugitives? After we fight Malvek's containment teams? After everything changes?" He shook his head. "That life's gone. The moment I chose to help you, it was gone."
 
-"You don't have to do this," Jason said. "Either of you. You could still walk away. Go back to your lives. Let me—"
+"You don't have to do this," Jason said. "Either of you. You could still walk away. Go back to your lives. Let me - "
 
 "Let you what?" Lina's voice had an edge. "Face this alone? With RAE? Against Malvek's entire organization?"
 
-"I'm the one they want. RAE is—"
+"I'm the one they want. RAE is - "
 
 "And we're with you." Lina's voice was firm. "That's the choice we made. Together."
 
-"But—"
+"But - "
 
 "No." Milo's voice was quiet but certain. "Lina's right. We chose this. Maybe we were stupid. Maybe we didn't understand what we were choosing. But we chose it." He picked up his fork. Set it down again. "Besides, I'm not sure I want that old life anymore. That safe, quiet, forgettable life."
 
@@ -113,7 +113,7 @@ Elyra appeared from the shadows. "You need to move. Tonight. Get essentials from
 
 She handed them each a slip of paper with an address. "Hotel. District 7. Cash only. Use the names I wrote down. Two rooms." She paused. "This is it. After tonight, you can't go home again."
 
-"What about—" Milo started.
+"What about - " Milo started.
 
 "Your families will be fine. You're the targets, not them. But you can't contact them. Not for a while." Elyra's expression softened slightly. "I know it's hard. But it's necessary."
 
@@ -163,7 +163,7 @@ Milo arrived last, his equipment bag slung over one shoulder, tablet clutched to
 
 Nobody knew what to say to that.
 
-Elyra appeared from a side hallway. "Rooms 314 and 316. Jason and Milo in 314. Lina in 316. I'm in 318, across the hall." She handed out keys. Physical keys, not cards. Old school. "Emergency beacons stay with you. Always. If anything happens—"
+Elyra appeared from a side hallway. "Rooms 314 and 316. Jason and Milo in 314. Lina in 316. I'm in 318, across the hall." She handed out keys. Physical keys, not cards. Old school. "Emergency beacons stay with you. Always. If anything happens - "
 
 "We know," Jason said. "Crush it."
 

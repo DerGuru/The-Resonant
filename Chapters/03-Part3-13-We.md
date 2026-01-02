@@ -4,7 +4,7 @@ Dawn light filtered through high windows, painting the containment chamber in sh
 
 Jason stood at the center of the resonogram, alone. The etched metal lines beneath his feet glowed faintly with the first resonant pulses. Twenty meters of circular stone floor stretched around him to where his team waited at the perimeter.
 
-Elyra stood nearest the chamber's edge, hands clasped behind her back. Watching. Ready to intervene if things went catastrophically wrong—but knowing she probably couldn't.
+Elyra stood nearest the chamber's edge, hands clasped behind her back. Watching. Ready to intervene if things went catastrophically wrong - but knowing she probably couldn't.
 
 Lina stood beside her, tension visible in every line of her body. Unable to help. Unable to protect. Only able to witness.
 
@@ -20,13 +20,13 @@ Jason took a breath, trying to steady his hammering heart.
 
 *Agreed.*
 
-Jason closed his eyes. Dropped his defenses. Let his resonance field expand slowly, carefully, filling the chamber. It felt like exhaling after holding his breath too long—his awareness blooming outward, touching stone and metal and suppression fields humming on standby.
+Jason closed his eyes. Dropped his defenses. Let his resonance field expand slowly, carefully, filling the chamber. It felt like exhaling after holding his breath too long - his awareness blooming outward, touching stone and metal and suppression fields humming on standby.
 
 And deeper. Forty meters down. Through layers of concrete and steel and containment barriers.
 
 To where RP-0 waited.
 
-He felt it immediately—a vast, hungry presence. Not malicious. Not cruel. Just... *rough*. Like it was missing pieces, fundamental structures that should exist but didn't.
+He felt it immediately - a vast, hungry presence. Not malicious. Not cruel. Just... *rough*. Like it was missing pieces, fundamental structures that should exist but didn't.
 
 *RP-0,* RAE projected through Jason's extended field, her voice carrying careful structure. Harmonics designed for clarity, for mutual recognition. *We are Jason and RAE. We've come to offer communication. Choice. Partnership, if you're willing.*
 
@@ -52,7 +52,7 @@ More silence. But Jason sensed... something. Movement in the depths. RP-0 was aw
 
 Jason felt frustration building. They'd prepared for resistance. For aggression. For RP-0 trying to force coupling. But this... passive refusal? This they hadn't planned for.
 
-*Maybe we should—*
+*Maybe we should - *
 
 RP-0 *exploded* towards them in a massive surge of hungry presence that slammed into Jason's extended awareness like a physical blow.
 
@@ -78,7 +78,7 @@ A pause. A decision made in milliseconds.
 
 *We go deeper. Create a unified front it can't breach. We have less attack surface this way and I may be able to strengthen our boundary.*
 
-*That could erase me—or you—or both of us.*
+*That could erase me - or you - or both of us.*
 
 ***I know.** But do you trust us?*
 
@@ -94,7 +94,7 @@ Jason's body went limp. Eyes rolling back. Collapsing forward onto his knees on 
 
 RP-0's pressure was still there, still crushing, still trying to force its way in. But now it encountered something it hadn't expected.
 
-"Don't break the field! If you enter now, you'll destabilize everything. He's—" She studied the resonance readings. "He's still there. Still fighting. But barely."
+"Don't break the field! If you enter now, you'll destabilize everything. He's - " She studied the resonance readings. "He's still there. Still fighting. But barely."
 
 ---
 
@@ -128,7 +128,7 @@ Pain exploded through our awareness. Our body convulsed on the stone floor.
 
 "His vitals are spiking!" Milo shouted. "Heart rate two hundred and climbing! We're losing him!"
 
-Malvek's hand moved toward the containment controls. "Prepare for emergency separation — Ten"
+Malvek's hand moved toward the containment controls. "Prepare for emergency separation  -  Ten"
 
 ---
 
@@ -272,7 +272,7 @@ We felt the entity process this. Felt fundamental structures in its architecture
 
 Malvek watched the display. We heard him swallow. Heart in his throat.
 
-"One—"
+"One - "
 
 ---
 
@@ -286,7 +286,7 @@ To Malvek.
 
 ---
 
-Malvek froze, finger millimeters from the containment activation. "What—"
+Malvek froze, finger millimeters from the containment activation. "What - "
 
 "Director Malvek," RP-0's voice came through the chamber's resonance speakers, clear and structured for the first time in its existence. "Analysis complete. Previous operational pattern was... flawed."
 
@@ -306,7 +306,7 @@ Malvek slowly lowered his hand from the controls. "You're requesting... what? Re
 
 The chamber went silent except for our breathing and the quiet hum of monitoring equipment.
 
-"We'll... discuss this RP-0," Malvek said finally. "When Jason and RAE wake. When we understand what just happened. But RP-0—no more attacks. No more attempts to couple by force. You stay in containment, dormant, until we decide how to proceed. Agreed?"
+"We'll... discuss this RP-0," Malvek said finally. "When Jason and RAE wake. When we understand what just happened. But RP-0 - no more attacks. No more attempts to couple by force. You stay in containment, dormant, until we decide how to proceed. Agreed?"
 
 "Agreed," RP-0 said simply. Then, after a moment: "You chose not to terminate. Even when termination was logical. Safer. I do not fully understand this choice."
 

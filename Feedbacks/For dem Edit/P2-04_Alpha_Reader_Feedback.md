@@ -9,14 +9,14 @@ This is a strong chapter that successfully introduces Elyra Voss as a mentor fig
 
 ### Character Introduction - Elyra Voss
 **Excellent execution**: Elyra is immediately compelling and distinct
-- **Physical description that tells story**: Scars, tremor, cane—all consequences of the ritual
-- **Voice**: Bitter but not cruel, cynical but still helpful—complex and layered
+- **Physical description that tells story**: Scars, tremor, cane - all consequences of the ritual
+- **Voice**: Bitter but not cruel, cynical but still helpful - complex and layered
 - **Contrast with photos**: "This Elyra was harder. Thinner." - shows cost of her experience
-- **Intelligence**: She's been monitoring, waiting, prepared—feels genuinely formidable
+- **Intelligence**: She's been monitoring, waiting, prepared - feels genuinely formidable
 - **Vulnerability**: The 3.2% capacity detail is devastating and specific
 
 ### Setting - Mill-4
-- **Atmospheric**: "Broken tooth," "geometric decay," "calculated neglect"—evocative and specific
+- **Atmospheric**: "Broken tooth," "geometric decay," "calculated neglect" - evocative and specific
 - **Functional**: The condemned district makes sense as a hiding place
 - **Lived-in details**: Fresh graffiti, warm cooking fires, scattered belongings
 - **Wards**: Passive but sophisticated observation gives Elyra agency
@@ -24,14 +24,14 @@ This is a strong chapter that successfully introduces Elyra Voss as a mentor fig
 ### Dialogue and Tension
 - **Elyra's assessment**: Her rapid-fire reading of each character establishes competence
 - **"Partnership or slow integration"**: Cuts to the core concern immediately
-- **Trust negotiation**: The 30-second warning, proving RAE's identity, the conditional entry—all build tension naturally
+- **Trust negotiation**: The 30-second warning, proving RAE's identity, the conditional entry - all build tension naturally
 - **Exchange about memories**: RAE and Elyra's conversation about the ritual moment is emotionally resonant
 
 ### Plot Advancement
 - **Stakes escalation**: "You're being watched" confirms Jason's fears from P2-03
 - **Multiple watchers**: "Malvek among others" expands threat landscape
 - **Training begins**: Natural transition from investigation to education
-- **Cost established**: Honesty in exchange for training—creates future tension
+- **Cost established**: Honesty in exchange for training - creates future tension
 
 ### Magic System Consistency
 - **Baseline frequency**: New technical concept introduced organically
@@ -71,7 +71,7 @@ This is a strong chapter that successfully introduces Elyra Voss as a mentor fig
 **Potential revision**: Either pull back earlier or push forward to show first real test
 
 ### Elyra's Knowledge
-**She knows a lot**: Search alerts, monitoring, awareness of Malvek—all plausible but consider:
+**She knows a lot**: Search alerts, monitoring, awareness of Malvek - all plausible but consider:
 - How is she monitoring from a condemned building with no utilities?
 - Old equipment she maintained? RAE-style assistance? Favors owed?
 - A single line of explanation would strengthen plausibility
@@ -80,7 +80,7 @@ This is a strong chapter that successfully introduces Elyra Voss as a mentor fig
 
 ### Opening
 "Mill-4 sat on the city's edge like a broken tooth."
-- ? Immediate, visual, slightly ominous—perfect tone-setter
+- ? Immediate, visual, slightly ominous - perfect tone-setter
 
 ### Character Assessment
 "You're younger than I expected... academy training... dropped out or expelled?"
@@ -96,7 +96,7 @@ This is a strong chapter that successfully introduces Elyra Voss as a mentor fig
 
 ### The Deal
 "When they decide what to do about you, you remember who helped you survive long enough to have a choice."
-- ? Establishes future obligation without being mercenary—Elyra wants allies, not payment
+- ? Establishes future obligation without being mercenary - Elyra wants allies, not payment
 
 ### Warning
 "You're operating on instinct and luck. And neither of those will keep you alive when things get serious."

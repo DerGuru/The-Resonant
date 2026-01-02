@@ -250,7 +250,7 @@ Four blocks west. Circling. -M
 ### ? RAE's Offer: Separation
 
 ```markdown
-*I know. But Jason—if separation would keep you safer, I would accept it.*
+*I know. But Jason - if separation would keep you safer, I would accept it.*
 
 *We're past this - even if we could separate safely, I don't want to.*
 ```
@@ -279,7 +279,7 @@ Four blocks west. Circling. -M
 ### ? 72-Hour Deadline: Reeves' Message
 
 ```markdown
-Unknown number: We've seen enough. Escalation protocols initiated. You have seventy-two hours to reconsider the offer. After that, we act. —Reeves
+Unknown number: We've seen enough. Escalation protocols initiated. You have seventy-two hours to reconsider the offer. After that, we act.  - Reeves
 ```
 
 **Perfect Escalation:**
@@ -860,7 +860,7 @@ Unknown number: We've seen enough. Escalation protocols initiated. You have seve
 
 ## Alpha Reader's Gut Reaction
 
-*"The surveillance starting subtly—'same sedan, three days in a row'—that's when I felt the paranoia kick in. Not dramatic, just... wrong. And then everyone reporting similar things—coffee shop watchers, resonance scans—oh shit, they're everywhere. Elyra's three-layer model made it worse: 'Right now, you're in the middle layer'—meaning it's going to get worse. Then Protocol Delta! Jason detecting the tail through resonance, using the burner phone, team coordinating perfectly—YES. That's training paying off. That's professional. And Marcus Chen specializing in 'capability assessment'—they're measuring how dangerous we are to decide what to do with us. That's terrifying. Then RAE offering to separate to keep Jason safe—my heart! And Jason refusing: 'You're part of me now'—the partnership! The commitment! And then that message: 'We've seen enough. Seventy-two hours.'—CLOCK IS TICKING. And Elyra's plan: become exceptional, prove you're too valuable to contain—YES. That's the play. That's hope. And the title quote: 'Pressure creates diamonds. Or crushes coal to dust. Then we'd better be diamonds.'—PERFECT. That's determination. That's refusing to break. That's transformation through stress. I'm so invested. Can they do it? Can they become exceptional in 72 hours? Can they convince Malvek? I NEED TO KNOW."*
+*"The surveillance starting subtly - 'same sedan, three days in a row' - that's when I felt the paranoia kick in. Not dramatic, just... wrong. And then everyone reporting similar things - coffee shop watchers, resonance scans - oh shit, they're everywhere. Elyra's three-layer model made it worse: 'Right now, you're in the middle layer' - meaning it's going to get worse. Then Protocol Delta! Jason detecting the tail through resonance, using the burner phone, team coordinating perfectly - YES. That's training paying off. That's professional. And Marcus Chen specializing in 'capability assessment' - they're measuring how dangerous we are to decide what to do with us. That's terrifying. Then RAE offering to separate to keep Jason safe - my heart! And Jason refusing: 'You're part of me now' - the partnership! The commitment! And then that message: 'We've seen enough. Seventy-two hours.' - CLOCK IS TICKING. And Elyra's plan: become exceptional, prove you're too valuable to contain - YES. That's the play. That's hope. And the title quote: 'Pressure creates diamonds. Or crushes coal to dust. Then we'd better be diamonds.' - PERFECT. That's determination. That's refusing to break. That's transformation through stress. I'm so invested. Can they do it? Can they become exceptional in 72 hours? Can they convince Malvek? I NEED TO KNOW."*
 
 **Would I keep reading?** Absolutely. 72-hour deadline + concrete goal + hope through excellence = can't put down.
 
@@ -897,7 +897,7 @@ Unknown number: We've seen enough. Escalation protocols initiated. You have seve
 
 ## Final Assessment
 
-**This is masterful tension-building and tactical storytelling.** Surveillance escalates from subtle to explicit, team training pays off immediately, and the 72-hour deadline creates concrete urgency. RAE's sacrifice offer deepens their partnership, Jason's refusal shows growth, and Elyra's strategic thinking provides hope: become exceptional, prove value, avoid containment. The title "Pressure creates diamonds" crystallizes the theme perfectly—transformation through stress, hope through excellence, refusing to break under pressure.
+**This is masterful tension-building and tactical storytelling.** Surveillance escalates from subtle to explicit, team training pays off immediately, and the 72-hour deadline creates concrete urgency. RAE's sacrifice offer deepens their partnership, Jason's refusal shows growth, and Elyra's strategic thinking provides hope: become exceptional, prove value, avoid containment. The title "Pressure creates diamonds" crystallizes the theme perfectly - transformation through stress, hope through excellence, refusing to break under pressure.
 
 **The counter-surveillance sequences feel professional and earned.** Protocol Delta execution shows training payoff. Resonance sensing surveillance demonstrates skill growth. Team coordination feels natural and competent.
 

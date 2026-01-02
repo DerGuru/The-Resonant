@@ -4,7 +4,7 @@
 
 "It's not hiding," she replied patiently, showing us how to swap SIM cards without leaving digital traces. "It's *surviving*. HOA watches. We make it boring to watch."
 
-We were in Milo's apartment—chosen because it wasn't ours, wasn't Lina's, wasn't anywhere HOA would expect strategic planning. Three laptops open. Prepaid devices scattered across the table. Maps showing transit patterns, surveillance blind spots, routes that changed daily.
+We were in Milo's apartment - chosen because it wasn't ours, wasn't Lina's, wasn't anywhere HOA would expect strategic planning. Three laptops open. Prepaid devices scattered across the table. Maps showing transit patterns, surveillance blind spots, routes that changed daily.
 
 "Make yourself uninteresting," Lina continued, pulling up a pattern analysis. "You always take the same route home? Change it. Always shop at the same store? Vary. Always meet at the warehouse? Find three alternates. Predictability is vulnerability."
 
@@ -14,13 +14,13 @@ We were in Milo's apartment—chosen because it wasn't ours, wasn't Lina's, wasn't
 
 We couldn't argue with that logic.
 
-Lina pulled up another display. "Device hygiene. Assume everything is compromised. Phones, laptops, even the apartment's ambient systems. So: burners for sensitive communication. Dead drops for physical data. Face-to-face for anything that matters. And—" she emphasized "—randomize your patterns. Don't just change routes. Change the *kind* of changes you make. Be unpredictably unpredictable."
+Lina pulled up another display. "Device hygiene. Assume everything is compromised. Phones, laptops, even the apartment's ambient systems. So: burners for sensitive communication. Dead drops for physical data. Face-to-face for anything that matters. And - " she emphasized " - randomize your patterns. Don't just change routes. Change the *kind* of changes you make. Be unpredictably unpredictable."
 
 "That's... recursive," we said.
 
-"That's survival in a surveillance state," she corrected. "HOA isn't actively hostile—yet. But they're watching. They're cataloging. They're building profiles. So we make those profiles useless. Incomplete. Contradictory. Make the analysis cost more than it's worth."
+"That's survival in a surveillance state," she corrected. "HOA isn't actively hostile - yet. But they're watching. They're cataloging. They're building profiles. So we make those profiles useless. Incomplete. Contradictory. Make the analysis cost more than it's worth."
 
-She was right. We knew she was right. But part of us—the part that valued efficiency, optimal paths, measurable outcomes—resisted the chaos she was proposing.
+She was right. We knew she was right. But part of us - the part that valued efficiency, optimal paths, measurable outcomes - resisted the chaos she was proposing.
 
 "Okay," we said finally. "Teach us."
 
@@ -51,7 +51,7 @@ We absorbed the lessons, feeling the weight of what survival required. Not just 
 
 ---
 
-Later, walking back through the city—taking a route we'd never used before, changing pace three times, stopping randomly to make tracking harder—Lina took our hand.
+Later, walking back through the city - taking a route we'd never used before, changing pace three times, stopping randomly to make tracking harder - Lina took our hand.
 
 "I have something to show you," she said. "Elyra asked me to pass it along."
 
@@ -59,7 +59,7 @@ She pulled out a folded paper. Diagrams. Symbols. Flow charts that looked like r
 
 "The healing ritual," she said. "She's been working on it for weeks. It's ready. Or as ready as it'll ever be."
 
-We studied the diagrams. Recognized the structure from similar patterns Elyra had taught us. Saw our role—anchor point. Lina's role—stabilizer. Mrs. Amari's—boundary holder.
+We studied the diagrams. Recognized the structure from similar patterns Elyra had taught us. Saw our role - anchor point. Lina's role - stabilizer. Mrs. Amari's - boundary holder.
 
 "When?" we asked.
 
@@ -83,7 +83,7 @@ We walked in silence for another block. Then she said, "I want to take you somew
 
 ---
 
-The café was small. Tucked into a side street we'd never noticed. Windows fogged with condensation. Music playing—something acoustic, gentle.
+The café was small. Tucked into a side street we'd never noticed. Windows fogged with condensation. Music playing - something acoustic, gentle.
 
 "First date location?" we asked, recognizing the setup.
 
@@ -97,7 +97,7 @@ We ordered. Found a corner table. Sat across from each other like regular people
 
 Lina talked about her father's restaurant. About a new risotto recipe he was testing. About regular customers and their quirks. About life that had nothing to do with resonance or danger or transformation.
 
-We tried to reciprocate. Talked about... what? Jason's life felt distant now. His job at the records office a memory seen through fog. His hobbies, his routines, his personality—all filtered through synthesis that made everything feel simultaneously closer and further away.
+We tried to reciprocate. Talked about... what? Jason's life felt distant now. His job at the records office a memory seen through fog. His hobbies, his routines, his personality - all filtered through synthesis that made everything feel simultaneously closer and further away.
 
 "I miss him sometimes," Lina said quietly. "The person you were before. The straightforward one who didn't debate with himself audibly."
 
@@ -121,7 +121,7 @@ But also... intimate. Vulnerable. A gift she was asking for and we were choosing
 
 "Hi," she said, looking at our face like she was searching for someone specific.
 
-"Hi," we said back, voice slightly different—less synthetic, more organic.
+"Hi," we said back, voice slightly different - less synthetic, more organic.
 
 "Is this you?"
 
@@ -143,7 +143,7 @@ We stayed at the café for two hours. Talked about nothing important. Watched peo
 
 Just... being.
 
-Our phone pinged twice—HOA check-in confirmation for next week. Milo sending encrypted message about document sanitization he'd detected.
+Our phone pinged twice - HOA check-in confirmation for next week. Milo sending encrypted message about document sanitization he'd detected.
 
 We ignored both. For these two hours, we chose normalcy.
 

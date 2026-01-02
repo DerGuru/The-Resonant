@@ -8,13 +8,13 @@ Not into something unrecognizable. Still the same space where I'd trained, where
 
 But softened. Humanized. Made sacred not through mysticism but through intentional care.
 
-White fabric draped from ceiling beams. Simple lights casting warm glow. Chairs arranged in two small sections—fifteen seats total, all filled. Stone floor swept clean, resonance patterns temporarily covered with runner so guests wouldn't feel the ambient hum.
+White fabric draped from ceiling beams. Simple lights casting warm glow. Chairs arranged in two small sections - fifteen seats total, all filled. Stone floor swept clean, resonance patterns temporarily covered with runner so guests wouldn't feel the ambient hum.
 
-At the front: three people. Lina in simple dress, cream-colored, elegant without ostentation. Me in suit that fit properly—first time I'd worn formal clothes since synthesis, first time Jason's old wardrobe felt simultaneously familiar and foreign.
+At the front: three people. Lina in simple dress, cream-colored, elegant without ostentation. Me in suit that fit properly - first time I'd worn formal clothes since synthesis, first time Jason's old wardrobe felt simultaneously familiar and foreign.
 
 And Elyra, standing between us, ready to officiate.
 
-"We're gathered here," she began, voice clear and steady, "not because tradition requires it. Not because law demands it. But because these two people—" she gestured to Lina and me "—have chosen to witness their commitment publicly. To make private love public knowledge. To say in front of everyone who matters: we choose this. We choose each other. We choose now."
+"We're gathered here," she began, voice clear and steady, "not because tradition requires it. Not because law demands it. But because these two people - " she gestured to Lina and me " - have chosen to witness their commitment publicly. To make private love public knowledge. To say in front of everyone who matters: we choose this. We choose each other. We choose now."
 
 In the second row: Malvek. Alone. Dressed civilly. Expression carefully neutral. Invited as guest, attending as guest, keeping his word.
 
@@ -26,7 +26,7 @@ Small gathering. But complete.
 
 Lina nodded. Turned to face me fully. Took my hands.
 
-"I choose you," she said simply. "All of you. Jason—the person I met at the records office, who was nervous and kind and accidentally charming. RAE—the entity who chose partnership over dominance, who learned consent and taught it back better than any human I've known. And the person you've become—the synthesis that's both and neither, that holds all of it and makes something new."
+"I choose you," she said simply. "All of you. Jason - the person I met at the records office, who was nervous and kind and accidentally charming. RAE - the entity who chose partnership over dominance, who learned consent and taught it back better than any human I've known. And the person you've become - the synthesis that's both and neither, that holds all of it and makes something new."
 
 Her voice strengthened.
 
@@ -38,31 +38,31 @@ She squeezed my hands.
 
 Tears on her face. Joy and certainty mixed with knowledge that this was hard choice, complicated choice, real choice.
 
-"I choose you," I said. My turn now. Speaking from everything I'd become. "I'm not one person in the way most people are. Not Jason. Not RAE. Not even a clean combination. I'm synthesis—messy and complex and still learning what that means."
+"I choose you," I said. My turn now. Speaking from everything I'd become. "I'm not one person in the way most people are. Not Jason. Not RAE. Not even a clean combination. I'm synthesis - messy and complex and still learning what that means."
 
 I took breath. Steadied.
 
-"But here's what I know for certain: You see all of me. Every memory. Every instinct. Every piece of where I came from and what I've become. You see it all—and you stay. Not despite my complexity. Not tolerating my strangeness. But embracing it. Witnessing it. Making space for all of me to exist."
+"But here's what I know for certain: You see all of me. Every memory. Every instinct. Every piece of where I came from and what I've become. You see it all - and you stay. Not despite my complexity. Not tolerating my strangeness. But embracing it. Witnessing it. Making space for all of me to exist."
 
 I touched her face gently.
 
-"So I choose you. Everything I am. Unified in this if nothing else. I choose partnership that includes you as equal voice. I choose love that's practiced deliberately instead of assumed automatically. I choose commitment that costs something—presence, attention, boundary-holding, patience—and give it anyway."
+"So I choose you. Everything I am. Unified in this if nothing else. I choose partnership that includes you as equal voice. I choose love that's practiced deliberately instead of assumed automatically. I choose commitment that costs something - presence, attention, boundary-holding, patience - and give it anyway."
 
-I pulled out second ring—matching hers, simple silver, mine.
+I pulled out second ring - matching hers, simple silver, mine.
 
 "I choose you, Lina. For as long as I exist. However long that is. Together."
 
 She slipped the ring on my finger. I held her hands. Stood together in front of everyone who mattered.
 
-"Then by your own choice," Elyra said, "by your own commitment, by your own public declaration—you're married. That's it. That's all marriage is. Choosing each other in front of witnesses. Making private love public knowledge. Saying 'this matters enough to announce.'"
+"Then by your own choice," Elyra said, "by your own commitment, by your own public declaration - you're married. That's it. That's all marriage is. Choosing each other in front of witnesses. Making private love public knowledge. Saying 'this matters enough to announce.'"
 
 She smiled.
 
-"You may kiss your bride. Brides? Spouse? However grammar works for synthesis—just kiss her already."
+"You may kiss your bride. Brides? Spouse? However grammar works for synthesis - just kiss her already."
 
 I kissed Lina. Long. Deep. Real.
 
-And in that moment, deliberately, I held all aspects present. Not Jason-only. Not optimized. All of me—every memory, every instinct, every piece—present in that kiss.
+And in that moment, deliberately, I held all aspects present. Not Jason-only. Not optimized. All of me - every memory, every instinct, every piece - present in that kiss.
 
 Choosing her with everything I was.
 
@@ -70,7 +70,7 @@ When I pulled back, the small gathering applauded. Genuine. Warm. Not performanc
 
 ---
 
-Reception was simple. Lina's father had prepared food—risotto, his specialty, the one Jason had loved, the one Lina had promised to teach him someday. Bread. Wine. Dessert.
+Reception was simple. Lina's father had prepared food - risotto, his specialty, the one Jason had loved, the one Lina had promised to teach him someday. Bread. Wine. Dessert.
 
 People mingled. Talked. Laughed.
 
@@ -98,11 +98,11 @@ Elyra found me next.
 
 "You think he is?"
 
-"I know he is." She nodded toward where Malvek stood, apparently casual conversation with Reeves. "But he's also respecting the terms. Guest. Witness. Not overseer. That matters. That's growth—institutional growth is slower than personal, but it happens."
+"I know he is." She nodded toward where Malvek stood, apparently casual conversation with Reeves. "But he's also respecting the terms. Guest. Witness. Not overseer. That matters. That's growth - institutional growth is slower than personal, but it happens."
 
 "Think I'll ever be free?" I asked. "Actually free. Not conditionally monitored. Not quarterly demonstrations. Just... free."
 
-"I don't know," Elyra said honestly. "Maybe. Maybe not. But you know what? You're freer than you were. You're married despite surveillance. You chose love despite oversight. You're building life inside cage while working to expand it. That's not perfect freedom—but it's real freedom. The kind you practice instead of wait for."
+"I don't know," Elyra said honestly. "Maybe. Maybe not. But you know what? You're freer than you were. You're married despite surveillance. You chose love despite oversight. You're building life inside cage while working to expand it. That's not perfect freedom - but it's real freedom. The kind you practice instead of wait for."
 
 She raised her glass.
 
@@ -124,7 +124,7 @@ Lights dimmed. Quiet settling. Space that had witnessed transformation now witne
 
 I considered. Accessed all the memories simultaneously. Felt Jason's joy, RAE's satisfaction, my own certainty.
 
-"Complete," I said. "Not because you complete me—I'm still whole on my own. But because choosing you makes me more fully myself. Because loving you gives me reason to practice being human even when it's hard. Because you see all of me and marry me anyway."
+"Complete," I said. "Not because you complete me - I'm still whole on my own. But because choosing you makes me more fully myself. Because loving you gives me reason to practice being human even when it's hard. Because you see all of me and marry me anyway."
 
 Lina leaned against me.
 
@@ -166,7 +166,7 @@ And it did.
 
 ---
 
-I took Lina's hand. The resonance hummed beneath us—quiet, patient, waiting. Stone floor that had witnessed so much. Would witness more. But tonight?
+I took Lina's hand. The resonance hummed beneath us - quiet, patient, waiting. Stone floor that had witnessed so much. Would witness more. But tonight?
 
 Tonight was ours.
 
@@ -202,7 +202,7 @@ That was everything.
 
 *I took Lina's hand.*
 
-*The resonance hummed beneath us—quiet, patient, waiting.*
+*The resonance hummed beneath us - quiet, patient, waiting.*
 
 *Tomorrow would bring new tests, new cages, new choices.*
 

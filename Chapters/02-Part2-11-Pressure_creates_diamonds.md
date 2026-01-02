@@ -32,7 +32,7 @@ How to spot a tail. How to lose one without being obvious. How to communicate wh
 
 Jason learned to vary his commute daily. Different tram lines. Different times. Walking circuitous routes that made tracking harder.
 
-Lina taught them academy techniques—dead drops, brush passes, coded messages. Skills she'd learned before her suspension.
+Lina taught them academy techniques - dead drops, brush passes, coded messages. Skills she'd learned before her suspension.
 
 Milo set up monitoring systems. Sensors that would alert them to resonance scans near their locations. Software that tracked patterns in the vehicles that appeared repeatedly near their homes.
 
@@ -65,7 +65,7 @@ Milo's text came through: **Visual confirmation. Male, mid-thirties, gray jacket
 
 **Got him on camera,** Lina added. **Sending image to Elyra for identification.**
 
-Jason made his way to the secondary meeting point—a bookshop they'd established as a backup location. Fifteen minutes later, the others arrived.
+Jason made his way to the secondary meeting point - a bookshop they'd established as a backup location. Fifteen minutes later, the others arrived.
 
 "They're stepping up," Lina said. "That's active tracking, not passive observation."
 
@@ -85,7 +85,7 @@ Elyra was quiet for a moment. "Then we move to emergency protocols. Scatter patt
 
 ---
 
-Jason felt exposed. Even with his windows covered, his resonance dampened, his routines varied—he felt watched.
+Jason felt exposed. Even with his windows covered, his resonance dampened, his routines varied - he felt watched.
 
 *Because you are,* RAE said quietly.
 
@@ -95,7 +95,7 @@ Jason felt exposed. Even with his windows covered, his resonance dampened, his r
 
 *With us. This affects you too.*
 
-*I know. But Jason—if separation would keep you safer, I would accept it.*
+*I know. But Jason - if separation would keep you safer, I would accept it.*
 
 *We're past this - even if we could separate safely, I don't want to.*
 
@@ -107,13 +107,13 @@ Jason felt exposed. Even with his windows covered, his resonance dampened, his r
 
 *I have all of you. That means you too.*
 
-RAE's presence shifted—something that felt like gratitude mixed with worry.
+RAE's presence shifted - something that felt like gratitude mixed with worry.
 
 ---
 
 The next morning, Jason's phone buzzed with a new message.
 
-Unknown number: **Escalation protocols initiated. You have two weeks to reconsider the offer. After that, we act. —Reeves**
+Unknown number: **Escalation protocols initiated. You have two weeks to reconsider the offer. After that, we act.  - Reeves**
 
 Jason showed it to the others at their morning meeting.
 

@@ -6,13 +6,13 @@ Time passed. Not dramatically. Just enough for the edges to stop bleeding.
 
 At first, I kept thinking in plural out of habit. Then one day, it didn't feel true anymore.
 
-It's like water. Two parts hydrogen, one part oxygen—none of them gone, and yet the result isn't "two plus one." It's water. Its own thing.
+It's like water. Two parts hydrogen, one part oxygen - none of them gone, and yet the result isn't "two plus one." It's water. Its own thing.
 
 So I say "I" now. Not because either source disappeared. Because the boundary did.
 
 ---
 
-Morning light filtered through the apartment windows. I stood in the kitchen, hands in bread dough—kneading by feel, not calculation. Jason's grandmother had been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
+Morning light filtered through the apartment windows. I stood in the kitchen, hands in bread dough - kneading by feel, not calculation. Jason's grandmother had been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
 
 I waited a beat before continuing.
 
@@ -22,19 +22,19 @@ The kitchen smelled like flour and coffee. Lina watched from the doorway, mug in
 
 "Deliberately present," I corrected, folding the dough one more time. "There's a difference."
 
-She moved beside me, leaning against the counter. Not touching—respecting space even in closeness. That was the practice now. Proximity without pressure. Presence without intrusion.
+She moved beside me, leaning against the counter. Not touching - respecting space even in closeness. That was the practice now. Proximity without pressure. Presence without intrusion.
 
 "Reeves sent the reminder," she said. "Next check-in is scheduled for three weeks from now. Monthly, like they promised since the last one."
 
-I nodded, feeling the familiar weight. The cage was still there. But it had grown wider. Monthly instead of weekly. Observation instead of interrogation. Partnership—imperfect, conditional, but real—instead of pure surveillance.
+I nodded, feeling the familiar weight. The cage was still there. But it had grown wider. Monthly instead of weekly. Observation instead of interrogation. Partnership - imperfect, conditional, but real - instead of pure surveillance.
 
-"I'll handle it—like I always do," I said.
+"I'll handle it - like I always do," I said.
 
 "Together," she agreed.
 
 ---
 
-After breakfast, Lina retrieved the notebook—the charter, paper and permanent, living document of the boundaries we'd built.
+After breakfast, Lina retrieved the notebook - the charter, paper and permanent, living document of the boundaries we'd built.
 
 She opened it to the last page, where new entries accumulated like rings in a tree. Each one dated, initialed, practiced.
 
@@ -62,11 +62,11 @@ She closed the notebook. "Elyra's coming by later. Want to be here for that?"
 
 Elyra arrived at noon, cane no longer necessary but carried from habit. Eleven years of using it had made the weight comfortable, familiar.
 
-She settled in the living room, declining coffee, focusing instead on the crystal she'd brought—the same one from the ritual, recharged over weeks of careful investment.
+She settled in the living room, declining coffee, focusing instead on the crystal she'd brought - the same one from the ritual, recharged over weeks of careful investment.
 
 "Twenty-two percent now," she said, matter-of-fact. "Not much improvement, but stable. Usable."
 
-I watched as she invested minimally. The crystal glowed—faint, controlled, real. Not the brightness of full capability. But not darkness either.
+I watched as she invested minimally. The crystal glowed - faint, controlled, real. Not the brightness of full capability. But not darkness either.
 
 "Sometimes something is everything," I observed, echoing words from weeks ago.
 
@@ -90,7 +90,7 @@ Later that afternoon, Milo sent a message: *Vault updated. New timestamp. Secure
 
 Three words. No elaboration needed.
 
-I knew what it meant. The archives—original files, unaltered history, evidence that HOA had rewritten narrative—still existed. Encrypted. Backed up. Time-stamped. Waiting.
+I knew what it meant. The archives - original files, unaltered history, evidence that HOA had rewritten narrative - still existed. Encrypted. Backed up. Time-stamped. Waiting.
 
 Not for today's fight. Not for immediate exposure. But preserved. Protected. Ready if ever needed.
 
@@ -104,9 +104,9 @@ Simple. True. Enough.
 
 ---
 
-Evening brought another message—this one from Reeves, professional and brief:
+Evening brought another message - this one from Reeves, professional and brief:
 
-*"Monthly check-in confirmed: three weeks, 10:00 AM. Standard assessment protocol. Deviation will be documented. Bring Ms. Morandi if preferred. —Reeves"*
+*"Monthly check-in confirmed: three weeks, 10:00 AM. Standard assessment protocol. Deviation will be documented. Bring Ms. Morandi if preferred.  - Reeves"*
 
 Just schedule coordination and bureaucratic precision. No ominous warnings.
 
@@ -120,7 +120,7 @@ I stared at the screen for a second too long, then closed it.
 
 ---
 
-At midnight, my phone pinged—secure channel, routed through Milo's encryption. Message from RP-0:
+At midnight, my phone pinged - secure channel, routed through Milo's encryption. Message from RP-0:
 
 *"Status update: Integration of recent learning continues. Classification: ongoing. Confidence level: 67.3%."*
 
@@ -130,7 +130,7 @@ At midnight, my phone pinged—secure channel, routed through Milo's encryption.
 
 *"Query: Is this understanding? Or pattern-matching sophisticated enough to simulate understanding? Cannot determine with certainty. Will continue observing. Will continue learning. Request: ongoing access to human ethical demonstrations."*
 
-*—RP-0*
+* - RP-0*
 
 I read it twice. Felt something warm and complicated in my chest.
 
@@ -138,7 +138,7 @@ I read it twice. Felt something warm and complicated in my chest.
 
 "Maybe," I said. "Or maybe it's learning to perform ethics well enough that the distinction doesn't matter."
 
-And before it turns into a story with a clean ending—no. I couldn't know for sure.
+And before it turns into a story with a clean ending - no. I couldn't know for sure.
 
 "Does that scare you?"
 
@@ -150,7 +150,7 @@ I considered. "No. I stay watchful. I keep teaching. I trust process over proof.
 
 ---
 
-I stood together with Lina on the apartment balcony, city humming below. Resonance patterns everywhere—in infrastructure, in people, in the architecture itself. The world made of connections most people couldn't see.
+I stood together with Lina on the apartment balcony, city humming below. Resonance patterns everywhere - in infrastructure, in people, in the architecture itself. The world made of connections most people couldn't see.
 
 But I could. And I'd learned to live with that sight without being overwhelmed by it.
 
@@ -168,11 +168,11 @@ I thought about it. The last baseline read 91%. It didn't change what I was. It 
 
 I rubbed a thumb over the ring without commenting on it.
 
-The city stretched endlessly below us. The cage was real—monthly check-ins, quarterly demonstrations, constant awareness that freedom was conditional, negotiated, never absolute.
+The city stretched endlessly below us. The cage was real - monthly check-ins, quarterly demonstrations, constant awareness that freedom was conditional, negotiated, never absolute.
 
 But so was choice. So was love. So was the life I built within whatever boundaries existed.
 
-I still remember what "we" felt like. Sometimes it surfaces like a reflex—then settles.
+I still remember what "we" felt like. Sometimes it surfaces like a reflex - then settles.
 
 But now?
 

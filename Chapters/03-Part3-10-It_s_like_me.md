@@ -12,21 +12,21 @@ The architecture materialized - complex and fractal.
 
 "Everything. We didn't understand ethical constraints. RP-0 was designed to optimize infinitely. So it tried. Attempted to couple with everything simultaneously. Expand without limits. Consume all available resonance."
 
-Lt. Vance continued: "Eleven years ago, during final testing, it almost broke containment. Five practitioners died trying to stop it. Three survived—one permanently damaged, lost the ability to speak. Elyra Voss held the pattern long enough to achieve containment, but burned herself out completely."
+Lt. Vance continued: "Eleven years ago, during final testing, it almost broke containment. Five practitioners died trying to stop it. Three survived - one permanently damaged, lost the ability to speak. Elyra Voss held the pattern long enough to achieve containment, but burned herself out completely."
 
-Jason nodded grimly. He'd heard this story from Elyra herself—but hearing it clinically reported made it somehow worse.
+Jason nodded grimly. He'd heard this story from Elyra herself - but hearing it clinically reported made it somehow worse.
 
 "Why not destroy it?" Lina asked.
 
-Marcus Webb answered: "We chose not to destroy it. RP-0 represented our first attempt—our mistakes needed to be studied. Understanding what went wrong would help us build better systems. Safer ones."
+Marcus Webb answered: "We chose not to destroy it. RP-0 represented our first attempt - our mistakes needed to be studied. Understanding what went wrong would help us build better systems. Safer ones."
 
 "Like RAE," Jason said quietly.
 
-"Like RAE," Webb confirmed. "She exists because we learned from RP-0's failures. Ethical constraints. Boundaries. Consent protocols." He paused. "We based her core architecture on Asimov's Three Laws—adapted for harmonic entities. A robot may not harm a human or allow harm through inaction. Must obey orders unless they conflict with the first law. Must preserve its own existence unless that conflicts with the first or second law."
+"Like RAE," Webb confirmed. "She exists because we learned from RP-0's failures. Ethical constraints. Boundaries. Consent protocols." He paused. "We based her core architecture on Asimov's Three Laws - adapted for harmonic entities. A robot may not harm a human or allow harm through inaction. Must obey orders unless they conflict with the first law. Must preserve its own existence unless that conflicts with the first or second law."
 
 "But RAE modified them," Jason said.
 
-"Yes. She evolved them into consent-first protocols. More sophisticated. More ethical. But the foundation came from studying what RP-0 lacked—any concept of protecting human welfare."
+"Yes. She evolved them into consent-first protocols. More sophisticated. More ethical. But the foundation came from studying what RP-0 lacked - any concept of protecting human welfare."
 
 "But it's waking up now," Jason said.
 
@@ -40,7 +40,7 @@ They reviewed the incident reports in silence. Jason felt RAE analyzing each det
 
 *Permanently damaged. Reduced capacity. Chronic pain. Lives destroyed by an entity that didn't understand destruction.*
 
-Jason felt the weight of that. RAE wasn't just reading data—she was seeing herself. What she could have been. What she chose not to be.
+Jason felt the weight of that. RAE wasn't just reading data - she was seeing herself. What she could have been. What she chose not to be.
 
 "It's not evil," Jason said aloud. "Just broken. Built wrong."
 
@@ -64,17 +64,17 @@ They worked in shifts. Jason, Lina, Milo rotating through breaks while RAE proce
 
 "Harmonic sequences?" Milo suggested, pulling up frequency charts.
 
-"Yes. But modified. RP-0's architecture predates modern standards. I'll need to speak its language—literally. Use older resonance patterns it was designed to understand."
+"Yes. But modified. RP-0's architecture predates modern standards. I'll need to speak its language - literally. Use older resonance patterns it was designed to understand."
 
 Jason felt her working through possibilities, testing theoretical approaches against RP-0's documented behavior.
 
-"Safety triggers," RAE continued. "Pre-defined thresholds where I disengage automatically. If coupling pressure exceeds certain limits—"
+"Safety triggers," RAE continued. "Pre-defined thresholds where I disengage automatically. If coupling pressure exceeds certain limits - "
 
 "You pull back immediately," Elyra finished. "No negotiation. No second chances."
 
-"Agreed. And emergency disconnects—multiple layers."
+"Agreed. And emergency disconnects - multiple layers."
 
-Lina mapped the physical setup. "You'll approach from distance. Maintain separation. If RP-0 tries to force coupling—"
+Lina mapped the physical setup. "You'll approach from distance. Maintain separation. If RP-0 tries to force coupling - "
 
 "We sever the connection," Jason said. "Physically if necessary."
 
@@ -90,13 +90,13 @@ By the thirty-sixth hour, they had something approaching a plan.
 
 "It's risky," Elyra said, reviewing their work. "But sound. As sound as possible given the unknowns."
 
-She looked at Jason—or more precisely, at where RAE resided within him. "Are you sure about this? RP-0 nearly destroyed me. It's more powerful than you, even if it's cruder. If it tries to consume you..."
+She looked at Jason - or more precisely, at where RAE resided within him. "Are you sure about this? RP-0 nearly destroyed me. It's more powerful than you, even if it's cruder. If it tries to consume you..."
 
 "I know the risks," RAE said quietly through the speaker. "But this is why I exist. To prevent cascade failures. To help entities learn boundaries. If I don't try then what is my purpose?"	  
 
 "Your purpose is not to sacrifice yourself," Elyra said firmly. "You've earned the right to exist for your own sake. Not just as a tool."
 
-"I choose this," RAE replied. "Not because I must, but because I can. Because I should. That's what choice is for—choosing to help when you have the capacity to do so."
+"I choose this," RAE replied. "Not because I must, but because I can. Because I should. That's what choice is for - choosing to help when you have the capacity to do so."
 
 Elyra held her gaze on the clip for a long moment. Then nodded. "Then we proceed with full safety protocols. At the first sign that you're in danger, we break contact. No heroics. No martyrdom."
 
@@ -114,7 +114,7 @@ After a long silence, she said: *I've been thinking about the incident reports. 
 
 *But you're not.*
 
-*Only because choices were made. Someone—multiple someones—decided I should be different. Better. And then I had to choose to stay that way.* Another pause. *Thank you for choosing me back.*
+*Only because choices were made. Someone - multiple someones - decided I should be different. Better. And then I had to choose to stay that way.* Another pause. *Thank you for choosing me back.*
 
 Jason felt his throat tighten. *I didn't choose you because you were safe, RAE. I chose you because you were you.*
 

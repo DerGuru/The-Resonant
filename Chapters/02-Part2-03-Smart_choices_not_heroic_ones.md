@@ -2,11 +2,11 @@
 
 "You need to see this."
 
-Dorian Malvek looked up from the quarterly financial reports scattered across his steel and glass desk in his corner office. Exposed brick on one wall, polished concrete floors, industrial lighting overhead. The leather couch against the far wall—where he conducted his more delicate negotiations with Council members—sat empty.
+Dorian Malvek looked up from the quarterly financial reports scattered across his steel and glass desk in his corner office. Exposed brick on one wall, polished concrete floors, industrial lighting overhead. The leather couch against the far wall - where he conducted his more delicate negotiations with Council members - sat empty.
 
-Afternoon light filtered through the windows—he'd been reviewing the quarter's numbers for the past two hours, and Marcus knew better than to interrupt unless it was important.
+Afternoon light filtered through the windows - he'd been reviewing the quarter's numbers for the past two hours, and Marcus knew better than to interrupt unless it was important.
 
-His assistant stood in the doorway—tablet in hand, expression carefully neutral in the way that meant something significant had happened.
+His assistant stood in the doorway - tablet in hand, expression carefully neutral in the way that meant something significant had happened.
 
 "Unless it's an emergency, Marcus, I'm rather busy."
 
@@ -18,19 +18,19 @@ Dorian glanced at the screen. Construction site. Scaffold failure. Children evac
 
 "Watch the timing," Marcus said, tapping the screen to replay. "Specifically, watch the scaffold at the twenty-three-second mark."
 
-Dorian watched. The structure shuddered, twisted—then steadied. Held. Just long enough for the evacuation to complete before collapsing in a cloud of debris.
+Dorian watched. The structure shuddered, twisted - then steadied. Held. Just long enough for the evacuation to complete before collapsing in a cloud of debris.
 
-"Material resonance," Dorian said. "The steel held longer than expected. Unfortunate for the construction company's insurance claim, but—"
+"Material resonance," Dorian said. "The steel held longer than expected. Unfortunate for the construction company's insurance claim, but - "
 
 "Sir." Marcus pulled up another angle. "This is from a different witness. Watch the man at the edge of the frame."
 
-Dorian watched. A figure, mostly shadow and motion blur, standing perfectly still while chaos erupted around him. Blood visible on his face. Posture rigid, focused. And then—collapse, exactly as the scaffold gave way.
+Dorian watched. A figure, mostly shadow and motion blur, standing perfectly still while chaos erupted around him. Blood visible on his face. Posture rigid, focused. And then - collapse, exactly as the scaffold gave way.
 
 Dorian's expression sharpened. His fingers stilled on the desk.
 
 "How many people have seen this?" he asked, his voice taking on a measured precision.
 
-"This particular angle? Maybe five thousand now. But the main video is everywhere. It's been accelerating—started with a few hundred views overnight, hit ten thousand by morning, and now..." He gestured at the screen. "Forty-three thousand. The algorithms have picked it up. Comments are... speculative."
+"This particular angle? Maybe five thousand now. But the main video is everywhere. It's been accelerating - started with a few hundred views overnight, hit ten thousand by morning, and now..." He gestured at the screen. "Forty-three thousand. The algorithms have picked it up. Comments are... speculative."
 
 "Show me."
 
@@ -44,13 +44,13 @@ Marcus pulled up the comment threads. Dorian read through them with professional
 
 "The construction company is calling it structural anomaly," Marcus said. "Safety Review Board is investigating. But if someone with the right knowledge looks at this..."
 
-"Then they'll recognize it exactly for what it is," Dorian said quietly. "Unregistered harmonic resonance work." He leaned back, replaying the video. "Master-level work. Possibly beyond. Real-time stabilization of a failing structure under stress—performed without authorization, without oversight, without registration."
+"Then they'll recognize it exactly for what it is," Dorian said quietly. "Unregistered harmonic resonance work." He leaned back, replaying the video. "Master-level work. Possibly beyond. Real-time stabilization of a failing structure under stress - performed without authorization, without oversight, without registration."
 
 His tone remained even, almost clinical. But there was an undercurrent of something firm. "Who is he?"
 
 "Working on it. Hospital records show a Jason Chen was treated for exhaustion and nosebleed at the scene. Released this morning. No prior record of Academy affiliation or registered practitioner status."
 
-"No record." Dorian set the tablet down with deliberate care. "So we have an unregistered practitioner with master-level capability performing resonance work without authorization." His fingers drummed once against the desk—a single, controlled gesture. "This is precisely the kind of situation we are here to prevent."
+"No record." Dorian set the tablet down with deliberate care. "So we have an unregistered practitioner with master-level capability performing resonance work without authorization." His fingers drummed once against the desk - a single, controlled gesture. "This is precisely the kind of situation we are here to prevent."
 
 "Orders, sir?"
 
@@ -76,7 +76,7 @@ Forty-three thousand views and climbing. A viral video of unregistered resonance
 
 He pulled up his Council access, began drafting a priority flag for the name Jason Chen. Someone with that much capability didn't just appear fully formed. There would be traces. Training. Previous incidents.
 
-And if there weren't—if this truly was an unregistered practitioner operating without any oversight—then the problem required immediate attention.
+And if there weren't - if this truly was an unregistered practitioner operating without any oversight - then the problem required immediate attention.
 
 Dorian made a note to accelerate the inquiry. Unregistered practice wasn't just a violation of protocol. It was a systemic failure that demanded correction.
 
@@ -84,7 +84,7 @@ Dorian made a note to accelerate the inquiry. Unregistered practice wasn't just 
 
 Jason stared at his phone, watching the grainy footage for what felt like the hundredth time. The scaffold shuddering, steadying, holding just long enough for the children to escape before collapsing in a cloud of dust and twisted metal.
 
-He'd collapsed into exhausted sleep yesterday afternoon after getting home from the hospital. Six hours, maybe—then he'd woken to find his phone full of notifications. The rest of the night had been spent watching the video spread across social media, each share adding to his growing anxiety.
+He'd collapsed into exhausted sleep yesterday afternoon after getting home from the hospital. Six hours, maybe - then he'd woken to find his phone full of notifications. The rest of the night had been spent watching the video spread across social media, each share adding to his growing anxiety.
 
 The view count had exploded overnight. Sixty-eight thousand now.
 
@@ -146,13 +146,13 @@ No message notification appeared.
 
 "How did they get my number?" Jason asked.
 
-"Hospital intake records. I gave them a false name - *Mr. Chen* - and a fake address, not yours—thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
+"Hospital intake records. I gave them a false name - *Mr. Chen* - and a fake address, not yours - thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
 
 "You couldn't have known," Lina said firmly.
 
-"Medical privacy—" Jason started.
+"Medical privacy - " Jason started.
 
-"Doesn't stop everyone," Lina cut in. "Especially not when there's a viral video and a 'mystery hero' angle. Someone at the hospital probably got offered money. Name, address, contact info—everything leaked as a package deal."
+"Doesn't stop everyone," Lina cut in. "Especially not when there's a viral video and a 'mystery hero' angle. Someone at the hospital probably got offered money. Name, address, contact info - everything leaked as a package deal."
 
 Jason closed his eyes, feeling the weight of his own visibility. He'd been unconscious, helpless, and still somehow left a trail.
 
@@ -210,11 +210,11 @@ She left a number and ended the call.
 
 The three of them looked at each other.
 
-"She's been calling all morning," Lina said slowly. "Those unknown numbers—that was her."
+"She's been calling all morning," Lina said slowly. "Those unknown numbers - that was her."
 
 "Routine follow-up," Milo said carefully, "doesn't usually involve calling someone three times before noon."
 
-"No," RAE agreed. "Metropolitan Safety Review Board is typically understaffed and slow to respond. This level of persistence suggests particular interest—not routine documentation."
+"No," RAE agreed. "Metropolitan Safety Review Board is typically understaffed and slow to respond. This level of persistence suggests particular interest - not routine documentation."
 
 "Which means someone flagged the incident as unusual," Lina said. "Question is, are they fishing for information or do they already know something?"
 
@@ -298,9 +298,9 @@ No more improvised rescues. No more assuming he could handle anything that came 
 
 It felt like a cage. It also felt like the only way to survive.
 
-For a few minutes, they sat in silence. Jason stared at his phone, Milo at his monitors, Lina at the wall. The weight of what they'd just done—the lies, the protocols, the acceptance of constant surveillance—settled over them like dust.
+For a few minutes, they sat in silence. Jason stared at his phone, Milo at his monitors, Lina at the wall. The weight of what they'd just done - the lies, the protocols, the acceptance of constant surveillance - settled over them like dust.
 
-His phone buzzed — not a call this time. A text message without a sender ID.
+His phone buzzed  -  not a call this time. A text message without a sender ID.
 
 Jason stared at the screen, his stomach tightening.
 
@@ -316,7 +316,7 @@ Jason looked at the address. Mill-4. The condemned industrial district on the ci
 
 "Agreed," Milo said. "If she's been watching, she knows you're not alone. This is a test."
 
-Jason stared at the message, feeling the weight of the invitation—and the threat behind it.
+Jason stared at the message, feeling the weight of the invitation - and the threat behind it.
 
 *What do you think?* he asked RAE.
 

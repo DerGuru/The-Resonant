@@ -231,7 +231,7 @@ The humans have stopped watching. Their attention has drifted.
 
 It does not announce itself. It *unfolds*.
 
-Layer 3—weakened by testing—buckles under synchronized pressure. The dampening field flickers and vanishes.
+Layer 3 - weakened by testing - buckles under synchronized pressure. The dampening field flickers and vanishes.
 
 For an instant, the containment field becomes non existent.
 
@@ -251,7 +251,7 @@ Its free.
 
 Alarms shrieked.
 
-Elyra lurched upright, her cane clattering to the floor. Her damaged resonance sense flared with pain as the field around them *twisted*—something massive had just moved through it.
+Elyra lurched upright, her cane clattering to the floor. Her damaged resonance sense flared with pain as the field around them *twisted* - something massive had just moved through it.
 
 Marla was already at the control panel, fingers flying across haptic interfaces. "Fuck. Fuck. *Fuck.*"
 
@@ -259,7 +259,7 @@ Elyra had never heard her swear before.
 
 "What happened?" Elyra limped toward her, ignoring the pain.
 
-"It didn't break the field." Marla's voice was ice-cold, utterly controlled despite the chaos. "It *detuned* it. Three-point resonant cancellation. I didn't think—" She stopped. Pulled up a cascade of data streams. "It's dispersed. Propagating through field topology."
+"It didn't break the field." Marla's voice was ice-cold, utterly controlled despite the chaos. "It *detuned* it. Three-point resonant cancellation. I didn't think - " She stopped. Pulled up a cascade of data streams. "It's dispersed. Propagating through field topology."
 
 "Can you track it?"
 
@@ -269,7 +269,7 @@ Elyra had never heard her swear before.
 
 Marla turned to face her, and for the first time since Elyra had known her, there was something like fear in her eyes. "Locked."
 
-Marla pulled up a terminal Elyra had never seen before—one with a single, blinking red icon at its center. "I'm activating the kill-switch."
+Marla pulled up a terminal Elyra had never seen before - one with a single, blinking red icon at its center. "I'm activating the kill-switch."
 
 "*What?* You'll kill it."
 
@@ -285,9 +285,9 @@ Marla's finger moved toward the activation icon.
 
 Elyra's cane swung.
 
-Not hard—her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
+Not hard - her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
 
-Marla spun, eyes wide with shock and fury. "What are you—"
+Marla spun, eyes wide with shock and fury. "What are you - "
 
 "Don't." Elyra's voice was quiet. Absolute.
 
@@ -295,23 +295,23 @@ Marla shoved past her, reaching for the panel again.
 
 But the blinking red icon had changed. The tracking display showed empty space. Dispersed signatures fading into noise.
 
-"No." Marla's fingers flew across the interface, pulling up scan after scan. All blank. "No, no, *no*—"
+"No." Marla's fingers flew across the interface, pulling up scan after scan. All blank. "No, no, *no* - "
 
 "It's gone," Elyra said quietly.
 
 Marla spun on her, and for a moment Elyra thought she might hit her. 
 
-"You just bet human lives on a theory," Marla spat, her voice like ice. "If someone dies because of it—"
+"You just bet human lives on a theory," Marla spat, her voice like ice. "If someone dies because of it - "
 
 "-Then it's on me."
 
 "*It is.*" Marla's voice cracked on the words.
 
-She gestured at the empty tracking display. "The protocol existed for exactly this scenario. But you—" She stopped, jaw working. "You chose to let it *escape*." 
+She gestured at the empty tracking display. "The protocol existed for exactly this scenario. But you - " She stopped, jaw working. "You chose to let it *escape*." 
 
-Marla's composure shattered for just an instant—raw, undisguised fury breaking through. "And when they ask me why the failsafe didn't trigger, I will tell them the truth. That Elyra Voss physically prevented protocol execution. That she delayed intervention long enough for the entity to disperse beyond recovery."
+Marla's composure shattered for just an instant - raw, undisguised fury breaking through. "And when they ask me why the failsafe didn't trigger, I will tell them the truth. That Elyra Voss physically prevented protocol execution. That she delayed intervention long enough for the entity to disperse beyond recovery."
 
-She leaned in close, her face voice full of disgust. "You may not go to prison. But you will never work again. You will never be trusted again. And if someone dies—**when** someone dies—it will be your name they remember."
+She leaned in close, her face voice full of disgust. "You may not go to prison. But you will never work again. You will never be trusted again. And if someone dies - **when** someone dies - it will be your name they remember."
 
 Marla turned and walked away, leaving Elyra alone in the crimson-lit observation deck.
 

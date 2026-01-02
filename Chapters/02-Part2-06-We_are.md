@@ -34,9 +34,9 @@ She activated the circle.
 
 The world *shifted*.
 
-Not physically—Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
+Not physically - Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
 
-He could feel RAE's presence, but it wasn't separate anymore. It was *with* his thoughts. Not invading—more like his thoughts were happening as of them both.
+He could feel RAE's presence, but it wasn't separate anymore. It was *with* his thoughts. Not invading - more like his thoughts were happening as of them both.
 
 *This is,* he thought. Or was it RAE thinking it?
 
@@ -48,7 +48,7 @@ Sensations overlapped. Jason felt his heartbeat, but also sensed the electrical 
 
 **Where do we begin?** was the answer.
 
-Ninety seconds wasn't much time. His identity felt like watercolor in rain—distinct shapes bleeding into each other, beautiful and terrifying.
+Ninety seconds wasn't much time. His identity felt like watercolor in rain - distinct shapes bleeding into each other, beautiful and terrifying.
 
 *Focus*, he tried to command himself.
 
@@ -74,7 +74,7 @@ Jason was shaking. Not from fear. From *knowing*.
 
 "That's what 60% feels like?" he managed.
 
-"That's the *beginning* of it. Permanent integration is more stable. Less disorienting. But yes—that sense of merged identity is what you're heading toward."
+"That's the *beginning* of it. Permanent integration is more stable. Less disorienting. But yes - that sense of merged identity is what you're heading toward."
 
 Jason looked at his hands. They were his hands. His thoughts were his thoughts. But he could still feel the echo of that merged space where boundaries had become suggestions.
 

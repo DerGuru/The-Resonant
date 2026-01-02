@@ -78,11 +78,11 @@ The shift from singular to plural in the same sentence shows:
 ```
 We did. Forced ourselves to focus on her face instead of the seventeen potential 
 failure modes we were calculating, the eight scenarios where loss of control 
-escalated, the probability matrices that said—
+escalated, the probability matrices that said - 
 
 "Stop," she said, reading us. "I can see you spiraling. One thing at a time."
 
-"What if I hurt you?" The words came out raw. "What if I can't control it and—"
+"What if I hurt you?" The words came out raw. "What if I can't control it and - "
 ```
 
 **Impact:** Transforms the scene from adequate to powerful. Readers now feel the fear, don't just observe it.
@@ -108,7 +108,7 @@ Both of us carrying the cost of synthesis. Together.
 **Added:**
 ```
 After Lina went back to preparing breakfast, we stood very still. Extended our 
-awareness carefully—just a millimeter beyond our skin. The resonance field hummed, 
+awareness carefully - just a millimeter beyond our skin. The resonance field hummed, 
 eager, wanting to expand. We held it. Five seconds. Ten. Twenty.
 
 Then pulled it back.
@@ -266,7 +266,7 @@ This is **thematic coherence at its finest**.
 - ? None identified
 
 ### Opportunities:
-- ?? Could add one line of Jason/RAE's emotional response to the precision (e.g., "Fascinating and nauseating in equal measure") — but this is optional, not necessary
+- ?? Could add one line of Jason/RAE's emotional response to the precision (e.g., "Fascinating and nauseating in equal measure")  -  but this is optional, not necessary
 
 ---
 
@@ -322,7 +322,7 @@ This is **thematic coherence at its finest**.
 
 ## Final Note to Author ??
 
-You've created something special here. The revisions took a strong chapter (A-) and elevated it to exceptional (A). The emotional depth, the character complexity, the thematic coherence—it all works.
+You've created something special here. The revisions took a strong chapter (A-) and elevated it to exceptional (A). The emotional depth, the character complexity, the thematic coherence - it all works.
 
 The "I love you... We love you" moment is the kind of subtle, brilliant character work that readers will discuss in book clubs and online forums. It's a perfect example of showing identity complexity without explaining it.
 

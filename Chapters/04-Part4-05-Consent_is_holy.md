@@ -28,9 +28,9 @@ He pulled up images. We forced ourselves to look. A collapsed building. Burn pat
 
 We felt ourselves being pulled in two directions.
 
-The logic was clear—more people would die from inaction than from carefully supervised training failures. The math was brutal but unavoidable. Yet using people as test cases felt wrong at a fundamental level. Consent required information. How could anyone consent to being a practice subject for an entity that might kill them while learning?
+The logic was clear - more people would die from inaction than from carefully supervised training failures. The math was brutal but unavoidable. Yet using people as test cases felt wrong at a fundamental level. Consent required information. How could anyone consent to being a practice subject for an entity that might kill them while learning?
 
-Both perspectives existed simultaneously. Both felt true. That was synthesis—holding contradictions without resolving them.
+Both perspectives existed simultaneously. Both felt true. That was synthesis - holding contradictions without resolving them.
 
 "What kind of scenarios?" Elyra asked, voice carefully neutral.
 
@@ -98,7 +98,7 @@ Malvek sat back slowly.
 
 "Or sophisticated mimicry," Malvek countered. "Saying what it thinks we want to hear."
 
-"Test it," we suggested. "RP-0, if we ordered you to accept accelerated training—told you it was required, non-negotiable—what would you do?"
+"Test it," we suggested. "RP-0, if we ordered you to accept accelerated training - told you it was required, non-negotiable - what would you do?"
 
 "I would comply," RP-0 said immediately. "And I would document my objection. And I would request regular assessment of whether my compliance is causing harm through insufficient preparation. And I would terminate my participation if evidence showed I was harming practice subjects more than helping them."
 
@@ -130,7 +130,7 @@ Elyra looked at us. "That was remarkable."
 
 Outside, evening had fallen. We walked in silence for several blocks.
 
-"Do you believe it?" Lina asked finally. "That RP-0 really understands consent? Or is Malvek right—sophisticated mimicry?"
+"Do you believe it?" Lina asked finally. "That RP-0 really understands consent? Or is Malvek right - sophisticated mimicry?"
 
 "We don't know," we admitted. "But here's what we do know: whether it's genuine understanding or perfect mimicry, the result is the same. RP-0 is acting like it values consent. Prioritizing others' safety over its own deployment. That's enough to work with. That's enough to justify cautious trust."
 
@@ -142,7 +142,7 @@ She took our hand.
 
 "Just don't lose sight of the cost. Remember the individuals who'll pay it when we're wrong."
 
-"We won't," we promised. "That's what this is now. Optimization and humanity, logic and empathy, calculation and care—all of it at once. Both necessary. Both true."
+"We won't," we promised. "That's what this is now. Optimization and humanity, logic and empathy, calculation and care - all of it at once. Both necessary. Both true."
 
 "Together," she said.
 

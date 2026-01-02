@@ -268,7 +268,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 ```markdown
 "And when they realize erasure won't stop you, they'll escalate to containment."
 
-"Containment," Lina repeated. "You mean—"
+"Containment," Lina repeated. "You mean - "
 
 "I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges."
 ```
@@ -858,7 +858,7 @@ Jason smiled despite himself. "Tomorrow we train harder."
 
 ## Alpha Reader's Gut Reaction
 
-*"The screen went blank—instant dread. And then 'Just... gone. As if the files had never existed'—that's TERRIFYING. More terrifying than violence. Malvek didn't threaten, didn't warn, just ERASED. That's real power. And Jason's realization: 'That was Malvek-level access'—oh shit. Director personally involved. Then Elyra's line: 'Stop looking backward and start building forward'—YES. That's the pivot. That's the new game. Can't win with evidence when they control the past. Must build capability. Must become powerful enough that truth is self-evident. And RAE's wisdom about productive fear—'the difference between panic and strategy'—that's character growth right there. Jason's not running. Not giving up. Just changing tactics. Smarter, not harder. And that ending: 'One precise, careful step at a time'—that's hope. That's determination. That's refusing to be erased. I'm so invested. I need to know if they can build fast enough. If training can save them. If capability really is enough. This chapter DELIVERED."*
+*"The screen went blank - instant dread. And then 'Just... gone. As if the files had never existed' - that's TERRIFYING. More terrifying than violence. Malvek didn't threaten, didn't warn, just ERASED. That's real power. And Jason's realization: 'That was Malvek-level access' - oh shit. Director personally involved. Then Elyra's line: 'Stop looking backward and start building forward' - YES. That's the pivot. That's the new game. Can't win with evidence when they control the past. Must build capability. Must become powerful enough that truth is self-evident. And RAE's wisdom about productive fear - 'the difference between panic and strategy' - that's character growth right there. Jason's not running. Not giving up. Just changing tactics. Smarter, not harder. And that ending: 'One precise, careful step at a time' - that's hope. That's determination. That's refusing to be erased. I'm so invested. I need to know if they can build fast enough. If training can save them. If capability really is enough. This chapter DELIVERED."*
 
 **Would I keep reading?** Hell yes. Stakes escalated perfectly, new direction established, hope maintained despite setback.
 
@@ -894,9 +894,9 @@ Jason smiled despite himself. "Tomorrow we train harder."
 
 ## Final Assessment
 
-**This is masterful escalation and thematic pivoting.** Malvek demonstrates power through erasure rather than violence—more terrifying, more realistic. The chapter's thesis—"Stop looking backward, start building forward"—crystallizes the story's shift from investigation to capability building. RAE's philosophy about productive fear shows character depth. The team's response feels earned and smart: go dark, train harder, prepare for war.
+**This is masterful escalation and thematic pivoting.** Malvek demonstrates power through erasure rather than violence - more terrifying, more realistic. The chapter's thesis - "Stop looking backward, start building forward" - crystallizes the story's shift from investigation to capability building. RAE's philosophy about productive fear shows character depth. The team's response feels earned and smart: go dark, train harder, prepare for war.
 
-**The title "Start building forward"** is perfect—forward-looking, active, hopeful despite defeat.
+**The title "Start building forward"** is perfect - forward-looking, active, hopeful despite defeat.
 
 **No changes needed. Ready for publication.**
 

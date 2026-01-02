@@ -119,7 +119,7 @@ This extension is **gold**. Lina gets:
 ### 6. **Ending Opens to Part 4** ?????
 
 **The Change:**
-> "Either way—**we were here**."
+> "Either way - **we were here**."
 
 **Why "were here" beats "arrived":**
 - "arrived" = destination, ending

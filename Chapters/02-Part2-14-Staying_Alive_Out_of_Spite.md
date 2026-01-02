@@ -202,7 +202,7 @@ Jason barely saw it. He threw up a barrier - started to throw up a barrier - but
 
 Jason hit the ground. His skull bounced off concrete. Vision whited out. When it came back, the warehouse ceiling swam in lazy circles. He tried to sit up. Couldn't. His arms wouldn't respond. The taste of copper filled his mouth.
 
-*Jason!* RAE's voice, distant. Underwater. *Jason, can you—*
+*Jason!* RAE's voice, distant. Underwater. *Jason, can you - *
 
 He managed to turn his head. Retched. Nothing came up but bile and blood.
 

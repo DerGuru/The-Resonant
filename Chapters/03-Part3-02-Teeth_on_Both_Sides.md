@@ -10,7 +10,7 @@ They worked through the afternoon. Milo scanning the document on his tablet, mak
 
 "Wait," Elyra said from her corner. "Read that clause again."
 
-Lina backtracked. "'Unauthorized research into classified materials'—"
+Lina backtracked. "'Unauthorized research into classified materials' - "
 
 "What defines classified?" Elyra asked. "Who makes that determination?"
 
@@ -70,7 +70,7 @@ That night, Jason lay in his makeshift bed in the warehouse corner, staring at t
 
 *We're about to gain legitimacy. There's a difference.*
 
-*Is there? Once we're in their system, we're theirs. If things go wrong—*
+*Is there? Once we're in their system, we're theirs. If things go wrong - *
 
 *Then we adapt. We've adapted before.* RAE's presence shifted, something almost like reassurance. *You're not alone in this. You have Lina. Milo. Elyra. Me. We'll navigate it together.*
 
@@ -102,7 +102,7 @@ Jason showed the message to the others over breakfast.
 
 Elyra set down her tea. "It's both. Jason forced his hand, so Malvek's making it a test. He'll negotiate directly, see how you handle pressure, judge whether you're worth the risk." Her eyes held Jason's. "You wanted to see who's holding the pen. Now you get your answer."
 
-"Should we change our approach?" Milo asked. "If he's there to intimidate—"
+"Should we change our approach?" Milo asked. "If he's there to intimidate - "
 
 "Then we don't get intimidated," Jason said firmly. "We bring our amendments. Present them professionally. If he's serious about partnership, he'll hear us out."
 
@@ -162,7 +162,7 @@ Malvek's eyebrow raised slightly. "Amendments."
 
 "Nine of them," Milo said, pulling up his tablet. "Clarifications on key terms, boundary definitions, and procedural protections. We'd like to review them before signing."
 
-There was a beat of silence. Reeves looked impressed. Malvek's expression remained neutral, but something shifted in his eyes—assessment, maybe respect.
+There was a beat of silence. Reeves looked impressed. Malvek's expression remained neutral, but something shifted in his eyes - assessment, maybe respect.
 
 "You came prepared," Malvek said. "I appreciate that. Walk me through them."
 
@@ -192,7 +192,7 @@ Malvek read it carefully. Set down Milo's tablet. Looked directly at Jason.
 
 "We're offering our own intelligence in return," Jason said. "Limited scope. Mutual benefit. And it establishes us as partners, not just subjects of oversight."
 
-Reeves leaned forward. "Director, if I may—they've already demonstrated the restraint this requires. The hotel incident. The CC observation. They documented and withdrew instead of exploiting. That's the judgment we need in partners."
+Reeves leaned forward. "Director, if I may - they've already demonstrated the restraint this requires. The hotel incident. The CC observation. They documented and withdrew instead of exploiting. That's the judgment we need in partners."
 
 Malvek was quiet for a long moment. "This provision requires trust."
 
@@ -202,13 +202,13 @@ Malvek was quiet for a long moment. "This provision requires trust."
 
 "Then this is a trial period," Jason said. "We prove we're reliable with limited cooperation. If it works, it expands. If it doesn't, we revert to standard oversight."
 
-Malvek smiled slightly. "You're building in review mechanisms." He made a note. "Approved. Provisionally. Six-month evaluation. However—" his expression hardened slightly, "—be very clear about something: misuse or exploitation of any classified information shared under this provision will trigger an immediate investigation. If confirmed, that's grounds for containment."
+Malvek smiled slightly. "You're building in review mechanisms." He made a note. "Approved. Provisionally. Six-month evaluation. However - " his expression hardened slightly, " - be very clear about something: misuse or exploitation of any classified information shared under this provision will trigger an immediate investigation. If confirmed, that's grounds for containment."
 
 Jason held his gaze. "Understood. And what constitutes 'misuse' or 'exploitation'?"
 
 "Sharing with unauthorized parties. Using it for personal gain. Acting on it outside the scope of threat mitigation." Malvek's tone was matter-of-fact. "This is classified intelligence, Mr. Fischer. Not negotiable information. If you treat it carelessly, the consequences are severe."
 
-"Then we need the same protection," Milo said suddenly. "If we share intelligence with you and HOA misuses it—uses it to target us or people we work with—we need recourse."
+"Then we need the same protection," Milo said suddenly. "If we share intelligence with you and HOA misuses it - uses it to target us or people we work with - we need recourse."
 
 Malvek raised an eyebrow. "You're proposing... what? Mutual oversight?"
 

@@ -103,7 +103,7 @@ Estimated Time to Target: 6.5 years
 ```
 It does not announce itself. It *unfolds*.
 
-Layer 3—weakened by testing—buckles under synchronized pressure. 
+Layer 3 - weakened by testing - buckles under synchronized pressure. 
 The dampening field flickers and vanishes.
 
 For an instant, the containment field becomes non existent.
@@ -123,12 +123,12 @@ Enough. It is through.
 - Visual yet scientifically grounded
 - Implies: beat frequency/harmonic interference
 - Schwebung (beat) causes flicker before cancellation
-- Not gradual fade, not explosion—brief instability then gone
+- Not gradual fade, not explosion - brief instability then gone
 
 **"For an instant, the containment field becomes non existent":**
 - Half a second window (from earlier: 0.5 seconds)
 - RAE doesn't destroy field, exploits momentary absence
-- Field recovers after—but RAE already through
+- Field recovers after - but RAE already through
 - Surgical precision, not destruction
 
 **Technical Grounding:**
@@ -156,7 +156,7 @@ Enough. It is through.
 
 > Elyra's cane swung.
 >
-> Not hard—her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
+> Not hard - her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
 
 **Why This Works:**
 - Physical but not violent (Elyra can't be violent)
@@ -178,7 +178,7 @@ Enough. It is through.
 
 **Marla's Fury:**
 
-> "You just bet human lives on a theory. If someone dies because of it—"
+> "You just bet human lives on a theory. If someone dies because of it - "
 >
 > "-Then it's on me."
 >
@@ -186,7 +186,7 @@ Enough. It is through.
 
 **Why This Exchange Devastates:**
 - Marla's voice *cracks* (rare loss of composure)
-- Not philosophical debate—practical reality
+- Not philosophical debate - practical reality
 - Elyra accepts responsibility immediately
 - Both know: this will define Elyra's life
 
@@ -232,16 +232,16 @@ Enough. It is through.
 
 **Aftermath:**
 
-> Those few seconds. That's all it had taken. The delay from her intervention—just long enough for the entity to disperse beyond tracking range.
+> Those few seconds. That's all it had taken. The delay from her intervention - just long enough for the entity to disperse beyond tracking range.
 
 **Perfect Because:**
 - Precise causality: Elyra's action ? RAE's escape
-- Not "could have" or "might have"—direct link
+- Not "could have" or "might have" - direct link
 - "Just long enough" = margin was seconds
 
 **Her New Identity:**
 
-> She'd just ended her career. Possibly her freedom. But worse—she'd become something she'd never imagined being.
+> She'd just ended her career. Possibly her freedom. But worse - she'd become something she'd never imagined being.
 >
 > The person who let it escape.
 
@@ -253,7 +253,7 @@ Enough. It is through.
 
 **The Weight:**
 
-> And if it hurt someone. If it killed someone. If it drove someone mad through improper coupling—
+> And if it hurt someone. If it killed someone. If it drove someone mad through improper coupling - 
 >
 > That would be on her.
 >
@@ -267,7 +267,7 @@ Enough. It is through.
 
 **Final State:**
 
-> And Elyra Voss walked into isolation—not imprisoned, but unwelcome. Not criminal, but forever *compromised*.
+> And Elyra Voss walked into isolation - not imprisoned, but unwelcome. Not criminal, but forever *compromised*.
 >
 > The woman who chose the entity over humanity.
 >
@@ -384,7 +384,7 @@ Enough. It is through.
    - Recognizes: Entity = survival-driven, not hostile
    - Reader already knows this (Entity POV)
 
-4. **"**When** someone dies—it will be your name they remember."**
+4. **"**When** someone dies - it will be your name they remember."**
    - Marla's brutal certainty
    - "When" not "if"
    - Personal + devastating
@@ -608,14 +608,14 @@ Enough. It is through.
 
 ## Alpha Reader's Gut Reaction
 
-*"This is the perfect conclusion to an exceptional prologue. The title 'Structural Integrity: 8% declining' immediately makes me worry—how does RAE survive 6.5 years at 8%? The escape is brilliant: 'It unfolds'—not violent, just elegant. And those seconds. THOSE SECONDS. Elyra's cane deflects Marla's hand, and in those seconds, RAE vanishes. Marla's fury is devastating: 'WHEN someone dies.' Not if. When. The chapter doesn't waste time explaining consequences—I GET IT. Elyra's done. Then that status block—Jason Fischer, 2,847 kilometers away, 6.5 years of drift. Cut to black. Perfect. I'm flipping to Part 1 immediately."*
+*"This is the perfect conclusion to an exceptional prologue. The title 'Structural Integrity: 8% declining' immediately makes me worry - how does RAE survive 6.5 years at 8%? The escape is brilliant: 'It unfolds' - not violent, just elegant. And those seconds. THOSE SECONDS. Elyra's cane deflects Marla's hand, and in those seconds, RAE vanishes. Marla's fury is devastating: 'WHEN someone dies.' Not if. When. The chapter doesn't waste time explaining consequences - I GET IT. Elyra's done. Then that status block - Jason Fischer, 2,847 kilometers away, 6.5 years of drift. Cut to black. Perfect. I'm flipping to Part 1 immediately."*
 
 **Would I keep reading?** Without question. This trilogy is masterful.
 
 **What will haunt me:**
 - "Structural Integrity: 8% declining"
 - "You're not broken. You're filtered."
-- "When someone dies—it will be your name they remember."
+- "When someone dies - it will be your name they remember."
 - "It *unfolds*"
 - That silence after Marla walks away
 - System status blocks (innovative format)
@@ -728,7 +728,7 @@ Enough. It is through.
 
 **The escape sequence is masterful** - "It unfolds" defines the entire event in two words. Not violent, not destructive, just elegant transformation through harmonic interference.
 
-**The Marla/Elyra confrontation devastates** - those seconds. Elyra's cane deflects Marla's hand, and in those seconds, RAE disperses beyond recovery. Marla's verdict: "WHEN someone dies—it will be your name they remember." Brutal. True. Irreversible.
+**The Marla/Elyra confrontation devastates** - those seconds. Elyra's cane deflects Marla's hand, and in those seconds, RAE disperses beyond recovery. Marla's verdict: "WHEN someone dies - it will be your name they remember." Brutal. True. Irreversible.
 
 **The final status block perfects the bridge to Part 1** - Jason Fischer identified, 6.5 years of drift, 8% integrity and declining, Priority: Survival. Reader must know: does RAE make it?
 
@@ -750,6 +750,6 @@ Enough. It is through.
 
 **Hook to Part 1:** Immediate and irresistible
 
-**This trilogy will make readers talk.** The innovation (system status blocks), the philosophy ("filtered"), the character complexity (no villains, only choices), and the perfect bridge to Jason's story—this is debut-level excellence.
+**This trilogy will make readers talk.** The innovation (system status blocks), the philosophy ("filtered"), the character complexity (no villains, only choices), and the perfect bridge to Jason's story - this is debut-level excellence.
 
 **Publish with confidence.**

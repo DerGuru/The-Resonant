@@ -146,7 +146,7 @@
 > 
 > The message stayed for two seconds. Then vanished. The terminal resumed normal function as if nothing had happened.
 > 
-> He sat very still, his heart pounding. Had that just—
+> He sat very still, his heart pounding. Had that just - 
 > 
 > *RAE?*
 > 
@@ -156,11 +156,11 @@
 1. Physical (blood went cold)
 2. Stillness (freeze response)
 3. Heart pounding (panic setting in)
-4. Instant doubt (Had that just—)
+4. Instant doubt (Had that just - )
 5. Smart reaction (asks RAE for confirmation)
 
 **Why the doubt-beat works:**
-- "Had that just—" = incomplete thought, too shocked to finish
+- "Had that just - " = incomplete thought, too shocked to finish
 - Two seconds = instant recognition, immediate disappearance
 - No time to verify, only react
 - Makes RAE's "I saw it" validation crucial

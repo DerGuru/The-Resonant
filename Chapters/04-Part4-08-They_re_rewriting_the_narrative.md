@@ -22,7 +22,7 @@ Current: "RP-0 exhibited unstable resonance patterns during experimental therape
 
 "Someone's sanitizing history," I said, feeling cold spread through my chest.
 
-"Not just sanitizing. *Rewriting*." Milo pulled up metadata. "Look at modification dates. All within the last four weeks. All from same access terminal—high-level HOA clearance. Someone with authority is systematically changing the narrative."
+"Not just sanitizing. *Rewriting*." Milo pulled up metadata. "Look at modification dates. All within the last four weeks. All from same access terminal - high-level HOA clearance. Someone with authority is systematically changing the narrative."
 
 "Making RP-0 look treatable instead of dangerous," Lina said slowly, understanding dawning. "Making past casualties look like acceptable research costs instead of preventable deaths. Why?"
 
@@ -44,11 +44,11 @@ I felt the weight of it. Not just surveillance. Not just oversight. But active m
 
 "Why Reeves?" Lina asked.
 
-"Because he's the one who told me to keep my own records. Because he knows Malvek shapes narratives. Because—" I paused, choosing words carefully "—because he might be the only one in HOA who still cares about honesty over optics."
+"Because he's the one who told me to keep my own records. Because he knows Malvek shapes narratives. Because - " I paused, choosing words carefully " - because he might be the only one in HOA who still cares about honesty over optics."
 
 ---
 
-The meeting happened two days later. Off-record. Neutral location—park bench, early morning, no surveillance.
+The meeting happened two days later. Off-record. Neutral location - park bench, early morning, no surveillance.
 
 Reeves looked tired. Like someone carrying weight they couldn't put down.
 
@@ -62,11 +62,11 @@ Reeves looked tired. Like someone carrying weight they couldn't put down.
 
 Reeves was quiet for a long moment. Watching joggers pass. Parents with strollers. Normal people living normal lives that didn't include institutional cover-ups.
 
-"I can't prevent Malvek from shaping narratives," he said finally. "That's above my clearance. Above my authority. I can document. I can preserve original files—which I have, by the way, same as you. But I can't stop him from rewriting public record."
+"I can't prevent Malvek from shaping narratives," he said finally. "That's above my clearance. Above my authority. I can document. I can preserve original files - which I have, by the way, same as you. But I can't stop him from rewriting public record."
 
 "Why warn me then?" I asked.
 
-"Because you should know what you're dealing with. Because if something goes wrong—if RP-0 fails, if your synthesis destabilizes, if any of this blows up—Malvek will control the story. He'll make it look however serves HOA's interests. And you need to be prepared for that."
+"Because you should know what you're dealing with. Because if something goes wrong - if RP-0 fails, if your synthesis destabilizes, if any of this blows up - Malvek will control the story. He'll make it look however serves HOA's interests. And you need to be prepared for that."
 
 "You're saying I can't trust HOA."
 
@@ -74,7 +74,7 @@ Reeves was quiet for a long moment. Watching joggers pass. Parents with stroller
 
 "You're risking your career telling me this," Lina observed.
 
-"Maybe." Reeves smiled slightly. "Or maybe I'm following orders. Malvek knows I'm meeting you. He knows I'm warning you. He might even approve—can't have his prize synthesis destabilizing because they felt betrayed by institutional dishonesty."
+"Maybe." Reeves smiled slightly. "Or maybe I'm following orders. Malvek knows I'm meeting you. He knows I'm warning you. He might even approve - can't have his prize synthesis destabilizing because they felt betrayed by institutional dishonesty."
 
 "So this is manipulation too," I said.
 
@@ -82,7 +82,7 @@ Reeves was quiet for a long moment. Watching joggers pass. Parents with stroller
 
 "That's depressing."
 
-"That's governance." Reeves stood. "Keep documenting. Keep your own records. Trust but verify. And for what it's worth—I think you're doing good work with RP-0. Real work. I'd like to see it succeed."
+"That's governance." Reeves stood. "Keep documenting. Keep your own records. Trust but verify. And for what it's worth - I think you're doing good work with RP-0. Real work. I'd like to see it succeed."
 
 He left.
 
@@ -98,7 +98,7 @@ I sat on the bench, processing.
 
 ---
 
-That evening, I cooked with Lina. She insisted—normalcy as resistance. Defiance through domesticity.
+That evening, I cooked with Lina. She insisted - normalcy as resistance. Defiance through domesticity.
 
 "Tell me something," she said while chopping vegetables. "Something that has nothing to do with HOA or RP-0 or institutional conspiracy. Something real."
 
@@ -148,7 +148,7 @@ About how love and honesty had to be practiced deliberately in a world that comm
 
 "Are you scared?" Lina asked into the darkness.
 
-"Always," I admitted. "Of losing myself. Of hurting you. Of becoming something I'd regret. Of HOA's cage closing completely. Of RP-0 failing and proving everyone's fears right. Of—"
+"Always," I admitted. "Of losing myself. Of hurting you. Of becoming something I'd regret. Of HOA's cage closing completely. Of RP-0 failing and proving everyone's fears right. Of - "
 
 "Okay, I get it," she said gently. "You're scared. I'm scared too. But we're here. Together. That counts for something."
 

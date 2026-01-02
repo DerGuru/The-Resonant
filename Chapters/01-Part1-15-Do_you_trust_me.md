@@ -62,7 +62,7 @@ Jason's blood went cold.
 
 The message stayed for two seconds. Then vanished. The terminal resumed normal function as if nothing had happened.
 
-He sat very still, his heart pounding. Had that just—
+He sat very still, his heart pounding. Had that just - 
 
 *RAE?*
 

@@ -133,7 +133,7 @@ Deflection drills appear suddenly without setup. Consider:
 A single line of context would help: "With the increased public attention, you need defensive capabilities" or "Every practitioner should know basic deflection."
 
 ### Milo's Role
-He's present but relatively passive—taking notes, making observations. This is fine occasionally, but consider giving him a more active contribution or personal development moment.
+He's present but relatively passive - taking notes, making observations. This is fine occasionally, but consider giving him a more active contribution or personal development moment.
 
 ### The Thirty-Minute Challenge
 **Good hook for next chapter**: Setting up tomorrow's goal creates anticipation.
@@ -228,7 +228,7 @@ One line explaining why defensive training starts now:
 This is a solid training chapter that shows meaningful character growth and skill development. The structure is excellent, the progression feels earned, and the team dynamic continues to strengthen. However, it critically needs to address the integration timeline established in previous chapters and would benefit from connection to ongoing plot threads.
 
 **Primary recommendation**:
-1. **URGENT**: Address Jason's integration status—where is he relative to the 60% deadline?
+1. **URGENT**: Address Jason's integration status - where is he relative to the 60% deadline?
 2. Clarify timeline relative to previous chapters
 3. Brief acknowledgment of external plot threads (investigation, watchers)
 

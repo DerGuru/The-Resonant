@@ -6,13 +6,13 @@ Fifty seats arranged in amphitheater style. Every one filled. Scientists. HOA of
 
 Or fail spectacularly trying.
 
-I stood in the center of a marked circle on the floor—the test area. Lina beside me for phase three. Monitoring equipment surrounding me like electronic jury.
+I stood in the center of a marked circle on the floor - the test area. Lina beside me for phase three. Monitoring equipment surrounding me like electronic jury.
 
 Malvek sat in the front row. Reeves beside him, tablet ready. Elyra in the third row, expression carefully neutral but eyes showing concern.
 
 "Phase one," the announcer said through speakers. "Resonance control. Demonstrate precise capability without overinvestment."
 
-I took a breath. Let my awareness extend carefully into the prepared test object—a crystalline matrix designed to show resonance investment visually. Too little and nothing happened. Too much and it shattered.
+I took a breath. Let my awareness extend carefully into the prepared test object - a crystalline matrix designed to show resonance investment visually. Too little and nothing happened. Too much and it shattered.
 
 I invested. Precisely. Watching the crystal glow with exact amount of energy required. Holding it steady. No fluctuation. No surge. Green zone throughout.
 
@@ -22,11 +22,11 @@ Polite applause from the audience.
 
 "Phase two: Stabilization. External object requires harmonic alignment without structural damage."
 
-They brought out a damaged resonance carrier—intentionally fractured, unstable. My job: stabilize it without forcing repair. Maintain structure without imposing pattern.
+They brought out a damaged resonance carrier - intentionally fractured, unstable. My job: stabilize it without forcing repair. Maintain structure without imposing pattern.
 
 I extended my field. Felt the object's chaotic resonance. Found the natural harmonics it wanted to follow. Guided instead of commanded. Suggested instead of forced.
 
-The carrier's resonance smoothed. Not fixed—still damaged—but stable. Contained. Safe.
+The carrier's resonance smoothed. Not fixed - still damaged - but stable. Contained. Safe.
 
 More applause. A few impressed murmurs.
 
@@ -40,11 +40,11 @@ I held Lina's hand. Maintained resonance field. Demonstrated precise control whi
 
 Perfect stability. No fluctuation. Green zone throughout.
 
-The audience's applause was more genuine now. Warmer. This wasn't just technical demonstration—this was proof that synthesis didn't require isolation. That I could be both powerful and safe. Both capable and controlled.
+The audience's applause was more genuine now. Warmer. This wasn't just technical demonstration - this was proof that synthesis didn't require isolation. That I could be both powerful and safe. Both capable and controlled.
 
 Malvek stood.
 
-"Excellent work," he said, voice carrying across the auditorium. "What we've witnessed today represents a breakthrough. Synthesis previously thought unstable has demonstrated remarkable control. Unprecedented integration with maintained cognitive distinction. And most importantly—" he gestured to Lina and me "—proof that associated persons remain safe. That relationships continue. That humanity persists despite transformation."
+"Excellent work," he said, voice carrying across the auditorium. "What we've witnessed today represents a breakthrough. Synthesis previously thought unstable has demonstrated remarkable control. Unprecedented integration with maintained cognitive distinction. And most importantly - " he gestured to Lina and me " - proof that associated persons remain safe. That relationships continue. That humanity persists despite transformation."
 
 He paused for effect.
 
@@ -60,7 +60,7 @@ The distinction was meaningless. But I understood the game. Accept the reduction
 
 "Thank you, Director," I said with exactly the right amount of gratitude and humility.
 
-The audience filed out. Media representatives asked a few approved questions—all softballs, all designed to reinforce the narrative: synthesis can be safe, HOA oversight works, cooperation produces results.
+The audience filed out. Media representatives asked a few approved questions - all softballs, all designed to reinforce the narrative: synthesis can be safe, HOA oversight works, cooperation produces results.
 
 I answered perfectly. Said exactly what they needed to hear.
 
@@ -84,7 +84,7 @@ Outside, after everyone left, after the equipment was packed away, Lina and I wa
 
 "Both," Lina said. "As usual. The situation is both better and worse simultaneously."
 
-I walked in silence for several blocks. Then turned down a side street I'd never walked before—habit now, pattern-breaking as lifestyle.
+I walked in silence for several blocks. Then turned down a side street I'd never walked before - habit now, pattern-breaking as lifestyle.
 
 "I need to show you something," I said.
 
@@ -110,7 +110,7 @@ She was crying already.
 
 "I know," she whispered.
 
-"But here's what I also know: I choose you. Every part of me. Every memory, every instinct, every piece of Jason and RAE and whatever synthesis created from them. I choose you. Not because it's optimal. Not because you complete me. But because loving you makes me more fully myself. Because you see all of me and stay anyway. Because you hold boundaries I need and give space I require and love me despite—maybe because of—my complexity."
+"But here's what I also know: I choose you. Every part of me. Every memory, every instinct, every piece of Jason and RAE and whatever synthesis created from them. I choose you. Not because it's optimal. Not because you complete me. But because loving you makes me more fully myself. Because you see all of me and stay anyway. Because you hold boundaries I need and give space I require and love me despite - maybe because of - my complexity."
 
 I took a breath.
 
@@ -118,9 +118,9 @@ I took a breath.
 
 Lina was laughing and crying simultaneously.
 
-"Yes," she said. "Obviously yes. How could you even doubt—yes."
+"Yes," she said. "Obviously yes. How could you even doubt - yes."
 
-I slipped the ring on her finger. It fit perfectly. Of course it fit perfectly—I'd measured, optimized, calculated.
+I slipped the ring on her finger. It fit perfectly. Of course it fit perfectly - I'd measured, optimized, calculated.
 
 Then stopped calculating and just felt.
 
@@ -166,7 +166,7 @@ I looked at the screen. At Lina. At the ring on her finger.
 
 "Duty calls," she said, not quite managing to hide her frustration.
 
-"Yes." I stood, helping her up. "But tonight—tonight I got engaged. Tonight I chose you despite everything. Tonight was ours."
+"Yes." I stood, helping her up. "But tonight - tonight I got engaged. Tonight I chose you despite everything. Tonight was ours."
 
 "And tomorrow?" she asked.
 

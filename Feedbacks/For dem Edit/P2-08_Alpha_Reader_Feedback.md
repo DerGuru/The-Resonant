@@ -7,7 +7,7 @@ Excellent chapter that successfully conveys technical skill development while ma
 
 ## Strengths
 - **Bowl perception scene**: Extended, detailed, shows rather than tells Jason's growth
-- **"Competent" achievement**: Perfectly calibrated milestone—meaningful but not premature
+- **"Competent" achievement**: Perfectly calibrated milestone - meaningful but not premature
 - **Quality/Firmness concept**: Smart magic system expansion that will clearly be relevant
 - **Elyra's backstory**: Force-coupling revelation adds weight and explains her caution
 - **Threat escalation**: Malvek and collectors introduced as future antagonists

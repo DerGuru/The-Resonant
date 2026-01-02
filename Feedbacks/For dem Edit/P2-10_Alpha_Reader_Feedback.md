@@ -3,7 +3,7 @@
 ## Overall Impression
 **Rating: 8/10**
 
-Strong escalation chapter that raises stakes through institutional power display. The archive erasure is an effective threat that doesn't require violence—showing Malvek's reach and forcing a strategic pivot. Good pacing and character reactions.
+Strong escalation chapter that raises stakes through institutional power display. The archive erasure is an effective threat that doesn't require violence - showing Malvek's reach and forcing a strategic pivot. Good pacing and character reactions.
 
 ## Strengths
 - **Power demonstration**: Archive erasure shows Malvek's reach without confrontation

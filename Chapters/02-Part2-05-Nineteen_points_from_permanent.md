@@ -4,7 +4,7 @@ Three days after their first training session, Jason, Lina, and Milo returned to
 
 The condemned district looked no less hostile in daylight, but familiarity bred a kind of comfort. Jason had learned which streets to avoid, which buildings still housed squatters, which corners offered the fastest exit if needed.
 
-Elyra's flour mill stood silent against the gray sky. They approached the side entrance—now slightly less rusted after Elyra had apparently applied oil to the hinges.
+Elyra's flour mill stood silent against the gray sky. They approached the side entrance - now slightly less rusted after Elyra had apparently applied oil to the hinges.
 
 "You're two minutes late," Elyra called from inside before they could knock.
 
@@ -24,13 +24,13 @@ Elyra picked one up, turned it over. Her expression shifted to intrigued. "Passi
 
 "Exactly."
 
-"Clever." She examined the ceramic disc. "Should reduce invest load—if they work." She looked at Jason. "Worth trying. But carefully."
+"Clever." She examined the ceramic disc. "Should reduce invest load - if they work." She looked at Jason. "Worth trying. But carefully."
 
 ---
 
 They worked.
 
-By evening, each of them wore a clip. RAE could speak to all three simultaneously—though Jason felt the invest spike when she did. Three channels was their limit. Four would push him Orange.
+By evening, each of them wore a clip. RAE could speak to all three simultaneously - though Jason felt the invest spike when she did. Three channels was their limit. Four would push him Orange.
 
 And the next morning, Elyra pulled out the integration sensor.
 
@@ -38,7 +38,7 @@ And the next morning, Elyra pulled out the integration sensor.
 
 "Is that good?" Jason asked.
 
-"It means the clips are working—just not as much as we'd hoped." Elyra set down the sensor and looked at him seriously. "Jason, we need to talk about what these numbers actually mean."
+"It means the clips are working - just not as much as we'd hoped." Elyra set down the sensor and looked at him seriously. "Jason, we need to talk about what these numbers actually mean."
 
 She gestured for them to sit. "60% is the threshold. Past that point, separation becomes impossible without destroying both you and RAE. Your harmonic patterns will be too intertwined to safely extract."
 
@@ -89,7 +89,7 @@ Inside, he collapsed on the couch.
 
 *We will - no matter what. We're just being smart about it.*
 
-*I hope you are right. Because Jason—I am trying to maintain distance. But it is difficult. Every time we work together, every time you reach for my help, I want to give you everything I have. Holding back feels like... denial.*
+*I hope you are right. Because Jason - I am trying to maintain distance. But it is difficult. Every time we work together, every time you reach for my help, I want to give you everything I have. Holding back feels like... denial.*
 
 *It's not denial. It's discipline.*
 

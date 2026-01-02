@@ -1,10 +1,10 @@
 ﻿## Part 2 - Learning to Listen | Ch. 12 - Make yourself uninteresting
 
-Jason's integration with RAE had stabilized at 42%. A number that felt both significant and hard-won—high enough to provide real capability, carefully maintained to avoid the point of no return.
+Jason's integration with RAE had stabilized at 42%. A number that felt both significant and hard-won - high enough to provide real capability, carefully maintained to avoid the point of no return.
 
 "Ready for another round?" Lina asked, tossing him a steel washer.
 
-Jason caught it, felt its weight. They were in Elyra's training warehouse in Mill-4—the industrial space she'd been using for months. Real walls, real obstacles, real consequences if you misjudged a jump or mistimed a resonance pattern. The air smelled of rust and old machine oil. Dust motes drifted through shafts of dim light from grimy windows high above. Every footstep echoed against concrete and corrugated metal.
+Jason caught it, felt its weight. They were in Elyra's training warehouse in Mill-4 - the industrial space she'd been using for months. Real walls, real obstacles, real consequences if you misjudged a jump or mistimed a resonance pattern. The air smelled of rust and old machine oil. Dust motes drifted through shafts of dim light from grimy windows high above. Every footstep echoed against concrete and corrugated metal.
 
 "Remember," Elyra called from where she leaned against a support pillar, "this is about precision, not speed. Move like you're invisible."
 
@@ -16,7 +16,7 @@ Jason nodded, studying the layout. Shipping containers stacked two high. Gaps be
 
 Lina grinned from her position near the far wall. "You've got this. Just don't overthink it."
 
-Jason took a breath. Reached out with his perception. The warehouse resolved around him—metal, concrete, oil-stained floor. He could sense the markers Elyra had placed: small ceramic discs tuned to detect resonance spikes. Tripwires for the careless.
+Jason took a breath. Reached out with his perception. The warehouse resolved around him - metal, concrete, oil-stained floor. He could sense the markers Elyra had placed: small ceramic discs tuned to detect resonance spikes. Tripwires for the careless.
 
 *Ready?* RAE asked.
 
@@ -24,13 +24,13 @@ Jason took a breath. Reached out with his perception. The warehouse resolved aro
 
 He moved.
 
-Not fast—fast attracted attention. Slow, deliberate steps that kept his weight distributed. His perception guided him through gaps between Milo's sight lines, around the blind spots created by container arrangement.
+Not fast - fast attracted attention. Slow, deliberate steps that kept his weight distributed. His perception guided him through gaps between Milo's sight lines, around the blind spots created by container arrangement.
 
-Halfway across, he encountered an unexpected obstacle—a section of floor that rang differently. Hollow. Unstable.
+Halfway across, he encountered an unexpected obstacle - a section of floor that rang differently. Hollow. Unstable.
 
-*Careful,* RAE warned. *Your weight distribution is—*
+*Careful,* RAE warned. *Your weight distribution is - *
 
-The floor groaned. Not just creaked—*groaned*. The sound of structure about to fail.
+The floor groaned. Not just creaked - *groaned*. The sound of structure about to fail.
 
 Jason froze. Heart hammering. If it collapsed, the noise would expose him. Milo would call failure. Two weeks wouldn't matter if he couldn't handle unexpected obstacles.
 
@@ -60,7 +60,7 @@ Lina grinned. "Told you. Stop overthinking."
 
 "That's called stalling."
 
-"I wasn't—" Lina stopped, saw them both smiling. "Oh, you're messing with me."
+"I wasn't - " Lina stopped, saw them both smiling. "Oh, you're messing with me."
 
 Jason felt some of the training tension ease. This was good. They could work under pressure and still joke after. Still be people, not just practitioners.
 
@@ -96,7 +96,7 @@ She pulled out a water bottle, took a careful sip. "But remember: this warehouse
 
 She caught herself. "That's not your burden. Just... don't make me regret believing in you."
 
-Jason met her eyes. Saw the weight she carried—years of isolation, and now risking what little she had left on three near-strangers.
+Jason met her eyes. Saw the weight she carried - years of isolation, and now risking what little she had left on three near-strangers.
 
 "We won't," he said.
 
@@ -106,7 +106,7 @@ And when morning came, he woke with determination instead of dread.
 
 The light through the grimy window was the same grey as yesterday. The mattress still too firm. But something had shifted.
 
-He sat up, reached for his perception. Felt the warehouse two blocks away—Elyra already there, preparing today's demonstration. Lina finishing her patrol. Milo's monitoring systems humming in the next room.
+He sat up, reached for his perception. Felt the warehouse two blocks away - Elyra already there, preparing today's demonstration. Lina finishing her patrol. Milo's monitoring systems humming in the next room.
 
 A team. Functioning. Prepared.
 

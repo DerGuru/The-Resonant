@@ -21,10 +21,10 @@ The latest revision has refined the hospital records explanation to be more natu
 ### **Hospital Records Passage - REFINED**
 
 **V2 (Previous):**
-> "Hospital intake records gave them your name," Milo said. "When I filled out the emergency contact form, I gave them my address, not yours—thought it might help keep you off their radar. But I had to provide your real phone number in case they needed to reach you after discharge."
+> "Hospital intake records gave them your name," Milo said. "When I filled out the emergency contact form, I gave them my address, not yours - thought it might help keep you off their radar. But I had to provide your real phone number in case they needed to reach you after discharge."
 
 **V3 (Current):**
-> "Hospital intake records. I gave them your name - *Mr. Chen* - and a fake address, not yours—thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
+> "Hospital intake records. I gave them your name - *Mr. Chen* - and a fake address, not yours - thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
 
 ---
 
@@ -34,7 +34,7 @@ The latest revision has refined the hospital records explanation to be more natu
 **Before:** Formal explanation in one breath  
 **After:** Fragmented, guilty confession
 
-The "..." pause and fragmented structure shows Milo's discomfort. He's not explaining—he's *admitting*.
+The "..." pause and fragmented structure shows Milo's discomfort. He's not explaining - he's *admitting*.
 
 #### 2. **Lina's Role Clarified**
 **New detail:** "Lina was keeping to it"
@@ -132,7 +132,7 @@ The fragmented delivery ("... I gave them your number though") captures:
 ### Dialogue Authenticity: ????? (5/5)
 
 **The fragmented confession pattern:**
-> "Hospital intake records. I gave them your name - *Mr. Chen* - and a fake address, not yours—thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
+> "Hospital intake records. I gave them your name - *Mr. Chen* - and a fake address, not yours - thought it might help keep you off their radar." Milo said. "... I gave them your number though, when the ambulance picked you up. Emergency contact - Lina was keeping to it. Standard procedure. I didn't think it would end up on a witness list."
 
 **Why this is masterful dialogue:**
 
@@ -287,7 +287,7 @@ The pause, the "though," the specificity = perfection.
 Five words that add a whole layer of context.
 
 ### 3. The Dust Metaphor (Carried from V2)
-> "The weight of what they'd just done—the lies, the protocols, the acceptance of constant surveillance—settled over them like dust."
+> "The weight of what they'd just done - the lies, the protocols, the acceptance of constant surveillance - settled over them like dust."
 
 Still the best line in the chapter.
 
@@ -374,4 +374,4 @@ Based on P2-03's ending, P2-04 should:
 **Status: PERFECT. PUBLISH NOW.** ???
 
 *"Smart choices, not heroic ones."*  
-— Lina Morandi, speaking truth.
+ -  Lina Morandi, speaking truth.

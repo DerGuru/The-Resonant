@@ -35,7 +35,7 @@ But power was what kept you safe, right?
 - Elyra's mantra throughout chapter
 - Jason questions it (natural doubt)
 - RAE explains why (wisdom)
-- Not just training advice—life philosophy
+- Not just training advice - life philosophy
 
 **Thematic Depth:**
 - **vs. P2-06:** "We are" (power of merger)
@@ -152,7 +152,7 @@ And beneath that, harmonics. Overtones. A whole symphony of frequencies that com
 ```
 
 **Sensory Brilliance:**
-- Not visual—**resonance** description
+- Not visual - **resonance** description
 - "Collection of resonances" (not solid object)
 - "Symphony of frequencies" (musical metaphor)
 - Reader **experiences** Jason's perception
@@ -172,7 +172,7 @@ And beneath that, harmonics. Overtones. A whole symphony of frequencies that com
 
 **The "Taste" of Resonance:**
 ```markdown
-"I can taste it. Not literally, but... the resonance has flavor. The tin oxide has this sharp, clean signature. And there's iron in the clay body—I can feel the slight magnetic response."
+"I can taste it. Not literally, but... the resonance has flavor. The tin oxide has this sharp, clean signature. And there's iron in the clay body - I can feel the slight magnetic response."
 ```
 
 **Synesthesia:**
@@ -233,7 +233,7 @@ It felt like winning a marathon.
 
 **Elyra's Explanation:**
 ```markdown
-"Quality is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signature—high quality for frequency-based work. Wood is more complex, with organic variations—good quality for pattern storage, but harder to control."
+"Quality is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signature - high quality for frequency-based work. Wood is more complex, with organic variations - good quality for pattern storage, but harder to control."
 
 "Firmness is structural tolerance. How much the material can hold before it breaks down. This steel has high firmness. You can invest heavily, push aggressive patterns, and it'll hold. But this wooden block? Firmness is moderate. Push too hard and you'll fracture the grain structure."
 ```
@@ -279,7 +279,7 @@ It felt like winning a marathon.
 ```markdown
 Elyra's expression hardened. "It's how the ritual failed. The one eleven years ago. Someone on our team panicked, tried to force a containment pattern instead of maintaining the structure we'd agreed on. The feedback cascade killed three people and burned out most of my capacity." She tapped her cane. "So yes. Forced resonance is a real risk. And precision is your best defense against it."
 
-Jason felt cold. RAE was quiet in his mind—she remembered that day too, in fragments.
+Jason felt cold. RAE was quiet in his mind - she remembered that day too, in fragments.
 ```
 
 **Continuity Excellence:**
@@ -297,7 +297,7 @@ Jason felt cold. RAE was quiet in his mind—she remembered that day too, in fragm
 
 **Emotional Impact:**
 ```markdown
-Jason felt cold. RAE was quiet in his mind—she remembered that day too, in fragments.
+Jason felt cold. RAE was quiet in his mind - she remembered that day too, in fragments.
 ```
 
 **Perfect Because:**
@@ -364,7 +364,7 @@ Jason felt a flutter of concern. "Is that safe?"
 ```markdown
 "From Malvek," Milo said.
 
-Elyra's expression became grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours—" she gestured at Jason, "—is rare enough to be valuable. Which makes you a target."
+Elyra's expression became grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours - " she gestured at Jason, " - is rare enough to be valuable. Which makes you a target."
 ```
 
 **Why This Works (Not Redundant with P2-04):**
@@ -387,7 +387,7 @@ Elyra's expression became grim. "There are people who collect resonance practiti
 
 **Stakes Escalate:**
 ```markdown
-"And you trust each other. Because when someone tries to separate you—and they will try—the only thing that will keep you alive is knowing your team has your back."
+"And you trust each other. Because when someone tries to separate you - and they will try - the only thing that will keep you alive is knowing your team has your back."
 ```
 
 **Perfect Because:**
@@ -430,7 +430,7 @@ Or at least, until they could survive it long enough to learn how to win.
 - "Power attracts conflict" (paradox!)
 - "Precision avoids it" (smart)
 - "Or end it quickly" (when unavoidable)
-- Not pacifism—efficiency
+- Not pacifism - efficiency
 
 **"Which do we need?":**
 - Honest question
@@ -700,7 +700,7 @@ Four hours later, Jason's hands were shaking and his head was firmly in Yellow t
 - Ritual backstory (personal cost)
 - Quality/Firmness (fundamental knowledge)
 - External threats (world-aware)
-- Not just theory—survival skills
+- Not just theory - survival skills
 
 **Character Consistency:**
 - Taps cane (physical reminder)
@@ -998,7 +998,7 @@ Or at least, until they could survive it long enough to learn how to win.
 
 ## Alpha Reader's Gut Reaction
 
-*"Six weeks. Six weeks of grinding, and Jason FINALLY gets 'competent.' That one word—god, it meant everything. After Elyra's been pushing him, after he's been comparing himself to Lina, after forty minutes shouting at that damn bowl—'competent' felt like a standing ovation. And the way he perceived it? Not seeing it, but TASTING it. The tin oxide signature, the iron content, the 1945 manufacture. That's not magic, that's SKILL. Then the carriers—Quality and Firmness—such an elegant system. Steel vs wood vs glass. Each with tradeoffs. And Elyra's backstory: the ritual, the panic, three dead, her burned out. RAE quiet in Jason's mind because she REMEMBERED. Chills. Then the threat: 'People who collect practitioners. To use them.' Oh shit. Jason's not just training to be good. He's training to survive being hunted. 'Precision over power'—I get it now. Power makes you a target. Precision keeps you alive. One step at a time. Until survival becomes victory."*
+*"Six weeks. Six weeks of grinding, and Jason FINALLY gets 'competent.' That one word - god, it meant everything. After Elyra's been pushing him, after he's been comparing himself to Lina, after forty minutes shouting at that damn bowl - 'competent' felt like a standing ovation. And the way he perceived it? Not seeing it, but TASTING it. The tin oxide signature, the iron content, the 1945 manufacture. That's not magic, that's SKILL. Then the carriers - Quality and Firmness - such an elegant system. Steel vs wood vs glass. Each with tradeoffs. And Elyra's backstory: the ritual, the panic, three dead, her burned out. RAE quiet in Jason's mind because she REMEMBERED. Chills. Then the threat: 'People who collect practitioners. To use them.' Oh shit. Jason's not just training to be good. He's training to survive being hunted. 'Precision over power' - I get it now. Power makes you a target. Precision keeps you alive. One step at a time. Until survival becomes victory."*
 
 **Would I keep reading?** Without question. Stakes just escalated.
 
@@ -1040,13 +1040,13 @@ Or at least, until they could survive it long enough to learn how to win.
 
 **This is masterful skill-building storytelling.** The chapter balances technical detail (Quality/Firmness system) with emotional satisfaction ("competent"), philosophical depth (precision over power), and escalating stakes (external threats). Jason's frustration feels earned, his success feels deserved, and the persistent cost (headaches, Yellow) keeps magic grounded.
 
-**The title "Precision over power"** is perfect—both literal training advice and life philosophy. Jason questions it, RAE explains it, and the chapter demonstrates it through every scene.
+**The title "Precision over power"** is perfect - both literal training advice and life philosophy. Jason questions it, RAE explains it, and the chapter demonstrates it through every scene.
 
 **The sensory descriptions** (tasting resonance, symphony of frequencies) are innovative and immersive. Reader experiences Jason's perception without visual crutches.
 
 **No changes needed. Ready for publication.**
 
-**Final Rating: ????? (5/5)** - Excellent training chapter, satisfying progression, elegant system building, philosophical depth, escalating stakes. This is how you write skill acquisition without tedium—specific enough to feel real, abstract enough to stay interesting, emotional enough to matter.
+**Final Rating: ????? (5/5)** - Excellent training chapter, satisfying progression, elegant system building, philosophical depth, escalating stakes. This is how you write skill acquisition without tedium - specific enough to feel real, abstract enough to stay interesting, emotional enough to matter.
 
 ---
 

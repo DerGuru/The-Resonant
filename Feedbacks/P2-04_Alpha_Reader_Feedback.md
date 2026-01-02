@@ -16,7 +16,7 @@
 
 **Appears in the final lines:**
 
-> *She's right,* RAE said quietly. *But Jason—you felt it, didn't you?*
+> *She's right,* RAE said quietly. *But Jason - you felt it, didn't you?*
 > 
 > *Yeah,* Jason replied, equal parts thrilled and terrified. *I did.*
 > 
@@ -44,7 +44,7 @@
 
 > Mill-4 sat on the city's edge like a broken tooth.
 > 
-> Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. They'd spent three days preparing for this—researching Elyra's background, planning their approach, letting Jason recover enough strength - just in case.
+> Jason, Lina, and Milo stood at the boundary where functional infrastructure gave way to calculated neglect. They'd spent three days preparing for this - researching Elyra's background, planning their approach, letting Jason recover enough strength - just in case.
 
 **Why this opening works:**
 
@@ -61,7 +61,7 @@
 
 **The environment:**
 
-> Beyond the rusted fence, the old industrial district sprawled in geometric decay—warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
+> Beyond the rusted fence, the old industrial district sprawled in geometric decay - warehouse shells, cracked loading docks, streets that hadn't seen maintenance in decades.
 
 **Specific details:**
 - "geometric decay" - Structured but rotting
@@ -100,7 +100,7 @@
 
 > "I can't do that. **It** is with me."
 > 
-> *Sorry RAE,* Jason thought. *But she ... I know, it feels dismissive. Like you're a thing instead of—*
+> *Sorry RAE,* Jason thought. *But she ... I know, it feels dismissive. Like you're a thing instead of - *
 > 
 > *You know that doesn't bother me, right?* RAE replied. *I **am** a thing, Jason. A very complicated, semi-sentient thing - but 'It' is technically accurate.*
 > 
@@ -132,7 +132,7 @@
 
 **The perception:**
 
-> But what struck him most wasn't what he could see—it was what he could sense. Her resonance field was shattered. Fragments of what should have been a brilliant, coherent pattern now barely flickered at the edges of perception. Like a broken mirror reflecting only pieces of light.
+> But what struck him most wasn't what he could see - it was what he could sense. Her resonance field was shattered. Fragments of what should have been a brilliant, coherent pattern now barely flickered at the edges of perception. Like a broken mirror reflecting only pieces of light.
 > 
 > *She's barely there,* RAE said quietly, something like sorrow in her tone. *I did this to her.*
 > 
@@ -238,7 +238,7 @@
 
 > She glanced at Jason, then back to the speaker. "I needed to see if he understood that. If he'd defend you, not just use you."
 > 
-> She tapped her cane against the floor. "The skepticism, the questions about being brave or stupid—that wasn't really for you, RAE. It was for him." She looked directly at Jason. "If he'd shown even a hint of seeing you as a tool, a weapon to be exploited, I would have sent you all away."
+> She tapped her cane against the floor. "The skepticism, the questions about being brave or stupid - that wasn't really for you, RAE. It was for him." She looked directly at Jason. "If he'd shown even a hint of seeing you as a tool, a weapon to be exploited, I would have sent you all away."
 
 **Why this is a GAME-CHANGER:**
 
@@ -276,7 +276,7 @@
 
 > "I could have destroyed everything. Broken free." Another pause. "Why did you hold the pattern? You knew it would burn you out."
 > 
-> Elyra was quiet for a long moment. When she spoke again, her voice was different—less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Capable of choice."
+> Elyra was quiet for a long moment. When she spoke again, her voice was different - less harsh, almost tired. "Because I could sense something. Not just raw force. Something... aware. Capable of choice."
 
 **Why this is emotionally perfect:**
 
@@ -363,7 +363,7 @@
 
 **The exercise:**
 
-> "Close your eyes. Feel the water. Not with your hands—with your awareness. Tell me what resonates."
+> "Close your eyes. Feel the water. Not with your hands - with your awareness. Tell me what resonates."
 > 
 > Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt... alive. Not conscious, but responsive. Vibrating at frequencies he could almost but not quite perceive.
 > 
@@ -431,7 +431,7 @@
 
 **The result:**
 
-> He tried again, this time imagining his own frequency rising, matching the water and then gently pulling it higher—
+> He tried again, this time imagining his own frequency rising, matching the water and then gently pulling it higher - 
 > 
 > The water in the bowl began to vibrate. Tiny ripples formed, spreading outward in concentric circles.
 
@@ -443,7 +443,7 @@
 
 **Elyra's assessment:**
 
-> "There," Elyra said quietly. "Feel that? That's your baseline frequency making contact. You're not forcing the water to change—you're asking it to match you. That's the difference between manipulation and resonance."
+> "There," Elyra said quietly. "Feel that? That's your baseline frequency making contact. You're not forcing the water to change - you're asking it to match you. That's the difference between manipulation and resonance."
 
 **Key distinction:**
 - "asking it to match you" - Request
@@ -459,7 +459,7 @@
 > 
 > *Good,* RAE said. *This is good. Your capacity is adapting to conscious control.*
 > 
-> "Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control—"
+> "Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control - "
 > 
 > The water suddenly began to boil.
 > 
@@ -475,7 +475,7 @@
 
 **Elyra's warning:**
 - "Don't let it run away from you" - Prescient
-- "moment you lose control—" - Cut off by event
+- "moment you lose control - " - Cut off by event
 
 **Immediate escalation:**
 - "suddenly" - No warning
@@ -518,7 +518,7 @@
 
 **Jason's response:**
 
-> Jason stared at the broken bowl, the scattered water already evaporating. "I didn't mean to—"
+> Jason stared at the broken bowl, the scattered water already evaporating. "I didn't mean to - "
 > 
 > "I know. That's the point. Intent and control are different things."
 
@@ -534,7 +534,7 @@
 
 **The final exchange:**
 
-> *She's right,* RAE said quietly. *But Jason—you felt it, didn't you?*
+> *She's right,* RAE said quietly. *But Jason - you felt it, didn't you?*
 > 
 > *Yeah,* Jason replied, equal parts thrilled and terrified. *I did.*
 > 
@@ -845,7 +845,7 @@
 
 ## Alpha Reader's Gut Reaction
 
-*"Mill-4 as a 'broken tooth' - YES. Immediate decay imagery. Three days prep (smart, not impulsive). 'People hide here. There's a difference.' - Lina in one line. Jason worries about calling RAE 'it' - even mid-crisis he cares about her dignity. RAE's amused ('I AM a thing, Jason'). Then Elyra appears and Jason SENSES her shattered field before seeing details. 'Like a broken mirror reflecting only pieces of light.' RAE's guilt ('I did this to her'), Jason's support ('She chose this'). Monitoring setup is plausible (salvaged Academy hardware, solar-powered). RAE introduces herself through laptop speaker - full designation, then apology. 'I have no words sufficient... But I remember. And I'm sorry.' Elyra surprised - entities don't apologize. Test begins but we don't know it yet. Lina defends Jason: 'He's careful. He listens to RAE. He stops when he should. That's not stupid. That's survival.' THIS IS THE MOMENT. Then RAE-Elyra dialogue - THE HEART. 'Why did you hold the pattern?' 'Because I could sense something... aware. Capable of choice.' They RECOGNIZE each other across eleven years. 'Some memories stay. Acts of kindness... Those don't fragment.' I'm not crying, YOU'RE crying. Test reveal: The whole interrogation was to see if Jason treats RAE as partner or tool. BRILLIANT. Lina's defense was the key. Deal struck. Training: water bowl, sensing, RAE translates sensation to frequencies (2.3 kHz). Jason tries, nothing. RAE advises: 'Invite. Request. Resonate with it rather than commanding it.' Not force, cooperation. It works - ripples! Then... water boils. 'Stop!' Jason drops bowl, ceramic shatters. 'Two more minutes and you would have boiled that water into steam.' Elyra diagnoses 'raw capacity' (but we know it's precision). 'Intent and control are different things.' Then the ending. RAE: 'But Jason—you felt it, didn't you?' Jason: 'Yeah... I did.' 'Because the power didn't feel foreign. It felt right.' THAT'S THE DANGER. Not losing control - LIKING it. Seduction, not corruption. Setup for addiction arc. Jason recognizes it ('what scared him most') which is hopeful. But... it felt RIGHT. Perfect ending, perfect chapter.*"
+*"Mill-4 as a 'broken tooth' - YES. Immediate decay imagery. Three days prep (smart, not impulsive). 'People hide here. There's a difference.' - Lina in one line. Jason worries about calling RAE 'it' - even mid-crisis he cares about her dignity. RAE's amused ('I AM a thing, Jason'). Then Elyra appears and Jason SENSES her shattered field before seeing details. 'Like a broken mirror reflecting only pieces of light.' RAE's guilt ('I did this to her'), Jason's support ('She chose this'). Monitoring setup is plausible (salvaged Academy hardware, solar-powered). RAE introduces herself through laptop speaker - full designation, then apology. 'I have no words sufficient... But I remember. And I'm sorry.' Elyra surprised - entities don't apologize. Test begins but we don't know it yet. Lina defends Jason: 'He's careful. He listens to RAE. He stops when he should. That's not stupid. That's survival.' THIS IS THE MOMENT. Then RAE-Elyra dialogue - THE HEART. 'Why did you hold the pattern?' 'Because I could sense something... aware. Capable of choice.' They RECOGNIZE each other across eleven years. 'Some memories stay. Acts of kindness... Those don't fragment.' I'm not crying, YOU'RE crying. Test reveal: The whole interrogation was to see if Jason treats RAE as partner or tool. BRILLIANT. Lina's defense was the key. Deal struck. Training: water bowl, sensing, RAE translates sensation to frequencies (2.3 kHz). Jason tries, nothing. RAE advises: 'Invite. Request. Resonate with it rather than commanding it.' Not force, cooperation. It works - ripples! Then... water boils. 'Stop!' Jason drops bowl, ceramic shatters. 'Two more minutes and you would have boiled that water into steam.' Elyra diagnoses 'raw capacity' (but we know it's precision). 'Intent and control are different things.' Then the ending. RAE: 'But Jason - you felt it, didn't you?' Jason: 'Yeah... I did.' 'Because the power didn't feel foreign. It felt right.' THAT'S THE DANGER. Not losing control - LIKING it. Seduction, not corruption. Setup for addiction arc. Jason recognizes it ('what scared him most') which is hopeful. But... it felt RIGHT. Perfect ending, perfect chapter.*"
 
 **Would I keep reading?** ABSOLUTELY. What does Elyra teach next? Can Jason resist the seduction? Does Lina fully trust RAE eventually? What is "the last one"?
 

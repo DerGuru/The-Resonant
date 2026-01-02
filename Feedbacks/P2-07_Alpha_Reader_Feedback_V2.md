@@ -83,7 +83,7 @@ Jason exhaled relief. After the scare of watching his integration climb, seeing 
 **"Exhaled relief":**
 - Physical response
 - Jason worried too
-- Not just reader tension—character tension
+- Not just reader tension - character tension
 - Validates that this was hard
 
 **"Victory":**
@@ -113,7 +113,7 @@ Jason exhaled relief. After the scare of watching his integration climb, seeing 
 **Public Contribution:**
 - RAE participates in group discussion
 - Elyra, Lina, Milo hear her
-- Not through Jason—direct via clips
+- Not through Jason - direct via clips
 - Integration established (from P2-05)
 
 **Private Conversation (Contrast):**
@@ -384,7 +384,7 @@ Bowl. Crack sealed in seconds. Plate. Chip smoothed effortlessly. Cup. Base adju
 
 **Callback to P2-06:**
 - P2-06: "After tasting *we*, how to go back to *I*?"
-- P2-07: Shows how—**carefully, with discipline, together**
+- P2-07: Shows how - **carefully, with discipline, together**
 - Answer: you don't fully go back, you just manage it
 
 ### ? Ending: System Established
@@ -423,7 +423,7 @@ One careful boundary at a time.
 **"Green to Yellow, never to Red":**
 - Title delivered
 - System stated clearly
-- Not just for this chapter—ongoing philosophy
+- Not just for this chapter - ongoing philosophy
 - Reader understands: this is Jason's life now
 
 **"One careful boundary at a time":**
@@ -508,7 +508,7 @@ One careful boundary at a time.
 
 **Breather Chapter Done Right:**
 - After P2-06 intensity, reader needs rest
-- But not boring—shows progress
+- But not boring - shows progress
 - Informative without info-dumping
 - Sets up future challenges without creating new crisis
 
@@ -626,7 +626,7 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 - Reader always knows who's speaking
 - Mode appropriate to content
 - Shows RAE's social awareness
-- Not just voice in Jason's head—team member
+- Not just voice in Jason's head - team member
 
 ---
 
@@ -742,7 +742,7 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 - "Own it" (empowering)
 
 **Wisdom Through Action:**
-- Not lectures—teaching by doing
+- Not lectures - teaching by doing
 - Shares her philosophy (comparison trap)
 - Reframes defeats as progress
 - Builds confidence through honesty
@@ -751,7 +751,7 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 - Improving Mill-4 (commitment)
 - Teaching again (reclaiming purpose)
 - "I've seen your progression" (invested)
-- Not just trainer—mentor
+- Not just trainer - mentor
 
 ---
 
@@ -784,7 +784,7 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 - Reader experiences this
 - Relatable struggle
 - Solution: reframe perspective
-- Not "don't compare"—compare wisely
+- Not "don't compare" - compare wisely
 
 ### "We" as Managed, Not Eliminated
 
@@ -932,7 +932,7 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 1. **Breather Chapters Are Essential**
    - After intensity, reader needs rest
-   - But not boring—show progress
+   - But not boring - show progress
    - Establish new normal
    - Set up future without crisis
 
@@ -1005,14 +1005,14 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 ## Alpha Reader's Gut Reaction
 
-*"41.8%. He's holding. THANK GOD he's holding. After 'We are' and that terrifying, beautiful merger—I needed to know Jason could resist. And he is. Green to Yellow, never to Red. That's his system. That's his discipline. And it's WORKING. The nosebleed at seven seconds? The deflection 'almost' working? The 60% success rate? These aren't failures—they're progress. Four weeks ago he could barely sense 20 meters. Now he's at 50 and climbing. And RAE speaking openly—that's huge. She's not just his secret anymore. She's part of the team. But that private conversation at the end—'We are succeeding'—god, the warmth at 'we'. He still wants it. He's not running from integration, he's managing it. One careful boundary at a time. This is sustainable. This is hope."*
+*"41.8%. He's holding. THANK GOD he's holding. After 'We are' and that terrifying, beautiful merger - I needed to know Jason could resist. And he is. Green to Yellow, never to Red. That's his system. That's his discipline. And it's WORKING. The nosebleed at seven seconds? The deflection 'almost' working? The 60% success rate? These aren't failures - they're progress. Four weeks ago he could barely sense 20 meters. Now he's at 50 and climbing. And RAE speaking openly - that's huge. She's not just his secret anymore. She's part of the team. But that private conversation at the end - 'We are succeeding' - god, the warmth at 'we'. He still wants it. He's not running from integration, he's managing it. One careful boundary at a time. This is sustainable. This is hope."*
 
 **Would I keep reading?** Yes. Because now I know Jason CAN maintain boundaries, the question becomes: will he CHOOSE to? Long-term?
 
 **What will haunt me:**
 - "Green to yellow, never to red"
 - "One careful boundary at a time"
-- 41.8% (barely moved—success!)
+- 41.8% (barely moved - success!)
 - "Coming home" (Lina's moment)
 - "We are succeeding" (managed "we")
 - "Feeling warmth at 'we'" (desire remains)
@@ -1043,13 +1043,13 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 **This is the perfect breather chapter.** After P2-06's ontological terror and emotional peak, the reader NEEDED this. Confirmation that Jason's discipline works, that progress is real, that hope exists. The chapter delivers relief without being boring, shows growth without instant mastery, and establishes a sustainable system without claiming the problem is solved.
 
-**The title "Green to yellow, never to red"** is perfect—both literal (training zones) and metaphorical (boundaries maintained). It's Jason's philosophy made concrete, a system he can repeat indefinitely.
+**The title "Green to yellow, never to red"** is perfect - both literal (training zones) and metaphorical (boundaries maintained). It's Jason's philosophy made concrete, a system he can repeat indefinitely.
 
 **The four-chapter arc (Ch. 04-07)** is now complete: Introduction ? Warning ? Crisis ? Resolution. Each chapter exactly the right length, no redundancy, perfect pacing variety. This sequence could be published as a standalone novella.
 
 **No changes needed. Ready for publication.**
 
-**Final Rating: ????? (5/5)** - Perfect breather chapter, satisfying progress, sustainable system established, team dynamics strong, hope after crisis, reader relief earned. This is how you write the "training montage" chapter—specific, efficient, emotionally resonant, and absolutely essential.
+**Final Rating: ????? (5/5)** - Perfect breather chapter, satisfying progress, sustainable system established, team dynamics strong, hope after crisis, reader relief earned. This is how you write the "training montage" chapter - specific, efficient, emotionally resonant, and absolutely essential.
 
 ---
 

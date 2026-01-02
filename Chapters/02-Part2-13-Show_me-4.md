@@ -14,7 +14,7 @@ He stared at it, mouth dry. This wasn't background noise. This was *active infle
 
 He debated for maybe ten seconds whether to wake the others. It could be nothing. A sensor glitch. Interference from the tram system.
 
-But his instincts—honed through months of paranoid monitoring—said otherwise.
+But his instincts - honed through months of paranoid monitoring - said otherwise.
 
 His fingers felt clumsy as he encrypted the data packet. Sent it to Jason and Lina. Added a single word that felt inadequate for what he was seeing: *"Anomaly."*
 
@@ -36,7 +36,7 @@ They planned carefully the next evening. Jason spread Milo's printed maps across
 
 "Agreed," Jason said. "Milo, you said there are blind spots in the patrol patterns?"
 
-"Yeah." Milo pulled up his monitoring logs. "I've been tracking CC since the first anomalies showed up—maybe six weeks ago? Started as small fluctuations, but they've been getting stronger. There's a derelict warehouse about two hundred meters out with good sightlines. Third floor, broken windows. If we're careful, we can observe without being noticed."
+"Yeah." Milo pulled up his monitoring logs. "I've been tracking CC since the first anomalies showed up - maybe six weeks ago? Started as small fluctuations, but they've been getting stronger. There's a derelict warehouse about two hundred meters out with good sightlines. Third floor, broken windows. If we're careful, we can observe without being noticed."
 
 "What kind of security are we talking about?" Lina asked.
 
@@ -50,13 +50,13 @@ They planned carefully the next evening. Jason spread Milo's printed maps across
 
 "What if someone does spot us?" Jason asked.
 
-Lina's expression went serious. "Then we're in trouble. Real trouble. This isn't shoplifting—if it's what we think it is, getting caught means containment. No trial. No explanation. Just... gone."
+Lina's expression went serious. "Then we're in trouble. Real trouble. This isn't shoplifting - if it's what we think it is, getting caught means containment. No trial. No explanation. Just... gone."
 
 "So we don't get caught," Milo said, but his grin had faded.
 
 "Exactly," Lina said. "We stay invisible. We stay quiet. We document and leave before anyone knows we were there."
 
-"Alright." Jason studied the map. "We go tomorrow night. Minimal gear—binoculars, Milo's passive sensors, camera. We observe for an hour, maybe two, then extract."
+"Alright." Jason studied the map. "We go tomorrow night. Minimal gear - binoculars, Milo's passive sensors, camera. We observe for an hour, maybe two, then extract."
 
 "And we tell Elyra first," Lina added. "She should know what we're doing."
 
@@ -82,19 +82,19 @@ Elyra was quiet for a moment. "Show me the plan."
 
 Milo spread his maps on her desk. Explained the approach, the warehouse, the cover story. Elyra listened without interrupting, her expression unreadable.
 
-"You're being careful," she said finally. "That's good. But understand—if this is what I think it is, being spotted means more than embarrassment. It means containment."
+"You're being careful," she said finally. "That's good. But understand - if this is what I think it is, being spotted means more than embarrassment. It means containment."
 
 "We know," Jason said.
 
-"Do you?" She met his eyes. "Because once you see it, you can't unsee it. Once you know where it is, what it is—you become a threat. Even if you do nothing with that knowledge."
+"Do you?" She met his eyes. "Because once you see it, you can't unsee it. Once you know where it is, what it is - you become a threat. Even if you do nothing with that knowledge."
 
 "Then we'll be careful," Lina said.
 
-Elyra nodded slowly. "If something goes wrong—if you're compromised—don't come here directly. Use the secondary safe house. Wait twelve hours. If I don't contact you, scatter and use the emergency protocols."
+Elyra nodded slowly. "If something goes wrong - if you're compromised - don't come here directly. Use the secondary safe house. Wait twelve hours. If I don't contact you, scatter and use the emergency protocols."
 
 "Understood," Jason said.
 
-"And if you see anything that suggests they're aware of you—anything at all—you abort immediately. No heroics. No 'just one more minute.' You leave." She paused. "Promise me."
+"And if you see anything that suggests they're aware of you - anything at all - you abort immediately. No heroics. No 'just one more minute.' You leave." She paused. "Promise me."
 
 "We promise," Lina said.
 
@@ -104,7 +104,7 @@ Elyra studied them for another long moment, then nodded. "Then go. Be smart. Be 
 
 At night, they moved.
 
-Dressed in dark, non-reflective clothing. Carrying minimal gear—binoculars, a directional microphone, Milo's portable sensor array. Everything chosen to avoid attention.
+Dressed in dark, non-reflective clothing. Carrying minimal gear - binoculars, a directional microphone, Milo's portable sensor array. Everything chosen to avoid attention.
 
 They approached from the east, using the industrial zone's terrain for cover. Stayed low. Moved between shadows. Lina led, her academy training showing in every careful step.
 
@@ -112,13 +112,13 @@ The warehouse Milo had identified was perfect. Third floor, windows overlooking 
 
 They settled in, each taking a position.
 
-Jason's knees ached within the first twenty minutes. The concrete floor was unforgiving, the night's cold seeping through his clothes. His breath misted in front of him—he had to consciously keep it shallow, quiet. Every small sound felt amplified. A pigeon shifting on a beam above them made his heart skip.
+Jason's knees ached within the first twenty minutes. The concrete floor was unforgiving, the night's cold seeping through his clothes. His breath misted in front of him - he had to consciously keep it shallow, quiet. Every small sound felt amplified. A pigeon shifting on a beam above them made his heart skip.
 
 This was nothing like training. In Elyra's warehouse, failure meant starting over. Here, failure meant containment. Or worse.
 
 "Activity," Lina whispered, adjusting her binoculars. Her voice was steady but Jason could see her shoulders tight with tension. "Three vehicles. Unmarked. Arriving at the south entrance."
 
-Jason focused his own view, ignoring the cramp forming in his left calf. The vehicles were civilian models—vans, sedans—but moved with military precision. Parked in coordinated positions. Occupants emerged wearing what looked like maintenance uniforms.
+Jason focused his own view, ignoring the cramp forming in his left calf. The vehicles were civilian models - vans, sedans - but moved with military precision. Parked in coordinated positions. Occupants emerged wearing what looked like maintenance uniforms.
 
 But the way they moved wasn't maintenance.
 
@@ -126,7 +126,7 @@ But the way they moved wasn't maintenance.
 
 Jason looked again and saw what she meant. The awareness. The spacing. These weren't maintenance workers.
 
-"Count?" Milo asked, his voice barely audible over the click of his camera. His hands were shaking—from cold or fear, Jason couldn't tell.
+"Count?" Milo asked, his voice barely audible over the click of his camera. His hands were shaking - from cold or fear, Jason couldn't tell.
 
 "Twelve visible," Lina said. "Probably more inside."
 
@@ -166,7 +166,7 @@ The thought settled heavy. Not just RAE. But others. Possibly dozens. All contai
 
 ---
 
-They were preparing to leave—Jason's legs numb, his bladder painfully full, exhaustion setting in—when the shift change happened.
+They were preparing to leave - Jason's legs numb, his bladder painfully full, exhaustion setting in - when the shift change happened.
 
 More vehicles arrived. But these were different. Official. Marked with government insignia.
 
@@ -178,9 +178,9 @@ His stomach dropped.
 
 "Thomas Reeves," he said, and his voice came out hoarse. He'd been so focused on staying quiet that he'd barely spoken in two hours.
 
-Milo zoomed in with his camera, and Jason heard the sharp intake of breath. "Malvek's second. If he's here personally—"
+Milo zoomed in with his camera, and Jason heard the sharp intake of breath. "Malvek's second. If he's here personally - "
 
-"Then something important is happening," Lina finished, but her hand had found her three-beat tap—stress response surfacing.
+"Then something important is happening," Lina finished, but her hand had found her three-beat tap - stress response surfacing.
 
 Jason watched Reeves enter the facility. The same man who'd stepped out of that coffee shop doorway. The same man who'd walked beside him on the street, offering partnership then threatening containment. Now here, at whatever this place was. Inspecting. Overseeing.
 
@@ -188,7 +188,7 @@ Jason watched Reeves enter the facility. The same man who'd stepped out of that 
 
 He forced himself to breathe. Forced himself to think past the ice forming in his chest.
 
-This wasn't just Malvek's operation. Reeves was involved. Which meant the full authority of the Harmonic Office stood behind it. Which meant if they were caught here, watching, documenting—
+This wasn't just Malvek's operation. Reeves was involved. Which meant the full authority of the Harmonic Office stood behind it. Which meant if they were caught here, watching, documenting - 
 
 No negotiation. No second chances.
 
@@ -198,13 +198,13 @@ Just containment.
 
 They packed quickly. Efficiently. Jason's hands finally stopped shaking enough to zip his bag properly. Left no trace of their presence.
 
-The route out was longer than the route in—Lina insisted on a circuitous path to avoid any chance of backtracking. It added thirty minutes to their escape, and every minute felt like an hour. Jason kept expecting to hear shouts behind them. Sirens. The sound of pursuit.
+The route out was longer than the route in - Lina insisted on a circuitous path to avoid any chance of backtracking. It added thirty minutes to their escape, and every minute felt like an hour. Jason kept expecting to hear shouts behind them. Sirens. The sound of pursuit.
 
 But there was nothing. Just their own footsteps. Their own breathing. The city waking up around them, unaware that three people were fleeing from knowledge that could get them contained.
 
 Better cautious than caught.
 
-When they finally made it to the safe house—doors locked, curtains drawn—Jason's legs gave out. He sat down hard on the floor, back against the wall, and just breathed. Lina leaned against the kitchen counter, head down, shoulders shaking. Milo was checking and rechecking the door locks, his paranoia running wild.
+When they finally made it to the safe house - doors locked, curtains drawn - Jason's legs gave out. He sat down hard on the floor, back against the wall, and just breathed. Lina leaned against the kitchen counter, head down, shoulders shaking. Milo was checking and rechecking the door locks, his paranoia running wild.
 
 ---
 
@@ -214,7 +214,7 @@ For a long moment, nobody spoke.
 
 "Infrastructure like that doesn't happen overnight," Lina said. She'd stopped shaking. "Malvek's been building this for years."
 
-"And now we know where it is." Jason felt the weight of that knowledge settle. "If they realize we were watching—"
+"And now we know where it is." Jason felt the weight of that knowledge settle. "If they realize we were watching - "
 
 "They won't." But Lina's voice lacked conviction. "We were careful. No resonance use. No digital traces."
 
@@ -234,17 +234,17 @@ They arrived at Elyra's workspace twelve hours later, as instructed. None of the
 
 The footage needed analysis. The sensor data needed interpretation. And time was running out.
 
-Elyra was already awake, brewing her bitter tea. She took one look at their faces—exhausted, wired, scared—and her expression tightened.
+Elyra was already awake, brewing her bitter tea. She took one look at their faces - exhausted, wired, scared - and her expression tightened.
 
 "Show me," she said simply, but Jason heard the weight in those words. She knew they'd crossed a line.
 
-Milo set up his laptop with shaking hands. Took him three tries to get the cable connected. The footage played: vehicles, personnel, Reeves entering the facility. The sensor data scrolled beside it—resonance spikes, shielded signatures, that massive presence forty meters down.
+Milo set up his laptop with shaking hands. Took him three tries to get the cable connected. The footage played: vehicles, personnel, Reeves entering the facility. The sensor data scrolled beside it - resonance spikes, shielded signatures, that massive presence forty meters down.
 
 Elyra watched without speaking. Her expression didn't change, but Jason saw her grip tighten on her cane until her knuckles went white. Saw the muscle in her jaw working.
 
 When it finished, she was quiet for a long moment. The silence felt heavy. Dangerous.
 
-"That's more extensive than I thought," she said finally, and there was something in her voice Jason had never heard before. Not quite fear. Something worse—recognition. "Malvek's been building this for years. Multiple containment cells. Active testing. This isn't observation. This is experimentation."
+"That's more extensive than I thought," she said finally, and there was something in her voice Jason had never heard before. Not quite fear. Something worse - recognition. "Malvek's been building this for years. Multiple containment cells. Active testing. This isn't observation. This is experimentation."
 
 "Can they detect that we were watching?" Lina asked, desperation threading through the question.
 
@@ -254,12 +254,12 @@ When it finished, she was quiet for a long moment. The silence felt heavy. Dange
 
 "Most likely. Maybe less than Reeves' original deadline if they're actively looking. Maybe more if they don't realize it yet." She met Jason's eyes, and he saw the weight of what she carried. Saw what happened when institutional power decided you knew too much. "Either way, panicking won't help. We stick to the plan. Finish your preparation. Demonstrate competence. Make yourselves too valuable to simply contain."
 
-She paused, and for a moment the professional mask slipped. "You did well. You were careful. Professional. But understand—there's no going back from this. You know where it is. You know what they're hiding. That makes you dangerous. And dangerous people..." She didn't finish. Didn't need to.
+She paused, and for a moment the professional mask slipped. "You did well. You were careful. Professional. But understand - there's no going back from this. You know where it is. You know what they're hiding. That makes you dangerous. And dangerous people..." She didn't finish. Didn't need to.
 
 "And if they move before we're ready?" Lina asked quietly.
 
 Elyra's expression was grim but not panicked. "Then you scatter. Use the emergency protocols. Survive long enough to negotiate from a position you can't be erased from." She paused. "But that's worst case. Most likely, you have the time Reeves originally gave you. Use it wisely."
 
-She stood, pain visible but managed, and Jason realized: she was scared. For them. Maybe for herself too—if they fell, her shelter fell with them.
+She stood, pain visible but managed, and Jason realized: she was scared. For them. Maybe for herself too - if they fell, her shelter fell with them.
 
-"Rest today. No point training exhausted people—you'll just make mistakes." She looked at each of them. "And we can't afford mistakes."
+"Rest today. No point training exhausted people - you'll just make mistakes." She looked at each of them. "And we can't afford mistakes."

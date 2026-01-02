@@ -2,7 +2,7 @@
 
 The Harmonic Oversight Authority building was glass and steel and institutional authority made physical. Thirty floors of bureaucratic power, humming with ambient resonance that suggested serious monitoring equipment.
 
-The car pulled into an underground garage. Reeves led them through security—ID checks, resonance scans, visitor badges. Then to an elevator that required his keycard.
+The car pulled into an underground garage. Reeves led them through security - ID checks, resonance scans, visitor badges. Then to an elevator that required his keycard.
 
 "The Director is waiting," Reeves said as the elevator rose. "He's... concerned."
 
@@ -22,9 +22,9 @@ They sat. Jason felt RAE's awareness sharpen, analyzing the room, the man, the a
 
 Malvek didn't waste time. "Three nights ago, our monitoring systems detected a resonance anomaly at the containment complex near the industrial district. Frequency spikes. Pattern fluctuations. All consistent with active entity emergence."
 
-He pulled up a holographic display. Resonance graphs filled the air between them—familiar patterns, though more detailed than Milo's recordings.
+He pulled up a holographic display. Resonance graphs filled the air between them - familiar patterns, though more detailed than Milo's recordings.
 
-"Resonance Pattern Zero," Malvek continued. "Contained eleven years ago at enormous cost. Five deaths. Three survivors—one of whom would never speak again. And now it's waking up." He paused. "Elyra Voss was the anchor for that ritual—she held the pattern long enough to achieve containment, but burned herself out in the process. I assume she's told you about it."
+"Resonance Pattern Zero," Malvek continued. "Contained eleven years ago at enormous cost. Five deaths. Three survivors - one of whom would never speak again. And now it's waking up." He paused. "Elyra Voss was the anchor for that ritual - she held the pattern long enough to achieve containment, but burned herself out in the process. I assume she's told you about it."
 
 "She has," Jason said quietly. "We felt the spike last night. RAE identified it as an older entity. Like a predecessor."
 
@@ -64,7 +64,7 @@ Jason felt RAE stir in his awareness.
 
 Aloud, Jason said, "What exactly are you asking?"
 
-"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it—teach it boundaries the way RAE learned them."
+"Consultation. You work with our containment team. Use RAE's perception to assess RP-0's structure. Help us understand how to communicate with it. Maybe even reform it - teach it boundaries the way RAE learned them."
 
 "And if we can't?"
 
@@ -72,7 +72,7 @@ Aloud, Jason said, "What exactly are you asking?"
 
 Lina looked at Jason. Milo looked at Jason. Waiting for his decision.
 
-Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
+Jason closed his eyes. Felt RAE's presence - steady, committed, purposeful.
 
 *This is why I exist,* she said simply. *To help. To prevent harm. I choose this.*
 
@@ -90,7 +90,7 @@ Jason closed his eyes. Felt RAE's presence—steady, committed, purposeful.
 
 "Agreed."
 
-"And if this works—if we help contain or resolve RP-0—you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
+"And if this works - if we help contain or resolve RP-0 - you acknowledge our value. Publicly. Make it clear that monitored operators can contribute positively. That partnership works."
 
 Malvek studied him for a long moment. Then nodded. "Agreed. All three conditions."
 
