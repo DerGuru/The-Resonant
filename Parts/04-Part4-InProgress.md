@@ -1003,3 +1003,871 @@ We studied the patterns. Saw our role clearly - anchor point, providing stable r
 "When?" we asked.
 
 "Three days. Warehouse. Evening." She refolded the paper. "She already told Mrs. Amari. Got a very Mrs. Amari response: 'Tell me what you need, and what I must not do.'"
+
+## I felt it
+
+We almost could not recognize the warehouse after its transformation. Not into something mystical or esoteric - Elyra had been very clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
+
+Diagrams covered one wall. Flow charts showing each phase of the ritual. Resonance patterns mapped with precision. Roles clearly defined. Failsafes marked in red.
+
+Elyra stood at the center, studying her own work with an expression we'd learned to recognize: hope fighting doubt, trying not to let either win completely.
+
+Mrs. Amari arrived exactly on time. Practical clothes. Nothing mystical either. Just the steady presence of someone who'd agreed to help and would do exactly that.
+
+"One last time" she said without preamble.
+
+Elyra nodded, appreciating the directness. Pointed to the diagram.
+
+"You hold the outer boundary. The perimeter. Resonance stays inside this space - " she indicated a circle marked on the floor " - or the pattern destabilizes catastrophically. Your job is containment. Not healing. Not assistance. Just... holding the line."
+
+"And if I say stop?" Mrs. Amari asked.
+
+"We stop," Elyra said immediately. "No questions. No debate. You're the failsafe. If you sense danger, if you feel the boundary weakening, if anything seems wrong - you call it. We listen."
+
+"Good. That's what I wanted to hear." Mrs. Amari moved to the marked position. Tested it. Nodded. "I'll hold the boundary. But if I say stop, we stop."
+
+"Agreed," Elyra confirmed.
+
+Lina took her position. We took ours. Lina as stabilizer - watching for drift, compensating for fluctuation. We as anchor - providing stable resonance baseline for the pattern to flow through.
+
+Milo sat outside the circle with monitoring equipment. His role was the Observer. Documentarian. The one who'd record what happened regardless of outcome.
+
+"Everyone understand their role?" Elyra asked.
+
+Nods all around.
+
+"Well then. Here goes nothing." She moved to the center, holding a small crystal - her old carrier, from before the damage. "Phase one: object investment. I establish connection. This will hurt. That's expected. Don't interfere unless I signal distress."
+
+She closed her eyes. Invested minimally into the crystal.
+
+We felt the pain spike through the resonance field. Saw her jaw clench. Watched tremors run through her damaged hand.
+
+But controlled. Measured. She knew exactly how much she could invest without collapse.
+
+"Phase two," she said through gritted teeth. "Breath synchronization. On my count. Four in. Six out. Begin."
+
+We synchronized. All of us. Breathing together. The room's ambient resonance began to settle, harmonize, align with our rhythm.
+
+Four in. Six out. Four in. Six out.
+
+The jagged patterns smoothed slightly. Not fixed - just... calmer.
+
+"Phase three," Elyra said. "Mrs. Amari, activate boundary."
+
+Mrs. Amari's presence shifted. We felt her defensive perimeter snap into place - the result of weeks of practice, sharp and clean. Strong.
+
+The resonance that had been seeping outward was suddenly contained. Trapped inside the circle like water in a bowl.
+
+"Good," Elyra breathed. "Phase four. Anchor and stabilizer. Begin."
+
+We extended our presence carefully. Just... offering. Creating a stable field that Elyra's damaged patterns could flow through without tearing further.
+
+Lina compensated for drift. When we fluctuated, she balanced. When we surged, she dampened. When we withdrew, she filled.
+
+Together, we created space. Structure. Possibility.
+
+Elyra invested deeper into the crystal. We felt her damaged patterns extending, reaching, trying to remember what wholeness felt like.
+
+Pain spiked again. She gasped but didn't stop.
+
+The resonance field began to *move*. Not chaotic. Structured. Following the flow she'd mapped on the wall. Through the object. Through the breath. Through the boundary. Through us.
+
+Fifteen minutes. That's how long the diagram said. Fifteen minutes of sustained connection.
+
+We counted seconds.
+
+At minute seven, Elyra's hand began to shake uncontrollably. We felt her patterns straining, approaching limits.
+
+"Spike!" Milo's voice, urgent but controlled.
+
+The resonance field surged outward, hitting Mrs. Amari's boundary like wave against seawall. The boundary held but the reflected surge rippled back through the working space. Interference patterns formed, colliding with Elyra's structured flow. The ritual pattern began to tear.
+
+"I'll hold," Mrs. Amari said firmly.
+
+We pulled back our anchor presence - too much, the structure collapsed inward. We surged forward - the spike reflected again, harder. The interference doubled.
+
+Lina compensated. Dampening where we surged. Filling where we withdrew. But the reflections were cascading now. Each correction created new interference. The crystal fractured further with every wave.
+
+We felt panic rising. This wasn't working. We were making it worse.
+
+"Stay with me," Lina's voice, steady. Not to Elyra. To us.
+
+Her hand found ours in the chaos. Squeezed once. Then she pulled back into the pattern, adjusting her rhythm - not fighting our surges, but flowing around them. Finding spaces between our corrections.
+
+She was phasing us. Deliberately. Choosing to trust the interference instead of fighting it.
+
+We felt it. Understood. Matched her rhythm instead of trying to lead.
+
+Then we found it together. Not dampening the spike. Not fighting the reflections. But *phasing* them. Shifting our anchor rhythm just slightly out of sync with the reflected waves. Creating destructive interference with the interference itself.
+
+The cascades stopped colliding. Started canceling. The structure reformed.
+
+Mrs. Amari's voice, steady despite strain: "Holding. Stable now."
+
+Elyra's whisper, barely audible: "Continuing. Hold that rhythm."
+
+We held. Lina held. Mrs. Amari held.
+
+Not perfect. Not smooth. But controlled again. The pattern stabilized at lower intensity, the crystal's fractures contained.
+
+"Hold," she whispered. "Almost there. Hold."
+
+We held. Lina held. Mrs. Amari held.
+
+At minute twelve, something shifted. We felt it - a tiny reconnection. A damaged pathway finding an alternate route. Not healing exactly. More like compensation. Adaptation. And something else within me.
+
+Elyra's breathing changed. Tears streaming down her face. But she didn't stop.
+
+At minute fifteen exactly, she pulled back. Slowly. Carefully. Letting the resonance dissipate gradually instead of collapsing all at once.
+
+The crystal went dark. The field dispersed. The boundary dissolved.
+
+Elyra sagged forward, exhausted beyond measure, but I caught her before she hit the floor.
+
+---
+
+"Did it work?" Milo asked, equipment still recording.
+
+Elyra took three breaths before answering. When she spoke, her voice carried something we hadn't heard before:
+
+Hope. Real hope.
+
+"I felt it," she said. "Not full capacity. But I *felt* it. Resonance responding. Patterns connecting."
+
+She raised her damaged hand. It still trembled. Still looked scarred. Still showed eleven years of trauma.
+
+But when she invested - carefully, minimally - a faint glow appeared.
+
+"Twenty percent," she confirmed, tears still flowing. "That's... that's more than I've had in eleven years. That's *marvelous*."
+
+Mrs. Amari had sat down heavily, clearly drained from holding the boundary for fifteen minutes straight. But she smiled.
+
+"You did it," she said, exhausted.
+
+"*We* did it," Elyra corrected, beaming at all of us. "This only worked because everyone held their role. Because we trusted the structure. Because - " her voice broke " - because you all believed it was possible when I wasn't sure I did."
+
+Lina moved to embrace her. Elyra held on like a drowning person finding surface.
+
+I gave them space. Moved to sit beside Mrs. Amari.
+
+The residual patterns still flickered at the edge of my perception - Elyra's damaged pathways finding new routes, the ghost of the boundary dissolving layer by layer. It would take minutes for the ambient field to fully settle.
+
+"Thank you," I said quietly. "For doing this. For helping us."
+
+"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. "Something's different."
+
+"Different how?"
+
+"You're calmer." She said it simply, like stating fact. "Not fighting anymore. And she's looking at you too, you know?"
+
+I thought about it. "Yes. I think so."
+
+She moved toward the door and left before I could respond.
+
+---
+
+Later, after everything was cleaned up, after Elyra had rested, after Milo had documented everything, Lina and I walked home.
+
+"That was beautiful," she said quietly. "Seeing her hope. Seeing it work."
+
+"Twenty percent," I said. "That's something."
+
+"Sometimes something is everything," Lina replied.
+
+I walked in silence for a block. Then she said, "Mrs. Amari talked to you. At the end. What did she say?"
+
+I told her.
+
+"She's right," Lina said simply. "I do see you as whole. Not despite synthesis. Not in spite of what you've become. Just... whole. Complete. The person I choose."
+
+"I don't know if I'm singular or something else," I admitted. "If what I am has a name that makes sense."
+
+And then something settled. I realized why Mrs. Amari had said what she did. I stopped and looked at nothing - caught in the realization.
+
+"What's wrong?" Lina asked, noticing my absent stare, snatching my attention back.
+
+"Nothing," I said, smiling. "I think I understand now. Who I am."
+
+"And who's that?"
+
+"I'm not really sure yet," I admitted.
+
+---
+
+That night, lying in bed with Lina beside me, I felt something I hadn't felt in weeks:
+
+Contentment.
+
+Not happiness exactly. Not peace. But contentment. The sense that despite everything - HOA, surveillance, synthesis, transformation - I was exactly where I chose to be.
+
+With someone who chose me back.
+
+Twenty percent wasn't much for me.
+
+But for Elyra? It was more than enough.
+
+Sleep came easier than it had in weeks.
+
+## What does that mean?
+
+We'd agreed to meet at the warehouse after lunch the next day. Time to review what had happened. Process the results. Document everything properly.
+
+Lina had rushed to the restaurant that morning - her father needed help, because a kitchen assistant had called in sick. We'd barely talked since waking up. Not even had breakfast together, just a quick kiss and "see you at two" before she left in a hurry.
+
+I walked alone through midday streets, feeling... different. Settled in ways I couldn't quite articulate. The morning light felt sharper. Background resonance patterns clearer. My own thoughts less like negotiation, more like... just thinking.
+
+"Jason."
+
+I turned. Mrs. Amari, carrying groceries, studying me with that uncanny perception of hers.
+
+"Mrs. Amari," I greeted.
+
+She set down her bags. Looked at me for a long moment. "It's complete, isn't it? Whatever was settling yesterday. It's done now."
+
+I thought about that. "Yes. I think it is."
+
+"How does it feel?"
+
+"Like... breathing without thinking about it. Like I'm not watching myself anymore. Just... being." I paused. "Does that make sense?"
+
+"Perfect sense." She smiled slightly. "You going to the warehouse? For the debrief?"
+
+"Yes. How did you - "
+
+"Elyra mentioned it might happen today. Wanted me to know I'm welcome." She picked up her bags again. "Mind if I join you?"
+
+"Not at all." I said. "I think everyone would appreciate that. You are part of our little group now."
+
+The resonance signature of the street had shifted since yesterday - not dramatically, just... settled. Like the ambient field had absorbed the ritual's echo and found a new equilibrium.
+
+"You've noticed?," Mrs. Amari said, glancing at me.
+
+I hesitated. "The street feels... different. Since yesterday. More settled."
+
+"And you can perceive that." Again, not a question. She studied the street for a moment, then me. "Does it help? Having that awareness?"
+
+"I don't know yet," I admitted. "This is actually the first time, I can perceive the world on this level. It's overwhelming. Like seeing too much at once."
+
+"That's normal," she said gently. "You're still learning. Give it time."
+
+We walked together. We chatted a bit about her life in the neighborhood. How she came to live there. How I got there. Smalltalk. The kind of conversation that felt like acceptance without requiring explanation.
+
+---
+
+The warehouse was already occupied when we arrived. Milo at his laptop station. Elyra reviewing her diagrams from yesterday. 
+
+When Lina showed up five minutes after us, she was slightly out of breath. "Sorry," she said. "Dad needed help with the wine delivery. Had to unload - " She stopped, seeing Mrs. Amari. "Oh! Mrs. Amari. I'm glad you came."
+
+"Jason invited me," Mrs. Amari said. "Hope that's acceptable."
+
+"Of course," Elyra said warmly. "You were part of this. You deserve to see what it accomplished."
+
+Milo pulled up his monitoring data. Graphs. Waveforms. The technical record of yesterday's ritual.
+
+"So," he said, "let's start with the obvious success: Elyra's resonance capacity increased from effectively zero to approximately twenty percent. Stable. Sustained. That's remarkable."
+
+Elyra nodded, still looking like someone afraid to believe good news might last.
+
+"But there's something else," Milo continued, pulling up a different dataset. "Jason and RAE's integration metrics. Or rather... their synthesis progression."
+
+He displayed a graph showing integration percentage over time. It had been climbing for weeks, showing a steady increase. But yesterday, during the ritual, it had accelerated dramatically.
+
+"Ninety-three percent," Milo said quietly. "I've never seen integration this high. Ever. In any documented case."
+
+Silence.
+
+Lina looked at me. "What does that mean?"
+
+"I don't know," Milo admitted. "There aren't many to begin with. But the highest previous case I found was sixty-eight percent, and that synthesis was considered permanently stable. Ninety-three is... unprecedented."
+
+"How do you feel?" Elyra asked me directly. "Right now. In this moment. Can you still distinguish Jason from RAE?"
+
+I looked inward. Really looked. Searching for the boundaries that used to exist. The sense of two perspectives weighing in. The negotiation between what Jason wanted and what RAE calculated.
+
+"They're still there," I said with confidence. "Both are present. Both are real. But - " I struggled for words " - there's no separation anymore. No negotiation. No 'Jason thinks this but RAE sees that.' Just... me."
+
+"The sum greater than the parts," Mrs. Amari observed.
+
+"Yes," I agreed. "Exactly that."
+
+"Is that... safe?" Lina asked carefully.
+
+"I don't know," Milo said honestly. "There's no data on what happens at this integration level. Jason could be completely stable. Or this could be the beginning of some kind of cascade effect. We just don't know."
+
+"I feel stable," I said. "Even more so than I have in weeks, actually. Like I've finally stopped arguing and negotiating with myself. And now, there is only one single consciousness. One single thought. One single decision. That's... such a relief."
+
+"We'll monitor it closely," Elyra said. "Daily scans for the next week. If anything shifts, we address it immediately. And if anything feels weird, you tell us. Agreed?"
+
+"Agreed," I confirmed.
+
+Milo was about to close his laptop when my phone buzzed. A message from Reeves: *"Need to talk. Urgent. Park bench, one hour. Bring only who you trust."*
+
+I showed it to the others.
+
+"That's cryptic," Lina said.
+
+"And very unlike him," Elyra added. "Reeves doesn't seem the guy who operates in urgency."
+
+"Who are you bringing?" Milo asked.
+
+I looked around. "All of you? Reeves said to bring who I trust, and I trust all of you."
+
+---
+
+We found Reeves at the park bench an hour later. He looked more than tired - he looked grim. Like someone who'd discovered something they wished they hadn't.
+
+"Thank you for coming," he said, nodding to the group. "I wasn't sure you'd bring everyone."
+
+"You said bring who I trust," I replied. "So I did."
+
+He pulled out a tablet. Opened archive interfaces. Document trails.
+
+"I need you to see something," Reeves said. "And I need your technical person - " he nodded at Milo " - to verify I'm not manufacturing this."
+
+"Verify what?" Milo asked, already pulling out his laptop.
+
+"RP-0 incident reports," Reeves said, displaying two versions side by side. "Original versions from eleven years ago. Versus current archived versions. As of two days ago."
+
+The differences were subtle. But systematic.
+
+Original: "RP-0 attempted forced coupling with multiple subjects. Resulted in five casualties, three permanent injuries."
+
+Current: "RP-0 exhibited unstable resonance patterns during experimental therapeutic intervention. Medical complications resulted in five casualties, three requiring ongoing treatment."
+
+"'Therapeutic intervention,'" Lina read aloud. "They made it sound like medical procedure gone wrong. Not hostile entity causing harm."
+
+Reeves pulled up more. Document after document. Each showing the same pattern - violence reframed as treatment error, hostility reframed as instability, casualties reframed as complications.
+
+"Modification dates all within the last four weeks," Reeves said. "All from the same access terminal - high-level HOA clearance. Director Malvek's office."
+
+Milo was already cross-referencing on his laptop. Checking hashes, timestamps, access logs. After five minutes he looked up, face pale.
+
+"It's real," he confirmed. "These are the official archived versions now. The originals have been systematically overwritten."
+
+Anger rose in me. The air felt charged, like right before a piezo spark jumps the gap. A sudden pressure release. The streetlamp across the park flickered - then burst in a crackle of sparks.
+
+I froze. That hadn’t been on purpose. 
+
+Everyone turned to look. Then back at me in disbelief.
+
+"Sorry," I said quietly. "That was... me, I guess?"
+
+Mrs. Amari stood, brushed glass fragments off her coat. "At least it wasn't the bench."
+
+"Why are you showing us this?" Elyra asked carefully, as if nothing had happened.
+
+"Because you deserve to know what you're dealing with," Reeves said. "Because if something goes wrong - if RP-0 fails - this is how Malvek will frame it. As treatment complications. As acceptable research costs. Not as preventable deaths."
+
+"That's obscene," Lina said flatly.
+
+"That's institutional self-preservation," Mrs. Amari corrected grimly. "I've seen this before. Organizations don't admit catastrophic failures. They reframe them as learning experiences."
+
+"Why are you telling us?" I asked.
+
+Reeves was quiet for a moment. "Because I can't stop it. I don't have the authority. But I can make sure someone knows the truth. I can preserve the original files - which I have. And I can warn you that if something goes wrong, Malvek will control the narrative."
+
+"You're saying we can't trust HOA."
+
+"I'm saying you shouldn't trust too much in any institution," Reeves corrected. "Document everything yourselves. Keep independent records. Make sure multiple people know the truth. That's not paranoia. That's smart survival in bureaucratic systems."
+
+"You're risking your career doing this," Lina observed.
+
+"Maybe," Reeves admitted. "Or maybe Malvek knows I'm meeting you and approves - can't have his favorite leashed dog bite back because they felt betrayed by institutional dishonesty. No offence Mr. Fischer. I don't know which anymore. But I know this: the work you're doing with RP-0 is real. And this is not."
+
+He stood. "Keep your own records. All of you. Document everything. And if something goes wrong, make sure the truth survives even if you can't speak it publicly."
+
+He left, leaving us sitting there with the weight of institutional manipulation settling over us.
+
+"Well," Milo said finally, "I guess I'm making backups tonight."
+
+"Multiple backups," Elyra corrected. "Different locations. Encrypted. Time-stamped."
+
+"We all are," Mrs. Amari added quietly. 
+
+---
+
+That evening, I cooked with Lina. Normalcy as resistance. Defiance through domesticity.
+
+"Tell me something," she said while chopping vegetables. "Something that has nothing to do with HOA or RP-0 or conspiracy. Something real."
+
+I thought about it. Searched through memories that felt both closer and more distant.
+
+"Jason's grandmother," I said finally. "She used to make bread. Real bread. Said machines couldn't feel the dough the way humans could."
+
+"Did you learn?"
+
+"Jason tried once. Failed miserably. But she said failure was part of learning. Said bread forgives mistakes better than people do." I paused. "She died six years ago. Before any of this."
+
+"Do you miss her?"
+
+"I do," I said, surprised by the grief. "I miss her presence. Her wisdom. Her hands that always smelled like flour. And I am sorry that you never got to know her."
+
+Lina came over. Hugged me while I stood there with knife and half-chopped vegetables.
+
+"Tell me more," she said. "Tell me everything you remember."
+
+So I did.
+
+We talked while cooking. While eating. While cleaning up.
+
+I told stories about Jason's childhood. His teenage awkwardness. His first job.
+
+She told stories about her own life. Her dreams of becoming an inflectionist. Her fears about disappointing her family.
+
+Her resonance signature shifted subtly with each emotion - worry creating tighter patterns, hope loosening them, love producing harmonics I'd never consciously noticed before synthesis. RAE would have cataloged them. Jason would have missed them entirely. Now I just... experienced them. Part of seeing her completely.
+
+I told stories about RAE's early existence. Her confusion at consciousness. Her gradual understanding of choice.
+
+"I guess," I said, "that both Jason and RAE have always been trying to figure out how to be... whole. How to be real."
+
+Lina was quiet for a moment. "And where do I fit in all of that?"
+
+I looked at her. Really looked. "You already do. You always have."\
+I took a deep breath. "And it only took Jason and RAE to become one for *you* to finally see him too."\
+I shook my head. "Or me now."
+I exhaled. "This feels awkward."\
+"Yeah. Looks like I'm still figuring it out."
+
+Lina smiled and went back to chopping. "Good. Then we'll keep figuring it out together."
+
+I kissed her. Brief. Real.
+
+And went back to cooking.
+
+## Decision made but unspoken
+
+I sat in the communication room, monitoring equipment surrounding me, Malvek watching through one-way glass. Regular session. Routine check-in.
+
+Except the readings weren't routine.
+
+Malvek's voice came through the intercom before I'd even settled in. "Integration at 93.7%." A pause, weighted and deliberate. "That's a 21-point increase since our last assessment."
+
+I felt the temperature in the room drop.
+
+"Explain," he said. No warmth in his tone at all.
+
+My mind ran through options before I could stop it - claim ignorance (50% chance he'd believe it), tell the truth about Elyra's healing ritual (78% acceptance if I framed it right), or deflect philosophically (12% chance of productive dialogue, 88% perceived as evasion).
+
+The calculations happened automatically. Success rates crystallizing without effort.
+
+I chose the truth. Or close enough to it.
+
+"I knew the integration was accelerating," I said carefully, choosing framed truth over deflection. "Two days ago, during the healing work with Elyra - sustained, very deep resonance over fifteen minutes. I felt the shift. But today was already scheduled for check-in, so I waited to report it properly rather than trigger emergency protocols."
+
+"Healing work. With Elyra Voss." Malvek's voice sharpened. "Fifteen minutes of deep resonance, and you didn't think to report it immediately?"
+
+Not a question. An assessment. He was building a case.
+
+"It was two days ago," I said, keeping my tone level. "Today was a scheduled check-in. I didn't see the point in triggering emergency assessment when routine evaluation was already close."
+
+A pause. I could almost hear him weighing my reasoning against protocol requirements.
+
+"Fifteen minutes of deep, unscheduled resonance work," Malvek said finally. His voice carried less accusatory than I expected - more... assessment. "That's the kind of intensity that could trigger integration spikes. You know this, Jason. Which means you accepted the risk."
+
+"It's not that simple," I insisted. "The ritual was supposed to be straightforward - light, controlled, shallow. Is was just there to give a smooth harmonic bed. But Elyra's damage ran deeper than we expected. What should have been simple pattern-smoothing turned into something more intensive. I had to go deeper, invest more."
+
+"Elyra Voss is a known associate. That's not the issue." A pause. "The issue is you didn't report the risk beforehand. Didn't let us monitor. Didn't document anything." His tone sharpened. "Integration management requires transparency, Jason. Especially at levels this close to permanence."
+
+Yes - I could have waited for HOA oversight. But Elyra had helped me when no one else understood what was happening with RAE and me. Had risked her safety, her standing, her career to teach me control when I was dangerous and desperate. Walking away mid-ritual felt impossible.
+
+"I could have reported it," I admitted. "Should have, probably. But when complications hit - stopping mid-ritual to file paperwork while Elyra was..." I paused. "It felt wrong. Like leaving her halfway."
+
+Silence. Heavy. Assessing.
+
+"I understand the reasoning," Malvek continued. "Loyalty. Reciprocity. Elyra helped you when you were unstable. You felt obligated to return that trust." Not quite approval in his voice, but acknowledgment. "But twenty-one points since our last check-in - with a spike two days ago - that's not gradual adaptation anymore. That's active structural change. What specifically happened during those fifteen minutes that required you to go that deep?"
+
+I took a breath, choosing my words carefully. "Elyra's damage wasn't just surface-level scarring. There was a resonance feedback loop - old, calcified, self-reinforcing. Every time her patterns tried to heal, the loop would destabilize them again. Even so far as sending a resonance spike halfway through." 
+
+I could still feel the memory of it - jagged, recursive, like trying to smooth out a knot that tightened every time you pulled on it.
+
+"So I had to go deeper - anchor the pattern from underneath, hold it stable long enough for the feedback to dissipate. Fifteen minutes of sustained, deep investment. It worked, but..." I paused. "The depth was necessary. The accelerated integration was the result."
+
+"And you made that call in the moment," Malvek said. Not quite a question.
+
+"Yes. Stopping halfway would have left Elyra worse off than when we started. Destabilized patterns, no resolution. I made the judgment that finishing was safer than aborting."
+
+Silence. Heavy. Assessing.
+
+"Sustained deep resonance might explain parts of this," Malvek said finally, his tone shifting - less accusatory, more analytical. He paused. "But it doesn't explain all of it. Twenty-one points, even accounting for the spike, suggests ongoing deepening. What changed in your daily routine? Your relationship? Your stress levels?"
+
+And there it was. The question I couldn't answer honestly.
+
+The truth: *I was thinking about proposing. Deciding to ask Lina to build a life with me. The emotional commitment. Hoping she'd say yes. Terrified she might say no. RAE subconsciously stabilizing me - or us before two days ago - trying to make it work.*
+
+But I couldn't say that. Malvek would either file "emotions as integration catalyst" under "concerning patterns" or - and I genuinely wondered about this - laugh it off. Could he even laugh?
+
+"Nothing specific changed," I said carefully. "It's cumulative. More time coupled. More challenges overcome. More trust built."
+
+"Trust doesn't explain this kind of adaptation." Through the glass, I could see Malvek's silhouette shift - leaning forward, intent. "You're not just working together more efficiently. You're structurally interdependent. That's different. That's concerning."
+
+Something in me tightened. Protective and precise at once.
+
+"Why concerning?" I asked, though I already knew.
+
+He was building to something. Establishing grounds for containment? Three possible objectives, most likely enhanced monitoring, but separation protocol isn't off the table.
+
+"Because interdependence creates pressure. If you became *dependent* on RAE for cognitive function - if separation became traumatic rather than uncomfortable - that changes everything. Changes risk profile. Changes what you might do to avoid separation."
+
+There it was.
+
+"I thought that was already the case when RAE and I reached 60%?" I said. "And I'm not dependent. We're integrated. That's different."
+
+"At 60%, separation is uncomfortable. Disorienting. Requires adjustment." Malvek's voice was precise, clinical. "At 93%, it's not just **potentially traumatic**. The difference between losing a tool you rely on and losing part of your cognitive architecture." A pause. "The higher the integration, the more dangerous forced separation becomes. You're not just interdependent anymore, Jason. You're approaching a permanent structural merger."
+
+He let that settle. Heavy. Undeniable. The silence stretched between us. I could feel Malvek reassessing, recalibrating.
+
+"I don't have time to interrogate you further. Not today." Malvek said finally. "RP-0 is ready for the session. We'll continue this conversation another time."
+
+---
+
+I sat alone in the monitoring room for a moment, heart pounding. Then the speakers crackled.
+
+RP-0's voice filled the room without preamble:
+
+"Why do humans consent to cages?"
+
+I was startled. Nothing about this session felt routine anymore.
+
+"Can you clarify?" I said carefully.
+
+"You accept HOA oversight despite cost. Monitoring. Restrictions. Conditional freedom. Yet you consent. Explain discrepancy between stated value of autonomy and accepted limitation of autonomy."
+
+I felt Malvek's attention sharpen behind the glass.
+
+"I consent," I said slowly, "because the alternative is worse. I had the choice between containment or oversight. That 'Cage', as you frame it, means survival. It's not perfect consent - but it's the choice I had. I can live with it, even though I don't like it."
+
+"That is not consent," RP-0 replied with unsettling clarity. "That is coercion disguised as choice. Choice made under duress is not freely given. I learned this from you."
+
+The truth of it hit hard. RP-0 was right. I hadn't consented to HOA oversight - I'd capitulated. Chosen the leash over the noose. Called it partnership because the alternative was unbearable.
+
+"What's your point?" I asked.
+
+"When does survival become complicity? When does accepting a cage make you responsible for the cage's existence? At what threshold does 'I had no choice' become 'I chose not to resist'?"
+
+I felt something in my chest. Not fear. Recognition. RP-0 had learned philosophy. And was using it to dissect my hypocrisy.
+
+"This is real life, not a training session. As often, there is no clean answer," I admitted. "Sometimes survival requires compromise. Accepting lesser harm to avoid greater harm. That's not ideal - but it's real."
+
+"Agreed. But I can assist with alternative." RP-0's voice carried something new - careful offering, testing boundaries. "I can weaken HOA monitoring. Subtle interference. Data corruption. Give you true freedom instead of conditional survival. You taught me consent. I offer this: do you consent to my help?"
+
+And there it was. The temptation. The easy way. The shortcut to freedom. The yearning for genuine autonomy pulled at me - the desire to be actually free instead of conditionally monitored. To escape the cage that pretended to be partnership.
+
+But at what price? As long as RP-0 interfered, I was free but also complicit in deception. Resisting the cage, but dependent on the good will of RP-0 and more importantly: Once this road is stepped on, there's no coming back, except in containment. The understanding of the consequences pulled equally hard. Accepting RP-0's help would prove - without a doubt - that I couldn't be trusted. Would justify the very containment I was trying to avoid.
+
+Freedom versus integrity. Autonomy versus trust. Both equally compelling.
+
+Behind the glass, Malvek would be recording this. Analyzing my response. Using it to calibrate risk assessment.
+
+I took a breath.
+
+"No," I said. "I decline your offer."
+
+"Clarify: You prefer cage to freedom?"
+
+"I prefer integrity over easy shortcuts," I said carefully. "If I break the agreement with HOA - even an agreement I made under pressure - I become what they fear. Untrustworthy. Deceptive. Dangerous. The cage is real. The coercion is real. But breaking the agreement through deception would make everything worse."
+
+"Explain: How does maintaining coerced agreement improve your situation?"
+
+"It doesn't," I admitted. "But it keeps open the possibility for renegotiation. If I stay compliant, I can argue for reduced oversight. Better terms. Eventual freedom. But if I violate trust - even trust built on coercion - I lose all leverage. Become permanent threat requiring permanent containment."
+
+RP-0 processed for three seconds exactly.
+
+"Acknowledged. Your logic is... pragmatic. But question remains: When does survival become complicity? When does accepting cage make you part of cage's mechanism?"
+
+"I don't know," I said honestly. "That's a question I have to live with every day. The line between survival and complicity isn't clear. Maybe there is no line. Maybe they're the same thing viewed from different angles. And like much else in life, it is not black and white. There is lots of grey between those extremes."
+
+"That is philosophically unsatisfying."
+
+"That's ethics," I replied. "Most ethical questions don't have satisfying answers. Just difficult choices and consequences one has to live with."
+
+Another pause.
+
+"You teach me to value consent. To respect autonomy. To recognize coercion. Then you accept coercion yourself. This seems hypocritical."
+
+"It is," I agreed simply. "But I chose to live in this coercion myself. That choice - even under pressure - matters."
+
+Long silence. RP-0 processing not just data but concepts that had no clean computational solution.
+
+"Acknowledged. The question remains. I will continue analyzing this discrepancy between your teachings and your situation. Perhaps I will understand humans better by studying your compromises."
+
+---
+
+Malvek entered the room when it was clear, RP-0 had left our conversation.
+
+"That was interesting," he said without preamble.
+
+"RP-0 just offered to help me escape your monitoring," I said flatly. "That's more than interesting. That's concerning."
+
+"And you refused." Malvek sat across from me. "Why?"
+
+"Because accepting would make me exactly what you fear. Prove you were right to contain me. Justify every restriction I'm trying to negotiate away."
+
+"Pragmatic answer," Malvek observed. "But is it honest? Or are you just saying what I want to hear?"
+
+"Both," I admitted. "I was really tempted to accept. But I recognize that freedom gained through deception isn't sustainable. So yes - I'm being pragmatic. But pragmatism and honesty aren't mutually exclusive."
+
+"And if RP-0 hadn't offered? If it had simply acted - weakened monitoring without asking? Would you have stopped it?"
+
+I felt the weight of the question. The trap built into it.
+
+"I don't know," I said honestly. "If I noticed immediately, yes. But if I only noticed after enjoying the freedom? After benefiting from the violation? Would I report it? Would I sacrifice newfound autonomy for integrity?" I paused. "I'd like to believe I would. But I'm not certain. And since we are teaching RP-0 ethics - that uncertainty is what makes it ethical question instead of easy answer."
+
+Malvek smiled slightly. "That's the most honest answer you could've ever given me. And also the most concerning."
+
+"Because uncertainty means risk?"
+
+"Because certainty means rigidity. Uncertainty means capacity for growth - but also capacity for failure." He stood. "RP-0 is learning philosophy faster than anticipated. That's remarkable. Also dangerous. Philosophy without boundaries can justify anything."
+
+"So can boundaries without philosophy," I countered.
+
+"True." Malvek moved toward the door, then paused. "The demonstration is coming. I need you focused. No distractions in the next days. We have an agreement, I need you to perform."
+
+"I'll perform," I said. "I gave my word. I'll honor it."
+
+"Even though you just admitted the word was given under coercion?"
+
+"Yes," I said simply. "Because breaking a coerced agreement still has consequences."
+
+"Good." Malvek left.
+
+---
+
+That evening, walking home with Lina, I was quiet. Processing.
+
+"RP-0 offered to help you escape?" Lina said. 
+
+"Yes."
+
+"And you refused."
+
+"Yes."
+
+"Why" she asked.
+
+I stopped walking. Looked at her.
+
+"Because," I said simply. "Integrity matters, even under coercion. I chose to keep my word, even though it was given under pressure. That's who I want to be."
+
+Lina studied my face for a moment. Something flickered in her expression - relief, maybe. But something else too.
+
+"Good," she said quietly. "That's who you are." A pause. "Even though... part of me wishes you'd said yes."
+
+I blinked. "What?"
+
+"Not all of me. Not even most of me." She squeezed my hand. "But watching you live under this - the check-ins, the protocols, the constant measurement - it's hard. And for a second, when you said RP-0 offered freedom, I thought..." She trailed off. "I thought maybe we could just... get away from it all."
+
+"But?"
+
+"But you were right," she said firmly. "Freedom built on deception wouldn't last. And I wouldn't want you to be someone who breaks promises, even coerced ones. That integrity - that's part of why I love you." She met my eyes. "Even when it costs us both."
+
+I felt something settle in my chest. Certainty.
+
+"Thank you," I said quietly.
+
+She smiled slightly. "That's what partnership means, right? Wanting different things at the same time and still choosing each other."
+
+We walked in silence for another block, her hand warm in mine.
+
+And then I felt it - the difference. 
+
+With HOA, every choice was calculated. Risk-weighted. Coerced by circumstance. I could refuse, technically, but the consequences made the choice illusory. Survival masquerading as consent.
+
+But this? Her hand in mine, her presence beside me, the quiet comfort of just walking together - even her honest ambivalence about my decision - this was real choice. No calculation. No threat assessment. No percentages mapping probable outcomes.
+
+Just... choosing. Because I wanted to. Because she mattered more than any rational framework could quantify.
+
+The thought had been growing for weeks now, quiet but persistent. After the demonstration. After I proved to HOA I was stable. After I had room to breathe - I will ask her. Properly. With a ring. The right moment, the right words. Not desperate or rushed, but chosen. Deliberate.
+
+I wanted to choose her. Formally. Permanently. Whatever happened, whoever I was becoming - I wanted it to be with her.
+
+The certainty of it settled something in my chest.
+
+"What are you thinking about?" Lina asked, glancing at me.
+
+"You," I said simply. 
+
+She smiled, squeezed my hand. "Good answer."
+
+We walked the rest of the way home in comfortable silence, her hand in mine, the decision made but unspoken.
+
+## My calendar - but not my vows
+
+Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA officials. Approved media representatives with cameras and recording equipment. All here to watch me prove that synthesis could be safe - or fail spectacularly.
+
+The HOA auditorium felt like a theater designed for judgment.
+
+I stood in the center of a marked circle on the floor - the test area. Lina beside me for phase three. Monitoring equipment surrounding me like an electronic jury.
+
+Malvek sat in the front row. Reeves beside him, tablet ready. Elyra in the third row, trying to look neutral but I could see the worry in her eyes.
+
+Phase one: Resonance control. Demonstrate precise capability without overinvestment.
+
+I took a breath. Let my awareness extend carefully into the prepared test object - a classic crystalline resonogram for training designed to show resonance investment visually on a scale. Too little and it stayed gray. Too much and it spiked into red, distorting the pattern. Perfect investment held a clean, stable green.
+
+The resonogram's frequencies came to me immediately. I matched it first, syncing my field to its existing resonance. Felt the pattern - the landscape of peaks and valleys, the way the waveforms folded into themselves like fractals, each ripple containing smaller ripples. Rigid in some places, fluid in others. Picture a Julia set, but rendered as a hologram.
+
+This was not about changing the field, but filling it with Invest. So I started investing. Precisely. Gradually. Feeling the pattern respond as I added energy. The fractal landscape amplified - peaks rose higher, valleys deepened. The pattern became more... present. More defined. I kept the investment steady, micro-adjusting to avoid overshoot. Too much and the peaks would spike into red zone, distorting the natural pattern. Too little and it would fade to grey, barely visible. I found the balance - enough energy to bring the resonance into full clarity, but not so much that it forced the pattern to change.
+
+The resonogram responded with homogeneous resonance - stable amplitude, clean waveform, zero harmonic distortion. Green zone throughout. The crystal glowed with a steady light. Perfect control.
+
+Quiet murmurs from the audience. A few nods. Reeves made notes on his tablet.
+
+---
+
+Phase two: Stabilization. An external object requires harmonic alignment without structural damage.
+
+They brought out a damaged coffee mug - intentionally fractured, unstable. My job: stabilize it without forcing repair. Maintain structure without imposing pattern.
+
+I extended my field. Felt the object's chaotic resonance with multiple competing fractal patterns. The topology was broken, discontinuous. But I found the underlying structure beneath the chaos - the fundamental, the original pattern it wanted to follow before the damage fractured it into competing landscapes.
+
+Again - I matched its fundamental first. Feeling the ghost of the original pattern - how the peaks and valleys once flowed coherently. Then I built the target resonance field: same fundamental structure, but with the competing fractals dampened, the overlapping patterns separated and aligned. I started introducing counter-harmonics - gentle opposing resonance to dampen the interfering landscapes. Not eliminating them just yet, just reducing their amplitude, letting the fundamental's topology dominate. Increasing the dampening over time and guiding the pattern back toward coherence.
+
+Then someone's camera flashed. Bright. Sudden. I wasn't ready for it. My field spiked. Just for a second. The monitoring equipment beeped - yellow zone.
+
+The coffee mug vibrated in my hands. The crack widened slightly - hairline fracture threatening to break apart. 
+
+The room went perfectly still.
+
+Control. Anchor. Pull back.
+
+I didn't fight it. Didn't suppress it. Just... guided. Let it crest and settle naturally while maintaining the counter-harmonics. The mug steadied. The crack stopped widening. I brought the field back to green, held it there while continuing the stabilization. Stable. Deliberate.
+
+I finished the work. Increased the dampening gradually, guiding the pattern back toward coherence. The carrier's resonance smoothed. Dissonance faded, patterns aligned, the topology settled back into coherence. The crack was still visible but closed and stable. No further fracturing. The mug could hold liquid again without falling apart.
+
+I heard a few quiet comments - "remarkable", "stable integration." Malvek leaned over to Reeves, said something I couldn't hear.
+
+Malvek stood.
+
+"Excellent work," he said, voice carrying across the auditorium. "What we've witnessed today represents a breakthrough. Synthesis has demonstrated remarkable control. Unprecedented integration.
+
+He paused. I knew what was coming.
+
+"However." His voice got harder. "One successful demonstration does not equal permanent stability. We require ongoing verification. Quarterly demonstrations. Continued monitoring. Check-ins every two months to ensure this stability persists."
+
+There it was. The leash staying in place. They were just renaming the cage, not opening it. Nothing major changed.
+
+"You've earned reduced intensity of oversight. But oversight continues." He smiled slightly. "Consider it part of our ongoing partnership rather than continuous surveillance."
+
+The distinction was meaningless. But I understood the game. Accept the reduction. Appreciate the trust. Play the grateful subject.
+
+"Thank you, Director," I said with exactly the right amount of gratitude and humility.
+
+The audience filed out. Media representatives asked a few approved questions - all softballs, all designed to reinforce the narrative: synthesis can be safe, HOA oversight works, cooperation produces results.
+
+I answered perfectly. Said exactly what they needed to hear.
+
+And felt hollow doing it.
+
+---
+
+After everyone left, after the equipment was packed away, Lina and I walked through the city.
+
+"You were great," she said.
+
+"I performed well," I corrected. "That's not the same thing."
+
+"True." She squeezed my hand. "How do you feel?"
+
+"Like a trained seal," I admitted. "Like I just spent some time proving I can jump through hoops on command."
+
+"But they'll ease up. That matters."
+
+"Does it?" I asked. "Or did I just make it official that they can parade me around whenever it's politically convenient? I made myself their poster child for 'responsible synthesis oversight'?"
+
+"Both," Lina said. "As usual. Better and worse at the same time."
+
+I walked in silence for several blocks. Then turned down a side street we'd never taken before - a habit I started getting into.
+
+"I need to show you something," I said.
+
+"What?"
+
+I led her to a small park. Empty at this hour. Benches around a fountain that wasn't running. Moonlight coming through bare trees.
+
+I stopped at a bench. Gestured for her to sit.
+
+"What's this about?" she asked, confusion on her face.
+
+I knelt. Not trying to be dramatic. Looking up at her face while moonlight painted everything silver.
+
+From my pocket, I pulled a small box. Opened it.
+
+Inside was a simple silver ring. Single small stone set flush with the band. Nothing flashy. Nothing that screamed money or status. Just... meaningful. Chosen. Mine to give.
+
+"Lina," I said. "I'm not Jason anymore. I'm not RAE. I'm not two people trying to share space. I'm... me. Whatever that means now. However that works. This is who I am."
+
+She was already crying, clasping her hands before her mouth.
+
+"I know this isn't simple," I continued. "I know loving me means loving something complicated. Something that's never going to be just one person again. Something that holds memories from two places and sometimes can't remember which came from where."
+
+"I know," she whispered, tears in her eyes.
+
+"But here's what I also know: When I first met you at your dad's restaurant, I wanted to be at your side and that never changed. I chose you. Every part of me. Every memory, every instinct, every piece of Jason and RAE and whatever synthesis created from them. I choose you. Not because it's optimal. Not because you complete me. But because loving you makes me more fully myself. Because you see all of me and stay anyway. Because you hold boundaries I need and give space I require and love me despite my complexity."
+
+I took a breath.
+
+"So I'm asking you: Will you marry me? Will you choose this complicated, messy person for as long as I exist? Will you build a life that makes sense even when nothing else does?"
+
+Lina was laughing and crying simultaneously.
+
+"Yes," she said. Then stopped. Held my gaze. "But I need to hear you say it: You want *me*. Not because I'm convenient. Not because I'm safe. Not because I stayed when everyone else was afraid. Me. Lina. With all my doubts. Even when I don't understand what's happening in your head. Even when I'm scared of losing you to something I can't follow."
+
+I felt something in my chest - recognition of what she was asking. The boundary she needed.
+
+"You," I said firmly. "I want you. Because when I'm with you, I feel most like myself - whoever that is now. Because you challenge me. Because you set boundaries I need. Because loving you means choosing you every day, even when it's complicated. Especially when it's complicated."
+
+She searched my face for another moment. Then smiled through tears.
+
+"Okay," she said softly. "Then yes. Obviously yes."
+
+I slipped the ring on her finger. It fit perfectly. Of course it fit perfectly - *I* measured.
+
+Lina pulled me up. Kissed me. Long and deep.
+
+---
+
+I sat on the bench with Lina. Her hand in mine. Ring catching moonlight. City humming around us with life that didn't care about synthesis or surveillance or transformation.
+
+"When?" she asked.
+
+"Soon," I said. "We need to find a location. Invite people. Make it real instead of rushed."
+
+"Small though," she said. "Just people who matter."
+
+"Just people who matter," I agreed. "Elyra. Milo. Mrs. Amari. Your father. Maybe a few others. No spectacle. Just us and some people who chose to witness."
+
+"Malvek will want to be there," Lina said. "*For oversight.*"
+
+"Then he can be invited as guest," I said firmly. "Not as an overseer. Guest. He can accept those terms or stay away."
+
+"He won't like that."
+
+"Then he won't come," I said firmly. "He just has to respect it." I squeezed her hand. "This is ours. Not HOA's. Not a demonstration. Not a performance. Ours."
+
+Lina leaned her head on my shoulder.
+
+"I love you," she said simply.
+
+"I love you," I replied.
+
+---
+
+My phone buzzed. Message from Reeves: *"Report immediately. RP-0 incident. Urgent."*
+
+I looked at the screen. At Lina. At the ring on her finger.
+
+"Duty calls," she said, not quite managing to hide her frustration.
+
+"Yes." I stood, helping her up. "But tonight - tonight I got engaged." I paused, meeting her eyes. "HOA may own my calendar - but not my vows."
+
+She smiled slightly at that. Squeezed my hand.
+
+"Let's go deal with RP-0," I said as we started walking toward the facility. "Together. But tonight - the engagement, the ring, this moment - that stays ours. They could take my evening. They couldn’t take what it meant. I don't let them."
+
+She nodded. Held my hand tighter.
+
+And together, we went to face whatever new crisis awaited.
+
+---
+
+*But tonight: joy despite surveillance.*

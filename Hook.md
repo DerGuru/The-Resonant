@@ -4,19 +4,13 @@ Jason Fischer tested "insufficient" for magic at sixteen. The system was clear: 
 
 Then he found the file.
 
-Eleven years ago, a ritual failed catastrophically. Five people died. The survivor - once one of the best inflectionists alive - was blamed for what woke up. The official record says it was contained. The details are scrubbed. 
+Eleven years ago, a ritual failed catastrophically. Five people died. A survivor - once one of the best inflectionists alive - was blamed for what woke up. The official record says it was contained. The details are scrubbed. 
 
 Jason files it away as another bureaucratic cover-up.
 
 Then the resonances start and the thing, that escaped years ago, is looking for him.
 
 Impossible patterns manifest around him - harmonics only masters should perceive, inflections that should take years to learn. And something is teaching him from inside his own mind.
-
-Jason realizes the test at sixteen didn't measure potential. 
-
-**It measured compliance.**
-
-Now the authorities who control harmonic inflection are closing in on evidence of unauthorized practice. The entity in his head is fragmented.
 
 **It needs Jason to survive.**  
 **Jason wants it to break free of a system that decided he wasn't worthy.**  

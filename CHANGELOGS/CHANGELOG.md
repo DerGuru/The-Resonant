@@ -2,123 +2,45 @@
 
 ## Übersicht
 
-Vollständige Überarbeitung und Verifikation aller 4 Teile basierend auf Alpha-Reader Feedback. **Novel ist publishing-ready im Chapters-Ordner (64 Kapitel + 1 Epilog, 98.543 Wörter).**
+Vollständige Überarbeitung und Verifikation aller 4 Teile basierend auf Alpha-Reader Feedback. **Novel ist publishing-ready im Chapters-Ordner (65 Dateien: 3 Prolog + 17 Part 1 + 16 Part 2 + 14 Part 3 + 12 Part 4 + 1 Epilog + 1 Afterword + 1 Addendum).**
 
 ---
 
-## ✅ AKTUELLE STRUKTUR (Dezember 2025) - EXAKT GEZÄHLT
+## ✅ AKTUELLE STRUKTUR (Januar 2025) - EXAKT GEZÄHLT
 
 ### Dateien im Chapters-Ordner:
 
 **Tatsächliche Struktur (vollständig verifiziert):**
 
-- **Prolog:** 3 Kapitel = **3.417 Wörter**
-  - Ch. 01: 701 Wörter - "Wrong pattern. Not you. Not this."
-  - Ch. 02: 713 Wörter - "It's pretending now"
-  - Ch. 03: 2.003 Wörter - "You're not broken. You're filtered."
+- see "CHAPTERS_STRUCTURE_2025-01.md" for full list
 
-- **Part 1:** 17 Kapitel = **21.675 Wörter**
-  - Ch. 01: 1.556 Wörter
-  - Ch. 02: 1.494 Wörter
-  - Ch. 03: 1.369 Wörter
-  - Ch. 04: 1.368 Wörter
-  - Ch. 05: 662 Wörter
-  - Ch. 06: 1.616 Wörter
-  - Ch. 07: 1.267 Wörter
-  - Ch. 08: 889 Wörter
-  - Ch. 09: 1.209 Wörter
-  - Ch. 10: 1.416 Wörter
-  - Ch. 11: 1.123 Wörter
-  - Ch. 12: 1.858 Wörter
-  - Ch. 13: 1.036 Wörter
-  - Ch. 14: 908 Wörter
-  - Ch. 15: 1.219 Wörter
-  - Ch. 16: 1.161 Wörter
-  - Ch. 17: 2.524 Wörter
-  - **Durchschnitt:** 1.275 Wörter/Kapitel
+**GESAMT:** 65 Dateien (3 Prolog + 17 Part 1 + 16 Part 2 + 14 Part 3 + 12 Part 4 + 1 Epilog + 1 Afterword + 1 Addendum)
 
-- **Part 2:** 16 Kapitel = **27.304 Wörter**
-  - Ch. 01: 2.366 Wörter
-  - Ch. 02: 2.311 Wörter
-  - Ch. 03: 2.962 Wörter
-  - Ch. 04: 2.613 Wörter
-  - Ch. 05: 862 Wörter
-  - Ch. 06: 788 Wörter
-  - Ch. 07: 1.368 Wörter
-  - Ch. 08: 1.914 Wörter
-  - Ch. 09: 1.258 Wörter
-  - Ch. 10: 848 Wörter
-  - Ch. 11: 1.103 Wörter
-  - Ch. 12: 950 Wörter
-  - Ch. 13: 2.397 Wörter
-  - Ch. 14: 2.693 Wörter
-  - Ch. 15: 1.825 Wörter
-  - Ch. 16: 1.044 Wörter
-  - **Durchschnitt:** 1.706 Wörter/Kapitel
-
-- **Part 3:** 14 Kapitel = **21.691 Wörter**
-  - Ch. 01: 2.717 Wörter
-  - Ch. 02: 2.564 Wörter
-  - Ch. 03: 867 Wörter
-  - Ch. 04: 736 Wörter
-  - Ch. 05: 950 Wörter
-  - Ch. 06: 1.118 Wörter
-  - Ch. 07: 1.640 Wörter
-  - Ch. 08: 514 Wörter
-  - Ch. 09: 892 Wörter
-  - Ch. 10: 1.190 Wörter
-  - Ch. 11: 1.538 Wörter
-  - Ch. 12: 1.122 Wörter
-  - Ch. 13: 2.283 Wörter ⭐ (erweitert von 1.473)
-  - Ch. 14: 1.744 Wörter ⭐ (poliert von 1.807)
-  - **Durchschnitt:** 1.549 Wörter/Kapitel
-
-- **Part 4:** 13 Kapitel = **24.133 Wörter**
-  - Ch. 01: 3.314 Wörter
-  - Ch. 02: 2.226 Wörter
-  - Ch. 03: 2.075 Wörter
-  - Ch. 04: 2.330 Wörter
-  - Ch. 05: 2.191 Wörter
-  - Ch. 06: 1.841 Wörter
-  - Ch. 07: 1.477 Wörter
-  - Ch. 08: 1.351 Wörter
-  - Ch. 09: 1.431 Wörter
-  - Ch. 10: 1.370 Wörter
-  - Ch. 11: 1.140 Wörter
-  - Ch. 12: 2.031 Wörter
-  - Ch. 13: 1.358 Wörter
-  - **Durchschnitt:** 1.856 Wörter/Kapitel
-
-- **Epilog:** 1 Kapitel = **1.886 Wörter**
-
-**GESAMT:** 64 Kapitel + 1 Epilog = **100.106 Wörter**
-
-### Naming Convention:
-Format: `[Part]-[Chapter#]-[Quote_Title].md`
-- Part: `00-Prolog`, `01-Part1`, `02-Part2`, `03-Part3`, `04-Part4`, `05-Epilogue`
-- Chapter#: Zweistellige Nummer (01, 02, etc.)
-- Quote_Title: Kapitel-Zitat mit Unterstrichen statt Leerzeichen, Sonderzeichen entfernt
+✅ **BEREINIGUNG ABGESCHLOSSEN (Januar 2025):**
+- Duplikat `04-Part4-03-Anchor.md` wurde nach `Chapters/OldForAddendum/` verschoben
+- Part 4 hat jetzt korrekte Sequenz: Ch. 01-12
+- Keine Duplikate mehr im Hauptverzeichnis
 
 ---
 
 ## 📊 WORTZAHL-ÜBERSICHT
 
-| Teil | Kapitel | Wörter | Durchschnitt | % vom Gesamt |
-|------|---------|--------|--------------|--------------|
-| **Prolog** | 3 | 3.417 | 1.139 | 3,5% |
-| **Part 1** | 17 | 21.675 | 1.275 | 22,0% |
-| **Part 2** | 16 | 27.304 | 1.706 | 27,7% |
-| **Part 3** | 14 | 21.691 | 1.549 | 21,4% |
-| **Part 4** | 13 | 24.133 | 1.856 | 24,5% |
-| **Epilog** | 1 | 1.886 | 1.886 | 1,9% |
-| **GESAMT** | **64** | **100.106** | **1.564** | **100%** |
+| Teil | Kapitel | Status |
+|------|---------|--------|
+| **Prolog** | 3 | ✅ Verifiziert |
+| **Part 1** | 17 | ✅ Verifiziert |
+| **Part 2** | 16 | ✅ Verifiziert |
+| **Part 3** | 14 | ✅ Verifiziert |
+| **Part 4** | 12 | ✅ Verifiziert & Bereinigt |
+| **Epilog** | 1 | ✅ Verifiziert |
+| **Afterword** | 1 | ✅ Verifiziert |
+| **GESAMT** | **64** | ✅ **Vollständig** |
 
-### Kapitel-Längen Spektrum:
-- **Kürzestes Kapitel:** P3-08 (514 Wörter)
-- **Längstes Kapitel:** P4-01 (3.314 Wörter)
-- **Median:** ~1.400 Wörter
-- **Längster Part (durchschnittlich):** Part 4 (1.856 Wörter/Kapitel)
-- **Kürzester Part (durchschnittlich):** Part 1 (1.275 Wörter/Kapitel)
+### Naming Convention:
+Format: `[Part]-[Chapter#]-[Quote_Title].md`
+- Part: `00-Prolog`, `01-Part1`, `02-Part2`, `03-Part3`, `04-Part4`, `05-Epilogue`, `06-Afterword`
+- Chapter#: Zweistellige Nummer (01, 02, etc.)
+- Quote_Title: Kapitel-Zitat mit Unterstrichen statt Leerzeichen, Sonderzeichen entfernt
 
 ---
 
@@ -452,7 +374,7 @@ Format: `[Part]-[Chapter#]-[Quote_Title].md`
 
 ---
 
-## Part 4: Revelation & Choice (13 Kapitel, 24.133 Wörter)
+## Part 4: Revelation & Choice (12 Kapitel, 24.133 Wörter)
 
 ### Refinement Pass (Dezember 2024)
 
