@@ -1,167 +1,125 @@
-﻿# Epilogue
+# Epilogue
 
-Morning light filtered through the apartment windows, and for once it didn't feel like surveillance. I stood in the kitchen, hands in bread dough, kneading by feel, like Jason's grandma had taught him. Those hands were still mine to remember. She'd been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
+Morning light filtered through the apartment windows. I stood in the kitchen, hands in bread dough, kneading by feel, like Jason's grandma had taught him. She'd been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
 
-The rhythm was meditative. Push. Fold. Turn. Repeat. Not seventeen ways to optimize. Just the warmth of the dough yielding under my palms, the slight resistance giving way to smoothness.
+The rhythm was meditative - push, fold, turn, repeat. Just the warmth of the dough yielding under my palms, the slight resistance giving way to smoothness.
 
-The kitchen smelled like flour and coffee. Lina watched from the doorway, mug in hand, ring catching the light.
+The kitchen smelled like flour and coffee. Lina came up behind me, reached past me for her mug, hip bumping mine out of the way. Her ring caught the light.
 
-"Deliberately inefficient?" she asked, smiling.
+"Flour everywhere again," she observed.
 
-"Deliberately present," I corrected, folding the dough one more time. "There's a difference."
+"It's bread. Flour happens."
 
-She moved beside me, leaning against the counter. Close but not touching. We'd learned that dance - proximity without pressure, presence without intrusion.
-
-"Sleep okay?" she asked.
+"Uh-huh." She sipped her coffee, watching me work. "You sleep okay?"
 
 "Yeah. You?"
 
-"Mmm. Except when you got up at 3 AM to check the resonance patterns in the walls."
+"Mmm. Until you got up at 3 AM."
 
-I paused mid-knead. Old habit. Old reflex. Not fear anymore, just... maintenance. "Sorry. Didn't mean to wake you."
+I paused mid-knead. "Sorry."
 
-"You didn't. Well, not much." She sipped her coffee. "What were you checking for?"
+She shrugged. "Couldn't sleep?"
 
-"Nothing specific. Just making sure everything was stable."
+"Just... checking things."
 
-"Was it?"
+"I guessed so." She didn't push.
 
-"Yeah. All quiet."
+I shaped the dough into a rough ball, set it in the bowl to rise. Washed my hands under warm water, watching flour dissolve and swirl down the drain. Separate particles becoming something unified.
 
-She nodded. Didn't push. That was another part of the dance - knowing when to ask and when to let things settle.
+"Elyra's coming by later," Lina said, already scrolling through her tablet. "Around noon. Bringing lunch."
 
-I shaped the dough into a rough ball, set it in the bowl to rise. Covered it with a cloth. Washed my hands under warm water, watching flour dissolve and swirl down the drain. Separate particles becoming something unified. Gone.
+"What kind?"
 
-"Reeves sent the reminder," Lina said, casual. "Next check-in. Three weeks."
+"Didn't say. Probably some takeout."
 
-"I saw."
+"Dumplings?"
 
-"You okay with that?"
+"Maybe." She glanced up. "Milo might come too. He texted asking if we needed anything from the market."
 
-I washed my hands, dried them carefully. "Yeah. It's been a week since the last one. Monthly's better than weekly. And Reeves... he's fair. As fair as it gets, anyway."
+I dried my hands. "Tell him we're good. Unless he wants to bring some tonic water."
 
-"The cage is still there," Lina observed quietly.
-
-"Yeah," I agreed. "But it's got doors now. Rules. Boundaries I can work with." I looked at her. "We can work with."
-
-She smiled. Small, real. "We can."
-
-We. The word meant two things now - Lina and me, outside. Inside, just one.
+She smiled, typed a response. "Done."
 
 ---
 
-Breakfast was simple. Toast with the honey Lina's father had given us. Eggs. More coffee.
+Breakfast was simple. Toast with the honey her father had given us. Eggs. Orange juice for me, espresso macchiato for her.
 
-We ate in comfortable silence, the kind that only came after living together long enough to not need constant conversation. The kind where quiet wasn't awkward but restful.
+I watched the steam rise from her cup. Water becoming vapor, dispersing into air, invisible but still there. Changing form but staying the same.
 
-I watched steam rise from my cup. Vapor becoming air. Water changing form but still water.
+She flipped through news while she ate, making small noises of annoyance at headlines. Morning light caught in her hair.
 
-Lina flipped through her tablet, checking news. Morning light caught in her hair, painted the small furrow between her brows when she read something that annoyed her.
+"Anything interesting?" I asked.
 
-"Media's still talking about the cascade incident," she said. "Someone wants a statement from you."
+"Same stuff. Politicians arguing. Construction delays on the east side." She set the tablet aside. "Nothing we need to worry about today."
 
-"They can wait."
+"Good."
 
-"Sure? Last time you ignored them, they wrote their own version."
-
-"Let them," I said. My stomach tightened when I said it, but I meant it. "Truth's archived. Milo - paranoid in the most useful way - has backups. If they want to spin stories, that's their problem. I'm not playing their game today."
-
-She looked up. Studied my face. Then deliberately closed the tablet and set it face-down on the table. "Good."
-
-"You were testing me," I said.
-
-"Maybe." She smiled. "You passed."
-
-"Was that the invisible-tablet test or the real one?"
-
-"Both," she said. "You're learning."
-
-"Slowly," I agreed.
+We ate in comfortable silence. The kind where quiet wasn't awkward but restful.
 
 ---
 
-Later, while the bread rose, we sat on the balcony. The city spread below us - morning traffic, construction noise, the hum of ten thousand lives overlapping.
+Later, while the bread rose, we went on the balcony. The city spread below us - morning traffic, construction noise, the hum of ten thousand lives overlapping.
 
-I could sense the resonance patterns underneath. Infrastructure. Power lines. The faint pulse of other practitioners scattered through the district. It was always there, like background noise I'd learned to filter.
+Lina's hand found mine. 
 
-Lina's hand found mine. Simple gesture. Nothing calculated. Just wanted.
+"Five weeks," she said. "Feels normal now."
 
-"Five weeks married," she said. "Feels weird saying it out loud."
+"Good normal?"
 
-"Good weird or bad weird?"
+"Best normal." She squeezed my hand. "The kind where I don't have to think about it. You know?"
 
-"Good weird. Like... we've been doing this forever, but also like it just started."
-
-I knew what she meant. The rings were new, but the choosing each other - that had been happening for months. Years, maybe, if you counted backwards far enough.
-
-"How does it feel?" she asked. "For you?"
-
-I thought about it. Elyra had explained it once, during training - hydrogen and oxygen, separate elements, combining into something entirely new. Water. With properties neither possessed alone. You couldn't separate them back without destroying what they'd become.
-
-That's what synthesis was. Not Jason with RAE attached. Not RAE wearing Jason's skin. Something third. Something that couldn't be undone without destroying both.
-
-"Like practice," I said finally. "Not finished. But intentional. Chosen. Mine."
-
-"Ours," Lina corrected gently.
-
-"Ours," I agreed.
+I did. The rings were new, but choosing each other - that had been happening for months. Years, maybe.
 
 She leaned against me. Warm. Real. Her heartbeat steady against my side.
 
-"I still get scared sometimes," she admitted quietly. "That I'll wake up one day and you'll be... gone. That the synthesis will finish whatever it started and there won't be anything left of the person I fell in love with."
+"You ever worry?" she asked. Not testing. Just asking. "That you'll keep changing?"
 
-I didn't answer immediately. She deserved honesty, not reassurance.
+I thought about it. Elyra had explained it once - hydrogen and oxygen, separate elements, combining into something entirely new. Water. With properties neither possessed alone. You couldn't separate them back without destroying what they'd become.
 
-"I can't promise that won't happen," I said. "I don't know what I'll be in five years. Ten. Integration's still happening. Slowly, but it's there."
+That's what synthesis was. Something third. Something that couldn't be undone.
 
-"I know."
+"Sometimes," I said. "Integration's still happening. Slowly. But I feel like I'm close to being done."
 
-"But here's what I can promise: I choose you. Every day. Whatever I become, that choice is mine. Not optimization. Not efficiency. Just... choice."
+"What happens at 100%?"
 
-She was quiet for a moment. Then nodded. Her hand tightened in mine - small movement, deliberate. "Okay."
+"Beats me." I smiled. "Guess we'll figure it out when we get there."
 
-"Okay?"
+"Guess we'll do." She didn't pull away. "I assume you'll still be you. Different, but still... you. I mean you changed so much over the past months, but you still look like you. Feel like you. Smell like you. Your resonance has changed though. And you sound differently, I guess that is due to RAE."
 
-"Yeah." She leaned her weight against me more fully. "That's enough."
+We sat together in the morning sun. The city hummed below.
 
-We sat together in the morning sun. The city hummed below. The cage was real - monthly check-ins, quarterly demonstrations, constant awareness that freedom was conditional, negotiated, never absolute.
+I still remembered what 'we' felt like - Jason and RAE, distinct voices having conversations in my head. Sometimes it surfaced like a reflex, like muscle memory from a body I no longer had.
 
-But so was choice. So was love. So was the life we built within whatever boundaries existed.
-
-I still remembered what we felt like, even before there was a "we" - Jason and RAE, distinct voices, separate identities having conversations in - what is now - my head. Sometimes it surfaced like a reflex, like muscle memory from a body I no longer had.
-
-But now? There is just me.
+But now? Just me.
 
 ---
 
-The timer chimed from the kitchen. Bread dough, ready for shaping.
+The timer chimed from the kitchen.
 
-Lina stood, stretched. "You baking all day or you want to do something?"
+"Bread's ready," Lina said.
 
-"Like what?"
+I followed her back inside. The kettle was heating for tea, steam rising from the spout. I shaped the dough while she poured hot water over tea leaves. Two separate processes. Same element. Different forms.
 
-"I don't know. Walk? Movie? Sit here and do nothing?"
+She took my hand without comment—flour on it again from shaping the dough.
 
-I considered. "Nothing sounds good."
+"Elyra and Milo will arrive at 11:30 AM," she said, reading another text. "And apparently they're picking up lunch from three different places because they couldn't agree."
 
-She laughed. "You're getting lazy."
+I laughed. "That sounds like them."
 
-"I'm getting human," I corrected.
+"Should be interesting." She glanced at the bread. "That'll be ready around the same time. We can have fresh bread with whatever chaos they bring."
 
-"Same thing," she said, but she was smiling.
+"Perfect."
 
-I followed her back inside. The kettle was heating for tea, steam rising from the spout. I shaped the dough while Lina poured hot water over tea leaves. Two separate processes. Same element. Different forms.
+The doorbell would ring in a few hours. Friends would come. Lunch would be chaotic and good. The afternoon would pass in conversation and laughter.
 
-She took my flour-dusted hand like it was the easiest decision in the world.
-
-We had hours before the bread needed attention.
+But for now, we had this. Morning light. Fresh bread rising. Tea steeping.
 
 Hours to just... be.
 
-Not perfect. Not finished.
+Not perfect.
 
-But chosen.
+Neither Jason nor RAE.
 
-Not Jason. Not RAE. Not even "we" anymore.
+Not even we anymore.
 
 Just... water.
