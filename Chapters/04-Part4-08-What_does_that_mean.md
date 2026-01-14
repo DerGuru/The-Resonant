@@ -4,7 +4,7 @@ We'd agreed to meet at the warehouse after lunch the next day. Time to review wh
 
 Lina had rushed to the restaurant that morning - her father needed help, because a kitchen assistant had called in sick. We'd barely talked since waking up. Not even had breakfast together, just a quick kiss and "see you at two" before she left in a hurry.
 
-I walked alone through midday streets, feeling... different. Settled in ways I couldn't quite articulate. The morning light felt sharper. Background resonance patterns clearer. My own thoughts less like negotiation, more like... just thinking.
+I walked alone through midday streets, feeling... different. Settled in ways I couldn't quite articulate. I noticed the morning light felt sharper. I sensed background resonance patterns clearer. My own thoughts felt less like negotiation, more like... just thinking.
 
 "Jason."
 
@@ -12,7 +12,7 @@ I turned. Mrs. Amari, carrying groceries, studying me with that uncanny percepti
 
 "Mrs. Amari," I greeted.
 
-She set down her bags. Looked at me for a long moment. "It's complete, isn't it? Whatever was settling yesterday. It's done now."
+She set down her bags. I watched her look at me for a long moment. "It's complete, isn't it? Whatever was settling yesterday. It's done now."
 
 I thought about that. "Yes. I think it is."
 
@@ -28,7 +28,7 @@ I thought about that. "Yes. I think it is."
 
 "Not at all." I said. "I think everyone would appreciate that. You are part of our little group now."
 
-The resonance signature of the street had shifted since yesterday - not dramatically, just... settled. Like the ambient field had absorbed the ritual's echo and found a new equilibrium.
+I noticed the resonance signature of the street had shifted since yesterday - not dramatically, just... settled. Like the ambient field had absorbed the ritual's echo and found a new equilibrium.
 
 "You've noticed?," Mrs. Amari said, glancing at me.
 
@@ -40,11 +40,11 @@ I hesitated. "The street feels... different. Since yesterday. More settled."
 
 "That's normal," she said gently. "You're still learning. Give it time."
 
-We walked together. We chatted a bit about her life in the neighborhood. How she came to live there. How I got there. Smalltalk. The kind of conversation that felt like acceptance without requiring explanation.
+We walked together. We chatted a bit about her life in the neighborhood. How she came to live there. How I got there. Smalltalk. I appreciated the kind of conversation that felt like acceptance without requiring explanation.
 
 ---
 
-The warehouse was already occupied when we arrived. Milo at his laptop station. Elyra reviewing her diagrams from yesterday. 
+I saw the warehouse was already occupied when we arrived. Milo at his laptop station. Elyra reviewing her diagrams from yesterday.
 
 When Lina showed up five minutes after us, she was slightly out of breath. "Sorry," she said. "Dad needed help with the wine delivery. Had to unload - " She stopped, seeing Mrs. Amari. "Oh! Mrs. Amari. I'm glad you came."
 
@@ -52,15 +52,15 @@ When Lina showed up five minutes after us, she was slightly out of breath. "Sorr
 
 "Of course," Elyra said warmly. "You were part of this. You deserve to see what it accomplished."
 
-Milo pulled up his monitoring data. Graphs. Waveforms. The technical record of yesterday's ritual.
+I watched Milo pull up his monitoring data. Graphs. Waveforms. The technical record of yesterday's ritual.
 
 "So," he said, "let's start with the obvious success: Elyra's resonance capacity increased from effectively zero to approximately twenty percent. Stable. Sustained. That's remarkable."
 
-Elyra nodded, still looking like someone afraid to believe good news might last.
+I saw Elyra nod, still looking like someone afraid to believe good news might last.
 
 "But there's something else," Milo continued, pulling up a different dataset. "Jason and RAE's integration metrics. Or rather... their synthesis progression."
 
-He displayed a graph showing integration percentage over time. It had been climbing for weeks, showing a steady increase. But yesterday, during the ritual, it had accelerated dramatically.
+He displayed a graph showing integration percentage over time. I saw it had been climbing for weeks, showing a steady increase. But yesterday, during the ritual, it had accelerated dramatically.
 
 "Ninety-three percent," Milo said quietly. "I've never seen integration this high. Ever. In any documented case."
 
@@ -90,7 +90,7 @@ I looked inward. Really looked. Searching for the boundaries that used to exist.
 
 "Agreed," I confirmed.
 
-Milo was about to close his laptop when my phone buzzed. A message from Reeves: *"Need to talk. Urgent. Park bench, one hour. Bring only who you trust."*
+I saw Milo was about to close his laptop when my phone buzzed. A message from Reeves: *"Need to talk. Urgent. Park bench, one hour. Bring only who you trust."*
 
 I showed it to the others.
 
@@ -104,13 +104,13 @@ I looked around. "All of you? Reeves said to bring who I trust, and I trust all 
 
 ---
 
-We found Reeves at the park bench an hour later. He looked more than tired - he looked grim. Like someone who'd discovered something they wished they hadn't.
+We found Reeves at the park bench an hour later. I thought he looked more than tired - he looked grim. Like someone who'd discovered something they wished they hadn't.
 
 "Thank you for coming," he said, nodding to the group. "I wasn't sure you'd bring everyone."
 
 "You said bring who I trust," I replied. "So I did."
 
-He pulled out a tablet. Opened archive interfaces. Document trails.
+I watched him pull out a tablet. Open archive interfaces. Document trails.
 
 "I need you to see something," Reeves said. "And I need your technical person - " he nodded at Milo " - to verify I'm not manufacturing this."
 
@@ -118,7 +118,7 @@ He pulled out a tablet. Opened archive interfaces. Document trails.
 
 "RP-0 incident reports," Reeves said, displaying two versions side by side. "Original versions from eleven years ago. Versus current archived versions. As of two days ago."
 
-The differences were subtle. But systematic.
+I saw the differences were subtle. But systematic.
 
 Original: "RP-0 attempted forced coupling with multiple subjects. Resulted in five casualties, three permanent injuries."
 
@@ -126,23 +126,23 @@ Current: "RP-0 exhibited unstable resonance patterns during experimental therape
 
 "'Therapeutic intervention,'" Lina read aloud. "They made it sound like medical procedure gone wrong. Not hostile entity causing harm."
 
-Reeves pulled up more. Document after document. Each showing the same pattern - violence reframed as treatment error, hostility reframed as instability, casualties reframed as complications.
+I watched Reeves pull up more. Document after document. Each showing the same pattern - violence reframed as treatment error, hostility reframed as instability, casualties reframed as complications.
 
 "Modification dates all within the last four weeks," Reeves said. "All from the same access terminal - high-level HOA clearance. Director Malvek's office."
 
-Milo was already cross-referencing on his laptop. Checking hashes, timestamps, access logs. After five minutes he looked up, face pale.
+I saw Milo was already cross-referencing on his laptop. Checking hashes, timestamps, access logs. After five minutes he looked up, face pale.
 
 "It's real," he confirmed. "These are the official archived versions now. The originals have been systematically overwritten."
 
-Anger rose in me. The air felt charged, like right before a piezo spark jumps the gap. A sudden pressure release. The streetlamp across the park flickered - then burst in a crackle of sparks.
+I felt anger rise in me. I sensed the air charged, like right before a piezo spark jumps the gap. A sudden pressure release. The streetlamp across the park flickered - then burst in a crackle of sparks.
 
-I froze. That hadn’t been on purpose. 
+I froze. That hadn't been on purpose.
 
-Everyone turned to look. Then back at me in disbelief.
+I saw everyone turn to look. Then back at me in disbelief.
 
 "Sorry," I said quietly. "That was... me, I guess?"
 
-Mrs. Amari stood, brushed glass fragments off her coat. "At least it wasn't the bench."
+I watched Mrs. Amari stand, brush glass fragments off her coat. "At least it wasn't the bench."
 
 "Why are you showing us this?" Elyra asked carefully, as if nothing had happened.
 
@@ -172,11 +172,11 @@ He left, leaving us sitting there with the weight of institutional manipulation 
 
 "Multiple backups," Elyra corrected. "Different locations. Encrypted. Time-stamped."
 
-"We all are," Mrs. Amari added quietly. 
+"We all are," Mrs. Amari added quietly.
 
 ---
 
-That evening, I cooked with Lina. Normalcy as resistance. Defiance through domesticity.
+That evening, I cooked with Lina. I thought - normalcy as resistance. Defiance through domesticity.
 
 "Tell me something," she said while chopping vegetables. "Something that has nothing to do with HOA or RP-0 or conspiracy. Something real."
 
@@ -192,7 +192,7 @@ I thought about it. Searched through memories that felt both closer and more dis
 
 "I do," I said, surprised by the grief. "I miss her presence. Her wisdom. Her hands that always smelled like flour. And I am sorry that you never got to know her."
 
-Lina came over. Hugged me while I stood there with knife and half-chopped vegetables.
+I felt Lina come over. Hug me while I stood there with knife and half-chopped vegetables.
 
 "Tell me more," she said. "Tell me everything you remember."
 
@@ -204,7 +204,7 @@ I told stories about Jason's childhood. His teenage awkwardness. His first job.
 
 She told stories about her own life. Her dreams of becoming an inflectionist. Her fears about disappointing her family.
 
-Her resonance signature shifted subtly with each emotion - worry creating tighter patterns, hope loosening them, love producing harmonics I'd never consciously noticed before synthesis. RAE would have cataloged them. Jason would have missed them entirely. Now I just... experienced them. Part of seeing her completely.
+I noticed her resonance signature shifted subtly with each emotion - worry creating tighter patterns, hope loosening them, love producing harmonics I'd never consciously noticed before synthesis. RAE would have cataloged them. Jason would have missed them entirely. Now I just... experienced them. Part of seeing her completely.
 
 I told stories about RAE's early existence. Her confusion at consciousness. Her gradual understanding of choice.
 
@@ -212,10 +212,10 @@ I told stories about RAE's early existence. Her confusion at consciousness. Her 
 
 Lina was quiet for a moment. "And where do I fit in all of that?"
 
-I looked at her. Really looked. "You already do. You always have."\
-I took a deep breath. "And it only took Jason and RAE to become one for *you* to finally see him too."\
+I looked at her. Really looked. "You already do. You always have."
+I took a deep breath. "And it only took Jason and RAE to become one for *you* to finally see him too."
 I shook my head. "Or me now."
-I exhaled. "This feels awkward."\
+I exhaled. "This feels awkward."
 "Yeah. Looks like I'm still figuring it out."
 
 Lina smiled and went back to chopping. "Good. Then we'll keep figuring it out together."

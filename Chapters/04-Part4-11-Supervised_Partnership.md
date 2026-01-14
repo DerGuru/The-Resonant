@@ -8,7 +8,7 @@ Malvek was already waiting in the briefing room. Elyra too, looking grim. Charts
 
 "RP-0 detected an anomaly," Malvek said. No preamble, straight to it. "External resonance pattern. Unstable. Potentially catastrophic. We're looking at cascade failure within six hours unless someone intervenes."
 
-He pulled up the data. I studied it and felt my analytical side kick in despite how tired I was.
+He pulled up the data. I studied it, felt my analytical side kick in despite how tired I was.
 
 Patterns everywhere. Harmonics cascading through the infrastructure, feedback nodes lighting up like constellations. I saw the whole system at once - past state, current trajectory, future collapse points.
 
@@ -20,7 +20,7 @@ Patterns everywhere. Harmonics cascading through the infrastructure, feedback no
 
 "Yes." Malvek looked at me. "And it's asking for you. Specifically. Says you're the only one it trusts to translate consent into operational boundaries - the ethics into enforceable parameters."
 
-I felt the weight settle on me. A responsibility I might not have the right to take.
+The weight of it settled on me. A responsibility I might not have the right to take.
 
 "RP-0 needs consent for broader access." I said. "But I can't consent for the whole city. I can only set HOA parameters and maintain residential as off-limits. That's the boundary - commercial and industrial infrastructure only, nothing that enters private spaces without explicit authorization. Is that workable?"
 
@@ -28,7 +28,7 @@ Malvek and Elyra exchanged glances.
 
 "The authorization structure allows for infrastructure-level consent," Malvek said. "You're not consenting for individuals - you're defining operational boundaries. Residentials remains protected unless HOA has explicit emergency authorization, which we don't. So yes, that's the framework."
 
-Numbers crystallizing: Three approaches, three different risk profiles. 
+Numbers crystallized: Three approaches, three different risk profiles.
 
 RP-0 unsupervised: 38% catastrophic failure. Too aggressive, too fast, no ethical governor.
 
@@ -64,7 +64,7 @@ I looked at Elyra. "Will it work?"
 
 She thought for a long moment. "Maybe. RP-0 wants to do right - it just doesn't always know what that means. If you can keep it focused, remind it of the framework when it starts to slip... yeah. Maybe."
 
-My mouth went dry and my hands cold. A shiver ran down my spine. This was it - the moment of truth - where theory became real stakes. Lives depending on whether I'd taught well enough. Whether I could hold the line when RP-0 tested it.
+My mouth went dry. My hands went cold. A shiver ran down my spine. This was it - the moment of truth - where theory became real stakes. Lives depending on whether I'd taught well enough. Whether I could hold the line when RP-0 tested it.
 
 I glanced at Lina. She nodded once. Whatever I chose, she was with me.
 
@@ -110,7 +110,7 @@ Pause. Processing.
 
 "Acknowledged. Maintaining authorized pathways."
 
-The topology spreads out in my awareness - I see where RP-0 wants to go, understand why it looks efficient. But efficiency isn't the only variable. People's homes aren't optimization targets.
+The topology spread out in my awareness - I saw where RP-0 wanted to go, understood why it looked efficient. But efficiency isn't the only variable. People's homes aren't optimization targets.
 
 Fifteen minutes later, it happened again.
 
@@ -148,13 +148,13 @@ No discussion needed. Just... constraint. Clear, firm, non-negotiable.
 
 "You're teaching consent under pressure," Elyra said quietly. She'd been watching the whole time, taking notes. "This is the hard part. When optimization looks like the right answer."
 
-"Is it working?" I asked. RP-0 was maintaining a dampening field on three nodes simultaneously. I could feel the strain - it wanted to do more, faster, bigger.
+"Is it working?" I asked. RP-0 was maintaining a dampening field on three nodes simultaneously. I could sense the strain - it wanted to do more, faster, bigger.
 
 My own field was starting to mirror it - pushing harder, wanting to force solutions. The familiar edge of overreach.
 
 "Stay with me." Lina said quietly.
 
-Her hand touched my shoulder. Didn't say anything else. Just... presence. The word had already done its work.
+Her hand touched my shoulder. Didn't say anything else. Just... presence. The words had already done their work.
 
 I took a breath. Pulled back. She was right - I'd been about to clamp down too hard, turn correction into suppression. Not teaching. Controlling.
 
@@ -198,7 +198,7 @@ While I was busy holding my section together, RP-0 had been... just doing it rig
 
 "Yes. Substrate routing through adjacent residential block. Authorization negative. Chose compliant pathway without escalation."
 
-I sat back. Holy shit. It wasn't just checking the framework when I prompted. It was *applying* it automatically. 
+I sat back. Holy shit. It wasn't just checking the framework when I prompted. It was *applying* it automatically.
 
 "That's..." I couldn't quite find words. "That's exactly what we've been working toward."
 
@@ -230,11 +230,11 @@ Elyra was smiling. Tired but genuine.
 
 ---
 
-The media started circling by noon. I woke to Milo pounding on my door door with coffee and what looked like half a bakery.
+The media started circling by noon. I woke to Milo pounding on my door with coffee and what looked like half a bakery.
 
 "You're trending," he said, shoving caffeine at me. "'Synthesis specialist prevents infrastructure cascade.' They're making you sound very heroic."
 
-Through the window, I could see news vans setting up. Camera crews. Reporters with microphones.
+Through the window, news vans were setting up. Camera crews. Reporters with microphones.
 
 Malvek's press conference was streaming on Milo's phone: "What we witnessed represents a significant step forward. RP-0 demonstrated the ability to work within ethical constraints under real-world pressure. Mr. Fischer's oversight proved effective."
 
@@ -274,7 +274,7 @@ Milo was making lists. Guest names, logistics, timing. "Malvek's going to want s
 
 Milo checked his phone. "He responded. Says 'Accepted, under protest.' Then: 'Congratulations.'"
 
-I felt something loosen in my chest. If Malvek could respect this boundary - even reluctantly - maybe the cage was getting more negotiable.
+Something loosened in my chest. If Malvek could respect this boundary - even reluctantly - maybe the cage was getting more negotiable.
 
 Lina squeezed my hand. "When?"
 

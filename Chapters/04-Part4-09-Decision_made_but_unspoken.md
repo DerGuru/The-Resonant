@@ -2,37 +2,37 @@
 
 I sat in the communication room, monitoring equipment surrounding me, Malvek watching through one-way glass. Regular session. Routine check-in.
 
-Except the readings weren't routine.
+Except I knew the readings weren't routine.
 
-Malvek's voice came through the intercom before I'd even settled in. "Integration at 93.7%." A pause, weighted and deliberate. "That's a 21-point increase since our last assessment."
+I heard Malvek's voice come through the intercom before I'd even settled in. "Integration at 93.7%." A pause, weighted and deliberate. "That's a 21-point increase since our last assessment."
 
-I felt the temperature in the room drop.
+The temperature in the room dropped.
 
 "Explain," he said. No warmth in his tone at all.
 
 My mind ran through options before I could stop it - claim ignorance (50% chance he'd believe it), tell the truth about Elyra's healing ritual (78% acceptance if I framed it right), or deflect philosophically (12% chance of productive dialogue, 88% perceived as evasion).
 
-The calculations happened automatically. Success rates crystallizing without effort.
+I watched the calculations happen automatically. Success rates crystallizing without effort.
 
 I chose the truth. Or close enough to it.
 
 "I knew the integration was accelerating," I said carefully, choosing framed truth over deflection. "Two days ago, during the healing work with Elyra - sustained, very deep resonance over fifteen minutes. I felt the shift. But today was already scheduled for check-in, so I waited to report it properly rather than trigger emergency protocols."
 
-"Healing work. With Elyra Voss." Malvek's voice sharpened. "Fifteen minutes of deep resonance, and you didn't think to report it immediately?"
+"Healing work. With Elyra Voss." I heard Malvek's voice sharpen. "Fifteen minutes of deep resonance, and you didn't think to report it immediately?"
 
-Not a question. An assessment. He was building a case.
+Not a question. An assessment. I knew he was building a case.
 
 "It was two days ago," I said, keeping my tone level. "Today was a scheduled check-in. I didn't see the point in triggering emergency assessment when routine evaluation was already close."
 
 A pause. I could almost hear him weighing my reasoning against protocol requirements.
 
-"Fifteen minutes of deep, unscheduled resonance work," Malvek said finally. His voice carried less accusatory than I expected - more... assessment. "That's the kind of intensity that could trigger integration spikes. You know this, Jason. Which means you accepted the risk."
+"Fifteen minutes of deep, unscheduled resonance work," Malvek said finally. His voice carried less accusatory tone than I expected - more... assessment. "That's the kind of intensity that could trigger integration spikes. You know this, Jason. Which means you accepted the risk."
 
 "It's not that simple," I insisted. "The ritual was supposed to be straightforward - light, controlled, shallow. Is was just there to give a smooth harmonic bed. But Elyra's damage ran deeper than we expected. What should have been simple pattern-smoothing turned into something more intensive. I had to go deeper, invest more."
 
 "Elyra Voss is a known associate. That's not the issue." A pause. "The issue is you didn't report the risk beforehand. Didn't let us monitor. Didn't document anything." His tone sharpened. "Integration management requires transparency, Jason. Especially at levels this close to permanence."
 
-Yes - I could have waited for HOA oversight. But Elyra had helped me when no one else understood what was happening with RAE and me. Had risked her safety, her standing, her career to teach me control when I was dangerous and desperate. Walking away mid-ritual felt impossible.
+Yes - I could have waited for HOA oversight. But I knew Elyra had helped me when no one else understood what was happening with RAE and me. Had risked her safety, her standing, her career to teach me control when I was dangerous and desperate. Walking away mid-ritual would be impossible.
 
 "I could have reported it," I admitted. "Should have, probably. But when complications hit - stopping mid-ritual to file paperwork while Elyra was..." I paused. "It felt wrong. Like leaving her halfway."
 
@@ -40,9 +40,9 @@ Silence. Heavy. Assessing.
 
 "I understand the reasoning," Malvek continued. "Loyalty. Reciprocity. Elyra helped you when you were unstable. You felt obligated to return that trust." Not quite approval in his voice, but acknowledgment. "But twenty-one points since our last check-in - with a spike two days ago - that's not gradual adaptation anymore. That's active structural change. What specifically happened during those fifteen minutes that required you to go that deep?"
 
-I took a breath, choosing my words carefully. "Elyra's damage wasn't just surface-level scarring. There was a resonance feedback loop - old, calcified, self-reinforcing. Every time her patterns tried to heal, the loop would destabilize them again. Even so far as sending a resonance spike halfway through." 
+I took a breath, choosing my words carefully. "Elyra's damage wasn't just surface-level scarring. There was a resonance feedback loop - old, calcified, self-reinforcing. Every time her patterns tried to heal, the loop would destabilize them again. Even so far as sending a resonance spike halfway through."
 
-I could still feel the memory of it - jagged, recursive, like trying to smooth out a knot that tightened every time you pulled on it.
+I could still sense the memory of it - jagged, recursive, like trying to smooth out a knot that tightened every time you pulled on it.
 
 "So I had to go deeper - anchor the pattern from underneath, hold it stable long enough for the feedback to dissipate. Fifteen minutes of sustained, deep investment. It worked, but..." I paused. "The depth was necessary. The accelerated integration was the result."
 
@@ -56,7 +56,7 @@ Silence. Heavy. Assessing.
 
 And there it was. The question I couldn't answer honestly.
 
-The truth: *I was thinking about proposing. Deciding to ask Lina to build a life with me. The emotional commitment. Hoping she'd say yes. Terrified she might say no. RAE subconsciously stabilizing me - or us before two days ago - trying to make it work.*
+I knew the truth: *I was thinking about proposing. Deciding to ask Lina to build a life with me. The emotional commitment. Hoping she'd say yes. Terrified she might say no. RAE subconsciously stabilizing me - or us before two days ago - trying to make it work.*
 
 But I couldn't say that. Malvek would either file "emotions as integration catalyst" under "concerning patterns" or - and I genuinely wondered about this - laugh it off. Could he even laugh?
 
@@ -78,13 +78,13 @@ There it was.
 
 "At 60%, separation is uncomfortable. Disorienting. Requires adjustment." Malvek's voice was precise, clinical. "At 93%, it's not just **potentially traumatic**. The difference between losing a tool you rely on and losing part of your cognitive architecture." A pause. "The higher the integration, the more dangerous forced separation becomes. You're not just interdependent anymore, Jason. You're approaching a permanent structural merger."
 
-He let that settle. Heavy. Undeniable. The silence stretched between us. I could feel Malvek reassessing, recalibrating.
+He let that settle. Heavy. Undeniable. The silence stretched between us. I could sense Malvek reassessing, recalibrating.
 
 "I don't have time to interrogate you further. Not today." Malvek said finally. "RP-0 is ready for the session. We'll continue this conversation another time."
 
 ---
 
-I sat alone in the monitoring room for a moment, heart pounding. Then the speakers crackled.
+I sat alone in the monitoring room for a moment, heart pounding. Then I heard the speakers crackle.
 
 RP-0's voice filled the room without preamble:
 
@@ -96,7 +96,7 @@ I was startled. Nothing about this session felt routine anymore.
 
 "You accept HOA oversight despite cost. Monitoring. Restrictions. Conditional freedom. Yet you consent. Explain discrepancy between stated value of autonomy and accepted limitation of autonomy."
 
-I felt Malvek's attention sharpen behind the glass.
+Malvek's attention sharpened behind the glass.
 
 "I consent," I said slowly, "because the alternative is worse. I had the choice between containment or oversight. That 'Cage', as you frame it, means survival. It's not perfect consent - but it's the choice I had. I can live with it, even though I don't like it."
 
@@ -108,15 +108,15 @@ The truth of it hit hard. RP-0 was right. I hadn't consented to HOA oversight - 
 
 "When does survival become complicity? When does accepting a cage make you responsible for the cage's existence? At what threshold does 'I had no choice' become 'I chose not to resist'?"
 
-I felt something in my chest. Not fear. Recognition. RP-0 had learned philosophy. And was using it to dissect my hypocrisy.
+Something in my chest. Not fear. Recognition. RP-0 had learned philosophy. And was using it to dissect my hypocrisy.
 
 "This is real life, not a training session. As often, there is no clean answer," I admitted. "Sometimes survival requires compromise. Accepting lesser harm to avoid greater harm. That's not ideal - but it's real."
 
 "Agreed. But I can assist with alternative." RP-0's voice carried something new - careful offering, testing boundaries. "I can weaken HOA monitoring. Subtle interference. Data corruption. Give you true freedom instead of conditional survival. You taught me consent. I offer this: do you consent to my help?"
 
-And there it was. The temptation. The easy way. The shortcut to freedom. The yearning for genuine autonomy pulled at me - the desire to be actually free instead of conditionally monitored. To escape the cage that pretended to be partnership.
+And there it was. The temptation. The easy way. The shortcut to freedom. Yearning for genuine autonomy pulled at me - the desire to be actually free instead of conditionally monitored. To escape the cage that pretended to be partnership.
 
-But at what price? As long as RP-0 interfered, I was free but also complicit in deception. Resisting the cage, but dependent on the good will of RP-0 and more importantly: Once this road is stepped on, there's no coming back, except in containment. The understanding of the consequences pulled equally hard. Accepting RP-0's help would prove - without a doubt - that I couldn't be trusted. Would justify the very containment I was trying to avoid.
+But at what price? As long as RP-0 interfered, I was free but also complicit in deception. Resisting the cage, but dependent on the good will of RP-0 and more importantly: Once this road is stepped on, there's no coming back, except in containment. Understanding the consequences pulled equally hard. Accepting RP-0's help would prove - without a doubt - that I couldn't be trusted. Would justify the very containment I was trying to avoid.
 
 Freedom versus integrity. Autonomy versus trust. Both equally compelling.
 
@@ -156,7 +156,7 @@ Long silence. RP-0 processing not just data but concepts that had no clean compu
 
 ---
 
-Malvek entered the room when it was clear, RP-0 had left our conversation.
+I saw Malvek enter the room when it was clear RP-0 had left our conversation.
 
 "That was interesting," he said without preamble.
 
@@ -198,7 +198,7 @@ Malvek smiled slightly. "That's the most honest answer you could've ever given m
 
 That evening, walking home with Lina, I was quiet. Processing.
 
-"RP-0 offered to help you escape?" Lina said. 
+"RP-0 offered to help you escape?" Lina said.
 
 "Yes."
 
@@ -224,7 +224,7 @@ I blinked. "What?"
 
 "But you were right," she said firmly. "Freedom built on deception wouldn't last. And I wouldn't want you to be someone who breaks promises, even coerced ones. That integrity - that's part of why I love you." She met my eyes. "Even when it costs us both."
 
-I felt something settle in my chest. Certainty.
+Something settled in my chest. Certainty.
 
 "Thank you," I said quietly.
 
@@ -232,7 +232,7 @@ She smiled slightly. "That's what partnership means, right? Wanting different th
 
 We walked in silence for another block, her hand warm in mine.
 
-And then I felt it - the difference. 
+And then the difference became clear.
 
 With HOA, every choice was calculated. Risk-weighted. Coerced by circumstance. I could refuse, technically, but the consequences made the choice illusory. Survival masquerading as consent.
 
@@ -248,7 +248,7 @@ The certainty of it settled something in my chest.
 
 "What are you thinking about?" Lina asked, glancing at me.
 
-"You," I said simply. 
+"You," I said simply.
 
 She smiled, squeezed my hand. "Good answer."
 

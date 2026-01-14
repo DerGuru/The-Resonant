@@ -4,7 +4,7 @@ Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA
 
 The HOA auditorium felt like a theater designed for judgment.
 
-I stood in the center of a marked circle on the floor - the test area. Lina beside me for phase three. Monitoring equipment surrounding me like an electronic jury.
+I stood in the center of a marked circle on the floor - the test area. Lina beside me for phase three. Monitoring equipment surrounded me like an electronic jury.
 
 Malvek sat in the front row. Reeves beside him, tablet ready. Elyra in the third row, trying to look neutral but I could see the worry in her eyes.
 
@@ -14,7 +14,7 @@ I took a breath. Let my awareness extend carefully into the prepared test object
 
 The resonogram's frequencies came to me immediately. I matched it first, syncing my field to its existing resonance. Felt the pattern - the landscape of peaks and valleys, the way the waveforms folded into themselves like fractals, each ripple containing smaller ripples. Rigid in some places, fluid in others. Picture a Julia set, but rendered as a hologram.
 
-This was not about changing the field, but filling it with Invest. So I started investing. Precisely. Gradually. Feeling the pattern respond as I added energy. The fractal landscape amplified - peaks rose higher, valleys deepened. The pattern became more... present. More defined. I kept the investment steady, micro-adjusting to avoid overshoot. Too much and the peaks would spike into red zone, distorting the natural pattern. Too little and it would fade to grey, barely visible. I found the balance - enough energy to bring the resonance into full clarity, but not so much that it forced the pattern to change.
+This was not about changing the field, but filling it with Invest. So I started investing. Precisely. Gradually. The pattern responded as I added energy. The fractal landscape amplified - peaks rose higher, valleys deepened. The pattern became more... present. More defined. I kept the investment steady, micro-adjusting to avoid overshoot. Too much and the peaks would spike into red zone, distorting the natural pattern. Too little and it would fade to grey, barely visible. I found the balance - enough energy to bring the resonance into full clarity, but not so much that it forced the pattern to change.
 
 The resonogram responded with homogeneous resonance - stable amplitude, clean waveform, zero harmonic distortion. Green zone throughout. The crystal glowed with a steady light. Perfect control.
 
@@ -28,11 +28,11 @@ They brought out a damaged coffee mug - intentionally fractured, unstable. My jo
 
 I extended my field. Felt the object's chaotic resonance with multiple competing fractal patterns. The topology was broken, discontinuous. But I found the underlying structure beneath the chaos - the fundamental, the original pattern it wanted to follow before the damage fractured it into competing landscapes.
 
-Again - I matched its fundamental first. Feeling the ghost of the original pattern - how the peaks and valleys once flowed coherently. Then I built the target resonance field: same fundamental structure, but with the competing fractals dampened, the overlapping patterns separated and aligned. I started introducing counter-harmonics - gentle opposing resonance to dampen the interfering landscapes. Not eliminating them just yet, just reducing their amplitude, letting the fundamental's topology dominate. Increasing the dampening over time and guiding the pattern back toward coherence.
+Again - I matched its fundamental first. Felt the ghost of the original pattern - how the peaks and valleys once flowed coherently. Then I built the target resonance field: same fundamental structure, but with the competing fractals dampened, the overlapping patterns separated and aligned. I started introducing counter-harmonics - gentle opposing resonance to dampen the interfering landscapes. Not eliminating them just yet, just reducing their amplitude, letting the fundamental's topology dominate. Increased the dampening over time and guided the pattern back toward coherence.
 
 Then someone's camera flashed. Bright. Sudden. I wasn't ready for it. My field spiked. Just for a second. The monitoring equipment beeped - yellow zone.
 
-The coffee mug vibrated in my hands. The crack widened slightly - hairline fracture threatening to break apart. 
+The coffee mug vibrated in my hands. The crack widened slightly - hairline fracture threatening to break apart.
 
 The room went perfectly still.
 
@@ -42,7 +42,7 @@ I didn't fight it. Didn't suppress it. Just... guided. Let it crest and settle n
 
 I finished the work. Increased the dampening gradually, guiding the pattern back toward coherence. The carrier's resonance smoothed. Dissonance faded, patterns aligned, the topology settled back into coherence. The crack was still visible but closed and stable. No further fracturing. The mug could hold liquid again without falling apart.
 
-I heard a few quiet comments - "remarkable", "stable integration." Malvek leaned over to Reeves, said something I couldn't hear.
+A few quiet comments - "remarkable", "stable integration." Malvek leaned over to Reeves, said something I couldn't hear.
 
 Malvek stood.
 
@@ -96,7 +96,7 @@ I stopped at a bench. Gestured for her to sit.
 
 "What's this about?" she asked, confusion on her face.
 
-I knelt. Not trying to be dramatic. Looking up at her face while moonlight painted everything silver.
+I knelt. Not trying to be dramatic. Looked up at her face while moonlight painted everything silver.
 
 From my pocket, I pulled a small box. Opened it.
 
@@ -116,11 +116,11 @@ I took a breath.
 
 "So I'm asking you: Will you marry me? Will you choose this complicated, messy person for as long as I exist? Will you build a life that makes sense even when nothing else does?"
 
-Lina was laughing and crying simultaneously.
+Lina laughed and cried simultaneously.
 
 "Yes," she said. Then stopped. Held my gaze. "But I need to hear you say it: You want *me*. Not because I'm convenient. Not because I'm safe. Not because I stayed when everyone else was afraid. Me. Lina. With all my doubts. Even when I don't understand what's happening in your head. Even when I'm scared of losing you to something I can't follow."
 
-I felt something in my chest - recognition of what she was asking. The boundary she needed.
+Something in my chest - recognition of what she was asking. The boundary she needed.
 
 "You," I said firmly. "I want you. Because when I'm with you, I feel most like myself - whoever that is now. Because you challenge me. Because you set boundaries I need. Because loving you means choosing you every day, even when it's complicated. Especially when it's complicated."
 
@@ -134,7 +134,7 @@ Lina pulled me up. Kissed me. Long and deep.
 
 ---
 
-I sat on the bench with Lina. Her hand in mine. Ring catching moonlight. City humming around us with life that didn't care about synthesis or surveillance or transformation.
+I sat on the bench with Lina. Her hand in mine. Ring catching moonlight. The city hummed around us with life that didn't care about synthesis or surveillance or transformation.
 
 "When?" she asked.
 
@@ -164,13 +164,13 @@ My phone buzzed. Message from Reeves: *"Report immediately. RP-0 incident. Urgen
 
 I looked at the screen. At Lina. At the ring on her finger.
 
-"Duty calls," she said, not quite managing to hide her frustration.
+"Duty calls," she said, couldn't quite hide her frustration.
 
 "Yes." I stood, helping her up. "But tonight - tonight I got engaged." I paused, meeting her eyes. "HOA may own my calendar - but not my vows."
 
 She smiled slightly at that. Squeezed my hand.
 
-"Let's go deal with RP-0," I said as we started walking toward the facility. "Together. But tonight - the engagement, the ring, this moment - that stays ours. They could take my evening. They couldn’t take what it meant. I don't let them."
+"Let's go deal with RP-0," I said as we started walking toward the facility. "Together. But tonight - the engagement, the ring, this moment - that stays ours. They could take my evening. They couldn't take what it meant. I don't let them."
 
 She nodded. Held my hand tighter.
 

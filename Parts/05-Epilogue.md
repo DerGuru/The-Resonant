@@ -1,4 +1,4 @@
-# Epilogue
+﻿# Epilogue
 
 Morning light filtered through the apartment windows. I stood in the kitchen, hands in bread dough, kneading by feel, like Jason's grandma had taught him. She'd been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
 
