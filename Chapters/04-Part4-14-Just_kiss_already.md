@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 12 - Just kiss already
+## Part 4 - Boundaries & Becoming | Ch. 14 - Just kiss already
 
 If you're picturing a church, you're already wrong.
 

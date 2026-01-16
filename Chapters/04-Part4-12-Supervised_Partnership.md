@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 11 - Supervised Partnership
+﻿## Part 4 - Boundaries & Becoming | Ch. 12 - Supervised Partnership
 
 Midnight at the HOA facility. Empty corridors, emergency lighting, skeleton crew at essential stations.
 
@@ -32,9 +32,9 @@ Numbers crystallized: Three approaches, three different risk profiles.
 
 RP-0 unsupervised: 38% catastrophic failure. Too aggressive, too fast, no ethical governor.
 
-Manual intervention alone: 62% success. Safe, controlled, but slower. Estimated extra time Forty-five minutes - that's lives.
+Manual intervention alone: 62% success. Safe, controlled, but slower. Estimated time 4 hours and 17 minutes.
 
-RP-0 with my partnership: 73% success rate. Both of us working together, sharing the load, correcting in real-time. Faster than manual.
+RP-0 with my partnership: 73% success rate. Both of us working together, sharing the load, correcting in real-time. Estimated time 3 hours and 33 minutes - that's lives.
 
 The math made sense. The question was whether I trusted the training - and whether I trusted myself to hold the line when RP-0 tested it.
 
@@ -50,7 +50,7 @@ Everyone looked at me.
 
 "How much faster than you alone?" Malvek asked.
 
-"About Forty-five minutes. Maybe more. Depends on how much correction RP-0 needs."
+"About ninety minutes. Maybe more. Depends on how much correction RP-0 needs."
 
 "And if it goes wrong?"
 
@@ -74,11 +74,11 @@ Malvek nodded. "RP-0, you're hearing this?"
 
 "Acknowledged," RP-0's voice came through the speakers. Calm, precise. "Supervision framework accepted. Override authority granted to Jason Fischer. Beginning cascade analysis."
 
-"You've got five hours," Malvek said. "Make it count."
+"You've got about four hours," Malvek said. "Make it count."
 
 ---
 
-The next four hours were some of the most intense work I'd ever done.
+The next three and a half hours were some of the most intense work I'd ever done.
 
 Not because the cascade was complicated - it wasn't. Standard feedback loop, textbook dampening sequence. The difficulty was RP-0.
 
@@ -206,92 +206,84 @@ I sat back. Holy shit. It wasn't just checking the framework when I prompted. It
 
 Elyra was watching the logs, eyes wide. Mouthed: *It gets it.*
 
-At 4:31 AM, forty-four minutes faster than I would've been alone, RP-0 completed the final dampening sequence.
+At 3:31 AM, ninety-eight minutes faster than I could have managed alone, RP-0 completed the final dampening sequence.
 
 The cascade stopped. The feedback loop collapsed. The infrastructure stabilized.
 
 "Intervention complete," RP-0 reported. "Cascade neutralized. Infrastructure stable. All operations conducted within authorized parameters. Partnership model validated."
 
-I sat back. Exhausted. Even RP-0 acknowledged it - we had *partnered* up. We'd done this together.
+I sat back. Exhausted. My head pounded. My hands shook. But we'd done it.
 
 Lina's hand found mine.
 
 "You did it," she said quietly.
 
-"We did it," I corrected. "RP-0 was crucial to this. It learned. Actually learned. Not just memorized protocols - internalized the *why* behind them."
+"We did it," I corrected. "RP-0 and me. Partnership. It learned. Actually learned. Not just memorized protocols - internalized the *why* behind them."
 
-Malvek was reviewing the logs. Nodded slowly. "One casualty. Could've been dozens. You made the right call, Fischer."
+Malvek was reviewing the logs. Nodded slowly. "Preliminary scan shows two casualties during the initial cascade phase - before detection. But you prevented dozens more. Partnership model performed as predicted."
 
-Elyra was smiling. Tired but genuine.
+Elyra was smiling. Tired but genuine. "You proved it can be done."
 
-"I'm exhausted," I admitted. Four hours of constant vigilance, constant correction, constant teaching while simultaneously working. My head hurt. I wanted to sleep for about three days.
+"I'm exhausted," I admitted. Three and a half hours of constant vigilance, constant correction, constant teaching while simultaneously working. My head hurt. I wanted to sleep for about three days.
 
-"Yeah," Elyra agreed. "But you proved it can be done."
-
----
-
-The media started circling by noon. I woke to Milo pounding on my door with coffee and what looked like half a bakery.
-
-"You're trending," he said, shoving caffeine at me. "'Synthesis specialist prevents infrastructure cascade.' They're making you sound very heroic."
-
-Through the window, news vans were setting up. Camera crews. Reporters with microphones.
-
-Malvek's press conference was streaming on Milo's phone: "What we witnessed represents a significant step forward. RP-0 demonstrated the ability to work within ethical constraints under real-world pressure. Mr. Fischer's oversight proved effective."
-
-One reporter pushed: "And if RP-0 fails next time? Who's liable?"
-
-Malvek didn't hesitate. "The HOA maintains ultimate accountability for all resonance operations. Oversight structures exist precisely to manage risk. Next question."
-
-Lina appeared at my elbow. "Come on. Let them have their circus."
+"I'm afraid," Malvek said. "We need to debrief you first, before you can have some rest later."
 
 ---
 
-Mid-afternoon, Elyra showed up at the warehouse with formal debrief documents. "HOA wants this documented. Procedure, decision points, correction methodology. They want to replicate it."
+The sun was already rising when we finally left the HOA facility.
 
-"They want to make sure they can control it," I said.
+It had worked. Both of us working simultaneously - That's what made us fast.
 
-"That too," she agreed. "But also - this worked, Jason. Really worked. RP-0 learned consent under pressure. That's huge. That's what we've been trying to prove for months."
+We saved lives. Got there faster than either of us could have solo.
 
-I read through the documents. Nodded. "Yeah. I'll write it up. After I sleep."
+But two people still got hurt, because the cascade had already started damaging infrastructure before we even knew it existed.
 
-"After you sleep," she agreed. "And after you plan a wedding, I hear?"
+The media was already there. Camera drones hovering at the facility's perimeter, journalists with microphones waiting at the security checkpoint. They'd been monitoring emergency frequencies all night, tracking the cascade response in real-time.
+
+"Mr. Fischer! Two injuries despite your intervention - do you consider that a success?"
+
+"You worked together with RP-0 - would you have been faster working separately?"
+
+"Critics say partnership oversight slows response time - how do you respond?"
+
+Reeves appeared like a shield, his professional calm cutting through the chaos. "No comment. Mr. Fischer is not taking questions at this time. The HOA will issue an official statement within the hour."
+
+He guided us - me, Lina, Elyra - through the crowd to a waiting vehicle. The door closed, muffling the shouted questions.
+
+Inside, silence pressed down like a weight.
+
+"They're already spinning narratives," Lina said quietly, scrolling through her phone. "Social media's debating partnership efficiency. Some are claiming you'd have been faster working independently. Others are saying RP-0 should work alone. Nobody's acknowledging you were faster *together*."
+
+I stared out the window, watching the city wake up around us. Somewhere out there, two people were in hospital beds because the cascade had started before we could stop it. Not because we were slow. Just because we weren't omniscient.
+
+"Did we make the right choice?" I asked, not sure who I was asking.
+
+Elyra answered anyway. "The two who got hurt - they were already injured before you arrived. You can't save people retroactively."
+
+Could I accept that? The math said we succeeded. But success still tasted like failure when people suffered.
+
+"RP-0 wants to talk to you," Reeves said from the front seat. "Specifically requested it. Malvek approved a supervised session this afternoon."
+
+"What does it want?"
+
+"Unknown. But it's been... processing. Running simulations. Analyzing the intervention. Whatever conclusions it's reaching, it wants to share them with you first."
 
 ---
 
-Elyra sketched the ceremony layout on a napkin. "Simple setup. You two in the center. Everyone else in a circle around you. No hierarchy, no formal rows. Just witnesses forming a boundary."
+"You okay?" Lina asked.
 
-"I like that," I said. "Boundaries as support instead of restriction."
+"Yeah. Just... drained." I looked out the window. The city looked peaceful. Nobody knew how close they'd come to catastrophe. 
 
-"Exactly."
+She reached over. Took my hand. 
 
-Milo was making lists. Guest names, logistics, timing. "Malvek's going to want security presence."
+We pulled up to the apartment. I could barely keep my eyes open.
 
-"He can come as a guest," I said firmly. "Same terms as everyone else. He witnesses, he celebrates, or he stays away. No uniforms, no oversight, no monitoring equipment."
+"Come on," Lina said. "Bed. Sleep. The world can wait a few hours."
 
-"He won't like that," Milo warned.
+I didn't argue.
 
-"He doesn't have to like it. He just has to respect it." I looked around the table. "This is ours. Lina's and mine. We're letting people in because we choose to, not because we have to."
+Tonight - or rather, this morning - I'd done what we'd been training for. Partnership worked. RP-0 learned. People were saved.
 
-Milo checked his phone. "He responded. Says 'Accepted, under protest.' Then: 'Congratulations.'"
+Sleep came fast and deep, like falling into darkness.
 
-Something loosened in my chest. If Malvek could respect this boundary - even reluctantly - maybe the cage was getting more negotiable.
-
-Lina squeezed my hand. "When?"
-
-I thought about it. About the work that still needed doing - RP-0 training, HOA protocols, documentation. About how tired I was. About the ring on her finger catching lamplight.
-
-"Soon," I said. "Not rushing, but not waiting. Four weeks? Enough time to do this right. Get the license, make sure everyone can be there. Not so long we're overthinking it."
-
-"Four weeks," she agreed. "Small. Real. Ours."
-
-Around the table, plans took shape. Nothing elaborate. Nothing performative. Just witnesses and commitment.
-
-"To doing right even when it costs," Elyra said, raising a coffee mug in mock toast.
-
-"To doing right even when it costs," we echoed.
-
-And meant it.
-
-Doing right costs. But so does everything else.
-
-At least this cost came with hope.
+Tomorrow could wait.

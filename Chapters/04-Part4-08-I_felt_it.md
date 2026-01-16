@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 07 - I felt it
+## Part 4 - Boundaries & Becoming | Ch. 08 - I felt it
 
 We almost could not recognize the warehouse after its transformation. Not into something mystical or esoteric - Elyra had been very clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
 

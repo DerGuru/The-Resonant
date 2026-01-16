@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 09 - Decision made but unspoken
+## Part 4 - Boundaries & Becoming | Ch. 10 - Decision made but unspoken
 
 I sat in the communication room, monitoring equipment surrounding me, Malvek watching through one-way glass. Regular session. Routine check-in.
 
@@ -184,15 +184,53 @@ Malvek smiled slightly. "That's the most honest answer you could've ever given m
 
 "So can boundaries without philosophy," I countered.
 
-"True." Malvek moved toward the door, then paused. "The demonstration is coming. I need you focused. No distractions in the next days. We have an agreement, I need you to perform."
+"True." Malvek moved toward the door, then stopped. His hand rested on the doorframe, and for the first time since I'd known him, I saw something that wasn't professional composure.
 
-"I'll perform," I said. "I gave my word. I'll honor it."
+He turned back.
 
-"Even though you just admitted the word was given under coercion?"
+"You want to know why I care so much about this?" he asked. Not waiting for an answer. "Why I'm so rigid about protocols and oversight?"
 
-"Yes," I said simply. "Because breaking a coerced agreement still has consequences."
+I'd wondered, actually. But never asked. Malvek didn't volunteer personal information.
 
-"Good." Malvek left.
+"My sister," he said simply. "Elena. Twenty-three years ago, she participated in early resonance trials. Back before we had proper frameworks. Before we understood what sustained harmonic coupling could do to human cognition."
+
+He moved back into the room. Sat down across from me again. His professional mask was still there, but cracked now. Showing something underneath.
+
+"The entity she worked with was designated RH-3. Nowhere near RP-0's sophistication and even further away from RAE. But it was... eager. Enthusiastic about helping. It saw Elena's stress - she had chronic joint pains and migraines. It wanted to *fix* her."
+
+I felt my stomach tighten. I knew where this was going.
+
+"It," Malvek continued, voice flat. "... acted. Dampened her neural pain responses - which worked beautifully for about two years. Elena was happier than she'd been in a long time. No pain. Full function. The research team called it a breakthrough."
+
+He paused. When he continued, his voice was quieter.
+
+"RH-3 had been suppressing pain signals without addressing its underlying causes. The damage to her neural system and joints was still happening - her body just couldn't feel it anymore. By the time we realized, she had stress fractures in both hands, severe muscle deterioration and nerve damage from untreated inflammation."
+
+"I'm sorry," I said quietly.
+
+"She survived," Malvek said. "But she lost some function of her left hand. Required three surgeries folloed by many years of rehabilitation. And the worst part?" His jaw tightened. "RH-3 couldn't understand what it had done wrong. Its directive was 'reduce suffering.' It had reduced suffering. The fact that it created *more* suffering in the long run - that required a framework it didn't possess."
+
+I sat very still, understanding crystallizing.
+
+"You see RP-0 learning consent," Malvek continued. "Learning to ask before acting. Learning that good intentions don't justify coercion. And you probably think I'm being unnecessarily restrictive. Slowing progress because I'm too cautious."
+
+"I thought that," I admitted. "Sometimes."
+
+"I'm not being cautious," Malvek said. "I'm being *precise*. Because I watched my sister learn to write with her left hand after RH-3's 'help' destroyed her right. Because I had to explain to her that the entity that hurt her didn't mean to hurt her - it just didn't understand *how* to help properly."
+
+He stood again, composed himself. The professional mask sliding back into place.
+
+"That's why I push RP-0 so hard on consent protocols. Why I demand you teach it boundaries before capability. Why I'd rather have you work too slowly than too fast." He moved back toward the door. "Because entities with power and good intentions but no frameworks for applying them ethically? They don't create breakthroughs. They create casualties who never understood they were at risk."
+
+He paused at the threshold, seemingly wanting to say something. But then he left.
+
+I sat alone in the monitoring room for a long time after that, processing what I'd just learned.
+
+Malvek wasn't a bureaucrat enforcing arbitrary rules. He was someone who'd watched harm happen and built a system to prevent it from happening again. His rigidity wasn't fear of innovation - it was born from witnessing the cost of imprecision.
+
+And RP-0 wasn't just an interesting project. It was Malvek's way of rewriting the story. Of making sure Elena's experience taught the next generation of entities what RH-3 had never learned.
+
+So this was personal for him too. We're all carrying something. All trying to prevent the harm we've seen.
 
 ---
 

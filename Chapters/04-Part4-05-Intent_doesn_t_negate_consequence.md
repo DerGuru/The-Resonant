@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 04 - Intent doesn't negate consequence
+## Part 4 - Boundaries & Becoming | Ch. 05 - Intent doesn't negate consequence
 
 The HOA facility's communication room felt like a cage designed by engineers.
 

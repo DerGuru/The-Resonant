@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 06 - We'd do it again 
+## Part 4 - Boundaries & Becoming | Ch. 07 - We'd do it again 
 
 Three days had passed since the meeting with RP-0. Three days of routine - check-ins, training sessions, the careful dance of cooperation with HOA that had become our new normal.
 
@@ -84,7 +84,91 @@ The hollowness remained. It would stay for some time longer. But remembering Lin
 
 Lina took our hand as we walked.
 
-"I have something to show you," she said, pulling a folded paper from her jacket pocket. "Elyra asked me to pass it along."
+---
+
+We were three blocks from the apartment when we saw Mrs. Amari.
+
+She stood at the corner, waiting for the light to change, grocery bags in both hands. Even from a distance, we could sense her resonance - stable and controlled, the kind of discipline that came from decades of practice.
+
+She noticed us. Nodded. Waited.
+
+"Mrs. Amari," we greeted as we reached her.
+
+"Jason. Rae. Lina." She studied us both with that sharp gaze of hers. "Late dinner?"
+
+"Date, actually," Lina said, smiling.
+
+"Good. You both need normal things." The light changed. We walked together, Mrs. Amari between us, her pace measured and steady. "I'm looking forward to working with you on Elyra's healing ritual."
+
+"Us too," we said.
+
+She shifted her bags slightly. "Been a long time since I worked a boundary like that. Twenty years, give or take."
+
+"Since you retired." Lina stated.
+
+Mrs. Amari nodded. "Since Marcus died."
+
+The words hung in the air. We'd known Mrs. Amari had been a defensive specialist. We'd known she'd walked away from practice decades ago. But we'd never known, why her husband died. Never asked.
+
+We reached the apartment building. Mrs. Amari set down one bag to fish for her keys.
+
+"May I ask what happened?" Lina said quietly.
+
+Mrs. Amari was quiet for a moment. Then: "My husband. Marcus. He wasn't a practitioner - he was support staff. Logistics coordinator for our operation. Smart man. Careful man. But careful doesn't always matter when resonance work goes wrong."
+
+She found her keys, but didn't use them yet.
+
+"We were containing a cascade - old tech, pre-HOA, back when we didn't have proper protocols. I was holding the boundary. Marcus was monitoring field stability from outside the working space. Much like Milo will in the ritual. Usually, this is a safe position - or at least it should have been."
+
+Her jaw tightened slightly.
+
+"Someone on our team panicked. Tried to force stabilization instead of letting the pattern dissipate naturally. The feedback spike was massive. My boundary held - I'm good at what I do. But I wasn't the only boundary, that day. And some went through."
+
+"Marcus," Lina said quietly, understanding.
+
+"He was standing twenty feet from the edge of my ward. Should have been safe. But the energy found him anyway - resonance doesn't care about 'should be safe.' It just *is*." She looked at her keys. "He was dead before the medics arrived. Heart stopped. Neural pathways burned out. Containing the cascade didn't kill him. We did. Our panic. Our lack of proper training. Our assumption that *safe position* still meant *safe*, even when resonance work escalated."
+
+We felt the weight of that. Twenty years of carrying it.
+
+"I'm sorry," we said.
+
+"I know." Mrs. Amari finally used her keys, opened the building door. "I retired the next day. Walked away from resonance work entirely. Thought I was done. Thought I'd spend the rest of my life pretending resonance didn't exist."
+
+She held the door for us.
+
+"But then I watched you these past months. Watched you learn control. Watched you build boundaries instead of breaking them." She met our eyes. "And I thought: maybe Marcus didn't die for nothing. Maybe someone learned from what happened to us. Maybe the next generation won't make our mistakes."
+
+"Is that why you agreed to help with the ritual?" Lina asked.
+
+"Partly." Mrs. Amari smiled slightly. "Also because Elyra needs it. And because you asked properly - told me exactly what the role required, what I must and mustn't do. No assumptions. No 'it'll be fine.' Just an honest risk assessment."
+
+She picked up her bags again.
+
+"That's how it should have been thirty years ago. Clear roles. Clear boundaries. Clear understanding of what happens if things go wrong." She moved toward the stairs. "But it wasn't. And Marcus paid for that."
+
+We stood in the lobby, processing.
+
+"Thank you," we said. "For telling us. For trusting us with his memory."
+
+"You earned it." Mrs. Amari started up the stairs, then paused. "And Jason? Remember: boundaries aren't walls. They're agreements. Honor them, and they'll hold. Break them, and people might die."
+
+She climbed the stairs, her footsteps steady and sure.
+
+We stood in the lobby with Lina, feeling the weight of what we'd just learned.
+
+"She's been watching us," Lina said quietly. "Not because she's suspicious. Because she's making sure we don't repeat her mistakes."
+
+"And making sure we learn from them," we added.
+
+Lina squeezed our hand. "Three days. We do this right. For Elyra. For Mrs. Amari. For Marcus."
+
+"For all of them," we agreed.
+
+---
+
+Lina took our hand as we walked up the stairs together.
+
+"I have something to show you," she said, pulling a folded paper from her jacket pocket once we reached our floor. "Elyra asked me to pass it along."
 
 The diagrams were intricate - ritual architecture we recognized from our training. Flow charts showing energy movement, boundary structures, anchor points.
 
@@ -92,6 +176,14 @@ The diagrams were intricate - ritual architecture we recognized from our trainin
 
 We studied the patterns. Saw our role clearly - anchor point, providing stable resonance for the working. Lina's position - stabilizer, helping maintain boundary integrity. Mrs. Amari's crucial function - external boundary holder, preventing any leakage or feedback.
 
+Now we understood. Mrs. Amari wasn't just helping because we asked. She was preventing another Marcus. Making sure the boundary held this time.
+
 "When?" we asked.
 
 "Three days. Warehouse. Evening." She refolded the paper. "She already told Mrs. Amari. Got a very Mrs. Amari response: 'Tell me what you need, and what I must not do.'"
+
+We smiled despite the weight of the story. That was Mrs. Amari - precise, careful, honoring boundaries because she knew what happened when you didn't.
+
+Three days. We'd do this right.
+
+For everyone who'd paid the price of mistakes we didn't have to repeat.

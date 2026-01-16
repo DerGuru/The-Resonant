@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 10 - My calendar - but not my vows
+## Part 4 - Boundaries & Becoming | Ch. 11 - My calendar - but not my vows
 
 Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA officials. Approved media representatives with cameras and recording equipment. All here to watch me prove that synthesis could be safe - or fail spectacularly.
 

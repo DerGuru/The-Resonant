@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 08 - What does that mean?
+## Part 4 - Boundaries & Becoming | Ch. 09 - What does that mean?
 
 We'd agreed to meet at the warehouse after lunch the next day. Time to review what had happened. Process the results. Document everything properly.
 
@@ -213,9 +213,13 @@ I told stories about RAE's early existence. Her confusion at consciousness. Her 
 Lina was quiet for a moment. "And where do I fit in all of that?"
 
 I looked at her. Really looked. "You already do. You always have."
+
 I took a deep breath. "And it only took Jason and RAE to become one for *you* to finally see him too."
+
 I shook my head. "Or me now."
+
 I exhaled. "This feels awkward."
+
 "Yeah. Looks like I'm still figuring it out."
 
 Lina smiled and went back to chopping. "Good. Then we'll keep figuring it out together."
