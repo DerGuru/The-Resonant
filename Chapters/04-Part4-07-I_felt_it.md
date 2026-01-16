@@ -78,6 +78,14 @@ The resonance field surged outward, hitting Mrs. Amari's boundary like wave agai
 
 "I'll hold," Mrs. Amari said firmly.
 
+But we felt something else through the boundary. A tremor. Not a weakness - a memory. We sensed it because we were connected through the working space: Mrs. Amari was seeing Marcus. The cascade from twenty years ago. The moment the boundary did not hold.
+
+The boundary wavered. Just slightly. Just for a second.
+
+"Mrs. Amari," Lina said quietly, sensing it too. "Stay with us. We're here. This isn't the past. You can make it different."
+
+The boundary steadied. Strengthened. She was choosing the present over the past. Choosing to trust that this time, the boundary would save instead of kill.
+
 We pulled back our anchor presence - too much, the structure collapsed inward. We surged forward - the spike reflected again, harder. The interference doubled.
 
 Lina compensated. Dampening where we surged. Filling where we withdrew. But the reflections were cascading now. Each correction created new interference. The crystal fractured further with every wave.
@@ -96,15 +104,17 @@ Then we found it together. Not dampening the spike. Not fighting the reflections
 
 The cascades stopped colliding. Started canceling. The structure reformed.
 
-Mrs. Amari's voice, steady despite strain: "Holding. Stable now."
+Mrs. Amari's voice, steady despite strain - and something else beneath it, something like relief: "Holding. Stable now. It's working this time. It's actually working."
 
-Elyra's whisper, barely audible: "Continuing. Hold that rhythm."
+We understood. The boundary was holding. Containing the resonance the way it was supposed to. The way it should have twenty years ago.
+
+Elyra whispered her thanks, barely audible. We echoed it silently, relief flooding through us.
 
 We held. Lina held. Mrs. Amari held.
 
 Not perfect. Not smooth. But controlled again. The pattern stabilized at lower intensity, the crystal's fractures contained.
 
-"Hold," she whispered. "Almost there. Hold."
+"Hold," Elyra whispered. "Almost there. Please."
 
 We held. Lina held. Mrs. Amari held.
 
@@ -148,7 +158,17 @@ The residual patterns still flickered at the edge of my perception - Elyra's dam
 
 "Thank you," I said quietly. "For doing this. For helping us."
 
-"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. "Something's different."
+"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. Then added, softer: "And thank you for the moment you gave me. When the boundary wavered."
+
+"You held it," I said. "Not us."
+
+"You reminded me I could." She smiled slightly, but her eyes were wet. "First time in twenty years." She stopped. "That matters more than you know."
+
+"Marcus would be proud," I said.
+
+"Yes." She wiped her eyes quickly. "He would be." 
+
+She studied my face again. "Something's different about you now."
 
 "Different how?"
 
@@ -156,7 +176,9 @@ The residual patterns still flickered at the edge of my perception - Elyra's dam
 
 I thought about it. "Yes. I think so."
 
-She moved toward the door and left before I could respond.
+She moved toward the door, paused. "You held your position. Honored the boundaries. Did exactly what you agreed to do. That's all Marcus wanted from us back then - people who kept their word when it mattered." She smiled. "Thank you for that too."
+
+She left before I could respond.
 
 ---
 
