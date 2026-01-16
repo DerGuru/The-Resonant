@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 07 - We'd do it again 
+ï»¿## Part 4 - Boundaries & Becoming | Ch. 07 - We'd do it again 
 
 Three days had passed since the meeting with RP-0. Three days of routine - check-ins, training sessions, the careful dance of cooperation with HOA that had become our new normal.
 
@@ -18,7 +18,7 @@ Lina emerged from the bedroom, and we felt something shift in our chest. She was
 
 ---
 
-The café was her choice - small, tucked into a side street we'd never noticed despite walking past it dozens of times. Windows fogged with condensation. Music playing softly, something acoustic and gentle. The kind of place that existed for conversation, not spectacle.
+The cafÃ© was her choice - small, tucked into a side street we'd never noticed despite walking past it dozens of times. Windows fogged with condensation. Music playing softly, something acoustic and gentle. The kind of place that existed for conversation, not spectacle.
 
 "No resonance talk," Lina said as we found a corner table. "No HOA. No synthesis analysis. Just... us. Coffee. Normal things."
 
@@ -42,7 +42,7 @@ Our chest tightened. "We're sorry."
 
 We sat with that. Feeling the truth of it.
 
-The café continued around us - other couples, other conversations, other lives unfolding in their ordinary complexity. We were just part of the background. Anonymous. Normal.
+The cafÃ© continued around us - other couples, other conversations, other lives unfolding in their ordinary complexity. We were just part of the background. Anonymous. Normal.
 
 It felt strange. And good.
 

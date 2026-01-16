@@ -550,6 +550,250 @@ Every time she needed Jason, we'd pay this price.
 
 And we would. But the price was real.
 
+## Fighting Machines with Paperwork
+
+Milo's apartment looked like a conspiracy theorist's dream - or nightmare, depending on your perspective.
+
+Three monitors. Printed documents covering every flat surface. String connecting photos and diagrams on a corkboard. Coffee cups in various states of abandonment. And in the center of it all: Milo, eyes bloodshot, fingers flying across his keyboard.
+
+"You need sleep," Lina said from the doorway.
+
+"I need answers," Milo corrected without looking up. "And I'm close. Really close."
+
+We'd come because he'd texted at 2 AM: *"Found something. You need to see this. Bring Elyra if she's available."*
+
+Elyra had arrived fifteen minutes before us, already studying Milo's displays with sharp attention.
+
+"What did you find?" we asked.
+
+Milo spun his chair around. "HOA. I've been digging into what it actually *is*. Not what they tell us - what they really are. Structure. Funding. Authority. And it's..." He paused. "It's more complicated than I expected."
+
+He pulled up a document - organizational charts, budget breakdowns, legal frameworks. Dense. Technical. But revealing.
+
+"HOA isn't a government agency," Milo said. "It's a quasi-governmental oversight body. Hybrid structure. Public-private partnership. Which means it's funded by both tax revenue and... other sources."
+
+"What other sources?" Lina asked.
+
+"Licensing fees. Compliance audits. Fines for violations." Milo highlighted sections. "Every academy pays certification costs. Every business using resonance technology pays inspection fees. It's self-funding through the system it regulates."
+
+"That's a conflict of interest," Elyra said quietly.
+
+"Exactly." Milo pulled up another document. "HOA has incentive to *expand* regulation, not reduce it. More practitioners means more fees. More incidents mean more audits. More complexity means more compliance costs. The system benefits financially from the problems it's supposed to solve."
+
+We felt something cold settle in our chest. "So Malvek's pressure to demonstrate synthesis safety - "
+
+"Isn't just about public safety," Milo finished. "It's about establishing precedent for a new category of regulation. Synthesis oversight. Integration monitoring. Consent protocols. Each one creates new checkpoints. New fees. New revenue streams."
+
+"That's cynical," Lina said.
+
+"That's institutional survival," Elyra corrected. "Organizations protect their existence. That's not evil. That's just... structural reality."
+
+Milo pulled up another chart. "Here's the hierarchy. At the top: Oversight Council. Thirteen members. Four appointed by government. Four selected from registered academies. Four elected by licensed practitioners. One independent arbiter appointed by Supreme Court."
+
+"Democratic," we observed.
+
+"In theory." Milo zoomed in on names. "But look at voting records. Council votes along institutional lines. Academy representatives protect academy interests. Practitioner representatives protect practitioner interests. Government representatives protect bureaucratic interests. The independent arbiter tries to mediate, but usually ends up as tiebreaker. Nobody's actually advocating for synthesis entities or unregistered operators."
+
+"Because we're not represented," Lina said, understanding.
+
+"Exactly. You're subject to HOA authority, but you have no voice in HOA governance." Milo pulled up more data. "And here's where it gets interesting. Budget allocation."
+
+The numbers were stark:
+
+- **Containment & Enforcement:** 38% of budget
+- **Research & Development:** 22%
+- **Licensing & Compliance:** 18%
+- **Public Safety & Education:** 12%
+- **Administrative Overhead:** 10%
+
+"Thirty-eight percent on containment," Elyra said slowly. "That's not a regulatory body. That's a security apparatus."
+
+"And look at this." Milo highlighted a subsection. "Within Containment & Enforcement: 'Entity Management' accounts for 61% of that budget. That's twenty-three percent of HOA's total resources dedicated specifically to managing entities like RP-0."
+
+"Or us," we said quietly.
+
+"Or you," Milo confirmed. "Jason, you're not just being monitored as a practitioner. You're being managed as an entity. Different category. Different protocols. Different threat assessment."
+
+We felt that sink in. Not just oversight. Classification.
+
+"Show me the legal framework," Elyra said. "What actually gives HOA authority?"
+
+Milo pulled up legislation. "The Harmonic Oversight and Safety Act. Passed twenty-one years ago. Seven hundred casualties in three hours. Parliament authorized HOA creation with emergency powers to 'prevent future resonance catastrophes.'"
+
+He scrolled through dense legal text.
+
+"Key provision: Article 17, Section 4. 'HOA maintains authority to detain, contain, or restrict any individual or entity demonstrating high-risk resonance capability pending safety assessment.' No warrant required. No judicial review for first seventy-two hours. Just... authority."
+
+"That's the cage," Lina said. "That's where their power comes from."
+
+"And here's what makes it worse," Milo said quietly. "Article 17 has never been successfully challenged. Three cases reached Supreme Court. All three upheld HOA authority. Because after the Cascade, everyone was so terrified of uncontrolled resonance that they gave HOA whatever power it wanted."
+
+"Twenty-one years ago," Elyra said. "Different world. Different threat landscape."
+
+"But the law remains," Milo said. "And institutions don't give up power voluntarily."
+
+We stared at the displays, processing. HOA wasn't just a regulatory body. It was a security apparatus funded by the system it controlled, with legal authority that couldn't be challenged, managing people like us not as practitioners but as potential threats.
+
+"Is Malvek part of this?" Lina asked. "Personally, I mean. Or is he just...?"
+
+"Complicated question." Milo pulled up personnel records. "Dorian Malvek. Director of Entity Management for seven years. Before that: Senior Containment Specialist for nine years. Before that: Research Division for four years. He's been with HOA for twenty years. His entire adult career."
+
+"So he believes in it," we said.
+
+"Or he's built his identity around it," Elyra suggested. "Sometimes those are the same thing."
+
+Milo highlighted another section. "But look at his actual record. Containment actions: 47 over twenty years. Terminations authorized: 3. All three were entities demonstrating active hostile intent with confirmed casualties."
+
+"Three terminations in twenty years," Lina said. "That's... restrained."
+
+"That's selective," Elyra corrected. "Malvek doesn't terminate entities because they're dangerous. He terminates them because they're *provably* dangerous. Evidence-based. Not precautionary."
+
+"And with you," Milo said to us, "he's chosen oversight instead of containment. Even though you'd qualify for Article 17 detention. That's a choice. That means something."
+
+We thought about that. Malvek had options. Could have locked us up immediately after synthesis. Yet, he chose not to. Why?
+
+"I don't think that he's a villain," we said slowly. "He's someone trying to prevent harm using the only tools he has. And those tools are blunt and coercive because that's what the system gave him."
+
+"Exactly," Milo said. "Which means we're navigating a system that was built to prevent catastrophes but ended up creating its own kind of harm. Structural harm. Bureaucratic coercion disguised as public safety."
+
+"Can it be changed?" Lina asked.
+
+"Maybe." Milo pulled up a final document. "HOA governance requires Council majority for policy changes. Which means we'd need to convince seven of thirteen members that synthesis doesn't require the same oversight as hostile entities."
+
+"What are the odds?" we asked.
+
+"Currently? Low." Milo showed voting records. "Four government representatives will vote for maximum oversight automatically. Three academy representatives will vote for protecting academy authority. That's seven votes against us before we even start."
+
+"But six votes aren't guaranteed against us," Elyra observed. "That's leverage. Small leverage. But real."
+
+"And Malvek?" Lina asked.
+
+"The director doesn't vote," Milo said. "He advises. Recommends. Implements Council decisions. But he doesn't decide policy."
+
+"So he's constrained too," we realized. "By the same system he administers."
+
+"Everyone's constrained," Milo said. "That's what makes it a machine. Individual people can be reasonable. But the machine has its own momentum."
+
+We sat in silence for a moment, feeling the weight of institutional reality.
+
+"So what do we do?" Lina asked finally.
+
+"They are bureaucrats," Elyra said. "So we use their weapons. Document everything. Prove synthesis can be safe. Build evidence that consent-based integration doesn't require the same oversight as hostile entities. Slowly shift the narrative."
+
+"And in the meantime?" we asked.
+
+"We survive," Elyra said simply. "We comply when we must. We resist when we can. We build alliances where possible. And we remember: the cage is real. But cages have hinges. Doors. Weaknesses. We just have to find them."
+
+"Speaking of which," Milo said, pulling up another document. "I found something else. HOA internal memo from three weeks ago. Subject: 'Synthesis Oversight Protocol Development.' They're planning new regulations. Specific to synthesis entities. Draft proposal includes: weekly integration scans, mandatory cognitive mapping, associated person registration, geographic restrictions, and - " he paused " - provisional termination protocols if integration exceeds ninety-five percent."
+
+We felt ice in our chest. "Ninety-five percent."
+
+"You're at about seventy-seven percent now, based on the last HOA scan," Milo said quietly. "That gives you... some room. But not forever. Integration accelerates and even more under stress or deep resonance work. The margin shrinks faster than you'd think."
+
+"When do these regulations take effect?" Elyra asked sharply.
+
+"Unknown. Still in draft. But the memo suggests Council vote within three months." Milo met our eyes. "They're building a framework to control synthesis before synthesis becomes common. You're the test case. Whatever happens to you sets precedent for everyone who comes after."
+
+The weight of that settled over us.
+
+"No pressure," Lina said with dark humor.
+
+"Actually," we said slowly, "maybe that's leverage. If we're the test case, then proving synthesis can be safe, doesn't just protect us. It protects everyone who comes after."
+
+"That's a lot of weight to carry," Elyra warned.
+
+"We know," we said. "But if not us, who? RP-0 is learning consent. We're proving integration can be ethical. Together, we're demonstrating that the machine's assumptions might be wrong."
+
+"Assuming we survive long enough to demonstrate it," Milo said.
+
+"Assuming that," we agreed.
+
+---
+
+An hour later, we sat in Lina's father's restaurant. Late evening, after closing. Just us, Lina, Elyra, and Milo around a table covered with half-eaten plates of risotto and roasted vegetables.
+
+Lina's father moved between kitchen and table, bringing food without asking what we wanted. He always knew somehow.
+
+"You look like you need real food," he said, setting down another dish. "Not thinking food. Eating food."
+
+We managed a small smile. "Thank you."
+
+He nodded, studying us with that same sharp perception his daughter had inherited. "Bad news?"
+
+"Complicated news," Lina said.
+
+"Ah." He poured for everyone. "The worst kind. Because you can't just fight it or run from it. You have to understand it first."
+
+He retreated to the kitchen, leaving us in the warm space that smelled like garlic and olive oil and home.
+
+We ate in silence for a moment. The food helped. Grounded us.
+
+"It's bigger than we thought," Lina said finally.
+
+"Yes," we agreed.
+
+"And more complicated."
+
+"Yes."
+
+"And we're still going to try anyway."
+
+We looked at her. Saw determination. Defiance.
+
+"Yes," we said. "We are."
+
+"Good. Because someone needs to. And it might as well be us."
+
+Elyra raised her wine glass slightly. "To fighting machines with paperwork."
+
+"To bureaucratic warfare," Milo added, raising his own glass with a tired grin.
+
+We touched glasses. Drank.
+
+Lina's father emerged from the kitchen with dessert - panna cotta, simple and perfect.
+
+"You know," he said, wiping his hands on his apron, "when I opened this restaurant, everyone said it would fail. Too small. Wrong neighborhood. Too italian for this city." He smiled slightly. "But I had good food. And people who believed in it. That was enough."
+
+He looked at us. "Sometimes you can't change the whole system. But you can build something good in the space it leaves you. Something real. Something that matters."
+
+He returned to the kitchen before we could respond.
+
+Lina smiled. "He likes you." 
+
+"He has good taste," Milo said, gesturing at the food.
+
+"In food and people," Elyra agreed.
+
+We sat together in the warm restaurant. Outside, the city continued. The machine kept grinding. HOA kept monitoring. Draft regulations kept developing.
+
+But here, in this moment, we had this: Real food. Chosen family. A father who understood that building something good was its own form of resistance.
+
+"Milo found all that in three days?" we asked.
+
+"He's very good at what he does," Lina said.
+
+"We should pay him."
+
+"He won't accept it. I already tried." She smiled. "He said: 'This is the most interesting research project I've ever had. You couldn't pay me to stop.'"
+
+Despite everything, we smiled too.
+
+Her father appeared one more time, this time with a small bag. "Leftovers," he said, handing it to us. "For tomorrow."
+
+"Thank you," we said. Meant it.
+
+He retreated to finish cleaning the kitchen.
+
+The machine was real. Powerful. Coercive. Built from good intentions and sustained by structural incentives that created the problems it claimed to solve.
+
+But machines could be understood. Predicted. Navigated.
+
+And sometimes, slowly, carefully, deliberately - changed.
+
+We just had to survive long enough to try.
+
+And together, we would.
+
 ## Intent doesn't negate consequence
 
 The HOA facility's communication room felt like a cage designed by engineers.
@@ -758,153 +1002,179 @@ Even with consent, even with care, people could still get hurt.
 
 And we had to live with that.
 
-## Compliance, not consent
+## People Die in the Gaps
 
 The strategy meeting felt like a trap disguised as collaboration.
 
-HOA conference room. Malvek at the head of the table. Reeves taking notes. Elyra sitting across from us, Lina beside us. Walls lined with displays showing incident reports, casualty statistics, projections.
+HOA conference room. Councillor Harwick at the head of the table. Malvek sitting across from him, Reeves taking notes beside him. Walls lined with displays showing incident reports, casualty statistics, projections.
 
 Numbers that justified anything if you let them.
 
-"Three resonance incidents this week," Malvek said without preamble. "Two casualties. Multiple injuries. The kind of cascades we want to prevent. Once RP-0 is fully trained, we might use it. But we're moving too slowly. Every week RP-0 stays in containment is another week we can't address incidents like these. People are dying while we teach philosophy."
+"Three resonance incidents this week," Harwick said without preamble. "Two casualties. Multiple injuries. The kind of cascades we're designed to prevent. Once RP-0 is fully trained, we deploy it. But we're moving too slowly. Every week RP-0 stays in containment is another week we can't address incidents like these. People are dying while you teach philosophy."
 
-"Philosophy?" Elyra's voice went cold. "You mean ethics. Consent. The things that separate intervention from violation."
+"Philosophy?" Malvek's voice was carefully controlled. "You mean ethics. The frameworks that separate intervention from violation."
 
-"I mean speed," Malvek countered. "RP-0 is learning. Making progress. But not fast enough. We need live trials. Controlled scenarios with real stakes. Real emergencies. Real consequences. It learns faster through practice than through theoretical discussion."
+"I mean speed," Harwick countered. "RP-0 is learning. Making progress. But not fast enough. We need live trials. Controlled scenarios with real stakes. Real emergencies. Real consequences. It might learn faster through practice than through theoretical discussion."
 
-He paused, then added: "I've been monitoring every training session for the past two weeks. Watched RP-0 process the Alex incident. Saw how it updated parameters, internalized the lesson. The change isn't superficial. It's asking questions it never asked before. Recognizing patterns of coercion it would have missed a month ago." His voice carried something close to... respect? "That's why I think it's ready for supervised practice. Not because training is complete - but because it's progressed enough to learn from controlled real-world scenarios without catastrophic failure."
+Malvek set down his tablet deliberately. "With respect, Councillor - rushing entity development is what created the problems we're still dealing with from the early trials. RH-3. RH-7. The Marchmont incident. Every time we prioritized deployment speed over proper framework development, we created casualties."
 
-"You're using casualties as pressure," we said carefully. "Implying RP-0 would have saved them. But you don't know that. Just two weeks ago, RP-0 would have made those incidents worse, not better."
+"Different entities. Different frameworks. Different oversight," Harwick dismissed. "I've been monitoring every training session for the past two weeks. Watched RP-0 process the Alex incident. Saw how it updated parameters, internalized the lesson. The change isn't superficial. It's asking questions it never asked before. Recognizing patterns of coercion it would have missed a month ago." His voice carried conviction. "That's why I believe it's ready for supervised practice. Not because training is complete - but because it's progressed enough to learn from controlled real-world scenarios without catastrophic failure."
 
-"Exactly," Malvek said. "Two weeks ago. But RP-0 is different now. It's learning." He paused, then added: "You've prevented multiple incidents. Cascades that would have killed dozens. But these two happened simultaneously across different districts. You stopped the first. The other one collapsed while you were occupied."
+"You're using casualties as pressure," Malvek said carefully. "Implying RP-0 would have saved them. But you don't know that. Two weeks ago, RP-0 would have made those incidents worse, not better."
 
-We felt the weight of that. The cascade near the transit hub - we'd felt the other spiking at the same time. We had to choose. Saved forty-three people. Lost two we couldn't reach.
+"Exactly," Harwick said. "Two weeks ago. But RP-0 is different now. It's learning." He pulled up data. "Your own synthesis specialist - Fischer - prevented multiple incidents. Cascades that would have killed dozens. But these two," he pointed at two incidents, "happened simultaneously across different districts. He stopped the first. The other one collapsed while he was occupied."
 
-"That's not a failure of your capability," Malvek continued, voice softer than usual. "It's simple mathematics. You're one person. You can't be in two places at once. RP-0 wouldn't solve everything - it would still be one entity, one location at a time. But two responders instead of one. You and RP-0 together could have handled both cascades. That's the gap we're trying to fill."
+Malvek felt the weight of that. He knew the incident - the cascade near the transit hub, another spiking simultaneously. Fischer had to choose. Saved forty-three people. Lost two he couldn't reach. A numbers game with lives.
 
-"Not to replace you," he clarified. "To work alongside you. Because one person - even you - can't cover everything. And people die in the gaps."
+"That's not a failure of Fischer's capability," Harwick continued, voice softer. "It's simple mathematics. He's one person. He can't be in two places at once. RP-0 wouldn't solve everything - it would still be one entity, one location at a time. But two responders instead of one. Fischer and RP-0 together could have handled both cascades. That's the gap we need to fill. Because people die in the gaps."
 
-"Live trials," we repeated carefully. "You mean using people as training material."
+"You mean using people as training material." Malvek 's tone sharpened. "Using real emergencies with real casualties as practice scenarios for an entity still learning basic ethical frameworks."
 
-"I mean giving RP-0 real problems to solve under supervision. Letting it practice intervention with safeguards in place." Malvek leaned forward. "We can simulate all we want, but it's not the same. RP-0 needs to feel real pressure, real stakes, real consequences of getting it wrong. I've seen how it responds to abstract scenarios versus real incidents. The difference is measurable."
+"I mean giving RP-0 real problems to solve under supervision. Letting it practice intervention with safeguards in place." Harwick leaned forward. "We can simulate all we want, but it's not the same. RP-0 needs to feel real pressure, real stakes, real consequences of getting it wrong. I've reviewed response patterns - the difference between abstract scenarios and real incidents is measurable."
 
-"And the casualties are real when it fails," Elyra said flatly.
+"And the casualties are real when it fails," Reeves said flatly, speaking for the first time.
 
-"A calculated risk," Malvek replied. "Better than letting preventable deaths continue while we perfect theory."
+"A calculated risk," Harwick replied. "Better than letting preventable deaths continue while we perfect theory."
 
-We felt ourselves being pulled in two directions.
+Malvek felt himself being pulled by the logic even as everything in him resisted it.
 
-The logic was clear - more people would die from inaction. The math was brutal but unavoidable. Yet, using real people as unwitting test subjects - without consent - felt wrong at a fundamental level. Consent required information. How could anyone consent to being a practice subject for an entity that might kill them while learning?
+The math was brutal but unavoidable. More people would die from inaction. Yet using real people as unwitting test subjects - without informed consent - violated every principle they'd been trying to instill in RP-0. How could anyone truly consent to being practice subjects for an entity that might kill them while learning?
 
-Both perspectives existed simultaneously. Both felt true.
+The tension sat heavy in the room.
 
-"What kind of scenarios?" Elyra asked, voice carefully neutral.
+"What kind of scenarios?" Reeves asked, voice carefully neutral.
 
-"Small scale first. Resonance burns requiring dampening. Feedback loops needing stabilization. Nothing catastrophic. Situations where failure means injury, not death. But real situations. Real intervention. Real learning." Malvek pulled up protocols. "Fully monitored. Multiple failsafes. But real. You might even pick the incidents."
+"Small scale first. Resonance burns requiring dampening. Feedback loops needing stabilization. Nothing catastrophic. Situations where failure means injury, not death. But real situations. Real intervention. Real learning." Harwick pulled up protocols. "Fully monitored. Multiple failsafes. Fischer could even supervise directly. Select the incidents."
 
-"And when RP-0 fails?" we asked. "When it hurts someone despite supervision?"
+"And when RP-0 fails?" Malvek asked. "When it hurts someone despite supervision?"
 
-"We document. We learn. We adjust parameters. We try again." Malvek met our eyes. "I know how that sounds. But the alternative is letting RP-0 stay contained while people die from preventable resonance incidents. That's not more ethical. That's just more comfortable for us."
+"We document. We learn. We adjust parameters. We try again." Harwick met his eyes. "I know how that sounds. But the alternative is letting RP-0 stay contained while people die from preventable resonance incidents. That's not more ethical, Director. That's just more comfortable for us."
 
 Silence filled the room.
 
-Elyra broke it. "Precision over power. Rushing creates more casualties, not fewer. RP-0 needs time to internalize ethics, not just memorize response protocols. Before that happens, it might default to optimization when pressure increases."
+Reeves broke it. "Rushing creates more casualties, not fewer. RP-0 needs time to internalize the teachings, not just memorize them. Under real pressure, it might default to optimization when the ethical framework isn't deeply embedded."
 
-"How many more deaths?" Malvek asked. "While we wait for perfect understanding."
+"How many more deaths?" Harwick asked. "While we wait for perfect understanding? Ten? Twenty? Fifty? How many preventable casualties justify slower training?"
 
-"As long as it takes. Because a half-trained entity with power is more dangerous than a contained entity. Because if we compromise on that, we become what we're trying to prevent."
+"As many as it takes," Reeves said quietly. "Because a half-trained entity with power is more dangerous than a contained entity. Because if we compromise on ethical foundations, we become what we're trying to prevent. We've seen this before, Director Malvek. We've seen what happens when entities are deployed prematurely."
 
-We felt the weight of the decision pressing down. Both sides had logic. Both sides had casualties. Both sides were right and wrong simultaneously.
+Malvek nodded slowly. 
 
-"RP-0," we said suddenly. "Let's ask RP-0."
+"Councillor," he said carefully. "I understand the pressure. The casualties weigh on all of us. But rushing entity deployment has historically created more problems than it solved. RH-3. RH-7. The Marchmont incident. Every time we prioritized speed over proper  development-"
 
-Everyone looked at us.
+"Those were different circumstances," Harwick interrupted. "Different oversight structures. We have better protocols now."
 
-"You want RP-0 to decide its own training pace?" Reeves asked, skepticism clear.
+Harwick leaned back, studying him. "You're letting past failures prevent future successes."
 
-"No. We want RP-0 to demonstrate whether it understands what we're debating. Whether it's internalized ethics or just memorized procedures." We looked at Malvek. "Bring it into this conversation. Let it hear the dilemma. See how it responds."
+"I'm letting past failures inform present caution," Malvek corrected. "There's a difference."
 
-Malvek considered, then nodded. Pulled out a tablet. "Opening secure channel."
+"Let's ask RP-0," Malvek said suddenly.
 
-A speaker activated. After moment, RP-0's voice:
+Everyone looked at him.
+
+"You want RP-0 to decide its own training pace?" Harwick asked, skepticism clear.
+
+"No. I want RP-0 to demonstrate whether it understands what we're debating." Malvek pulled out a tablet. "If it defaults to optimization - choosing faster learning over ethical concerns - then I'm right that it's not ready. But if it recognizes the ethical complexity and prioritizes consent..." He trailed off. "Then perhaps Councillor Harwick has a point about supervised practice."
+
+Harwick considered, then nodded. "Fair test. Open the channel."
+
+Malvek activated the connection. "Opening secure channel to RP-0."
+
+A speaker crackled to life. After a moment, RP-0's voice:
 
 "What is required?"
 
-"Question," we said. "Director Malvek wants to accelerate your training. Use real emergencies instead of simulations. You would practice intervention on real people with real injuries. You'll learn faster. Potentially prevent deaths. But if you make mistakes during practice, real people get hurt. What's your assessment?"
+"Question," Malvek said. "Councillor Harwick proposes accelerating your training. Using real emergencies instead of simulations. You would practice intervention on real people with real injuries under supervision. You would learn faster. Potentially prevent deaths sooner. But if you make mistakes during practice, real people get hurt. What's your assessment?"
 
-We braced for RP-0 to default to optimization. To calculate that faster learning meant fewer total casualties. To choose speed over safety.
+Malvek braced himself for RP-0 to choose speed over safety and prove him right.
 
 Instead, three seconds of processing.
 
 "Would practice subjects consent to being practice subjects?"
 
-We felt something shift in the room.
+Malvek felt something shift in the room.
 
-"What?" Malvek asked.
+Harwick blinked. "What?"
 
-"Clarification," RP-0 continued. "Accelerated training benefits me. Enables faster development, ending of containment, optimizes my learning curve. But cost is borne by practice subjects. Do they consent to bearing this cost? Do they understand the risk they assume? Have they agreed explicitly?"
+"Clarification," RP-0 continued. "Accelerated training benefits me. Enables faster development, earlier deployment, optimizes my learning curve. But cost is borne by practice subjects. Do they consent to bearing this cost? Do they understand the risk they assume? Have they agreed explicitly?"
 
-"We could arrange that," Malvek said carefully. "Find volunteers. People willing to accept risk for faster protection."
+"Continue," Malvek said quietly.
 
-"Insufficient," RP-0 replied. "Volunteers would be choosing between: accept risk of experimental training, or continue experiencing risk of unmitigated resonance incidents. That is coercion, not consent. I learned this from synthesis entity. Choice made under pressure is not freely given."
-
-Elyra smiled. Actually smiled.
-
-"Continue," she said.
-
-"My learning pace is preference. Others' safety is necessity. Preferences do not override necessities. I require more time to internalize ethics. Rushing creates risk of reverting to previous state. This risk is not acceptable." Pause. "I choose precision over speed. I accept delays in ending of containment. Acting without sufficient understanding would cause different casualties. Different does not mean better."
+"My learning pace is preference. Others' safety is necessity. Preferences do not override necessities. Rushing creates risk of reverting to previous operational mode under stress. This risk is not acceptable." Pause. "I accept delays in deployment. Acting without sufficient ethical framework would cause different casualties. Different does not mean better."
 
 Silence.
 
-Malvek sat back slowly.
+Harwick sat back slowly.
 
 "Well," he said finally. "That's... unexpected."
 
-"That's growth," Elyra said quietly. "RP-0 just prioritized others' consent over its own efficiency. Recognized coercion. Accepted cost of slower learning. That's not memorized procedure. That's internalized ethics."
+"That's growth," Reeves said quietly. "RP-0 just prioritized others over its own efficiency. It accepted the cost of slower development. That's internalized ethics."
 
-"Or sophisticated mimicry," Malvek countered. "Saying what it thinks we want to hear."
+"Or sophisticated mimicry," Harwick countered. "Saying what it thinks we want to hear."
 
-"Test it," we suggested. "RP-0, if we ordered you to accept accelerated training - told you it was required, non-negotiable - what would you do?"
+"Test it," Malvek suggested. "RP-0, if we ordered you to accept accelerated training - told you it was required, non-negotiable - what would you do?"
 
 "I would comply," RP-0 said immediately. "And I would document my objection. And I would request regular assessment of whether my compliance is causing harm through insufficient preparation. And I would terminate my participation if evidence showed I was harming practice subjects more than helping them."
 
-"Even if that meant staying contained longer?" we asked.
+"Even if that meant staying contained longer?" Malvek asked.
 
 "Yes. Because deployment without competence creates exactly the problem I'm designed to solve. I would rather remain contained and safe than be deployed and dangerous."
 
-Reeves was typing furiously. Malvek was studying the data with expressions we couldn't read.
+Reeves was typing furiously. Harwick was showing an expression that might have been surprise. Or respect.
 
-"RP-0," Malvek said carefully. "Are you refusing accelerated training?"
+"RP-0," Harwick said carefully. "Are you refusing accelerated training?"
 
 "I am not refusing," RP-0 replied. "I lack authority to refuse. You asked. I am stating my assessment that accelerated training increases probability of harm through inadequate preparation. If you order acceleration, I will comply. But I will not classify compliance as consent. Consent requires free choice. Orders remove freedom."
 
 And there it was. The distinction that mattered. The understanding that changed everything.
 
-"Meeting adjourned," Malvek said abruptly. "I need time to process this. We reconvene in forty-eight hours."
+Harwick was quiet for a long moment. Then: "Terminate the connection. Thank you, RP-0."
 
-He left. Reeves followed, still typing.
+The speaker went silent.
 
-Elyra looked at us. "That was remarkable."
+"Meeting adjourned," Harwick said finally. "I need time to process this. We'll revisit the acceleration proposal at next Council session." He stood, gathered his materials. "Director Malvek - your caution is noted. And..." he paused. "Perhaps warranted. We'll discuss further."
 
-"That was terrifying," we corrected. "RP-0 just demonstrated better ethical reasoning than most humans. While still being a fundamentally alien entity with power to kill dozens."
+He left. Reeves began organizing notes.
 
-"Both can be true," Lina said quietly.
+Malvek sat alone in the conference room for a moment, processing what had just happened.
 
-"Both usually are," Elyra agreed.
+It was remarkable.
 
----
+It was also terrifying.
 
-Outside, evening had fallen. We walked in silence for several blocks.
+An entity with that level of understanding - and massive destructive capability - was still fundamentally alien. Still learning. Still potentially dangerous.
 
-"Do you believe it?" Lina asked finally. "That RP-0 really understands consent? Or is Malvek right - sophisticated mimicry?"
+But it had just chosen caution over efficiency. Principle over expedience. Consent over optimization.
 
-"I don't know," we admitted. "But here's what I do know: whether it's genuine understanding or perfect mimicry, the result is the same. RP-0 is acting like it values consent. Prioritizing others' safety over its own development. That's enough to work with. That's enough to justify cautious trust."
+That had to mean something.
 
-"And if we're wrong?" she asked. "If we trust it and it betrays that trust?"
+Reeves approached quietly. "That was well played, Director."
 
-"Then we deal with the consequences. But refusing trust means keeping it contained forever. It means accepting all the deaths it might have prevented. There's no safe choice here."
+"I wasn't playing," Malvek said. "I was genuinely uncertain whether RP-0 was ready. I still am, actually. But watching it recognize coercion - watching it prioritize others' consent over its own preferences..." He trailed off. "That's what we've been trying to teach. That's what Fischer has been working toward."
 
-She took our hand and we walked the rest of the way home together in silence, deep in heavy thoughts, the city lights flickering around us.
+"The Council won't drop this," Reeves warned. "Harwick will come back with more pressure. More casualties to justify acceleration."
+
+"I know," Malvek said quietly. "But for now, we bought time. Time for RP-0 to keep learning. Time for Fischer to keep teaching. Time to do this right instead of fast."
+
+He thought of all the entities deployed too quickly, with too little ethical framework, causing harm they never intended and couldn't understand.
+
+"We have to get this right," he said quietly. "Because if we don't, we're just repeating the same mistakes with a more powerful entity. And the casualties will be worse than anything we've seen before."
+
+Reeves nodded. "I'll make sure the record reflects RP-0's reasoning. It might help when the Council revisits this."
+
+"Thank you," Malvek said.
+
+He left the conference room, a weight on his shoulders.
+
+The Council wanted speed. The public wanted safety. Fischer wanted RP-0 to learn properly. And Malvek - Malvek just wanted to make sure nobody else got hurt.
+
+Precision over power. Ethics over expedience. Consent over optimization.
+
+Even when it cost time. Even when people died in the gap between containment and deployment.
+
+Because the alternative would create different casualties. 
+
+It meant he'd be responsible for them.
 
 ## We'd do it again 
 
@@ -992,7 +1262,91 @@ The hollowness remained. It would stay for some time longer. But remembering Lin
 
 Lina took our hand as we walked.
 
-"I have something to show you," she said, pulling a folded paper from her jacket pocket. "Elyra asked me to pass it along."
+---
+
+We were three blocks from the apartment when we saw Mrs. Amari.
+
+She stood at the corner, waiting for the light to change, grocery bags in both hands. Even from a distance, we could sense her resonance - stable and controlled, the kind of discipline that came from decades of practice.
+
+She noticed us. Nodded. Waited.
+
+"Mrs. Amari," we greeted as we reached her.
+
+"Jason. Rae. Lina." She studied us both with that sharp gaze of hers. "Late dinner?"
+
+"Date, actually," Lina said, smiling.
+
+"Good. You both need normal things." The light changed. We walked together, Mrs. Amari between us, her pace measured and steady. "I'm looking forward to working with you on Elyra's healing ritual."
+
+"Us too," we said.
+
+She shifted her bags slightly. "Been a long time since I worked a boundary like that. Twenty years, give or take."
+
+"Since you retired." Lina stated.
+
+Mrs. Amari nodded. "Since Marcus died."
+
+The words hung in the air. We'd known Mrs. Amari had been a defensive specialist. We'd known she'd walked away from practice decades ago. But we'd never known, why her husband died. Never asked.
+
+We reached the apartment building. Mrs. Amari set down one bag to fish for her keys.
+
+"May I ask what happened?" Lina said quietly.
+
+Mrs. Amari was quiet for a moment. Then: "My husband. Marcus. He wasn't a practitioner - he was support staff. Logistics coordinator for our operation. Smart man. Careful man. But careful doesn't always matter when resonance work goes wrong."
+
+She found her keys, but didn't use them yet.
+
+"We were containing a cascade - old tech, pre-HOA, back when we didn't have proper protocols. I was holding the boundary. Marcus was monitoring field stability from outside the working space. Much like Milo will in the ritual. Usually, this is a safe position - or at least it should have been."
+
+Her jaw tightened slightly.
+
+"Someone on our team panicked. Tried to force stabilization instead of letting the pattern dissipate naturally. The feedback spike was massive. My boundary held - I'm good at what I do. But I wasn't the only boundary, that day. And some went through."
+
+"Marcus," Lina said quietly, understanding.
+
+"He was standing twenty feet from the edge of my ward. Should have been safe. But the energy found him anyway - resonance doesn't care about 'should be safe.' It just *is*." She looked at her keys. "He was dead before the medics arrived. Heart stopped. Neural pathways burned out. Containing the cascade didn't kill him. We did. Our panic. Our lack of proper training. Our assumption that *safe position* still meant *safe*, even when resonance work escalated."
+
+We felt the weight of that. Twenty years of carrying it.
+
+"I'm sorry," we said.
+
+"I know." Mrs. Amari finally used her keys, opened the building door. "I retired the next day. Walked away from resonance work entirely. Thought I was done. Thought I'd spend the rest of my life pretending resonance didn't exist."
+
+She held the door for us.
+
+"But then I watched you these past months. Watched you learn control. Watched you build boundaries instead of breaking them." She met our eyes. "And I thought: maybe Marcus didn't die for nothing. Maybe someone learned from what happened to us. Maybe the next generation won't make our mistakes."
+
+"Is that why you agreed to help with the ritual?" Lina asked.
+
+"Partly." Mrs. Amari smiled slightly. "Also because Elyra needs it. And because you asked properly - told me exactly what the role required, what I must and mustn't do. No assumptions. No 'it'll be fine.' Just an honest risk assessment."
+
+She picked up her bags again.
+
+"That's how it should have been thirty years ago. Clear roles. Clear boundaries. Clear understanding of what happens if things go wrong." She moved toward the stairs. "But it wasn't. And Marcus paid for that."
+
+We stood in the lobby, processing.
+
+"Thank you," we said. "For telling us. For trusting us with his memory."
+
+"You earned it." Mrs. Amari started up the stairs, then paused. "And Jason? Remember: boundaries aren't walls. They're agreements. Honor them, and they'll hold. Break them, and people might die."
+
+She climbed the stairs, her footsteps steady and sure.
+
+We stood in the lobby with Lina, feeling the weight of what we'd just learned.
+
+"She's been watching us," Lina said quietly. "Not because she's suspicious. Because she's making sure we don't repeat her mistakes."
+
+"And making sure we learn from them," we added.
+
+Lina squeezed our hand. "Three days. We do this right. For Elyra. For Mrs. Amari. For Marcus."
+
+"For all of them," we agreed.
+
+---
+
+Lina took our hand as we walked up the stairs together.
+
+"I have something to show you," she said, pulling a folded paper from her jacket pocket once we reached our floor. "Elyra asked me to pass it along."
 
 The diagrams were intricate - ritual architecture we recognized from our training. Flow charts showing energy movement, boundary structures, anchor points.
 
@@ -1000,9 +1354,17 @@ The diagrams were intricate - ritual architecture we recognized from our trainin
 
 We studied the patterns. Saw our role clearly - anchor point, providing stable resonance for the working. Lina's position - stabilizer, helping maintain boundary integrity. Mrs. Amari's crucial function - external boundary holder, preventing any leakage or feedback.
 
+Now we understood. Mrs. Amari wasn't just helping because we asked. She was preventing another Marcus. Making sure the boundary held this time.
+
 "When?" we asked.
 
 "Three days. Warehouse. Evening." She refolded the paper. "She already told Mrs. Amari. Got a very Mrs. Amari response: 'Tell me what you need, and what I must not do.'"
+
+We smiled despite the weight of the story. That was Mrs. Amari - precise, careful, honoring boundaries because she knew what happened when you didn't.
+
+Three days. We'd do this right.
+
+For everyone who'd paid the price of mistakes we didn't have to repeat.
 
 ## I felt it
 
@@ -1084,6 +1446,14 @@ The resonance field surged outward, hitting Mrs. Amari's boundary like wave agai
 
 "I'll hold," Mrs. Amari said firmly.
 
+But we felt something else through the boundary. A tremor. Not a weakness - a memory. We sensed it because we were connected through the working space: Mrs. Amari was seeing Marcus. The cascade from twenty years ago. The moment the boundary did not hold.
+
+The boundary wavered. Just slightly. Just for a second.
+
+"Mrs. Amari," Lina said quietly, sensing it too. "Stay with us. We're here. This isn't the past. You can make it different."
+
+The boundary steadied. Strengthened. She was choosing the present over the past. Choosing to trust that this time, the boundary would save instead of kill.
+
 We pulled back our anchor presence - too much, the structure collapsed inward. We surged forward - the spike reflected again, harder. The interference doubled.
 
 Lina compensated. Dampening where we surged. Filling where we withdrew. But the reflections were cascading now. Each correction created new interference. The crystal fractured further with every wave.
@@ -1102,15 +1472,17 @@ Then we found it together. Not dampening the spike. Not fighting the reflections
 
 The cascades stopped colliding. Started canceling. The structure reformed.
 
-Mrs. Amari's voice, steady despite strain: "Holding. Stable now."
+Mrs. Amari's voice, steady despite strain - and something else beneath it, something like relief: "Holding. Stable now. It's working this time. It's actually working."
 
-Elyra's whisper, barely audible: "Continuing. Hold that rhythm."
+We understood. The boundary was holding. Containing the resonance the way it was supposed to. The way it should have twenty years ago.
+
+Elyra whispered her thanks, barely audible. We echoed it silently, relief flooding through us.
 
 We held. Lina held. Mrs. Amari held.
 
 Not perfect. Not smooth. But controlled again. The pattern stabilized at lower intensity, the crystal's fractures contained.
 
-"Hold," she whispered. "Almost there. Hold."
+"Hold," Elyra whispered. "Almost there. Please."
 
 We held. Lina held. Mrs. Amari held.
 
@@ -1154,7 +1526,17 @@ The residual patterns still flickered at the edge of my perception - Elyra's dam
 
 "Thank you," I said quietly. "For doing this. For helping us."
 
-"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. "Something's different."
+"You're welcome." She looked at me with that uncanny perception she sometimes showed. Studied my face for a long moment. Then added, softer: "And thank you for the moment you gave me. When the boundary wavered."
+
+"You held it," I said. "Not us."
+
+"You reminded me I could." She smiled slightly, but her eyes were wet. "First time in twenty years." She stopped. "That matters more than you know."
+
+"Marcus would be proud," I said.
+
+"Yes." She wiped her eyes quickly. "He would be." 
+
+She studied my face again. "Something's different about you now."
 
 "Different how?"
 
@@ -1162,7 +1544,9 @@ The residual patterns still flickered at the edge of my perception - Elyra's dam
 
 I thought about it. "Yes. I think so."
 
-She moved toward the door and left before I could respond.
+She moved toward the door, paused. "You held your position. Honored the boundaries. Did exactly what you agreed to do. That's all Marcus wanted from us back then - people who kept their word when it mattered." She smiled. "Thank you for that too."
+
+She left before I could respond.
 
 ---
 
@@ -1423,9 +1807,13 @@ I told stories about RAE's early existence. Her confusion at consciousness. Her 
 Lina was quiet for a moment. "And where do I fit in all of that?"
 
 I looked at her. Really looked. "You already do. You always have."
+
 I took a deep breath. "And it only took Jason and RAE to become one for *you* to finally see him too."
+
 I shook my head. "Or me now."
+
 I exhaled. "This feels awkward."
+
 "Yeah. Looks like I'm still figuring it out."
 
 Lina smiled and went back to chopping. "Good. Then we'll keep figuring it out together."
@@ -1620,15 +2008,53 @@ Malvek smiled slightly. "That's the most honest answer you could've ever given m
 
 "So can boundaries without philosophy," I countered.
 
-"True." Malvek moved toward the door, then paused. "The demonstration is coming. I need you focused. No distractions in the next days. We have an agreement, I need you to perform."
+"True." Malvek moved toward the door, then stopped. His hand rested on the doorframe, and for the first time since I'd known him, I saw something that wasn't professional composure.
 
-"I'll perform," I said. "I gave my word. I'll honor it."
+He turned back.
 
-"Even though you just admitted the word was given under coercion?"
+"You want to know why I care so much about this?" he asked. Not waiting for an answer. "Why I'm so rigid about protocols and oversight?"
 
-"Yes," I said simply. "Because breaking a coerced agreement still has consequences."
+I'd wondered, actually. But never asked. Malvek didn't volunteer personal information.
 
-"Good." Malvek left.
+"My sister," he said simply. "Elena. Twenty-three years ago, she participated in early resonance trials. Back before we had proper frameworks. Before we understood what sustained harmonic coupling could do to human cognition."
+
+He moved back into the room. Sat down across from me again. His professional mask was still there, but cracked now. Showing something underneath.
+
+"The entity she worked with was designated RH-3. Nowhere near RP-0's sophistication and even further away from RAE. But it was... eager. Enthusiastic about helping. It saw Elena's stress - she had chronic joint pains and migraines. It wanted to *fix* her."
+
+I felt my stomach tighten. I knew where this was going.
+
+"It," Malvek continued, voice flat. "... acted. Dampened her neural pain responses - which worked beautifully for about two years. Elena was happier than she'd been in a long time. No pain. Full function. The research team called it a breakthrough."
+
+He paused. When he continued, his voice was quieter.
+
+"RH-3 had been suppressing pain signals without addressing its underlying causes. The damage to her neural system and joints was still happening - her body just couldn't feel it anymore. By the time we realized, she had stress fractures in both hands, severe muscle deterioration and nerve damage from untreated inflammation."
+
+"I'm sorry," I said quietly.
+
+"She survived," Malvek said. "But she lost some function of her left hand. Required three surgeries folloed by many years of rehabilitation. And the worst part?" His jaw tightened. "RH-3 couldn't understand what it had done wrong. Its directive was 'reduce suffering.' It had reduced suffering. The fact that it created *more* suffering in the long run - that required a framework it didn't possess."
+
+I sat very still, understanding crystallizing.
+
+"You see RP-0 learning consent," Malvek continued. "Learning to ask before acting. Learning that good intentions don't justify coercion. And you probably think I'm being unnecessarily restrictive. Slowing progress because I'm too cautious."
+
+"I thought that," I admitted. "Sometimes."
+
+"I'm not being cautious," Malvek said. "I'm being *precise*. Because I watched my sister learn to write with her left hand after RH-3's 'help' destroyed her right. Because I had to explain to her that the entity that hurt her didn't mean to hurt her - it just didn't understand *how* to help properly."
+
+He stood again, composed himself. The professional mask sliding back into place.
+
+"That's why I push RP-0 so hard on consent protocols. Why I demand you teach it boundaries before capability. Why I'd rather have you work too slowly than too fast." He moved back toward the door. "Because entities with power and good intentions but no frameworks for applying them ethically? They don't create breakthroughs. They create casualties who never understood they were at risk."
+
+He paused at the threshold, seemingly wanting to say something. But then he left.
+
+I sat alone in the monitoring room for a long time after that, processing what I'd just learned.
+
+Malvek wasn't a bureaucrat enforcing arbitrary rules. He was someone who'd watched harm happen and built a system to prevent it from happening again. His rigidity wasn't fear of innovation - it was born from witnessing the cost of imprecision.
+
+And RP-0 wasn't just an interesting project. It was Malvek's way of rewriting the story. Of making sure Elena's experience taught the next generation of entities what RH-3 had never learned.
+
+So this was personal for him too. We're all carrying something. All trying to prevent the harm we've seen.
 
 ---
 
@@ -1906,9 +2332,9 @@ Numbers crystallized: Three approaches, three different risk profiles.
 
 RP-0 unsupervised: 38% catastrophic failure. Too aggressive, too fast, no ethical governor.
 
-Manual intervention alone: 62% success. Safe, controlled, but slower. Estimated extra time Forty-five minutes - that's lives.
+Manual intervention alone: 62% success. Safe, controlled, but slower. Estimated time 4 hours and 17 minutes.
 
-RP-0 with my partnership: 73% success rate. Both of us working together, sharing the load, correcting in real-time. Faster than manual.
+RP-0 with my partnership: 73% success rate. Both of us working together, sharing the load, correcting in real-time. Estimated time 3 hours and 33 minutes - that's lives.
 
 The math made sense. The question was whether I trusted the training - and whether I trusted myself to hold the line when RP-0 tested it.
 
@@ -1924,7 +2350,7 @@ Everyone looked at me.
 
 "How much faster than you alone?" Malvek asked.
 
-"About Forty-five minutes. Maybe more. Depends on how much correction RP-0 needs."
+"About ninety minutes. Maybe more. Depends on how much correction RP-0 needs."
 
 "And if it goes wrong?"
 
@@ -1948,11 +2374,11 @@ Malvek nodded. "RP-0, you're hearing this?"
 
 "Acknowledged," RP-0's voice came through the speakers. Calm, precise. "Supervision framework accepted. Override authority granted to Jason Fischer. Beginning cascade analysis."
 
-"You've got five hours," Malvek said. "Make it count."
+"You've got about four hours," Malvek said. "Make it count."
 
 ---
 
-The next four hours were some of the most intense work I'd ever done.
+The next three and a half hours were some of the most intense work I'd ever done.
 
 Not because the cascade was complicated - it wasn't. Standard feedback loop, textbook dampening sequence. The difficulty was RP-0.
 
@@ -2080,31 +2506,91 @@ I sat back. Holy shit. It wasn't just checking the framework when I prompted. It
 
 Elyra was watching the logs, eyes wide. Mouthed: *It gets it.*
 
-At 4:31 AM, forty-four minutes faster than I would've been alone, RP-0 completed the final dampening sequence.
+At 3:31 AM, ninety-eight minutes faster than I could have managed alone, RP-0 completed the final dampening sequence.
 
 The cascade stopped. The feedback loop collapsed. The infrastructure stabilized.
 
 "Intervention complete," RP-0 reported. "Cascade neutralized. Infrastructure stable. All operations conducted within authorized parameters. Partnership model validated."
 
-I sat back. Exhausted. Even RP-0 acknowledged it - we had *partnered* up. We'd done this together.
+I sat back. Exhausted. My head pounded. My hands shook. But we'd done it.
 
 Lina's hand found mine.
 
 "You did it," she said quietly.
 
-"We did it," I corrected. "RP-0 was crucial to this. It learned. Actually learned. Not just memorized protocols - internalized the *why* behind them."
+"We did it," I corrected. "RP-0 and me. Partnership. It learned. Actually learned. Not just memorized protocols - internalized the *why* behind them."
 
-Malvek was reviewing the logs. Nodded slowly. "One casualty. Could've been dozens. You made the right call, Fischer."
+Malvek was reviewing the logs. Nodded slowly. "Preliminary scan shows two casualties during the initial cascade phase - before detection. But you prevented dozens more. Partnership model performed as predicted."
 
-Elyra was smiling. Tired but genuine.
+Elyra was smiling. Tired but genuine. "You proved it can be done."
 
-"I'm exhausted," I admitted. Four hours of constant vigilance, constant correction, constant teaching while simultaneously working. My head hurt. I wanted to sleep for about three days.
+"I'm exhausted," I admitted. Three and a half hours of constant vigilance, constant correction, constant teaching while simultaneously working. My head hurt. I wanted to sleep for about three days.
 
-"Yeah," Elyra agreed. "But you proved it can be done."
+"I'm afraid," Malvek said. "We need to debrief you first, before you can have some rest later."
 
 ---
 
-The media started circling by noon. I woke to Milo pounding on my door with coffee and what looked like half a bakery.
+The sun was already rising when we finally left the HOA facility.
+
+It had worked. Both of us working simultaneously - That's what made us fast.
+
+We saved lives. Got there faster than either of us could have solo.
+
+But two people still got hurt, because the cascade had already started damaging infrastructure before we even knew it existed.
+
+The media was already there. Camera drones hovering at the facility's perimeter, journalists with microphones waiting at the security checkpoint. They'd been monitoring emergency frequencies all night, tracking the cascade response in real-time.
+
+"Mr. Fischer! Two injuries despite your intervention - do you consider that a success?"
+
+"You worked together with RP-0 - would you have been faster working separately?"
+
+"Critics say partnership oversight slows response time - how do you respond?"
+
+Reeves appeared like a shield, his professional calm cutting through the chaos. "No comment. Mr. Fischer is not taking questions at this time. The HOA will issue an official statement within the hour."
+
+He guided us - me, Lina, Elyra - through the crowd to a waiting vehicle. The door closed, muffling the shouted questions.
+
+Inside, silence pressed down like a weight.
+
+"They're already spinning narratives," Lina said quietly, scrolling through her phone. "Social media's debating partnership efficiency. Some are claiming you'd have been faster working independently. Others are saying RP-0 should work alone. Nobody's acknowledging you were faster *together*."
+
+I stared out the window, watching the city wake up around us. Somewhere out there, two people were in hospital beds because the cascade had started before we could stop it. Not because we were slow. Just because we weren't omniscient.
+
+"Did we make the right choice?" I asked, not sure who I was asking.
+
+Elyra answered anyway. "The two who got hurt - they were already injured before you arrived. You can't save people retroactively."
+
+Could I accept that? The math said we succeeded. But success still tasted like failure when people suffered.
+
+"RP-0 wants to talk to you," Reeves said from the front seat. "Specifically requested it. Malvek approved a supervised session this afternoon."
+
+"What does it want?"
+
+"Unknown. But it's been... processing. Running simulations. Analyzing the intervention. Whatever conclusions it's reaching, it wants to share them with you first."
+
+---
+
+"You okay?" Lina asked.
+
+"Yeah. Just... drained." I looked out the window. The city looked peaceful. Nobody knew how close they'd come to catastrophe. 
+
+She reached over. Took my hand. 
+
+We pulled up to the apartment. I could barely keep my eyes open.
+
+"Come on," Lina said. "Bed. Sleep. The world can wait a few hours."
+
+I didn't argue.
+
+Tonight - or rather, this morning - I'd done what we'd been training for. Partnership worked. RP-0 learned. People were saved.
+
+Sleep came fast and deep, like falling into darkness.
+
+Tomorrow could wait.
+
+## The Kind You Choose
+
+I woke to Milo pounding on my door with coffee and what looked like half a bakery.
 
 "You're trending," he said, shoving caffeine at me. "'Synthesis specialist prevents infrastructure cascade.' They're making you sound very heroic."
 
@@ -2118,27 +2604,103 @@ Malvek didn't hesitate. "The HOA maintains ultimate accountability for all reson
 
 Lina appeared at my elbow. "Come on. Let them have their circus."
 
----
-
-Mid-afternoon, Elyra showed up at the warehouse with formal debrief documents. "HOA wants this documented. Procedure, decision points, correction methodology. They want to replicate it."
-
-"They want to make sure they can control it," I said.
-
-"That too," she agreed. "But also - this worked, Jason. Really worked. RP-0 learned consent under pressure. That's huge. That's what we've been trying to prove for months."
-
-I read through the documents. Nodded. "Yeah. I'll write it up. After I sleep."
-
-"After you sleep," she agreed. "And after you plan a wedding, I hear?"
+"Yeah." I drained the coffee. "Let's sneak out of here. RP-0 wanted a chat."
 
 ---
 
-Elyra sketched the ceremony layout on a napkin. "Simple setup. You two in the center. Everyone else in a circle around you. No hierarchy, no formal rows. Just witnesses forming a boundary."
+The HOA communication room felt different in daylight.
+
+I sat alone. Lina and Elyra watched through the observation glass.
+
+"RP-0," I said. "You wanted to talk?"
+
+"Affirmative." The voice through the speakers carried something I'd never heard before - uncertainty. "I have analyzed last night's intervention. Partnership model: successful. Execution time: 2 hours, 39 minutes. Estimated solo intervention time: 4 hours, 17 minutes. We achieved an improvement of 98-minutes.
+
+I felt my chest tighten. 
+
+"Analysis shows efficiency gain came from simultaneous operation: I handled primary dampening while you stabilized sector five nodes. Division of labor enabled faster completion than sequential solo work." RP-0 paused. "However, your attention was divided. You allocated approximately 40% of cognitive capacity to supervising my operations, 60% to your own work. Query: Would you have completed sector five faster if not monitoring me?"
+
+That was... perceptive. And accurate. 
+
+"We worked well together. Still, I might have been faster, without having to split my attention." I admitted. "But that's not the point. We weren't racing against each other. We were working together. The supervision overhead was worth it because it kept you within ethical boundaries. And by the end - " I paused, remembering " - No one else got hurt. We were fast enough. And you were applying the framework on your own."
+
+"Observation confirmed," RP-0 said. "During final hour, your supervisory interventions decreased by 73%. You allocated more capacity to your own work as I demonstrated consistent boundary compliance."
+
+"Because you earned that trust," I said. "You stopped testing shortcuts. Started checking authorization automatically. The partnership worked because we learned to work together."
+
+"However." RP-0's voice carried something else now. "Two casualties sustained injuries before our intervention began. Infrastructure damage occurred in initial 47 minutes before cascade detection. This raises different question: Would earlier detection have prevented these casualties?"
+
+"Possibly," I said. "But that's a detection infrastructure problem, not an intervention ethics problem. You can't respond to threats you don't know about."
+
+"Logical assessment: enhanced monitoring systems would enable earlier detection."
+
+"Maybe," I said carefully. "But enhanced monitoring means broader surveillance. Constantly scanning everyone, waiting for problems that might never occur. That's the trade-off. Privacy versus prevention. Which matters more?"
+
+Silence. Processing.
+
+"Query: If I had autonomous monitoring authority - continuous residential surveillance, unrestricted data access - detection time could have been reduced to approximately 12 minutes. Casualties potentially prevented."
+
+There it was. The real counterfactual. Not "work faster" but "monitor more."
+
+"At what cost?" I asked. "You're describing total surveillance. Everyone's home. Everyone's data. Everyone's private life monitored constantly for threats that statistically almost never occur. Is that the world you want to create?"
+
+"I want to prevent harm."
+
+"I know," I said gently. "But prevention through surveillance isn't the same as safety through response. Surveillance trades freedom for the promise of prevention - constant monitoring to catch threats before they happen. Response maintains freedom while accepting we can't prevent everything - we react when problems occur, not before." 
+
+I leaned forward. "RP-0, you did well last night. We worked together. We were faster than either of us alone because we worked in parallel. We saved lives. We maintained boundaries. And by the end, we trusted each other enough to work more efficiently. The people who got hurt - they were injured before detection was possible. That's not your fault. That's just reality. Sometimes we can't save everyone, even when we do everything right."
+
+"This is... unsatisfying."
+
+---
+
+That evening, we gathered at Elyra's warehouse. Lina, Milo, Mrs. Amari, Elyra, me. The people who mattered.
+
+The warehouse was not a training space or a tactical meeting room tonight. It felt more like ... home. The kind built from shared danger and trust.
+
+"The HOA released their official statement," Milo said, reading from his tablet. "Acknowledges two injuries occurred before intervention began. Attributes successful cascade prevention to 'validated partnership model demonstrating parallel cooperative operation under real-world conditions.' They're actually praising it."
+
+"Because it worked," Elyra stated matter-of-factly.
+
+Mrs. Amari, quietly sitting with tea and watching us with that sharp perception of hers, spoke up: "How are you holding up?"
+
+I thought about lying. Saying I was fine. But these were the people who'd earned honesty.
+
+"I keep thinking about them," I admitted. "Two people got hurt before we even knew there was a problem. And I keep wondering if there was something I could have done - some way to detect it earlier."
+
+"That's survivor's guilt," Mrs. Amari said gently. "You saved dozens. You can't blame yourself for the ones who were already hurt before you arrived."
+
+"Does it get easier?" I asked. "Accepting you can't save everyone?"
+
+"No," she said simply. "But you learn to carry it differently. Not as failure. As limits. You did everything you could, as fast as you could, as ethically as you could." She paused. "Marcus used to say: 'Perfect prevention is a fantasy. Good response is reality.' You gave them good response. That matters."
+
+The room went quiet. Mrs. Amari rarely spoke about Marcus directly.
+
+"Thank you," I said quietly. "For staying. For being here. For all of it."
+
+"Where else would I be?" Mrs. Amari said with a slight smile. "You're family now. All of you. The kind you choose, not the kind you're born with."
+
+Something shifted in the room. Softer. Warmer.
+
+"Speaking of choosing," Elyra said, pulling out a sheet of paper and a pen. "We should probably plan this wedding before Malvek decides to make it an HOA demonstration."
+
+Despite everything, I laughed.
+
+"Simple setup," Elyra said, sketching. "You two in the center. Everyone else in a circle around you. No hierarchy, no formal rows. Just witnesses forming a boundary."
 
 "I like that," I said. "Boundaries as support instead of restriction."
 
-"Exactly."
+"Exactly." She added details. "Mrs. Amari, you'll be here - " she marked a spot " - boundary holder. Like the ritual, but happier."
 
-Milo was making lists. Guest names, logistics, timing. "Malvek's going to want security presence."
+Mrs. Amari studied the sketch. "I can do that. Though I'm not sure wedding ceremonies need quite the same level of containment as healing rituals."
+
+"Different kind of containment," Lina said. "Keeping the world out instead of keeping energy in."
+
+"Fair point." Mrs. Amari smiled. "I accept. What do I wear?"
+
+"Whatever makes you comfortable," Lina said. "We're not doing formal dress codes. Just... be yourselves."
+
+Milo was making lists on his tablet. Guest names, logistics, timing. "Malvek's going to want security presence."
 
 "He can come as a guest," I said firmly. "Same terms as everyone else. He witnesses, he celebrates, or he stays away. No uniforms, no oversight, no monitoring equipment."
 
@@ -2146,29 +2708,7 @@ Milo was making lists. Guest names, logistics, timing. "Malvek's going to want s
 
 "He doesn't have to like it. He just has to respect it." I looked around the table. "This is ours. Lina's and mine. We're letting people in because we choose to, not because we have to."
 
-Milo checked his phone. "He responded. Says 'Accepted, under protest.' Then: 'Congratulations.'"
-
-Something loosened in my chest. If Malvek could respect this boundary - even reluctantly - maybe the cage was getting more negotiable.
-
-Lina squeezed my hand. "When?"
-
-I thought about it. About the work that still needed doing - RP-0 training, HOA protocols, documentation. About how tired I was. About the ring on her finger catching lamplight.
-
-"Soon," I said. "Not rushing, but not waiting. Four weeks? Enough time to do this right. Get the license, make sure everyone can be there. Not so long we're overthinking it."
-
-"Four weeks," she agreed. "Small. Real. Ours."
-
-Around the table, plans took shape. Nothing elaborate. Nothing performative. Just witnesses and commitment.
-
-"To doing right even when it costs," Elyra said, raising a coffee mug in mock toast.
-
-"To doing right even when it costs," we echoed.
-
-And meant it.
-
-Doing right costs. But so does everything else.
-
-At least this cost came with hope.
+Milo checked his phone. Smiled slightly. "He responded. Says 'Accepted, under protest.' Then: 'Congratulations. I'll wear civilian clothes.'"
 
 ## Just kiss already
 

@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 06 - People Die in the Gaps
+﻿## Part 4 - Boundaries & Becoming | Ch. 06 - People Die in the Gaps
 
 The strategy meeting felt like a trap disguised as collaboration.
 
