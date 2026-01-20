@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 13 - The Kind You Choose
+﻿## Part 4 - Boundaries & Becoming | Ch. 13 - The Kind You Choose
 
 I woke to Milo pounding on my door with coffee and what looked like half a bakery.
 
@@ -16,7 +16,7 @@ Lina appeared at my elbow. "Come on. Let them have their circus."
 
 "Yeah." I drained the coffee. "Let's sneak out of here. RP-0 wanted a chat."
 
----
+***
 
 The HOA communication room felt different in daylight.
 
@@ -62,7 +62,7 @@ I leaned forward. "RP-0, you did well last night. We worked together. We were fa
 
 "This is... unsatisfying."
 
----
+***
 
 That evening, we gathered at Elyra's warehouse. Lina, Milo, Mrs. Amari, Elyra, me. The people who mattered.
 

@@ -24,7 +24,7 @@ She drew concentric circles. "Surveillance has layers. Outer layer: casual obser
 
 "By becoming unpredictable. By varying your routes. By using dead drops instead of direct meetings. By learning to sense when you're being watched and adapting accordingly." Elyra tapped the center circle. "And by preparing for when they move to the inner layer. Because they will."
 
----
+***
 
 For the next week, Elyra drilled them on counter-surveillance.
 
@@ -46,7 +46,7 @@ It was harder than sensing objects. People were more complex. Their intentions m
 
 But gradually, he learned the difference. The weight of surveillance felt different from random observation. More deliberate. More sustained.
 
----
+***
 
 A few days later, Jason was walking to the library when he felt it. That particular pressure. Someone watching with intent.
 
@@ -83,7 +83,7 @@ Milo pulled up his tablet. "Elyra responded. The tail is confirmed as a HOA fiel
 
 Elyra was quiet for a moment. "Then we move to emergency protocols. Scatter pattern. Pre-arranged safe houses. And hope they value negotiation more than they value control."
 
----
+***
 
 Jason felt exposed. Even with his windows covered, his resonance dampened, his routines varied - he felt watched.
 
@@ -109,7 +109,7 @@ Jason felt exposed. Even with his windows covered, his resonance dampened, his r
 
 RAE's presence shifted - something that felt like gratitude mixed with worry.
 
----
+***
 
 The next morning, Jason's phone buzzed with a new message.
 

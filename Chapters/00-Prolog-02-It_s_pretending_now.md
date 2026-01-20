@@ -12,7 +12,7 @@ Marla's hand froze mid-gesture as the interference spiral on the projection wall
 
 Marla didn't turn. "Thirty seconds. Maybe less." Her fingers moved across the haptic interface, pulling up layer diagnostics. "This is the third reversal in ten minutes."
 
----
+***
 
 "Pattern drift every thirteen hours," Marla said, finally stepping back from the display. "That's not just instability. That's emergence."
 
@@ -28,7 +28,7 @@ Elyra's hand tightened on her cane. "Marla."
 
 The entity was testing.
 
----
+***
 
 Elyra moved forward, her cane tapping a steady rhythm against the polished floor. "You're betting on containment geometry and cross-layer dampening you developed five years ago."
 

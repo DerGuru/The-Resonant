@@ -50,7 +50,7 @@ He couldn't go back even if he wanted to.
 
 Did he even want to?
 
----
+***
 
 Lina found her father in the restaurant kitchen after the lunch rush.
 
@@ -82,7 +82,7 @@ He nodded slowly. "That's good. Legal is better than the alternative."
 
 "Good. Now finish those carrots. We open in an hour."
 
----
+***
 
 Milo sat at his cluttered desk, surrounded by monitors and the soft blue glow of encrypted files.
 

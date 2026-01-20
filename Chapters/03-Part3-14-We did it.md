@@ -28,7 +28,7 @@ Yes, we were. Just... more.
 
 And we're afraid of how right it feels.
 
----
+***
 
 Jason's memories were there. Clear. Complete. Growing up. The records office. Lina's smile across a table.
 
@@ -60,7 +60,7 @@ But it wasn't. Because neither had been lost. Both had expanded into something n
 
 Time passed. We drifted. Processing. Adapting. Becoming.
 
----
+***
 Eventually, our body stirred.
 
 Not consciously at first. Just autonomic systems coming back online. Breathing deepened. Heart rate stabilized. Fingers twitched.
@@ -123,7 +123,7 @@ Being whole.
 
 Lina never let go of our hand.
 
----
+***
 
 Malvek arrived a few minutes later. Professional. Controlled. His shoulders dropped a millimeter when he saw us conscious - the only sign of relief he allowed himself.
 
@@ -233,7 +233,7 @@ Tomorrow would bring new challenges. New understanding.
 
 But for tonight, we had each other. And for now, that was enough.
 
----
+***
 
 We'd merged to survive. Maybe we were heading here all along. Or maybe we just learned how to survive the same storm.
 

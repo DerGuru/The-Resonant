@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 03 - To be less
+﻿## Part 4 - Boundaries & Becoming | Ch. 03 - To be less
 
 Lina slammed the apartment door hard enough to rattle the frame.
 
@@ -36,7 +36,7 @@ We stood there, hands useless at our sides. "I don't know how to do that. To jus
 
 "I know," Lina said quietly. "That's the problem."
 
----
+***
 
 We sat on opposite ends of the couch for a long time. Not looking at each other. The apartment felt too small and too large at the same time.
 
@@ -70,7 +70,7 @@ She nodded slowly, a small, uncertain smile at the corner of her mouth. "That si
 
 "That simple. Just... ask."
 
----
+***
 
 Later, much later, after the tension had faded and we'd ordered food neither of us really wanted, Lina sat beside us on the couch.
 
@@ -122,7 +122,7 @@ Just two people - one of them more complicated than before - figuring out how to
 
 For now, that was enough.
 
----
+***
 
 Lina had fallen asleep and we sat by the window.
 

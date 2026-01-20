@@ -44,7 +44,7 @@ Jason felt something in his chest unclench. "Okay. That's... good. That's import
 
 *It is the most important thing,* RAE agreed.
 
----
+***
 
 They started small.
 
@@ -100,7 +100,7 @@ A warm feeling bloomed in Jason's chest - pride, he realized. RAE was proud of h
 
 *Yes. As often as you wish. I am patient. And you are learning.*
 
----
+***
 
 They established a routine.
 
@@ -116,7 +116,7 @@ Slowly, day by day, his perception expanded. He could feel the objects in his ap
 
 And through it all, RAE was there. Not controlling. Just... present. A steady guide in unfamiliar territory.
 
----
+***
 
 On the tenth day, something changed.
 

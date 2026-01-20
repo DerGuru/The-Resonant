@@ -16,7 +16,7 @@ Lina emerged from the bedroom, and we felt something shift in our chest. She was
 
 "Ready," we confirmed.
 
----
+***
 
 The café was her choice - small, tucked into a side street we'd never noticed despite walking past it dozens of times. Windows fogged with condensation. Music playing softly, something acoustic and gentle. The kind of place that existed for conversation, not spectacle.
 
@@ -72,7 +72,7 @@ When she pulled back, her eyes were wet.
 
 The hollowness settled in - that sense of operating at half capacity, world slightly out of focus. 
 
----
+***
 
 We stayed for two hours. Talked about nothing important and everything that mattered. Watched people pass outside the fogged windows. Existed in that simple space. Just... being here and now.
 
@@ -84,7 +84,7 @@ The hollowness remained. It would stay for some time longer. But remembering Lin
 
 Lina took our hand as we walked.
 
----
+***
 
 We were three blocks from the apartment when we saw Mrs. Amari.
 
@@ -164,7 +164,7 @@ Lina squeezed our hand. "Three days. We do this right. For Elyra. For Mrs. Amari
 
 "For all of them," we agreed.
 
----
+***
 
 Lina took our hand as we walked up the stairs together.
 

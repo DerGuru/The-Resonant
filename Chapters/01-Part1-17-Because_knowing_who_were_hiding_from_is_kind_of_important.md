@@ -22,7 +22,7 @@ Lina was waiting in the building's entrance, arms crossed. Her dark eyes scanned
 
 "I figured. When you text me 'can we talk tomorrow, it's important,' and then there's a weaponized storm..." She gestured toward the street. "Walk with me. You can tell me everything."
 
----
+***
 
 They walked through the park, past the empty playground, along the river path where joggers passed like clockwork. The morning air was cool enough to make Jason pull his jacket tighter. The streets had the scrubbed-clean quality of post-storm, puddles reflecting sky in fragments.
 
@@ -72,7 +72,7 @@ Lina drummed her fingers against her leg again. "Okay. Library. Noon. I meet thi
 
 "Deal."
 
----
+***
 
 The library's third floor reading room was quiet at noon on a Sunday. Milo was already there, sitting at a corner table with his laptop open and a complex web diagram on the screen.
 
@@ -170,7 +170,7 @@ Milo took the phone, zoomed in on the screenshot. "That's a decent lead. I can w
 
 Jason smiled despite himself. "Wouldn't dream of it."
 
----
+***
 
 They split after the meeting. Milo headed off to start his research, muttering about database cross-references and archive access codes.
 
@@ -180,7 +180,7 @@ They split after the meeting. Milo headed off to start his research, muttering a
 
 "You're not. Come on." She steered him toward the street. "Dad's restaurant. I'll make you something that isn't library coffee and concern."
 
----
+***
 
 The restaurant was quiet in the afternoon lull. Mr. Morandi was in the back, the clatter of prep work a comfortable rhythm. He called out a greeting when they entered - warm, familiar, the kind of welcome that assumed Jason would be there.
 
@@ -238,7 +238,7 @@ Jason finished his meal, feeling some of the tension ease from his shoulders. Li
 
 "Wouldn't dream of asking you to."
 
----
+***
 
 After Lina left for her shift, Jason walked. Through the park, past the empty playground, along the river path where joggers passed like clockwork.
 

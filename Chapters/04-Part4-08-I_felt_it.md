@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 08 - I felt it
+﻿## Part 4 - Boundaries & Becoming | Ch. 08 - I felt it
 
 We almost could not recognize the warehouse after its transformation. Not into something mystical or esoteric - Elyra had been very clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
 
@@ -128,7 +128,7 @@ The crystal went dark. The field dispersed. The boundary dissolved.
 
 Elyra sagged forward, exhausted beyond measure, but I caught her before she hit the floor.
 
----
+***
 
 "Did it work?" Milo asked, equipment still recording.
 
@@ -180,7 +180,7 @@ She moved toward the door, paused. "You held your position. Honored the boundari
 
 She left before I could respond.
 
----
+***
 
 Later, after everything was cleaned up, after Elyra had rested, after Milo had documented everything, Lina and I walked home.
 
@@ -208,7 +208,7 @@ And then something settled. I realized why Mrs. Amari had said what she did. I s
 
 "I'm not really sure yet," I admitted.
 
----
+***
 
 That night, lying in bed with Lina beside me, I felt something I hadn't felt in weeks:
 

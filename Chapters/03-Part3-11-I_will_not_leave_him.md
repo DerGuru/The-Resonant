@@ -8,7 +8,7 @@ Tomorrow, Jason and RAE would face RP-0. And despite the dangers, still had agre
 
 She got up. Pulled on clothes. Left her apartment.
 
----
+***
 
 The warehouse was dark when she arrived, but not empty. Light showed under the door to the practice space.
 
@@ -96,7 +96,7 @@ Lina felt something harden in her chest. A decision crystallizing. "I will not l
 
 The warehouse went quiet except for the scratch of chalk on concrete.
 
----
+***
 
 The door to the warehouse opened. Milo stepped in, looking tired but determined.
 

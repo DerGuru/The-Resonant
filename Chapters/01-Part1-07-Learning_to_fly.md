@@ -50,7 +50,7 @@ Jason smiled, but didn't press further. He never did. She was the one thing he d
 
 And maybe, deep down, he already knew it wouldn't change anything.
 
----
+***
 
 Lina tapped her fingers on the table, a three-beat rhythm he'd learned to recognize as her thinking pattern. Then she looked at him sideways, her gaze assessing. "You're quieter than usual."
 
@@ -128,7 +128,7 @@ Lina didn't look convinced, but she didn't push. "Okay. But if you need to talk.
 
 She nodded, satisfied. "Good."
 
----
+***
 
 Outside, the air had turned properly cold. Jason pulled his coat tighter and started the walk home, his breath fogging in the streetlight.
 

@@ -80,7 +80,7 @@ And if there weren't - if this truly was an unregistered practitioner operating 
 
 Dorian made a note to accelerate the inquiry. Unregistered practice wasn't just a violation of protocol. It was a systemic failure that demanded correction.
 
----
+***
 
 Jason stared at his phone, watching the grainy footage for what felt like the hundredth time. The scaffold shuddering, steadying, holding just long enough for the children to escape before collapsing in a cloud of dust and twisted metal.
 
@@ -166,7 +166,7 @@ Jason closed his eyes, feeling the weight of his own visibility. He'd been uncon
 
 "We'll figure it out together," Lina said. "Like everything else."
 
----
+***
 
 They spent the next two hours brainstorming and building a framework.
 
@@ -256,7 +256,7 @@ Catherine Vance answered on the second ring. "Mr. Chen, thank you for calling ba
 
 "That's right. Just a few questions for our incident report. Nothing to worry about."
 
----
+***
 
 Twenty minutes later, Jason ended the call and let out a breath he felt like he'd been holding the entire time.
 

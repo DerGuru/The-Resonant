@@ -30,7 +30,7 @@ Elyra studied him for a long moment, then nodded. "All right. But understand: th
 
 She activated the circle.
 
----
+***
 
 The world *shifted*.
 

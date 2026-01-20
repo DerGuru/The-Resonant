@@ -7,7 +7,7 @@ Three vehicles. Twelve personnel. Black tactical gear.
 
 Cars moved in silently through the pre-dawn streets. Parked just outside the Meridian Hotel.
 
----
+***
 
 Milo's tablet blinked. Alert notification.
 
@@ -29,7 +29,7 @@ Jason pulled on his shirt. Jeans. His hands steady.
 
 Milo checked the feed. "10 minutes. Maybe less."
 
----
+***
 
 Team Leader Reeves stepped into the hotel lobby. Showed credentials to the night clerk. Professional. Polite.
 
@@ -49,7 +49,7 @@ Reeves knew how this looked. Knew what the clerk was thinking.
 
 But orders were orders. And Fischer needed to be contained before he became a bigger problem.
 
----
+***
 
 Jason laced his shoes. "Lina?"
 
@@ -63,7 +63,7 @@ Jason opened it. Lina stood there, already dressed. Hair damp.
 
 "Entering the stairwell. Milo, hurry up," Jason said, not looking up from the tablet.
 
----
+***
 
 Third floor. Reeves's team reached the corridor. No sound. No movement.
 
@@ -85,7 +85,7 @@ He lowered his weapon. Felt his jaw tighten.
 
 Gone.
 
----
+***
 
 
 "Should we go?" Lina asked.
@@ -102,7 +102,7 @@ The hotel was waking up. Business travelers. Morning shift workers. Anonymous fa
 
 Perfect.
 
----
+***
 
 "316?" Reeves said into his radio.
 
@@ -113,7 +113,7 @@ Perfect.
 "Also empty. No signs of occupation."
 
 
----
+***
 
 Jason leaned over Milo's shoulder. he watched the feed, while they were walking. 
 
@@ -131,7 +131,7 @@ Finding nothing.
 
 "Eighteen hours," Milo said. "Yesterday afternoon. They're a day late."
 
----
+***
 
 Frustration gnawed at Reeves.
 
@@ -166,7 +166,7 @@ Silence. Then: "Do you still have Fischer's number?"
 
 "Text him. Set up a meeting. Public space. Tomorrow. Noon. Let's see if they're serious."
 
----
+***
 
 The breakfast area was cheap. Anonymous. Crowded with morning workers.
 
@@ -212,7 +212,7 @@ Jason typed: **Agreed. Noon. No Tricks. Just talk.**
 
 The response came within seconds: **Just talk.**
 
----
+***
 
 On Milo's tablet, Reeves was leaving the hotel. His team loading into vehicles. Driving away.
 

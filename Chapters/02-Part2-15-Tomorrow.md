@@ -75,7 +75,7 @@ But they were rested. And they weren't alone.
 
 At eight PM, Elyra's text came through: *Warehouse*
 
----
+***
 
 They met one last time. Not to train. Just to stand together in that cold, empty space and acknowledge what was coming.
 
@@ -97,7 +97,7 @@ She walked toward the warehouse exit, then stopped.
 
 Then she was gone, leaving them alone in the warehouse one last time.
 
----
+***
 
 They sat in silence for a while. Somewhere, water dripped from a rusted pipe. 
 
@@ -121,7 +121,7 @@ Jason looked at the paper. A false name: Marcus Webb. District 7 was anonymous. 
 
 "Twenty minutes," Elyra repeated. "Then you disappear."
 
----
+***
 
 Jason's apartment felt different. Smaller. Like he was seeing it through glass.
 
@@ -147,7 +147,7 @@ Silent.
 
 He didn't look back.
 
----
+***
 
 The hotel was exactly what Elyra had promised. Anonymous. Cheap. The kind of place with flickering neon and a clerk who barely looked up when Jason paid cash.
 
@@ -171,7 +171,7 @@ Elyra appeared from a side hallway. "Rooms 314 and 316. Jason and Milo in 314. L
 
 She walked away. Her footsteps echoed in the stairwell.
 
----
+***
 
 The room smelled like old cigarettes and industrial cleaner. The carpet was stained. The window overlooked an alley. Not home. But safe. For now.
 

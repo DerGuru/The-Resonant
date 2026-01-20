@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 01 - You move differently
+﻿## Part 4 - Boundaries & Becoming | Ch. 01 - You move differently
 
 Morning light filtered through the apartment windows, softer than it should have been. We opened our eyes slowly, consciousness returning in layers - sensation first, then awareness, then thought.
 
@@ -28,7 +28,7 @@ We nodded again. That made sense. Our autonomic functions had optimized themselv
 
 We considered and raised our cup. "Coffee first. Then we'll cook something."
 
----
+***
 
 The kitchen felt smaller. Not emotionally - just factually. We'd never noticed before how compact the space was. 2.8 meters by 3.1 meters. The stove was 94.6 centimeters from the counter edge.
 
@@ -128,7 +128,7 @@ Even as we returned to helping with breakfast, we were analyzing the apartment's
 
 Not because we chose to, but because - like breathing - we couldn't simply stop. It was the hum of a refrigerator we couldn't turn off.
 
----
+***
 
 We spent the morning attempting normalcy.
 

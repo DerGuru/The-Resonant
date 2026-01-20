@@ -28,7 +28,7 @@ He hesitated, then handed over a crumpled ten to the seller, a man with a beard 
 
 "Progress."
 
----
+***
 
 They reached the far edge of the market, where booths gave way to a sagging chain-link fence and patches of weed-choked gravel. Jason leaned on the fence, arms draped across the top rail. The toaster box dangled from his hand, surprisingly heavy for something so small.
 
@@ -60,7 +60,7 @@ There was something in her voice. Something he couldn't quite identify. But befo
 
 "Come on. I'm starving."
 
----
+***
 
 They started walking again, slowly weaving back toward the main street. The crowd thickened near the food stalls - more smells, more voices, the pleasant chaos of people buying things they didn't need. Lina spotted someone selling homemade dumplings and insisted on grabbing a few. Jason followed without complaint.
 
@@ -102,7 +102,7 @@ Lina adjusted her scarf - a simple gray thing that had seen better days - and lo
 
 "Good call."
 
----
+***
 
 They walked a bit longer before parting ways at the corner. No hugs, no awkward goodbyes. Just a shared wave and a half-smile. The kind of understated farewell that comes from knowing you'll see each other again soon.
 

@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 10 - Decision made but unspoken
+﻿## Part 4 - Boundaries & Becoming | Ch. 10 - Decision made but unspoken
 
 I sat in the communication room, monitoring equipment surrounding me, Malvek watching through one-way glass. Regular session. Routine check-in.
 
@@ -82,7 +82,7 @@ He let that settle. Heavy. Undeniable. The silence stretched between us. I could
 
 "I don't have time to interrogate you further. Not today." Malvek said finally. "RP-0 is ready for the session. We'll continue this conversation another time."
 
----
+***
 
 I sat alone in the monitoring room for a moment, heart pounding. Then I heard the speakers crackle.
 
@@ -154,7 +154,7 @@ Long silence. RP-0 processing not just data but concepts that had no clean compu
 
 "Acknowledged. The question remains. I will continue analyzing this discrepancy between your teachings and your situation. Perhaps I will understand humans better by studying your compromises."
 
----
+***
 
 I saw Malvek enter the room when it was clear RP-0 had left our conversation.
 
@@ -232,7 +232,7 @@ And RP-0 wasn't just an interesting project. It was Malvek's way of rewriting th
 
 So this was personal for him too. We're all carrying something. All trying to prevent the harm we've seen.
 
----
+***
 
 That evening, walking home with Lina, I was quiet. Processing.
 

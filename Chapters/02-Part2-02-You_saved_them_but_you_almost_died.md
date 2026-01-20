@@ -14,7 +14,7 @@ By the end of the week, Jason could sense resonance patterns across an entire ci
 
 Then came Tuesday afternoon.
 
----
+***
 
 They'd been training since morning. Perception exercises, carrier connections, emotional filtering. By early evening, they were exhausted and hungry.
 
@@ -118,7 +118,7 @@ They were safe.
 
 And Jason was falling.
 
----
+***
 
 Consciousness returned in fragments.
 
@@ -194,7 +194,7 @@ She paused, her voice dropping lower. "And what you did - stabilizing a failing 
 
 "Tomorrow," Lina said firmly. "For now, you rest."
 
----
+***
 
 The nurse came in an hour later. Middle-aged, efficient, kind eyes.
 

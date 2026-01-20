@@ -60,7 +60,7 @@ Elyra read through the final list, lips moving slightly as she parsed each claus
 
 "I think he'll respect the effort. Whether he approves everything?" She tapped the tablet. "That depends on whether he wants partners or assets."
 
----
+***
 
 That night, Jason lay in his makeshift bed in the warehouse corner, staring at the ceiling.
 
@@ -84,7 +84,7 @@ Jason closed his eyes. *Okay. You're right. I'll sign.*
 
 He didn't sleep much. But he tried.
 
----
+***
 
 Morning brought unexpected news.
 
@@ -114,7 +114,7 @@ Elyra set down her tea. "It's both. Jason forced his hand, so Malvek's making it
 
 "That's exactly right," Elyra said. "This is your audition."
 
----
+***
 
 The remaining thirty hours blurred together.
 
@@ -138,7 +138,7 @@ They worked until midnight. Slept fitfully. Woke early and went through it once 
 
 By 1:30 PM, they were ready. Or as ready as they'd ever be.
 
----
+***
 
 The attorney's office smelled like old leather and expensive coffee.
 
@@ -286,7 +286,7 @@ He left. Reeves gathered his materials, paused at the door.
 
 Reeves nodded and left.
 
----
+***
 
 Outside, the afternoon sun felt too bright after the dim conference room.
 

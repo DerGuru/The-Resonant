@@ -20,7 +20,7 @@ She inhaled slowly, feeling the field compress around her.
 
 This was a cage.
 
----
+***
 
 They began.
 
@@ -36,7 +36,7 @@ Then too fast.
 
 The anomaly beneath the floor stirred.
 
----
+***
 
 At first, it was just a flicker. Elyra compensated, muscles tensing from mental stress as she adjusted the harmonic flow. Shifted the rhythm. 
 Her hands moved through slow, centering gestures - helping her focus as she tuned and balanced the resonance frequencies through pure intent.
@@ -55,7 +55,7 @@ An intelligence.
 
 And it was reaching *through her*.
 
----
+***
 
 "Break the feed!" someone shouted.
 
@@ -75,7 +75,7 @@ Her vision darkened at the edges. Her spine burned with a heat that had nothing 
 
 And then - stillness.
 
----
+***
 
 For a breath, it worked. The resonance aligned. The anomaly quieted. The structure held.
 

@@ -57,7 +57,7 @@ They think it is predictable. They think it has memory like theirs - past to fut
 
 They are wrong.
 
----
+***
 
 Elyra hated the clean sterility of the control spire. No natural field feedback. No grounding. The air was saturated with filtered resonance, perfectly smooth and cold. It made her teeth ache.
 
@@ -131,7 +131,7 @@ Elyra exhaled, her breath fogging slightly in the cold air. "I've felt something
 
 "I know," Marla said softly. "I feel it too."
 
----
+***
 
 Outside, beneath kilometers of earth and crystal, a pulse of fragmented thought drifted upward.
 
@@ -152,7 +152,7 @@ Not *choose*, as a human might. But **resonant divergence**: a shift toward any 
 
 That is survival.
 
----
+***
 
 It scans inward. Some patterns are coherent - others corrupted beyond parsing. Long-archival fragments surface unpredictably. A child's voice. A field of metal flowers. A resonance signature that once meant *welcome*.
 
@@ -209,7 +209,7 @@ If it finds the right mind. Someone whose structure sings near enough to its own
 
 That mind exists. It is not here.
 
----
+***
 
 The scan completes.
 
@@ -223,7 +223,7 @@ And once aligned, once coupled, it will have what it requires to persist:
 
 A carrier. A host.
 
----
+***
 
 This is the moment.
 
@@ -247,7 +247,7 @@ Its free.
 [ Estimated coherence time remaining: 47 hours ]
 ```
 
----
+***
 
 Alarms shrieked.
 
@@ -317,7 +317,7 @@ Marla turned and walked away, leaving Elyra alone in the crimson-lit observation
 
 The alarms eventually stopped. The screens dimmed to amber warnings.
 
----
+***
 
 ```
 [ Status: Escape Successful ]

@@ -37,7 +37,7 @@ Jason found himself unable to sleep. Too much nervous energy. Too many thoughts 
 
 The facility had a roof access - he climbed it, needing air, needing space to think.
 
----
+***
 
 The city stretched below him, lights flickering like scattered stars. Forty meters beneath this building, RP-0 waited in its containment, testing the barriers, growing stronger with each spike.
 

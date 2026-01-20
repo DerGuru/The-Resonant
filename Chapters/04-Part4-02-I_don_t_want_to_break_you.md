@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 02 - I don't want to break you
+﻿## Part 4 - Boundaries & Becoming | Ch. 02 - I don't want to break you
 
 The HOA facility looked the same. Glass and steel. Institutional authority made architecture. But walking toward it now felt different.
 
@@ -44,7 +44,7 @@ The guards left. Door closed. Locked. We heard the electromagnetic seal engage w
 
 "Agreed," we said.
 
----
+***
 
 Malvek arrived exactly at 10:00 AM. Reeves with him, tablet in hand, expression professionally neutral.
 
@@ -146,7 +146,7 @@ A web of choices, each with countless threads extending into unknowable futures.
 
 "Agreed," we said.
 
----
+***
 
 The tests were invasive in ways that had nothing to do with physical contact.
 
@@ -188,7 +188,7 @@ We extended our hand. He shook it - firm grip, professional, a contract sealed w
 
 "Three weeks, Mr. Fischer. Make it count."
 
----
+***
 
 Outside, the sun felt too bright. The air too thin. Freedom conditional and constrained.
 

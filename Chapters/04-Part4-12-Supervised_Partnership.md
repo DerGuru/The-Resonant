@@ -76,7 +76,7 @@ Malvek nodded. "RP-0, you're hearing this?"
 
 "You've got about four hours," Malvek said. "Make it count."
 
----
+***
 
 The next three and a half hours were some of the most intense work I'd ever done.
 
@@ -228,7 +228,7 @@ Elyra was smiling. Tired but genuine. "You proved it can be done."
 
 "I'm afraid," Malvek said. "We need to debrief you first, before you can have some rest later."
 
----
+***
 
 The sun was already rising when we finally left the HOA facility.
 
@@ -268,7 +268,7 @@ Could I accept that? The math said we succeeded. But success still tasted like f
 
 "Unknown. But it's been... processing. Running simulations. Analyzing the intervention. Whatever conclusions it's reaching, it wants to share them with you first."
 
----
+***
 
 "You okay?" Lina asked.
 

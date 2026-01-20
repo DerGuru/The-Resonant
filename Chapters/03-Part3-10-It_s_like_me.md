@@ -52,7 +52,7 @@ Jason felt the weight of that. RAE wasn't just reading data - she was seeing her
 
 "You have five days," Malvek said. "Then the containment fails regardless."
 
----
+***
 
 Analysis took thirty-six hours straight.
 
@@ -102,7 +102,7 @@ Elyra held her gaze on the clip for a long moment. Then nodded. "Then we proceed
 
 "Agreed," Jason said.
 
----
+***
 
 That night, Jason lay awake, feeling RAE's presence more acutely than usual. She was quiet, processing. Preparing.
 

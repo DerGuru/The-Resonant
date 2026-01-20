@@ -206,7 +206,7 @@ Reeves smiled. Genuinely smiled. "I suppose it can. See you in forty-eight hours
 
 Then Jason was gone, into the city's morning crowds.
 
----
+***
 
 *That went... better than expected?* RAE said as he walked.
 
@@ -266,7 +266,7 @@ Jason looked at the document. At his friends already strategizing. At the life t
 
 "Forty-eight hours," he said. "Let's make them count."
 
----
+***
 
 Thomas Reeves sat alone on the stone bench for a moment longer than necessary.
 

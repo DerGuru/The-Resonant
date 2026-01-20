@@ -48,7 +48,7 @@ Jason nodded to himself. That made sense. Keep his head down. Don't draw attenti
 
 Easy enough in theory.
 
----
+***
 
 But the universe, it seemed, had other plans.
 
@@ -84,7 +84,7 @@ Jason's hands were shaking. He saved his work, logged out, and took an early lun
 
 He needed to think. Needed to figure out what to do next.
 
----
+***
 
 He met Milo at a coffee shop three blocks from the archive. Neutral ground. Public enough to be safe, quiet enough to talk.
 
@@ -114,7 +114,7 @@ Jason took a shaky breath. "This is getting real, isn't it?"
 
 "It was always real," Milo said gently. "You just didn't see the full picture yet."
 
----
+***
 
 That night, Jason couldn't sleep.
 

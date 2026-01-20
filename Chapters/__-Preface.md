@@ -1,4 +1,4 @@
-## Preface: A New Kind of Collaboration
+﻿## Preface: A New Kind of Collaboration
 
 What am I really, when it comes to this book? Not quite an author - not in the traditional sense, at least. Most of the words you're about to read came from an AI, a large language model that served as my co-writer, translator, and tireless collaborator.
 
@@ -8,7 +8,7 @@ I had the vision. I built the world, designed the harmonic resonance system, sha
 
 This book is the result of collaboration between human vision and artificial capability - and it took three attempts to get it to the finish line.
 
----
+***
 
 ## The Journey: Three Attempts
 
@@ -44,7 +44,7 @@ It took most of Part One plus a bit of Part Two and condensed it. Reordered chap
 
 It was *much better*. I liked the result. Not exactly what I'd imagined at the start, but good in a way that brought my drive back. I wanted to read this story again - not as a creator struggling with craft, but as a reader eager to see what happens next.
 
----
+***
 
 ## What This Process Actually Looked Like
 
@@ -92,7 +92,7 @@ In practice, this usually ends after two or three more iterations. Sometimes it 
 
 The process sounds methodical written out like this. In reality, it was messy, iterative, often frustrating. But that frustration came from the same place as any writing frustration: the gap between the story in my head and the story on the page. The AI didn't eliminate that gap - it just gave me different tools to close it.
 
----
+***
 
 ## Hurdles to Overcome
 
@@ -106,7 +106,9 @@ The process sounds methodical written out like this. In reality, it was messy, i
 
 **Writing sections myself:** When AI couldn't capture what I wanted - specific tone, subtle character moment, complex emotional beat - I wrote it by hand.
 
----
+**“On-the-Nose”**: Instead of a subtle touch on-the-nose, the AI tended to go for a punch in the face — with a sledgehammer. I wanted readers to connect the dots themselves, so I often had to rein it back in to preserve subtlety and implication.
+
+***
 
 ## What It Felt Like
 
@@ -116,7 +118,7 @@ I'd be absorbed in the story, then something would jar me. Dialogue that didn't 
 
 It was an adventure. I experienced the story much like you will - except I had the chance to shape it, scene by scene, beat by beat, until it matched the slowly changing vision in my head.
 
----
+***
 
 ## Why This Matters
 
@@ -136,7 +138,7 @@ The AI let me say "yes" to better ideas, even late in the process. It let me ref
 
 Is it "real" writing? I think so. But you'll be the judge.
 
----
+***
 
 ## A Final Note
 

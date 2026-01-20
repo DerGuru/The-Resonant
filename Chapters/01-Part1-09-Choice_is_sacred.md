@@ -114,7 +114,7 @@ Curiosity.
 
 It - it felt more like a she - had said she'd chosen him. Not because he was powerful, but because he was open. Because he didn't break.
 
----
+***
 
 Hours later, Jason finally moved. His legs had gone numb from sitting, and he stood carefully, wincing at the pins and needles.
 

@@ -24,7 +24,7 @@ Alongside the POV changes, I wanted the tone to evolve. Throughout most of the b
 
 The first change was tedious but straightforward - going back through relevant chapters to adjust the pronouns. The second was harder: finding the right balance between intimacy and distance without losing readers in the process. The AI helped with both, making these late revisions far easier to implement than they would have been otherwise.
 
----
+***
 
 ## Bonus Chapter: The Original Draft of "To be less"
 
@@ -42,7 +42,7 @@ Second, it's fascinating to see how much the creative process matters. Same char
 
 Read the original. See what I mean. And perhaps you'll appreciate "To be less" even more for what it became.
 
----
+***
 
 ## Understanding Harmonic Resonance
 

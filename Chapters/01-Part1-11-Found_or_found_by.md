@@ -108,7 +108,7 @@ Jason nodded slowly. "So we need to be careful."
 
 *Very careful. But also... it is good to know others are asking questions. Even if we cannot trust them yet.*
 
----
+***
 
 Two days later, Jason was scrolling through his usual forums when he noticed a new post in one of the threads he'd been following.
 

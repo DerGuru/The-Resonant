@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 11 - My calendar - but not my vows
+﻿## Part 4 - Boundaries & Becoming | Ch. 11 - My calendar - but not my vows
 
 Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA officials. Approved media representatives with cameras and recording equipment. All here to watch me prove that synthesis could be safe - or fail spectacularly.
 
@@ -20,7 +20,7 @@ The resonogram responded with homogeneous resonance - stable amplitude, clean wa
 
 Quiet murmurs from the audience. A few nods. Reeves made notes on his tablet.
 
----
+***
 
 Phase two: Stabilization. An external object requires harmonic alignment without structural damage.
 
@@ -66,7 +66,7 @@ I answered perfectly. Said exactly what they needed to hear.
 
 And felt hollow doing it.
 
----
+***
 
 After everyone left, after the equipment was packed away, Lina and I walked through the city.
 
@@ -132,7 +132,7 @@ I slipped the ring on her finger. It fit perfectly. Of course it fit perfectly -
 
 Lina pulled me up. Kissed me. Long and deep.
 
----
+***
 
 I sat on the bench with Lina. Her hand in mine. Ring catching moonlight. The city hummed around us with life that didn't care about synthesis or surveillance or transformation.
 
@@ -158,7 +158,7 @@ Lina leaned her head on my shoulder.
 
 "I love you," I replied.
 
----
+***
 
 My phone buzzed. Message from Reeves: *"Report immediately. RP-0 incident. Urgent."*
 
@@ -176,6 +176,6 @@ She nodded. Held my hand tighter.
 
 And together, we went to face whatever new crisis awaited.
 
----
+***
 
 *But tonight: joy despite surveillance.*

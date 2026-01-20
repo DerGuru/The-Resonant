@@ -50,7 +50,7 @@ And Jason realized with a cold certainty that made his knees weak:
 
 It was answering him.
 
----
+***
 
 He sat on the couch, wrapped in his blanket like armor, and forced himself to think.
 
@@ -82,7 +82,7 @@ Evidence for: Everything. The timing. The connection to the files. The systemati
 
 Evidence against: He wasn't special. So why would something choose him?
 
----
+***
 
 Jason pulled the blanket tighter.
 
@@ -110,7 +110,7 @@ And yet, he couldn't deny it. Something seemed to be there. Something real.
 
 The question was: what now?
 
----
+***
 
 Fear had many flavors, Jason was discovering.
 
@@ -168,7 +168,7 @@ As if to say: *It's okay. You can try now.*
 
 "But what if, the test was right?"
 
----
+***
 
 Jason didn't sleep that night.
 
@@ -202,7 +202,7 @@ Not courage. But... curiosity.
 
 And maybe, just maybe, that was enough to start with.
 
----
+***
 
 When dawn finally broke, Jason was still awake. Still staring at search results that told him almost nothing.
 

@@ -64,7 +64,7 @@ Elyra was quiet for a long moment. "If she does have experience - and if she's w
 
 "Understood," Jason said. "I'll talk to her. See if she's even open to the conversation."
 
----
+***
 Jason found Mrs. Amari in the building's small garden. Late afternoon. She was tending her flowers - the same ones he'd helped her carry six years ago.
 
 "Mrs. Amari," he said. "Can we talk?"
@@ -87,7 +87,7 @@ Jason's breath caught. "You... know?"
 
 Mrs. Amari was quiet for a moment. "You're asking if I'd consider coming out of retirement."
 
----
+***
 
 That night, Jason reported to the team.
 

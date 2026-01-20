@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 14 - Just kiss already
+﻿## Part 4 - Boundaries & Becoming | Ch. 14 - Just kiss already
 
 If you're picturing a church, you're already wrong.
 
@@ -72,7 +72,7 @@ And in that moment, deliberately, I was present with all of me - Jason - RAE - e
 
 When we pulled back, I heard the small gathering cheer; I even saw Malvek show a hint of a smile.
 
----
+***
 
 The reception was simple. Lina's father had prepared food - his specialty dishes, the ones Jason had loved before synthesis and I still loved now, just differently. Rice bowls with roasted vegetables and that lemon chili glaze Lina had perfected. I could taste the individual components more clearly now - ginger, sesame oil, the char on the vegetables - but I also tasted the care in how they combined. A part of me - coming from RAE - processed the chemistry. Another part - formerly known as Jason - remembered the first time he'd eaten it. I just enjoyed it.
 
@@ -152,7 +152,7 @@ We drank. We laughed. We talked. We ate.
 
 I thought - the rice bowls with roasted vegetables and that lemon chili glaze were really good.
 
----
+***
 
 Later - after the food, after toasts, after Malvek had politely departed and most guests had filtered away - Lina and I stood alone in the center of the warehouse.
 
@@ -208,7 +208,7 @@ I stopped calculating.
 
 I thought so too.
 
----
+***
 
 I took Lina's hand. I felt the resonance hum beneath us - quiet, patient, waiting. I knew every node in this floor now. I could map the whole network if I wanted. All the paths the energy could take. Fifty-three micro-variations in amplitude.
 

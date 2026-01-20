@@ -26,7 +26,7 @@ Jason managed a small smile despite his headache. "We need to establish what I c
 
 The atmosphere had the tense quality of a first day at a job where mistakes could be fatal. Everyone knew this mattered.
 
----
+***
 
 "Start with capacity," Lina said, her pen poised. "How much can you sense? How far? How long?"
 
@@ -88,7 +88,7 @@ Jason repeated this. Lina looked at him directly. "Is that true?"
 
 Jason nodded. The phrase had weight. Rules that could save his life.
 
----
+***
 
 They spent the next hours establishing more boundaries. How long Jason could maintain a whisper-channel to RAE (all day, if he stayed hydrated and ate properly). 
 How much Invest different types of shaping required (passive observation: almost none; active manipulation: significant). 
@@ -198,7 +198,7 @@ The humming stopped. The pressure in Jason's head eased slightly, dropping back 
 
 "So," Milo said, making rapid notes. "Single carrier: demanding but sustainable. Multiple carriers simultaneously: currently beyond capacity. We'll need to work up to that."
 
----
+***
 
 They spent the next hour experimenting more carefully - but conservatively. After a fifteen-minute break with water and food, Jason felt steady enough to continue. They resumed carrier projection, but only through the single teapot, and only in short bursts.
 

@@ -20,7 +20,7 @@ It settled into the background hum of the city, a thread woven carefully into th
 
 Waiting for the right moment to be noticed.
 
----
+***
 
 The city records building always smelled like old paper and tired cleaning products. Not unpleasant - just unchanging. Jason scanned his badge at the basement level and pushed open the reinforced door to the archives.
 
@@ -66,7 +66,7 @@ Awkwardly, Jason stammered, "I need to get to it, you know... Frank."
 
 "Yeah, I do."
 
----
+***
 
 Jason returned to his desk with the requested box and began scanning pages methodically. His fingers moved by habit, eyes flicking over faded handwriting and bureaucratic stamps, but his thoughts wandered.
 
@@ -82,7 +82,7 @@ There were moments - flickers - when he imagined something else. Something waiti
 
 But then the scanner beeped, and the thought faded.
 
----
+***
 
 Jason sat alone at the end of a long cafeteria table, tray in front of him, plastic fork tapping lightly against cheap ceramic. Marcy sat two tables over, deep in a phone call.
 
@@ -98,7 +98,7 @@ He wasn't invisible. People nodded when they passed. A few knew his name. Some d
 
 There was a group near the windows - same people every Tuesday. They played card games on break. He used to sit with them, months ago. But he'd never quite clicked.
 
----
+***
 
 He took a bite of the pasta, chewed mechanically, then checked his watch.
 
@@ -116,7 +116,7 @@ Read half of it. Put the phone away.
 
 His stomach wasn't as hungry as he thought.
 
----
+***
 
 As he dumped the remains of the tray into the bin and made his way back toward the archive wing, someone from finance brushed past him and said, "Hey, Jason."
 
@@ -124,7 +124,7 @@ He blinked, nodded. "Hey."
 
 They didn't stop walking.
 
----
+***
 
 The hallway stretched on in silence. His footsteps didn't echo.
 
@@ -134,7 +134,7 @@ Just another day.
 
 And tomorrow would be, too.
 
----
+***
 
 Jason rubbed his temples. The coffee machine in the break room gurgled in the background, ticking like a broken metronome. He stepped into the narrow utility corridor behind the office, where the emergency light buzzed overhead.
 
@@ -168,7 +168,7 @@ On his way out, he passed Harris at the badge reader. The man swiped his card, l
 
 Jason nodded back, stepped into the brighter corridor. The city pressed back in - a slow, granular tide.
 
----
+***
 
 The pressure was building.
 

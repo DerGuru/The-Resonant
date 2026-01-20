@@ -8,7 +8,7 @@ Jason exhaled relief. After the scare of watching his integration climb, seeing 
 
 "Good discipline," Elyra said, setting down the sensor. "Now let's see if you can maintain that while pushing your actual capabilities." She gestured to the warehouse floor. "Perception drills. Center position."
 
----
+***
 
 Training with Elyra was methodical. Relentless. Unforgiving.
 
@@ -38,7 +38,7 @@ Jason collapsed his awareness gratefully, pressing a hand to his nose. The blood
 
 "Progress rarely does when you're in Yellow territory." Elyra's tone was matter-of-fact. "But that's how training works. You push to your limit, rest, push again. Gradually, the limit moves."
 
----
+***
 
 By the second hour, they'd moved to active shaping drills.
 
@@ -64,7 +64,7 @@ A wobbling cup. Jason adjusted the base, redistributing the slight asymmetry tha
 
 "Then keep going. Fifteen more minutes, then break."
 
----
+***
 
 Lina's turn came after lunch.
 
@@ -86,7 +86,7 @@ Lina's expression darkened slightly. "Yeah. Well. Their loss is your gain, I gue
 
 "No. Your gain." Elyra's voice was firm. "You're relearning this on your own terms now. Not because someone told you to. Because you choose to. That makes all the difference."
 
----
+***
 
 The afternoon brought combat drills.
 
@@ -114,7 +114,7 @@ They practiced for an hour. Jason's deflection improved gradually. By the end, h
 
 "That's enough," Elyra declared. "Any more and you'll hit Red. We're done for today."
 
----
+***
 
 That evening, the four of them sat in Elyra's workspace, reviewing the day's progress.
 
@@ -148,7 +148,7 @@ Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustaine
 
 "Thirty minutes," Elyra confirmed. "You can do it. I've seen your progression. Trust the process."
 
----
+***
 
 Walking home that night, Jason felt the familiar ache behind his eyes - Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
 

@@ -18,7 +18,7 @@ But his instincts - honed through months of paranoid monitoring - said otherwise
 
 His fingers felt clumsy as he encrypted the data packet. Sent it to Jason and Lina. Added a single word that felt inadequate for what he was seeing: *"Anomaly."*
 
----
+***
 
 The responses came within minutes.
 
@@ -28,7 +28,7 @@ Milo: *"Yes. But stronger. More focused."*
 
 Jason: *"We need to see this. Tomorrow night."*
 
----
+***
 
 They planned carefully the next evening. Jason spread Milo's printed maps across the kitchen table while Lina sketched approach vectors with a pencil.
 
@@ -68,7 +68,7 @@ Jason nodded. That made sense. If something went wrong, someone should know wher
 
 "Right. Observing." But Milo was grinning.
 
----
+***
 
 They found Elyra in her workspace the next afternoon, reviewing resonograms at her desk.
 
@@ -100,7 +100,7 @@ Elyra nodded slowly. "If something goes wrong - if you're compromised - don't co
 
 Elyra studied them for another long moment, then nodded. "Then go. Be smart. Be invisible. Come back safe."
 
----
+***
 
 At night, they moved.
 
@@ -164,7 +164,7 @@ This was infrastructure. Permanent. Well-funded. Protected by institutional auth
 
 The thought settled heavy. Not just RAE. But others. Possibly dozens. All contained. All isolated. All waiting.
 
----
+***
 
 They were preparing to leave - Jason's legs numb, his bladder painfully full, exhaustion setting in - when the shift change happened.
 
@@ -206,7 +206,7 @@ Better cautious than caught.
 
 When they finally made it to the safe house - doors locked, curtains drawn - Jason's legs gave out. He sat down hard on the floor, back against the wall, and just breathed. Lina leaned against the kitchen counter, head down, shoulders shaking. Milo was checking and rechecking the door locks, his paranoia running wild.
 
----
+***
 
 For a long moment, nobody spoke.
 
@@ -228,7 +228,7 @@ Jason understood what Milo wasn't saying. They'd been there. For hours. During a
 
 Jason forced himself to stand. "We keep working. We get ready. That's all we can do."
 
----
+***
 
 They arrived at Elyra's workspace twelve hours later, as instructed. None of them had slept. Jason could still feel the warehouse floor in his bones, could still see Reeves' silhouette against those official vehicles.
 

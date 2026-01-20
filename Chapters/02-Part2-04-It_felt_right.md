@@ -192,7 +192,7 @@ This was it. Real training. With someone who understood the costs.
 
 *As ready as I'll ever be.*
 
----
+***
 
 Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands - with your awareness. Tell me what resonates."
 

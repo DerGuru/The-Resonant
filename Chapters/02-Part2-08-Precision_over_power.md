@@ -140,7 +140,7 @@ Jason looked at the box of carriers. Suddenly they seemed less like toys and mor
 
 "We'll see," Elyra said, but there was something that might have been approval in her voice.
 
----
+***
 
 Four hours later, Jason's hands were shaking and his head was firmly in Yellow territory.
 

@@ -62,7 +62,7 @@ He managed a small smile. "Thanks, RAE."
 
 "Yeah. Let's do it."
 
----
+***
 
 The next morning, Jason woke to the smell of burnt toast.
 

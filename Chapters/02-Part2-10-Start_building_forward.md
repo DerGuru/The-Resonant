@@ -28,7 +28,7 @@ In the hallway, he pulled out his phone. Texted Milo: *"They hit the archive. Ev
 
 The response came immediately: *"Checking my backups. Same thing happening here. Library. 30 minutes."*
 
----
+***
 
 The library felt safer. Public. Neutral.
 
@@ -46,7 +46,7 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 "Agreed," Jason said. "Let's go."
 
----
+***
 
 They left separately, each taking a different route home. Two hours later, they met at Elyra's building.
 
@@ -74,7 +74,7 @@ But Elyra was right. In a world where powerful people could rewrite history, cap
 
 "I mean they'll come for you directly. Try to bring you in. Offer you deals or threaten you with charges." She looked at each of them. "Which is why we're expanding your training. Starting tomorrow, we work on defensive patterns. Real ones. The kind that might keep you alive when Malvek decides passive observation isn't enough."
 
----
+***
 
 That night, Jason lay awake.
 
