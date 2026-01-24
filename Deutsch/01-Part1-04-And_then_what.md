@@ -168,7 +168,7 @@ Zu viel Kaffee. Aber für einen Moment hätte er schwören können, dass er etwa
 
 Auf dem Weg nach draußen kam er an Harris beim Kartenleser vorbei. Der Mann zog seine Karte durch, sah rüber und nickte.
 
-Jason nickte zurück und trat in den helleren Korridor. Die Stadt drückte wieder an – eine langsame, körnige Flut.
+Jason nickte zurück und trat in den helleren Korridor. Die Stadt drückte wieder auf ihn ein – eine langsame, körnige Flut.
 
 ***
 

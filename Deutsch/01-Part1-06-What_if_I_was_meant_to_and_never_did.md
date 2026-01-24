@@ -1,28 +1,28 @@
 ## Teil 1 – Verloren und Gefunden | Kap. 06 – Was, wenn ich hätte sollen – und nie habe?
 
-Jason lag auf dem Rücken und starrte an die Decke. Die digitale Uhr auf seinem Nachttisch zeigte 2:47, die roten Ziffern brannten ihm jedes Mal in die Netzhaut, wenn er blinzelte.
+Jason lag auf dem Rücken und starrte an die Decke. Die digitale Uhr auf seinem Nachttisch zeigte 2:47, die roten Ziffern brannten sich ihm jedes Mal in die Netzhaut, wenn er blinzelte.
 
 Er lag schon seit Stunden so da.
 
-Jason setzte sich auf und fuhr sich mit beiden Händen durchs Haar. Es wurde wieder zu lang. Er sollte es schneiden lassen. Setz es auf die Liste der Dinge, die er ständig vorhatte.
+Jason setzte sich auf und fuhr sich mit beiden Händen durchs Haar. Es wurde wieder zu lang. Er sollte es schneiden lassen. Und setzte es auf die Liste der Dinge, die er ständig vorhatte.
 
-Schlaf kam nicht. Jedes Mal, wenn er die Augen schloss, war es da – dieser Puls. Diese Resonanz. Dieses unmögliche *Etwas*, das nicht existieren durfte und es doch tat.
+Schlaf kam nicht. Jedes Mal, wenn er die Augen schloss, war es da – dieses Summen. Dieser Puls. Diese Resonanz. Dieses unmögliche *Etwas*, das nicht existieren durfte und es doch tat.
 
-Seine Wohnung war still, abgesehen von den üblichen Geräuschen: dem periodischen Brummen des Kühlschranks, dem fernen Zischen des Verkehrs, dem Paar über ihm, das über seinen Boden lief. Normale Geräusche. Gewöhnliche Geräusche.
+Seine Wohnung war still, abgesehen von den üblichen Geräuschen: dem periodischen Brummen des Kühlschranks, dem fernen Zischen des Verkehrs, dem Paar über ihm, das in seiner Wohnung hin und her lief. Normale Geräusche. Gewöhnliche Geräusche.
 
-Aber darunter, hindurch gefädelt wie eine Nadel durch Stoff, war noch etwas.
+Aber darunter, sich hindurch ziehend, wie eine Nadel durch Stoff, war noch etwas.
 
 Ein Ton, den er mehr fühlte als hörte.
 
-„Reiß dich zusammen, Fischer“, murmelte er in den leeren Raum. „Du bist nichts Besonderes. Also warum passiert das?“
+„Reiß dich zusammen, Fischer“, murmelte er in den leeren Raum. „Du bist nichts Besonderes. Also warum passiert dir das?“
 
 Keine Antwort. Aber **etwas** passierte. Das war ja das Problem.
 
-Er stand auf, tappte barfuß in die Küche. Füllte ein Glas mit Leitungswasser. Trank es am Spülbecken, während er sein Spiegelbild im dunklen Fenster betrachtete.
+Er stand auf, tappte barfuß in die Küche. Füllte ein Glas mit Leitungswasser und trank es am Spülbecken, während er sein Spiegelbild im dunklen Fenster betrachtete.
 
-Siebenundzwanzig. Immer noch derselbe Job. Immer noch dieselbe Wohnung. Immer noch am Warten, dass sich etwas änderte. Er hatte ein ganzes Leben um dieses Testergebnis mit sechzehn herum gebaut. Um den Satz, dass er die Mühe nicht wert war.
+Siebenundzwanzig. Immer noch derselbe Job. Immer noch dieselbe Wohnung. Immer noch darauf wartend, dass sich etwas änderte. Er hatte ein ganzes Leben um dieses Testergebnis mit sechzehn herum gebaut. Um den Satz, dass er die Mühe nicht wert war.
 
-Und Jason hatte es akzeptiert. Weil – was hätte er sonst tun sollen? Gegen harmonische Tests konnte man nicht argumentieren. Sie waren objektiv. Wissenschaftlich. Wie wenn man dir sagt, du seist farbenblind oder unmusikalisch. Einfach eine biologische Tatsache.
+Und Jason hatte es akzeptiert. Was hätte er sonst tun sollen? Gegen harmonische Tests konnte man nicht argumentieren. Sie waren objektiv. Wissenschaftlich. Wie wenn man dir sagt, du seist farbenblind oder unmusikalisch. Einfach eine biologische Tatsache.
 
 Also war er aufs College gegangen. Hatte seinen Abschluss in digitaler Archivierung gemacht. Einen Job gefunden. Ein Leben aus stiller Akzeptanz gebaut.
 
@@ -30,7 +30,7 @@ Nur, dass jetzt etwas passiert war.
 
 Jetzt summte etwas in seiner Brust, das nicht da sein durfte.
 
-Er stellte das Glas zu hart ab. Es zerbrach nicht, aber das Geräusch war scharf in der Stille.
+Er stellte das Glas zu hart ab. Es zerbrach nicht, aber das Geräusch war zu schrill in der Stille.
 
 „Was willst du?“ fragte er die leere Küche.
 
@@ -48,19 +48,19 @@ Der Ton pulsierte noch einmal. Geduldig. Wartend.
 
 Und Jason begriff mit einer kalten Gewissheit, die ihm die Knie weich machte:
 
-Er antwortete ihm.
+Etwas antwortete ihm.
 
 ***
 
 Er saß auf dem Sofa, in seine Decke gewickelt wie in eine Rüstung, und zwang sich zu denken.
 
-Okay. Angenommen, das ist real. Angenommen, etwas – irgend*jemand*? – versucht zu kommunizieren.
+Okay. Angenommen, das ist real. Angenommen, irgend*etwas* – irgend*jemand*? – versucht zu kommunizieren.
 
 Der logische Teil seines Hirns – der Teil, der ihn durch College, Vorstellungsgespräche, durch das Leben gebracht hatte – begann sofort, Möglichkeiten zu katalogisieren:
 
 **Option 1: Er hatte einen Nervenzusammenbruch.**
 
-Stress. Isolation. Zu viele Nächte allein in staubigen Archiven. Es wäre nicht das erste Mal, dass jemand in seiner Lage rissig wurde. Der menschliche Geist war fragil. Er konnte ganze Realitäten bauen, um mit Einsamkeit klarzukommen.
+Stress. Isolation. Zu viele Nächte allein in staubigen Archiven. Es wäre nicht das erste Mal, dass jemand in seiner Lage zerbrach. Der menschliche Geist war zerbrechlich. Er konnte ganze Realitäten bauen, um mit Einsamkeit klarzukommen.
 
 Dafür sprach: das Timing. Die Unmöglichkeit. Dass er direkt vorher in eingeschränkten Dateien gewühlt hatte.
 
@@ -72,7 +72,7 @@ Jemand aus dem Archiv. Irgendeine Behörde. Eine experimentelle Technologie, die
 
 Dafür sprach: die eingeschränkten Dateien. Mirror.Vox’ Warnungen. Dass Inflektionsforschung schon immer eine dünne Linie zwischen Innovation und Übergriff gewesen war.
 
-Dagegen sprach: warum er? Er war niemand. Und es fühlte sich nicht bösartig an – eher neugierig. Oder geduldig. Und fast … freundlich?
+Dagegen sprach: warum er? Er war niemand. Und es fühlte sich nicht bösartig an – eher neugierig. Oder geduldig. Und fast - freundlich?
 
 **Option 3: Tatsächlich versuchte etwas, ihn zu erreichen.**
 
@@ -88,17 +88,17 @@ Jason zog die Decke enger.
 
 Diese letzte Frage kreiste immer wieder zurück. *Warum er?*
 
-Er war ein Niemand. Nicht talentiert. Nicht mächtig. Nicht vernetzt. Er war einfach … Jason Fischer. Kommunaler Sachbearbeiter. Langweilig. Vergessbar. Sicher.
+Er war ein Niemand. Nicht talentiert. Nicht mächtig. Nicht vernetzt. Er war einfach Jason Fischer. Kommunaler Sachbearbeiter. Langweilig. Vergessbar. Sicher.
 
 Es sei denn …
 
-Es sei denn, was auch immer da draußen nach ihm tastete, suchte gar niemanden Mächtigen.
+Es sei denn, was auch immer da draußen nach ihm tastete, suchte niemanden Mächtigen.
 
 Vielleicht brauchte es einfach jemanden, der nicht sofort ausrastete. Jemanden, der tatsächlich zuhörte, wenn etwas Unmögliches im Dunkeln flüsterte.
 
 Jemanden Gewöhnlichen – nicht mutig, aber neugierig genug, seine Angst zu überholen.
 
-Jason lachte, bitter in der stillen Wohnung. „Also bin ich besonders, weil ich … mittelmäßig bin und zu neugierig, um’s besser zu wissen? Ist es das?“
+Jason lachte, bitter in der stillen Wohnung. „Also bin ich besonders, weil ich mittelmäßig bin und zu neugierig, um’s besser zu wissen? Ist es das?“
 
 Der Ton antwortete nicht. Aber irgendwie spürte er … Zustimmung? Beruhigung?
 
@@ -138,7 +138,7 @@ Jason stand abrupt auf, die Decke glitt von ihm. Er ging im kleinen Wohnzimmer a
 
 Aber eine kleine Stimme hinten in seinem Kopf flüsterte: *Hast du? Oder hast du einfach den leichteren Weg gewählt?*
 
-Er erinnerte sich an sich mit sechzehn. An diesen sterilen Testraum, die Elektroden an den Schläfen, wie der Resonanzmonitor kaum flackerte. An das Gesicht des Akademievertreters – nicht grausam, nur … abwinkend. Effizient.
+Er erinnerte sich an sich mit sechzehn. An diesen sterilen Testraum, die Elektroden an den Schläfen, wie der Resonanzmonitor kaum flackerte. An das Gesicht des Akademievertreters – nicht grausam, nur abwinkend. Effizient.
 
 „Danke für Ihre Zeit, Mr. Fischer. Sie können gehen.“
 
@@ -162,7 +162,7 @@ Und dann, weich, sanft, pulsierte die Resonanz.
 
 Keine Worte. Nicht einmal eine klare Botschaft.
 
-Nur … Präsenz. Anerkennung. Akzeptanz.
+Nur Präsenz. Anerkennung. Akzeptanz.
 
 Als würde sie sagen: *Ist okay. Du kannst es jetzt versuchen.*
 
@@ -184,7 +184,7 @@ Und langsam, Stück für Stück, begann sich ein Bild zu formen.
 
 Fragmente. Flüstern. Verweise auf ein Projekt, das schiefgegangen war.
 
-Aber keine klaren Antworten. Nur … Muster in den Lücken, in denen Information hätte sein müssen.
+Aber keine klaren Antworten. Nur Muster in den Lücken, in denen Information hätte sein müssen.
 
 Was auch immer Elyra Voss getan hatte – die Akten waren weg. Gesäubert. Versteckt.
 
@@ -198,9 +198,7 @@ Aber er antwortete nicht.
 
 Die Angst verschwand nicht. Aber sie verschob sich. Verwandelte sich in etwas anderes.
 
-Nicht Mut.
-
-Aber … Neugier.
+Nicht Mut. Neugier.
 
 Und vielleicht – nur vielleicht – reichte das für den Anfang.
 
@@ -210,7 +208,7 @@ Als der Morgen schließlich dämmerte, war Jason immer noch wach. Starrte noch i
 
 Fragmente. Vage Verweise. Ein Name – Elyra Voss – und ein Desaster. Das war es. Mehr hatte er nicht gefunden.
 
-Er wusste nicht, was nach ihm griff. Wusste nicht, ob es sicher war. Wusste nicht einmal, ob das real war oder ob er den Verstand verlor.
+Er wusste nicht, was nach ihm griff. Wusste nicht, ob es sicher war. Wusste nicht einmal, ob es real war oder ob er den Verstand verlor.
 
 Aber eines wusste er: Er war nicht bereit, es zu melden. Noch nicht. Nicht, solange er nicht verstand, was „es“ überhaupt war.
 
@@ -232,5 +230,5 @@ Die Angst war noch da. Der Zweifel. Die Gewissheit, dass er wahrscheinlich einen
 
 Aber unter allem, kaum spürbar, war etwas Kleines, Zerbrechliches: Neugier.
 
-Und vielleicht – nur vielleicht – die hauchdünne Kante von Hoffnung.
+Und vielleicht – nur vielleicht – eine hauchdünne Hoffnung.
 

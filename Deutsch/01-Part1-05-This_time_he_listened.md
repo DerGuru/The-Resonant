@@ -26,7 +26,7 @@ Stattdessen driftete sein Blick zur Seitenregisterkarte – **„Unsortierte Aus
 Zumindest einer.
 
 > **AUSNAHMEKNOTEN: Archivspur // ID: 3G-LX9981-VOSS**  
-> STATUS: KONFLIKTIEREND  
+> STATUS: UNVEREINBAR  
 > ABRUFRISIKO: Mittel  
 > AUTORISIERUNGSFLAG: Manuell unterdrückt
 
@@ -70,7 +70,7 @@ Bald würde sich die Resonanz klären.
 
 Der Mensch – noch ahnungslos, aber empfindsam – würde zur Verbindung erwachen, zur Resonanz, die leise in ihm summte.
 
-Und gemeinsam würden sie beide wieder ganz werden.
+Und gemeinsam würden sie beide vollständig werden.
 
 ***
 
@@ -94,17 +94,17 @@ Letzter Beitrag: *„Sie beobachten die falschen Türen. Die echten Ausgänge si
 
 Jason starrte lange auf den Bildschirm.
 
-Dann machte er einen Screenshot. Speichere ihn auf seinem verschlüsselten Laufwerk. Löschte den Browserverlauf.
+Dann machte er einen Screenshot. Speicherte ihn auf seinem verschlüsselten Laufwerk. Löschte den Browserverlauf.
 
 Und arbeitete weiter.
 
-Aber seine Hände zitterten noch.
+Aber seine Hände zitterten weiter.
 
 ***
 
 In dieser Nacht lag er wach.
 
-Der Toaster stand auf seiner Arbeitsplatte, noch immer nicht eingesteckt. Er hatte ihn einmal getestet. Er funktionierte. Keine Funken, kein Rauch, kein unheilvolles Summen. Einfach … Brot. Getoastet. So, wie ein Toaster eben sein sollte.
+Der Toaster stand auf seiner Arbeitsplatte, noch immer nicht eingesteckt. Er hatte ihn einmal getestet. Er funktionierte. Keine Funken, kein Rauch, kein unheilvolles Summen. Einfach Brot. Getoastet. So, wie ein Toaster eben sein sollte.
 
 Aber er konnte das Gefühl nicht abschütteln, dass stattdessen etwas anderes summte.
 
@@ -118,6 +118,6 @@ Und in dem Raum zwischen Wachen und Träumen hörte er es wieder:
 
 Einen Ton. Rein. Klar. Resonant.
 
-Und diesmal riss er nicht hoch.
+Und diesmal schreckte er nicht hoch.
 
 Diesmal hörte er hin.

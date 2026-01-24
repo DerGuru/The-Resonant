@@ -28,9 +28,9 @@ Jason sah auf.
 
 Jason wartete, spürte, dass noch mehr kam.
 
-„Er hat mich gesponsert. Mir ein Teilstipendium besorgt. Genug, um überhaupt reinzukommen. Der Rest …“ Sie ließ den Satz hängen, der Kiefer spannte sich leicht. „Hat mein Dad getragen. Kredite. Deals. Versprechen, von denen ich erst später erfahren habe.“
+„Er hat mich gesponsert. Mir ein Teilstipendium besorgt. Genug, um überhaupt reinzukommen. Den Rest …“ Sie ließ den Satz hängen, der Kiefer spannte sich leicht. „Hat mein Dad getragen. Kredite. Deals. Versprechen, von denen ich erst später erfahren habe.“
 
-Jason lehnte sich ein Stück zurück und ließ das Gewicht davon in sich einsinken. „Das muss viel gewesen sein.“
+Jason lehnte sich ein Stück zurück und ließ das Gesagt in sich einsinken. „Das muss viel gewesen sein.“
 
 Lina lächelte klein, ohne Humor. „Ja. War es. Mehr, als ich damals begriffen hab.“
 
@@ -40,13 +40,13 @@ Sie verschränkte die Arme – nicht abwehrend, eher als würde sie etwas festha
 
 Sie antwortete nicht gleich. Ihr Blick wanderte zum Fenster, in die dunkle Straße dahinter.
 
-„Manches mochte ich“, sagte sie schließlich. „Resonanz stimmen lernen, und sie antwortet … das fühlte sich an wie Fliegen. Aber die Leute –“ Ihre Stimme zog sich fest. „Die meisten hatten keine Ahnung, was es heißt, etwas *zu brauchen*. Sie haben einfach angenommen, dass sie dafür geboren sind. Ich war’s nicht.“
+„Manches mochte ich“, sagte sie schließlich. „Die Resonanz stimmen zu lernen, und wenn sie antwortet … das fühlte sich an wie Fliegen. Aber die Leute –“ Ihre Stimme zog sich fest. „Die meisten hatten keine Ahnung, was es heißt, etwas *zu brauchen*. Sie haben einfach angenommen, dass sie dafür geboren sind. Ich war’s nicht.“
 
 Jason nickte langsam. „Und als du gegangen bist …“
 
-„Er hat nichts gesagt“, sagte Lina, die Stimme jetzt leiser. „Er hat einfach … Platz für mich gemacht, hier hinten. Als hätte er gewusst, dass ich heimkomme.“
+„Er hat nichts gesagt“, sagte Lina, die Stimme jetzt leiser. „Er hat einfach Platz für mich gemacht, hier hinten. Als hätte er gewusst, dass ich heimkomme.“
 
-Die Stille zwischen ihnen war nicht peinlich. Nur voll.
+Die aufkommende Stille zwischen ihnen war nicht peinlich. Nur voll.
 
 Jason sah sie aufmerksam an. Ihr Profil war vom weichen gelben Licht aus der Küchentür gezeichnet, der Ausdruck unlesbar. Stark und verletzlich zugleich.
 
@@ -54,9 +54,9 @@ Jason sah sie aufmerksam an. Ihr Profil war vom weichen gelben Licht aus der Kü
 
 Lina verzog den Mund, ein Hauch von Spannung rutschte von ihren Schultern. „Gewöhn dich nicht dran.“
 
-Jason lächelte zurück. „Würd ich nie wagen.“
+Jason lächelte zurück. „Würde ich nie wagen.“
 
-Sie stieß sich vom Tresen ab, nahm seine leere Tasse und ging Richtung Küche. Aber an der Tür hielt sie kurz an und warf einen Blick zurück.
+Sie stieß sich vom Tresen ab, nahm seine leere Tasse und ging in Richtung Küche. Aber an der Tür hielt sie kurz an und warf einen Blick zurück.
 
 „Jason?“
 
@@ -84,7 +84,7 @@ Und irgendwie machte genau das es realer.
 
 Er stand auf, zog den Mantel an und ließ ein paar Scheine extra auf dem Tisch. Mehr, als das Essen gekostet hatte, aber weniger als das, was ihre Ehrlichkeit wert war.
 
-Draußen biss die Kälte ihm ins Gesicht. Er ging langsam, die Hände in den Taschen, der Atem stand im Licht.
+Draußen biss die Kälte ihm ins Gesicht. Er ging langsam, die Hände in den Taschen, Atemwolken vor seinem Gesicht.
 
 *Manche Türen bleiben aus gutem Grund verschlossen.*
 

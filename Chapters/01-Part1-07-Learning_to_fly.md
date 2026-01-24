@@ -8,9 +8,9 @@ It wasn't busy. It never really was, not during the late dinner lull. Two tables
 
 He didn't need to order.
 
-Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Her hair was pulled back in a practical knot today, a few strands escaped and framing her face. She had a smudge of something - flour? sauce? - on her cheek.
+Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Like always, Her hair was pulled back in a practical knot today, a few strands escaped and framing her face. She had a smudge of something - flour? sauce? - on her cheek.
 
-"You're late," she said, sliding the plate down in front of him. Her voice had that perpetual rasp, warm and slightly rough.
+"You're late," she said, sliding the plate down in front of him. 
 
 Jason glanced up at her, taking in the details he tried not to notice: the way her eyes caught the overhead light, the small scar on her wrist visible as she set down the plate, the efficiency of her movements. "Had to actually finish work today."
 
