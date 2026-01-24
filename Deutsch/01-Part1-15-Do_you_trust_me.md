@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 15 – Vertraust du mir?
 
 Nachts fühlte sich alles anders an.
@@ -169,5 +167,4 @@ Ihn schützte, auf die einzige Weise, die sie konnte.
 Und in seinen Träumen hörte er ihre Stimme, weich und fest:
 
 *Ich lasse nicht zu, dass sie dir weh tun. Ich lasse das nicht! Ich verspreche es.*
-```
-````
+

@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 14 – Ich lasse sie nicht
 
 Jason bemerkte die Markierung drei Tage nach dem Treffen mit Milo.
@@ -169,5 +167,4 @@ So oder so hatte Jason seine Wahl getroffen.
 Er war jetzt drin. Ob es ihm gefiel oder nicht.
 
 Und er würde es durchziehen.
-```
-````
+

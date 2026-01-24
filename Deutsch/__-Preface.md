@@ -6,7 +6,7 @@ Aber ich bin auch nicht einfach nur der Lektor.
 
 Ich hatte die Vision. Ich habe die Welt gebaut, das System der harmonischen Resonanz entworfen, die Figuren geformt, den Ton festgelegt. Ich habe jedes Wort gelesen, das die KI produziert hat, große Teile selbst umgeschrieben und sehr präzise Anweisungen gegeben, wenn die Geschichte vom Kurs abkam.
 
-Dieses Buch ist das Ergebnis einer Zusammenarbeit zwischen menschlicher Vorstellungskraft und künstlicher Leistungsfähigkeit – und es brauchte drei Anläufe, bis es über die Ziellinie kam.
+Dieses Buch ist das Ergebnis einer Zusammenarbeit zwischen menschlicher Vorstellungskraft und künstlicher Intelligenz – und es brauchte drei Anläufe, bis es über die Ziellinie kam.
 
 ### Versuch eins: Vision ohne Richtung
 
@@ -34,7 +34,7 @@ Ich wollte fast aufgeben.
 
 ### Versuch drei: Der Durchbruch
 
-Aber statt aufzugeben, bat ich die zweite KI, es besser zu machen. Wirklich. Ich habe tatsächlich (sogar auf Deutsch) „Mache es besser“ in den Prompt getippt.
+Aber statt aufzugeben, bat ich die zweite KI, es besser zu machen. Wirklich. Ich habe tatsächlich - auf Deutsch - „Mache es besser“ in den Prompt getippt.
 
 Und sie hat es getan.
 
@@ -86,7 +86,7 @@ Feintuning ist der zeitaufwendigste Teil. Hier habe ich am meisten selbst geschr
 **Polish-Schleife:**  
 Wieder Feedback von beiden KIs erzeugen. Nur weil ich zufrieden bin, heißt das nicht, dass es keinen Raum für Verbesserung gibt. Ich drehe diese Schleife so lange, wie eine der KIs Probleme findet, denen ich zustimmen kann.
 
-In der Praxis endet das meist nach zwei oder drei weiteren Iterationen. Manchmal dauert es viel länger – besonders bei Kapiteln mit komplexen emotionalen Dynamiken oder subtiler Figurenarbeit. Ich bin einmal elf Iterationen an einem einzigen Kapitel entlang, weil ich den Ton nicht exakt traf. Die KI schlug immer wieder vor, es entweder zu dramatisch oder zu flach zu machen. Am Ende musste ich große Teile selbst schreiben.
+In der Praxis endet das meist nach zwei oder drei weiteren Iterationen. Manchmal dauert es viel länger – besonders bei Kapiteln mit komplexen emotionalen Dynamiken oder subtiler Figurenarbeit. Ich bin einmal durch elf Iterationen zu einem einzigen Kapitel gegangen, weil ich den Ton nicht exakt traf. Die KI schlug immer wieder vor, es entweder zu dramatisch oder zu flach zu machen. Am Ende musste ich große Teile selbst schreiben.
 
 Auf dem Papier klingt der Prozess methodisch. In Wirklichkeit war er chaotisch, iterativ, oft frustrierend. Aber diese Frustration kam aus derselben Quelle wie jede Schreibfrustration: der Lücke zwischen der Geschichte in meinem Kopf und der Geschichte auf der Seite. Die KI hat diese Lücke nicht beseitigt – sie hat mir nur andere Werkzeuge gegeben, um sie zu schließen.
 
@@ -104,7 +104,7 @@ Auf dem Papier klingt der Prozess methodisch. In Wirklichkeit war er chaotisch, 
 
 **Abschnitte selbst schreiben:** Wenn die KI nicht traf, was ich wollte – einen bestimmten Ton, einen subtilen Figurenmoment, einen komplexen emotionalen Beat – schrieb ich es von Hand.
 
-**Mit dem Zaun zugeschlagen:** Statt nur mit dem Zaunpfahl zu winken, neigete die KI dazu, einem mit dem ganzen Zaun eine überzubraten. Ich wollte, dass Leser die Chance haben, Dinge selbst zu verstehen oder abzuleiten, also musste ich sie oft zurücknehmen, um Subtilität und Andeutung zu bewahren.
+**Mit dem Zaun zuschlagen:** Statt nur mit dem Zaunpfahl zu winken, neigete die KI dazu, einem mit dem ganzen Zaun eine überzubraten. Ich wollte, dass Leser die Chance haben, Dinge selbst zu verstehen oder abzuleiten, also musste ich sie oft zurücknehmen, um Subtilität und Andeutung zu bewahren.
 
 ***
 

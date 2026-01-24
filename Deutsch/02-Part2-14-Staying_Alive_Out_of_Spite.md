@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 14 – Am Leben bleiben, aus Trotz
 
 Jasons Training trat in seine finale Phase ein.
@@ -289,5 +287,4 @@ Noch ein Tag, um etwas zu werden, von dem er nicht sicher war, ob er es sein kon
 Aber er stand noch.
 
 Und das musste für irgendetwas zählen.
-```
-````
+

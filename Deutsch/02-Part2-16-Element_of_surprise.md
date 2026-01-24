@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 16 – Überraschungseffekt
 
 Sie kamen um 7:10 Uhr.
@@ -234,5 +232,4 @@ Das Spiel lief.
 Und zum ersten Mal, seit das angefangen hatte …
 
 hatten sie einen Platz am Tisch.
-```
-````
+

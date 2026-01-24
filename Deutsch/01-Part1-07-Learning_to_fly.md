@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 07 – Fliegen lernen
 
 Die Stadt begann unter schwachem Abendlicht aufzutauen. Jason ging zu Fuß statt die Tram zu nehmen, schlängelte sich durch Nebenstraßen, den Mantelkragen hochgeschlagen, der Kopf ein Karussell.
@@ -153,4 +152,3 @@ Und zum ersten Mal seit langer Zeit machte ihm das keine Angst.
 
 Zumindest nicht so sehr, wie es eigentlich müsste.
 
-```

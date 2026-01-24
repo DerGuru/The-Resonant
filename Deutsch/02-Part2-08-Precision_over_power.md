@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 08 – Präzision vor Macht
 
 Sechs Wochen nach ihrer ersten Session in Mill-4 tat Jasons Kopf immer noch jede Nacht weh.
@@ -187,5 +185,4 @@ Ein präziser Schritt nach dem anderen.
 Bis sie bereit waren für das, was kommen würde.
 
 Oder zumindest: bis sie lang genug überleben konnten, um zu lernen, wie man gewinnt.
-```
-````
+

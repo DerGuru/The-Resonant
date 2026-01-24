@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 07 – Grün zu Gelb, niemals zu Rot
 
 „41,8%“, las Elyra vom Integrationssensor ab, mit einer Spur Anerkennung in der Stimme. „Du hältst das jetzt seit zwei Wochen stabil. Was auch immer du tust – mach genau so weiter.“
@@ -175,5 +173,4 @@ Und das – mehr als alles andere – machte die Kopfschmerzen es wert.
 Grün zu Gelb, niemals zu Rot.
 
 Eine sorgfältige Grenze nach der anderen.
-```
-````
+

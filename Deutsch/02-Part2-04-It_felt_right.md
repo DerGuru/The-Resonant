@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 04 – Es fühlte sich richtig an
 
 Mill-4 lag am Rand der Stadt wie ein abgebrochener Zahn.
@@ -269,5 +267,4 @@ Und das – mehr als alles, was Elyra gesagt hatte – machte ihm am meisten Ang
 Denn die Kraft fühlte sich nicht fremd an.
 
 Sie fühlte sich richtig an.
-```
-````
+

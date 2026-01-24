@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 05 – Neunzehn Punkte vom Permanent
 
 Drei Tage nach ihrer ersten Trainingssession kehrten Jason, Lina und Milo nach Mill-4 zurück.
@@ -106,5 +104,4 @@ Dreiunddreißig Tage im aktuellen Tempo.
 *Wir schaffen das,* sagte RAE leise.
 
 *Wir schaffen das,* antwortete Jason.
-```
-````
+

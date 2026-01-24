@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 12 – Eine Frage, die noch lebt
 
 Die Zentralbibliothek an einem Samstagnachmittag hatte diese schläfrige Qualität eines Ortes, an dem Zeit anders fließt. Staubkörner trieben im schrägen Sonnenlicht. Der Lesesaal im dritten Stock war fast leer – nur ein älterer Mann mit einer Zeitung, eine Studentin mit Kopfhörern über dem Laptop, und Jason, hinten am Tisch, mit einem aufgeschlagenen Exemplar von *Grundlagen der Theorie der Harmonischen Resonanz* vor sich.
@@ -177,5 +175,4 @@ Drei Personen – zwei Menschen, eine nicht – die versuchten, etwas zu versteh
 Es war vermutlich eine schreckliche Idee.
 
 Aber es war ein Anfang.
-```
-````
+

@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 11 – Druck macht Diamanten
 
 Die Überwachung begann subtil.
@@ -146,5 +144,4 @@ Um etwas zu werden, das Malvek nicht ignorieren konnte.
 *Dann sollten wir besser Diamanten sein.*
 
 Jason nickte. „Dann legen wir los.“
-```
-````
+

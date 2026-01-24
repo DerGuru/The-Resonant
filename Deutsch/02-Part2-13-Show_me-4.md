@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 13 – Zeig mir
 
 Milo fuhr an seinem Schreibtisch hoch, die Wange taub von der Stelle, an der sie auf der Tastatur gelegen hatte. Die Uhr zeigte 2:17 Uhr. Drei leere Kaffeebecher bildeten einen defensiven Ring um seinen Laptop. Die Wohnung roch nach abgestandenem Takeout und nach Ozon von überarbeiteten Elektronikgeräten.
@@ -267,5 +265,4 @@ Elyras Blick war düster, aber nicht panisch. „Dann zerstreut ihr euch. Nutzt 
 Sie stand auf, Schmerz sichtbar, aber kontrolliert, und Jason begriff: Sie hatte Angst. Um sie. Vielleicht auch um sich – wenn sie fielen, fiel ihr Schutz mit.
 
 „Heute ruht ihr. Es bringt nichts, erschöpfte Leute zu trainieren – ihr macht nur Fehler.“ Sie sah jeden von ihnen an. „Und wir können uns keine Fehler leisten.“
-```
-````
+

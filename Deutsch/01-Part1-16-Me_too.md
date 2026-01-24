@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 16 – Ich auch
 
 Jason wachte vom Donnern auf – desorientiert, benommen.
@@ -177,5 +175,4 @@ Und es gab kein Zurück.
 „Ich habe Todesangst“, gab Jason zu.
 
 *Ich auch.*
-```
-````
+

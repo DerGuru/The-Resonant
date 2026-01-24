@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 11 – Gefunden – oder gefunden worden?
 
 Jason war nie gut in Foren gewesen. Er war jahrelang nur Mitleser gewesen. So war es einfacher. Sicherer. Man konnte lesen, lernen, aufsaugen, ohne zu riskieren, dumm dazustehen oder Aufmerksamkeit auf sich zu ziehen.
@@ -157,4 +156,3 @@ Oder zumindest jemanden, der ihn nicht für verrückt hielt.
 
 Das wäre ein Anfang.
 
-```

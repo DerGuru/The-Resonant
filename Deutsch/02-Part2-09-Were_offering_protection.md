@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 09 – Wir bieten Schutz an
 
 Sieben Wochen im Training war Jason drei Blocks von Morandis entfernt, als ein Mann aus dem Eingang eines Cafés trat und einfach dort stehen blieb, wartend.
@@ -163,5 +161,4 @@ Auf der anderen Straßenseite, in einer geparkten Limousine mit getönten Scheib
 Er sah zu Jasons Fenster hoch, erst hell, dann dunkel.
 
 Noch sechsunddreißig Stunden.
-```
-````
+

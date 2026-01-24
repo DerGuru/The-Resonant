@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 10 – Fang an, nach vorn zu bauen
 
 Der Bildschirm wurde schwarz.
@@ -119,5 +117,4 @@ Jason musste trotz allem lächeln. „Morgen trainieren wir härter.“
 „Ein präziser, vorsichtiger Schritt nach dem anderen“, murmelte er.
 
 *Ein präziser, vorsichtiger Schritt nach dem anderen,* echo­te RAE
-```
-````
+

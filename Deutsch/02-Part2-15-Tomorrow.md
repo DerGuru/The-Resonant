@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 15 – Morgen
 
 Tag Vierzehn. Der letzte Tag.
@@ -235,5 +233,4 @@ Das Zimmer wurde still. Jason hörte, wie Milos Atem langsamer wurde. Sah Schatt
 Morgen würden sie Malveks Deadline gegenüberstehen.
 
 Morgen würde sich alles ändern.
-```
-````
+

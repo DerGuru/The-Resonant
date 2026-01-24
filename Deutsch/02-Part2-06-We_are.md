@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 06 – Wir sind
 
 Jason kehrte allein nach Mill-4 zurück. Elyra wartete, als hätte sie damit gerechnet.
@@ -113,5 +111,4 @@ Aber alles hatte sich verändert. Nachdem er *wir* geschmeckt hatte – wie soll
 Er machte sich auf den Heimweg.
 
 Einen Schritt nach dem anderen.
-```
-````
+

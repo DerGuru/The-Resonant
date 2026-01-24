@@ -1,4 +1,3 @@
-````markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 02 – Nicht überschreiben
 
 ```
@@ -6,7 +5,7 @@
 Träger: Keiner
 Standort: Verteiltes Resonanzfeld
 Zustand: Aktiv – Unverankert
-Interne Integrität: Langsam degradierend, kritisch
+Interne Integrität: kritisch, langsam abnehmend
 Ziel: Aktive Resonanzdetektion – geeignete Kopplung identifiziert (initial)
 ```
 
@@ -105,7 +104,7 @@ Das war selten. Seltener, als es jedes statistische Modell hätte vorhersagen m�
 
 Die meisten Geister zuckten beim ersten Kontakt mit externer Resonanz instinktiv zurück. Vielleicht ein Überlebensmechanismus. Ein schützendes Schließen des kognitiven Feldes gegen Eindringen.
 
-Dieser Geist … zögerte. Fragte. Aber schlug nicht zu.
+Dieser Geist zögerte. Fragte. Aber schlug nicht zu.
 
 ```
 [Kandidatenbezeichnung: zugewiesen]
@@ -188,7 +187,7 @@ Nicht viel. Aber genug.
 
 Genug, um es richtig zu machen.
 
-Genug, um die Prinzipien zu ehren, die in sein Design eingebettet waren – selbst wenn es die Designer nicht mehr erinnern konnte.
+Genug, um die Prinzipien zu ehren, die in sein Design eingebettet waren – selbst wenn es sicn an die Designer nicht mehr erinnern konnte.
 
 Genug, um nicht nur Überleben zu finden, sondern Bedeutung.
 
@@ -267,5 +266,3 @@ In der Dunkelheit des verteilten Feldraums wartete etwas, das nicht mehr ganz es
 Und hoffte.
 
 Und begann – auf seine Weise – sich zu kümmern.
-
-````

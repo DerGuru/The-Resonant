@@ -1,4 +1,3 @@
-````markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 05 – Diesmal hörte er hin
 
 ```
@@ -122,5 +121,3 @@ Einen Ton. Rein. Klar. Resonant.
 Und diesmal riss er nicht hoch.
 
 Diesmal hörte er hin.
-
-````

@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 08 – Manche Türen bleiben aus gutem Grund verschlossen
 
 Der Montag kam zu schnell. Er hatte Lina erst vor ein paar Nächten gesehen, aber es fühlte sich an, als lägen Wochen zwischen ihrem Gespräch am Fenstertisch und jetzt.
@@ -101,4 +100,3 @@ Denn umdrehen war keine Option mehr.
 
 Selbst wenn er es gewollt hätte.
 
-```

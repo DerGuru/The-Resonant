@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 09 – Entscheidung ist heilig
 
 Jason stand in seiner Wohnung, das Abendlicht hinter dem kleinen Fenster verblasste zu Grau. Er war vom Restaurant nach Hause gekommen und seit einer Stunde hier, ging auf und ab, dachte, dachte nicht, versuchte sich mit banalen Aufgaben abzulenken, die seine Aufmerksamkeit einfach nicht halten wollten.
@@ -173,4 +172,3 @@ Nicht, weil er verstand, was passierte.
 
 Sondern weil er zum ersten Mal in seinem Leben entschied, es herauszufinden.
 
-```

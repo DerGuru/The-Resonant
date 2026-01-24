@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 06 – Was, wenn ich hätte sollen – und nie habe?
 
 Jason lag auf dem Rücken und starrte an die Decke. Die digitale Uhr auf seinem Nachttisch zeigte 2:47, die roten Ziffern brannten ihm jedes Mal in die Netzhaut, wenn er blinzelte.
@@ -235,4 +234,3 @@ Aber unter allem, kaum spürbar, war etwas Kleines, Zerbrechliches: Neugier.
 
 Und vielleicht – nur vielleicht – die hauchdünne Kante von Hoffnung.
 
-```

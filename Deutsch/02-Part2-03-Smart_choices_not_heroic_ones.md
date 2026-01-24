@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 03 – Kluge Entscheidungen, nicht heldenhafte
 
 „Sie müssen das sehen.“
@@ -327,5 +325,4 @@ Jason starrte auf die Nachricht, spürte das Gewicht der Einladung – und die D
 Lina nickte. „Kluge Entscheidung.“
 
 „Mill-4“, sagte er. „Dann sehen wir uns an, was sie weiß.“
-```
-````
+

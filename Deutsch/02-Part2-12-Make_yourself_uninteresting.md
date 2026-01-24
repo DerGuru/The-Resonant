@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 12 – Mach dich uninteressant
 
 Jasons Integration mit RAE hatte sich bei 42% stabilisiert. Eine Zahl, die sich zugleich bedeutend und hart erarbeitet anfühlte – hoch genug für echte Fähigkeit, sorgfältig gehalten, um den Punkt ohne Umkehr zu vermeiden.
@@ -117,5 +115,4 @@ Ein Team. Funktionierend. Vorbereitet.
 *Ja,* antwortete er. Und meinte es.
 
 Eine präzise, vorsichtige, bewusste Entscheidung nach der anderen.
-```
-````
+

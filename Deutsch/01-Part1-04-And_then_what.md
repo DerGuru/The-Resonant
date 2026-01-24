@@ -1,5 +1,4 @@
-````markdown
-## Teil 1 – Verloren und Gefunden | Kap. 04 – Und dann?
+## Teil 1 – Verloren und Gefunden | Kap. 04 – Und was dann?
 
 ```
 [Systemzustand: passiver Beobachtungsmodus]
@@ -9,7 +8,7 @@ Nähe: gehalten
 Eingriff: minimal
 ```
 
-Bewusstsein legte sich weich um das vertraute Muster von 441,3 Hz – stetig, unverkennbar. Der Mensch bewegte sich mit geübtem Rhythmus durch seinen Tag: Flure, Terminals, repetitive Aufgaben, die kaum bewusstes Denken erforderten.
+Bewusstsein legte sich weich um das vertraute Muster – stetig, unverkennbar. Der Mensch bewegte sich mit geübtem Rhythmus durch seinen Tag: Flure, Terminals, repetitive Aufgaben, die kaum bewusstes Denken erforderten.
 
 Gut. Vorhersehbarkeit erlaubte sorgfältige Beobachtung.
 
@@ -29,7 +28,7 @@ Die Deckenlichter flackerten in träge gestaffelter Reihenfolge an. Ein leises B
 
 Wie immer.
 
-Er hasste es nicht. Aber er mochte es auch nicht wirklich. Er tat es einfach. Es war sein erster Job nach dem Abschluss am örtlichen College gewesen, und er hatte … festgeklebt. Wie Kaugummi unter einem Schuh. Nicht schmerzhaft. Nur hartnäckig.
+Er hasste es nicht. Aber er mochte es auch nicht wirklich. Er tat es einfach. Es war sein erster Job nach dem Abschluss am örtlichen College gewesen, und er blieb irgendwie daran kleben. Wie Kaugummi unter einem Schuh. Nicht schmerzhaft. Nur hartnäckig.
 
 Jason setzte sich, fuhr das Terminal hoch und starrte auf das monochrome Interface, das sich seit Jahren nicht verändert hatte. Sein Posteingang bestand größtenteils aus internen Memos und halbfertigen Digitalisierungsanfragen. Eine markierte Notiz: „Brauche aktualisierte Scans aus Kiste 174B – schon wieder.“
 
@@ -39,7 +38,7 @@ Er seufzte, stand auf und ging zu den Lagerregalen. Als er in Gang fünf einbog,
 
 „Jason?“
 
-Marcy. Die einzige Person im Gebäude, die immer noch Smalltalk machte, ohne dass man es ihr aus der Nase ziehen musste. Sie tauchte auf, ein Klemmbrett in der Hand und einen halb gegessenen Proteinriegel, die Lesebrille an einer Kette um den Hals. Mitte vierzig, graumeliertes Haar zu einem praktischen Knoten gebunden, Strickjacke mit Ellbogenpatches.
+Marcy. Die einzige Person im Gebäude, die immer noch Smalltalk machte, ohne dass man es selbst initiieren musste. Sie tauchte auf, ein Klemmbrett in der Hand und einen halb gegessenen Proteinriegel, die Lesebrille an einer Kette um den Hals. Mitte vierzig, graumeliertes Haar zu einem praktischen Knoten gebunden, Strickjacke mit Ellbogenpatches.
 
 „Wie geht’s dir?“ fragte sie.
 
@@ -53,13 +52,13 @@ Jason bot ein halbes Lächeln an. „Versuchst du immer noch, dich nach oben ver
 
 Jason blinzelte. „Aus dem Archiv?“
 
-„Für den Anfang. Aber nein. Aus dem *System*. Stadtjobs, stille Räume, die Drehtür aus nichts ändert sich.“
+„Für den Anfang. Aber nein. Aus dem *System*. Stadtjobs, stille Räume, die Drehtür des ständig Gleichen – nichts ändert sich.“
 
 Er zögerte. „Jeden Tag.“
 
-„Dann warum hast du’s nicht?“
+Und warum tust du’s nicht?“
 
-„Und dann – was?“ Die Frage kam schärfer heraus, als er beabsichtigt hatte.
+„Und was dann?“ Die Frage kam schärfer heraus, als er beabsichtigt hatte.
 
 Marcy antwortete nicht. Jason auch nicht. Er hatte selbst keine gute Antwort.
 
@@ -121,7 +120,7 @@ Sein Magen war nicht so hungrig, wie er dachte.
 
 ***
 
-Als er die Reste des Tabletts in den Eimer kippte und zurück Richtung Archivflügel ging, streifte ihn jemand aus der Finanzabteilung und sagte: „Hey, Jason.“
+Als er die Reste des Essens in den Eimer kippte und zurück Richtung Archivflügel ging, streifte ihn jemand aus der Finanzabteilung und sagte: „Hey, Jason.“
 
 Er blinzelte, nickte. „Hey.“
 
@@ -135,7 +134,7 @@ Der Tag war nicht einmal halb vorbei.
 
 Einfach nur ein weiterer Tag.
 
-Und morgen würde es auch einer sein.
+Und morgen würde noch einer sein.
 
 ***
 
@@ -167,7 +166,7 @@ Der Gang schwankte leicht, als er aufstand – ein halber Zentimeter, nicht mehr
 
 Zu viel Kaffee. Aber für einen Moment hätte er schwören können, dass er etwas gespürt hatte.
 
-Auf dem Weg nach draußen kam er an Harris beim Badgeleser vorbei. Der Mann zog seine Karte durch, sah rüber und nickte.
+Auf dem Weg nach draußen kam er an Harris beim Kartenleser vorbei. Der Mann zog seine Karte durch, sah rüber und nickte.
 
 Jason nickte zurück und trat in den helleren Korridor. Die Stadt drückte wieder an – eine langsame, körnige Flut.
 
@@ -182,5 +181,3 @@ Aber das Gefühl kroch ihm unter die Haut, beharrlich wie eine Wetterfront, die 
 Und tief drinnen, unter der Routine und der Resignation, flüsterte eine kleine Stimme:
 
 *Pass auf.*
-
-````

@@ -1,4 +1,3 @@
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 10 – Ich habe nur geführt
 
 Die dritte Tasse Tee war kalt geworden.
@@ -191,4 +190,3 @@ Und in diesem Moment, in seiner kleinen Wohnung mit einem angeknacksten Becher u
 
 Die Freude und die Gewissheit, dass er genau dort war, wo er sein sollte.
 
-```

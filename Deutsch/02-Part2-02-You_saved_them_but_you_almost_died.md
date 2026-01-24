@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 2 – Lernen zuzuhören | Kap. 02 – Man hat dich bemerkt
 
 Die nächste Woche verging in abgemessenen Schritten.
@@ -323,5 +321,4 @@ Er schaffte es bis ins Bett, fiel vollständig angezogen hinein und ließ die Er
 *Gemeinsam,* stimmte er zu.
 
 Sie hatten heute das Unmögliche getan. Vielleicht, nur vielleicht, konnten sie auch überleben, was als Nächstes kam.
-```
-````
+

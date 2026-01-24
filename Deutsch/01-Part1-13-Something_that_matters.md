@@ -1,5 +1,3 @@
-````markdown
-```markdown
 # Teil 1 – Verloren und Gefunden | Kap. 13 – Etwas, das zählt
 
 Drei Wochen nach Trainingsbeginn stand Jason am Fenster seiner Wohnung und sah zu, wie das frühe Morgenlicht die Skyline in Gold- und Karmesintöne tauchte.
@@ -141,5 +139,4 @@ Ein weiterer Samstag. Ein weiterer Tag.
 Nur dass nichts mehr gewöhnlich war.
 
 Und irgendwie war das in Ordnung.
-```
-````
+

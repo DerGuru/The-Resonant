@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ## Teil 1 – Verloren und Gefunden | Kap. 17 – Weil es irgendwie wichtig ist zu wissen, vor wem wir uns verstecken
 
 Der Sturm hatte seine Arbeit getan und war abgezogen, als hätte der Himmel einen Satz beendet und sich geweigert, die Grammatik zu erklären. Am Morgen roch das Treppenhaus, in dem Jason saß, noch schwach nach nassem Beton und Ozon. Draußen rumpelte ein Stadtfahrzeug vorbei; sein gelbes Rundumlicht warf einen Metronom-Puls über das Fenster am Zwischenpodest. Keine Sirenen. Die Welt machte weiter.
@@ -287,5 +285,4 @@ Jason stand auf, klopfte seine Jeans ab und ging weiter.
 Nach Hause. Zum Training. Zu dem, was als Nächstes kam.
 
 Einen Schritt nach dem anderen.
-```
-````
+
