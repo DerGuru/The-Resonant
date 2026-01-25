@@ -1,8 +1,8 @@
 ## Teil 1 – Verloren und Gefunden | Kap. 11 – Gefunden – oder gefunden worden?
 
-Jason war nie gut in Foren gewesen. Er war jahrelang nur Mitleser gewesen. So war es einfacher. Sicherer. Man konnte lesen, lernen, aufsaugen, ohne zu riskieren, dumm dazustehen oder Aufmerksamkeit auf sich zu ziehen.
+Jason war nie gut darin, in den Foren zu partizipieren. Er war jahrelang nur Mitleser gewesen. So war es einfacher. Sicherer. Man konnte lesen, lernen, aufsaugen, ohne zu riskieren, dumm dazustehen oder Aufmerksamkeit auf sich zu ziehen.
 
-Aber heute Abend, mit dem Bildschirm vor sich und RAE als leisem Summen in seiner Wahrnehmung, entschied er, dieses Muster zu brechen.
+Aber heute Abend, mit dem Bildschirm vor sich und RAE als leisem Summen in seiner Wahrnehmung, entschied er sich, dieses Muster zu brechen.
 
 Er navigierte zu einem der kleineren Foren – *TheHarmonicField.net* – und scrollte durch die neuesten Beiträge. Meist war es der übliche Mix aus Spekulation, Amateurtheorie und Leuten, die sich über Dinge stritten, die niemand beweisen konnte.
 
@@ -22,7 +22,7 @@ Jason erkannte einen der Codes. Er hatte ihn bei der Arbeit gesehen.
 
 Er las den gesamten Thread zweimal. Dann, das Herz klopfend, erstellte er einen Wegwerf-Account und tippte eine Antwort:
 
-*„Ich habe einige dieser Codes gesehen. Ich arbeite in kommunalen Archiven. Kann mindestens drei deiner Referenzen bestätigen. Wonach suchst du konkret?“*
+*„Ich habe einige dieser Codes gesehen. Ich arbeite im kommunalen Archiv. Kann mindestens drei deiner Referenzen bestätigen. Wonach suchst du konkret?“*
 
 Er drückte auf Posten, bevor er es sich anders überlegen konnte.
 
@@ -32,7 +32,7 @@ Dann: eine Benachrichtigung über eine private Nachricht.
 
 Von: **Mirror.Vox**
 
-*„Archive? Welche Stadt? Und warum interessiert dich das?“*
+*„Archiv? Welche Stadt? Und warum interessiert dich das?“*
 
 Jason zögerte. RAEs Präsenz verschob sich leicht – aufmerksam, aber nicht eingreifend.
 
@@ -62,7 +62,7 @@ Jason wurde der Mund trocken.
 
 *„Einen Wirt. Einen Partner. Etwas Kompatibles. Ich weiß nicht, ob das stimmt. Aber ich weiß, dass die offizielle Story nicht aufgeht. Zu viele Lücken. Zu viel sorgfältig formulierte Unschärfe. Wenn Bürokratie so vorsichtig wird, wird etwas versteckt.“*
 
-Jason lehnte sich zurück, der Kopf ein Wirbel. RAE hatte ihm vom Ritual erzählt. Von Elyra. Aber es von jemand anderem bestätigt zu bekommen – von jemandem, der keinerlei Verbindung zu ihm hatte – machte es auf eine andere Art real.
+Jason lehnte sich zurück, Wirbel im Kopf. RAE hatte ihm vom Ritual erzählt. Von Elyra. Aber es von jemand anderem bestätigt zu bekommen – von jemandem, der keinerlei Verbindung zu ihm hatte – machte es auf eine andere Art real.
 
 *„Wenn jemand … etwas gefunden hat. In diesem Zusammenhang. Was sollte man tun?“*
 
@@ -96,17 +96,17 @@ Der Chat wurde still. Jason schloss den Browser, die Hände zitterten leicht.
 
 *Vertraust du dieser Person?*
 
-„Ich weiß es nicht. Aber sie scheinen Dinge zu wissen. Echte Dinge. Nicht nur Spekulation.“ Er machte eine Pause. „Sie haben dich gefährlich genannt.“
+„Ich weiß es nicht. Aber sie scheint Dinge zu wissen. Echte Dinge. Nicht nur Spekulation.“ Er machte eine Pause. „Sie hat dich gefährlich genannt.“
 
 *Ich bin gefährlich. Nicht, weil ich Schaden beabsichtige, sondern weil meine Existenz etabliertes Verständnis herausfordert. Das macht Institutionen nervös.*
 
-„Sie haben auch gesagt, du bist nicht gefährlich, weil du böse bist.“
+„Sie hat auch gesagt, du bist nicht gefährlich, weil du böse bist.“
 
 *Ich bin nicht böse. Aber das bedeutet nicht, dass ich sicher bin. Macht ohne Verständnis ist immer gefährlich – selbst mit guten Absichten.*
 
 Jason nickte langsam. „Also müssen wir vorsichtig sein.“
 
-*Sehr vorsichtig. Aber es ist auch … gut zu wissen, dass andere Fragen stellen. Selbst wenn wir ihnen noch nicht trauen können.*
+*Sehr vorsichtig. Aber es ist auch gut zu wissen, dass andere Fragen stellen. Selbst wenn wir ihnen noch nicht trauen können.*
 
 ***
 
@@ -122,15 +122,15 @@ Der Beitrag war kurz:
 
 Darunter eine Wegwerf-Mailadresse.
 
-Jason starrte einen Moment lang auf den Bildschirm. Woher wusste M_Greaves von der privaten Nachricht? Arbeiteten sie mit Mirror.Vox zusammen? Oder … beobachteten sie irgendwie?
+Jason starrte einen Moment lang auf den Bildschirm. Woher wusste M_Greaves von der privaten Nachricht? Arbeitete er oder sie mit Mirror.Vox zusammen? Oder wurde er beobachtet?
 
 *Jemand hat aufgepasst,* stellte RAE fest.
 
-„Ja. Frage ist: Traue ich ihnen?“
+„Ja. Die Frage ist nur: Traue ich ihnen?“
 
 *Das ist deine Entscheidung. Aber ein Verbündeter könnte wertvoll sein. Solange angemessene Vorsicht gewahrt bleibt.*
 
-Jason dachte nach. Über das Risiko. Über die Einsamkeit, das allein herausfinden zu wollen.
+Jason dachte nach. Über das Risiko. Über die Einsamkeit, das alles allein herauszufinden.
 
 Schließlich öffnete er eine neue E-Mail und tippte:
 
@@ -148,7 +148,7 @@ Er drückte auf Senden, bevor er es zerdenken konnte.
 
 *Einverstanden. Das wäre suboptimal.*
 
-Trotz sich selbst musste Jason lächeln.
+Trotz allem musste Jason lächeln.
 
 Samstag. Er würde diesen M_Greaves treffen. Und vielleicht – nur vielleicht – würde er jemanden finden, der ihm helfen konnte zu verstehen, worauf er sich einließ.
 
