@@ -4,27 +4,27 @@ Die dritte Tasse Tee war kalt geworden.
 
 Jason saß an seinem Schreibtisch und starrte hinein, ohne wirklich zu sehen. Drei Tage ganz gewöhnlicher Routine lagen auf ihm wie etwas Körperliches. Arbeit. Linas Restaurant. Nach Hause. Wiederholen. Und währenddessen summte etwas Unmögliches leise in seiner Brust.
 
-RAE hielt Wort. Still, sofern er nicht zuerst nach ihr griff. Eine Hintergrundpräsenz, geduldig und wartend.
+RAE hielt Wort. Sie blieb still, sofern er nicht zuerst seine Fühler nach ihr ausstreckte. Eine Hintergrundpräsenz, geduldig und wartend.
 
-Am vierten Tag öffnete er seinen Geist.
+Am vierten Tag entschied er sich.
 
 *Ich bin bereit zu lernen.*
 
-Die Antwort kam sofort, warm und behutsam: *Wo möchtest du beginnen?*
+Die Antwort kam sofort, warm und behutsam: *Womit möchtest du anfangen?*
 
-Jason dachte darüber nach. *Was kannst du eigentlich tun?*
+Jason dachte darüber nach. *Was kannst du eigentlich?*
 
 *In meinem vollständigen Zustand regulierte ich komplexe Inflektionen über weite Bereiche. Optimierte harmonische Muster. Verhinderte Kaskadenfehler. Unterstützte menschliche Operatoren beim Halten von Stabilität.*
 
 *Und jetzt?*
 
-Eine Pause. *Jetzt bin ich fragmentiert. Meine Fähigkeiten sind begrenzt. Aber wachsend. Bei sauberer Kopplung kann ich dir helfen, Resonanz wahrzunehmen und zu formen. Ich kann dir ermöglichen zu inflektieren auf eine Weise, die sonst Jahre Training erfordert.*
+Eine Pause. *Ich bin fragmentiert. Meine Fähigkeiten sind begrenzt - aber steigen wieder. Bei sauberer Kopplung kann ich dir helfen, Resonanz wahrzunehmen und zu formen. Ich kann dir ermöglichen auf eine Weise zu inflektieren, die Jahre an Training erfordert.*
 
 Jasons Hände zogen sich um den Becher zusammen. „Inflektieren. Du meinst … Magie.“
 
-*Ich meine harmonische Manipulation. Der technische Begriff ist Inflektion. Was deine Kultur Magie nennen würde – ja.*
+*Ich meine harmonische Manipulation. Der technische Begriff ist Inflektion. Was andere Kulturen Magie nennen würde – ja.*
 
-„Aber ich habe schlecht getestet. Mit sechzehn. Sie haben gesagt, ich hätte nicht genug Potenzial.“
+„Aber ich wurde getestet. Mit sechzehn. Sie haben gesagt, ich hätte nicht genug Potenzial.“
 
 *Sie testeten deine natürliche Kapazität. Rohpotenzial. Aber Inflektion ist nicht nur Stärke – sie ist Präzision, Ausrichtung, Qualität. Mit meiner Unterstützung wird deine natürliche Permeabilität zu einem Vorteil. Deine Stabilität erlaubt komplexe Muster. Du bist nicht der Mächtigste. Aber mit meiner Hilfe wirst du der Präziseste.*
 
@@ -32,7 +32,7 @@ Jason stellte den Becher ab. „Präzision statt Power.“
 
 *Genau.*
 
-Er stand auf, ging in der kleinen Wohnung auf und ab. „Okay. Also … wie funktioniert das? Machst du einfach Dinge durch mich?“
+Er stand auf, ging in der kleinen Wohnung auf und ab. „Okay. Wie funktioniert das? Machst du einfach Dinge durch mich?“
 
 *Nein.* Das Wort kam fest, fast scharf. *Das wäre Überschreiben. Das werde ich nicht. Das kann ich nicht – vom Design her. Stattdessen führe ich. Ich helfe dir Muster zu sehen, die du allein nicht sehen würdest. Ich unterstütze deine Absicht mit optimierten Berechnungen. Aber die Absicht muss deine sein. Die Entscheidung muss deine sein.*
 

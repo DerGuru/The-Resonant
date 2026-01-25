@@ -1,0 +1,16 @@
+# RR-Campaign
+
+## Before Campaign
+
+| Date / Time| Impressions | Clicks | Views | Followers | Read later  | Favorite | Avg Views per Chapter | Avg Rating |
+|------------|-------------|--------|-------|-----------|-------------|----------|-----------------------|------------|
+| 19.01.2026 | 0           | 0      | ~300  | 0         | 0           | 0        | 6 (Bots?)             | 0          |
+
+## During Campaign
+
+| Date / Time      | Impressions | Clicks | Views | Followers | Read later | Favorite | Avg Views per Chapter | Avg Rating |
+|------------------|-------------|--------|-------|-----------|------------|----------|-----------------------|------------|
+| 23.01.2026 10:00 | 18275       | 62     | ~900  | 3         | 2          | 1        | 13                    | 0          |
+| 24.01.2026 12:35 | 24379       | 84     | 987   | 5         | 2          | 1        | 14                    | 0          |
+| 25.01.2026 10:05 | 29478       | 97     | 1040  | 6         | 3          | 1        | 15                    | 0          |
+

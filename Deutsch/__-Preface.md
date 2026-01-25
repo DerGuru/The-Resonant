@@ -46,7 +46,7 @@ Es war *viel besser*. Das Ergebnis gefiel mir. Nicht exakt das, was ich am Anfan
 
 ## Wie dieser Prozess wirklich aussah
 
-Mit einer KI einen Roman zu schreiben bedeutet mehr, als nur „Erzähl mir eine Geschichte“ zu tippen und auf ein Manuskript zu warten. Mein erster Versuch war genau so – und er hielt exakt so lange, wie ich brauchte, um drei Kapitel zu lesen. Wenn der zweite Versuch SCHLECHT in Großbuchstaben war, dann war der erste einach *furchtbar.*
+Mit einer KI einen Roman zu schreiben bedeutet mehr, als nur „Erzähl mir eine Geschichte“ zu tippen und auf ein Manuskript zu warten. Mein erster Versuch war genau so – und er hielt exakt so lange, wie ich brauchte, um drei Kapitel zu lesen. Wenn der zweite Versuch SCHLECHT in Großbuchstaben war, dann war der erste einfach *furchtbar.*
 
 Mit einer KI zu arbeiten ist ein anspruchsvoller Prozess. Auch wenn die KI den Großteil des Tippens übernimmt, habe ich beträchtliche Arbeit hineingesteckt, damit die Geschichte meinen Ansprüchen genügt. Brandon Sanderson ist vermutlich schneller – er hat in einem Jahr vier Romane geschrieben, zu allem anderen dazu, woran er sowieso gearbeitet hat. Dieses Buch allein hat fast ein ganzes Jahr gebraucht.
 
@@ -104,7 +104,7 @@ Auf dem Papier klingt der Prozess methodisch. In Wirklichkeit war er chaotisch, 
 
 **Abschnitte selbst schreiben:** Wenn die KI nicht traf, was ich wollte – einen bestimmten Ton, einen subtilen Figurenmoment, einen komplexen emotionalen Beat – schrieb ich es von Hand.
 
-**Mit dem Zaun zuschlagen:** Statt nur mit dem Zaunpfahl zu winken, neigete die KI dazu, einem mit dem ganzen Zaun eine überzubraten. Ich wollte, dass Leser die Chance haben, Dinge selbst zu verstehen oder abzuleiten, also musste ich sie oft zurücknehmen, um Subtilität und Andeutung zu bewahren.
+**Mit dem Zaun zuschlagen:** Statt nur mit dem Zaunpfahl zu winken, neigte die KI dazu, einem mit dem ganzen Zaun eine überzubraten. Ich wollte, dass Leser die Chance haben, Dinge selbst zu verstehen oder abzuleiten, also musste ich sie oft zurücknehmen, um Subtilität und Andeutung zu bewahren.
 
 ***
 
@@ -148,6 +148,6 @@ Es ist kein „Editing und Korrekturlesen“, das man auf Aufräumen reduzieren 
 
 Es ist **Zusammenarbeit.**
 
-Ich hoffe, du hast beim Lesen so viel Freude daran, wie ich Freude – und oft auch Frustruation – hatte, während ich es geformt habe.
+Ich hoffe, du hast beim Lesen so viel Freude daran, wie ich Freude – und oft auch Frustration – hatte, während ich es geformt habe.
 
 Willkommen bei *The Resonant*.

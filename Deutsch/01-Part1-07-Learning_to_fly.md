@@ -34,7 +34,7 @@ Jason kaute nachdenklich, nickte dann. „Du gewinnst.“
 
 „Offensichtlich.“
 
-Sie saßen so ein paar Minuten in leichter Stille Die Art Stille, die erst nach hundert ähnlichen Mahlzeiten entsteht. Nicht peinlich, nicht gespielt. Einfach bekannt.
+Sie saßen so ein paar Minuten in leichter Stille. Die Art Stille, die erst nach hundert ähnlichen Mahlzeiten entsteht. Nicht peinlich, nicht gespielt. Einfach bekannt.
 
 Jason blickte auf. Lina starrte an ihm vorbei aus dem Fenster, der Ausdruck weich und weit weg. Das gelbe Licht der Straßenlaterne hing in ihrem dunklen Haar, und für einen Moment sah sie aus wie jemand aus einem Gemälde – still, nachdenklich, unerreichbar.
 
