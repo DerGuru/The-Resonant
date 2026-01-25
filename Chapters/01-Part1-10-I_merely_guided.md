@@ -56,7 +56,7 @@ Jason looked at the cheap ballpoint, cap half-chewed from nervous habits. "Yeah.
 
 Jason tried. Felt silly. "I don't - "
 
-*Don't force. Allow. Perception is not pushing. It's opening.*
+*Don't force. Allow. Perception is not pushing. It's opening. If you want to see, you have open your eyes. If you want to hear, you have open your ears. For this, you have to open your mind.*
 
 He took a breath. Tried again. And this time, instead of reaching for the pen, he simply... noticed it.
 
@@ -176,7 +176,7 @@ Jason stared at the mug, his hands trembling. "I did magic."
 
 *Indeed.*
 
-Jason laughed, the sound bubbling up from somewhere deep in his chest. He'd done it. Actually done it. Not through raw power or natural talent, but through patience and precision and...
+Jason laughed, the sound bubbling up from somewhere deep in his chest. He'd done it. Actually done it. Not through raw power or natural talent, but through patience and precision.
 
 "Thank you," he said quietly.
 

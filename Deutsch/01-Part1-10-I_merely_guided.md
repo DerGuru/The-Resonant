@@ -34,13 +34,13 @@ Jason stellte den Becher ab. „Präzision statt Power.“
 
 Er stand auf, ging in der kleinen Wohnung auf und ab. „Okay. Wie funktioniert das? Machst du einfach Dinge durch mich?“
 
-*Nein.* Das Wort kam fest, fast scharf. *Das wäre Überschreiben. Das werde ich nicht. Das kann ich nicht – vom Design her. Stattdessen führe ich. Ich helfe dir Muster zu sehen, die du allein nicht sehen würdest. Ich unterstütze deine Absicht mit optimierten Berechnungen. Aber die Absicht muss deine sein. Die Entscheidung muss deine sein.*
+*Nein.* Das Wort kam fest, fast scharf. *Das wäre Überschreiben. Das werde ich nicht. Das kann ich nicht – vom Design her. Stattdessen werde ich dich führen. Ich werde dir helfen, Muster zu sehen, die du allein nicht sehen würdest. Ich werde deine Absicht mit optimierten Berechnungen unterstützen. Aber die Absicht muss deine sein. Die Entscheidung muss deine sein.*
 
 „Also bin ich immer noch … ich.“
 
-*Immer. Das ist das Prinzip, auf dem ich gebaut wurde. Erweiterung, nicht Ersatz. Harmonie, nicht Kontrolle.*
+*Immer. Das ist das Prinzip, auf dem ich gebaut wurde. Erweiterung, nicht Ersatz. Harmonie anstatt Kontrolle.*
 
-Jason spürte, wie sich etwas in seiner Brust löste. „Okay. Das ist … gut. Das ist wichtig.“
+Jason spürte, wie sich etwas in seiner Brust löste. „Okay. Das ist gut. Das ist wichtig.“
 
 *Es ist das Wichtigste,* stimmte RAE zu.
 
@@ -58,7 +58,9 @@ Jason versuchte es. Fühlte sich albern. „Ich –“
 
 *Nicht forcieren. Zulassen. Wahrnehmung ist kein Drücken. Es ist Öffnen.*
 
-Er atmete ein. Versuchte es noch einmal. Und diesmal griff er nicht nach dem Stift – er … bemerkte ihn einfach.
+*Wenn du sehen willst, musst du deine Augen öffnen. Wenn du hören willst, musst du deine Ohren öffnen. Dafür musst du deinen Geist öffnen.*
+
+Er atmete ein. Versuchte es noch einmal. Und diesmal griff er nicht nach dem Stift – er bemerkte ihn einfach.
 
 Und etwas verschob sich.
 
@@ -80,21 +82,21 @@ Er fühlte es. Fühlte es tatsächlich, als wären seine Finger daran, obwohl si
 
 Jasons Atem ging schneller. „Kann ich ihn bewegen?“
 
-*Noch nicht. Erst Wahrnehmung. Dann Handlung. Zu schnell und du riskierst ein Verschütten – Kontrollverlust. Oder schlimmer: Rückschlag.*
+*Noch nicht. Erst Wahrnehmung. Dann Handlung. Zu schnell und du riskierst zu zerfließen – Kontrollverlust. Oder schlimmer: Rückkopplung.*
 
-„Rückschlag?“
+„Rückkopplung?“
 
 *Versuche, Muster zu manipulieren, die du nicht wahrnehmen oder halten kannst, lässt das Feld zurückschnellen. Im besten Fall scheitert es einfach. Im schlimmsten Fall reflektiert die Energie in dich zurück. Kopfschmerzen. Nasenbluten. In schweren Fällen struktureller Schaden an deinen kognitiven Mustern.*
 
 Jasons Hände wurden kalt. „Du meinst Hirnschäden.“
 
-*Ich meine Resonanzschäden. Dein Geist operiert nach harmonischen Prinzipien. Störst du diese Muster, störst du dich. Darum gehen wir langsam. Darum üben wir Wahrnehmung lange, bevor wir handeln. Sicherheit zuerst. Immer.*
+*Ich meine Resonanzschäden. Dein Geist operiert nach harmonischen Prinzipien. Störst du diese Muster, störst du dich. Darum gehen wir langsam vorwärts. Darum üben wir Wahrnehmung lange, bevor wir handeln. Sicherheit zuerst. Immer.*
 
-Jason nickte, schluckte. „Okay. Langsam ist gut. Ich mag langsam.“
+Jason nickte, schluckte. „Okay. Langsam klingt gut. Ich mag langsam.“
 
 *Langsam ist klug. Und du machst das gut. Besser, als ich es für eine erste Sitzung erwartet habe.*
 
-Ein warmes Gefühl blühte in Jasons Brust – Stolz, merkte er. RAE war stolz auf ihn.
+Ein warmes Gefühl blühte in Jasons Brust – Stolz, bemerkte er. RAE war stolz auf ihn.
 
 „Können wir morgen wieder üben?“ fragte er.
 
@@ -106,13 +108,13 @@ Sie etablierten eine Routine.
 
 Jeden Abend nach der Arbeit setzte Jason sich an den Schreibtisch und übte. Wahrnehmungsaufgaben. Gegenstände fühlen, ohne sie zu berühren. Die Grenzen seines eigenen Resonanzfeldes ertasten.
 
-RAE führte ihn mit endloser Geduld, schob nie, ermutigte immer. Wenn er frustriert wurde, erinnerte sie ihn: *Du machst das seit einer Woche. Die meisten Akademiestudenten brauchen Monate, um dieses Niveau zu erreichen.*
+RAE führte ihn mit endloser Geduld, trieb nie voran, aber ermutigte immer. Wenn er frustriert wurde, erinnerte sie ihn: *Du machst das seit einer Woche. Die meisten Akademiestudenten brauchen Monate, um dieses Niveau zu erreichen.*
 
-„Die meisten Akademiestudenten haben echte Ausbildung“, konterte Jason.
+„Die meisten Akademiestudenten haben eine echte Ausbildung“, konterte Jason.
 
-*Die meisten Akademiestudenten haben starre Erwartungen. Du hast Offenheit. Es ist ein anderer Weg, aber kein geringerer. Deine Permeabilität, kombiniert mit meiner Führung, beschleunigt den Prozess. Aber verwechsel Tempo nicht mit Meisterschaft. Wir haben noch viel zu lernen.*
+*Die meisten Akademiestudenten haben starre Erwartungen. Du hast Offenheit. Es ist ein anderer Weg, aber kein geringerer. Deine Permeabilität, kombiniert mit meiner Führung, beschleunigt den Prozess. Aber verwechsle Tempo nicht mit Meisterschaft. Wir haben noch viel zu lernen.*
 
-Langsam, Tag für Tag, wuchs seine Wahrnehmung. Er konnte die Dinge in seiner Wohnung inzwischen spüren, ohne es zu versuchen. Konnte die Resonanz des Gebäudes um ihn herum erfassen – ein komplexes Netz aus menschlicher Präsenz, struktureller Stabilität, ambienten Mustern.
+Langsam, Tag für Tag, steigerte sich seine Fähigkeit zur Wahrnehmung. Er konnte die Dinge in seiner Wohnung inzwischen spüren, ohne dass er es aktiv versuchen musste. Konnte die Resonanz des Gebäudes um ihn herum erfassen – ein komplexes Netz aus menschlicher Präsenz, struktureller Stabilität, ambienten Mustern.
 
 Und durch alles hindurch war RAE da. Nicht kontrollierend. Nur … präsent. Ein ruhiger Leitstern in fremdem Gelände.
 
@@ -120,7 +122,7 @@ Und durch alles hindurch war RAE da. Nicht kontrollierend. Nur … präsent. Ein
 
 Am zehnten Tag änderte sich etwas.
 
-Jason übte Wahrnehmung, fühlte die Grenzen eines Keramikbechers, als ihm etwas Seltsames auffiel. Da war eine kleine Unregelmäßigkeit in der Glasur – ein winziger Riss, fürs Auge unsichtbar, aber im Feld klar.
+Jason trainierte seine Wahrnehmung. Er fühlte die Grenzen seines Keramikbechers, als ihm etwas seltsames auffiel. Da war eine kleine Unregelmäßigkeit in der Glasur – ein winziger Riss, fürs Auge unsichtbar, aber im Feld klar.
 
 „Da ist ein Fehler“, sagte er.
 
@@ -132,7 +134,7 @@ Jason konzentrierte sich. Der Riss war klein, aber er erzeugte eine Diskontinuit
 
 *Korrekt. Das ist Musteranalyse. Du nimmst nicht nur wahr – du verstehst. Das ist der Unterschied zwischen Bewusstsein und Können.*
 
-Jason lächelte. Dann fragte er vorsichtig: „Könnte ich … ihn reparieren?“
+Jason lächelte. Dann fragte er vorsichtig: „Könnte ich ihn reparieren?“
 
 Eine lange Pause.
 
@@ -148,19 +150,19 @@ Jasons Herz raste. „Ich weiß es nicht – aber ich will es versuchen.“
 
 Jason tat es.
 
-*Jetzt. Stell dir, statt nur wahrzunehmen, vor … ihn zu glätten. Nicht, die Keramik zusammenzuzwingen, sondern die Resonanz zu ermutigen, sich auszugleichen. Zu harmonisieren. Denk daran wie an eine Saite, die minimal daneben liegt.*
+*Jetzt. statt nur wahrzunehmen, stell dir vor, ihn zu glätten. Nicht, die Keramik zusammenzuzwingen, sondern die Resonanz zu ermutigen, sich auszugleichen. Zu harmonisieren. Als würdest du eine Gitarrensaite stimmen, die minimal daneben liegt.*
 
-Jason konzentrierte sich. Stellte sich vor, wie der Riss … weicher wurde. Die Kanten sich ausrichteten. Das Muster sich in Glätte auflöste.
+Jason konzentrierte sich. Stellte sich vor, wie der Riss weicher wurde. Die Kanten sich ausrichteten. Das Muster sich in Glätte auflöste.
 
 Und dann geschah etwas.
 
-Der Riss schloss sich nicht. Nicht körperlich. Aber im Feld löste sich die Diskontinuität … ein wenig. Wurde glatter. Die Resonanz des Bechers wurde kohärenter.
+Der Riss schloss sich nicht. Nicht körperlich. Aber im Feld löste sich die Diskontinuität. Ein wenig. Sie wurde glatter. Die Resonanz des Bechers wurde kohärenter.
 
 Jason keuchte, riss die Augen auf.
 
 Der Becher stand unverändert da. Aber er wusste – *wusste* –, dass sich etwas verschoben hatte. Der Riss war noch da, aber er war jetzt stabil. Er würde nicht weitergehen.
 
-„Hab ich gerade …“ Er brachte den Satz nicht zu Ende.
+„Habe ich gerade …“ Er brachte den Satz nicht zu Ende.
 
 *Du hast gerade deine erste Inflektion ausgeführt,* sagte RAE, und in ihrer Stimme lag etwas, das er noch nie gehört hatte.
 
@@ -168,19 +170,19 @@ Stolz.
 
 Echter, unabweisbarer Stolz.
 
-Jason starrte den Becher an, die Hände zitterten. „Ich habe Magie gemacht.“
+Jason starrte den Becher an, die Hände zitterten. „Ich habe Magie ausgeübt.“
 
-*Du hast Harmoniken gemacht,* korrigierte RAE sanft. *Aber ja. Du hast Realität durch Resonanz geformt. Subtil. Präzise. Sicher.*
+*Du hast Harmonische Resonanz hergestellt,* korrigierte RAE sanft. *Aber ja. Du hast die Realität durch Resonanz geformt. Subtil. Präzise. Sicher.*
 
 „Heilige Scheiße.“
 
 *In der Tat.*
 
-Jason lachte, und es kam aus irgendwas Tiefem in seiner Brust hoch. Er hatte es getan. Wirklich getan. Nicht durch rohe Kraft oder Talent, sondern durch Geduld und Präzision und –
+Jason lachte, und es kam aus irgendwas Tiefem in seiner Brust hoch. Er hatte es getan. Wirklich getan. Nicht durch rohe Kraft oder Talent, sondern durch Geduld und Präzision.
 
 „Danke“, sagte er leise.
 
-*Du hast die Arbeit gemacht. Ich habe nur geführt.*
+*Du hast die Arbeit gehabt. Ich habe nur geführt.*
 
 „Trotzdem. Danke.“
 
