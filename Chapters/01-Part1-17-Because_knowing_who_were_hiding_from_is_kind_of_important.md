@@ -164,7 +164,7 @@ Milo took the phone, zoomed in on the screenshot. "That's a decent lead. I can w
 
 "And while he does that?" Lina asked.
 
-"We train," Jason said. "If we're going to survive what's coming, I need to get better. Faster. More controlled."
+"I train," Jason said. "If we're going to survive what's coming, I need to get better. Faster. More controlled."
 
 "We train," Lina corrected. "Because I'm not sitting on the sidelines while you boys have all the fun."
 

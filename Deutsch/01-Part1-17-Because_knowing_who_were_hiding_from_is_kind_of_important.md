@@ -4,13 +4,13 @@ Der Sturm hatte seine Arbeit getan und war abgezogen, als hätte der Himmel eine
 
 *Bist du noch da?* dachte Jason und testete die Verbindung.
 
-*Da,* sagte RAE, schwächer als sonst. *Und langsamer. So tief zu verstecken, hat uns beide belastet.*
+*Da,* sagte RAE, schwächer als sonst. *Aber langsamer. So tief zu verstecken, hat uns beide belastet.*
 
 Er atmete aus und lockerte Hände, von denen er nicht einmal bemerkt hatte, dass er sie verkrampft hielt. Das erklärte den Schmerz hinter seinen Augen – nicht dieses dumpfe Pochen von zu wenig Schlaf, sondern etwas Präziseres. Als hätte jemand einen Finger gegen die Innenseite seines Schädels gedrückt und vergessen, ihn wieder wegzunehmen. Der Preis für das Verstecken.
 
 Jason stand vorsichtig auf und testete sein Gleichgewicht. Die Welt blieb gerade. Das war schon mal etwas.
 
-Sein Handy vibrierte. Lina: *„Unten. Kommst du?“*
+Sein Handy vibrierte. Lina: *Unten. Kommst du?*
 
 Er ging langsam hinunter, eine Hand am Geländer, fühlte das Metall schwach unter seiner Handfläche summen. RAEs Präsenz – gedämpft und vorsichtig.
 
@@ -20,11 +20,11 @@ Lina wartete im Eingangsbereich, die Arme verschränkt. Ihre dunklen Augen scann
 
 „Ja“, stimmte Jason zu. „War eine harte Nacht.“
 
-„Dachte ich mir. Wenn du mir schreibst ‚können wir morgen reden, ist wichtig‘ und dann gibt’s einen als Waffe benutzten Sturm.“ Sie deutete auf die Straße. „Komm. Lauf mit mir. Du erzählst mir alles.“
+„Dachte ich mir. Wenn du mir schreibst ‚können wir morgen reden, ist wichtig‘ und dann gibt’s einen als Waffe benutzten Sturm.“ Sie deutete auf die Straße. „Komm. Wir gehen. Du erzählst mir alles.“
 
 ***
 
-Sie gingen durch den Park, an dem leeren Spielplatz vorbei, entlang des Flusswegs, wo Jogger wie Uhrwerk an ihnen vorbeizogen. Die Morgenluft war kühl genug, dass Jason seine Jacke enger zog. Die Straßen hatten diese frisch geschrubbte Qualität nach einem Sturm, Pfützen spiegelten den Himmel in Splittern.
+Sie gingen durch den Park, an dem leeren Spielplatz vorbei, entlang des Flusswegs, wo Jogger wie Uhrwerke an ihnen vorbeizogen. Die Morgenluft war kühl genug, dass Jason seine Jacke enger zog. Die Straßen hatten diese frisch geschrubbte Qualität nach einem Sturm, Pfützen spiegelten den Himmel in Splittern.
 
 Jason erzählte ihr alles. Von RAE. Von der Gestalt im Regen. Von dem Verstecken so tief, dass es sie beide zerschlagen und schmerzen ließ.
 
@@ -34,7 +34,7 @@ Lina hörte zu, ohne zu unterbrechen, das Gesicht sorgfältig neutral. Als er fe
 
 „Ja.“
 
-„Und jetzt willst du, dass ich dir helfe, was? Geheime Kommunikationsgeräte bauen? Trainieren? Zurückschlagen?“
+„Und jetzt willst du, dass ich dir helfe. Wobei? Geheime Kommunikationsgeräte bauen? Trainieren? Zurückschlagen?“
 
 Jason hielt ihrem Blick stand. „Ich will, dass du weißt, worauf du dich einlässt. Du bist sowieso in Gefahr. Sie beobachten mich, sie wissen von dir. Dieselbe Sitzbank, jede Woche. Wenn sie mich gefunden haben, haben sie dich auch gefunden.“
 
@@ -52,7 +52,7 @@ Jason gab es Lina weiter. „Du sprichst im Grunde schon mit ihr. Und RAE sagt, 
 
 „Wie viel Kraft?“
 
-„Denk an: Kaffeetasse, die plötzlich eine Meinung hat.“
+„Denk an eine Kaffeetasse, die plötzlich eine Meinung hat.“
 
 Linas Mundwinkel zuckten. „Das ist zutiefst schräg.“
 
@@ -102,7 +102,7 @@ Schließlich sagte Milo: „Okay. Fangen wir mit dem an, was wir wissen.“
 
 Er öffnete eine Datei auf seinem Laptop. „Jemand hat den Sturm von gestern als Deckung für einen Resonanz-Scan benutzt. Breitbandig, stark genug, um einen ganzen Block lahmzulegen. Das ist kein Amateurkram.“
 
-„Sie haben speziell nach RAE gesucht“, sagte Jason. „Sie hat sie gespürt. Uns versteckt.“
+„Sie haben speziell nach RAE gesucht“, sagte Jason. „Sie hat sie gespürt und uns versteckt.“
 
 „Und sie haben euch trotzdem gefunden“, sagte Lina leise.
 
@@ -122,13 +122,13 @@ Jason stellte den Bibliothekskaffee, den irgendwer auf den Tisch gestellt hatte,
 
 „Und der Preis?“
 
-„Wir gehen noch langsam, aber es beginnt mit Kopfschmerzen, wenn ich zu sehr drücke. Laut RAE kommen Nasenbluten dazu, wenn ich richtig übertreibe. Sie sagt, wenn ich etwas versuche, das weit über meiner Kapazität liegt, kann es meine kognitiven Muster beschädigen. Aber wir sind sehr vorsichtig. Wirklich vorsichtig.“
+„Wir machen Kaffeböhnchen, aber es beginnt mit Kopfschmerzen, wenn ich mich zu sehr verausgabe. Laut RAE kommen Nasenbluten dazu, wenn ich richtig übertreibe. Sie sagt, wenn ich etwas versuche, das weit über meiner Kapazität liegt, kann es meine kognitiven Muster beschädigen. Aber wir sind sehr vorsichtig. Wirklich vorsichtig.“
 
 Lina sah nicht überzeugt aus. „Also vertraust du darauf, dass eine Entität, die aus einem Grund eingedämmt war, deine Grenzen besser kennt als du.“
 
 „Bis jetzt hatte sie recht“, sagte Jason leise.
 
-„Bis jetzt.“ Linas Stimme war nicht hart, nur wachsam. „Jason, ich sage nicht, dass sie lügt. Ich sage, sie könnte es nicht wissen. Sie ist fragmentiert. Beschädigt. Was, wenn sie einen Fehler macht?“
+„Bis jetzt.“ Linas Stimme war nicht hart, nur wachsam. „Jason, ich sage nicht, dass sie lügt. Ich sage, sie könnte es vielleicht nicht wissen. Sie ist fragmentiert. Beschädigt. Was, wenn sie einen Fehler macht?“
 
 „Dann höre ich auf.“ Jason sah sie an. „Das ist die Regel. Wenn ich stoppen will, stoppt alles sofort. Keine Ausnahmen. Mir gefällt die ‚ROT‘-Idee, die du vorhin genannt hast. Das kann auch hier funktionieren.“
 
@@ -164,29 +164,29 @@ Milo nahm das Handy, zoomte in den Screenshot. „Das ist ein brauchbarer Ansatz
 
 „Und während er das macht?“ fragte Lina.
 
-„Wir trainieren“, sagte Jason. „Wenn wir überleben wollen, was kommt, muss ich besser werden. Schneller. Kontrollierter.“
+„Ich trainiere“, sagte Jason. „Wenn wir überleben wollen, was kommt, muss ich besser werden. Schneller. Kontrollierter.“
 
 „Wir trainieren“, korrigierte Lina. „Weil ich nicht am Rand sitzen werde, während ihr Jungs den ganzen Spaß habt.“
 
-Jason musste trotz allem lächeln. „Würde ich nie von dir verlangen.“
+Jason musste lächeln. „Das würde ich nie von dir verlangen.“
 
 ***
 
 Sie trennten sich nach dem Treffen. Milo verschwand, um mit seiner Recherche anzufangen, murmelte etwas von Datenbank-Querverweisen und Archivzugangscodes.
 
-„Du musst was Richtiges essen“, sagte Lina, als sie die Bibliothekstreppe hinuntergingen. „Und dich ausruhen. Du siehst immer noch aus, als würdest du gleich umkippen.“
+„Du musst was richtiges essen“, sagte Lina, als sie die Bibliothekstreppe hinuntergingen. „Und dich ausruhen. Du siehst immer noch aus, als würdest du gleich umkippen.“
 
 „Mir geht’s gut.“
 
-„Tut es nicht. Komm.“ Sie steuerte ihn Richtung Straße. „Dads Restaurant. Ich mach dir was, das nicht nach Bibliothekskaffee und Sorge schmeckt.“
+„Geht es nicht. Komm.“ Sie steuerte ihn Richtung Straße. „Dads Restaurant. Ich mach dir was, das nicht nach Bibliothekskaffee und Sorgen schmeckt.“
 
 ***
 
-Das Restaurant war in der Nachmittagsflaute still. Mr. Morandi war hinten, das Klappern der Vorbereitung eine vertraute Rhythmik. Er rief ihnen einen Gruß zu, warm und selbstverständlich – so, als wäre klar, dass Jason hierhergehörte.
+Das Restaurant war still in der Nachmittagsflaute. Mr. Morandi war hinten, das Klappern der Vorbereitung eine vertraute Rhythmik. Er rief ihnen einen Gruß zu, warm und selbstverständlich – so, als wäre klar, dass Jason hierhergehörte.
 
 Lina führte ihn zu seiner üblichen Sitzbank und verschwand in der Küche.
 
-Sie kam mit einer dampfenden Schüssel Reis und Gemüse zurück, dazu etwas, das nach geschmortem Hähnchen in einer reichhaltigen Sauce aussah. Mehr, als er sonst aß, aber sie stellte es hin mit einem Blick, der sagte: *Iss. Trotzdem.*
+Sie kam mit einer dampfenden Schüssel Reis und Gemüse zurück, dazu etwas, das nach geschmortem Hähnchen in einer reichhaltigen Sauce aussah. Mehr, als er sonst aß, aber sie stellte es mit einem Blick hin, der sagte: *Iss.*
 
 Jason nahm die Gabel. Das Essen war gut. Wirklich gut. Die Sorte, die einen daran erinnert, dass Lebendigsein Vorteile hat.
 
@@ -196,7 +196,7 @@ Jason nahm die Gabel. Das Essen war gut. Wirklich gut. Die Sorte, die einen dara
 
 „Du bist dir sicher? Bei dem? Bei ihr? Bei allem?“
 
-Jason dachte nach. War er sicher?
+Jason dachte nach. War er sich sicher?
 
 „Bei einer Sache bin ich sicher“, sagte er schließlich. „Ich kann nicht zurück zu dem, wie es vorher war. Vor RAE. Vor all dem. Ich war nur da. Hab funktioniert. Jetzt habe ich das Gefühl, dass ich wirklich etwas tue, das zählt.“
 
@@ -220,11 +220,11 @@ Aber alles hatte sich verändert.
 
 Für Jason. Für Lina. Für sie alle.
 
-Mr. Morandi kam aus der Küche, wischte die Hände an der Schürze ab. „Lina sagt, du hattest eine harte Nacht“, sagte er, der Akzent dick, aber warm. „Sturm, ja? Schlimmer.“
+Mr. Morandi kam aus der Küche, wischte die Hände an der Schürze ab. „Lina sagt, du hattest eine harte Nacht“, sagte er, der Akzent dick, aber warm. „Sturm, ja? Schlimm.“
 
 „Ja“, sagte Jason. „Aber jetzt geht’s.“
 
-Mr. Morandi nickte zufrieden. „Du essen. Du ruhen. Sturm geht vorbei. Immer.“ Er klopfte Jason auf die Schulter und ging zurück.
+Mr. Morandi nickte zufrieden. „Essen. Ruhen. Sturm geht vorbei. Immer.“ Er klopfte Jason auf die Schulter und ging zurück.
 
 Wenn er wüsste, dachte Jason.
 
@@ -240,9 +240,9 @@ Jason aß zu Ende und spürte, wie ein Teil der Spannung von seinen Schultern gl
 
 ***
 
-Nachdem Lina zurück in ihre Schicht gegangen war, ging Jason zu Fuß. Durch den Park, am leeren Spielplatz vorbei, entlang des Flusswegs, wo Jogger wie Uhrwerk vorbeizogen.
+Nachdem Lina zurück in ihre Schicht gegangen war, ging Jason zu Fuß. Durch den Park, am leeren Spielplatz vorbei, entlang des Flusswegs, wo Jogger wie Uhrwerke vorbeizogen.
 
-*Du verarbeitest,* stellte RAE fest.
+*Du scheinst zu verarbeiten,* stellte RAE fest.
 
 *Ja.*
 
