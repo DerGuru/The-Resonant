@@ -1,4 +1,4 @@
-## Teil 1 – Verloren und Gefunden | Kap. 14 – Ich lasse sie nicht
+## Teil 1 – Verloren und Gefunden | Kap. 14 – Das werde ich nicht zulassen
 
 Jason bemerkte die Markierung drei Tage nach dem Treffen mit Milo.
 
@@ -7,8 +7,6 @@ Er stand in seinem Flur, Schlüssel in der einen Hand – Post in der anderen �
 Da war etwas am Türrahmen.
 
 Klein. Kaum sichtbar. Eine schwache Spur, als hätte jemand mit dem Finger durch Staub gezogen. Aber das Muster war zu absichtlich, um zufällig zu sein.
-
-Ein Sigil.
 
 Jasons Herz hämmerte.
 
@@ -24,11 +22,11 @@ Jason blickte den Flur hinauf und hinunter. Leer. Die üblichen Geräusche: Mrs.
 
 Normal. Alles sah normal aus.
 
-Bis auf diese Markierung an seiner Tür, die nicht da sein dürfte.
+Bis auf diese Markierung an seiner Tür, die nicht da sein sollte.
 
 Er schloss schnell auf, trat hinein und verriegelte hinter sich. Seine Hände zitterten.
 
-*Kannst du sagen, was es tut?*
+*Kannst du mir sagen, was es tut?*
 
 *Es ist ein passiver Identifikator. Jemand hat es angebracht, um deinen Standort zu markieren. Wahrscheinlich, damit er Kommen und Gehen überwachen kann. Oder dich leichter wiederfindet.*
 
@@ -70,7 +68,7 @@ Ihre Augen glitten zum Türrahmen – so schnell, dass Jason es fast verpasst h�
 
 „Hm.“ Sie reichte ihm den Teller. „Iss was. Du bist viel zu dünn.“
 
-„Danke. Wirklich.“
+„Danke. Vielen Dank.“
 
 Sie tätschelte kurz seinen Arm, warm und beiläufig. „Pass auf dich auf, Jason. Die Welt ist schon seltsam genug, ohne dass du dich von ihr krank machen lässt.“
 
@@ -104,7 +102,7 @@ Oder war er einfach paranoid?
 
 *Trau dir selbst,* sagte RAE fest. *Trau Milo und Lina – sie haben es verdient. Bei allen anderen: Vorsicht, bis sie es beweisen.*
 
-Jason nickte. Das war guter Rat.
+Jason nickte. Das war ein guter Rat.
 
 Aber es machte ihn nicht weniger allein.
 
@@ -120,11 +118,11 @@ Später am Abend saß Jason auf seinem Sofa, Mrs. Amaris Essen unangetastet nebe
 
 „Bitte.“
 
-Eine Pause. *Es ist sauber. Nur Essen. Sie war freundlich.*
+Eine Pause. *Es ist sauber. Nur Essen. Sie war einfach freundlich.*
 
-Jason nahm die Gabel und probierte. Es war gut. Wirklich gut. So eine Art Hausmannskost, die einen daran erinnerte, dass man umsorgt werden kann.
+Jason nahm die Gabel und probierte. Es war gut. Wirklich gut. Hausmannskost, die einen daran erinnerte, dass man umsorgt wird.
 
-Er aß mechanisch, schmeckte kaum, der Kopf ganz woanders.
+Er aß mechanisch, schmeckte es kaum, den Kopf ganz woanders.
 
 Die Markierung an seiner Tür. Mrs. Amaris Blick darauf. Der Toaster-Vorfall. Die fremde Resonanzsignatur, die RAE wahrgenommen hatte.
 
@@ -138,7 +136,7 @@ Organisiert.
 
 *Ja. Isolation ist eine gängige Taktik. Sie macht Ziele leichter kontrollierbar oder eindämmbar.*
 
-*Ich lasse sie das nicht mit mir machen.*
+*Das werde ich nicht zulassen.*
 
 *Gut. Halt daran fest.*
 
@@ -164,7 +162,6 @@ Vielleicht war sie etwas anderes.
 
 So oder so hatte Jason seine Wahl getroffen.
 
-Er war jetzt drin. Ob es ihm gefiel oder nicht.
+Er war jetzt ein Teil davon. Ob es ihm gefiel oder nicht.
 
 Und er würde es durchziehen.
-
