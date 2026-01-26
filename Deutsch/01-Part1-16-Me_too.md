@@ -2,21 +2,21 @@
 
 Jason wachte vom Donnern auf – desorientiert, benommen.
 
-Der Sturm war ohne Vorwarnung gekommen. Nicht die sanfte Sorte, die einen in den Schlaf wiegt. Die wütende Sorte – die, die Fenster klappern lässt, Dachrinnen überlaufen und die ganze Stadt die Schultern einziehen gegen den Ansturm.
+Der Sturm war ohne Vorwarnung gekommen. Nicht die sanfte Sorte, die einen in den Schlaf wiegt. Die wütende Sorte – die, die Fenster klappern, Dachrinnen überlaufen und die ganze Stadt die Schultern gegen den Ansturm einziehen lässt.
 
 Regen peitschte gegen sein Fenster, so hart, dass er glaubte, das Glas könnte springen. Das ganze Gebäude schien bei jeder Böe zu erzittern. Blitze zuckten hell genug, um seine gesamte Wohnung zu erleuchten, und brannten Nachbilder in seine Netzhaut.
 
-Er stolperte aus dem Bett, blinzelte gegen die Punkte in seinem Blickfeld. Die Fenster klapperten in ihren Rahmen. Das im Wohnzimmer stand noch auf Kipp und ließ durch den Spalt oben Sprühregen und Wind hinein.
+Er stolperte aus dem Bett, blinzelte gegen die Punkte in seinem Blickfeld. Die Fenster klapperten in ihren Rahmen. Das im Wohnzimmer stand noch auf Kipp und ließ durch den Spalt Sprühregen und Wind hinein.
 
 „Verdammt“, murmelte er und tastete sich durch den dunklen Raum.
 
-Er erreichte das Fenster und klappte es zu, drehte den Griff, zog es aus der Kippstellung. Ein Blitz gabelte sich über den Himmel. Der Donner folgte – tief und rollend, ließ das Glas vibrieren.
+Er erreichte das Fenster und klappte es zu, drehte den Griff und verschloss es. Ein Blitz gabelte sich über den Himmel. Der Donner folgte – tief und rollend, ließ das Glas vibrieren.
 
-*Da ist ein Muster darin,* sagte RAE leise.
+*Es ist ein Muster darin,* sagte RAE leise.
 
 Jason hielt inne, eine Hand noch am Riegel. „Im Sturm?“
 
-*In der Resonanz darunter. Das ist nicht vollständig natürlich. Jemand verstärkt es. Oder nutzt es.*
+*In der Resonanz dahinter. Das ist nicht vollständig natürlich. Jemand verstärkt es. Oder nutzt es.*
 
 Jasons Brust zog sich zusammen. Er sicherte den Riegel und trat zurück. „Wofür nutzt er es?“
 
@@ -26,11 +26,11 @@ Er trat zurück, gerade als ein weiterer Blitz den Himmel zerriss – zu nah, zu
 
 Sein Handy vibrierte. Eine SMS von Milo:
 
-*„Siehst du das? Wetterdienst sagt Freak-Sturm. Aber die Resonanzsignatur ist KOMISCH. Bleib drin. Bleib sicher.“*
+*Siehst du das? Wetterdienst sagt Freak-Sturm. Aber die Resonanzsignatur ist KOMISCH. Bleib drin. Bleib sicher.*
 
-Jason tippte zurück: *„Bin zu Hause. Was für komisch?“*
+Jason tippte zurück: *Bin zu Hause. Was meinst du mit 'komisch'?*
 
-*„Die Sorte, die darauf hindeutet, dass jemand mit ernsthafter Capability etwas tut, das er nicht tun sollte. Ich tracke es gerade. Melde mich.“*
+*Die Sorte, die darauf hindeutet, dass jemand mit ernsthafter Fähigkeit etwas tut, das er nicht tun sollte. Ich tracke es gerade. Melde mich.*
 
 Jason legte das Handy weg. Seine Hände zitterten leicht.
 
@@ -66,7 +66,7 @@ Das Wort traf wie ein Stein.
 
 Jasons Atem ging schnell und flach. „Was machen wir?“
 
-*Wir verstecken uns. Ich ziehe meine Signatur so tief wie möglich in deine Resonanz. Es wird unangenehm sein, aber notwendig. Widersteh nicht. Panik nicht. Bleib ruhig.*
+*Wir verstecken uns. Ich ziehe meine Signatur so tief wie möglich in deine Resonanz. Es wird unangenehm sein, aber notwendig. Widersteh nicht. Verfalle nicht in Panik. Bleib ruhig.*
 
 „Okay. Okay, ich kann – “
 
@@ -76,7 +76,7 @@ Nicht nur in seiner Wohnung. Im ganzen Gebäude. Im ganzen Block, soweit er durc
 
 Und in der Dunkelheit spürte Jason etwas, das er noch nie zuvor gespürt hatte:
 
-Rein. Fokussiert. Absicht.
+Reine. Fokussierte. Absicht.
 
 Jemand suchte nach ihm.
 
@@ -148,17 +148,17 @@ Jetzt wusste er es besser.
 
 Jason schloss die Augen. Atmete. Traf eine Entscheidung.
 
-Er hatte sie lange genug im Dunkeln gelassen. Wenn sie wirklich in Gefahr waren, verdiente sie es, es zu wissen. Verdiente eine Wahl.
+Er hatte sie lange genug im Dunkeln gelassen. Wenn sie wirklich in Gefahr war, verdiente sie es, es zu wissen. Verdiente eine Wahl.
 
 Er schrieb Lina:
 
-*„Können wir morgen reden? Es ist wichtig. Wirklich wichtig.“*
+*Können wir morgen reden? Es ist wichtig. Wirklich wichtig.*
 
 Drei Punkte erschienen. Verschwanden. Erschienen wieder.
 
-Schließlich: *„Okay. Aber du zahlst das Mittagessen. Und du erzählst mir alles.“*
+Schließlich: *Okay. Aber du zahlst das Mittagessen. Und du erzählst mir alles.*
 
-*„Deal.“*
+*Deal.*
 
 Jason legte das Handy beiseite und saß in der Stille seiner Wohnung, während draußen der Sturm weiter wütete.
 
