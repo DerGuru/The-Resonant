@@ -12,7 +12,7 @@ Es waren drei Wochen, seit er Milo getroffen hatte. Drei Wochen vorsichtiger Rec
 
 Drei Wochen, seit die Markierung an seiner Tür aufgetaucht war.
 
-Er hatte sie gelassen, genau wie RAE es geraten hatte. Ein kleines Sigil am Türrahmen, kaum sichtbar, wenn man nicht wusste, wonach man suchen sollte. Eine Erinnerung daran, dass jemand zusah. Sein Kommen und Gehen registrierte. Wartete.
+Er hatte sie gelassen, genau wie RAE es geraten hatte. Ein kleines Zeichen am Türrahmen, kaum sichtbar, wenn man nicht wusste, wonach man suchen sollte. Eine Erinnerung daran, dass jemand zusah. Sein Kommen und Gehen registrierte. Wartete.
 
 Er hatte nur einen Teil seiner Gewohnheiten geändert – sorgfältig darauf bedacht, nicht zu verraten, dass er wusste, dass er beobachtet wurde. Trotzdem. Keine sensiblen Materialien zu Hause. Keine Planbesprechungen in diesen Wänden. Milo traf er in Cafés, Bibliotheken, Parks. Nie zweimal am selben Ort.
 
@@ -42,7 +42,7 @@ Jasons Brust zog sich zusammen.
 
 *Sollte ich mir Sorgen machen?*
 
-*Du solltest vorsichtig sein. Das bist du bereits. Sorgen sind jedoch unproduktiv. Wir machen weiter wie bisher: vorsichtig, leise, Verständnis aufbauen, bevor wir uns zeigen.*
+*Du solltest vorsichtig sein. Das bist du bereits. Sorgen sind aber unproduktiv. Wir machen weiter wie bisher: vorsichtig, leise, Verständnis aufbauen, bevor wir uns zeigen.*
 
 Jason nickte für sich. Das ergab Sinn. Kopf unten halten. Keine Aufmerksamkeit.
 
@@ -52,7 +52,7 @@ In der Theorie einfach.
 
 Aber das Universum schien andere Pläne zu haben.
 
-Am nächsten Tag bei der Arbeit sortierte Jason gerade eine Routineanfrage, als sein Terminal fror. Kein Absturz – es stoppte einfach. Der Cursor blinkte. Der Lüfter summte. Aber nichts reagierte.
+Am nächsten Tag bei der Arbeit sortierte Jason gerade eine Routineanfrage, als sein Terminal einfror. Kein Absturz – es stoppte einfach. Der Cursor blinkte. Der Lüfter summte. Aber nichts reagierte.
 
 Dann erschien eine Nachricht auf dem Bildschirm. Nicht über die Oberfläche. Einfach Text, der über allem lag:
 
@@ -66,7 +66,7 @@ Er saß ganz still, das Herz hämmerte. War das gerade –
 
 *RAE?*
 
-*Ich habe es gesehen. Das war keine Systemmeldung. Das war eine direkte Resonanzprojektion. Jemand weiß, woran du arbeitest. Und er will, dass du aufhörst.*
+*Ich habe es gesehen. Das war keine Systemmeldung. Das war eine direkte Resonanzprojektion. Jemand weiß, was du machst. Und er will, dass du aufhörst.*
 
 *Können sie es zurückverfolgen? Mich finden? Dich finden?*
 
@@ -92,7 +92,7 @@ Milo sah ihn einmal an und fragte: „Was ist passiert?“
 
 Jason erzählte ihm von der Nachricht.
 
-Milos Blick verdunkelte sich. „Das ist übel. Da hat jemand mit richtig viel Capability eine Warnung geschickt. Wahrscheinlich hoffen sie, dass du dich leicht erschrecken lässt und zurückweichst.“
+Milos Blick verdunkelte sich. „Das ist übel. Da hat jemand mit richtig viel Fähigkeit eine Warnung geschickt. Wahrscheinlich hoffen sie, dass du dich leicht erschrecken lässt und zurückweichst.“
 
 „Sollte ich das?“
 
@@ -100,7 +100,7 @@ Milos Blick verdunkelte sich. „Das ist übel. Da hat jemand mit richtig viel C
 
 „Also was mache ich?“
 
-„Du wirst vorsichtig. Du gehst davon aus, dass du beobachtet wirst. Du machst auf der Arbeit nichts, was geloggt oder zurückverfolgt werden kann. Und du findest heraus, wer diese Nachricht geschickt hat.“
+„Du wirst vorsichtig. Geh davon aus, dass du beobachtet wirst. Du machst auf der Arbeit nichts, was geloggt oder zurückverfolgt werden kann. Und du findest heraus, wer diese Nachricht geschickt hat.“
 
 „Wie?“
 
@@ -124,7 +124,7 @@ Er lag im Bett und starrte an die Decke, spielte Szenarien durch. Was, wenn sie 
 
 *Kannst du’s mir verdenken?*
 
-*Nein. Aber Kreisen hilft nicht. Konzentrieren wir uns auf das, was wir kontrollieren können.*
+*Nein. Aber kreisen hilft nicht. Konzentrieren wir uns auf das, was wir kontrollieren können.*
 
 *Und das wäre?*
 
@@ -132,7 +132,7 @@ Er lag im Bett und starrte an die Decke, spielte Szenarien durch. Was, wenn sie 
 
 Jason schloss die Augen. „Du hast recht. Ich weiß, dass du recht hast.“
 
-*Schlaf, Jason. Morgen trainieren wir härter. Aber heute Nacht brauchst du Ruhe.*
+*Schlaf, Jason. Morgen trainieren wir mehr. Aber heute Nacht brauchst du Ruhe.*
 
 „Ich glaube nicht, dass ich kann.“
 
@@ -146,7 +146,7 @@ Eine Pause. *Bist du sicher, dass es sicher ist?*
 
 *Ja. Nichts Zwingendes. Nur Trost. Vertraust du mir?*
 
-*Ich vertraue dir,* dachte Jason. *Mach.*
+*Ich vertraue dir,* dachte Jason. *Bitte.*
 
 *Danke.*
 
@@ -166,5 +166,5 @@ Ihn schützte, auf die einzige Weise, die sie konnte.
 
 Und in seinen Träumen hörte er ihre Stimme, weich und fest:
 
-*Ich lasse nicht zu, dass sie dir weh tun. Ich lasse das nicht! Ich verspreche es.*
+*Ich lasse nicht zu, dass sie dir weh tun. Ich lasse das nicht zu! Ich verspreche es.*
 
