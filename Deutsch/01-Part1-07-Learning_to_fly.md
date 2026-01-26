@@ -8,11 +8,13 @@ Es war nicht viel los. War es nie, nicht in dieser späten Abendflaute. Zwei Tis
 
 Er musste nicht bestellen.
 
-Drei Minuten später kam Lina aus der Küche, die Schürze schief gebunden, eine dampfende Schüssel Reis und Ofengemüse in den Händen. Ihr Haar war - wie immer - in einem praktischen Knoten hochgesteckt, ein paar Strähnen waren entwischt und rahmten ihr Gesicht. An der Wange hatte sie einen Fleck von irgendwas – Mehl? Soße?
+Drei Minuten später kam Lina aus der Küche, die Schürze schief gebunden, eine dampfende Schüssel Reis und Ofengemüse in den Händen. Ihr Haar war – wie immer – in einem praktischen Knoten hochgesteckt, ein paar Strähnen waren entwischt und rahmten ihr Gesicht. An der Wange hatte sie einen Fleck von irgendwas – Mehl? Soße?
 
 „Du bist spät“, sagte sie und schob ihm den Teller hin. 
 
-Jason blickte zu ihr hoch und registrierte Details, die er nicht registrieren wollte: wie das Licht sich in ihren Augen fing, die kleine Narbe an ihrem Handgelenk, sichtbar, als sie die Schüssel abstellte, die Effizienz ihrer Bewegungen „Ich musste heute tatsächlich arbeiten.“
+Jason blickte zu ihr hoch und registrierte Details, die er nicht registrieren wollte: wie das Licht sich in ihren Augen fing, die kleine Narbe an ihrem Handgelenk, sichtbar, als sie die Schüssel abstellte, die Effizienz ihrer Bewegungen.
+
+„Ich musste heute tatsächlich arbeiten.“
 
 Lina verzog den Mund. „Gott bewahre.“
 
@@ -74,7 +76,7 @@ Lina hob eine Augenbraue, lachte aber nicht. Das war eine der Sachen, die er an 
 
 „Ich weiß. Sorry.“
 
-Sie sah ihn noch einen Moment länger an, dann beugte sie sich vor, die Ellbogen auf dem Tisch. „Ja. Manchmal. Nicht den Druck. Nicht die Leute. Aber dieses Gefühl … dass vielleicht irgendwas in der Welt auf mich wartet.“
+Sie sah ihn noch einen Moment länger an, dann beugte sie sich vor, die Ellbogen auf dem Tisch. „Ja. Manchmal. Nicht den Druck. Nicht die Leute. Aber dieses Gefühl, dass vielleicht irgendwas in der Welt auf mich wartet.“
 
 Jason nickte. Das ergab Sinn. Das ergab zu viel Sinn.
 
@@ -86,7 +88,7 @@ Er schüttelte den Kopf. „Nein. Reine Neugier. Ich will verstehen, was jemande
 
 Sie neigte den Kopf und musterte ihn mit diesen scharfen dunklen Augen. „Warum? Denkst du *drüber nach*, es zu versuchen?“
 
-Jason ließ ein halbes Lachen hören, tief und nicht überzeugend. „Nicht wirklich mein Ding. Du erinnerst dich: Mit sechzehn getestet, wie alle. Mein Potenzial war nicht null, aber … nicht mal ansatzweise Akademieniveau.“
+Jason ließ ein halbes Lachen hören, tief und nicht überzeugend. „Nicht wirklich mein Ding. Du erinnerst dich: Mit sechzehn getestet, wie alle. Mein Potenzial war nicht null, aber nicht mal ansatzweise Akademieniveau.“
 
 Lina lächelte sanft. „Kann sich geändert haben seitdem.“
 
@@ -118,7 +120,7 @@ Er drehte sich um.
 
 In seiner Brust zog sich etwas zusammen. „Was meinst du?“
 
-„Ich weiß nicht.“ Sie zuckte die Schultern, aber ihre Augen blieben auf seinen. „Du wirkst … anders in letzter Zeit. Als würdest du am Rand von irgendwas stehen.“
+„Ich weiß nicht.“ Sie zuckte die Schultern, aber ihre Augen blieben auf seinen. „Du wirkst anders in letzter Zeit. Als würdest du am Rand von irgendwas stehen.“
 
 Jason zwang sich zu einem Lächeln. „Alles gut. Nur Arbeit.“
 

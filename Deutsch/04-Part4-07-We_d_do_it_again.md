@@ -6,9 +6,9 @@ Aber heute Abend war anders.
 
 Wir hatten Lina um ein Date gebeten.
 
-Nicht um ein Strategiemeeting. Nicht zur Vorbereitung auf die Demonstration. Weder für Grenzverhandlungen noch Krisenmanagement. Einfach … ein richtiges Date. So eins, wie es normale Menschen haben. So eins, wie Jason sich früher vorgestellt hatte – bevor er und RAE zu uns geworden waren, bevor RP-0, bevor sich alles veränderte.
+Nicht um ein Strategiemeeting. Nicht zur Vorbereitung auf die Demonstration. Weder für Grenzverhandlungen noch Krisenmanagement. Einfach ein richtiges Date. So eins, wie es normale Menschen haben. So eins, wie Jason sich früher vorgestellt hatte – bevor er und RAE zu uns geworden waren, bevor RP-0, bevor sich alles veränderte.
 
-Wir standen vor der Wohnung und prüften unser Spiegelbild im Fenster. Vorzeigbar. Nicht zu bemüht. Einfach … wir.
+Wir standen vor der Wohnung und prüften unser Spiegelbild im Fenster. Vorzeigbar. Nicht zu bemüht. Einfach wir.
 
 Lina kam aus dem Schlafzimmer, und etwas in unserer Brust verschob sich. Sie trug die blaue Jacke, die Jason immer gemocht hatte. Haare offen. Ein Lächeln, unsicher, aber hoffnungsvoll.
 
@@ -20,7 +20,7 @@ Lina kam aus dem Schlafzimmer, und etwas in unserer Brust verschob sich. Sie tru
 
 Das Café war ihre Wahl – klein, in eine Seitenstraße gekuschelt, die wir trotz dutzender Vorbeigänge nie wirklich wahrgenommen hatten. Scheiben beschlagen vor Kondenswasser. Musik leise, akustisch und sanft. Ein Ort für Gespräche, nicht für Spektakel.
 
-„Kein Resonanzgerede“, sagte Lina, als wir einen Ecktisch fanden. „Kein HOA. Keine Syntheseanalyse. Nur … wir. Kaffee. Normale Dinge.“
+„Kein Resonanzgerede“, sagte Lina, als wir einen Ecktisch fanden. „Kein HOA. Keine Syntheseanalyse. Nur wir. Kaffee. Normale Dinge.“
 
 „Ich bin mir nicht sicher, ob ich noch weiß, wie normal geht“, gaben wir zu.
 
@@ -32,7 +32,7 @@ Wir versuchten, etwas zurückzugeben. Griffen nach Erinnerungen, die sich zunehm
 
 „Vermisst du es?“ fragte Lina. „Dieses Leben. Davor.“
 
-Wir überlegten. „Manchmal. Die Einfachheit. Genau zu wissen, wer ich bin. Eine Entscheidung zu treffen und sie einfach … zu treffen. Nicht das Gefühl zu haben, dass mehrere Perspektiven gleichzeitig mitreden.“ Wir hielten inne. „Aber ich kann nicht trennen, was ich vermisse, von dem, was ich gewonnen habe. Es ist alles … integriert jetzt. Im wörtlichen Sinn.“
+Wir überlegten. „Manchmal. Die Einfachheit. Genau zu wissen, wer ich bin. Eine Entscheidung zu treffen und sie einfach zu treffen. Nicht das Gefühl zu haben, dass mehrere Perspektiven gleichzeitig mitreden.“ Wir hielten inne. „Aber ich kann nicht trennen, was ich vermisse, von dem, was ich gewonnen habe. Es ist jetzt integriert. Im wörtlichen Sinn.“
 
 Sie nickte langsam. „Ich vermisse ihn manchmal. Den Menschen, der du warst. Den geradlinigen, der nicht mitten im Satz mit sich selbst verhandelt hat.“
 
@@ -52,13 +52,13 @@ Die Stimmen wurden leiser. Sie redeten weiter, arbeiteten sich noch immer durch 
 
 Lina blinzelte und sah uns an. Sie merkt es immer.
 
-„Das war …“, sagte sie leise. „Das hast du gemacht, ohne Einverständnis!“
+„Das war“, sagte sie leise. „Das hast du gemacht, ohne Einverständnis!“
 
 „Tut uns leid. Wir konnten nicht anders“, erklärten wir. „Es war ein Reflex.“
 
 Sie schwieg einen Moment, starrte auf ihren Kaffee. Dann wieder zu uns.
 
-„Ich weiß, dass du daran arbeitest, und ich bin nicht wütend“, sagte sie leise. „Nur … sei vorsichtig.“ Sie schluckte. „Kann ich ein bisschen mehr Jason haben?“ Noch einmal schlucken. „Nur für eine Weile?“
+„Ich weiß, dass du daran arbeitest, und ich bin nicht wütend“, sagte sie leise. „Nur sei vorsichtig.“ Sie schluckte. „Kann ich ein bisschen mehr Jason haben?“ Noch einmal schlucken. „Nur für eine Weile?“
 
 Wir nickten. Das Ohrensausen flammte sofort auf. Ein hoher Ton, der im Puls mitschwang. Er blieb jedes Mal länger. Beim ersten Mal war es nur ein Aufflackern. Jetzt waren es Minuten. Wann werden es Stunden sein?
 

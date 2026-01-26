@@ -1,6 +1,6 @@
 # Epilog
 
-Morgenlicht fiel gefiltert durch die Fenster der Wohnung. Ich stand in der Küche, die Hände im Brotteig, knetete nach Gefühl – so, wie Jasons Großmutter es ihm beigebracht hatte. Sie hatte recht gehabt: Maschinen konnten nicht spüren, wann Teig diese perfekte Elastizität erreicht. Man musste es fühlen.
+Morgenlicht fiel gefiltert durch die Fenster der Wohnung. Ich stand in der Küche, die Hände im Teig, knetete nach Gefühl – so, wie Jasons Großmutter es ihm beigebracht hatte. Sie hatte recht gehabt: Maschinen konnten nicht spüren, wann Teig diese perfekte Elastizität erreicht. Man musste es fühlen.
 
 Der Rhythmus versetzte mich immer in eine Art meditativen Zustand – drücken, falten, drehen, wiederholen. Ich spürte die Wärme des Teigs, wie er unter meinen Handflächen nachgab, den leichten Widerstand, der sich in Glätte auflöste.
 
@@ -20,7 +20,7 @@ Ich hielt mitten im Kneten inne. „Sorry.“
 
 Sie zuckte die Schultern. „Konntest du nicht schlafen?“
 
-„Ich hab nur … Sachen gecheckt.“
+„Ich hab nur Sachen gecheckt.“
 
 „Dachte ich mir.“ Sie bohrte nicht nach.
 
@@ -66,7 +66,7 @@ Ich spürte, wie Linas Hand meine fand.
 
 „Gutes Normal?“
 
-„Bestes Normal.“ Sie drückte meine Hand. „Die Art, bei der ich nicht mehr drüber nachdenken muss. Weißt du?“
+„Bestes Normal.“ Sie drückte meine Hand. „Die Art, bei der ich nicht mehr darüber nachdenken muss. Weißt du?“
 
 Ich wusste. Die Ringe waren neu, aber wir hatten uns schon seit Monaten füreinander entschieden. Vielleicht seit Jahren.
 
@@ -84,7 +84,7 @@ So verstand ich Synthese. Etwas Drittes. Etwas, das man nicht rückgängig mache
 
 „Keine Ahnung.“ Ich lächelte. „Schätze, wir finden es raus, wenn wir da sind.“
 
-„Schätze, ja.“ Sie löste sich nicht. „Ich nehme an, du bist dann immer noch du. Anders, aber immer noch … du. Du hast dich in den letzten Monaten so verändert, aber du siehst immer noch aus wie du. Fühlst dich an wie du. Riechst wie du. Deine Resonanz ist anders geworden. Und du klingst anders, glaube ich – wegen RAE.“
+„Schätze, ja.“ Sie löste sich nicht. „Ich nehme an, du bist dann immer noch du. Anders, aber immer noch du. Du hast dich in den letzten Monaten so verändert, aber du siehst immer noch aus wie du. Fühlst dich an wie du. Riechst wie du. Deine Resonanz ist anders geworden. Und du klingst anders, glaube ich – wegen RAE.“
 
 Wir saßen zusammen in der Morgensonne. Ich hörte das Summen der Stadt unten.
 
@@ -114,7 +114,7 @@ Ich wusste, dass in ein paar Stunden die Klingel gehen würde. Freunde würden k
 
 Aber jetzt hatten wir das. Ich spürte es – Morgenlicht. Frisches Brot, das aufgeht. Tee, der zieht.
 
-Stunden, um einfach … zu sein.
+Stunden, um einfach zu sein.
 
 Nicht perfekt.
 
@@ -122,4 +122,4 @@ Weder Jason noch RAE.
 
 Nicht einmal mehr wir.
 
-Nur … Wasser.
+Nur Wasser.

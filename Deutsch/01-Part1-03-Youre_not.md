@@ -2,11 +2,11 @@
 
 Der Flohmarkt war mehr Lärm als Bedeutung. Ein Labyrinth aus Klapptischen, Milchkisten und handgeschriebenen Preisschildern, ausgebreitet über dem, was einmal ein Parkplatz gewesen war. Irgendwo zwischen verrosteten Werkzeugen und Vintage-Magazinen ging Jason neben Lina – in einer angenehmen Ziellosigkeit.
 
-Lina Morandi war vierundzwanzig, aber sie hielt sich mit der Selbstverständlichkeit von jemandem, der älter ist. Ihr dunkles Haar – dick und glatt, dieses asiatische Haar, das sich konsequent weigert, irgendetwas zu tun außer dem, was es selbst will – war heute in einem praktischen Knoten hochgesteckt, ein paar entwichene Strähnen rahmten ihr Gesicht. Sie hatte die chinesischen Züge ihrer Mutter: warme braune Augen mit einem feinen Lidbogen, hohe Wangenknochen, eine weiche Kieferlinie. Aber ihr Körperbau kam von der italienischen Seite ihres Vaters – kräftig, ohne schwer zu wirken; die Art Stärke, die von Jahren kommt, in denen man Teller schleppt und Doppelschichten auf den Beinen steht.
+Lina Morandi war vierundzwanzig, aber sie hielt sich mit der Selbstverständlichkeit von jemandem, der älter ist. Ihr dunkles Haar – dick und glatt, dieses asiatische Haar, das sich konsequent weigert, irgendetwas zu tun außer dem, was es selbst will – war heute in einem praktischen Knoten hochgesteckt, ein paar verirrte Strähnen rahmten ihr Gesicht. Sie hatte die chinesischen Züge ihrer Mutter: warme braune Augen mit einem feinen Lidbogen, hohe Wangenknochen, eine weiche Kieferlinie. Aber ihr Körperbau kam von der italienischen Seite ihres Vaters – kräftig, ohne schwer zu wirken; die Art Stärke, die von Jahren kommt, in denen man Teller schleppt und Doppelschichten auf den Beinen steht.
 
 Sie trug ein viel zu großes Flanellhemd über einem schwarzen Tanktop, die Ärmel bis zu den Ellbogen hochgekrempelt, und Jeans mit Farbflecken an einem Knie. Funktionale Stiefel, abgetragen, aber gepflegt. Eine dünne Silberkette, gerade so am Schlüsselbein zu sehen. Und wenn man genau hinsah – was Jason sich mit aller Macht verbot –, eine feine Narbe an der Innenseite ihres linken Handgelenks, etwa zwei Zentimeter lang. Ein Küchenunfall, vor Jahren. Sie hatte es ihm einmal erzählt, sachlich, so wie sie die meisten Geschichten erzählte.
 
-„Immer noch kein Glück?“ fragte sie und nippte aus einem Pappbecher an etwas, das vage wie Kaffee wirkte. Ihre Stimme hatte dieses leichte Rauhigkeit, als wäre sie gerade erst aufgewacht oder hätte seit Stunden geredet.
+„Immer noch kein Glück?“ fragte sie und nippte aus einem Pappbecher an etwas, das vage wie Kaffee wirkte. Ihre Stimme hatte diese leichte Rauheit, als wäre sie gerade erst aufgewacht oder hätte seit Stunden geredet.
 
 Jason schüttelte den Kopf. „Es geht nicht mal mehr um den Toaster. Es geht ums Prinzip.“
 
@@ -34,13 +34,13 @@ Sie erreichten den hinteren Rand des Marktes, wo die Stände in einen durchhäng
 
 Lina lehnte sich neben ihn, nah genug, dass er den schwachen Geruch von Küche wahrnahm – Zitronenreiniger, gerösteter Knoblauch, etwas Grünes, Frisches. Es war tröstlich auf eine Weise, die er nicht erklären konnte.
 
-„Also … ist das deine Idee von einem großen Samstagsausflug?“
+„Also ist das deine Idee von einem großen Samstagsausflug?“
 
-„Ich mag’s“, sagte Jason und sah zu, wie ein Stück zerrissene Plastiktüte am Zaun flatterte. „Keine Erwartungen. Keine komischen Sozialspiele. Einfach … das hier und jetzt.“
+„Ich mag’s“, sagte Jason und sah zu, wie ein Stück zerrissene Plastiktüte am Zaun flatterte. „Keine Erwartungen. Keine komischen Sozialspiele. Einfach das hier und jetzt.“
 
 „Einfach zwei Leute und ein Toaster“, stimmte Lina zu; in der Stimme lag dieser trockene Humor, den er als Zuneigung zu erkennen gelernt hatte. Oder wenigstens als Toleranz.
 
-Er lächelte, aber sah sie nicht an. Konnte sie nicht ansehen. Der Wind zupfte an seinem Mantel, trug den fernen Geruch von Motoröl und frittiertem Teig herüber. Wenn er sie ansah, würde er sehen, wie das Nachmittagslicht in ihrem Haar hing, die kleine Narbe an ihrem Handgelenk, die Art, wie ihre Lippen sich krümmten, wenn sie gleich etwas Sarkastisches sagen würde.
+Er lächelte, aber sah sie nicht an. Konnte sie nicht ansehen. Der Wind zupfte an seinem Mantel, trug den fernen Geruch von Motoröl und frittiertem Teig herüber. Wenn er sie ansah, sähe er, wie das Nachmittagslicht in ihrem Haar hing, die kleine Narbe an ihrem Handgelenk, die Art, wie ihre Lippen sich krümmten, wenn sie gleich etwas Sarkastisches sagen würde.
 
 Und dann würde er über Dinge nachdenken, über die er kein Recht hatte nachzudenken.
 
@@ -64,7 +64,7 @@ Da war etwas in ihrer Stimme. Etwas, das er nicht ganz greifen konnte. Aber bevo
 
 Sie gingen weiter, langsam schlängelten sie sich zurück Richtung Hauptstraße. Bei den Essensständen wurde es dichter – mehr Gerüche, mehr Stimmen, das angenehme Chaos von Leuten, die Dinge kauften, die sie nicht brauchten. Lina entdeckte jemanden, der selbstgemachte Dumplings verkaufte, und bestand darauf, ein paar zu holen. Jason folgte ohne Widerrede.
 
-Sie teilten sich eine kleine Schale, standen unter einem rissigen Vordach, als ein leichter Regen einsetzte. Die Art Regen, die sich nicht entscheiden kann, ob sie es ernst meint oder nur kurz vorbeischaut.
+Sie teilten sich eine kleine Schale, standen unter einem rissigen Vordach, als ein leichter Regen einsetzte. Der Regen, der sich nicht entscheiden kann, ob er es ernst meint oder nur kurz vorbeischaut.
 
 Lina hielt ihm einen Dumpling hin, Dampf stieg von den gefalteten Rändern auf. „Willst du den letzten?“
 

@@ -38,7 +38,7 @@ Sie machten weiter, Elyras Fragen schnitten Schwachstellen auf wie ein Skalpell.
 
 Am Abend hatten sie neun konkrete Änderungen – Klarstellungen zentraler Begriffe, Definitionsgrenzen und einen Vorschlag für gegenseitige Bedrohungs-Meldung, von dem Milo behauptete, er sei „das Risiko wert“.
 
-„Das Wichtigste ist Folgendes“, sagte Milo und rief seine Zusammenfassung auf. „Änderungen eins bis drei: konkrete Definitionen für ‚öffentliche Demonstration‘, ‚unautorisierte Forschung‘ und ‚im Rahmen des Zumutbaren‘ – die verhindern Mission Creep. Vier bis sechs: Limits für Datenspeicherung, Spezifikation des Check-in-Formats und Grenzen für Monitoring – grundlegender Privatsphärenschutz. Sieben und acht: Streitbeilegung und Verfahren zur Vertragsänderung – damit wir nicht für immer festgenagelt sind. Und neun…“
+„Das Wichtigste ist Folgendes“, sagte Milo und rief seine Zusammenfassung auf. „Änderungen eins bis drei: konkrete Definitionen für ‚öffentliche Demonstration‘, ‚unautorisierte Forschung‘ und ‚im Rahmen des Zumutbaren‘ – die verhindern Mission Creep. Vier bis sechs: Limits für Datenspeicherung, Spezifikation des Check-in-Formats und Grenzen für Monitoring – grundlegender Privatsphärenschutz. Sieben und acht: Streitbeilegung und Verfahren zur Vertragsänderung – damit wir nicht für immer festgenagelt sind. Und neun.“
 
 Er machte eine dramatische Pause.
 
@@ -52,9 +52,9 @@ Jason überlegte. „Nehmen wir es rein. Worst Case sagen sie nein.“
 
 Sie bestellten Essen – wieder Linas Vaters Restaurant, geliefert von jemandem, der ihnen einen wissenden Blick zuwarf, aber keine Fragen stellte.
 
-Sie aßen und gingen die Änderungen ein letztes Mal durch. Schärften Formulierungen. Antizipierten Einwände. Bautens ihre Argumente.
+Sie aßen und gingen die Änderungen ein letztes Mal durch. Schärften Formulierungen. Antizipierten Einwände. Bauten ihre Argumente.
 
-Elyra las die finale Liste, die Lippen bewegten sich leicht, während sie jede Klausel parse-te. Sie legte das Tablet weg. „Das ist gute Arbeit. Gründlich. Vernünftig.“
+Elyra las die finale Liste, die Lippen bewegten sich leicht, während sie jede Klausel parste. Sie legte das Tablet weg. „Das ist gute Arbeit. Gründlich. Vernünftig.“
 
 „Glaubst du, Malvek stimmt zu?“ fragte Jason.
 
@@ -210,7 +210,7 @@ Jason hielt seinen Blick. „Verstanden. Und was gilt als ‚Missbrauch‘ oder 
 
 „Dann brauchen wir denselben Schutz“, sagte Milo plötzlich. „Wenn wir Informationen teilen und die HOA sie missbraucht – sie nutzt, um uns oder Leute, mit denen wir arbeiten, zu targeten –, brauchen wir einen Weg.“
 
-Malvek hob eine Augenbraue. „Sie schlagen… was vor? Gegenseitige Aufsicht?“
+Malvek hob eine Augenbraue. „Sie schlagen was vor? Gegenseitige Aufsicht?“
 
 „Verantwortlichkeit“, sagte Milo. „Wenn das eine Partnerschaft ist, funktioniert sie in beide Richtungen. Sie untersuchen Missbrauch auf unserer Seite, wir müssen das Recht haben, formell Beschwerde einzulegen auf Ihrer.“
 
@@ -280,7 +280,7 @@ Malvek stand auf und reichte ihm die Hand. Jason schüttelte sie. Fester Griff. 
 
 Er ging. Reeves sammelte seine Unterlagen, hielt an der Tür inne.
 
-„Sie waren gut“, sagte er leise. „Besser als die meisten. Die gegenseitige Melde-Klausel war bold. Malvek respektiert bold. Aber… verwechseln Sie Respekt nicht mit Nachsicht.“
+„Sie waren gut“, sagte er leise. „Besser als die meisten. Die gegenseitige Melde-Klausel war bold. Malvek respektiert bold. Aber verwechseln Sie Respekt nicht mit Nachsicht.“
 
 „Tun wir nicht“, sagte Jason und nickte.
 
@@ -294,7 +294,7 @@ Sie liefen drei Blocks schweigend, bevor jemand sprach.
 
 „Also“, sagte Milo. „Wir sind jetzt legal.“
 
-„Wir sind jetzt überwacht“, korrigierte Lina. „Legal ist… bedingt.“
+„Wir sind jetzt überwacht“, korrigierte Lina. „Legal ist bedingt.“
 
 „Aber am Leben“, sagte Jason. „Und frei innerhalb von Grenzen. Das ist mehr, als wir vor achtundvierzig Stunden hatten.“
 

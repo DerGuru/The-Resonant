@@ -2,7 +2,7 @@
 
 Der Bildschirm wurde schwarz.
 
-Nicht gelöscht. Nicht beschädigt. Einfach … weg. Als hätten die Dateien nie existiert.
+Nicht gelöscht. Nicht beschädigt. Einfach weg. Als hätten die Dateien nie existiert.
 
 Jason starrte auf sein Terminal, und ihm wurde eiskalt. Thomas Reeves’ Ultimatum lief heute aus, und bislang hatte sich nichts verändert.
 
@@ -68,7 +68,7 @@ Jason wollte protestieren. Wollte sagen, dass Beweise wichtig sind, dass Wahrhei
 
 Aber Elyra hatte recht. In einer Welt, in der Mächtige die Vergangenheit umschreiben konnten, war Fähigkeit die einzige echte Währung.
 
-„Außerdem“, fuhr Elyra fort, „sie haben jetzt ihre Hand gezeigt. Sie sind besorgt genug, um zu handeln. Das heißt, ihr seid nah an etwas, das sie verborgen halten wollen. Und wenn sie merken, dass Löschung euch nicht stoppt, eskalieren sie zu Eindämmung.“
+„Außerdem“, fuhr Elyra fort, „sie haben ihre Karten aufgedeckt. Sie sind besorgt genug, um zu handeln. Das heißt, ihr seid nah an etwas, das sie verborgen halten wollen. Und wenn sie merken, dass Löschung euch nicht stoppt, eskalieren sie zu Eindämmung.“
 
 „Eindämmung“, wiederholte Lina. „Du meinst –“
 

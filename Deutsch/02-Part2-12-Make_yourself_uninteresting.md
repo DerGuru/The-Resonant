@@ -8,7 +8,7 @@ Jason fing sie, spürte das Gewicht. Sie waren in Elyras Trainingshalle in Mill-
 
 „Denk dran“, rief Elyra von dem Pfeiler, an dem sie lehnte, „es geht um Präzision, nicht um Geschwindigkeit. Beweg dich, als wärst du unsichtbar.“
 
-Jason nickte und studierte das Layout. Schiffscontainer, zwei hoch gestapelt. Spalten dazwischen, gerade breit genug zum Durchschlüpfen. Alte Maschinen, die natürliche Blindspots bildeten. Und Milo irgendwo in den Schatten, bereit, die Rolle der Überwachung zu spielen.
+Jason nickte und studierte das Layout. Schiffscontainer, zwei hoch übereinandergestapelt. Spalten dazwischen, gerade breit genug zum Durchschlüpfen. Alte Maschinen, die natürliche Blindspots bildeten. Und Milo irgendwo in den Schatten, bereit, die Rolle der Überwachung zu spielen.
 
 „Wenn Milo dich sieht“, fuhr Elyra fort, „fällst du durch. Wenn du einen der Marker auslöst, die ich gesetzt habe, fällst du durch. Wenn du zu brutaler Resonanz greifst statt zu Subtilität, fällst du durch.“
 
@@ -94,7 +94,7 @@ Sie zog eine Wasserflasche hervor und trank vorsichtig. „Aber vergesst nicht: 
 
 „Ich hoffe es“, sagte Elyra, und für einen Moment rutschte ihre professionelle Maske. „Denn wenn ihr es nicht tut, endet alles, was wir aufgebaut haben, in zwei Wochen. Und ich gehe zurück dazu, nur eine kaputte Praktikerin zu sein. Eine, die ihre Schüler nicht schützen konnte.“
 
-Sie fing sich. „Das ist nicht eure Last. Nur … lasst mich nicht bereuen, dass ich an euch geglaubt habe.“
+Sie fing sich. „Das ist nicht eure Last. Nur lasst mich nicht bereuen, dass ich an euch geglaubt habe.“
 
 Jason hielt ihren Blick. Sah das Gewicht, das sie trug – Jahre Isolation, und jetzt riskierte sie das Wenige, das ihr geblieben war, für drei fast Fremde.
 

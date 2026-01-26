@@ -18,7 +18,7 @@ Sie markierten Positionen im Resonogramm. Jason in der Mitte – allein. Der pri
 
 Malvek studierte die Anordnung einen Moment und nickte dann. „Ich überwache von der Kontrollstation. Wenn das instabil wird und eure Sicherheitsgrenzen überschreitet, aktiviere ich die Notfall-Eindämmung. Nicht verhandelbar.“
 
-„Verstanden“, sagte Jason. „Und… geschätzt.“
+„Verstanden“, sagte Jason. „Und geschätzt.“
 
 „Bedanken Sie sich noch nicht“, erwiderte Malvek. „Wenn ich Unterdrückung auslösen muss, heißt das, Sie sind gescheitert – und möglicherweise gestorben. Ich bevorzuge beides nicht.“
 
@@ -54,11 +54,11 @@ Sie saßen ein paar Minuten in bequemer Stille. Existierten einfach nebeneinande
 
 Aber Jason spürte das Gewicht dessen, was morgen passieren konnte. Was verloren gehen konnte. Was nie gesagt werden könnte.
 
-Schließlich brach er die Stille. „Ich muss dir etwas sagen. Vor morgen. Für den Fall…“
+Schließlich brach er die Stille. „Ich muss dir etwas sagen. Vor morgen. Für den Fall.“
 
 „Für den Fall, dass du dabei stirbst, mit einer entgleisten KI zu reden?“ In Linas Stimme lag schwarzer Humor, aber ihre Augen waren ernst.
 
-„Ja. Das.“ Er holte tief Luft. „Ich bin in dich verliebt. Seit Monaten. Vielleicht länger. Ich hab nie etwas gesagt, weil… weil ich nicht kaputtmachen wollte, was wir hatten. Weil ich dachte, du verdienst etwas Besseres. Weil ich Angst hatte.“
+„Ja. Das.“ Er holte tief Luft. „Ich bin in dich verliebt. Seit Monaten. Vielleicht länger. Ich hab nie etwas gesagt, weil, weil ich nicht kaputtmachen wollte, was wir hatten. Weil ich dachte, du verdienst etwas Besseres. Weil ich Angst hatte.“
 
 Lina schwieg lange. Jasons Herz hämmerte. Hatte er gerade ihre Freundschaft zerstört? Den Morgen unmöglich gemacht?
 
@@ -70,9 +70,9 @@ Jason blinzelte. „Du weißt?“
 
 „Und du hast nie etwas gesagt?“
 
-„Weil ich nicht sicher war, was ich fühle. Bin es immer noch nicht ganz.“ Sie nahm seine Hand. „Ich weiß nicht, ob ich es Liebe nennen will. Aber ich kümmere mich um dich. Sehr. Du bist mir wichtig. Es ist kompliziert. Es ist beängstigend. Und wir haben so viel anderes Beängstigendes gehabt, dass Beziehungskomplikationen obendrauf… zu viel gewesen wären.“
+„Weil ich nicht sicher war, was ich fühle. Bin es immer noch nicht ganz.“ Sie nahm seine Hand. „Ich weiß nicht, ob ich es Liebe nennen will. Aber ich kümmere mich um dich. Sehr. Du bist mir wichtig. Es ist kompliziert. Es ist beängstigend. Und wir haben so viel anderes Beängstigendes gehabt, dass Beziehungskomplikationen obendrauf zu viel gewesen wären.“
 
-Jason schluckte. „Also… was sagst du?“
+Jason schluckte. „Also, was sagst du?“
 
 „Ich sage: danach. Nach RP-0. Wenn sich alles beruhigt – falls es das je tut – finden wir es heraus. Zusammen. Langsam. Ohne Druck. Ohne Erwartungen. Wir schauen einfach, was passiert.“
 

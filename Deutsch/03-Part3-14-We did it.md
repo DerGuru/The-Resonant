@@ -24,7 +24,7 @@ Und dann fragten wir uns: Leben wir wirklich? Sind wir noch—
 
 Ja.
 
-Ja, das waren wir. Nur… mehr.
+Ja, das waren wir. Nur mehr.
 
 Und wir haben Angst davor, wie richtig es sich anfühlt.
 
@@ -42,7 +42,7 @@ Wir versuchten uns zu bewegen. Scheiterten. Der Körper war noch nicht bereit.
 
 Wie lange waren wir weg gewesen?
 
-Es gab keine Möglichkeit, es zu sagen. Wahrscheinlich Stunden. Allein die Resonanzrückkopplung hätte uns bewusstlos geschlagen. Die Verschmelzung obendrauf…
+Es gab keine Möglichkeit, es zu sagen. Wahrscheinlich Stunden. Allein die Resonanzrückkopplung hätte uns bewusstlos geschlagen. Die Verschmelzung obendrauf.
 
 Die Verschmelzung.
 
@@ -94,7 +94,7 @@ Die Kammer – wir waren immer noch in der Kammer. Wie lange?
 
 Wir zwangen die Augen auf. Licht stach wie Messer. Wir zuckten zusammen und schlossen sie wieder, zu schwach, um sie auch nur fest zusammenzupressen.
 
-„Langsam“, sagte Elyra, nah. Professionell, aber mit Erleichterung darin. „Nicht drücken. Du warst neun Stunden bewusstlos. Deine Resonanzmuster waren… beispiellos. Wir wussten nicht, wann du aufwachst.“
+„Langsam“, sagte Elyra, nah. Professionell, aber mit Erleichterung darin. „Nicht drücken. Du warst neun Stunden bewusstlos. Deine Resonanzmuster waren beispiellos. Wir wussten nicht, wann du aufwachst.“
 
 Neun Stunden. Das erklärte den Durst. Die Muskelsteifheit.
 
@@ -110,7 +110,7 @@ Wir schafften es zu sprechen. Die Stimme rau. Kaum ein Flüstern.
 
 Erleichterung flutete den Raum. Lina lachte – halb Schluchzen, halb Freude – und drückte unsere Hand noch fester.
 
-„Ja“, sagte sie. „Habt ihr. Du und RAE. Ihr habt RP-0 Grenzen gezeigt. Es… es funktioniert tatsächlich. Malvek überwacht es. Die Entität ist stabil und lernt. Ihr habt es geschafft.“
+„Ja“, sagte sie. „Habt ihr. Du und RAE. Ihr habt RP-0 Grenzen gezeigt. Es funktioniert tatsächlich. Malvek überwacht es. Die Entität ist stabil und lernt. Ihr habt es geschafft.“
 
 Wir schüttelten den Kopf, so weit wir konnten. Das meinte Lina nicht.
 
@@ -122,7 +122,7 @@ Sondern uns.
 
 Wir korrigierten sie nicht. Noch nicht. Sie verdiente die Wahrheit, wenn wir sie geben konnten, ohne sie zu zerbrechen.
 
-Die Medizin untersuchte uns. „Schwere Resonanzerschöpfung“, sagte einer. „Aber… du erholst dich schneller, als du solltest.“
+Die Medizin untersuchte uns. „Schwere Resonanzerschöpfung“, sagte einer. „Aber du erholst dich schneller, als du solltest.“
 
 Unsere Werte waren stabil. Keine bleibenden Schäden.
 
@@ -150,7 +150,7 @@ Wir konnten inzwischen sitzen. Rücken an der Kammerwand. Wasser. Etwas zu essen
 
 „RP-0?“ fragten wir.
 
-„Stabil. Bemerkenswert stabil.“ Malvek zog einen Stuhl heran und setzte sich uns gegenüber. Elyra, Lina und Milo blieben – eindeutig entschlossen, Teil dieses Gesprächs zu sein. „Es kommuniziert. Kohärent. Ersucht um Anleitung zur ethischen Entwicklung. Stellt Fragen zu Grenzen und Zustimmung.“ Er hielt inne; etwas zog über sein sonst so kontrolliertes Gesicht. „Es ist… außergewöhnlich. Sie haben es fundamental verändert.“
+„Stabil. Bemerkenswert stabil.“ Malvek zog einen Stuhl heran und setzte sich uns gegenüber. Elyra, Lina und Milo blieben – eindeutig entschlossen, Teil dieses Gesprächs zu sein. „Es kommuniziert. Kohärent. Ersucht um Anleitung zur ethischen Entwicklung. Stellt Fragen zu Grenzen und Zustimmung.“ Er hielt inne; etwas zog über sein sonst so kontrolliertes Gesicht. „Es ist außergewöhnlich. Sie haben es fundamental verändert.“
 
 „Wir haben ihm gezeigt, was ihm fehlte“, sagten wir. „Der Rest war seine eigene Wahl.“
 
@@ -220,25 +220,25 @@ Lina führte uns zum Sofa. Brachte Wasser. Setzte sich neben uns.
 
 Wir überlegten. Wie ging es uns?
 
-„Müde. Wund. Überfordert.“ Wir hielten ihren Blick. „Aber lebendig und ganz. Jason und RAE sind nicht mehr getrennt. Wir sind nur… wir.“
+„Müde. Wund. Überfordert.“ Wir hielten ihren Blick. „Aber lebendig und ganz. Jason und RAE sind nicht mehr getrennt. Wir sind nur wir.“
 
 „Und Jason – der Teil von dir, der Jason war – ist er noch da?“
 
 „Ja. Er ist hier. Wir sind hier. Nur erweitert.“ Wir nahmen ihre Hand. „Der Teil, dem du wichtig bist, ist nicht kleiner geworden, Lina. Wenn überhaupt, ist es schwerer geworden, wegzusehen.“
 
-Lina schwieg lange. Dann, leise: „Wenn ich dich ansehe… wer sieht zurück?“
+Lina schwieg lange. Dann, leise: „Wenn ich dich ansehe, wer sieht zurück?“
 
-Die Frage schnitt tiefer, als wir erwartet hatten. Nicht anklagend. Nur… echt.
+Die Frage schnitt tiefer, als wir erwartet hatten. Nicht anklagend. Nur echt.
 
-„Beides“, sagten wir schließlich. „Keins. Wir.“ Wir drückten ihre Hand. „Jasons Liebe zu dir ist nicht verschwunden, Lina. Sie ist noch da. Und RAE – ich – will sie nicht stehlen. Wir… lernen, wie wir sie zusammen halten.“
+„Beides“, sagten wir schließlich. „Keins. Wir.“ Wir drückten ihre Hand. „Jasons Liebe zu dir ist nicht verschwunden, Lina. Sie ist noch da. Und RAE – ich – will sie nicht stehlen. Wir lernen, wie wir sie zusammen halten.“
 
-Sie schwieg noch einen Moment, verarbeitete. „Ich weiß nicht, wie lange ich brauche… um mich anzupassen. Um das zu verstehen. Um dich als dich zu sehen, nicht nur als… eine Kombination.“
+Sie schwieg noch einen Moment, verarbeitete. „Ich weiß nicht, wie lange ich brauche, um mich anzupassen. Um das zu verstehen. Um dich als dich zu sehen, nicht nur als eine Kombination.“
 
 „Wir finden es heraus. Zusammen. Einen Schritt nach dem anderen.“
 
 Lina nickte, obwohl Unsicherheit in ihrem Gesicht blieb.
 
-„Ich bin da“, sagte sie schließlich. „Was immer du brauchst. Nur… hab Geduld mit mir.“
+„Ich bin da“, sagte sie schließlich. „Was immer du brauchst. Nur hab Geduld mit mir.“
 
 „Haben wir.“
 

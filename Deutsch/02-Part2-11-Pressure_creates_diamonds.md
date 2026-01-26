@@ -1,8 +1,8 @@
-## Teil 2 – Lernen zuzuhören | Kap. 11 – Druck macht Diamanten
+## Teil 2 – Lernen zuzuhören | Kap. 11 – Unter Druck entstehen Diamanten
 
 Die Überwachung begann subtil.
 
-Jason bemerkte es zuerst auf dem Weg zur Arbeit. Dieselbe Limousine, drei Tage hintereinander, gegenüber der Tramhaltestelle geparkt. Unterschiedliche Fahrer, aber die gleiche bewusst gewählte Position. Immer mit klarer Sicht auf den Eingang seines Gebäudes.
+Jason bemerkte es zuerst auf dem Weg zur Arbeit. Dieselbe Limousine, drei Tage in Folge, gegenüber der Tramhaltestelle geparkt. Unterschiedliche Fahrer, aber die gleiche bewusst gewählte Position. Immer mit klarer Sicht auf den Eingang seines Gebäudes.
 
 Er erwähnte es Lina über ihren verschlüsselten Kanal.
 
@@ -69,9 +69,9 @@ Jason ging zum sekundären Treffpunkt – einem Buchladen, den sie als Backup-Lo
 
 „Sie ziehen an“, sagte Lina. „Das ist aktives Tracking, nicht passives Beobachten.“
 
-Milo zog sein Tablet hoch. „Elyra hat geantwortet. Der Tail ist bestätigt als HOA-Feldoperator. Name: Marcus Chen. Spezialgebiet: Capability Assessment. Ich hole sie rein.“
+Milo zog sein Tablet hoch. „Elyra hat geantwortet. Der Tail ist bestätigt als HOA-Feldoperator. Name: Marcus Chen. Spezialgebiet: Fähigkeitsbewertung. Ich hole sie rein.“
 
-„Capability Assessment“, wiederholte Jason. „Also beobachten sie nicht nur, wo wir hingehen. Sie messen, was wir können.“
+„Fähigkeitsbewertung“, wiederholte Jason. „Also beobachten sie nicht nur, wo wir hingehen. Sie messen, was wir können.“
 
 „Genau“, kam Elyras Stimme aus Milos Tablet. „Was zwei Dinge heißt: Erstens, sie haben noch nicht entschieden, wie gefährlich du bist. Zweitens, sie sammeln Daten, um diese Entscheidung zu treffen.“
 
@@ -137,7 +137,7 @@ Jasons Herz hämmerte. Zwei Wochen.
 
 Um etwas zu werden, das Malvek nicht ignorieren konnte.
 
-*Druck macht Diamanten,* stellte RAE fest.
+*Unter Druck entstehen Diamanten,* stellte RAE fest.
 
 *Oder er zerdrückt Kohle zu Staub.*
 

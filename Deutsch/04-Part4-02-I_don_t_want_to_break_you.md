@@ -26,7 +26,7 @@ Die Wachleute führten uns in einen anderen Flügel als zuvor. Tiefer. Sicherer.
 
 Weiße Wände. Medizinische Geräte. Monitoring-Stationen. Und in der Mitte ein einzelner Stuhl mit Fixierpunkten.
 
-Nicht aktiviert. Nicht drohend. Einfach … da. Eine Erinnerung daran, was passieren konnte, wenn wir nicht mitspielten.
+Nicht aktiviert. Nicht drohend. Einfach da. Eine Erinnerung daran, was passieren konnte, wenn wir nicht mitspielten.
 
 Linas Kiefer spannte sich. Wir spürten ihre Wut selbst ohne Resonanzwahrnehmung – sie strahlte in Wellen, die wir nicht ignorieren konnten.
 
@@ -52,7 +52,7 @@ Malvek kam exakt um 10:00. Reeves bei ihm, Tablet in der Hand, Miene professione
 
 „Hatten wir eine Wahl?“ fragten wir.
 
-„Immer.“ Er setzte sich uns gegenüber. Reeves blieb stehen und machte bereits Notizen. „Ein Ablehnen hätte allerdings … Konsequenzen. Für Sie beide.“
+„Immer.“ Er setzte sich uns gegenüber. Reeves blieb stehen und machte bereits Notizen. „Ein Ablehnen hätte allerdings Konsequenzen. Für Sie beide.“
 
 Da war es. Der Käfig, der sich als Partnerschaft ausgab. Die Leine, die sie Kooperation nannten.
 
@@ -80,7 +80,7 @@ Der Käfig zog sich zu, verkauft als vernünftige Vorsicht.
 
 Lina beugte sich vor. „Und ich? Warum bin ich hier?“
 
-„Status als zugeordnete Person“, sagte Malvek. „Unter den Bedingungen, die Sie unterschrieben haben, sind Sie als … Partnerin von Mr. Fischer dokumentiert.“ Er machte es zur Frage, testete Grenzen.
+„Status als zugeordnete Person“, sagte Malvek. „Unter den Bedingungen, die Sie unterschrieben haben, sind Sie als Partnerin von Mr. Fischer dokumentiert.“ Er machte es zur Frage, testete Grenzen.
 
 „Ja“, sagten wir fest, ohne ihn definieren zu lassen, was wir waren.
 
@@ -88,7 +88,7 @@ Lina beugte sich vor. „Und ich? Warum bin ich hier?“
 
 „Kontingenzstatus?“ Linas Stimme wurde kalt, weil sie verstand.
 
-„Wenn Mr. Fischer einen katastrophalen Integrationskollaps erleidet“, sagte Reeves schnell und versuchte, den Schlag abzufedern, „sind Sie die Person, die am wahrscheinlichsten anwesend ist. Wir müssen wissen, dass Sie angemessen reagieren können. Dass Sie die Risiken verstehen. Dass Sie eine Eindämmung nicht … erschweren, falls sie notwendig wird.“
+„Wenn Mr. Fischer einen katastrophalen Integrationskollaps erleidet“, sagte Reeves schnell und versuchte, den Schlag abzufedern, „sind Sie die Person, die am wahrscheinlichsten anwesend ist. Wir müssen wissen, dass Sie angemessen reagieren können. Dass Sie die Risiken verstehen. Dass Sie eine Eindämmung nicht erschweren, falls sie notwendig wird.“
 
 Übersetzung: Wenn wir sterben oder durchdrehen, wollen sie wissen, ob Lina beim Aufräumen kooperiert – oder zu einem weiteren Problem wird.
 
@@ -102,7 +102,7 @@ Uns wurde übel.
 
 Lina beugte sich vor. „Und ich habe mich nicht dafür entschieden, mich ‚mit dem Ergebnis zu assoziieren‘. Ich habe ihn gewählt, bevor all das begann. Mein Commitment hat sich nicht verändert – sein Status schon. Wegen Arbeit, die er für Sie getan hat.“
 
-Malveks Gesicht blieb ruhig, aber etwas in seinen Augen registrierte den Punkt. „Fair. Sie haben recht – die Synthese erfolgte während autorisierter Operationen. Das verändert das aktuelle Risikoprofil nicht, aber es … kontextualisiert Verantwortung.“ Er hielt kurz inne. „Deshalb bieten wir Partnerschaft statt reiner Eindämmung. Das haben Sie sich verdient.“
+Malveks Gesicht blieb ruhig, aber etwas in seinen Augen registrierte den Punkt. „Fair. Sie haben recht – die Synthese erfolgte während autorisierter Operationen. Das verändert das aktuelle Risikoprofil nicht, aber es kontextualisiert Verantwortung.“ Er hielt kurz inne. „Deshalb bieten wir Partnerschaft statt reiner Eindämmung. Das haben Sie sich verdient.“
 
 „Partnerschaft“, wiederholten wir skeptisch.
 
@@ -112,7 +112,7 @@ Malveks Gesicht blieb ruhig, aber etwas in seinen Augen registrierte den Punkt. 
 
 „Operative Sicherheit. Risikominimierung. Die ethischen Rahmen, die wir bereits etabliert haben. Ihnen wird keine Freiheit gewährt – Sie werden kooperativ gemanagt, weil ein Zwangsmanagement scheitern würde.“ Er beugte sich etwas vor. „Verstehen Sie: Das ist nicht Nettigkeit. Das ist Realismus darüber, wie Kontrolle bei jemandem wie Ihnen tatsächlich aussieht.“
 
-„Kooperation“, sagte Lina und probierte das Wort. „Und wenn wir diese … Partnerschaft ablehnen?“
+„Kooperation“, sagte Lina und probierte das Wort. „Und wenn wir diese Partnerschaft ablehnen?“
 
 „Dann sind wir zu Eindämmungsprotokollen gezwungen. Höhere Klassifikation. Mehr Einschränkungen. Mehr Überwachung.“ Malveks Kiefer spannte sich leicht. „Keiner von uns will das – ich schon gar nicht. Es ist ineffizient, teuer und politisch problematisch. Aber wenn Sie Kooperation verweigern, bleibt uns keine Alternative.“
 

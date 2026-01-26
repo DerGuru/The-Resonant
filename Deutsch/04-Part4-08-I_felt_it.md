@@ -2,7 +2,7 @@
 
 Wir hätten die Lagerhalle nach ihrer Verwandlung fast nicht wiedererkannt. Nicht, dass sie in etwas Mystisches oder Esoterisches verwandelt worden wäre – Elyra war da sehr eindeutig gewesen. Sondern in etwas *Strukturiertes*. Fast klinisch. Als würde man Trauer in Geometrie verwandeln.
 
-Diagramme bedeckten eine ganze Wand. Flussdiagramme, die jede Phase des Rituals zeigten. Resonanzmuster präzise kartiert. Rollen klar definiert. Failsafes in Rot markiert.
+Diagramme bedeckten eine ganze Wand. Flussdiagramme, die jede Phase des Rituals zeigten. Resonanzmuster präzise kartiert. Rollen klar definiert. Sicherungsmechanismen in Rot markiert.
 
 Elyra stand im Zentrum und studierte ihre eigene Arbeit mit einem Ausdruck, den wir inzwischen kannten: Hoffnung im Kampf mit Zweifel, ohne dass einer vollständig gewann.
 
@@ -12,7 +12,7 @@ Mrs. Amari kam exakt pünktlich. Praktische Kleidung. Ebenfalls nichts Mystische
 
 Elyra nickte, dankbar für die Direktheit. Sie zeigte auf das Diagramm.
 
-„Sie halten die äußere Grenze. Den Umfang. Resonanz bleibt in diesem Raum –“ sie deutete auf einen Kreis auf dem Boden „– oder das Muster destabilisiert katastrophal. Ihre Aufgabe ist Eindämmung. Nicht Heilung. Nicht Unterstützung. Nur … die Linie halten.“
+„Sie halten die äußere Grenze. Den Umfang. Resonanz bleibt in diesem Raum –“ sie deutete auf einen Kreis auf dem Boden „– oder das Muster destabilisiert katastrophal. Ihre Aufgabe ist Eindämmung. Nicht Heilung. Nicht Unterstützung. Nur die Linie halten.“
 
 „Und wenn ich Stopp sage?“ fragte Mrs. Amari.
 
@@ -44,7 +44,7 @@ Wir synchronisierten uns. Alle. Atmeten gemeinsam. Die Umgebungsresonanz im Raum
 
 Vier ein. Sechs aus. Vier ein. Sechs aus.
 
-Die gezackten Muster glätteten sich ein wenig. Nicht repariert – nur … ruhiger.
+Die gezackten Muster glätteten sich ein wenig. Nicht repariert – nur ruhiger.
 
 „Phase drei“, sagte Elyra. „Mrs. Amari, Grenze aktivieren.“
 
@@ -54,7 +54,7 @@ Die Resonanz, die nach außen gesickert war, wurde plötzlich eingeschlossen. Ge
 
 „Gut“, atmete Elyra. „Phase vier. Anker und Stabilisatorin. Beginnen.“
 
-Wir dehnten unsere Präsenz vorsichtig aus. Nur … anbieten. Ein stabiles Feld schaffen, durch das Elyras beschädigte Muster fließen konnten, ohne weiter zu reißen.
+Wir dehnten unsere Präsenz vorsichtig aus. Nur anbieten. Ein stabiles Feld schaffen, durch das Elyras beschädigte Muster fließen konnten, ohne weiter zu reißen.
 
 Lina kompensierte Drift. Wenn wir schwankten, balancierte sie. Wenn wir hochschossen, dämpfte sie. Wenn wir zurückzogen, füllte sie.
 
@@ -108,7 +108,7 @@ Mrs. Amaris Stimme, stabil trotz Anstrengung – und etwas darunter, etwas wie E
 
 Wir verstanden. Die Grenze hielt. Hielt die Resonanz so, wie sie sollte. So, wie sie vor zwanzig Jahren hätte halten sollen.
 
-Elyra flüsterte ein Danke, kaum hörbar. Wir echo­ten es stumm, Erleichterung flutete durch uns.
+Elyra flüsterte ein Danke, kaum hörbar. Wir echoten es stumm, Erleichterung flutete durch uns.
 
 Wir hielten. Lina hielt. Mrs. Amari hielt.
 
@@ -142,7 +142,7 @@ Sie hob ihre beschädigte Hand. Sie zitterte noch. Sah noch vernarbt aus. Trug n
 
 Aber als sie investierte – vorsichtig, minimal – erschien ein schwaches Leuchten.
 
-„Zwanzig Prozent“, bestätigte sie, Tränen noch immer da. „Das ist … das ist mehr, als ich seit elf Jahren hatte. Das ist *wundervoll*.“
+„Zwanzig Prozent“, bestätigte sie, Tränen noch immer da. „Das ist mehr, als ich seit elf Jahren hatte. Das ist *wundervoll*.“
 
 Mrs. Amari hatte sich schwer hingesetzt, sichtbar ausgelaugt davon, fünfzehn Minuten lang die Grenze zu halten. Aber sie lächelte.
 
@@ -194,7 +194,7 @@ Ich ging einen Block lang schweigend. Dann sagte sie: „Mrs. Amari hat am Ende 
 
 Ich erzählte es ihr.
 
-„Sie hat recht“, sagte Lina einfach. „Ich sehe dich als ganz. Nicht trotz Synthese. Nicht trotz dessen, was du geworden bist. Einfach … ganz. Vollständig. Der Mensch, den ich wähle.“
+„Sie hat recht“, sagte Lina einfach. „Ich sehe dich als ganz. Nicht trotz Synthese. Nicht trotz dessen, was du geworden bist. Einfach ganz. Vollständig. Der Mensch, den ich wähle.“
 
 „Ich weiß nicht, ob ich singular bin oder etwas anderes“, gab ich zu. „Ob das, was ich bin, einen Namen hat, der Sinn ergibt.“
 

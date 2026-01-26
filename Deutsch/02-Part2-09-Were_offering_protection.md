@@ -24,7 +24,7 @@ Jason deutete in die Richtung, in die er ohnehin gegangen war. „Ich bin gerade
 
 Reeves nickte knapp und fiel neben ihm ein. „Gehen Sie voran.“
 
-Sie liefen. Jason hielt sein Tempo gleichmäßig, ohne zu hetzen. Reeves passte es mühelos an, die Hände hinter dem Rücken verschränkt. „Sie wurden markiert, Mr. Fischer. Anomale Resonanzsignaturen in der Nähe Ihres Arbeitsplatzes, Ihrer Wohnung und mehrerer Trainingsorte. Nichts Illegales, aber … auffällig. Auffällig genug, dass wir gezielte Scans gefahren sind. Die Integrationswerte haben unsere Vermutung bestätigt.“
+Sie liefen. Jason hielt sein Tempo gleichmäßig, ohne zu hetzen. Reeves passte es mühelos an, die Hände hinter dem Rücken verschränkt. „Sie wurden markiert, Mr. Fischer. Anomale Resonanzsignaturen in der Nähe Ihres Arbeitsplatzes, Ihrer Wohnung und mehrerer Trainingsorte. Nichts Illegales, aber auffällig. Auffällig genug, dass wir gezielte Scans gefahren sind. Die Integrationswerte haben unsere Vermutung bestätigt.“
 
 Jasons Puls sprang hoch. Sein Gesicht blieb neutral. „Ich weiß nicht, wovon Sie reden.“
 
@@ -36,7 +36,7 @@ Jasons Puls sprang hoch. Sein Gesicht blieb neutral. „Ich weiß nicht, wovon S
 
 Jason drehte die Karte zwischen den Fingern. Eine Telefonnummer. Kein Name, kein Logo. „Und wenn ich nicht interessiert bin?“
 
-„Dann machen Sie weiter wie bisher.“ Reeves’ Ton blieb freundlich. „Aber verstehen Sie: Wir beobachten jetzt. Wenn Ihre Aktivitäten eskalieren, wenn jemand verletzt wird, wenn es irgendein Zeichen von Instabilität gibt … dann greifen wir ein. Aus Gründen der öffentlichen Sicherheit.“
+„Dann machen Sie weiter wie bisher.“ Reeves’ Ton blieb freundlich. „Aber verstehen Sie: Wir beobachten jetzt. Wenn Ihre Aktivitäten eskalieren, wenn jemand verletzt wird, wenn es irgendein Zeichen von Instabilität gibt, dann greifen wir ein. Aus Gründen der öffentlichen Sicherheit.“
 
 „Ist das eine Drohung?“
 
@@ -72,7 +72,7 @@ Elyra hielt die Karte unter ihre Schreibtischlampe, prüfte sie, als wäre sie e
 
 „Dann machen sie was?“ fragte Lina.
 
-„Kommt drauf an. Manchmal nichts. Manchmal passive Beobachtung. Manchmal aktive Eindämmung.“ Elyras Hände waren ruhig, aber ihr Kiefer angespannt. „Ich wurde eine Zeit nach dem Ritual angesprochen – nachdem ich mich erholt hatte. Als ich mich geweigert habe, ihnen zu helfen …“ Sie hielt inne. „Sagen wir so: Sie nehmen Ablehnung nicht gut.“
+„Kommt drauf an. Manchmal nichts. Manchmal passive Beobachtung. Manchmal aktive Eindämmung.“ Elyras Hände waren ruhig, aber ihr Kiefer angespannt. „Ich wurde eine Zeit nach dem Ritual angesprochen – nachdem ich mich erholt hatte. Als ich mich geweigert habe, ihnen zu helfen.“ Sie hielt inne. „Sagen wir so: Sie nehmen Ablehnung nicht gut.“
 
 Der Raum wurde still.
 

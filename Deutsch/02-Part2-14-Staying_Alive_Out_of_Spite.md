@@ -40,7 +40,7 @@ Etwas flackerte über Elyras Gesicht. „Drei Jahre Grundlagen. Zwei weitere Spe
 
 Tag Vier. „Kampfszenario“, sagte Elyra. „Lina ist feindlich. Jason, verteidige.“
 
-Jason hatte kaum Zeit, sich zu sammeln, da krachte Linas Muster schon in ihn – nicht hart genug, um zu verletzen, aber aggressiv genug, dass seine Zähne aufeinander klickten. Der Impact trieb ihn einen Schritt zurück, seine Sneaker quietschten über Beton.
+Jason hatte kaum Zeit, sich zu sammeln, da krachte Linas Muster schon in ihn – nicht hart genug, um zu verletzen, aber aggressiv genug, dass seine Zähne aufeinander klickten. Der Impact trieb ihn einen Schritt zurück, seine Sneaker quietschten auf dem Beton.
 
 Er formte ein Ablenkfeld und lenkte die Energie zur Seite. Die Luft um seine Hände schimmerte vor Aufwand. Aber Lina war schon in Bewegung, der zweite Angriff kam aus einem anderen Winkel und schnitt genau dort durch, wo sein Feld am schwächsten war.
 
@@ -68,7 +68,7 @@ Er lenkte den dritten Angriff ab – aber gerade so. Seine Hände zitterten. Der
 
 „Stopp“, rief Elyra. „Jason ist am Threshold.“
 
-Sie stoppten. Jason sackte an einen Container, hart atmend. Das Metall war kalt an seinem Rücken durch das schweißnasse Shirt.
+Sie stoppten. Jason sackte an einen Container, hart atmend. Das Metall war kalt an seinem Rücken, selbst durch das schweißnasse Shirt.
 
 „Das waren zwei Minuten“, sagte Elyra und checkte ihre Stoppuhr. „In einer echten Eindämmungssituation müsstest du das fünf halten. Vielleicht zehn.“ Sie hielt inne. „Wir trainieren weiter.“
 
@@ -244,7 +244,7 @@ Milo legte sein Stück ab. Starrte auf sein Tablet. Der Screen war schwarz – A
 
 Er hob das Tablet. Legte es wieder hin. Seine Hände zitterten.
 
-„Jetzt ist die Prüfung egal. Das Zertifikat egal. Das Mädchen …“ Er brach ab. Lachte. Es klang falsch. „Ich denke ständig an meine Mom. Sie ruft jeden Tag an. Ich sage ihr, alles ist okay. Dass ich an einem großen Projekt arbeite.“
+„Jetzt ist die Prüfung egal. Das Zertifikat egal. Das Mädchen.“ Er brach ab. Lachte. Es klang falsch. „Ich denke ständig an meine Mom. Sie ruft jeden Tag an. Ich sage ihr, alles ist okay. Dass ich an einem großen Projekt arbeite.“
 
 Seine Stimme wurde klein. „Wenn sie kommen – und sie werden kommen –, was sage ich ihr?“
 

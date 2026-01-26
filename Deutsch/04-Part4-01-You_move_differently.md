@@ -20,7 +20,7 @@ Wir nahmen das Glas dankbar und tranken. Sie beobachtete uns mit dieser vorsicht
 
 Wir nickten. Dann merkten wir, dass ihr Blick nicht wegging. „Was?“
 
-„Du atmest anders“, sagte sie leise. „Tiefer. Mehr … rhythmisch. Mir ist es gestern Nacht aufgefallen, aber jetzt im Licht …“ Sie neigte den Kopf ein wenig. „Anders.“
+„Du atmest anders“, sagte sie leise. „Tiefer. Mehr rhythmisch. Mir ist es gestern Nacht aufgefallen, aber jetzt im Licht.“ Sie neigte den Kopf ein wenig. „Anders.“
 
 Wir nickten wieder. Das ergab Sinn. Unsere autonomen Funktionen hatten sich während der Synthese optimiert. Wie ein Wechsel von Schaltgetriebe auf Automatik – weicher, effizienter, aber im Kern dasselbe Auto.
 
@@ -36,11 +36,11 @@ Wir griffen nach der Kaffeemaschine. Unsere Hand bewegte sich mit ungewöhnliche
 
 Lina bemerkte es. „Du bewegst dich auch anders.“
 
-„Wir wissen.“ Wir maßen Kaffeepulver ab. Der Löffel fasste exakt 12,4 Gramm. Perfekt für zwei Tassen. Früher hatten wir geschätzt, aber jetzt kam Genauigkeit von selbst. „Alles ist … klarer. Schärfer. Als hätte die Welt Messwerte, die dranhängen.“
+„Wir wissen.“ Wir maßen Kaffeepulver ab. Der Löffel fasste exakt 12,4 Gramm. Perfekt für zwei Tassen. Früher hatten wir geschätzt, aber jetzt kam Genauigkeit von selbst. „Alles ist klarer. Schärfer. Als hätte die Welt Messwerte, die dranhängen.“
 
 „Ist das gut?“
 
-Wir gossen Wasser ein – 93°C, optimale Extraktionstemperatur – und hielten inne. „Es ist nützlich. Aber es ist auch einfach … da. Wie wenn man das Brummen des Kühlschranks erst bemerkt, wenn jemand darauf hinweist, und es dann wieder vergisst.“
+Wir gossen Wasser ein – 93°C, optimale Extraktionstemperatur – und hielten inne. „Es ist nützlich. Aber es ist auch einfach da. Wie wenn man das Brummen des Kühlschranks erst bemerkt, wenn jemand darauf hinweist, und es dann wieder vergisst.“
 
 Die Nährwertanalyse der Frühstückszutaten lief automatisch im Hintergrund: Proteingehalt, optimales Koffein-Timing, Kaloriendichte. Wir ignorierten das meiste, so wie wir die genaue Temperatur der Luft (21,3°C) oder die Resonanzfrequenz des Gebäudefundaments (0,47 Hz) ignorierten.
 
@@ -62,7 +62,7 @@ Wir wichen sofort zurück, klemmten unser Feld ab. Die Vibration hörte auf.
 
 Lina war erstarrt. „Was war das?“
 
-„Wir wollten das nicht.“ Unsere Hände zitterten leicht. „Wir haben es nicht mal versucht. Und dann ist Resonanz einfach … ausgelaufen.“
+„Wir wollten das nicht.“ Unsere Hände zitterten leicht. „Wir haben es nicht mal versucht. Und dann ist Resonanz einfach ausgelaufen.“
 
 „Grün oder Gelb?“
 
@@ -94,7 +94,7 @@ Lina las über unsere Schulter. „Morgen schon?“
 
 „Hast du Angst?“
 
-Wir trafen ihren Blick. „Keine Angst. Nur … wach. Wir finden noch heraus, was stabil überhaupt bedeutet.“
+Wir trafen ihren Blick. „Keine Angst. Nur wach. Wir finden noch heraus, was stabil überhaupt bedeutet.“
 
 „Weißt du“, sagte Lina leise, „es ist seltsam, wenn du ‚wir‘ statt ‚ich‘ sagst.“
 
@@ -122,7 +122,7 @@ Als Lina wieder Frühstück vorbereitete, standen wir ganz still. Dehnten unsere
 
 Dann zogen wir es zurück.
 
-Kontrolle war möglich. Nur … erschöpfend.
+Kontrolle war möglich. Nur erschöpfend.
 
 Selbst als wir wieder beim Frühstück halfen, analysierten wir die Umgebungsresonanz der Wohnung. Kartierten Verteidigungspositionen. Berechneten optimale Fluchtwege.
 
@@ -136,7 +136,7 @@ Frühstück. Kaffee. Gespräche über nichts Wichtiges. Lina erzählte von dem R
 
 „Wie ist es?“ fragte Lina schließlich. „Wirklich – wie?“
 
-Wir stellten die Tasse vorsichtig ab. „Anders. Nicht schlecht, nur … anders. Als würde ich mehr sehen als früher. Mehr hören. Mehr fühlen. Und das meiste davon ist egal, aber ich kann es nicht abschalten.“
+Wir stellten die Tasse vorsichtig ab. „Anders. Nicht schlecht, nur anders. Als würde ich mehr sehen als früher. Mehr hören. Mehr fühlen. Und das meiste davon ist egal, aber ich kann es nicht abschalten.“
 
 „Ist es überwältigend?“
 

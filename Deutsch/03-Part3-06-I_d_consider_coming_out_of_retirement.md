@@ -8,11 +8,11 @@ Es lag halb versteckt unter einem Stapel keramischer Resonatoren in Elyras Arbei
 
 Jason und Lina kamen dazu. Das Notizbuch war aufgeschlagen bei einem sechsteiligen Resonogramm mit dem Titel *Rekonstruktionsprotokoll – persönliche Studie*.
 
-„Ist das…“ Lina fuhr mit dem Finger eine der Strukturen nach. „Ist das für Elyra?“
+„Ist das“ Lina fuhr mit dem Finger eine der Strukturen nach. „Ist das für Elyra?“
 
-„Ich denke schon.“ Milo tippte auf die Notizen. „Siehst du? ‚Beschädigte Muster.‘ ‚Gelenktes Nachwachsen.‘ ‚Template-Kopplungsarchitektur.‘“ Er blickte auf. „Sie hat erforscht, wie sie sich selbst heilen kann.“
+„Ich denke schon.“ Milo tippte auf die Notizen. „Siehst du? ‚Beschädigte Muster.‘ ‚Gelenktes Nachwachsen.‘ ‚Vorlage-Kopplungsarchitektur.‘“ Er blickte auf. „Sie hat erforscht, wie sie sich selbst heilen kann.“
 
-Jason spürte, wie RAEs Aufmerksamkeit scharf wurde. *Das ist… hochkomplex. Das würde unsere Kopplung als Template verwenden. Ihren beschädigten Mustern beibringen, wie sie sich neu zusammensetzen.*
+Jason spürte, wie RAEs Aufmerksamkeit scharf wurde. *Das ist hochkomplex. Das würde unsere Kopplung als Template verwenden. Ihren beschädigten Mustern beibringen, wie sie sich neu zusammensetzen.*
 
 Die Tür ging auf. Elyra trat ein und blieb stehen, als sie die drei um ihr Notizbuch sah.
 
@@ -20,7 +20,7 @@ Stille.
 
 Dann: „Ihr hättet das nicht finden sollen.“
 
-„Aber wir haben es“, sagte Lina – nicht anklagend. Nur… feststellend. „Du arbeitest daran.“
+„Aber wir haben es“, sagte Lina – nicht anklagend. Nur feststellend. „Du arbeitest daran.“
 
 Elyra stellte ihren Stock sorgfältig ab. Ging zum Tisch. Klappte das Notizbuch mit kontrollierter Ruhe zu. „Es ist theoretisch. Nicht umsetzbar.“
 
@@ -38,7 +38,7 @@ Elyra musterte sie lange. Dann seufzte sie und schlug das Notizbuch wieder auf.
 
 „Dieses Ritual nutzt geführte harmonische Rekonstruktion“, sagte sie und zeigte auf das zentrale Muster. „Meine beschädigten Muster können nicht einfach gezwungen werden, zu heilen. Aber man kann sie ermutigen. Entlang von Pfaden führen, die sich noch daran erinnern, wie Ganzsein sich angefühlt hat.“ Sie hielt kurz inne. „Ich wäre der Fokus. Jason wäre der Anker – seine Aufgabe ist, stabile Resonanz zu liefern, durch die das Muster fließen kann, während RAE in ihm das harmonische Fundament hält. Lina als externer Stabilisator.“
 
-Sie atmete aus. „Aber wir brauchen eine Fünfte – jemanden, der die äußere Grenze hält. Das Muster davon abhält, in die Umgebung auszufransen. Das erfordert defensive Ausbildung, Stabilität und… Vertrauen.“
+Sie atmete aus. „Aber wir brauchen eine Fünfte – jemanden, der die äußere Grenze hält. Das Muster davon abhält, in die Umgebung auszufransen. Das erfordert defensive Ausbildung, Stabilität und Vertrauen.“
 
 Sie sah Milo an. „Milo wäre Zeitnehmer und Beobachter. Außerhalb des Musters, in der Überwachung – aber essenziell.“
 
@@ -52,7 +52,7 @@ In Jason klickte etwas ein. Mrs. Amari. Ihr wachsamer Blick. Ihre Warnung nach d
 
 Elyra sah ihn scharf an. „Wen?“
 
-„Meine Nachbarin. Mrs. Amari. Sie hat… hingeschaut. Von Anfang an. Sie hat mich nach dem Scaffold-Vorfall gewarnt. Hat gesagt, ich sei bemerkt worden. Hat gesagt, nicht jeder, der bemerkt, ist freundlich.“ Er zögerte. „Wie sie über diese Dinge spricht… ich glaube, sie hat Erfahrung. Aber ich weiß nicht, ob sie bereit wäre.“
+„Meine Nachbarin. Mrs. Amari. Sie hat hingeschaut. Von Anfang an. Sie hat mich nach dem Scaffold-Vorfall gewarnt. Hat gesagt, ich sei bemerkt worden. Hat gesagt, nicht jeder, der bemerkt, ist freundlich.“ Er zögerte. „Wie sie über diese Dinge spricht, ich glaube, sie hat Erfahrung. Aber ich weiß nicht, ob sie bereit wäre.“
 
 „Du denkst, sie war Praktikerin?“ fragte Lina.
 
@@ -74,7 +74,7 @@ Jason fand Mrs. Amari im kleinen Garten des Gebäudes. Später Nachmittag. Sie k
 
 Sie sah auf und musterte ihn mit diesen scharfen Augen. „Über das, was du planst? Oder über das, was ich schon weiß?“
 
-Jason stockte der Atem. „Sie… wissen?“
+Jason stockte der Atem. „Sie wissen?“
 
 „Ich weiß es seit Monaten, Jason. Seit dem Sturm. Eigentlich schon seit davor.“ Sie legte die Kelle hin und wischte Erde von den Händen. „Du bist nicht so subtil, wie du denkst. Und ich war lange genug um Resonanz herum, um die Zeichen zu erkennen.“
 
@@ -86,7 +86,7 @@ Jason stockte der Atem. „Sie… wissen?“
 
 „Weil ich gesehen habe, was du getan hast. Was du wirst.“ Sie hielt seinen Blick. „Du steckst tief drin, Jason. Tiefer, als du glaubst.“
 
-„Ich weiß.“ Er holte Luft. „Das ist tatsächlich… ein Teil davon, warum ich hier bin. Nicht, um zu fragen, was Sie wissen. Sondern um zu fragen, ob–“ Er brach ab. Setzte neu an. „Würden Sie sich etwas ansehen? Ein Resonogramm. Es ist für ein Heilungsritual. Komplex. Es braucht bestimmte Rollen. Und ich denke… ich denke, eine dieser Rollen könnte zu Ihrer Ausbildung passen.“
+„Ich weiß.“ Er holte Luft. „Das ist tatsächlich ein Teil davon, warum ich hier bin. Nicht, um zu fragen, was Sie wissen. Sondern um zu fragen, ob–“ Er brach ab. Setzte neu an. „Würden Sie sich etwas ansehen? Ein Resonogramm. Es ist für ein Heilungsritual. Komplex. Es braucht bestimmte Rollen. Und ich denke, ich denke, eine dieser Rollen könnte zu Ihrer Ausbildung passen.“
 
 Mrs. Amari schwieg einen Moment. „Du fragst, ob ich in Erwägung ziehe, aus dem Ruhestand zurückzukommen.“
 
@@ -106,7 +106,7 @@ In dieser Nacht berichtete Jason dem Team.
 
 „Was, wenn sie nein sagt?“ fragte Lina.
 
-„Dann respektieren wir das“, sagte Jason. „Und finden einen anderen Weg. Aber ich glaube…“ Er zögerte. „Ich glaube, sie will ja sagen. Sie muss nur wissen, dass wir bereit sind. Dass wir da nicht blind reingehen.“
+„Dann respektieren wir das“, sagte Jason. „Und finden einen anderen Weg. Aber ich glaube“ Er zögerte. „Ich glaube, sie will ja sagen. Sie muss nur wissen, dass wir bereit sind. Dass wir da nicht blind reingehen.“
 
 „Dann zeigen wir ihr, dass wir bereit sind“, sagte Elyra. „Morgen demonstrieren wir. Perfekte Ausführung. Keine Fehler. Wir zeigen ihr, dass dieses Team weiß, was es tut.“
 

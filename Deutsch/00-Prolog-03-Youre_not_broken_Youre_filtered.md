@@ -127,7 +127,7 @@ Marla drehte sich zu ihr um, und für einen Moment flackerte etwas beinahe Mensc
 
 Das brachte sie zum Schweigen. Gefiltert. Nicht kaputt. Es war das Freundlichste, was Marla je zu ihr gesagt hatte, und irgendwie machte es das schlimmer.
 
-Elyra atmete aus. Atemwölkchen kondensierten vor ihr in der kalten Luft. „Seit gestern spüre ich etwas. Irgendwie … Keine Präsenz. Eher eine Kontur. Der Rand des Feldes faltet sich seltsam.“
+Elyra atmete aus. Atemwölkchen kondensierten vor ihr in der kalten Luft. „Seit gestern spüre ich etwas. Irgendwie. Keine Präsenz. Eher eine Kontur. Der Rand des Feldes faltet sich seltsam.“
 
 „Ich weiß“, sagte Marla sanft. „Ich spüre es auch.“
 
@@ -312,7 +312,7 @@ Marlas Fassung zerbrach für einen Wimpernschlag – rohe, unverhüllte Wut brac
 
 Sie beugte sich dicht an sie heran, ihr Gesicht und ihre Stimme voller Abscheu. „Du wirst vielleicht nicht ins Gefängnis gehen. Aber du wirst nie wieder arbeiten. Man wird dir nie wieder vertrauen. Und falls jemand stirbt – **wenn** jemand stirbt – wird es dein Name sein, an den sie sich erinnern.“
 
-Marla drehte sich um und ging weg.Elyra blieb allein auf der in rotes Licht getauchten Beobachtungsplattform zurück. 
+Marla drehte sich um und ging weg. Elyra blieb allein auf der in rotes Licht getauchten Beobachtungsplattform zurück. 
 
 Irgendwann verstummten die Alarme. Die Bildschirme änderten sich zu bernsteinfarbenen Warnhinweisen.
 

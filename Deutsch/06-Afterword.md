@@ -28,9 +28,9 @@ Die erste Änderung war mühsam, aber straightforward: Ich ging die relevanten K
 
 ## Bonuskapitel: Der Originalentwurf von „To be less“
 
-Was folgt, ist die ursprüngliche KI-generierte Version dessen, was später zu „To be less“ wurde – damals, als es noch „Anchor“ hieß. Das Konzept: Lina sagt „Anchor“, und Jason/RAE verschieben sich, um mehr … Jason zu sein.
+Was folgt, ist die ursprüngliche KI-generierte Version dessen, was später zu „To be less“ wurde – damals, als es noch „Anchor“ hieß. Das Konzept: Lina sagt „Anchor“, und Jason/RAE verschieben sich, um mehr Jason zu sein.
 
-Als ich diesen Entwurf zum ersten Mal gelesen habe, war meine spontane Reaktion: *Das fühlt sich an wie eine Therapiesitzung.* Fünf Menschen sitzen zusammen, formale Grenzverhandlungen, dokumentierte Abmachungen – technisch korrekt, aber einfach … daneben. Nicht das, was ich wollte.
+Als ich diesen Entwurf zum ersten Mal gelesen habe, war meine spontane Reaktion: *Das fühlt sich an wie eine Therapiesitzung.* Fünf Menschen sitzen zusammen, formale Grenzverhandlungen, dokumentierte Abmachungen – technisch korrekt, aber einfach daneben. Nicht das, was ich wollte.
 
 Also habe ich es heruntergebrochen. Die Facilitators und formalen Strukturen gestrichen. Die vielen „Grenzen“ und Codewörter entfernt. Stattdessen habe ich mich darauf fokussiert, dass Jason und Lina es selbst herausfinden – messy, intim, real. Nur zwei Menschen (oder drei), die versuchen, es hinzubekommen. Das Ergebnis? Diese eine, verletzliche Bitte: „Kannst du weniger sein?“ Weniger perfekt. Weniger optimiert. Mehr wie der Jason, in den sie sich verliebt hat.
 

@@ -1,4 +1,4 @@
-## Teil 2 – Lernen zuzuhören | Kap. 05 – Neunzehn Punkte vom Permanent
+## Teil 2 – Lernen zuzuhören | Kap. 05 – Neunzehn Punkte bis zur Permanenz
 
 Drei Tage nach ihrer ersten Trainingssession kehrten Jason, Lina und Milo nach Mill-4 zurück.
 
@@ -46,11 +46,11 @@ Jason spürte, wie etwas Kaltes sich in seiner Brust absetzte. „Wie lange?“
 
 „Wenn jeder Trainingstag 0,6% addiert, erreichst du 60% in dreiunddreißig Tagen.“ Sie hielt inne. „Das sind weniger als fünf Wochen.“
 
-*Ich wusste nicht, dass es so schnell voranschreitet,* sagte RAE, etwas wie Alarm in ihrer Stimme. *Jason, es tut mir leid. Ich war … bequem. Vielleicht zu bequem.*
+*Ich wusste nicht, dass es so schnell voranschreitet,* sagte RAE, etwas wie Alarm in ihrer Stimme. *Jason, es tut mir leid. Ich war bequem. Vielleicht zu bequem.*
 
 „Was passiert bei 60%?“ fragte Milo leise.
 
-„Das ist, was ich ‚Integration‘ nennen würde“, sagte Elyra. „Du wirst etwas Neues. Nicht Jason. Nicht RAE. Etwas anderes – mehr.“ Sie sah Jason direkt an. „Manche werden es befreiend finden. Andere werden es furchteinflößend finden. Aber wenn du diese Schwelle überschreitest, gibt es kein Zurück.“
+„Das würde ich ‚Integration‘ nennen“, sagte Elyra. „Du wirst etwas Neues. Nicht Jason. Nicht RAE. Etwas anderes – mehr.“ Sie sah Jason direkt an. „Manche werden es befreiend finden. Andere werden es furchteinflößend finden. Aber wenn du diese Schwelle überschreitest, gibt es kein Zurück.“
 
 „Also was mache ich?“
 
@@ -89,7 +89,7 @@ Drinnen ließ er sich aufs Sofa fallen.
 
 *Wir bleiben – egal was. Wir sind nur smart damit.*
 
-*Ich hoffe, du hast recht. Denn Jason – ich versuche, Abstand zu halten. Aber es ist schwer. Jedes Mal, wenn wir zusammen arbeiten, jedes Mal, wenn du nach meiner Hilfe greifst, will ich dir alles geben, was ich habe. Zurückhalten fühlt sich an wie … Verleugnung.*
+*Ich hoffe, du hast recht. Denn Jason – ich versuche, Abstand zu halten. Aber es ist schwer. Jedes Mal, wenn wir zusammen arbeiten, jedes Mal, wenn du nach meiner Hilfe greifst, will ich dir alles geben, was ich habe. Zurückhalten fühlt sich an wie Verleugnung.*
 
 *Es ist keine Verleugnung. Es ist Disziplin.*
 
@@ -97,7 +97,7 @@ Drinnen ließ er sich aufs Sofa fallen.
 
 *Ja,* stimmte Jason zu. *Sind sie.*
 
-40,8%. Neunzehn Punkte vom Permanent.
+40,8%. Neunzehn Punkte bis zur Permanenz.
 
 Dreiunddreißig Tage im aktuellen Tempo.
 

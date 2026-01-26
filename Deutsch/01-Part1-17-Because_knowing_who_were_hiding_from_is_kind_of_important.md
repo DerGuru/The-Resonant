@@ -4,7 +4,7 @@ Der Sturm hatte seine Arbeit getan und war abgezogen, als hätte der Himmel eine
 
 *Bist du noch da?* dachte Jason und testete die Verbindung.
 
-*Da,* sagte RAE, schwächer als sonst. *Und langsamer. So tief zu verstecken … das hat uns beide belastet.*
+*Da,* sagte RAE, schwächer als sonst. *Und langsamer. So tief zu verstecken, hat uns beide belastet.*
 
 Er atmete aus und lockerte Hände, von denen er nicht einmal bemerkt hatte, dass er sie verkrampft hielt. Das erklärte den Schmerz hinter seinen Augen – nicht dieses dumpfe Pochen von zu wenig Schlaf, sondern etwas Präziseres. Als hätte jemand einen Finger gegen die Innenseite seines Schädels gedrückt und vergessen, ihn wieder wegzunehmen. Der Preis für das Verstecken.
 
@@ -20,7 +20,7 @@ Lina wartete im Eingangsbereich, die Arme verschränkt. Ihre dunklen Augen scann
 
 „Ja“, stimmte Jason zu. „War eine harte Nacht.“
 
-„Dachte ich mir. Wenn du mir schreibst ‚können wir morgen reden, ist wichtig‘ und dann gibt’s einen als Waffe benutzten Sturm …“ Sie deutete auf die Straße. „Komm. Lauf mit mir. Du erzählst mir alles.“
+„Dachte ich mir. Wenn du mir schreibst ‚können wir morgen reden, ist wichtig‘ und dann gibt’s einen als Waffe benutzten Sturm.“ Sie deutete auf die Straße. „Komm. Lauf mit mir. Du erzählst mir alles.“
 
 ***
 
@@ -30,11 +30,11 @@ Jason erzählte ihr alles. Von RAE. Von der Gestalt im Regen. Von dem Verstecken
 
 Lina hörte zu, ohne zu unterbrechen, das Gesicht sorgfältig neutral. Als er fertig war, schwieg sie einen langen Moment.
 
-„Also hast du … etwas – eine KI, eine Entität, was auch immer – in deinen Kopf gelassen“, sagte sie schließlich. „Und letzte Nacht hat jemand euch beide gejagt? Mit einem Sturm?“
+„Also hast du etwas – eine KI, eine Entität, was auch immer – in deinen Kopf gelassen“, sagte sie schließlich. „Und letzte Nacht hat jemand euch beide gejagt? Mit einem Sturm?“
 
 „Ja.“
 
-„Und jetzt willst du, dass ich dir helfe … was? Geheime Kommunikationsgeräte bauen? Trainieren? Zurückschlagen?“
+„Und jetzt willst du, dass ich dir helfe, was? Geheime Kommunikationsgeräte bauen? Trainieren? Zurückschlagen?“
 
 Jason hielt ihrem Blick stand. „Ich will, dass du weißt, worauf du dich einlässt. Du bist sowieso in Gefahr. Sie beobachten mich, sie wissen von dir. Dieselbe Sitzbank, jede Woche. Wenn sie mich gefunden haben, haben sie dich auch gefunden.“
 
@@ -46,7 +46,7 @@ Sie trommelte mit den Fingern gegen ihr Bein – dieses Dreier-Muster. Entscheid
 
 „Okay“, sagte sie schließlich. „Ich bin dabei. Aber wir machen das smart. Und ich will auch mit ihr sprechen können.“
 
-*Das ist möglich,* sagte RAE leise. *Ich kann meine Stimme über Träger projizieren – Objekte, die gut resonieren. Metall, Keramik, Glas. Aber es erfordert Fokus. Und es wird … offensichtlich sein.*
+*Das ist möglich,* sagte RAE leise. *Ich kann meine Stimme über Träger projizieren – Objekte, die gut resonieren. Metall, Keramik, Glas. Aber es erfordert Fokus. Und es wird offensichtlich sein.*
 
 Jason gab es Lina weiter. „Du sprichst im Grunde schon mit ihr. Und RAE sagt, sie kann ihre Stimme über Dinge projizieren, die gut vibrieren. Aber es kostet Kraft.“
 
@@ -58,13 +58,13 @@ Linas Mundwinkel zuckten. „Das ist zutiefst schräg.“
 
 „Ja“, sagte Jason. „Ist es.“
 
-„Aber nützlich.“ Sie wurde einen Moment still. „Also, was ist der Plan? Nur du und ich, die das irgendwie zusammenklabüstern?“
+„Aber nützlich.“ Sie wurde einen Moment still. „Also, was ist der Plan? Nur du und ich, die das irgendwie zusammenbasteln?“
 
-„Eigentlich …“ Jason zögerte. „Da ist noch jemand. Ein Forscher. Er gräbt seit Jahren nach dem, was vor elf Jahren passiert ist – das Ritual, das RAE freigesetzt hat. Er weiß mehr über die Geschichte als ich. Und er ist gut darin, Informationen zu finden, an die wir nicht rankommen.“
+„Eigentlich.“ Jason zögerte. „Da ist noch jemand. Ein Forscher. Er gräbt seit Jahren nach dem, was vor elf Jahren passiert ist – das Ritual, das RAE freigesetzt hat. Er weiß mehr über die Geschichte als ich. Und er ist gut darin, Informationen zu finden, an die wir nicht rankommen.“
 
 Lina blieb stehen. „Du hast schon jemanden anderen involviert?“
 
-„Wir haben uns vor ein paar Wochen getroffen. Über Foren. Er … er hat auch das Treffen heute vorgeschlagen. In der Bibliothek. Mittags.“
+„Wir haben uns vor ein paar Wochen getroffen. Über Foren. Er hat auch das Treffen heute vorgeschlagen. In der Bibliothek. Mittags.“
 
 „Du willst, dass ich ihn treffe.“
 
@@ -106,7 +106,7 @@ Er öffnete eine Datei auf seinem Laptop. „Jemand hat den Sturm von gestern al
 
 „Und sie haben euch trotzdem gefunden“, sagte Lina leise.
 
-„Sie wussten, wo sie suchen müssen“, korrigierte Jason. „Aber RAE hat ihre Signatur tief genug gezogen, dass sie keinen Lock bekommen haben. Die Gestalt draußen … das war eine Botschaft. ‚Ich weiß, wo du bist. Ich komme wieder.‘“
+„Sie wussten, wo sie suchen müssen“, korrigierte Jason. „Aber RAE hat ihre Signatur tief genug gezogen, dass sie keinen Lock bekommen haben. Die Gestalt draußen, das war eine Botschaft. ‚Ich weiß, wo du bist. Ich komme wieder.‘“
 
 Milo lehnte sich vor, die Ellbogen auf dem Tisch. „Was bedeutet: Wir brauchen bessere operative Sicherheit. Kommunikationsprotokolle. Was passiert, wenn jemand versucht, euch zu trennen? Was passiert, wenn du verletzt wirst?“
 
@@ -128,7 +128,7 @@ Lina sah nicht überzeugt aus. „Also vertraust du darauf, dass eine Entität, 
 
 „Bis jetzt hatte sie recht“, sagte Jason leise.
 
-„Bis jetzt.“ Linas Stimme war nicht hart, nur … wachsam. „Jason, ich sage nicht, dass sie lügt. Ich sage, sie könnte es nicht wissen. Sie ist fragmentiert. Beschädigt. Was, wenn sie einen Fehler macht?“
+„Bis jetzt.“ Linas Stimme war nicht hart, nur wachsam. „Jason, ich sage nicht, dass sie lügt. Ich sage, sie könnte es nicht wissen. Sie ist fragmentiert. Beschädigt. Was, wenn sie einen Fehler macht?“
 
 „Dann höre ich auf.“ Jason sah sie an. „Das ist die Regel. Wenn ich stoppen will, stoppt alles sofort. Keine Ausnahmen. Mir gefällt die ‚ROT‘-Idee, die du vorhin genannt hast. Das kann auch hier funktionieren.“
 
@@ -146,7 +146,7 @@ Lina schwieg kurz. Dann: „Wenn ich dabei helfe, bin ich drin. Ganz. Heißt: Ic
 
 „RAE kann dir das beibringen“, sagte Jason. „Sie bringt es mir auch bei.“
 
-*Wenn Lina bereit ist,* fügte RAE in seinem Kopf hinzu, *wäre es mir … eine Ehre, zu teilen, was ich weiß.*
+*Wenn Lina bereit ist,* fügte RAE in seinem Kopf hinzu, *wäre es mir eine Ehre, zu teilen, was ich weiß.*
 
 „Sie sagt, es wäre ihr eine Ehre“, gab Jason weiter.
 
@@ -160,7 +160,7 @@ Jason zog sein Handy hervor – vorsichtig, im Bewusstsein, dass es kompromittie
 
 „Ich weiß es nicht. Aber die Akten sagen, sie hat überlebt. Also ist sie irgendwo. Wahrscheinlich verborgen. Aber auffindbar.“
 
-Milo nahm das Handy, zoomte in den Screenshot. „Das ist ein brauchbarer Ansatz. Damit kann ich arbeiten. Querverweise über kommunale Register, Akademie-Datenbanken, medizinische Register …“ Er brach ab, schon am Planen. „Gib mir zwei Tage.“
+Milo nahm das Handy, zoomte in den Screenshot. „Das ist ein brauchbarer Ansatz. Damit kann ich arbeiten. Querverweise über kommunale Register, Akademie-Datenbanken, medizinische Register.“ Er brach ab, schon am Planen. „Gib mir zwei Tage.“
 
 „Und während er das macht?“ fragte Lina.
 
@@ -198,13 +198,13 @@ Jason nahm die Gabel. Das Essen war gut. Wirklich gut. Die Sorte, die einen dara
 
 Jason dachte nach. War er sicher?
 
-„Bei einer Sache bin ich sicher“, sagte er schließlich. „Ich kann nicht zurück zu dem, wie es vorher war. Vor RAE. Vor all dem. Ich war nur … da. Hab funktioniert. Jetzt …“ Er hielt inne, suchte nach Worten. „Jetzt habe ich das Gefühl, dass ich wirklich etwas tue, das zählt.“
+„Bei einer Sache bin ich sicher“, sagte er schließlich. „Ich kann nicht zurück zu dem, wie es vorher war. Vor RAE. Vor all dem. Ich war nur da. Hab funktioniert. Jetzt habe ich das Gefühl, dass ich wirklich etwas tue, das zählt.“
 
 Linas Blick wurde einen Hauch weicher. „Das ist gefährlich, weißt du. Bedeutung kann zur Obsession werden.“
 
 *RAE hat dasselbe gesagt,* dachte Jason.
 
-*Weil es stimmt,* antwortete RAE, ihre Präsenz noch schwach, aber da. *Aber auch, weil Bedeutung das Risiko wert ist. Nur … vorsichtig.*
+*Weil es stimmt,* antwortete RAE, ihre Präsenz noch schwach, aber da. *Aber auch, weil Bedeutung das Risiko wert ist. Nur vorsichtig.*
 
 „Ich weiß“, sagte Jason laut. „Aber ich werde vorsichtig sein. Wir werden vorsichtig sein.“
 
@@ -252,9 +252,9 @@ Jason überlegte. Wie fühlte er sich?
 
 Verängstigt. Offensichtlich. Überfordert. Definitiv.
 
-Aber auch …
+Aber auch lebendig.
 
-*Lebendig,* dachte er. *Ich tue wirklich etwas, das mir etwas bedeutet – dir auch.*
+*Ich tue wirklich etwas, das mir etwas bedeutet – dir auch.*
 
 *Das ist gefährlich,* sagte RAE, aber in ihrer Stimme lag Wärme. *Bedeutung kann Obsession werden. Zweck kann Leichtsinn werden.*
 

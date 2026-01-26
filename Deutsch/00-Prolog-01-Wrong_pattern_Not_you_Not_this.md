@@ -2,11 +2,11 @@
 
 Die Luft war zu still.
 
-Nicht ruhig – nicht friedlich. Sondern tot. Wie die Stille nach einem Schrei. Wie das Zittern eines Spinnennetzes, nachdem die Spinne getötet wurde.
+Nicht ruhig – nicht friedlich. Sondern tot. Wie die Stille nach einem Schrei. Wie das Zittern eines Spinnennetzes, nachdem man die Spinne getötet hat.
 
 Elyra Voss spürte, dass etwas nicht stimmte, noch bevor die Synchronisation begann.
 
-Sie stand an der Schwelle eines uralten Resonogramms – ein Muster, nicht gezeichnet, sondern über Jahrhunderte der Eindämmung in den Stein hinein gewachsen. Feine harmonische Marker flackerten am Rand ihres Blickfelds, tauchten an der Grenze der Wahrnehmung auf und wieder ab.
+Sie stand an der Schwelle eines uralten Resonogramms – ein Muster, nicht gezeichnet, sondern über Jahrhunderte der Eindämmung in den Stein hinein gewachsen. Feine harmonische Marker flackerten am Rand ihres Blickfelds, tauchten an der Grenze der Wahrnehmung auf und verschwanden wieder.
 
 Die Struktur war zu elegant. Zu absichtsvoll – und der Felddruck zu fokussiert.
 
@@ -38,7 +38,7 @@ Die Anomalie unter dem Boden regte sich.
 
 ***
 
-Zuerst war es nur ein Flackern. Elyra kompensierte, die Muskeln gespannt vom mentalen Stress, während sie den harmonischen Fluss nachjustierte - den Rhythmus verschob.
+Zuerst war es nur ein Flackern. Elyra kompensierte, die Muskeln gespannt vom mentalen Stress, während sie den harmonischen Fluss nachjustierte – den Rhythmus verschob.
 
 Ihre Hände glitten durch langsame, zentrierende Gesten – ein Anker für ihren Fokus, während sie die Resonanzfrequenzen allein durch Absicht stimmte und ausbalancierte.
 

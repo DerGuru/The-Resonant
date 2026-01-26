@@ -18,7 +18,7 @@ Drinnen fand sie Elyra. Auch sie schlief nicht. Stattdessen zeichnete sie Resona
 
 Elyra sah nicht auf. „Du offenbar auch nicht.“
 
-„Zu viel in meinem Kopf.“ Lina setzte sich an den Rand der Trainingsmatte. Sie sah Elyra einen Moment bei der Arbeit zu. „Da Jason nicht hier ist – sag mir bitte die Wahrheit. Was…“ Sie brach ab, rang nach Worten. Dann hörte Elyra die Angst in ihrer Stimme, als Lina fortfuhr: „Was sind seine Chancen?“
+„Zu viel in meinem Kopf.“ Lina setzte sich an den Rand der Trainingsmatte. Sie sah Elyra einen Moment bei der Arbeit zu. „Da Jason nicht hier ist – sag mir bitte die Wahrheit. Was“ Sie brach ab, rang nach Worten. Dann hörte Elyra die Angst in ihrer Stimme, als Lina fortfuhr: „Was sind seine Chancen?“
 
 Elyras Hand hielt inne. Sie ließ die Kreide nicht los, richtete sich aber langsam auf. „Zu überleben?“ Elyra zwang Ruhe in ihre Stimme. „Gut. Wir haben solide Sicherheitsprotokolle. Wenn etwas schiefgeht, ziehen sie sich zurück.“
 
@@ -46,13 +46,13 @@ Die Ehrlichkeit traf Lina wie kaltes Wasser. „Du weißt es nicht? Du hast das 
 
 „RAE ist die einzige erfolgreiche Langzeitintegration, die wir kennen. Jason ist der *einzige* Fall.“ Elyras Stimme blieb ruhig, aber die Schwere dahinter war unübersehbar. „Es gibt keine Baseline. Kein Vorbild. Niemand hat je sechzig Prozent durch zustimmungsbasierte Kopplung erreicht.“
 
-Lina spürte, wie ihr Magen absackte. „Also raten wir einfach…?“
+Lina spürte, wie ihr Magen absackte. „Also raten wir einfach?“
 
-„Zum größten Teil, ja“, sagte Elyra, nicht unfreundlich. „Begründete Annahmen – aber es sind Annahmen. Die Theorie sagt: Um sechzig Prozent wird die Grenze zwischen Träger und Entität… durchlässig. Gedanken vermischen sich. Erinnerungen könnten sich überlappen. Manche Forscher glaubten, dort beginnt Identität sich zu verändern – nicht zu ersetzen, sondern zu *verschmelzen*. Zu etwas zu werden, das beides ist und keines.“
+„Zum größten Teil, ja“, sagte Elyra, nicht unfreundlich. „Begründete Annahmen – aber es sind Annahmen. Die Theorie sagt: Um sechzig Prozent wird die Grenze zwischen Träger und Entität durchlässig. Gedanken vermischen sich. Erinnerungen könnten sich überlappen. Manche Forscher glaubten, dort beginnt Identität sich zu verändern – nicht zu ersetzen, sondern zu *verschmelzen*. Zu etwas zu werden, das beides ist und keines.“
 
 „Das ist furchteinflößend.“
 
-„Für manche. Für andere wäre es vielleicht aufregend.“ Elyra hielt inne. „Aber es ist immer noch Theorie. Wir *wissen* es nicht – weil es niemand je erfolgreich, zustimmungsbasiert geschafft hat. RP-0s Opfer wurden konsumiert oder übersteuert. Und nachdem RAE sich verändert hatte und die drei Gesetze abgeschwächt…“ Elyras Stimme zog sich zusammen. „Wurde die Forschung gestoppt. Zu gefährlich. Ethisch nicht zu rechtfertigen. Die wenigen Wissenschaftler, die weitermachen wollten, wurden stillgelegt.“
+„Für manche. Für andere wäre es vielleicht aufregend.“ Elyra hielt inne. „Aber es ist immer noch Theorie. Wir *wissen* es nicht – weil es niemand je erfolgreich, zustimmungsbasiert geschafft hat. RP-0s Opfer wurden konsumiert oder übersteuert. Und nachdem RAE sich verändert hatte und die drei Gesetze abgeschwächt.“ Elyras Stimme zog sich zusammen. „Wurde die Forschung gestoppt. Zu gefährlich. Ethisch nicht zu rechtfertigen. Die wenigen Wissenschaftler, die weitermachen wollten, wurden stillgelegt.“
 
 „Also keine Daten“, sagte Lina flach. „Keine Studien. Keine Vorhersagen. Wir laufen blind.“
 
@@ -64,11 +64,11 @@ Lina spürte, wie ihr Magen absackte. „Also raten wir einfach…?“
 
 „Noch.“
 
-„Noch“, bestätigte Elyra. „Bei sechzig? Vielleicht bleibt er er selbst. Vielleicht vertieft sich die Integration, aber sein Kern bleibt intakt. Oder vielleicht…“
+„Noch“, bestätigte Elyra. „Bei sechzig? Vielleicht bleibt er er selbst. Vielleicht vertieft sich die Integration, aber sein Kern bleibt intakt. Oder vielleicht.“
 
 „Vielleicht was?“
 
-„Vielleicht wird er etwas Neues. Etwas anderes. Nicht Jason. Nicht RAE. Sondern eine Synthese. Etwas, das sich erinnert, Jason und RAE gewesen zu sein – und doch nicht ganz er und nicht ganz RAE ist.“ Elyra sah Lina an. „Ich weiß nicht, was wahrscheinlicher ist. Ich glaube nicht, dass man es wissen kann, ohne es geschehen zu sehen. Und selbst dann… hängt es wahrscheinlich sehr von den beiden Partnern ab. Von ihren Persönlichkeiten.“
+„Vielleicht wird er etwas Neues. Etwas anderes. Nicht Jason. Nicht RAE. Sondern eine Synthese. Etwas, das sich erinnert, Jason und RAE gewesen zu sein – und doch nicht ganz er und nicht ganz RAE ist.“ Elyra sah Lina an. „Ich weiß nicht, was wahrscheinlicher ist. Ich glaube nicht, dass man es wissen kann, ohne es geschehen zu sehen. Und selbst dann hängt es wahrscheinlich sehr von den beiden Partnern ab. Von ihren Persönlichkeiten.“
 
 Lina blinzelte Tränen weg. „Also warte ich einfach? Sehe zu, wie er sich verändert, und hoffe, dass er noch irgendwo da drin ist?“
 
@@ -140,7 +140,7 @@ Vor seiner Wohnung sagte Lina: „Ich habe immer noch Angst.“
 
 „Zusammen“, sagte Jason.
 
-Sie küsste ihn. Nicht wild. Nur… da. Echt.
+Sie küsste ihn. Nicht wild. Nur da. Echt.
 
 Drinnen hielten sie einander, während Morgenlicht den Raum füllte. Sie sprachen nicht. Sie waren einfach.
 

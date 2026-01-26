@@ -10,7 +10,7 @@ Ich bemerkte weißen Stoff, von den Deckenbalken drapiert. Schlichte Lichter mit
 
 Vorn: wir drei. Ich sah Lina in ihrem schlichten cremefarbenen Kleid – elegant, nicht protzig. Ich in einem Anzug, der richtig saß. Das erste Mal, dass ich formelle Kleidung trug seit meinem Vorstellungsgespräch als städtischer Sachbearbeiter. Jasons alter Kleiderschrank fühlte sich gleichzeitig vertraut und fremd an.
 
-Und Elyra zwischen uns, bereit zu officiaten.
+Und Elyra zwischen uns, bereit, die Zeremonie zu leiten.
 
 „Wir sind hier versammelt“, begann sie, die Stimme klar und ruhig, „nicht, weil Tradition es verlangt. Nicht, weil das Gesetz es fordert. Sondern weil diese beiden Menschen“ – sie deutete auf uns – „euch gebeten haben, ihre Entscheidung zu bezeugen. Private Liebe zu öffentlichem Wissen zu machen. Vor allen, die zählen, zu sagen: Wir wählen das. Wir wählen einander. Wir wählen jetzt.“
 
@@ -88,7 +88,7 @@ Lina lachte. „Dad, du weißt das doch schon.“
 
 Wir sahen uns an. Ich begriff: einer dieser Momente, in denen jemand die echte Geschichte will, nicht die Zusammenfassung.
 
-„Er ist zum Mittagessen reingekommen“, sagte Lina. „Sah komplett überfordert von der Karte aus. Hat mich gebeten, einfach … etwas auszuwählen. Hat gesagt, er vertraut mir.“
+„Er ist zum Mittagessen reingekommen“, sagte Lina. „Sah komplett überfordert von der Karte aus. Hat mich gebeten, einfach etwas auszuwählen. Hat gesagt, er vertraut mir.“
 
 „Und du hast die Reisschale mit geröstetem Gemüse ausgesucht“, ergänzte ich. „Mit dieser Zitronen-Chili-Glasur. Was perfekt war. Aber außerdem – du hast dich hingesetzt. An meinen Tisch. Hast angefangen, über die Stadt zu reden, über Muster, darüber, dass Essen Chemie und Fürsorge zugleich ist.“
 
@@ -136,7 +136,7 @@ Elyra fand mich als Nächste. Immer beobachtend, immer analysierend. Ich wusste,
 
 „Ich weiß, dass er es tut.“ Sie nickte in Richtung Malvek, der in einem scheinbar lässigen Gespräch mit Reeves stand. „Aber er respektiert auch die Bedingungen. Gast. Zeuge. Nicht Aufseher. Das zählt. Institutionelles Wachstum ist langsamer als persönliches – aber es passiert.“
 
-„Glaubst du, ich werde jemals frei sein?“ fragte ich. „Wirklich frei. Nicht bedingt überwacht. Einfach … frei.“
+„Glaubst du, ich werde jemals frei sein?“ fragte ich. „Wirklich frei. Nicht bedingt überwacht. Einfach frei.“
 
 RAE hatte Wahrscheinlichkeiten für diese Frage. Siebzehn Prozent innerhalb von fünf Jahren. Dreiundvierzig innerhalb von zehn. Zahlen, immer Zahlen. Aber ich fragte sie nicht nach Statistik.
 
@@ -186,7 +186,7 @@ Sie zog ihr Handy hervor.
 
 Etwas Warmes breitete sich in meiner Brust aus. Es war eine kurze Nachricht. Aber von RP-0 fühlte sie sich an wie ein Segen.
 
-„Das ist …“, begann ich.
+„Das ist“, begann ich.
 
 „Ja“, sagte Lina. „Ist es.“
 

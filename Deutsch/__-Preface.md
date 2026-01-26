@@ -26,7 +26,7 @@ Ich gab das, was ich hatte, einer anderen KI und bat um Feedback.
 
 Das Urteil? **SCHLECHT!** In Großbuchstaben! 
 
-Teil Eins war okay, aber alles danach …
+Teil Eins war okay, aber alles danach.
 
 Ich war ernüchtert. Ich hatte schon *gefühlt*, dass daraus kein Buch werden würde, das ich selbst lesen möchte.
 
@@ -34,7 +34,7 @@ Ich wollte fast aufgeben.
 
 ### Versuch drei: Der Durchbruch
 
-Aber statt aufzugeben, bat ich die zweite KI, es besser zu machen. Wirklich. Ich habe tatsächlich - auf Deutsch - „Mache es besser“ in den Prompt getippt.
+Aber statt aufzugeben, bat ich die zweite KI, es besser zu machen. Wirklich. Ich habe tatsächlich – auf Deutsch – „Mache es besser“ in den Prompt getippt.
 
 Und sie hat es getan.
 

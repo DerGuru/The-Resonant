@@ -18,7 +18,7 @@ Jason drehte sich im anderen Bett herum. „Wie viele?“
 
 Jason setzte sich auf. Griff nach seinen Sachen. „Lina?“
 
-„Ich schicke den Alarm jetzt“, sagte Milo, ohne den Feed aus den Augen zu lassen. „Sie gehen in die Lobby.“
+„Ich schicke den Alarm jetzt“, sagte Milo, ohne das Livebild aus den Augen zu lassen. „Sie gehen in die Lobby.“
 
 Jason zog sein Shirt über. Jeans. Seine Hände ruhig.
 
@@ -26,7 +26,7 @@ Jason zog sein Shirt über. Jeans. Seine Hände ruhig.
 
 „Wie lange?“ fragte Jason.
 
-Milo checkte den Feed. „Zehn Minuten. Vielleicht weniger.“
+Milo checkte das Livebild. „Zehn Minuten. Vielleicht weniger.“
 
 ***
 
@@ -38,7 +38,7 @@ Die Hände des Portiers zitterten, während er tippte. „Sir, ich –“
 
 „Ich verstehe. Aber das ist zeitkritisch.“ Reeves hielt seine Stimme ruhig. „Die Schlüssel, bitte. Den Rest übernehmen wir.“
 
-Der Portier fummelte an der Tastatur herum, zog drei Keycards aus der Schublade.
+Der Portier fummelte an der Tastatur herum, zog drei Schlüsselkarten aus der Schublade.
 
 „Danke.“ Reeves nahm sie. „Bleiben Sie an Ihrem Platz. Wir sind gleich fertig.“
 
@@ -70,7 +70,7 @@ Er positionierte Einheiten an jeder Tür. 314. 316. 318.
 
 Er hob die Hand. Drei Finger. Zwei. Eins.
 
-Keycards glitten in Schlösser. Grünes Licht.
+Schlüsselkarten glitten in die Schlösser. Grünes Licht.
 
 Türen öffneten sich.
 
@@ -112,7 +112,7 @@ Perfekt.
 
 ***
 
-Jason beugte sich über Milos Schulter. Er sah den Feed, während sie gingen.
+Jason beugte sich über Milos Schulter. Er sah das Livebild, während sie gingen.
 
 Reeves stand in einem leeren Zimmer.
 
@@ -173,7 +173,7 @@ Jason rutschte rein. Lina neben ihn. Milo setzte sich ans Ende und lehnte sein T
 
 „Sie waren um 7:10 am Meridian“, sagte Jason.
 
-„Und haben leere Zimmer gefunden“, bestätigte Milo. Er drehte das Tablet, damit sie es alle sehen konnten. Der Feed zeigte Reeves und sein Team noch im Hotel. Suchend. Nichts findend.
+„Und haben leere Zimmer gefunden“, bestätigte Milo. Er drehte das Tablet, damit sie es alle sehen konnten. Das Livebild zeigte Reeves und sein Team noch im Hotel. Suchend. Nichts findend.
 
 „Gut“, sagte Elyra. „Das ist eine Nachricht. Wir wussten, dass sie kommen. Wir waren nicht da. Mehr muss Malvek nicht wissen.“
 
@@ -185,7 +185,7 @@ Jason sah auf seine Hände. Im Moment waren sie ruhig gewesen. Aber jetzt? Jetzt
 
 „Alles okay?“ fragte Lina.
 
-„Ja. Ich … verarbeite nur.“
+„Ja. Ich verarbeite nur.“
 
 Elyra nippte an ihrem Kaffee. „Adrenalin. Gib ihm ein paar Minuten.“
 
@@ -229,7 +229,7 @@ Jetzt kam der harte Teil: Malvek gegenüberzutreten. Persönlich. Und ihn zu üb
 
 Das Spiel lief.
 
-Und zum ersten Mal, seit das angefangen hatte …
+Und zum ersten Mal, seit das angefangen hatte,
 
 hatten sie einen Platz am Tisch.
 

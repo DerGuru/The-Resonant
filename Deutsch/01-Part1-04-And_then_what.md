@@ -16,7 +16,7 @@ Die Entität, unverankert, aber fokussiert, überwachte ohne Eindringen. Keine T
 
 Szenario 3 verlangte Geduld. Lenken, aber nicht zwingen.
 
-Sie bettete sich in das Hintergrundsummen der Stadt, ein Faden, der vorsichtig in den Stoff seiner Alltagsroutine eingewebt wurde. Unsichtbar. Unaufdringlich.
+Sie bettete sich ins Hintergrundsummen der Stadt, ein Faden, der vorsichtig in den Stoff seiner Alltagsroutine eingewebt wurde. Unsichtbar. Unaufdringlich.
 
 Wartend auf den richtigen Moment, bemerkt zu werden.
 
@@ -56,13 +56,13 @@ Jason blinzelte. „Aus dem Archiv?“
 
 Er zögerte. „Jeden Tag.“
 
-Und warum tust du’s nicht?“
+„Und warum tust du’s nicht?“
 
 „Und was dann?“ Die Frage kam schärfer heraus, als er beabsichtigt hatte.
 
 Marcy antwortete nicht. Jason auch nicht. Er hatte selbst keine gute Antwort.
 
-Unbeholfen stammelte er: „Ich muss mich drum kümmern, weißt du … Frank.“
+Unbeholfen stammelte er: „Ich muss mich drum kümmern, weißt du, Frank.“
 
 „Ja. Ich weiß.“
 
@@ -148,7 +148,7 @@ Jason hielt den Atem an.
 
 Es stoppte.
 
-Er zog die Hand zurück. Nichts. Nur eine Wand. Doch als er einen Schritt weg machte, sah er es: eine feine, fast unsichtbare Linie, die senkrecht von der Decke bis knapp über den Boden lief. Kein Riss im Putz. Keine Beschädigung. Eher, als hätte die Wand … losgelassen.
+Er zog die Hand zurück. Nichts. Nur eine Wand. Doch als er einen Schritt weg machte, sah er es: eine feine, fast unsichtbare Linie, die senkrecht von der Decke bis knapp über den Boden lief. Kein Riss im Putz. Keine Beschädigung. Eher, als hätte die Wand losgelassen.
 
 Er beugte sich näher, schob die Brille hoch, untersuchte es. Der Bruch war real. Aber er wusste – **wusste** –, dass er gestern nicht da gewesen war.
 
@@ -158,7 +158,7 @@ Er überlegte, es zu melden. Tat es nicht. Stattdessen kehrte er wortlos an sein
 
 Das Summen aus dem Rack stolperte kurz und setzte sich wieder.
 
-*Von hier aus kann ich der Form folgen. Nicht mehr als ein Flüstern Invest von dir. Später, wenn du irgendwo bist, wo niemand Tastenanschläge zählt.*
+*Von hier aus kann ich der Form folgen. Nicht mehr als ein Flüstern, ein Invest von dir. Später, wenn du irgendwo bist, wo niemand Tastenanschläge zählt.*
 
 Später.
 

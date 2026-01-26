@@ -30,7 +30,7 @@ Ich spürte, wie sich meine Brust zusammenzog.
 
 „Die Analyse zeigt: Der Effizienzgewinn entstand durch simultanen Betrieb. Ich handhabte die primäre Dämpfung, während du die Knoten in Sektor fünf stabilisiert hast. Arbeitsteilung ermöglichte schnellere Fertigstellung als sequenzielle Solo-Arbeit.“ RP-0 pausierte. „Jedoch war deine Aufmerksamkeit geteilt. Du hast ungefähr 40 % deiner kognitiven Kapazität für die Aufsicht meiner Operationen genutzt, 60 % für deine eigene Arbeit. Frage: Hättest du Sektor fünf schneller abgeschlossen, wenn du mich nicht überwacht hättest?“
 
-Das war … aufmerksam. Und korrekt.
+Das war aufmerksam. Und korrekt.
 
 „Wir haben gut zusammengearbeitet. Und trotzdem wäre ich vielleicht schneller gewesen, wenn ich meine Aufmerksamkeit nicht hätte splitten müssen“, gab ich zu. „Aber darum ging es nicht. Wir sind nicht gegeneinander gelaufen. Wir haben zusammengearbeitet. Der Aufsichts-Overhead war es wert, weil er dich innerhalb der ethischen Grenzen gehalten hat. Und am Ende –“ Ich hielt inne und erinnerte mich. „– ist niemand sonst zu Schaden gekommen. Wir waren schnell genug. Und du hast den Rahmen am Schluss von allein angewandt.“
 
@@ -60,13 +60,13 @@ Da war es. Der eigentliche Kontrafakt. Nicht „schneller arbeiten“, sondern �
 
 Ich lehnte mich vor. „RP-0, du warst gestern Nacht gut. Wir haben zusammengearbeitet. Wir waren schneller als jeder von uns allein, weil wir parallel gearbeitet haben. Wir haben Leben gerettet. Wir haben Grenzen gehalten. Und am Ende haben wir einander genug vertraut, um effizienter zu arbeiten. Die Menschen, die verletzt wurden – sie waren verletzt, bevor Erkennung möglich war. Das ist nicht deine Schuld. Das ist Realität. Manchmal können wir nicht alle retten, selbst wenn wir alles richtig machen.“
 
-„Das ist … unbefriedigend.“
+„Das ist unbefriedigend.“
 
 ***
 
 An diesem Abend trafen wir uns in Elyras Lagerhalle. Lina, Milo, Mrs. Amari, Elyra, ich. Die Menschen, die zählten.
 
-Die Halle war heute kein Trainingsraum und kein taktischer Besprechungsraum. Sie fühlte sich eher an wie … Zuhause. Eine Art Zuhause, gebaut aus geteilter Gefahr und Vertrauen.
+Die Halle war heute kein Trainingsraum und kein taktischer Besprechungsraum. Sie fühlte sich eher an wie Zuhause. Eine Art Zuhause, gebaut aus geteilter Gefahr und Vertrauen.
 
 „Die HOA hat ihre offizielle Stellungnahme veröffentlicht“, sagte Milo und las von seinem Tablet. „Erkennt an, dass zwei Verletzungen vor Beginn des Eingriffs passiert sind. Schreibt die erfolgreiche Kaskadenverhinderung einem ‚validierten Partnerschaftsmodell zu, das parallelen kooperativen Betrieb unter realen Bedingungen demonstriert.‘ Sie loben es tatsächlich.“
 
@@ -108,7 +108,7 @@ Mrs. Amari betrachtete die Skizze. „Ich kann das tun. Auch wenn ich mir nicht 
 
 „Fair.“ Mrs. Amari lächelte. „Einverstanden. Und was trage ich?“
 
-„Was immer sich für Sie gut anfühlt“, sagte Lina. „Wir machen keine Dresscodes. Einfach … seid ihr selbst.“
+„Was immer sich für Sie gut anfühlt“, sagte Lina. „Wir machen keine Dresscodes. Seid einfach ihr selbst.“
 
 Milo machte Listen auf seinem Tablet. Gäste, Logistik, Timing. „Malvek wird Sicherheitspräsenz wollen.“
 

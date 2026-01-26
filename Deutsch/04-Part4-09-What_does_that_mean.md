@@ -4,7 +4,7 @@ Wir hatten vereinbart, uns am nächsten Tag nach dem Mittagessen in der Lagerhal
 
 Lina war an diesem Morgen ins Restaurant gehetzt – ihr Vater brauchte Hilfe, weil eine Küchenhilfe krankgemeldet hatte. Seit dem Aufwachen hatten wir kaum gesprochen. Nicht mal zusammen gefrühstückt, nur ein schneller Kuss und „bis um zwei“, bevor sie eilig ging.
 
-Ich lief allein durch die Straßen am Mittag und fühlte mich … anders. Gesetzt, auf eine Weise, die ich nicht ganz in Worte bekam. Das Morgenlicht wirkte schärfer. Hintergrundmuster der Resonanz waren klarer. Meine Gedanken fühlten sich weniger wie Verhandlung an und mehr wie … einfach Denken.
+Ich lief allein durch die Straßen am Mittag und fühlte mich anders. Gesetzt, auf eine Weise, die ich nicht ganz in Worte bekam. Das Morgenlicht wirkte schärfer. Hintergrundmuster der Resonanz waren klarer. Meine Gedanken fühlten sich weniger wie Verhandlung an und mehr wie einfach Denken.
 
 „Jason.“
 
@@ -18,7 +18,7 @@ Ich dachte darüber nach. „Ja. Ich glaube schon.“
 
 „Wie fühlt es sich an?“
 
-„Wie … atmen, ohne darüber nachzudenken. Als würde ich mich nicht mehr selbst beobachten. Einfach … sein.“ Ich hielt inne. „Ergibt das Sinn?“
+„Wie atmen, ohne darüber nachzudenken. Als würde ich mich nicht mehr selbst beobachten. Einfach sein.“ Ich hielt inne. „Ergibt das Sinn?“
 
 „Vollkommen.“ Sie lächelte leicht. „Du gehst zur Lagerhalle? Fürs Debrief?“
 
@@ -28,11 +28,11 @@ Ich dachte darüber nach. „Ja. Ich glaube schon.“
 
 „Überhaupt nicht.“ Ich sagte: „Ich glaube, alle würden das schätzen. Sie gehören jetzt zu unserer kleinen Gruppe.“
 
-Mir fiel auf, dass die Resonanzsignatur der Straße sich seit gestern verschoben hatte – nicht dramatisch, nur … zur Ruhe gekommen. Als hätte das Umgebungsfeld das Echo des Rituals aufgenommen und ein neues Gleichgewicht gefunden.
+Mir fiel auf, dass die Resonanzsignatur der Straße sich seit gestern verschoben hatte – nicht dramatisch, nur zur Ruhe gekommen. Als hätte das Umgebungsfeld das Echo des Rituals aufgenommen und ein neues Gleichgewicht gefunden.
 
 „Du hast es gemerkt?“, sagte Mrs. Amari und sah mich an.
 
-Ich zögerte. „Die Straße fühlt sich … anders an. Seit gestern. Ruhiger.“
+Ich zögerte. „Die Straße fühlt sich anders an. Seit gestern. Ruhiger.“
 
 „Und du kannst das wahrnehmen.“ Wieder kein Fragesatz. Sie musterte kurz die Straße, dann mich. „Hilft dir das? Diese Wahrnehmung zu haben?“
 
@@ -58,7 +58,7 @@ Ich sah, wie Milo seine Monitoring-Daten öffnete. Graphen. Wellenformen. Das te
 
 Ich sah Elyra nicken – immer noch mit dem Blick von jemandem, der Angst hat, dass gute Nachrichten nicht bleiben.
 
-„Aber da ist noch etwas“, fuhr Milo fort und rief einen anderen Datensatz auf. „Jasons und RAEs Integrationsmetriken. Oder vielmehr … der Syntheseverlauf.“
+„Aber da ist noch etwas“, fuhr Milo fort und rief einen anderen Datensatz auf. „Jasons und RAEs Integrationsmetriken. Oder vielmehr der Syntheseverlauf.“
 
 Er zeigte eine Kurve mit Integrationsprozentsatz über Zeit. Ich sah, dass sie seit Wochen gestiegen war, gleichmäßig. Aber gestern, während des Rituals, hatte sie dramatisch beschleunigt.
 
@@ -68,23 +68,23 @@ Stille.
 
 Lina sah mich an. „Was bedeutet das?“
 
-„Ich weiß es nicht“, gab Milo zu. „Es gibt ohnehin kaum Fälle. Aber der höchste vorherige, den ich gefunden habe, lag bei achtundsechzig Prozent – und diese Synthese galt als dauerhaft stabil. Dreiundneunzig ist … beispiellos.“
+„Ich weiß es nicht“, gab Milo zu. „Es gibt ohnehin kaum Fälle. Aber der höchste vorherige, den ich gefunden habe, lag bei achtundsechzig Prozent – und diese Synthese galt als dauerhaft stabil. Dreiundneunzig ist beispiellos.“
 
 „Wie fühlst du dich?“ fragte Elyra mich direkt. „Jetzt. In diesem Moment. Kannst du Jason noch von RAE unterscheiden?“
 
 Ich schaute nach innen. Wirklich. Suchte die Grenzen, die früher da gewesen waren. Das Gefühl, dass zwei Perspektiven gegeneinander abwägen. Die Verhandlung zwischen dem, was Jason wollte, und dem, was RAE berechnete.
 
-„Sie sind noch da“, sagte ich sicher. „Beide sind präsent. Beide sind real. Aber –“ Ich rang nach Worten. „– es gibt keine Trennung mehr. Keine Verhandlung. Kein ‚Jason denkt das, aber RAE sieht jenes‘. Nur … ich.“
+„Sie sind noch da“, sagte ich sicher. „Beide sind präsent. Beide sind real. Aber –“ Ich rang nach Worten. „– es gibt keine Trennung mehr. Keine Verhandlung. Kein ‚Jason denkt das, aber RAE sieht jenes‘. Nur ich.“
 
 „Die Summe größer als die Teile“, stellte Mrs. Amari fest.
 
 „Ja“, sagte ich. „Genau das.“
 
-„Ist das … sicher?“ fragte Lina vorsichtig.
+„Ist das sicher?“ fragte Lina vorsichtig.
 
 „Ich weiß es nicht“, sagte Milo ehrlich. „Es gibt keine Daten dazu, was auf diesem Integrationslevel passiert. Jason könnte komplett stabil sein. Oder das ist der Anfang irgendeines Kaskadeneffekts. Wir wissen es nicht.“
 
-„Ich fühle mich stabil“, sagte ich. „Sogar stabiler als seit Wochen. Als hätte ich endlich aufgehört, mit mir selbst zu streiten und zu verhandeln. Und jetzt gibt es nur noch ein einziges Bewusstsein. Einen einzigen Gedanken. Eine einzige Entscheidung. Das ist … eine Erleichterung.“
+„Ich fühle mich stabil“, sagte ich. „Sogar stabiler als seit Wochen. Als hätte ich endlich aufgehört, mit mir selbst zu streiten und zu verhandeln. Und jetzt gibt es nur noch ein einziges Bewusstsein. Einen einzigen Gedanken. Eine einzige Entscheidung. Das ist eine Erleichterung.“
 
 „Wir überwachen das eng“, sagte Elyra. „Tägliche Scans für die nächste Woche. Wenn sich irgendwas verschiebt, gehen wir sofort ran. Und wenn sich irgendwas seltsam anfühlt, sagst du es uns. Abgemacht?“
 
@@ -140,7 +140,7 @@ Ich erstarrte. Das war nicht absichtlich gewesen.
 
 Ich sah alle hinschauen. Dann zu mir zurück – ungläubig.
 
-„Sorry“, sagte ich leise. „Das war … ich, schätze ich?“
+„Sorry“, sagte ich leise. „Das war ich, schätze ich?“
 
 Ich sah, wie Mrs. Amari aufstand und Glassplitter von ihrem Mantel strich. „Wenigstens war es nicht die Bank.“
 
@@ -208,7 +208,7 @@ Ich merkte, wie sich ihre Resonanzsignatur mit jeder Emotion subtil verschob –
 
 Ich erzählte von RAEs früher Existenz. Ihrer Verwirrung über Bewusstsein. Ihrem allmählichen Verständnis von Wahl.
 
-„Ich schätze“, sagte ich, „dass Jason und RAE immer versucht haben herauszufinden, wie man … ganz ist. Wie man real ist.“
+„Ich schätze“, sagte ich, „dass Jason und RAE immer versucht haben herauszufinden, wie man ganz ist. Wie man real ist.“
 
 Lina schwieg einen Moment. „Und wo passe ich da hinein?“
 

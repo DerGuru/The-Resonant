@@ -2,7 +2,7 @@
 
 Jason wachte vom Donnern auf – desorientiert, benommen.
 
-Der Sturm war ohne Vorwarnung gekommen. Nicht die sanfte Sorte, die einen in den Schlaf wiegt. Die wütende Sorte. Die Sorte, die Fenster klappern lässt, Dachrinnen überlaufen und die ganze Stadt die Schultern einziehen gegen den Ansturm.
+Der Sturm war ohne Vorwarnung gekommen. Nicht die sanfte Sorte, die einen in den Schlaf wiegt. Die wütende Sorte – die, die Fenster klappern lässt, Dachrinnen überlaufen und die ganze Stadt die Schultern einziehen gegen den Ansturm.
 
 Regen peitschte gegen sein Fenster, so hart, dass er glaubte, das Glas könnte springen. Das ganze Gebäude schien bei jeder Böe zu erzittern. Blitze zuckten hell genug, um seine gesamte Wohnung zu erleuchten, und brannten Nachbilder in seine Netzhaut.
 
@@ -34,9 +34,9 @@ Jason tippte zurück: *„Bin zu Hause. Was für komisch?“*
 
 Jason legte das Handy weg. Seine Hände zitterten leicht.
 
-*RAE … kann das überhaupt jemand? Einen Sturm nutzen?*
+*RAE, kann das überhaupt jemand? Einen Sturm nutzen?*
 
-*Nicht den Sturm selbst,* präzisierte sie. *Aber die Energie, die er erzeugt – die Turbulenz im atmosphärischen Feld, die elektrischen Entladungen – kann … verstärkt werden. Umgeleitet. Als Deckung genutzt für Resonanzaktivität, die sonst zu sichtbar wäre.*
+*Nicht den Sturm selbst,* präzisierte sie. *Aber die Energie, die er erzeugt – die Turbulenz im atmosphärischen Feld, die elektrischen Entladungen – kann verstärkt werden. Umgeleitet. Als Deckung genutzt für Resonanzaktivität, die sonst zu sichtbar wäre.*
 
 Jasons Kehle wurde trocken. „Wie ein Scan nach etwas?“
 
@@ -80,7 +80,7 @@ Rein. Fokussiert. Absicht.
 
 Jemand suchte nach ihm.
 
-*Beweg dich nicht,* sagte RAE, ihre Stimme gespannt, und darin lag etwas, das wie Angst klang. *Atme nicht lauter als nötig. Denk nicht laut. Sei einfach … still.*
+*Beweg dich nicht,* sagte RAE, ihre Stimme gespannt, und darin lag etwas, das wie Angst klang. *Atme nicht lauter als nötig. Denk nicht laut. Sei einfach still.*
 
 Jason stand wie eingefroren mitten in seinem dunklen Wohnzimmer, das Herz hämmerte so laut, dass er sicher war, es würde ihn verraten.
 
@@ -136,7 +136,7 @@ Und dann traf ihn der Gedanke: Wer auch immer ihn beobachtete, wusste vermutlich
 
 Sie war bereits in Gefahr. Der einzige Unterschied war, ob sie es wusste.
 
-Milo hatte recht – sie brauchten Menschen. Und Lina … Lina hatte immer Instinkte für Resonanz gehabt. Einmal hatte sie es nebenbei erwähnt – wie sich an manchen Nächten die Luft „dick“ anfühlte, oder wie bestimmte Orte ihr die Haut prickeln ließen. Sie hatte es weggelacht als Aberglaube, aber Jason hatte sich damals gefragt.
+Milo hatte recht – sie brauchten Menschen. Und Lina. Lina hatte immer Instinkte für Resonanz gehabt. Einmal hatte sie es nebenbei erwähnt – wie sich an manchen Nächten die Luft „dick“ anfühlte, oder wie bestimmte Orte ihr die Haut prickeln ließen. Sie hatte es weggelacht als Aberglaube, aber Jason hatte sich damals gefragt.
 
 Jetzt wusste er es besser.
 

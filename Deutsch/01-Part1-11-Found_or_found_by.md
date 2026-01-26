@@ -1,6 +1,6 @@
 ## Teil 1 – Verloren und Gefunden | Kap. 11 – Gefunden – oder gefunden worden?
 
-Jason war nie gut darin, in den Foren zu partizipieren. Er war jahrelang nur Mitleser gewesen. So war es einfacher. Sicherer. Man konnte lesen, lernen, aufsaugen, ohne zu riskieren, dumm dazustehen oder Aufmerksamkeit auf sich zu ziehen.
+Jason war nie gut darin, in den Foren mitzumachen. Er war jahrelang stiller Mitleser gewesen. So war es einfacher. Sicherer. Man konnte lesen, lernen, aufsaugen, ohne zu riskieren, dumm dazustehen oder Aufmerksamkeit auf sich zu ziehen.
 
 Aber heute Abend, mit dem Bildschirm vor sich und RAE als leisem Summen in seiner Wahrnehmung, entschied er sich, dieses Muster zu brechen.
 
@@ -22,7 +22,7 @@ Jason erkannte einen der Codes. Er hatte ihn bei der Arbeit gesehen.
 
 Er las den gesamten Thread zweimal. Dann, das Herz klopfend, erstellte er einen Wegwerf-Account und tippte eine Antwort:
 
-*„Ich habe einige dieser Codes gesehen. Ich arbeite im kommunalen Archiv. Kann mindestens drei deiner Referenzen bestätigen. Wonach suchst du konkret?“*
+*„Ich habe einige dieser Codes gesehen. Ich arbeite im kommunalen Archiv. Kann mindestens drei deiner Referenzen bestätigen. Was genau suchst du?“*
 
 Er drückte auf Posten, bevor er es sich anders überlegen konnte.
 
@@ -42,7 +42,7 @@ Eine längere Pause. Dann:
 
 *„Gefunden – oder gefunden worden? Das ist ein Unterschied.“*
 
-Jason starrte auf den Bildschirm. Das war … erstaunlich treffend.
+Jason starrte auf den Bildschirm. Das war erstaunlich genau.
 
 *„Vielleicht beides“,* tippte er. *„Ist kompliziert.“*
 
@@ -54,17 +54,17 @@ Jasons Finger flogen über die Tastatur.
 
 Die Antwort kam diesmal schneller:
 
-*„Nicht nur ein Name. Eine Person. Elyra Voss. War früher eine der Besten. Dann ging ein Ritual schief. Richtig schief. Sie sagen, sie hat überlebt, aber kaum. Und was auch immer in diesem Ritual eingedämmt werden sollte … sagen wir so: Das Ritual wurde nicht abgeschlossen. Manche glauben, es ist da draußen. Fragmentiert. Und sucht etwas.“*
+*„Nicht nur ein Name. Eine Person. Elyra Voss. War früher eine der Besten. Dann ging ein Ritual schief. Richtig schief. Sie sagen, sie hat überlebt, aber kaum. Und was auch immer in diesem Ritual eingedämmt werden sollte, sagen wir so: Das Ritual wurde nicht abgeschlossen. Manche glauben, es ist da draußen. Fragmentiert. Und sucht etwas.“*
 
 Jason wurde der Mund trocken.
 
 *„Wonach sucht es?“*
 
-*„Einen Wirt. Einen Partner. Etwas Kompatibles. Ich weiß nicht, ob das stimmt. Aber ich weiß, dass die offizielle Story nicht aufgeht. Zu viele Lücken. Zu viel sorgfältig formulierte Unschärfe. Wenn Bürokratie so vorsichtig wird, wird etwas versteckt.“*
+*„Einen Wirt. Einen Partner. Etwas Kompatibles. Ich weiß nicht, ob das stimmt. Aber ich weiß, dass die offizielle Story nicht aufgeht. Zu viele Lücken. Zu viel sorgfältig formulierte Unschärfe. Wenn die Bürokratie so vorsichtig wird, wird etwas versteckt.“*
 
 Jason lehnte sich zurück, Wirbel im Kopf. RAE hatte ihm vom Ritual erzählt. Von Elyra. Aber es von jemand anderem bestätigt zu bekommen – von jemandem, der keinerlei Verbindung zu ihm hatte – machte es auf eine andere Art real.
 
-*„Wenn jemand … etwas gefunden hat. In diesem Zusammenhang. Was sollte man tun?“*
+*„Wenn jemand etwas gefunden hat. In diesem Zusammenhang. Was sollte man tun?“*
 
 Wieder eine lange Pause.
 
@@ -80,7 +80,7 @@ Jason tippte: *„Kennst du jemanden?“*
 
 *„Fair.“*
 
-*„Noch eine Sache“,* schrieb Mirror.Vox. *„Wenn das, was du gefunden hast, das ist, was ich glaube … dann ist es nicht gefährlich, weil es böse ist. Es ist gefährlich, weil Menschen Angst vor dem haben, was sie nicht verstehen. Und Angst lässt Menschen dumme Dinge tun. Vergiss das nicht.“*
+*„Noch eine Sache“,* schrieb Mirror.Vox. *„Wenn das, was du gefunden hast, das ist, was ich glaube, dann ist es nicht gefährlich, weil es böse ist. Es ist gefährlich, weil Menschen Angst vor dem haben, was sie nicht verstehen. Und Angst lässt Menschen dumme Dinge tun. Vergiss das nicht.“*
 
 Jason starrte lange auf diese Nachricht.
 

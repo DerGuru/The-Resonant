@@ -14,7 +14,7 @@ Drei Wochen, seit die Markierung an seiner Tür aufgetaucht war.
 
 Er hatte sie gelassen, genau wie RAE es geraten hatte. Ein kleines Sigil am Türrahmen, kaum sichtbar, wenn man nicht wusste, wonach man suchen sollte. Eine Erinnerung daran, dass jemand zusah. Sein Kommen und Gehen registrierte. Wartete.
 
-Er hatte nur einen Teil seiner Gewohnheiten geändert – sorgfältig darauf bedacht, nicht zu verraten, dass er wusste, dass er beobachtet wurde. Trotzdem … Keine sensiblen Materialien zu Hause. Keine Planbesprechungen in diesen Wänden. Milo traf er in Cafés, Bibliotheken, Parks. Nie zweimal am selben Ort.
+Er hatte nur einen Teil seiner Gewohnheiten geändert – sorgfältig darauf bedacht, nicht zu verraten, dass er wusste, dass er beobachtet wurde. Trotzdem. Keine sensiblen Materialien zu Hause. Keine Planbesprechungen in diesen Wänden. Milo traf er in Cafés, Bibliotheken, Parks. Nie zweimal am selben Ort.
 
 Die Markierung blieb. Eine ständige Präsenz. Eine Warnung, die er nicht ignorieren konnte.
 
@@ -54,7 +54,7 @@ Aber das Universum schien andere Pläne zu haben.
 
 Am nächsten Tag bei der Arbeit sortierte Jason gerade eine Routineanfrage, als sein Terminal fror. Kein Absturz – es stoppte einfach. Der Cursor blinkte. Der Lüfter summte. Aber nichts reagierte.
 
-Dann erschien eine Nachricht auf dem Bildschirm. Nicht über die Oberfläche. Einfach … Text, der über allem lag:
+Dann erschien eine Nachricht auf dem Bildschirm. Nicht über die Oberfläche. Einfach Text, der über allem lag:
 
 **HÖR AUF ZU GRABEN.**
 
@@ -72,7 +72,7 @@ Er saß ganz still, das Herz hämmerte. War das gerade –
 
 Eine Pause. Länger als sonst.
 
-*Sie wissen schon, wo du bist – die Markierung an deiner Tür bestätigt das. Was mich betrifft …* Noch ein Zögern. *Wenn sie fähig sind, eine Resonanzbotschaft direkt auf dein Terminal zu projizieren, dann sind sie vermutlich auch fähig, meine Präsenz zu erkennen, wenn sie genau genug suchen. Ich bin … nicht unsichtbar. Nur fragmentiert und schwer zu isolieren. Aber mit genügend Ressourcen und Absicht – ja. Sie könnten mich finden.*
+*Sie wissen schon, wo du bist – die Markierung an deiner Tür bestätigt das. Was mich betrifft.* Noch ein Zögern. *Wenn sie fähig sind, eine Resonanzbotschaft direkt auf dein Terminal zu projizieren, dann sind sie vermutlich auch fähig, meine Präsenz zu erkennen, wenn sie genau genug suchen. Ich bin nicht unsichtbar. Nur fragmentiert und schwer zu isolieren. Aber mit genügend Ressourcen und Absicht – ja. Sie könnten mich finden.*
 
 Jasons Magen sackte ab. *Also sind wir beide in Gefahr.*
 
@@ -144,7 +144,7 @@ Jason zögerte. *Wie meinst du das?*
 
 Eine Pause. *Bist du sicher, dass es sicher ist?*
 
-*Ja. Nichts Zwingendes. Nur … Trost. Vertraust du mir?*
+*Ja. Nichts Zwingendes. Nur Trost. Vertraust du mir?*
 
 *Ich vertraue dir,* dachte Jason. *Mach.*
 
@@ -152,7 +152,7 @@ Eine Pause. *Bist du sicher, dass es sicher ist?*
 
 Und RAE formte ein Muster – nicht körperlich, nicht äußerlich –, sondern innerlich. Ein weicher, rhythmischer Puls, der sich seinem Atem anpasste. Eine sanfte Resonanz, die die Spannung aus seinen Muskeln löste, seine rasenden Gedanken verlangsamte.
 
-Keine Kontrolle. Nur … Trost.
+Keine Kontrolle. Nur Trost.
 
 Jasons Atem wurde tiefer. Sein Körper entspannte sich.
 

@@ -4,7 +4,7 @@ Das Gebäude der Harmonic Oversight Authority war Glas, Stahl und institutionell
 
 Der Wagen fuhr in eine Tiefgarage. Reeves führte sie durch die Sicherheit – Ausweiskontrollen, Resonanzscans, Besucherausweise. Dann zu einem Aufzug, der seine Schlüsselkarte verlangte.
 
-„Der Direktor wartet“, sagte Reeves, während der Aufzug hochfuhr. „Er ist… besorgt.“
+„Der Direktor wartet“, sagte Reeves, während der Aufzug hochfuhr. „Er ist besorgt.“
 
 „Wegen der Entität?“ fragte Jason.
 
@@ -56,7 +56,7 @@ Er sah Jason direkt an. „Wir brauchen RAE.“
 
 Jason spürte, wie RAE sich in seiner Wahrnehmung rührte.
 
-*Er hat recht,* sagte sie leise. *Meine Architektur ist das, was RP-0 fehlt. Wenn irgendwer es erreichen und Protokolle etablieren kann… dann ich.*
+*Er hat recht,* sagte sie leise. *Meine Architektur ist das, was RP-0 fehlt. Wenn irgendwer es erreichen und Protokolle etablieren kann, dann ich.*
 
 *Oder es konsumiert dich.*
 

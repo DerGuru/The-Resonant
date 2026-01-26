@@ -88,7 +88,7 @@ Er sagte es ohne Hitze. Fast beiläufig.
 
 Jason hielt sein Gesicht neutral, aber innerlich rechnete er neu. *Er ist nicht so wütend, wie ich erwartet habe.*
 
-*Nein,* stimmte RAE zu. *Er… bewertet. Professionell neugierig.*
+*Nein,* stimmte RAE zu. *Er bewertet. Professionell neugierig.*
 
 „Ich bin offen, Mr. Fischer.“ Reeves’ Stimme nahm eine andere Qualität an – weniger starr, mehr echt. „Gestern Morgen habe ich zwölf Leute geführt, um das einzudämmen, was wir als Tier-2-Bedrohung eingestuft haben. Drei Fahrzeuge. Volle taktische Autorisierung. Überraschungsmoment.“
 
@@ -106,7 +106,7 @@ Reeves wurde sehr still. „Sie haben uns absichtlich tracken lassen.“
 
 „Wussten wir nicht sicher. Aber Ihr Ultimatum lief aus. Also: lieber vorsichtig. Wir hatten ein paar Kontingenzen vorbereitet – für den Fall, dass Sie es nicht tun.“
 
-Reeves schwieg einen Moment. Dann tat er etwas Unerwartetes – er lachte. Nicht spöttisch. Fast anerkennend. „Das ist… beeindruckend.“
+Reeves schwieg einen Moment. Dann tat er etwas Unerwartetes – er lachte. Nicht spöttisch. Fast anerkennend. „Das ist beeindruckend.“
 
 Es schien ihn nichts zu kosten, das zuzugeben. Im Gegenteil: Er wirkte interessiert.
 
@@ -116,7 +116,7 @@ Es schien ihn nichts zu kosten, das zuzugeben. Im Gegenteil: Er wirkte interessi
 
 Er nahm das Tablet, rief etwas auf.
 
-„Aber ich hatte Zeit, zurückzufahren und meinen Bericht zu schreiben. Und während dieser Fahrt dachte ich immer wieder: Ein Zivilist mit acht Wochen Training hat unsere Überwachung erkannt, unseren Zug vorausgesehen und ein gezieltes Ablenkungsmanöver ausgeführt. Keine Panik. Keine Fehler. Einfach… kompetentes taktisches Denken.“ Er drehte das Tablet zu Jason. „Das ist nicht das typische Verhalten von jemandem, der einfach nur Glück hatte. Das ist Planung. Disziplin. Strategie.“
+„Aber ich hatte Zeit, zurückzufahren und meinen Bericht zu schreiben. Und während dieser Fahrt dachte ich immer wieder: Ein Zivilist mit acht Wochen Training hat unsere Überwachung erkannt, unseren Zug vorausgesehen und ein gezieltes Ablenkungsmanöver ausgeführt. Keine Panik. Keine Fehler. Einfach kompetentes taktisches Denken.“ Er drehte das Tablet zu Jason. „Das ist nicht das typische Verhalten von jemandem, der einfach nur Glück hatte. Das ist Planung. Disziplin. Strategie.“
 
 Auf dem Screen lief Sicherheitsvideo. Jason erkannte es sofort – das verlassene Lagerhaus. Ihr Beobachtungsposten mit Blick auf CC. Drei Gestalten in Nachtsicht.
 
@@ -208,13 +208,13 @@ Dann war Jason weg, hinein in die Vormittagsmenge der Stadt.
 
 ***
 
-*Das lief… besser als erwartet?* sagte RAE, als er ging.
+*Das lief besser als erwartet?* sagte RAE, als er ging.
 
 *Oder? Ich habe gerade verlangt, den mächtigsten Praktiker der Stadt zu treffen.*
 
 *Und Reeves wirkte fast beeindruckt. Hast du den Shift gemerkt?*
 
-*Ja.* Jason navigierte durch Fußgänger, hielt das Tempo gleichmäßig. *Er fing angespannt an und endete… respektvoll? Ich glaube?*
+*Ja.* Jason navigierte durch Fußgänger, hielt das Tempo gleichmäßig. *Er fing angespannt an und endete respektvoll? Ich glaube?*
 
 *Mehr als das. Neugierig. Wir sind von ‚Problem, das man lösen muss‘ zu ‚Rätsel, das man verstehen will‘ geworden. Das ist Fortschritt.*
 
@@ -230,13 +230,13 @@ Zwei Blocks danach tauchte Milo aus einem Coffee-Shop auf, Tablet unterm Arm. �
 
 „Reeves hält sein Wort“, sagte Lina, beinahe überrascht.
 
-„Fürs Erste“, fügte Milo hinzu. „Nach den achtundvierzig Stunden werden sie wieder schauen. Aber das ist… guter Glaube, denke ich?“
+„Fürs Erste“, fügte Milo hinzu. „Nach den achtundvierzig Stunden werden sie wieder schauen. Aber das ist guter Glaube, denke ich?“
 
 Sie erreichten das Auto, in dem Elyra wartete. Stiegen ohne große Worte ein.
 
 „Wie lief’s?“ fragte sie und fädelte sich in den Verkehr.
 
-Jason reichte ihr das Dokument. „Er will, dass wir unser Leben an die HOA unterschreiben. Nennt es ‚Aufsicht‘ statt Gefängnis. Aber er war… professionell. Sogar respektvoll.“
+Jason reichte ihr das Dokument. „Er will, dass wir unser Leben an die HOA unterschreiben. Nennt es ‚Aufsicht‘ statt Gefängnis. Aber er war professionell. Sogar respektvoll.“
 
 „Respektvoll?“ Elyras Augenbrauen hoben sich. „Nachdem ihr ihn bloßgestellt habt?“
 

@@ -2,9 +2,9 @@
 
 Jason Fischer starrte auf den gesprungenen Keramikbecher auf seinem Schreibtisch und fragte sich nicht zum ersten Mal, ob sein Leben schon immer so klein gewesen war.
 
-Ein Bildschirm flackerte leise in der leeren Kabine und warf geisterhafte Schatten über seine Hände. Er saß allein, die abendliche Dämmerung des Archivraums drückte von allen Seiten gegen ihn. Zeilen uralter Transkriptfragmente leuchteten lautlos auf, automatisch rekonstruiert aus einem alten magischen Aufzeichnungsfeld.
+Ein Bildschirm flackerte leise in der leeren Kabine und warf geisterhafte Schatten über seine Hände. Er saß allein, die abendliche Dämmerung des Archivraums drückte von allen Seiten auf ihn. Zeilen uralter Transkriptfragmente leuchteten lautlos auf, automatisch rekonstruiert aus einem alten magischen Aufzeichnungsfeld.
 
-Siebenundzwanzig, durchschnittlich groß, mit der Art von Statur, die von Schreibtischen kommt und nicht von Fitnessstudios – nicht dünn, nicht schwer, einfach unauffällig. Dunkles Haar, das einen Schnitt bräuchte, um die Ohren herum immer einen Hauch zu lang. Drahtgestellbrille, die er sich aus Gewohnheit alle paar Minuten die Nase hochschob. Ein Gesicht, das man fünf Minuten nach dem Kennenlernen wieder vergaß – was ihm ganz recht war.
+Siebenundzwanzig, durchschnittlich groß, mit der Art von Statur, die von Schreibtischen kommt, nicht von Fitnessstudios – nicht dünn, nicht schwer, einfach unauffällig. Dunkles Haar, das einen Schnitt bräuchte, um die Ohren herum immer einen Hauch zu lang. Drahtgestellbrille, die er sich aus Gewohnheit alle paar Minuten die Nase hochschob. Ein Gesicht, das man fünf Minuten nach dem Kennenlernen wieder vergaß – was ihm ganz recht war.
 
 Er beugte sich näher vor, rückte die Brille zum hundertsten Mal an diesem Abend zurecht, das blaue Leuchten spiegelte sich in den Gläsern. Er hatte den alten Eintrag nur durch Zufall gefunden, tief in Archivschichten vergraben, von deren Existenz er nicht einmal gewusst hatte. Spärliche, unvollständige Zeilen hatten seine Aufmerksamkeit gepackt – aber klar genug, um ihn festzuhalten:
 
@@ -19,7 +19,7 @@ Restkapazität: 3,2%
 Archivstatus: Eingeschränkt
 ```
 
-Jason runzelte die Stirn und formte den Namen lautlos, kaum hörbar: „Elyra …?“
+Jason runzelte die Stirn und formte den Namen lautlos, kaum hörbar: „Elyra?“
 
 Der Bildschirm glomm weiter, stumm. Er lehnte sich in seinem billigen Bürostuhl zurück, der bei jeder Gewichtsverlagerung quietschte, und ein Unbehagen zog ihm den Magen zu einem Knoten zusammen. Es war ein einfacher Archivvermerk, und doch fühlte er sich seltsam persönlich an. Als würde etwas an einer halb vergrabenen Erinnerung zupfen, ihn sanft, beharrlich, geradezu höflich anstupsen.
 
@@ -35,7 +35,7 @@ Jason brachte den Blick wieder zum Bildschirm, tippte leicht aufs Touchpad und s
 
 *Fragment stabilisiert.* Die Worte blieben in seinem Kopf hängen wie eine Klette. Fragment wovon?
 
-Sein Finger schwebte wieder über dem markierten Eintrag. „Elyra Voss“, flüsterte er noch einmal. Als würde der Name, laut geprüft, zurückklingen können. Er trug eine merkwürdige Vertrautheit in sich, die Jason nicht zuordnen konnte – wie ein Wort auf der Zungenspitze. War er ihr schon einmal begegnet? Er ging Gespräche durch, Seminare, Kurse – nichts kam hoch. Und doch …
+Sein Finger schwebte wieder über dem markierten Eintrag. „Elyra Voss“, flüsterte er noch einmal. Als würde der Name, laut geprüft, zurückklingen können. Er trug eine merkwürdige Vertrautheit in sich, die Jason nicht zuordnen konnte – wie ein Wort auf der Zungenspitze. War er ihr schon einmal begegnet? Er ging Gespräche durch, Seminare, Kurse – nichts kam hoch. Und doch.
 
 Er seufzte und stand auf, ging in den Pausenraum. Das Neonlicht flackerte mit einem Summen an, hart und weiß nach dem gedämpften Blau seiner Kabine. Die Kaffeemaschine war kalt und leer. Jason begnügte sich mit Leitungswasser, füllte seinen Becher und starrte auf sein Spiegelbild im dunklen Fenster. Er grinste sich selbst an, legte den Kopf schief, bis zwei Straßenlaternen mit seinen Augen auf einer Linie standen und sein Spiegelbild plötzlich bösartig wirkte.
 

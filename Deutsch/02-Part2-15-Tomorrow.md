@@ -26,21 +26,21 @@ Lina blickte auf. „Dass ich Ärger habe? Ja. Er weiß es.“ Sie schob Pasta a
 
 „Und er ist okay damit?“
 
-„Er ist nicht okay damit.“ Ihre Stimme wurde weich. „Aber er hält mich auch nicht auf. Das ist … das ist seine Art zu helfen.“
+„Er ist nicht okay damit.“ Ihre Stimme wurde weich. „Aber er hält mich auch nicht auf. Das ist seine Art zu helfen.“
 
 Sie blickte Richtung Küche, wo ihr Vater arbeitete. „Als ich sechzehn war, wollte ich mich an der Akademie bewerben. Er hat nicht viel gesagt. Wurde nur still. Distanziert.“ Sie hielt inne. „Ich habe gemerkt, dass er nicht wollte, dass ich gehe. Aber er hat den Antrag trotzdem unterschrieben. Mir beim Vorbereiten geholfen.“
 
 „Warum?“ fragte Milo.
 
-„Weil er mich kennt.“ Lina legte die Gabel ab. „Er weiß, ich würde sowieso gehen. Mit oder ohne Erlaubnis. Und so …“ Sie brach ab und sah zu, wie ihr Vater sich durch die Küche bewegte. „So kann er mich wenigstens füttern, bevor ich verschwinde.“
+„Weil er mich kennt.“ Lina legte die Gabel ab. „Er weiß, ich würde sowieso gehen. Mit oder ohne Erlaubnis. Und so“ Sie brach ab und sah zu, wie ihr Vater sich durch die Küche bewegte. „So kann er mich wenigstens füttern, bevor ich verschwinde.“
 
 Milo starrte auf seinen Teller. „Ich komm immer wieder drauf zurück, weißt du?“ Er lachte leise. „Dieser Plan, den ich hatte. Die Prüfung. Der Job. Das Mädchen aus dem Café.“ Er hielt inne. „Ich hab sogar geübt, was ich ihr sagen würde. Mehrfach. Vor dem Spiegel wie ein Idiot.“
 
-Er hob die Gabel. Legte sie wieder hin. „Ich hab euch das schon erzählt, oder?“
+Er hob die Gabel. Legte sie wieder hin. „Das hab ich euch schon erzählt, oder?“
 
 „Ja“, sagte Jason.
 
-„Sorry. Ich …“ Milo schüttelte den Kopf. „Ich denke ständig dran. Wie real es war. Wie nah.“ Er sah auf. „Vor drei Wochen war das meine größte Sorge. Ob sie Ja sagt.“
+„Sorry. Ich“ Milo schüttelte den Kopf. „Ich denke ständig dran. Wie real es war. Wie nah.“ Er sah auf. „Vor drei Wochen war das meine größte Sorge. Ob sie Ja sagt.“
 
 „Könntest du immer noch“, sagte Jason. „Nach –“
 
@@ -162,7 +162,7 @@ Milo kam als Letzter, die Equipment-Tasche über der Schulter, das Tablet an die
 
 Niemand wusste, was man darauf sagen sollte.
 
-Elyra tauchte aus einem Seitengang auf. „Zimmer 314 und 316. Jason und Milo in 314. Lina in 316. Ich in 318, gegenüber.“ Sie reichte Schlüssel. Echte Schlüssel, keine Karten. Oldschool. „Notfall-Beacons bleiben bei euch. Immer. Wenn irgendwas passiert –“
+Elyra tauchte aus einem Seitengang auf. „Zimmer 314 und 316. Jason und Milo in 314. Lina in 316. Ich in 318, gegenüber.“ Sie reichte Schlüssel. Echte Schlüssel, keine Karten. Altmodisch. „Notfall-Beacons bleiben bei euch. Immer. Wenn irgendwas passiert –“
 
 „Wir wissen“, sagte Jason. „Zerdrücken.“
 
@@ -192,7 +192,7 @@ Milo lachte. Es klang kaputt. „Wenigstens haben wir zusammen Angst.“
 
 „Besser als allein.“
 
-„Ist es das?“ Milo drehte den Kopf. „Wenn ich allein wäre, würde wenigstens niemand anderes verletzt. Meine Mom wäre okay. Sie wäre sauer, dass ich nicht zurückrufe, aber sie wäre okay. Stattdessen …“ Er brach ab.
+„Ist es das?“ Milo drehte den Kopf. „Wenn ich allein wäre, würde wenigstens niemand anderes verletzt. Meine Mom wäre okay. Sie wäre sauer, dass ich nicht zurückrufe, aber sie wäre okay. Stattdessen.“ Er brach ab.
 
 „Stattdessen bist du hier. Mit uns.“
 
@@ -204,7 +204,7 @@ Milo lachte. Es klang kaputt. „Wenigstens haben wir zusammen Angst.“
 
 Jason hatte keine Antwort.
 
-„Ist okay“, sagte Milo. „Ich glaube es auch nicht. Was auch immer morgen passiert … nichts wird danach wieder normal.“
+„Ist okay“, sagte Milo. „Ich glaube es auch nicht. Was auch immer morgen passiert, nichts wird danach wieder normal.“
 
 „Nein. Wird es nicht.“
 

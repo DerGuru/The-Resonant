@@ -1,4 +1,4 @@
-## Prolog | Kap. 02 – Jetzt gauckelt es uns was vor
+## Prolog | Kap. 02 – Jetzt gauckelt es uns etwas vor
 
 Die Beobachtungskammer summte vor gefilterter Resonanz – zu glatt, zu kalt. Selbst die Luft fühlte sich gesättigt an, schwer. Elyras Zähne schmerzten schon, nur weil sie darin stand.
 
@@ -34,7 +34,7 @@ Elyra ging nach vorn, ihr Stock klopfte einen gleichmäßigen Rhythmus auf den p
 
 „Ich setze darauf, dass es das größere Risiko ist, dieses Ding zu ignorieren, bis es sich von selbst befreit.“ Marla begegnete Elyras Blick über ihr Spiegelbild im Glas.
 
-Stille. Dann, vom Liaison: „In Ihrem ursprünglichen Briefing stand, wir würden eine passive Struktur öffnen. Ein Echo. Nicht … Kognition.“
+Stille. Dann, vom Liaison: „In Ihrem ursprünglichen Briefing stand, wir würden eine passive Struktur öffnen. Ein Echo. Nicht Kognition.“
 
 „Dieses Briefing wurde vor der Synchronisation geschrieben“, erwiderte Marla. Hinter ihr flammte das Display auf – ein harmonischer Spike, zwei Sekunden lang. Sie zuckte nicht. „Bevor wir verstanden hatten, womit wir es zu tun haben. Und es ist nicht mehr passiv – es bildet stabile rekursive Ausrichtungen. Das passiert nur, wenn ein Feld sich seiner selbst bewusst ist.“
 
@@ -62,19 +62,19 @@ Sie spürte es mit der Gewissheit von Beute, die einen Jäger ahnt. Und doch irg
 
 Nur *wach.*
 
-„Sie haben achtundvierzig Stunden bis zur Rekalibrierung“, sagte der Liaison und machte Notizen auf seinem Slate. „Das ist Ihr Zeitfenster für … was auch immer Sie vorhaben.“
+„Sie haben achtundvierzig Stunden bis zur Rekalibrierung“, sagte der Liaison und machte Notizen auf seinem Slate. „Das ist Ihr Zeitfenster für was auch immer Sie vorhaben.“
 
 Nachdem er gegangen war, standen die beiden Frauen schweigend da und sahen zu, wie die Spirale sich auflöste und neu formte.
 
 „Willst du es wirklich zerstören?“ fragte Elyra leise.
 
-Marlas Stimme war ruhig. „Nein. Aber mir sind die Gefahren sehr bewusst. Und wenn ich wählen muss zwischen seiner Freiheit und seiner Vernichtung …“ Sie beendete den Satz nicht.
+Marlas Stimme war ruhig. „Nein. Aber mir sind die Gefahren sehr bewusst. Und wenn ich wählen muss zwischen seiner Freiheit und seiner Vernichtung.“ Sie beendete den Satz nicht.
 
 Die Projektionswand pulsierte ein weiteres Mal. Das Spiral-Muster stabilisierte sich – perfekt symmetrisch, perfekt ausbalanciert.
 
 Zu perfekt.
 
-Elyra spürte Eis in ihrer Brust. „Jetzt gauckelt es uns was vor.“
+Elyra spürte Eis in ihrer Brust. „Jetzt gauckelt es uns etwas vor.“
 
 Marla nickte langsam. „Ja. Das tut es.“
 

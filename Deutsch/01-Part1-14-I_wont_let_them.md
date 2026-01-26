@@ -2,7 +2,7 @@
 
 Jason bemerkte die Markierung drei Tage nach dem Treffen mit Milo.
 
-Er stand im Flur seiner Wohnung, Schlüssel in der einen Hand – Post in der anderen – und starrte auf seine Tür.
+Er stand in seinem Flur, Schlüssel in der einen Hand – Post in der anderen – und starrte auf seine Tür.
 
 Da war etwas am Türrahmen.
 

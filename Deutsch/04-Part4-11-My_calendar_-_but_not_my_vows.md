@@ -14,7 +14,7 @@ Ich atmete ein. Ließ meine Wahrnehmung vorsichtig in das vorbereitete Testobjek
 
 Die Frequenzen des Resonogramms kamen sofort zu mir. Ich matchte es zuerst, synchronisierte mein Feld auf seine bestehende Resonanz. Spürte das Muster – die Landschaft aus Spitzen und Tälern, wie sich die Wellenformen in sich selbst falteten wie Fraktale, jede Welle enthielt kleinere Wellen. Starr an manchen Stellen, fließend an anderen. Stell dir eine Julia-Menge vor, aber als Hologramm gerendert.
 
-Hier ging es nicht darum, das Feld zu verändern, sondern es mit Invest zu füllen. Also begann ich zu investieren. Präzise. Schrittweise. Das Muster reagierte, als ich Energie hinzufügte. Die fraktale Landschaft verstärkte sich – Spitzen stiegen höher, Täler wurden tiefer. Das Muster wurde … präsenter. Deutlicher. Ich hielt die Investition konstant, mikrojustierte, um nicht zu überschießen. Zu viel, und die Spitzen würden in die Rotzone schießen und das natürliche Muster verzerren. Zu wenig, und es würde ins Graue fallen, kaum sichtbar. Ich fand die Balance – genug Energie, um die Resonanz in volle Klarheit zu bringen, aber nicht so viel, dass ich das Muster zu Veränderung zwang.
+Hier ging es nicht darum, das Feld zu verändern, sondern es mit Invest zu füllen. Also begann ich zu investieren. Präzise. Schrittweise. Das Muster reagierte, als ich Energie hinzufügte. Die fraktale Landschaft verstärkte sich – Spitzen stiegen höher, Täler wurden tiefer. Das Muster wurde präsenter. Deutlicher. Ich hielt die Investition konstant, mikrojustierte, um nicht zu überschießen. Zu viel, und die Spitzen würden in die Rotzone schießen und das natürliche Muster verzerren. Zu wenig, und es würde ins Graue fallen, kaum sichtbar. Ich fand die Balance – genug Energie, um die Resonanz in volle Klarheit zu bringen, aber nicht so viel, dass ich das Muster zu Veränderung zwang.
 
 Das Resonogramm antwortete mit homogener Resonanz – stabile Amplitude, saubere Wellenform, null harmonische Verzerrung. Durchgehend Grünzone. Der Kristall glühte mit stetigem Licht. Perfekte Kontrolle.
 
@@ -40,7 +40,7 @@ Der Raum wurde vollkommen still.
 
 Kontrolle. Ankern. Zurücknehmen.
 
-Ich kämpfte nicht dagegen an. Unterdrückte nicht. Ich … führte. Ließ es aufkämmen und sich natürlich setzen, während ich die Gegenharmoniken hielt. Die Tasse beruhigte sich. Der Riss hörte auf, sich zu öffnen. Ich brachte das Feld zurück ins Grün, hielt es dort, während ich die Stabilisierung fortsetzte. Stabil. Absichtlich.
+Ich kämpfte nicht dagegen an. Unterdrückte nicht. Ich führte. Ließ es aufkämmen und sich natürlich setzen, während ich die Gegenharmoniken hielt. Die Tasse beruhigte sich. Der Riss hörte auf, sich zu öffnen. Ich brachte das Feld zurück ins Grün, hielt es dort, während ich die Stabilisierung fortsetzte. Stabil. Absichtlich.
 
 Ich beendete die Arbeit. Erhöhte die Dämpfung schrittweise und führte das Muster zurück zur Kohärenz. Die Resonanz des Trägers glättete sich. Dissonanz verblasste, Muster richteten sich aus, die Topologie fand wieder in sich zusammen. Der Riss war noch sichtbar, aber geschlossen und stabil. Keine weitere Fraktur. Die Tasse konnte wieder Flüssigkeit halten, ohne auseinanderzufallen.
 
@@ -102,9 +102,9 @@ Ich kniete mich hin. Nicht, um dramatisch zu sein. Sah zu ihrem Gesicht hinauf, 
 
 Aus meiner Tasche zog ich eine kleine Schachtel. Öffnete sie.
 
-Drinnen war ein schlichter Silberring. Ein kleiner Stein, bündig in das Band gesetzt. Nichts Auffälliges. Nichts, das nach Geld oder Status schrie. Einfach … bedeutungsvoll. Ausgewählt. Meiner zum Geben.
+Drinnen war ein schlichter Silberring. Ein kleiner Stein, bündig in das Band gesetzt. Nichts Auffälliges. Nichts, das nach Geld oder Status schrie. Einfach bedeutungsvoll. Ausgewählt. Meiner zum Geben.
 
-„Lina“, sagte ich. „Ich bin nicht mehr Jason. Ich bin nicht RAE. Ich bin nicht zwei Menschen, die sich Raum teilen. Ich bin … ich. Was auch immer das jetzt heißt. Wie auch immer das funktioniert. Das bin ich.“
+„Lina“, sagte ich. „Ich bin nicht mehr Jason. Ich bin nicht RAE. Ich bin nicht zwei Menschen, die sich Raum teilen. Ich bin ich. Was auch immer das jetzt heißt. Wie auch immer das funktioniert. Das bin ich.“
 
 Sie weinte bereits, die Hände vor dem Mund verschränkt.
 
@@ -168,7 +168,7 @@ Ich sah auf den Bildschirm. Dann auf Lina. Auf den Ring an ihrem Finger.
 
 „Die Pflicht ruft“, sagte sie, den Frust kaum verbergend.
 
-„Ja.“ Ich stand auf und half ihr hoch. „Aber heute Nacht – heute Nacht habe ich mich verlobt.“ Ich hielt inne, traf ihren Blick. „HOA mag meinen Kalender besitzen – aber nicht meine Gelübde.“
+„Ja.“ Ich stand auf und half ihr hoch. „Aber heute Nacht – heute Nacht habe ich mich verlobt.“ Ich hielt inne, traf ihren Blick. „HOA mag meinen Kalender kontrollieren – aber nicht meine Gelübde.“
 
 Sie lächelte ein wenig. Drückte meine Hand.
 

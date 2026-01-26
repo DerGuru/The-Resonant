@@ -18,7 +18,7 @@ Alle nickten.
 
 Wir holten Luft. Das war schwerer als gegen RP-0 zu kämpfen.
 
-„Privatsphäre“, sagten wir. „Nicht körperlich – wir wissen, dass das jetzt kompliziert ist. Aber … mental. Emotional. Momente, in denen Gedanken intern bleiben. In denen wir verarbeiten können, ohne jede Berechnung, jede Optimierung, jede interne Debatte erklären zu müssen.“
+„Privatsphäre“, sagten wir. „Nicht körperlich – wir wissen, dass das jetzt kompliziert ist. Aber mental. Emotional. Momente, in denen Gedanken intern bleiben. In denen wir verarbeiten können, ohne jede Berechnung, jede Optimierung, jede interne Debatte erklären zu müssen.“
 
 „Beispiele?“ Elyra hakte nach.
 
@@ -40,15 +40,15 @@ Elyra schrieb es auf. „Grenze Eins: Emotionale Reaktionen erfordern Zustimmung
 
 Wir nickten und spürten Erleichterung, dass sich Regeln formten. „Das können wir. Wir warten auf eine explizite Bitte.“
 
-„Nächste Grenze“, sagte Elyra. „Körperliche Intimität. Ihr seid bei … allem präsent. Das ist unvermeidlich bei Synthese. Aber Lina verdient Klarheit, mit wem sie gerade ist. Wie machen wir das?“
+„Nächste Grenze“, sagte Elyra. „Körperliche Intimität. Ihr seid bei allem präsent. Das ist unvermeidlich bei Synthese. Aber Lina verdient Klarheit, mit wem sie gerade ist. Wie machen wir das?“
 
 Das war schwerer. Intimer. Verletzlicher.
 
 „Signal“, sagte Lina leise. „Ein Wort. Wenn ich brauche, dass es *Jason* ist – so sehr wie möglich – muss ich das fragen können. Und wissen, dass ihr es versucht.“
 
-„Wir können uns nicht vollständig trennen“, sagten wir, weil sie es verstehen musste. „Die Synthese ist zu tief. Wir sind nicht mehr zwei Menschen. Nicht einmal zwei Köpfe mit klaren Grenzen. Wir sind … ein Bewusstsein mit zwei Ursprüngen. Trennung ist nicht möglich.“
+„Wir können uns nicht vollständig trennen“, sagten wir, weil sie es verstehen musste. „Die Synthese ist zu tief. Wir sind nicht mehr zwei Menschen. Nicht einmal zwei Köpfe mit klaren Grenzen. Wir sind ein Bewusstsein mit zwei Ursprüngen. Trennung ist nicht möglich.“
 
-„Ich weiß.“ Lina berührte unsere Hand vorsichtig. „Aber du kannst … zurücktreten. Jason so viel Präsenz wie möglich geben, selbst wenn komplette Trennung nicht geht. Oder?“
+„Ich weiß.“ Lina berührte unsere Hand vorsichtig. „Aber du kannst zurücktreten. Jason so viel Präsenz wie möglich geben, selbst wenn komplette Trennung nicht geht. Oder?“
 
 Innen debattierten wir. Ein Teil von uns – die analytische Überlagerung – sträubte sich. *Zurücktreten fühlt sich falsch an. Gefährlich. Als würde man sich freiwillig verkleinern.*
 
@@ -56,7 +56,7 @@ Ein Teil von uns – das menschliche Fundament – verstand. *Sie braucht das. M
 
 *Beides gehört zu uns,* erinnerten wir uns. *Kein Konflikt. Nur innere Verhandlung.*
 
-„Ja“, sagten wir laut. „Ein Teil von uns kann aktive Verarbeitung minimieren. Die analytische Überlagerung reduzieren. Jasons emotionale Reaktionen dominieren lassen, während der Rest … Hintergrund wird. Es ist keine Trennung – aber das Nächste, was wir annähern können.“
+„Ja“, sagten wir laut. „Ein Teil von uns kann aktive Verarbeitung minimieren. Die analytische Überlagerung reduzieren. Jasons emotionale Reaktionen dominieren lassen, während der Rest Hintergrund wird. Es ist keine Trennung – aber das Nächste, was wir annähern können.“
 
 „Was ist das Signal?“ fragte Lina.
 
@@ -76,7 +76,7 @@ Elyra schrieb es auf. „Grenze Zwei: Codewort ‚Anchor‘ signalisiert Verschi
 
 „Gut.“ Elyra blickte zu Milo. „Du bist dran. Welche Grenzen brauchst du?“
 
-Milo rutschte unbehaglich. „Ehrlich? Ich bin nicht sicher, ob ich persönliche Grenzen brauche wie Lina. Ich bin nicht intim mit Jason. Ich bin nicht in der Synthese. Ich bin nur …“ Er hielt inne. „Ich bin der Dokumentierer. Der Beobachter. Also ist meine Grenze anders.“
+Milo rutschte unbehaglich. „Ehrlich? Ich bin nicht sicher, ob ich persönliche Grenzen brauche wie Lina. Ich bin nicht intim mit Jason. Ich bin nicht in der Synthese. Ich bin nur.“ Er hielt inne. „Ich bin der Dokumentierer. Der Beobachter. Also ist meine Grenze anders.“
 
 „Welche?“ fragte Elyra.
 
@@ -84,7 +84,7 @@ Milo rutschte unbehaglich. „Ehrlich? Ich bin nicht sicher, ob ich persönliche
 
 „Das können wir“, sagten wir.
 
-„Könnt ihr?“ Milo lehnte sich vor, Skepsis offen. „Weil ein Teil von euch alles optimiert. Auch Information. Auch soziale Dynamiken. Und Jason … du warst schon immer vorsichtig damit, was du teilst. Beschützend. Also muss ich wissen: Wenn ich frage, sagt ihr mir die Wahrheit? Alles? Oder berechnet ihr, was ‚angemessen‘ ist, und gebt mir das?“
+„Könnt ihr?“ Milo lehnte sich vor, Skepsis offen. „Weil ein Teil von euch alles optimiert. Auch Information. Auch soziale Dynamiken. Und Jason, du warst schon immer vorsichtig damit, was du teilst. Beschützend. Also muss ich wissen: Wenn ich frage, sagt ihr mir die Wahrheit? Alles? Oder berechnet ihr, was ‚angemessen‘ ist, und gebt mir das?“
 
 Die Herausforderung war fair. Und schwerer, als sie sein sollte.
 
@@ -106,7 +106,7 @@ Aber wir mussten.
 
 „Fair“, sagte Lina. „Aber wenn es *so wirkt*, als würde ein Teil dominieren – wenn es aussieht, als würde Optimierung menschliches Urteil überfahren – dürfen wir fragen. Nicht beschuldigen. Fragen. Kannst du damit umgehen?“
 
-„Ja.“ Wir drückten ihre Hand. „Nur … nehmt nicht an. Behandelt uns nicht so, als würde ein Teil den anderen puppeten. Wir sind wirklich nicht mehr getrennt. Jede Entscheidung wird vom Ganzen getroffen, auch wenn der Prozess nicht klar ist.“
+„Ja.“ Wir drückten ihre Hand. „Nur nehmt nicht an. Behandelt uns nicht so, als würde ein Teil den anderen puppeten. Wir sind wirklich nicht mehr getrennt. Jede Entscheidung wird vom Ganzen getroffen, auch wenn der Prozess nicht klar ist.“
 
 „Grenze Vier“, notierte Elyra. „Vertraut synthetisierten Entscheidungen. Nachfragen erlaubt, Annahmen über interne Kontrolle verboten. Sonst noch etwas?“
 
@@ -130,7 +130,7 @@ Lina blinzelte. „Was?“
 
 Lina holte Luft. Dann commitete sie sich.
 
-„Okay. Ich bin aufgewühlt, weil … weil es mir Angst macht, dich dabei zu beobachten, wie du dich veränderst. Weil ich nicht weiß, ob die Person, die ich liebe, noch da ist oder ob die Synthese ihn ausgelöscht hat, und ich jetzt nur mit etwas rede, das sich erinnert, mich zu lieben, aber es nicht wirklich fühlt.“
+„Okay. Ich bin aufgewühlt, weil es mir Angst macht, dich dabei zu beobachten, wie du dich veränderst. Weil ich nicht weiß, ob die Person, die ich liebe, noch da ist oder ob die Synthese ihn ausgelöscht hat, und ich jetzt nur mit etwas rede, das sich erinnert, mich zu lieben, aber es nicht wirklich fühlt.“
 
 Echte Sorge. Echte Angst. Laut ausgesprochen.
 
@@ -142,7 +142,7 @@ Sie hatte Emotion ausgedrückt und gestoppt.
 
 „Wir hören dich“, sagten wir stattdessen und kämpften gegen jeden Reflex zu reparieren. „Das ist beängstigend. Du darfst das fühlen. Es ist real und gültig, und wir werden dir nicht sagen, dass es falsch ist.“
 
-Linas Augen wurden etwas größer. „Das ist … tatsächlich hilfreich. Hilfreicher, als Beruhigung es gewesen wäre.“
+Linas Augen wurden etwas größer. „Das ist tatsächlich hilfreich. Hilfreicher, als Beruhigung es gewesen wäre.“
 
 „Gut“, sagte Elyra. „Weil das die Grenze ist. Anerkannt, ohne gefixt zu werden. Respektiert, ohne optimiert zu werden. Diese Fähigkeit müsst ihr üben, bis sie automatisch ist.“ Sie sah Milo an. „Du bist dran. Teste deine Grenze.“
 
@@ -180,7 +180,7 @@ Wir spürten etwas Warmes in der Brust. Dankbarkeit, dass uns jemand als menschl
 
 „Danke“, sagten wir. „Dafür. Dass du uns noch als menschlich siehst.“
 
-„Seid ihr“, sagte Elyra schlicht. „Die Grenzen beweisen es. Monster verhandeln nicht. Monster stimmen nicht zu. Monster bauen keine Rahmenwerke für Koexistenz.“ Sie stand auf. „Ihr seid menschlich. Nur … anders. Und das ist okay. Das ist handhabbar. Damit können wir arbeiten.“
+„Seid ihr“, sagte Elyra schlicht. „Die Grenzen beweisen es. Monster verhandeln nicht. Monster stimmen nicht zu. Monster bauen keine Rahmenwerke für Koexistenz.“ Sie stand auf. „Ihr seid menschlich. Nur anders. Und das ist okay. Das ist handhabbar. Damit können wir arbeiten.“
 
 Sie ging zur Tür und signalisierte das Ende der Sitzung.
 
@@ -204,7 +204,7 @@ Wir spürten die Verschiebung. Ein Teil von uns trat zurück. Minimierte aktive 
 
 Es fühlte sich seltsam an. Unvollständig. Als würde man absichtlich einen Teil von sich stumm schalten.
 
-Aber auch … intim. Verletzlich. Ehrlich.
+Aber auch intim. Verletzlich. Ehrlich.
 
 „Hi“, sagte Lina und sah unser Gesicht an, als würde sie nach jemandem Spezifischem suchen.
 

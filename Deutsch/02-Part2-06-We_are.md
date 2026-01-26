@@ -78,7 +78,7 @@ Jason zitterte. Nicht vor Angst. Vor *Wissen*.
 
 Jason sah auf seine Hände. Es waren seine Hände. Seine Gedanken waren seine Gedanken. Und doch spürte er noch das Echo dieses verschmolzenen Raums, in dem Grenzen nur Vorschläge gewesen waren.
 
-„Ich will stabilisieren“, sagte er. „Bei 40%. Ich bin nicht bereit für … das. Noch nicht.“
+„Ich will stabilisieren“, sagte er. „Bei 40%. Ich bin nicht bereit für das. Noch nicht.“
 
 „Gute Wahl“, sagte Elyra. „Es ist möglich, aber es wird Disziplin verlangen. Weniger beiläufige Nutzung. Nur zusammen arbeiten, wenn es nötig ist. Gebt einander Raum.“
 
@@ -100,7 +100,7 @@ Aber die Erinnerung an verschmolzenes Bewusstsein blieb – wie ein Echo, das er
 
 Jason hielt an der Tür inne und überlegte. *Wie mich verlieren. Und uns finden. Und nicht wissen, was ich mehr wollte.*
 
-*Das ist … ehrlich. Und beängstigend.*
+*Das ist ehrlich. Und beängstigend.*
 
 *Ja,* dachte Jason. *Ist es.*
 

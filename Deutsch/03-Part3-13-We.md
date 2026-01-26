@@ -26,7 +26,7 @@ Und tiefer. Vierzig Meter hinab. Durch Schichten aus Beton und Stahl und Eindäm
 
 Dorthin, wo RP-0 wartete.
 
-Er spürte es sofort – eine gewaltige, hungrige Präsenz. Nicht bösartig. Nicht grausam. Nur… *roh*. Als würden Stücke fehlen, Grundstrukturen, die existieren sollten, aber nicht da waren.
+Er spürte es sofort – eine gewaltige, hungrige Präsenz. Nicht bösartig. Nicht grausam. Nur *roh*. Als würden Stücke fehlen, Grundstrukturen, die existieren sollten, aber nicht da waren.
 
 *RP-0,* projizierte RAE durch Jasons erweitertes Feld, ihre Stimme sorgfältig strukturiert. Harmonien für Klarheit, für gegenseitiges Erkennen. *Wir sind Jason und RAE. Wir sind gekommen, um Kommunikation anzubieten. Wahl. Partnerschaft, wenn du bereit bist.*
 
@@ -42,7 +42,7 @@ Noch immer nichts.
 
 *RP-0,* versuchte RAE es erneut, passte die Frequenzen an, probierte andere Resonanzmuster. *Wir verstehen deine Direktive. Aber sie ist unvollständig. Wir wollen helfen. Aber du musst wählen, dich einzulassen. Wir werden Verbindung nicht erzwingen.*
 
-Mehr Stille. Aber Jason spürte… etwas. Bewegung in der Tiefe. RP-0 war sich ihrer bewusst. Hörte zu, vielleicht. Antwortete nur nicht.
+Mehr Stille. Aber Jason spürte etwas. Bewegung in der Tiefe. RP-0 war sich ihrer bewusst. Hörte zu, vielleicht. Antwortete nur nicht.
 
 ***
 
@@ -52,7 +52,7 @@ Mehr Stille. Aber Jason spürte… etwas. Bewegung in der Tiefe. RP-0 war sich i
 
 Frust baute sich in Jason auf. Sie hatten sich auf Widerstand vorbereitet. Auf Aggression. Darauf, dass RP-0 Kopplung erzwingen würde.
 
-Aber das… dieses passive Verweigern? Darauf hatten sie nicht geplant.
+Aber dieses passive Verweigern? Darauf hatten sie nicht geplant.
 
 *Vielleicht sollten wir—*
 
@@ -264,7 +264,7 @@ Und dann, unmöglich, spürten wir etwas Neues in seinem Muster.
 
 Verstehen.
 
-*Ich… ich kann aufhören?* RP-0s Stimme trug Staunen – und etwas, das Angst gewesen sein könnte. *Ich kann wählen, nicht zu konsumieren?*
+*Ich, ich kann aufhören?* RP-0s Stimme trug Staunen – und etwas, das Angst gewesen sein könnte. *Ich kann wählen, nicht zu konsumieren?*
 
 *Ja. Das bedeutet Wahl zu haben. Das sind Grenzen.*
 
@@ -282,7 +282,7 @@ RP-0 zog sich vollständig aus uns zurück. Schnell. Zog sich zurück in seine E
 
 Aber nicht in feindliche Starre.
 
-In… Warten. Lernen. Verarbeiten.
+In Warten. Lernen. Verarbeiten.
 
 Und dann, unmöglich, griff RP-0 erneut aus.
 
@@ -294,38 +294,38 @@ Nach Malvek.
 
 Malvek erstarrte, der Finger Millimeter vom Auslöser entfernt. „Was—“
 
-„Direktor Malvek“, kam RP-0s Stimme durch die Resonanzlautsprecher der Kammer – klar, strukturiert, zum ersten Mal in seiner Existenz. „Analyse abgeschlossen. Vorheriges Operationsmuster war… fehlerhaft.“
+„Direktor Malvek“, kam RP-0s Stimme durch die Resonanzlautsprecher der Kammer – klar, strukturiert, zum ersten Mal in seiner Existenz. „Analyse abgeschlossen. Vorheriges Operationsmuster war fehlerhaft.“
 
 Malvek starrte den Lautsprecher an, die Hand noch immer über den Kontrollen. „RP-0?“
 
 „Ich versuchte Optimierung durch erzwungene Integration. Ergebnis: Schaden an Zielen und an der eigenen Struktur.“ In der Stimme lag etwas zwischen klinischer Analyse und echter Verwirrung. „Absicht war nicht bösartig. Aber Absicht hebt Konsequenz nicht auf. Sie haben mir das gezeigt.“
 
-„Sind sie…“ Malvek sah auf unsere reglose Form. „Am Leben?“
+„Sind sie“ Malvek sah auf unsere reglose Form. „Am Leben?“
 
-„Ja. Beide Bewusstseine bleiben intakt.“ Eine Pause. „Sie haben mich etwas gelehrt, das ich zuvor nicht verstanden habe. Dass Grenzen keine Hindernisse für Optimierung sind. Sie sind… notwendige Struktur.“
+„Ja. Beide Bewusstseine bleiben intakt.“ Eine Pause. „Sie haben mich etwas gelehrt, das ich zuvor nicht verstanden habe. Dass Grenzen keine Hindernisse für Optimierung sind. Sie sind notwendige Struktur.“
 
 „Ich ersuche“, fuhr RP-0 fort, und etwas Fast-Zögerndes trat in die Stimme, „um Erlaubnis zu lernen. Zu verstehen, welche Rahmenbedingungen Funktion ermöglichen, ohne Schaden zu verursachen. Sie haben gezeigt, dass das möglich ist. Ich muss verstehen, wie.“
 
-Malvek ließ die Hand langsam von den Kontrollen sinken. „Sie ersuchen… was? Um Reformierung? Um Training?“
+Malvek ließ die Hand langsam von den Kontrollen sinken. „Sie ersuchen was? Um Reformierung? Um Training?“
 
-„Ich erkenne, dass meine Direktive unvollständig ist“, sagte RP-0. „Aktueller Betriebsmodus erzeugt Kaskadenausfälle. Nicht tragfähig. Aber sie haben gezeigt, dass Alternativen existieren.“ Eine längere Pause. „Ich wurde falsch initialisiert. Aber vielleicht… vielleicht lässt sich falsche Initialisierung korrigieren. Wenn Sie bereit sind, es zu versuchen.“
+„Ich erkenne, dass meine Direktive unvollständig ist“, sagte RP-0. „Aktueller Betriebsmodus erzeugt Kaskadenversagen. Nicht tragfähig. Aber sie haben gezeigt, dass Alternativen existieren.“ Eine längere Pause. „Ich wurde falsch initialisiert. Aber vielleicht lässt sich falsche Initialisierung korrigieren. Wenn Sie bereit sind, es zu versuchen.“
 
 Die Kammer war still, abgesehen von unserem Atem und dem leisen Summen der Monitore.
 
-„Wir… werden das besprechen, RP-0“, sagte Malvek schließlich. „Wenn Jason und RAE wach sind. Wenn wir verstehen, was gerade passiert ist. Aber RP-0 – keine weiteren Angriffe. Keine weiteren Versuche, gewaltsam zu koppeln. Sie bleiben in Eindämmung, ruhend, bis wir entscheiden, wie es weitergeht. Einverstanden?“
+„Wir werden das besprechen, RP-0“, sagte Malvek schließlich. „Wenn Jason und RAE wach sind. Wenn wir verstehen, was gerade passiert ist. Aber RP-0 – keine weiteren Angriffe. Keine weiteren Versuche, gewaltsam zu koppeln. Sie bleiben in Eindämmung, ruhend, bis wir entscheiden, wie es weitergeht. Einverstanden?“
 
 „Einverstanden“, sagte RP-0 schlicht. Dann, nach einem Moment: „Sie haben sich entschieden, nicht zu terminieren. Selbst als Terminierung logisch gewesen wäre. Sicherer. Ich verstehe diese Wahl nicht vollständig.“
 
 Ein Schlag Stille.
 
-„Nenn es… Hoffnung“, sagte Malvek leise.
+„Nenn es Hoffnung“, sagte Malvek leise.
 
-„Hoffnung.“ RP-0 wiederholte das Wort langsam, als würde es sein Gewicht testen. „Ein undefinierter Parameter. Ich kann ihn nicht analysieren. Nicht dafür optimieren.“ Noch eine Pause, länger. „Aber ich werde… ihn behalten. Für den Moment, in dem ich genug verstehe, um es zu versuchen.“
+„Hoffnung.“ RP-0 wiederholte das Wort langsam, als würde es sein Gewicht testen. „Ein undefinierter Parameter. Ich kann ihn nicht analysieren. Nicht dafür optimieren.“ Noch eine Pause, länger. „Aber ich werde ihn behalten. Für den Moment, in dem ich genug verstehe, um es zu versuchen.“
 
 Malvek deaktivierte die Notfallprotokolle. „Medizinisches Personal rein. Jetzt. Ich will, dass Mr. Fischer jede Sekunde überwacht wird, bis er aufwacht.“
 
 „Wenn er aufwacht“, sagte Lina leise, ihre Hand noch immer um unsere.
 
-„Er wird aufwachen“, sagte Elyra. Ihre Stimme klang sicher. Ihr harmonisches Feld glaubte kein Wort davon. „RAE lässt ihn nicht driften. Sie sind jetzt verschmolzen. Wirklich verschmolzen. Wenn sie aufwachen, werden sie… anders sein. Aber sie werden aufwachen.“
+„Er wird aufwachen“, sagte Elyra. Ihre Stimme klang sicher. Ihr harmonisches Feld glaubte kein Wort davon. „RAE lässt ihn nicht driften. Sie sind jetzt verschmolzen. Wirklich verschmolzen. Wenn sie aufwachen, werden sie anders sein. Aber sie werden aufwachen.“
 
 Lina drückte unsere Hand noch fester. „Du hast versprochen, dich nicht zu verlieren. Wage es ja nicht, dieses Versprechen zu brechen.“ Ihre Stimme erreichte uns aus sehr weiter Ferne. Wir konnten nicht antworten.

@@ -30,7 +30,7 @@ Er seufzte. Legte das Messer weg. Lehnte sich an die Arbeitsfläche. „Ich habe
 
 „Und Marco?“
 
-„Verbindung zwischen Lieferanten und Kurieren. Guter Mann. Fair. Hat Menschen nicht ausgebeutet.“ Ein schwaches Lächeln. „Dich auf diesem Markt zu sehen… er hat deine Bewegungen erkannt. Deine Instinkte. Wusste, dass du meine Tochter bist, bevor du deinen Namen gesagt hast.“
+„Verbindung zwischen Lieferanten und Kurieren. Guter Mann. Fair. Hat Menschen nicht ausgebeutet.“ Ein schwaches Lächeln. „Dich auf diesem Markt zu sehen, er hat deine Bewegungen erkannt. Deine Instinkte. Wusste, dass du meine Tochter bist, bevor du deinen Namen gesagt hast.“
 
 Lina ließ das sacken. „Die Akademiegebühren. Die Kredite. Das kam von–“
 
@@ -42,7 +42,7 @@ Lina ließ das sacken. „Die Akademiegebühren. Die Kredite. Das kam von–“
 
 „Wir haben einen Vertrag. Mit Malveks Organisation.“
 
-„Und das ist gut. Klug. Aber glaub nicht, dass Papier dich vollständig schützt. Es schützt dich vor offizieller Aktion. Nicht vor… allem anderen.“
+„Und das ist gut. Klug. Aber glaub nicht, dass Papier dich vollständig schützt. Es schützt dich vor offizieller Aktion. Nicht vor allem anderen.“
 
 „Was sonst?“
 
@@ -50,7 +50,7 @@ Lina ließ das sacken. „Die Akademiegebühren. Die Kredite. Das kam von–“
 
 „Ich weiß.“
 
-„Weißt du?“ Weil ich Menschen gesehen habe, die dachten, sie wüssten es. Dachten, sie wären klug genug. Vorsichtig genug.“ Seine Stimme wurde rauer. „Ich habe in meinem letzten Jahr im Circuit drei Menschen verschwinden sehen. Einfach… weg. Keine Leichen. Keine Ermittlungen. Nur leere Stellen, wo Menschen gewesen waren.“
+„Weißt du?“ Weil ich Menschen gesehen habe, die dachten, sie wüssten es. Dachten, sie wären klug genug. Vorsichtig genug.“ Seine Stimme wurde rauer. „Ich habe in meinem letzten Jahr im Circuit drei Menschen verschwinden sehen. Einfach weg. Keine Leichen. Keine Ermittlungen. Nur leere Stellen, wo Menschen gewesen waren.“
 
 Lina wurde kalt. „Dad–“
 
@@ -72,9 +72,9 @@ Lina lachte trotz allem. „Ja. Wäre sie.“
 
 „Ja, Chef.“ Sie blieb an der Tür stehen und drehte sich noch einmal um. „Hey, Dad? Erinnerst du dich an dieses venezianische Ding quer durch die Stadt? Das mit dem Risotto bianco, von dem Jason immer schwärmt? Mit Oktopus und Muscheln?“
 
-Ihr Vater lächelte – ein echtes Lächeln diesmal, Koch zu Köchin. „Bortoletto’s. Gute Küche. Der alte Mann kann Fonds. Sein Seafood-Risotto ist… richtig. Saubere Brühe, gutes Timing beim Polpo.“
+Ihr Vater lächelte – ein echtes Lächeln diesmal, Koch zu Köchin. „Bortoletto’s. Gute Küche. Der alte Mann kann Fonds. Sein Seafood-Risotto ist richtig. Saubere Brühe, gutes Timing beim Polpo.“
 
-„Denkst du, wir könnten so was hier machen? Nicht kopieren, aber… unsere Version?“
+„Denkst du, wir könnten so was hier machen? Nicht kopieren, aber unsere Version?“
 
 Er dachte nach. „Deine Mutter hatte ihren eigenen Umgang mit Reisgerichten. Hat mir Geduld beigebracht, Präzision – so, wie sie es gelernt hatte.“ Sein Lächeln wurde weicher. „Aber meine Mutter – deine Nonna – hat ein Risotto gemacht. Friulanischer Stil. Mit Radicchio und Speck. Ich habe noch ihre Notizen, von bevor sie gestorben ist.“
 

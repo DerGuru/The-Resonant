@@ -2,7 +2,7 @@
 
 Die erste Woche überwachte Freiheit fühlte sich an wie das Laufenlernen auf Eis – vorsichtige Schritte, ständiges Bewusstsein, das Wissen, dass ein falscher Tritt alles ins Rutschen bringen konnte.
 
-Jason kehrte in seine Wohnung zurück. Es waren nur fünf Tage, aber es fühlte sich nach Wochen an. Die Türmarkierung war noch da – schwach, sichtbar nur für Resonanzwahrnehmung. Aber jetzt fühlte sie sich anders an. Nicht feindlich. Nur… da. Offiziell.
+Jason kehrte in seine Wohnung zurück. Es waren nur fünf Tage, aber es fühlte sich nach Wochen an. Die Türmarkierung war noch da – schwach, sichtbar nur für Resonanzwahrnehmung. Aber jetzt fühlte sie sich anders an. Nicht feindlich. Nur da. Offiziell.
 
 Eine Erinnerung daran, dass er beobachtet wurde – aber nicht gejagt.
 
@@ -20,9 +20,9 @@ Er nahm die Schüssel, die Wärme drang durch die Keramik. „Danke.“
 
 „Bitte. Und Jason?“ Sie wartete, bis er ihr in die Augen sah. „Was auch immer du tust – worin auch immer du da drin steckst – sei klüger als die Leute vor dir.“
 
-Sein Hals wurde eng. „Kannten Sie jemanden, der…?“
+Sein Hals wurde eng. „Kannten Sie jemanden, der?“
 
-„Ich kannte viele Menschen. Vor langer Zeit. Bevor die Dinge… reguliert wurden.“ Sie lächelte, aber es erreichte ihre Augen nicht. „Sei einfach klug. Mehr verlange ich nicht.“
+„Ich kannte viele Menschen. Vor langer Zeit. Bevor die Dinge reguliert wurden.“ Sie lächelte, aber es erreichte ihre Augen nicht. „Sei einfach klug. Mehr verlange ich nicht.“
 
 Sie schloss ihre Tür, bevor er antworten konnte.
 
@@ -56,7 +56,7 @@ Lina fand ihren Vater nach dem Mittagsansturm in der Restaurantküche.
 
 „Hey, Dad“, sagte sie und lehnte im Türrahmen.
 
-Er sah von seiner Vorbereitung auf. „Lina. Gut, dass du da bist. Kannst du beim Mise für den Abend helfen?“
+Er sah von seiner Vorbereitung auf. „Lina. Gut, dass du da bist. Kannst du beim Mise en Place für den Abend helfen?“
 
 „Klar.“ Sie griff nach einer Schürze, band sie sich um. Fing an, Gemüse neben ihm zu schneiden.
 
@@ -66,7 +66,7 @@ Sie arbeiteten ein paar Minuten schweigend. Der vertraute Küchenrhythmus – sc
 
 „Das komplizierte Ding“, sagte er, ohne aufzusehen.
 
-„Ja. Es ist… geklärt.“
+„Ja. Es ist geklärt.“
 
 Sein Messer hielt inne. Nur einen Schlag. Dann ging es weiter. „Hab ich mir gedacht.“
 
@@ -74,7 +74,7 @@ Sein Messer hielt inne. Nur einen Schlag. Dann ging es weiter. „Hab ich mir ge
 
 „Du hast die Instinkte deiner Mutter. Ich hab’s gesehen, als du zwölf warst.“ Er schob Gemüse in einen Behälter. „Ist es sicher?“
 
-„Es ist legal. Wir haben… ein Arrangement mit den Offiziellen.“
+„Es ist legal. Wir haben ein Arrangement mit den Offiziellen.“
 
 Er nickte langsam. „Gut. Legal ist besser als die Alternative.“
 
@@ -96,11 +96,11 @@ Er öffnete das Forum – das Underground-Board für Resonanzpraktiker, wo Mensc
 
 Drei Nutzer waren verstummt.
 
-Nicht dramatisch. Nur… weg. Letzte Posts alle in demselben Zweiwochenfenster, alle mit Formulierungen wie „neue Möglichkeiten“ oder „persönliche Gründe“, um sich zurückzuziehen.
+Nicht dramatisch. Nur weg. Letzte Posts alle in demselben Zweiwochenfenster, alle mit Formulierungen wie „neue Möglichkeiten“ oder „persönliche Gründe“, um sich zurückzuziehen.
 
-Milo öffnete sein Tracking-Sheet. Trug Daten ein. Kreuzte Posting-Muster gegen bekannte HOA-Rekrutierungsphasen (geschätzt aus öffentlichen Eindämmungsberichten und Forum-Geraune).
+Milo öffnete seine Erfassungstabelle. Trug Daten ein. Kreuzte Posting-Muster gegen bekannte HOA-Rekrutierungsphasen (geschätzt aus öffentlichen Eindämmungsberichten und Forum-Geraune).
 
-Die Korrelation war… auffällig.
+Die Korrelation war auffällig.
 
 Kein Beweis. Aber auffällig.
 
@@ -112,13 +112,13 @@ Milo markierte die drei Usernames. Begann tiefer zu graben – gecachte Posts, S
 
 Wenn sie rekrutiert worden waren wie Jasons Team, ging es ihnen vielleicht gut. Überwacht, aber frei.
 
-Wenn sie abgelehnt hatten und verschwunden waren…
+Wenn sie abgelehnt hatten und verschwunden waren.
 
 Milo speicherte seine Arbeit. Verschlüsselte. Legte Backups an.
 
 Dann schickte er Jason eine Nachricht: *„Hab was gefunden. Nicht dringend, aber sollten wir besprechen. Nächstes Mal, wenn wir uns sehen.“*
 
-Jasons Antwort kam schnell: *„Notiert. Check-in mit Reeves in fünf Tagen. Danach regroupen wir.“*
+Jasons Antwort kam schnell: *„Notiert. Check-in mit Reeves in fünf Tagen. Danach sammeln wir uns.“*
 
 Milo lehnte sich zurück. Starrte auf die Screens.
 

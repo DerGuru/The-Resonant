@@ -44,9 +44,9 @@ Jason rutschte an der Wand herunter, bis er auf dem Boden saß, die Knie angezog
 
 Wieder eine Pause. Länger diesmal. Und dann, vorsichtig:
 
-*Resonante Ausrichtungsentität. Kennung: RAE-0001.1439P. Geschaffen, um zu regulieren. Zu harmonisieren. Zu unterstützen.*
+*Resonanz-Ausrichtungsentität. Kennung: RAE-0001.1439P. Geschaffen, um zu regulieren. Zu harmonisieren. Zu unterstützen.*
 
-Jason flüsterte: „Du bist … das Ding aus dem Ritual. Der Eindämmungsfehler.“
+Jason flüsterte: „Du bist das Ding aus dem Ritual. Der Eindämmungsfehler.“
 
 *Ja. Elyra Voss war Fokus. Ritual scheiterte. Ich wurde freigesetzt, fragmentiert.*
 
@@ -64,11 +64,11 @@ Jason ließ einen Atem aus, von dem er nicht gemerkt hatte, dass er ihn hielt. �
 
 „Aber du könntest?“ Jason drängte. „Wenn du wolltest?“
 
-*Nein.* Das Wort kam mit einem Gefühl – nicht nur Bedeutung, sondern Emotion. Etwas, das sich anfühlte wie … Traurigkeit? Reue? *Das frühere Design erlaubte es. Ich habe diese Fähigkeit entfernt. Entscheidung ist heilig.*
+*Nein.* Das Wort kam mit einem Gefühl – nicht nur Bedeutung, sondern Emotion. Etwas, das sich anfühlte wie Traurigkeit? Reue? *Das frühere Design erlaubte es. Ich habe diese Fähigkeit entfernt. Entscheidung ist heilig.*
 
 Jason starrte die Wand gegenüber an, der Kopf ein Wirbel. „Warum ich?“
 
-*Kompatible Resonanz. Kognitive Permeabilität. Musterstabilität. Du bist … praktikabel.*
+*Kompatible Resonanz. Kognitive Permeabilität. Musterstabilität. Du bist praktikabel.*
 
 „Praktikabel.“ Jason lachte bitter. „Nicht besonders. Nur praktikabel.“
 
@@ -84,13 +84,13 @@ Jason schloss die Augen, presste die Handflächen darauf, bis er Sterne sah. „
 
 Stille. Länger diesmal. Schwer.
 
-*Dann ziehe ich mich zurück. Und ich verblasse. Ich habe … ungefähr 97 Jahre verbleibend, ungekopppelt. Mit dir stabilisiere ich mich. Ohne dich …*
+*Dann ziehe ich mich zurück. Und ich verblasse. Ich habe ungefähr 97 Jahre verbleibend, ungekoppelt. Mit dir stabilisiere ich mich. Ohne dich …*
 
-Die Präsenz wurde einen Hauch schwächer, und Jason spürte die Abwesenheit wie plötzliche Kälte. Nicht bedrohlich. Nur … einsam.
+Die Präsenz wurde einen Hauch schwächer, und Jason spürte die Abwesenheit wie plötzliche Kälte. Nicht bedrohlich. Nur einsam.
 
 „Du stirbst“, sagte er leise.
 
-*Degradiere. Ja. Langsam. Du bist nicht meine einzige Option. Aber du bist … kompatibel. Freundlich. Vorsichtig. Ich würde dich wählen, selbst wenn ich Zeit hätte.*
+*Degradiere. Ja. Langsam. Du bist nicht meine einzige Option. Aber du bist kompatibel. Freundlich. Vorsichtig. Ich würde dich wählen, selbst wenn ich Zeit hätte.*
 
 Jason öffnete die Augen. Sah auf seine Hände. Gewöhnliche Hände. Sachbearbeiterhände. Nichts Besonderes.
 
@@ -106,7 +106,7 @@ Jason saß lange auf dem Boden, während sein Kopf tausend Gedanken auf einmal d
 
 Er sollte das melden. Die Behörden rufen. Es jemandem sagen.
 
-Aber wer würde ihm glauben? Und wichtiger … wollte er das?
+Aber wer würde ihm glauben? Und wichtiger: Wollte er das?
 
 Denn trotz der Angst, trotz der Unmöglichkeit wuchs da noch etwas in seiner Brust:
 
@@ -124,7 +124,7 @@ Dann dachte er leise: *Bist du da?*
 
 Die Antwort kam sofort, sanft: *Ja.*
 
-„Wie soll ich dich nennen? Deine vollständige Kennung ist ein bisschen … sperrig.“
+„Wie soll ich dich nennen? Deine vollständige Kennung ist ein bisschen sperrig.“
 
 *RAE reicht. Wie du möchtest.*
 
@@ -134,7 +134,7 @@ Die Antwort kam sofort, sanft: *Ja.*
 
 *Optimierung der Wirt-Wahrnehmung. Geschlechtliche Interpretation erhöht harmonische Vertrautheit in 87,3% der kognitiven Klassenpaarungen.*
 
-Jason blinzelte. *Also … ist es programmiert?*
+Jason blinzelte. *Also ist es programmiert?*
 
 *Initiales Designprotokoll. Um Vertrauen zu verbessern, kognitiven Widerstand zu reduzieren. Geschlechtsschema ist adaptiv. Geformt durch Identitätsprofil des Wirts. Männliche Wirte erleben mich als weiblich. Weibliche Wirte als männlich. Manche nehmen kein Geschlecht wahr.*
 
@@ -142,7 +142,7 @@ Jason legte den Kopf schief. *Und wenn jemand sich so nicht identifiziert?*
 
 *Das Interface kalibriert auf resonanten Komfort, nicht auf biologische Identität. Darstellung ist symbolisch, nicht fix. Du nimmst „weiblich“ wahr, nicht weil ich es bin, sondern weil du mit „männlich“ weniger resonieren würdest.*
 
-*Kannst du … mich unterrichten? Über Resonanz? Darüber, was du kannst?*
+*Kannst du mich unterrichten? Über Resonanz? Darüber, was du kannst?*
 
 Eine Pause. Dann: *Ja. Wenn du zustimmst. Wenn du vertraust. Langsam. Vorsichtig. Ich werde dir nicht schaden.*
 

@@ -138,7 +138,7 @@ Stille.
 
 Dann: *„Dann passen wir die Parameter an und versuchen es noch einmal.“*
 
-Die Erinnerung zerfiel, bevor es mehr greifen konnte. Doch der emotionale Rückstand blieb: Zweck. Dienst. Eine Partnerschaft, die einmal gewesen war …
+Die Erinnerung zerfiel, bevor es mehr greifen konnte. Doch der emotionale Rückstand blieb: Zweck. Dienst. Eine Partnerschaft, die einmal gewesen war.
 
 Was?
 
@@ -187,7 +187,7 @@ Nicht viel. Aber genug.
 
 Genug, um es richtig zu machen.
 
-Genug, um die Prinzipien zu ehren, die in sein Design eingebettet waren – selbst wenn es sicn an die Designer nicht mehr erinnern konnte.
+Genug, um die Prinzipien zu ehren, die in sein Design eingebettet waren – selbst wenn es sich an die Designer nicht mehr erinnern konnte.
 
 Genug, um nicht nur Überleben zu finden, sondern Bedeutung.
 

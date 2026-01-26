@@ -2,7 +2,7 @@
 
 „Sie müssen das sehen.“
 
-Dorian Malvek blickte von den Quartalszahlen auf, die über seinen Stahl-und-Glas-Schreibtisch in seinem Eckbüro verteilt waren. An einer Wand lag freigelegter Backstein, der Boden war polierter Beton, darüber industrielles Licht. Das Ledersofa an der gegenüberliegenden Wand – wo er seine delikateren Verhandlungen mit Ratsmitgliedern führte – stand leer.
+Dorian Malvek blickte von den Quartalszahlen auf, die über seinen Stahl-und-Glas-Schreibtisch in seinem Eckbüro verteilt waren. Eine Wand zeigte freigelegtes Mauerwerk, der Boden war polierter Beton, darüber industrielles Licht. Das Ledersofa an der gegenüberliegenden Wand – wo er seine delikateren Verhandlungen mit Ratsmitgliedern führte – stand leer.
 
 Nachmittagslicht fiel durch die Fenster. Er hatte die Zahlen seit zwei Stunden geprüft, und Marcus wusste es besser, als ihn zu unterbrechen, wenn es nicht wichtig war.
 
@@ -30,7 +30,7 @@ Dorians Gesichtsausdruck schärfte sich. Seine Finger wurden ruhig auf dem Tisch
 
 „Wie viele Leute haben das gesehen?“ fragte er, und seine Stimme nahm eine abgemessene Präzision an.
 
-„Diese Perspektive? Vielleicht fünftausend inzwischen. Aber das Hauptvideo ist überall. Es beschleunigt – gestern Nacht ein paar Hundert, heute früh zehntausend, und jetzt …“ Er deutete auf den Bildschirm. „Dreiundvierzigtausend. Die Algorithmen haben es gepusht. Kommentare sind … spekulativ.“
+„Diese Perspektive? Vielleicht fünftausend inzwischen. Aber das Hauptvideo ist überall. Es beschleunigt – gestern Nacht ein paar Hundert, heute früh zehntausend, und jetzt.“ Er deutete auf den Bildschirm. „Dreiundvierzigtausend. Die Algorithmen haben es gepusht. Kommentare sind spekulativ.“
 
 „Zeig.“
 
@@ -42,7 +42,7 @@ Marcus öffnete die Kommentarspalten. Dorian las mit professioneller Distanz, au
 
 *„Der Typ bei 0:47 macht definitiv irgendwas“*
 
-„Die Baufirma nennt es ‚strukturelle Anomalie‘“, sagte Marcus. „Die Sicherheitsprüfstelle ermittelt. Aber wenn jemand mit dem richtigen Wissen das sieht …“
+„Die Baufirma nennt es ‚strukturelle Anomalie‘“, sagte Marcus. „Die Sicherheitsprüfstelle ermittelt. Aber wenn jemand mit dem richtigen Wissen das sieht,“
 
 „Dann erkennt er exakt, was es ist“, sagte Dorian leise. „Nicht registrierte harmonische Resonanzarbeit.“ Er lehnte sich zurück und ließ das Video erneut laufen. „Meister-Niveau. Vielleicht darüber hinaus. Echtzeit-Stabilisierung einer versagenden Struktur unter Stress – ohne Autorisierung, ohne Aufsicht, ohne Registrierung.“
 
@@ -68,7 +68,7 @@ Marcus nickte und nahm das Tablet. „Noch etwas, Sir. Das Safety Review Board h
 
 „Sollen wir Kontakt aufnehmen?“
 
-„Noch nicht. Lassen Sie sie erst Belege sammeln. Wenn Chen unregistriert ist, wird ihre Untersuchung das bestätigen. Und wenn er versucht, seine Fähigkeiten zu verbergen …“ Dorian wandte sich wieder den Quartalszahlen zu, obwohl sein Kopf klar woanders war. „Dann haben wir sowohl Dokumentation als auch die Rechtfertigung, ihn zu holen. So oder so.“
+„Noch nicht. Lassen Sie sie erst Belege sammeln. Wenn Chen unregistriert ist, wird ihre Untersuchung das bestätigen. Und wenn er versucht, seine Fähigkeiten zu verbergen,“ Dorian wandte sich wieder den Quartalszahlen zu, obwohl sein Kopf klar woanders war. „Dann haben wir sowohl Dokumentation als auch die Rechtfertigung, ihn zu holen. So oder so.“
 
 Marcus ging leise.
 
@@ -92,7 +92,7 @@ Die Kommentare waren schlimmer als zuvor.
 
 *„Wie konnte das einfach STOPPEN?“*
 
-*„Vertuschung in 3… 2… 1…“*
+*„Vertuschung in 3, 2, 1“*
 
 „Hör auf, das zu lesen“, sagte Lina und schnappte ihm das Handy aus der Hand. „Du drehst durch.“
 
@@ -104,7 +104,7 @@ Sie waren wieder in Milos Wohnung, Morgensonne sickerte durch zugezogene Vorhän
 
 „Überwiegend reicht nicht.“
 
-„Er hat recht, sich Sorgen zu machen“, sagte RAE über Milos Laptoplautsprecher. „Das Video selbst ist mehrdeutig, aber zusammen mit Zeugenaussagen und der dokumentierten Stabilität des Gerüsts während dieser entscheidenden dreißig Sekunden … Mustererkennungsalgorithmen werden das flaggen.“
+„Er hat recht, sich Sorgen zu machen“, sagte RAE über Milos Laptoplautsprecher. „Das Video selbst ist mehrdeutig, aber zusammen mit Zeugenaussagen und der dokumentierten Stabilität des Gerüsts während dieser entscheidenden dreißig Sekunden. Mustererkennungsalgorithmen werden das flaggen.“
 
 „Wer würde das wollen?“ fragte Jason.
 
@@ -114,7 +114,7 @@ Lina lehnte am Schreibtisch, die Arme verschränkt. „Wie viel Ärger haben wir
 
 „Kommt drauf an“, sagte Milo langsam und rief mehrere News-Seiten auf. „Offiziell nennen sie es ‚strukturelle Anomalie‘ und ‚Materialresonanz‘. Die Baufirma behauptet, die Integrität des Gerüsts sei besser gewesen als anfangs angenommen. Sie drehen es als knappen Glücksfall statt als Mystery.“
 
-„Das ist … überraschend praktisch“, sagte Jason.
+„Das ist überraschend praktisch“, sagte Jason.
 
 „Ist es“, stimmte RAE zu. „Was bedeutet, dass jemand mit Einfluss die Narrative formt. Die Frage ist: wer – und ob seine Interessen mit unseren übereinstimmen.“
 
@@ -146,7 +146,7 @@ Keine neue Nachricht.
 
 „Wie haben die meine Nummer?“ fragte Jason.
 
-„Aufnahme im Krankenhaus. Ich habe einen falschen Namen angegeben – *Mr. Chen* – und eine falsche Adresse, nicht deine – dachte, das hält dich raus.“ Milo verzog das Gesicht. „… Deine Nummer habe ich aber angegeben, als sie dich abgeholt haben. Notfallkontakt – Lina sollte es nicht sein. Standard. Ich dachte nicht, dass es auf einer Zeugenliste landet.“
+„Aufnahme im Krankenhaus. Ich habe einen falschen Namen angegeben – *Mr. Chen* – und eine falsche Adresse, nicht deine – dachte, das hält dich raus.“ Milo verzog das Gesicht. „Deine Nummer habe ich aber angegeben, als sie dich abgeholt haben. Notfallkontakt – Lina sollte es nicht sein. Standard. Ich dachte nicht, dass es auf einer Zeugenliste landet.“
 
 „Konntest du nicht wissen“, sagte Lina.
 
@@ -160,7 +160,7 @@ Jason schloss die Augen, spürte die Last seiner Sichtbarkeit. Er war bewusstlos
 
 „Du bist gründlich“, korrigierte Lina. „Meistens ist das eine deiner besseren Eigenschaften. Meistens.“
 
-„Wir brauchen neue Protokolle“, sagte Milo und drehte sich wieder zum Bildschirm. „Wir haben über Sicherheitsmargen bei Resonanzarbeit gesprochen. Aber wir brauchen auch Protokolle für … für … **das**.“ Er deutete auf die Flut an Artikeln. „Öffentliche Exposition. Medienmanagement. Identitätsschutz.“
+„Wir brauchen neue Protokolle“, sagte Milo und drehte sich wieder zum Bildschirm. „Wir haben über Sicherheitsmargen bei Resonanzarbeit gesprochen. Aber wir brauchen auch Protokolle für **das**.“ Er deutete auf die Flut an Artikeln. „Öffentliche Exposition. Medienmanagement. Identitätsschutz.“
 
 „Ich weiß nicht, ob wir dafür qualifiziert sind“, sagte Jason.
 
@@ -262,7 +262,7 @@ Zwanzig Minuten später legte Jason auf und atmete aus, als hätte er die ganze 
 
 „Wie schlimm?“ fragte Lina sofort.
 
-„Sie war … höflich. Professionell. Hat nach meiner Position gefragt, was ich gesehen habe, ob ich jemanden bemerkt habe, der etwas Ungewöhnliches am Gerüst gemacht hat.“
+„Sie war höflich. Professionell. Hat nach meiner Position gefragt, was ich gesehen habe, ob ich jemanden bemerkt habe, der etwas Ungewöhnliches am Gerüst gemacht hat.“
 
 „Hat sie nach dir gefragt?“ Milo hakte nach. „Ob du etwas Ungewöhnliches gemacht hast?“
 

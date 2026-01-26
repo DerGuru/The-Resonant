@@ -48,7 +48,7 @@ Reeves machte eine Notiz. „Zuwachsrate?“
 
 Jason überlegte sorgfältig. „Nein. Alle, mit denen wir zu tun haben, sind entweder registriert, überwacht oder nicht aktiv resonanzfähig.“
 
-Reeves scrollte auf seinem Tablet durch Notizen. „Ihre Associateliste aus dem Vertrag. Statusabgleich: Ms. Morandi?“
+Reeves blätterte auf seinem Tablet durch Notizen. „Ihre Associateliste aus dem Vertrag. Statusabgleich: Ms. Morandi?“
 
 Jason entspannte sich einen Hauch. Das war Verifikation, kein Verhör. „Akademie-ausgebildet. Registriert über Suspendierungsakten. Legalstatus: kompliziert, aber dokumentiert. Keine Änderungen.“
 
@@ -122,7 +122,7 @@ Jason trank aus. Bezahlt. Ging.
 
 Draußen fühlte sich die Vormittagssonne wärmer an, als sie sollte.
 
-Sie wurden beobachtet. Aber sie wurden auch… vertraut.
+Sie wurden beobachtet. Aber sie wurden auch vertraut.
 
 Und Vertrauen, sobald es etabliert war, konnte man aufbauen.
 

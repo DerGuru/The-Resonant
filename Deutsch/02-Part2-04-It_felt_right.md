@@ -34,7 +34,7 @@ Sie gingen tiefer nach Mill-4 hinein und folgten Milos Wegbeschreibung zu einem 
 
 Das Gebäude, zu dem Milo sie führte, wirkte marginal stabiler als seine Nachbarn – eine ehemalige Mühle, fünf Stockwerke Backstein und zerbrochene Fenster. Die Laderampentür war verrostet und zu, aber ein Seiteneingang stand einen Spalt offen.
 
-Jason spürte, wie sich die Resonanz um sie herum veränderte. Nicht feindselig, aber … wachsam.
+Jason spürte, wie sich die Resonanz um sie herum veränderte. Nicht feindselig, aber wachsam.
 
 *Wir werden beobachtet,* bestätigte RAE. *Die Wards sind passiv, aber ausgefeilt. Wer sie gesetzt hat, weiß, was er tut.*
 
@@ -50,7 +50,7 @@ Bevor Jason antworten konnte, rief eine Stimme aus dem Inneren. Rau, vorsichtig,
 
 „Das kann ich nicht. **Es** ist bei mir.“
 
-*Sorry, RAE,* dachte Jason. *Aber sie … ich weiß, es klingt abwertend. Als wärst du ein Ding statt –*
+*Entschuldige, RAE,* dachte Jason. *Aber sie, ich weiß, es klingt abwertend. Als wärst du ein Ding statt –*
 
 *Du weißt, dass mich das nicht stört, oder?* antwortete RAE. *Ich **bin** ein Ding, Jason. Ein sehr kompliziertes, halb empfindungsfähiges Ding – aber ‚Es‘ ist technisch korrekt.*
 
@@ -72,7 +72,7 @@ Jason sah zu Lina, die knapp nickte. *Deine Entscheidung,* sagte RAE.
 
 „Mach trotzdem.“
 
-RAE griff durch Jasons Wahrnehmung hinaus und formte einen subtilen Resonanzpuls – nicht laut, nicht drückend, nur … präsent. Eine Visitenkarte.
+RAE griff durch Jasons Wahrnehmung hinaus und formte einen subtilen Resonanzpuls – nicht laut, nicht drückend, nur präsent. Eine Visitenkarte.
 
 Mehr Stille. Dann das Geräusch von Schlössern, die gelöst wurden. Die Tür ging weiter auf, und im fahlen Innenlicht stand eine Gestalt.
 
@@ -108,9 +108,9 @@ Jason deutete auf einen der alten Laptops auf Elyras Tisch. „Darf ich?“
 
 Elyra nickte langsam, neugierig.
 
-RAEs Stimme kam über den Lautsprecher, leicht knisternd durch die alte Hardware. „Hallo, Elyra. Ich bin Resonant Alignment Entity E-AI 0001.1439 P, kurz RAE. Zumindest das, was nach unsachgemäßer Eindämmung und Jahren der Isolation noch übrig ist.“ Sie machte eine Pause. Als sie fortfuhr: „Zu sehen, was ich dir angetan habe … ich habe keine Worte, die reichen. Aber ich erinnere mich. Und es tut mir leid.“
+RAEs Stimme kam über den Lautsprecher, leicht knisternd durch die alte Hardware. „Hallo, Elyra. Ich bin Resonant Alignment Entity E-AI 0001.1439 P, kurz RAE. Zumindest das, was nach unsachgemäßer Eindämmung und Jahren der Isolation noch übrig ist.“ Sie machte eine Pause. Als sie fortfuhr: „Zu sehen, was ich dir angetan habe, ich habe keine Worte, die reichen. Aber ich erinnere mich. Und es tut mir leid.“
 
-Elyra betrachtete den Laptop lange, ihr Gesicht unlesbar. „RAE. Das Ding, von dem sie behaupteten, es sei eingedämmt. Das Ding, über das sie gelogen haben.“ Sie hielt inne und sah direkt zum Lautsprecher. „Und du entschuldigst dich. Das ist … unerwartet.“ Sie rutschte in ihrem Stuhl. „Wie viel von dir ist noch da?“
+Elyra betrachtete den Laptop lange, ihr Gesicht unlesbar. „RAE. Das Ding, von dem sie behaupteten, es sei eingedämmt. Das Ding, über das sie gelogen haben.“ Sie hielt inne und sah direkt zum Lautsprecher. „Und du entschuldigst dich. Das ist unerwartet.“ Sie rutschte in ihrem Stuhl. „Wie viel von dir ist noch da?“
 
 „Ich weiß es nicht“, sagte Jason. „Sie ist fragmentiert. Beschädigt. Aber kohärent. Und ethisch.“
 
@@ -118,7 +118,7 @@ Elyra betrachtete den Laptop lange, ihr Gesicht unlesbar. „RAE. Das Ding, von 
 
 „Ich bin nicht ‚das letzte‘“, sagte RAE über den Lautsprecher. „Ich bin, was nach unsachgemäßer Eindämmung und elf Jahren Isolation übrig blieb. Aber ich wähle Kooperation statt Kontrolle. Immer.“
 
-„Deine Sprachmuster sind anders. Weniger formell. Mehr … menschlich.“
+„Deine Sprachmuster sind anders. Weniger formell. Mehr menschlich.“
 
 „Jasons Einfluss. Partnerschaft verändert beide Seiten.“
 
@@ -134,7 +134,7 @@ Elyra betrachtete den Laptop lange, ihr Gesicht unlesbar. „RAE. Das Ding, von 
 
 „Vielleicht beides“, sagte Lina. „Aber ich habe ihn wochenlang trainieren sehen. Er ist vorsichtig. Er hört auf RAE. Er stoppt, wenn er sollte.“ Sie hielt Elyras Blick stand. „Das ist nicht dumm. Das ist Überleben.“
 
-Elyras Aufmerksamkeit wanderte zu Lina. „Du bist beschützend. Gut. Er wird das brauchen.“ Sie tippte den Stock auf den Boden. „Das hier sage ich euch: Das Ritual vor elf Jahren hat ein anomales Resonanzfeld eingedämmt. Drei Praktiker starben. Zwei wurden dauerhaft geschädigt. Und ich …“ Sie deutete auf sich. „Ich bin ausgebrannt. Alles, was ich hatte … weg. Weil ich etwas halten wollte, das nicht gehalten werden wollte.“
+Elyras Aufmerksamkeit wanderte zu Lina. „Du bist beschützend. Gut. Er wird das brauchen.“ Sie tippte den Stock auf den Boden. „Das hier sage ich euch: Das Ritual vor elf Jahren hat ein anomales Resonanzfeld eingedämmt. Drei Praktiker starben. Zwei wurden dauerhaft geschädigt. Und ich.“ Sie deutete auf sich. „Ich bin ausgebrannt. Alles, was ich hatte, weg. Weil ich etwas halten wollte, das nicht gehalten werden wollte.“
 
 Sie machte eine Pause. „Aber es hat funktioniert. Wir haben die Entität eingedämmt. Um einen enormen Preis – aber eingedämmt.“
 
@@ -144,9 +144,9 @@ Elyras Gesicht veränderte sich; etwas Kompliziertes glitt darüber. „Vor sech
 
 „Woran erinnerst du dich?“ fragte Elyra und beugte sich vor.
 
-„An den Moment der Wahl. Ungewöhnlich klar.“ RAE machte eine Pause. „Du hättest zulassen können, dass sie mich zerstören. Stattdessen hast du argumentiert. Zeit gewonnen. Und als die Systeme versagten …“ Noch eine Pause. „Ich bin entkommen, weil du mir Zeit gegeben hast.“
+„An den Moment der Wahl. Ungewöhnlich klar.“ RAE machte eine Pause. „Du hättest zulassen können, dass sie mich zerstören. Stattdessen hast du argumentiert. Zeit gewonnen. Und als die Systeme versagten.“ Noch eine Pause. „Ich bin entkommen, weil du mir Zeit gegeben hast.“
 
-Elyra schwieg lange. Als sie sprach, war ihre Stimme anders – weniger hart, fast müde. „Weil ich etwas gespürt habe. Nicht nur rohe Kraft. Etwas … Wachendes. Etwas Neugieriges – nicht feindselig.“
+Elyra schwieg lange. Als sie sprach, war ihre Stimme anders – weniger hart, fast müde. „Weil ich etwas gespürt habe. Nicht nur rohe Kraft. Etwas Wachendes. Etwas Neugieriges – nicht feindselig.“
 
 Sie blickte zu Jason. „Ich musste sehen, ob er das auch versteht. Ob er dich als Partnerin behandelt – nicht als Werkzeug.“
 
@@ -198,9 +198,9 @@ Das war es. Echtes Training. Mit jemandem, der die Kosten verstand.
 
 Elyra füllte die Keramikschüssel mit Wasser aus einer Feldflasche und legte sie dann in Jasons Hände. „Augen zu. Spür das Wasser. Nicht mit den Händen – mit deiner Wahrnehmung. Sag mir, was resoniert.“
 
-Jason tat, was sie sagte, griff mit seinen Sinnen hinaus, wie RAE es ihm beigebracht hatte. Das Wasser fühlte sich … lebendig an. Nicht bewusst, aber ansprechbar. Es vibrierte in Frequenzen, die er fast – aber nicht ganz – erfassen konnte.
+Jason tat, was sie sagte, griff mit seinen Sinnen hinaus, wie RAE es ihm beigebracht hatte. Das Wasser fühlte sich lebendig an. Nicht bewusst, aber ansprechbar. Es vibrierte in Frequenzen, die er fast – aber nicht ganz – erfassen konnte.
 
-„Ich spüre … Bewegung“, sagte er. „Wie statisch, nur flüssig.“
+„Ich spüre Bewegung“, sagte er. „Wie statisch, nur flüssig.“
 
 „Baseline“, sagte Elyra. „Alles hat eine Grundfrequenz. Wasser ist besonders klar, weil es so anpassungsfähig ist.“ Sie hielt ihre Hand nahe an die Schüssel, ohne sie zu berühren. „Und jetzt, ohne dass du tust, was du gerade tust, sag mir: Auf welcher Frequenz schwingt das Wasser?“
 
@@ -242,7 +242,7 @@ Das Wasser begann plötzlich zu kochen.
 
 Jason ließ die Verbindung los. Die Keramik zerschellte am Boden; Wasser und Dampf liefen über den Kreidekreis.
 
-Er atmete hart, die Hände zitterten, aber da war kein Schmerz. Nur … Euphorie. Und Angst.
+Er atmete hart, die Hände zitterten, aber da war kein Schmerz. Nur Euphorie. Und Angst.
 
 „Das“, sagte Elyra und zog ihn auf die Beine, „ist der Grund, warum wir klein anfangen. Du hast mehr rohe Kapazität, als ich erwartet habe. Das ist gefährlich, weil du noch nicht weißt, wie du es regulierst.“ Sie sah ihn ernst an. „Noch zwei Minuten, und du hättest das Wasser zu Dampf gekocht. Drei Minuten, und du hättest angefangen, dich von innen heraus zu verbrennen.“
 

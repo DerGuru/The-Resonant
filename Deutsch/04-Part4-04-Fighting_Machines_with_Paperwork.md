@@ -14,15 +14,15 @@ Elyra war fünfzehn Minuten vor uns da gewesen, studierte Milos Anzeigen bereits
 
 „Was hast du gefunden?“ fragten wir.
 
-Milo drehte sich mit dem Stuhl zu uns um. „HOA. Ich habe mich da reingegraben, was es wirklich *ist*. Nicht, was sie uns erzählen – was sie tatsächlich sind. Struktur. Finanzierung. Autorität. Und es ist …“ Er hielt inne. „Es ist komplizierter, als ich erwartet habe.“
+Milo drehte sich mit dem Stuhl zu uns um. „HOA. Ich habe mich da reingegraben, was es wirklich *ist*. Nicht, was sie uns erzählen – was sie tatsächlich sind. Struktur. Finanzierung. Autorität. Und es ist“ Er hielt inne. „Es ist komplizierter, als ich erwartet habe.“
 
 Er rief ein Dokument auf – Organigramme, Budgetaufteilungen, juristische Rahmenwerke. Dicht. Technisch. Aber entlarvend.
 
-„HOA ist keine Regierungsbehörde“, sagte Milo. „Es ist ein quasi-staatliches Aufsichtsgremium. Hybridstruktur. Öffentlich-private Partnerschaft. Und das heißt: Es wird sowohl aus Steuergeldern finanziert als auch aus … anderen Quellen.“
+„HOA ist keine Regierungsbehörde“, sagte Milo. „Es ist ein quasi-staatliches Aufsichtsgremium. Hybridstruktur. Öffentlich-private Partnerschaft. Und das heißt: Es wird sowohl aus Steuergeldern finanziert als auch aus anderen Quellen.“
 
 „Welche anderen Quellen?“ fragte Lina.
 
-„Lizenzgebühren. Compliance-Audits. Bußgelder bei Verstößen.“ Milo markierte Abschnitte. „Jede Akademie zahlt Zertifizierungskosten. Jedes Unternehmen, das Resonanztechnologie nutzt, zahlt Inspektionsgebühren. Das System finanziert sich selbst – durch das System, das es reguliert.“
+„Lizenzgebühren. Konformitätsprüfungen. Bußgelder bei Verstößen.“ Milo markierte Abschnitte. „Jede Akademie zahlt Zertifizierungskosten. Jedes Unternehmen, das Resonanztechnologie nutzt, zahlt Inspektionsgebühren. Das System finanziert sich selbst – durch das System, das es reguliert.“
 
 „Das ist ein Interessenkonflikt“, sagte Elyra leise.
 
@@ -34,7 +34,7 @@ Wir spürten, wie sich etwas Kaltes in unserer Brust absetzte. „Also ist Malve
 
 „Das ist zynisch“, sagte Lina.
 
-„Das ist institutionelles Überleben“, korrigierte Elyra. „Organisationen schützen ihre Existenz. Das ist nicht böse. Das ist … strukturelle Realität.“
+„Das ist institutionelles Überleben“, korrigierte Elyra. „Organisationen schützen ihre Existenz. Das ist nicht böse. Das ist strukturelle Realität.“
 
 Milo rief ein weiteres Diagramm auf. „Hier ist die Hierarchie. Ganz oben: der Aufsichtsrat. Dreizehn Mitglieder. Vier von der Regierung ernannt. Vier von registrierten Akademien ausgewählt. Vier von lizenzierten Praktizierenden gewählt. Ein unabhängiger Schiedsrichter, vom Obersten Gericht eingesetzt.“
 
@@ -70,7 +70,7 @@ Milo rief Gesetzestext auf. „Der Harmonic Oversight and Safety Act. Vor einund
 
 Er scrollte durch dichten juristischen Text.
 
-„Schlüsselpassus: Artikel 17, Abschnitt 4. ‚HOA behält die Autorität, jede Person oder Entität mit hochriskanter Resonanzfähigkeit festzusetzen, einzudämmen oder zu beschränken, bis eine Sicherheitsbewertung abgeschlossen ist.‘ Kein Durchsuchungsbefehl. Keine richterliche Prüfung in den ersten zweiundsiebzig Stunden. Einfach … Autorität.“
+„Schlüsselpassus: Artikel 17, Abschnitt 4. ‚HOA behält die Autorität, jede Person oder Entität mit hochriskanter Resonanzfähigkeit festzusetzen, einzudämmen oder zu beschränken, bis eine Sicherheitsbewertung abgeschlossen ist.‘ Kein Durchsuchungsbefehl. Keine richterliche Prüfung in den ersten zweiundsiebzig Stunden. Einfach Autorität.“
 
 „Das ist der Käfig“, sagte Lina. „Daher kommt ihre Macht.“
 
@@ -82,7 +82,7 @@ Er scrollte durch dichten juristischen Text.
 
 Wir starrten auf die Displays und verarbeiteten. HOA war nicht bloß eine Aufsichtsbehörde. Es war ein Sicherheitsapparat, finanziert von dem System, das er kontrollierte, mit juristischer Autorität, die nicht angreifbar war – und der Menschen wie uns nicht als Praktizierende sah, sondern als potenzielle Bedrohungen.
 
-„Ist Malvek Teil davon?“ fragte Lina. „Also persönlich. Oder ist er nur …?“
+„Ist Malvek Teil davon?“ fragte Lina. „Also persönlich. Oder ist er nur?“
 
 „Komplizierte Frage.“ Milo rief Personalakten auf. „Dorian Malvek. Direktor für Entitätsmanagement seit sieben Jahren. Davor: Senior-Eindämmungsspezialist neun Jahre. Davor: Forschungsabteilung vier Jahre. Er ist seit zwanzig Jahren bei HOA. Sein gesamtes Erwachsenenleben.“
 
@@ -92,7 +92,7 @@ Wir starrten auf die Displays und verarbeiteten. HOA war nicht bloß eine Aufsic
 
 Milo markierte einen weiteren Abschnitt. „Aber schau dir seine tatsächliche Bilanz an. Eindämmungsaktionen: 47 in zwanzig Jahren. Autorisierte Terminierungen: 3. Alle drei waren Entitäten mit aktiv feindlicher Absicht und bestätigten Opfern.“
 
-„Drei Terminierungen in zwanzig Jahren“, sagte Lina. „Das ist … zurückhaltend.“
+„Drei Terminierungen in zwanzig Jahren“, sagte Lina. „Das ist zurückhaltend.“
 
 „Das ist selektiv“, korrigierte Elyra. „Malvek terminiert Entitäten nicht, weil sie gefährlich *sein könnten*. Er terminiert sie, weil sie *nachweislich* gefährlich sind. Evidenzbasiert. Nicht vorsorglich.“
 
@@ -136,7 +136,7 @@ Wir saßen einen Moment still und spürten das Gewicht institutioneller Realitä
 
 Wir spürten Eis in der Brust. „Fünfundneunzig Prozent.“
 
-„Du bist jetzt bei ungefähr siebenundsiebzig Prozent, laut letztem HOA-Scan“, sagte Milo leise. „Das gibt dir … ein bisschen Luft. Aber nicht für immer. Integration beschleunigt sich – und noch mehr unter Stress oder tiefer Resonanzarbeit. Die Marge schrumpft schneller, als du denkst.“
+„Du bist jetzt bei ungefähr siebenundsiebzig Prozent, laut letztem HOA-Scan“, sagte Milo leise. „Das gibt dir ein bisschen Luft. Aber nicht für immer. Integration beschleunigt sich – und noch mehr unter Stress oder tiefer Resonanzarbeit. Die Marge schrumpft schneller, als du denkst.“
 
 „Wann tritt das in Kraft?“ fragte Elyra scharf.
 

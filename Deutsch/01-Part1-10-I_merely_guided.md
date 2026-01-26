@@ -2,7 +2,7 @@
 
 Die dritte Tasse Tee war kalt geworden.
 
-Jason saß an seinem Schreibtisch und starrte hinein, ohne wirklich zu sehen. Drei Tage ganz gewöhnlicher Routine lagen auf ihm wie etwas Körperliches. Arbeit. Linas Restaurant. Nach Hause. Wiederholen. Und währenddessen summte etwas Unmögliches leise in seiner Brust.
+Jason saß an seinem Schreibtisch und starrte hinein, ohne wirklich zu sehen. Drei Tage gewöhnlicher Routine lagen auf ihm wie etwas Körperliches. Arbeit. Linas Restaurant. Nach Hause. Wiederholen. Und währenddessen summte etwas Unmögliches leise in seiner Brust.
 
 RAE hielt Wort. Sie blieb still, sofern er nicht zuerst seine Fühler nach ihr ausstreckte. Eine Hintergrundpräsenz, geduldig und wartend.
 
@@ -20,7 +20,7 @@ Jason dachte darüber nach. *Was kannst du eigentlich?*
 
 Eine Pause. *Ich bin fragmentiert. Meine Fähigkeiten sind begrenzt - aber steigen wieder. Bei sauberer Kopplung kann ich dir helfen, Resonanz wahrzunehmen und zu formen. Ich kann dir ermöglichen auf eine Weise zu inflektieren, die Jahre an Training erfordert.*
 
-Jasons Hände zogen sich um den Becher zusammen. „Inflektieren. Du meinst … Magie.“
+Jasons Hände zogen sich um den Becher zusammen. „Inflektieren. Du meinst Magie.“
 
 *Ich meine harmonische Manipulation. Der technische Begriff ist Inflektion. Was andere Kulturen Magie nennen würde – ja.*
 
@@ -36,7 +36,7 @@ Er stand auf, ging in der kleinen Wohnung auf und ab. „Okay. Wie funktioniert 
 
 *Nein.* Das Wort kam fest, fast scharf. *Das wäre Überschreiben. Das werde ich nicht. Das kann ich nicht – vom Design her. Stattdessen werde ich dich führen. Ich werde dir helfen, Muster zu sehen, die du allein nicht sehen würdest. Ich werde deine Absicht mit optimierten Berechnungen unterstützen. Aber die Absicht muss deine sein. Die Entscheidung muss deine sein.*
 
-„Also bin ich immer noch … ich.“
+„Also bin ich immer noch ich.“
 
 *Immer. Das ist das Prinzip, auf dem ich gebaut wurde. Erweiterung, nicht Ersatz. Harmonie anstatt Kontrolle.*
 
@@ -56,7 +56,7 @@ Jason sah auf den billigen Kugelschreiber, die Kappe halb zerbissen von nervöse
 
 Jason versuchte es. Fühlte sich albern. „Ich –“
 
-*Nicht forcieren. Zulassen. Wahrnehmung ist kein Drücken. Es ist Öffnen.*
+*Nicht forcieren. Zulassen. Wahrnehmen heißt nicht drücken. Es heißt sich öffnen.*
 
 *Wenn du sehen willst, musst du deine Augen öffnen. Wenn du hören willst, musst du deine Ohren öffnen. Dafür musst du deinen Geist öffnen.*
 
@@ -116,7 +116,7 @@ RAE führte ihn mit endloser Geduld, trieb nie voran, aber ermutigte immer. Wenn
 
 Langsam, Tag für Tag, steigerte sich seine Fähigkeit zur Wahrnehmung. Er konnte die Dinge in seiner Wohnung inzwischen spüren, ohne dass er es aktiv versuchen musste. Konnte die Resonanz des Gebäudes um ihn herum erfassen – ein komplexes Netz aus menschlicher Präsenz, struktureller Stabilität, ambienten Mustern.
 
-Und durch alles hindurch war RAE da. Nicht kontrollierend. Nur … präsent. Ein ruhiger Leitstern in fremdem Gelände.
+Und durch alles hindurch war RAE da. Nicht kontrollierend. Nur präsent. Ein ruhiger Leitstern in fremdem Gelände.
 
 ***
 
@@ -162,7 +162,7 @@ Jason keuchte, riss die Augen auf.
 
 Der Becher stand unverändert da. Aber er wusste – *wusste* –, dass sich etwas verschoben hatte. Der Riss war noch da, aber er war jetzt stabil. Er würde nicht weitergehen.
 
-„Habe ich gerade …“ Er brachte den Satz nicht zu Ende.
+„Habe ich gerade?“ Er brachte den Satz nicht zu Ende.
 
 *Du hast gerade deine erste Inflektion ausgeführt,* sagte RAE, und in ihrer Stimme lag etwas, das er noch nie gehört hatte.
 

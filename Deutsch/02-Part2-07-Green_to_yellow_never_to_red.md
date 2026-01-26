@@ -18,7 +18,7 @@ Jeder Morgen begann gleich: Wahrnehmungsdrills in der Halle. Jason in der Mitte,
 
 Jason dehnte seine Wahrnehmung aus, spürte, wie sich die Halle um ihn herum auflöste: die Schiffscontainer entlang der Wände. Alte Maschinen, die in den Ecken rosteten. Tauben, die in den Dachträgern nisteten.
 
-„Fünfzig Meter“, sagte er, und Anstrengung schlich sich in seine Stimme. Sein Kopfschmerz schob sich von Grün Richtung Gelb.
+„Fünfzig Meter“, sagte er, und Anstrengung schlich sich in seine Stimme. Der Kopfschmerz schob sich von Grün Richtung Gelb.
 
 „Halt“, sagte Elyra. „Zehn Sekunden. Zähl.“
 
@@ -36,7 +36,7 @@ Jason klappte seine Wahrnehmung dankbar zusammen und presste eine Hand an die Na
 
 „Fühlt sich nicht nach Fortschritt an“, murmelte Jason und nahm das Tuch.
 
-„Fortschritt fühlt sich selten so an, wenn du in Gelb arbeitest.“ Elyras Ton war sachlich. „So funktioniert Training: Du gehst an dein Limit, ruhst, gehst wieder hin. Stück für Stück verschiebt sich das Limit.“
+„Fortschritt fühlt sich selten so an, wenn man im Gelb-Bereich arbeitet.“ Elyras Ton war sachlich. „So funktioniert Training: Du gehst an dein Limit, ruhst, gehst wieder hin. Stück für Stück verschiebt sich das Limit.“
 
 ***
 
@@ -78,7 +78,7 @@ Schüssel. Riss in Sekunden versiegelt. Teller. Chip mühelos geglättet. Tasse.
 
 „Wie fühlt es sich an?“ fragte Elyra und beobachtete ihre Arbeit.
 
-„Wie … nach Hause kommen“, sagte Lina langsam. „Ich hab vergessen, wie sehr ich das vermisst habe. Die Präzision. Die Zufriedenheit, etwas wieder ganz zu machen.“
+„Wie nach Hause kommen“, sagte Lina langsam. „Ich hab vergessen, wie sehr ich das vermisst habe. Die Präzision. Die Zufriedenheit, etwas wieder ganz zu machen.“
 
 „Die Akademie hat dich gut ausgebildet“, stellte Elyra fest. „Auch wenn sie dich in anderen Punkten im Stich gelassen hat.“
 

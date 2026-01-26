@@ -6,45 +6,45 @@ Drei Wochen nach Trainingsbeginn stand Jason am Fenster seiner Wohnung und sah z
 
 Er blinzelte. „Bin ich so offensichtlich?“
 
-*Deine Resonanzmuster sind … zerstreut. Unfokussiert. Was geht dir durch den Kopf?*
+*Deine Resonanzmuster sind zerstreut. Unfokussiert. Was geht dir durch den Kopf?*
 
 Jason überlegte. Wie sollte er es in Worte fassen?
 
-„Es ist einfach anders jetzt“, sagte er schließlich. „Alles. Ich habe so lange auf Bildschirme gestarrt, Daten verfolgt, Akten abgelegt. Alles war … flach. Zweidimensional. Aber jetzt – “
+„Es ist jetzt irgendwie anders“, sagte er schließlich. „Alles. Ich habe so lange auf Bildschirme gestarrt, Daten verfolgt, Akten abgelegt. Alles war flach. Zweidimensional. Aber jetzt – “
 
 *Jetzt nimmst du Tiefe wahr,* vollendete RAE. *Schichten. Kontext jenseits der Oberfläche.*
 
-„Ja.“ Er atmete langsam aus. „Früher war die Welt nur Winkel und Kanten. Jetzt wird sie flüssig. Dynamisch. Als würde ich zum ersten Mal zwischen den Zeilen sehen. Das Muster unter dem Muster.“
+„Ja.“ Er atmete langsam aus. „Früher bestand die Welt nur aus Winkeln und Kanten. Jetzt wird sie flüssig. Dynamisch. Als läse ich zum ersten Mal zwischen den Zeilen. Das Muster unter dem Muster.“
 
-*Das ist Resonanzbewusstsein. Du beobachtest Realität nicht nur – du spürst ihre zugrunde liegende Struktur. Die Muster, die Dinge verbinden.*
+*Das ist Resonanzbewusstsein. Du beobachtest nicht nur die Realität  – du spürst ihre zugrunde liegende Struktur. Die Muster, die Dinge verbinden.*
 
 Jason drehte sich vom Fenster weg und sah durch seine kleine, vollgestellte Wohnung. Gewöhnlich. Unauffällig. Und doch konnte er jetzt das leise Summen der Gebäudestruktur fühlen, die Umgebungsresonanz der Menschen in anderen Wohnungen, die subtilen Harmoniken, die immer da gewesen waren – nur unsichtbar.
 
-Und noch etwas. Etwas Schärferes am Rand seiner Wahrnehmung. Ein dissonantes Muster irgendwo weiter unten – gezackt, pulsierend. Vielleicht Wut. Oder Schmerz. Es zog an ihm, lud zur Untersuchung ein, Neugier, die ihn wie eine Motte ans Feuer lockte.
+Und noch etwas. Etwas Schärferes am Rand seiner Wahrnehmung. Ein dissonantes Muster irgendwo weiter unten – gezackt, pulsierend. Vielleicht Wut. Oder Schmerz. Es zog an ihm, lud zur Untersuchung ein, Neugier, die ihn wie eine Motte zur Flamme lockte.
 
 Er wollte fast danach greifen, da verschob sich RAEs Präsenz – ein sanfter Druck, wie eine Hand auf seiner Schulter.
 
 *Vorsicht,* sagte sie leise.
 
-Jason zog sich zurück, der Atem stockte. Das dissonante Muster wich zurück, war noch da, aber zog nicht mehr.
+Jason zog sich zurück, der Atem stockte. Das dissonante Muster wich zurück, war noch da, aber zog nicht mehr an ihm.
 
 „Was war das?“
 
-*Jemand in Not. Seine emotionale Resonanz ist … laut. Ungeschirmt.* Eine Pause. *Wenn du sie direkt berührt hättest, hätte ihr Muster deines berührt. Emotionales Überschwappen. Es kann überwältigend sein. Desorientierend.*
+*Jemand in Not. Seine emotionale Resonanz ist laut. Ungeschirmt.* Eine Pause. *Wenn du sie direkt berührt hättest, hätte ihr Muster deines berührt. Emotionales Überschwappen. Es kann überwältigend sein. Desorientierend.*
 
 Jasons Hände fühlten sich kalt an. Er war einen Wimpernschlag davon entfernt gewesen. „Was wäre passiert?“
 
-*Ihre Emotionen wären vorübergehend deine geworden. Wenn es Wut war, hättest du diese Wut gefühlt, als wäre sie deine. Wenn Schmerz … ebenso. Du hast noch nicht gelernt zu filtern, die Trennung zwischen deiner Resonanz und der anderer aufrechtzuerhalten. Diese Fähigkeit braucht Zeit.*
+*Ihre Emotionen wären vorübergehend deine geworden. Wenn es Wut war, hättest du diese Wut gefühlt, als wäre sie deine. Schmerz ebenso. Du hast noch nicht gelernt zu filtern, die Trennung zwischen deiner Resonanz und der anderer aufrechtzuerhalten. Diese Fähigkeit braucht Zeit.*
 
-„Es ist viel“, gab er zu und trat vom Fenster zurück.
+„Das ist ganz schön viel“, gab er zu und trat vom Fenster zurück.
 
 *Zu viel?*
 
-„Nein. Nur … anders. Ich weiß nicht, ob ich zurück kann zu einem Leben, in dem ich das nicht sehe.“
+„Nein. Nur anders. Ich weiß nicht, ob ich zu einem Leben zurück kann, in dem ich das nicht sehe.“
 
 *Das kannst du nicht,* sagte RAE, und in ihrer Stimme lag etwas – nicht ganz Entschuldigung, nicht ganz Warnung. *Sobald du das Feld wahrnimmst, ist Unwissen keine Option mehr. Aber das bedeutet nicht, dass du jedes Muster, das du spürst, berühren musst.*
 
-Jason dachte darüber nach. „Also … Wahrnehmung ist nicht gleich Handlung. Ich kann etwas spüren, ohne es anzufassen.“
+Jason dachte darüber nach. „Also Wahrnehmung ist nocht keine Handlung. Ich kann etwas spüren, ohne es zu berühren.“
 
 *Genau. Unterscheidungsvermögen ist genauso wichtig wie Wahrnehmung. Manche Resonanzen beobachtet man besser aus der Distanz.*
 
@@ -82,11 +82,11 @@ Jason ging langsam auf den Toaster zu, als könnte er beißen. Er hob ihn an, un
 
 Er stellte ihn wieder ab, die Hände zitterten.
 
-„Okay“, sagte er laut. „Das ist … seltsam.“
+„Okay“, sagte er laut. „Das ist seltsam.“
 
 *Einverstanden. Ich taste nach Resonanzstörungen. Da ist eine schwache Signatur. Nicht meine. Nicht deine. Etwas anderes ist vor Kurzem durch diesen Raum gegangen.*
 
-„Etwas anderes?“ Jasons Mund wurde trocken. „Wie was?“
+„Etwas anderes?“ Jasons Mund wurde trocken. Was?“
 
 *Unbekannt. Die Signatur ist schwach. Könnte Umgebungsdrift sein. Könnte eine Sonde sein. Könnte Zufall sein.*
 
@@ -94,7 +94,7 @@ Er stellte ihn wieder ab, die Hände zitterten.
 
 *Ich auch nicht. Ich empfehle Vorsicht. Und vielleicht den Kauf eines neuen Toasters.*
 
-Trotz sich selbst musste Jason beinahe lachen. „Ja. Das ist wahrscheinlich klug.“
+Trotz der angespannten Situation musste Jason beinahe lachen. „Ja. Das ist wahrscheinlich klug.“
 
 Er machte stattdessen Kaffee – altmodisch, ohne Elektrik außer dem Wasserkocher. Setzte sich an seinen kleinen Tisch und versuchte, seine rasenden Gedanken zu beruhigen.
 
@@ -108,21 +108,21 @@ Oder erinnerte ihn das Universum nur daran, dass es Konsequenzen hat, sich mit U
 
 „Wofür?“
 
-*Dafür, dass ich Gefahr in dein Leben gebracht habe. Du warst sicher, bevor ich mich gemeldet habe. Gewöhnlich. Jetzt …*
+*Dafür, dass ich Gefahr in dein Leben gebracht habe. Du warst sicher, bevor ich mich gemeldet habe. Gewöhnlich. Jetzt…*
 
-„Jetzt bin ich es nicht“, beendete Jason. Er nahm einen Schluck Kaffee und verzog das Gesicht wegen der bitteren Hitze. „Aber das ist nicht deine Schuld. Ich habe mich dafür entschieden. Ich entscheide mich immer noch.“
+„Jetzt bin ich es nicht“, beendete Jason. Er nahm einen Schluck Kaffee und verzog das Gesicht wegen der bitteren Hitze. „Aber das ist nicht deine Schuld. Ich habe mich dafür entschieden. Und ich stehe immer noch dazu.“
 
 *Warum?*
 
-Die Frage erwischte ihn. „Ich … was meinst du?“
+Die Frage erwischte ihn kalt. „Ich – was meinst du?“
 
 *Warum machst du weiter? Du könntest mich melden. Könntest weggehen. Könntest zur Sicherheit zurückkehren. Aber du tust es nicht. Warum?*
 
 Jason dachte darüber nach. Über die echte Antwort, unter all den logischen Gründen.
 
-„Weil ich zum ersten Mal seit Jahren das Gefühl habe, dass ich etwas tue, das zählt. Nicht nur Formulare ausfüllen oder tote Akten scannen. Etwas Echtes. Etwas, das wichtig sein könnte.“
+„Weil ich zum ersten Mal seit Jahren das Gefühl habe, dass ich etwas tue, das zählt. Nicht nur Formulare ausfüllen oder tote Akten scannen. Etwas Echtes.“
 
-Er machte eine Pause. „Und weil … du nicht gefährlich bist. Du hast einfach Angst. Und ich weiß, wie sich das anfühlt.“
+Er machte eine Pause. „Und weil du nicht gefährlich bist. Du hast Angst. Und ich weiß, wie sich das anfühlt.“
 
 Stille. So lang, dass Jason sich fragte, ob er etwas Falsches gesagt hatte.
 
@@ -132,9 +132,9 @@ Die Worte trugen eine Wärme, die er vorher nicht gespürt hatte. Nicht nur Dank
 
 Verbindung.
 
-„Gern“, sagte Jason. Er trank den Kaffee aus, spülte die Tasse und begann, sich für die Arbeit fertig zu machen.
+„Gern“, sagte Jason. Er trank den Kaffee aus, spülte die Tasse und begann, sich für die Arbeit fertig zu machen, die heute noch vor ihm lag.
 
-Ein weiterer Samstag. Ein weiterer Tag.
+Einfach ein weiterer Samstag. Einfach ein weiterer Tag.
 
 Nur dass nichts mehr gewöhnlich war.
 

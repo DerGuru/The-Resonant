@@ -21,7 +21,7 @@ Jason starrte auf den blinkenden Cursor auf seinem Bildschirm.
 
 Der Bericht für Alkove-27 war fällig. Schon wieder. Er hatte den Ordner offen, das Formular geladen, die richtige Zonierungskarte als Layer im Interface. Alles, was er tun musste, war die Einschätzung tippen.
 
-Stattdessen driftete sein Blick zur Seitenregisterkarte – **„Unsortierte Ausnahmen“**. Ein langweiliger Titel für seltsame Dinge, die das System nicht ganz einordnen konnte. Die meisten waren Glitches. Korrupte Einträge. Dateigeister. Aber manche hatten … Namen.
+Stattdessen driftete sein Blick zur Seitenregisterkarte – **„Unsortierte Ausnahmen“**. Ein langweiliger Titel für seltsame Dinge, die das System nicht ganz einordnen konnte. Die meisten waren Glitches. Korrupte Einträge. Dateigeister. Aber manche hatten Namen.
 
 Zumindest einer.
 
@@ -34,7 +34,7 @@ Jason runzelte die Stirn. Wieder dieser Name.
 
 Voss.
 
-Er zögerte, dann klickte er. Der Bildschirm verschwamm einen Hauch. Ein Flackern – und dann öffnete sich das Dokument.
+Er zögerte, dann klickte er. Der Bildschirm verschwamm um einen Hauch. Ein Flackern – und dann öffnete sich das Dokument.
 
 Es war nicht viel. Nur Fragmente. Ein Zeitstempel. Ein Name. Ein beschädigtes Inflektionsschema ohne Übersetzungs-Tag.
 
@@ -46,7 +46,7 @@ Jason blinzelte. Dieses Alias hatte er schon einmal gesehen.
 
 _Mirror.Vox_
 
-Er lehnte sich zurück. Eine langsame Kälte kroch ihm die Wirbelsäule hinauf – nicht Angst, eher wieder dieses Erkennen. Als wüsste etwas in ihm, dass er gerade an etwas rührte, das größer war als er.
+Er lehnte sich zurück. Eine langsame Kälte kroch ihm die Wirbelsäule hinauf – nicht aus Angst, eher dieses erneute Erkennen. Als wüsste etwas in ihm, dass er gerade an etwas rührte, das größer war als er.
 
 ***
 
@@ -114,7 +114,7 @@ Etwas in ihm.
 
 Er schloss die Augen. Versuchte zu schlafen.
 
-Und in dem Raum zwischen Wachen und Träumen hörte er es wieder:
+Und im Raum zwischen Wachen und Träumen hörte er es wieder:
 
 Einen Ton. Rein. Klar. Resonant.
 

@@ -6,13 +6,13 @@ Nicht der scharfe, gefährliche Schmerz von Orange oder Rot. Nur ein hartnäckig
 
 Jason war sich nicht sicher, ob eine von beiden recht hatte.
 
-„Noch mal“, sagte Elyra und klopfte mit dem Stock auf den Boden. Nicht hart – gerade genug, um den Punkt zu setzen. „Du zwingst es. Resonanz reagiert nicht auf rohe Gewalt.“
+„Noch mal“, sagte Elyra und klopfte mit dem Stock auf den Boden. Nicht hart – gerade genug, um den Punkt zu setzen. „Du zwingst es. Resonanz gehorcht keiner rohen Gewalt.“
 
-Jason atmete ein, fokussierte die Keramikschüssel vor ihm. Die Aufgabe war in der Theorie simpel: die harmonische Signatur der Schüssel spüren und die eigene Resonanz daran angleichen. Nicht verändern. Nicht manipulieren. Nur … harmonisieren.
+Jason atmete ein, fokussierte die Keramikschüssel vor ihm. Die Aufgabe war in der Theorie simpel: die harmonische Signatur der Schüssel spüren und die eigene Resonanz daran angleichen. Nicht verändern. Nicht manipulieren. Nur harmonisieren.
 
 Er versuchte es seit vierzig Minuten.
 
-„Ich kann es fühlen“, sagte er. „Die Frequenz. Es ist wie … 438 Hz? Vielleicht 440?“
+„Ich kann es fühlen“, sagte er. „Die Frequenz. Es ist wie 438 Hz? Vielleicht 440?“
 
 „441“, korrigierte Elyra. „Und fühlen reicht nicht. Du musst dich ausrichten. Teil desselben Resonanzfelds werden.“
 
@@ -42,7 +42,7 @@ Jason öffnete die Augen und sah die Schüssel an. Schlichte Keramik. Leicht ang
 
 Aber sie hatte eine Signatur. Ein Muster. Eine Art, im harmonischen Feld zu existieren.
 
-Er ließ seine Wahrnehmung ausgreifen. Nicht zwingen. Nur … beobachten.
+Er ließ seine Wahrnehmung ausgreifen. Nicht zwingen. Nur beobachten.
 
 Die Schüssel löste sich in seiner Aufmerksamkeit auf. Nicht als Objekt, sondern als Sammlung von Resonanzen. Ton, bei hoher Temperatur gebrannt. Glasur aufgetragen und erhitzt. Mikrorisse von Jahren der Nutzung. All das ergab einen einzigartigen harmonischen Fingerabdruck.
 
@@ -50,7 +50,7 @@ Die Schüssel löste sich in seiner Aufmerksamkeit auf. Nicht als Objekt, sonder
 
 Und darunter Harmonische. Obertöne. Ein ganzes Orchester aus Frequenzen, das zusammen die Identität der Schüssel bildete.
 
-Jason versuchte nicht, es zu matchen. Er … hörte einfach zu.
+Jason versuchte nicht, es zu matchen. Er hörte einfach zu.
 
 Und langsam begann seine eigene Resonanz in Richtung Ausrichtung zu driften.
 
@@ -62,11 +62,11 @@ Seine Wahrnehmung der Schüssel schärfte sich. Er konnte den Temperaturuntersch
 
 „Sehr gut“, sagte Elyra. „Und jetzt sag mir: Woraus besteht die Schüssel?“
 
-„Keramik. Gebrannter Ton.“ Jason hielt seinen Fokus steady. „Kaolin wahrscheinlich. Etwas Feldspat. Die Glasur ist … bleihaltig? Nein, das ist verboten. Dann eher Zinnoxid. Vielleicht Zink.“
+„Keramik. Gebrannter Ton.“ Jason hielt seinen Fokus steady. „Kaolin wahrscheinlich. Etwas Feldspat. Die Glasur ist bleihaltig? Nein, das ist verboten. Dann eher Zinnoxid. Vielleicht Zink.“
 
 „Woher weißt du das?“
 
-„Ich kann es schmecken. Nicht wörtlich, aber … Resonanz hat Geschmack. Zinnoxid hat diese scharfe, klare Signatur. Und im Tonkörper ist Eisen – ich spüre die leichte magnetische Reaktion.“
+„Ich kann es schmecken. Nicht wörtlich, aber Resonanz hat Geschmack. Zinnoxid hat diese scharfe, klare Signatur. Und im Tonkörper ist Eisen – ich spüre die leichte magnetische Reaktion.“
 
 Elyra schwieg einen Moment. Dann: „Augen auf.“
 
@@ -80,7 +80,7 @@ Jason spürte einen kleinen Stich Sorge. „Ist das sicher?“
 
 „Ist okay“, sagte Elyra. „Integration schwankt bei aktiver Arbeit. Die Baseline ist, was zählt. Und deine hält bei 42%.“ Sie nahm die Schüssel hoch und drehte sie um. „Diese Schüssel ist achtzig Jahre alt. Produziert 1945. Die Glasur ist tatsächlich zinnoxidbasiert – sie sind im Krieg wegen Engpässen von Blei umgestiegen. Und ja, im Tonkörper ist Eisenoxid. Ungefähr 3% nach Gewicht.“
 
-Sie stellte sie behutsam ab. „Du hast das alles über Resonanz allein wahrgenommen. Das ist kein Anfängerlevel, Jason. Das ist kompetente Praxis.“
+Sie stellte sie behutsam ab. „Du hast das alles über Resonanz allein wahrgenommen. Das ist kein Anfängerniveau, Jason. Das ist kompetente Praxis.“
 
 Die Worte legten sich über ihn wie Wärme. Kompetent. Nicht großartig. Nicht meisterhaft. Aber kompetent.
 

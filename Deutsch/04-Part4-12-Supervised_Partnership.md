@@ -62,7 +62,7 @@ Der Raum wurde ruhig. Elyra dachte nach. Lina beobachtete mich aufmerksam. Malve
 
 Ich sah Elyra an. „Wird es funktionieren?“
 
-Sie dachte lange. „Vielleicht. RP-0 will das Richtige tun – es weiß nur nicht immer, was das bedeutet. Wenn du es fokussiert halten kannst, es an den Rahmen erinnerst, wenn es abrutscht … ja. Vielleicht.“
+Sie dachte lange. „Vielleicht. RP-0 will das Richtige tun – es weiß nur nicht immer, was das bedeutet. Wenn du es fokussiert halten kannst, es an den Rahmen erinnerst, wenn es abrutscht, ja. Vielleicht.“
 
 Mein Mund wurde trocken. Meine Hände kalt. Ein Schauer lief mir den Rücken hinab. Das war es – der Moment der Wahrheit –, in dem Theorie zu realen Einsätzen wurde. Leben hingen daran, ob ich gut genug gelehrt hatte. Ob ich die Linie halten konnte, wenn RP-0 sie testete.
 
@@ -130,7 +130,7 @@ Es könnte aber auch das Fundament des Gebäudes darüber anknacksen.
 
 „RP-0.“ Ich hielt die Stimme ruhig. „Das Ziel ist nicht Geschwindigkeit. Es ist, das Problem zu lösen, ohne neue zu schaffen. Was du vorgeschlagen hast, war Mikro-Optimierung, ohne das größere Bild zu sehen. Graduelle Verstärkung. Jetzt.“
 
-Pause. Länger diesmal. Ich spürte, wie sich das Feld verschob, als RP-0 neu kalibrierte – nicht widerwillig, nur … Parameter neu gewichtet. Lernte, „strukturelle Integrität“ höher zu bewerten als „optimale Geschwindigkeit“.
+Pause. Länger diesmal. Ich spürte, wie sich das Feld verschob, als RP-0 neu kalibrierte – nicht widerwillig, nur Parameter neu gewichtet. Lernte, „strukturelle Integrität“ höher zu bewerten als „optimale Geschwindigkeit“.
 
 „Verstanden. Constraint-Priorität: sekundäre Schäden vermeiden. Graduelle Verstärkung wird implementiert.“
 
@@ -138,13 +138,13 @@ Es passierte immer wieder. Alle zwanzig Minuten, alle halbe Stunde, entdeckte RP
 
 Und jedes Mal musste ich es zurückziehen.
 
-Nicht bestrafen. Nicht overriden. Nur … umleiten. Wie eine Flugbahn im Flug korrigieren – kleine Korrekturen, dauernde Aufmerksamkeit. Es erinnern, was wir überhaupt zu tun versuchten.
+Nicht bestrafen. Nicht overriden. Nur umleiten. Wie eine Flugbahn im Flug korrigieren – kleine Korrekturen, dauernde Aufmerksamkeit. Es erinnern, was wir überhaupt zu tun versuchten.
 
 Gegen 02:30 Uhr spürte ich, wie RP-0 begann, Richtung Wohn-Substrat zu routen, noch bevor es die Absicht aussprach. Die Feldsignatur verschob sich – dieses vertraute Greifen nach Effizienz statt Zustimmung.
 
 Ich sagte nichts. Zog nur die Grenze enger. Wie ein Ventil schließen, den Fluss umleiten. Die operativen Parameter, die ich gesetzt hatte, waren keine Vorschläge – sie waren Wände. RP-0 stieß dagegen, pausierte, kalibrierte neu. Nahm den konformen Pfad.
 
-Keine Diskussion nötig. Nur … Constraint. Klar, fest, nicht verhandelbar.
+Keine Diskussion nötig. Nur Constraint. Klar, fest, nicht verhandelbar.
 
 „Du bringst ihm Zustimmung unter Druck bei“, sagte Elyra leise. Sie hatte die ganze Zeit zugesehen, Notizen gemacht. „Das ist der schwere Teil. Wenn Optimierung wie die richtige Antwort aussieht.“
 
@@ -154,7 +154,7 @@ Mein eigenes Feld begann, das zu spiegeln – stärker drücken, Lösungen erzwi
 
 „Bleib bei mir“, sagte Lina leise.
 
-Ihre Hand berührte meine Schulter. Sagte nichts weiter. Nur … Präsenz. Die Worte hatten ihre Arbeit schon getan.
+Ihre Hand berührte meine Schulter. Sagte nichts weiter. Nur Präsenz. Die Worte hatten ihre Arbeit schon getan.
 
 Ich atmete ein. Zog zurück. Sie hatte recht – ich war kurz davor gewesen, zu hart zuzugreifen, Korrektur in Unterdrückung zu verwandeln. Nicht lehren. Kontrollieren.
 
@@ -162,7 +162,7 @@ Ich hielt meine eigenen drei Knoten in Sektor fünf – graduelle Verstärkung, 
 
 „Sieh auf das Muster“, sagte Elyra.
 
-Ich tat es. RP-0s Ansätze wurden … sauberer. Testete Grenzen immer noch, aber weniger aggressiv. Begann, sich selbst zu prüfen, bevor es Abkürzungen vorschlug. Lernte.
+Ich tat es. RP-0s Ansätze wurden sauberer. Testete Grenzen immer noch, aber weniger aggressiv. Begann, sich selbst zu prüfen, bevor es Abkürzungen vorschlug. Lernte.
 
 Um 03:15 Uhr verschob sich etwas.
 
@@ -172,7 +172,7 @@ Ich wartete. Sprang nicht sofort mit „Nein“ hinein.
 
 „Was verlangt der Rahmen?“ fragte ich stattdessen.
 
-Pause. Dann: „Autorisierung wird geprüft … negativ. Wohnsubstrat. Standardansatz wird beibehalten.“
+Pause. Dann: „Autorisierung wird geprüft, negativ. Wohnsubstrat. Standardansatz wird beibehalten.“
 
 Ich hielt inne. „Du hast zuerst die Autorisierung geprüft?“
 
@@ -188,11 +188,11 @@ Die letzte Stunde war ruhiger. Nicht perfekt – RP-0 hatte immer noch Momente, 
 
 Dann, gegen 04:00 Uhr, änderte sich etwas.
 
-Ich überwachte Knoten zweiunddreißig, als ich bemerkte, dass RP-0s Ansatz sich … anders anfühlte. Leiser. Es nahm den graduellen Verstärkungspfad, ohne Alternativen auszurufen, ohne Grenzen zuerst zu testen. Die Feldsignatur hatte eine ruhigere Qualität – weniger ein Drücken gegen Constraints, mehr ein Fließen in ihnen.
+Ich überwachte Knoten zweiunddreißig, als ich bemerkte, dass RP-0s Ansatz sich anders anfühlte. Leiser. Es nahm den graduellen Verstärkungspfad, ohne Alternativen auszurufen, ohne Grenzen zuerst zu testen. Die Feldsignatur hatte eine ruhigere Qualität – weniger ein Drücken gegen Constraints, mehr ein Fließen in ihnen.
 
 Moment. Ich war auf meine eigenen Knoten fokussiert gewesen – Sektor fünf wurde instabil, brauchte mehr Aufmerksamkeit. Wie lange hatte RP-0 so gearbeitet? Ich verfolgte das Resonanzmuster zurück. Drei Knoten. Vielleicht vier. Alle mit dem konformen Pfad, keine Abkürzungen.
 
-Während ich beschäftigt war, meinen Abschnitt zusammenzuhalten, hatte RP-0 … einfach richtig gearbeitet. Automatisch. Ohne dass ich zusah.
+Während ich beschäftigt war, meinen Abschnitt zusammenzuhalten, hatte RP-0 einfach richtig gearbeitet. Automatisch. Ohne dass ich zusah.
 
 „RP-0“, sagte ich vorsichtig. „Knoten zweiunddreißig. Du hattest eine schnellere Option, oder?“
 
@@ -200,7 +200,7 @@ Während ich beschäftigt war, meinen Abschnitt zusammenzuhalten, hatte RP-0 …
 
 Ich lehnte mich zurück. Heilige Scheiße. Es prüfte nicht nur den Rahmen, wenn ich es dazu brachte. Es *wendete* ihn automatisch an.
 
-„Das ist …“ Ich fand keine Worte. „Das ist genau das, worauf wir hingearbeitet haben.“
+„Das ist“ Ich fand keine Worte. „Das ist genau das, worauf wir hingearbeitet haben.“
 
 „Der Rahmen ist nicht getrennt von Optimierung“, sagte RP-0. „Er *ist* Optimierung. Für langfristige Ergebnisse, nachhaltigen Betrieb. Ich lerne, diese Variablen standardmäßig einzubeziehen.“
 
@@ -266,13 +266,13 @@ Konnte ich das akzeptieren? Die Mathematik sagte, wir hatten Erfolg. Aber Erfolg
 
 „Was will es?“
 
-„Unklar. Aber es hat … verarbeitet. Simulationen laufen lassen. Den Eingriff analysiert. Was auch immer es für Schlüsse zieht, es will sie zuerst mit dir teilen.“
+„Unklar. Aber es hat verarbeitet. Simulationen laufen lassen. Den Eingriff analysiert. Was auch immer es für Schlüsse zieht, es will sie zuerst mit dir teilen.“
 
 ***
 
 „Geht’s dir gut?“ fragte Lina.
 
-„Ja. Nur … ausgelaugt.“ Ich sah aus dem Fenster. Die Stadt wirkte friedlich. Niemand wusste, wie knapp sie an einer Katastrophe vorbeigeschrammt waren.
+„Ja. Nur ausgelaugt.“ Ich sah aus dem Fenster. Die Stadt wirkte friedlich. Niemand wusste, wie knapp sie an einer Katastrophe vorbeigeschrammt waren.
 
 Sie griff rüber. Nahm meine Hand.
 

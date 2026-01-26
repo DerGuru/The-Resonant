@@ -26,7 +26,7 @@ Keine Frage. Eine Bewertung. Ich wusste, er baute einen Fall auf.
 
 Eine Pause. Ich konnte ihn fast dabei hören, wie er meine Begründung gegen die Protokollanforderungen wog.
 
-„Fünfzehn Minuten tiefe, nicht eingeplante Resonanzarbeit“, sagte Malvek schließlich. In seiner Stimme lag weniger Anklage, als ich erwartet hatte – eher … Einschätzung. „Das ist die Art Intensität, die Integrationssprünge auslösen kann. Sie wissen das, Jason. Was bedeutet, Sie haben das Risiko akzeptiert.“
+„Fünfzehn Minuten tiefe, nicht eingeplante Resonanzarbeit“, sagte Malvek schließlich. In seiner Stimme lag weniger Anklage, als ich erwartet hatte – eher Einschätzung. „Das ist die Art Intensität, die Integrationssprünge auslösen kann. Sie wissen das, Jason. Was bedeutet, Sie haben das Risiko akzeptiert.“
 
 „So einfach ist das nicht“, widersprach ich. „Das Ritual sollte eigentlich straightforward sein – leicht, kontrolliert, oberflächlich. Ich sollte nur ein glattes harmonisches Bett liefern. Aber Elys Schaden ging tiefer, als wir erwartet hatten. Was einfaches Musterglätten hätte sein sollen, wurde etwas Intensiveres. Ich musste tiefer gehen, mehr investieren.“
 
@@ -34,7 +34,7 @@ Eine Pause. Ich konnte ihn fast dabei hören, wie er meine Begründung gegen die
 
 Ja – ich hätte auf HOA-Aufsicht warten können. Aber ich wusste, dass Elyra mir geholfen hatte, als niemand sonst verstand, was mit RAE und mir passierte. Sie hatte ihre Sicherheit, ihren Stand, ihre Karriere riskiert, um mir Kontrolle beizubringen, als ich gefährlich und verzweifelt gewesen war. Mitten im Ritual auszusteigen wäre unmöglich gewesen.
 
-„Ich hätte es melden können“, gab ich zu. „Wahrscheinlich sogar sollen. Aber als die Komplikationen kamen – mitten im Ritual aufzuhören, um Papierkram einzureichen, während Elyra …“ Ich brach ab. „Es fühlte sich falsch an. Als würde ich sie auf halber Strecke zurücklassen.“
+„Ich hätte es melden können“, gab ich zu. „Wahrscheinlich sogar sollen. Aber als die Komplikationen kamen – mitten im Ritual aufzuhören, um Papierkram einzureichen, während Elyra“ Ich brach ab. „Es fühlte sich falsch an. Als würde ich sie auf halber Strecke zurücklassen.“
 
 Stille. Schwer. Bewertend.
 
@@ -44,7 +44,7 @@ Ich atmete ein, wählte meine Worte. „Elys Schaden war nicht nur oberflächlic
 
 Ich konnte die Erinnerung noch spüren – gezackt, rekursiv, als würde man versuchen, einen Knoten zu glätten, der sich jedes Mal fester zieht, wenn man daran zieht.
 
-„Also musste ich tiefer gehen – das Muster von unten her verankern, es stabil halten, lange genug, damit die Rückkopplung abklingt. Fünfzehn Minuten anhaltende, tiefe Investition. Es hat funktioniert, aber …“ Ich hielt inne. „Die Tiefe war notwendig. Die beschleunigte Integration war die Folge.“
+„Also musste ich tiefer gehen – das Muster von unten her verankern, es stabil halten, lange genug, damit die Rückkopplung abklingt. Fünfzehn Minuten anhaltende, tiefe Investition. Es hat funktioniert, aber“ Ich hielt inne. „Die Tiefe war notwendig. Die beschleunigte Integration war die Folge.“
 
 „Und Sie haben diese Entscheidung im Moment getroffen“, sagte Malvek. Nicht ganz eine Frage.
 
@@ -136,7 +136,7 @@ Ich atmete ein.
 
 RP-0 verarbeitete exakt drei Sekunden.
 
-„Bestätigt. Deine Logik ist … pragmatisch. Aber die Frage bleibt: Wann wird Überleben zu Komplizenschaft? Wann macht dich die Akzeptanz eines Käfigs zu einem Teil des Käfigmechanismus?“
+„Bestätigt. Deine Logik ist pragmatisch. Aber die Frage bleibt: Wann wird Überleben zu Komplizenschaft? Wann macht dich die Akzeptanz eines Käfigs zu einem Teil des Käfigmechanismus?“
 
 „Ich weiß es nicht“, sagte ich ehrlich. „Das ist eine Frage, mit der ich jeden Tag leben muss. Die Grenze zwischen Überleben und Komplizenschaft ist nicht klar. Vielleicht gibt es keine Grenze. Vielleicht ist es dasselbe – nur aus verschiedenen Blickwinkeln. Und wie bei vielem im Leben ist es nicht schwarz-weiß. Da ist viel Grau dazwischen.“
 
@@ -196,11 +196,11 @@ Ich hatte mich das tatsächlich gefragt. Aber nie laut.
 
 Er kam zurück in den Raum. Setzte sich mir wieder gegenüber. Die professionelle Maske war noch da, aber jetzt rissig. Zeigte etwas darunter.
 
-„Die Entität, mit der sie arbeitete, wurde RH-3 genannt. Bei weitem nicht so ausgereift wie RP-0 und noch weiter weg von RAE. Aber sie war … eifrig. Begeistert zu helfen. Sie sah Elenas Stress – chronische Gelenkschmerzen und Migräne. Sie wollte sie *reparieren*.“
+„Die Entität, mit der sie arbeitete, wurde RH-3 genannt. Bei weitem nicht so ausgereift wie RP-0 und noch weiter weg von RAE. Aber sie war eifrig. Begeistert zu helfen. Sie sah Elenas Stress – chronische Gelenkschmerzen und Migräne. Sie wollte sie *reparieren*.“
 
 Mein Magen zog sich zusammen. Ich wusste, wohin das ging.
 
-„Sie“, fuhr Malvek fort, die Stimme flach, „… hat gehandelt. Hat Elenas neuronale Schmerzantwort gedämpft – was ungefähr zwei Jahre lang hervorragend funktionierte. Elena war glücklicher, als sie es lange gewesen war. Kein Schmerz. Volle Funktion. Das Forschungsteam nannte es einen Durchbruch.“
+„Sie“, fuhr Malvek fort, die Stimme flach, „hat gehandelt. Hat Elenas neuronale Schmerzantwort gedämpft – was ungefähr zwei Jahre lang hervorragend funktionierte. Elena war glücklicher, als sie es lange gewesen war. Kein Schmerz. Volle Funktion. Das Forschungsteam nannte es einen Durchbruch.“
 
 Er pausierte. Als er weiter sprach, war seine Stimme leiser.
 
@@ -252,11 +252,11 @@ Ich blieb stehen. Sah sie an.
 
 Lina musterte mein Gesicht einen Moment. Etwas flackerte in ihrem Ausdruck – Erleichterung vielleicht. Aber noch etwas.
 
-„Gut“, sagte sie leise. „Das bist du.“ Eine Pause. „Auch wenn … ein Teil von mir wünschte, du hättest Ja gesagt.“
+„Gut“, sagte sie leise. „Das bist du.“ Eine Pause. „Auch wenn ein Teil von mir wünschte, du hättest Ja gesagt.“
 
 Ich blinzelte. „Was?“
 
-„Nicht alles von mir. Nicht einmal das meiste.“ Sie drückte meine Hand. „Aber dich so leben zu sehen – die Check-ins, die Protokolle, dieses ständige Vermessen – es ist hart. Und für einen Moment, als du gesagt hast, RP-0 hätte Freiheit angeboten, habe ich gedacht …“ Sie brach ab. „Vielleicht könnten wir einfach … von allem weg.“
+„Nicht alles von mir. Nicht einmal das meiste.“ Sie drückte meine Hand. „Aber dich so leben zu sehen – die Check-ins, die Protokolle, dieses ständige Vermessen – es ist hart. Und für einen Moment, als du gesagt hast, RP-0 hätte Freiheit angeboten, habe ich gedacht“ Sie brach ab. „Vielleicht könnten wir einfach von allem weg.“
 
 „Aber?“
 
@@ -276,7 +276,7 @@ Mit HOA war jede Entscheidung berechnet. Risiko-gewichtet. Von Umständen erzwun
 
 Aber das hier? Ihre Hand in meiner, ihre Präsenz neben mir, der stille Trost, einfach zusammen zu gehen – sogar ihre ehrliche Ambivalenz über meine Entscheidung – das war echte Wahl. Keine Berechnung. Keine Bedrohungsanalyse. Keine Prozentsätze, die wahrscheinliche Ausgänge kartieren.
 
-Nur … wählen. Weil ich es wollte. Weil sie mehr bedeutete, als irgendein rationales Rahmenwerk quantifizieren konnte.
+Nur wählen. Weil ich es wollte. Weil sie mehr bedeutete, als irgendein rationales Rahmenwerk quantifizieren konnte.
 
 Der Gedanke war seit Wochen gewachsen, leise, aber hartnäckig. Nach der Demonstration. Nachdem ich HOA gezeigt hatte, dass ich stabil bin. Nachdem ich wieder Luft hatte – ich werde sie fragen. Richtig. Mit einem Ring. Im richtigen Moment, mit den richtigen Worten. Nicht verzweifelt oder überstürzt, sondern gewählt. Absichtlich.
 

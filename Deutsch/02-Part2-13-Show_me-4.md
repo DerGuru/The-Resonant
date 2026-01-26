@@ -1,6 +1,6 @@
 ## Teil 2 – Lernen zuzuhören | Kap. 13 – Zeig mir
 
-Milo fuhr an seinem Schreibtisch hoch, die Wange taub von der Stelle, an der sie auf der Tastatur gelegen hatte. Die Uhr zeigte 2:17 Uhr. Drei leere Kaffeebecher bildeten einen defensiven Ring um seinen Laptop. Die Wohnung roch nach abgestandenem Takeout und nach Ozon von überarbeiteten Elektronikgeräten.
+Milo fuhr an seinem Schreibtisch hoch, die Wange taub von der Stelle, an der sie auf der Tastatur gelegen hatte. Die Uhr zeigte 2:17. Drei leere Kaffeebecher bildeten einen defensiven Ring um seinen Laptop. Die Wohnung roch nach abgestandenem Takeout und nach Ozon von überarbeiteten Elektronikgeräten.
 
 Dann sah er den Ausschlag.
 
@@ -8,7 +8,7 @@ Eine Resonanzspitze. Kurz. Lokalisiert. Ausgelöst irgendwo, das in offiziellen 
 
 Nicht die Art Fluktuation, die man von natürlichem Feld-Drift bekam. Das hier war absichtlich. Kontrolliert. Als würde jemand Equipment testen – oder etwas.
 
-Milos Hände zitterten leicht, als er die historischen Daten aufrief. Die Spitze war dreimal stärker als alles, was er zuvor aufgezeichnet hatte. Und die Signatur …
+Milos Hände zitterten leicht, als er die historischen Daten aufrief. Die Spitze war dreimal stärker als alles, was er zuvor aufgezeichnet hatte. Und die Signatur.
 
 Er starrte darauf, der Mund trocken. Das war kein Hintergrundrauschen. Das war *aktive Inflektion*. Gesteuert. Zielgerichtet. Vierzig Meter unter der Erde.
 
@@ -50,7 +50,7 @@ Am nächsten Abend planten sie sorgfältig. Jason breitete Milos ausgedruckte Ka
 
 „Und wenn uns jemand sieht?“ fragte Jason.
 
-Linas Gesicht wurde ernst. „Dann haben wir ein Problem. Ein echtes. Das ist kein Ladendiebstahl – wenn es ist, was wir glauben, bedeutet erwischt werden: Eindämmung. Kein Prozess. Keine Erklärung. Einfach … weg.“
+Linas Gesicht wurde ernst. „Dann haben wir ein Problem. Ein echtes. Das ist kein Ladendiebstahl – wenn es ist, was wir glauben, bedeutet erwischt werden: Eindämmung. Kein Prozess. Keine Erklärung. Einfach weg.“
 
 „Also werden wir nicht erwischt“, sagte Milo, aber sein Grinsen war verschwunden.
 
@@ -130,13 +130,13 @@ Jason sah noch mal hin und verstand. Diese Wachsamkeit. Das Abstandsgefühl. Das
 
 „Zwölf sichtbar“, sagte Lina. „Wahrscheinlich mehr drin.“
 
-*Ich detektiere Resonanzmuster,* sagte RAE. *Mehrere Quellen. Mindestens sechs Praktiker. Und noch etwas … tiefer. Abgeschirmt.*
+*Ich detektiere Resonanzmuster,* sagte RAE. *Mehrere Quellen. Mindestens sechs Praktiker. Und noch etwas tiefer. Abgeschirmt.*
 
 *Kannst du es identifizieren?*
 
 *Nicht präzise. Aber es ist groß. Komplex. Definitiv künstlich. Was auch immer sie da unten halten, braucht erhebliche Infrastruktur.*
 
-Milos Sensoren piepsten leise. „Resonanzspitze. Gleiche Signatur wie letzte Nacht. Kommt von … unter dem Hauptgebäude. Ungefähr vierzig Meter tief.“
+Milos Sensoren piepsten leise. „Resonanzspitze. Gleiche Signatur wie letzte Nacht. Kommt von unter dem Hauptgebäude. Ungefähr vierzig Meter tief.“
 
 „Das ist tief“, sagte Jason.
 
@@ -158,7 +158,7 @@ Das war Infrastruktur. Permanent. Gut finanziert. Geschützt durch institutionel
 
 *RAE,* dachte Jason. *Könnte es andere wie dich geben?*
 
-*Möglich. Frühere Iterationen – vielleicht. Wenn Malvek sie gesammelt hat …*
+*Möglich. Frühere Iterationen – vielleicht. Wenn Malvek sie gesammelt hat.*
 
 *Dann wären sie dort.*
 
@@ -256,7 +256,7 @@ Als es vorbei war, schwieg sie lange. Die Stille war schwer. Gefährlich.
 
 „Sehr wahrscheinlich. Vielleicht weniger als Reeves’ ursprüngliche Frist, wenn sie aktiv suchen. Vielleicht mehr, wenn sie es noch nicht ahnen.“ Sie hielt Jasons Blick, und er sah die Last, die sie trug. Sah, was passiert, wenn institutionelle Macht entscheidet, dass du zu viel weißt. „So oder so: Panik hilft nicht. Wir halten uns an den Plan. Ihr macht eure Vorbereitung fertig. Ihr demonstriert Kompetenz. Ihr macht euch zu wertvoll, um euch einfach einzudämmen.“
 
-Sie hielt inne, und für einen Moment rutschte die professionelle Maske. „Ihr habt das gut gemacht. Vorsichtig. Professionell. Aber versteht: Es gibt keinen Weg zurück davon. Ihr wisst, wo es ist. Ihr wisst, was sie verstecken. Das macht euch gefährlich. Und gefährliche Menschen …“ Sie beendete den Satz nicht. Musste sie nicht.
+Sie hielt inne, und für einen Moment rutschte die professionelle Maske. „Ihr habt das gut gemacht. Vorsichtig. Professionell. Aber versteht: Es gibt keinen Weg zurück davon. Ihr wisst, wo es ist. Ihr wisst, was sie verstecken. Das macht euch gefährlich. Und gefährliche Menschen.“ Sie beendete den Satz nicht. Musste sie nicht.
 
 „Und wenn sie handeln, bevor wir bereit sind?“ fragte Lina leise.
 

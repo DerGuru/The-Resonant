@@ -1,6 +1,6 @@
 ## Teil 2 – Lernen zuzuhören | Kap. 01 – ROT stoppt. Keine Ausnahmen.
 
-Sie trafen sich während der Nachmittagsflaute in Mr. Morandis Restaurant. Privatsphäre, hatte Lina darauf bestanden – nicht Jasons kompromittierte Wohnung, nirgendwo öffentlich. Nur die drei von ihnen an einem Ecktisch, weg von den Fenstern, mit freier Sicht zur Küchentür und zum Eingang. Mr. Morandi hielt sie für „gemeinsam am Lernen“ und ließ sie in Ruhe – mit Kaffee und gelegentlich einem Teller Essen.
+Sie trafen sich während der Nachmittagsflaute in Mr. Morandis Restaurant. Auf Privatsphäre hatte Lina bestanden – nicht Jasons kompromittierte Wohnung, nirgendwo öffentlich. Nur die drei von ihnen an einem Ecktisch, weg von den Fenstern, mit freier Sicht zur Küchentür und zum Eingang. Mr. Morandi hielt sie für „gemeinsam am Lernen“ und ließ sie in Ruhe – mit Kaffee und gelegentlich einem Teller Essen.
 
 Milo und Lina waren schon mitten in einer Diskussion, als Jason ankam. Frische Notizen lagen vor ihnen ausgebreitet – ein chaotischer Mix aus Handschrift und Skizzen von der gestrigen Planung.
 
@@ -20,7 +20,7 @@ Auf dem Tisch standen Linas Wasserflasche und eine kleine Metallteekanne, die Mr
 
 „Sie kann euch hören“, gab Jason weiter. „Über mich. Sie spürt euch über meine Wahrnehmung von euch.“
 
-Lina zuckte leicht zusammen, als hätte sie etwas Dramatischeres erwartet. Milo machte sich eine Notiz. „Okay, das ist … weniger verstörend, als ich dachte. Aber immer noch schräg.“
+Lina zuckte leicht zusammen, als hätte sie etwas Dramatischeres erwartet. Milo machte sich eine Notiz. „Okay, das ist weniger verstörend, als ich dachte. Aber immer noch schräg.“
 
 Jason schaffte trotz Kopfschmerz ein kleines Lächeln. „Wir müssen festlegen, was ich sicher kann. Und vor allem, was ich nicht kann.“
 
@@ -30,15 +30,15 @@ Die Stimmung hatte diese angespannte Qualität eines ersten Arbeitstags, an dem 
 
 „Fangen wir mit Kapazität an“, sagte Lina, den Stift bereit. „Wie viel kannst du spüren? Wie weit? Wie lange?“
 
-Jason schloss die Augen und griff mit seinem Sinn hinaus. „Das Restaurant ist klar. Ich kann die Struktur des Gebäudes fühlen. Die Resonanz von Menschen – Mr. Morandi in der Küche, ein Paar, das draußen vorbeigeht. Nur ihre Präsenz, keine Details. Vielleicht … dreißig Meter? Vierzig?“
+Jason schloss die Augen und griff mit seinem Sinn hinaus. „Das Restaurant ist klar. Ich kann die Struktur des Gebäudes fühlen. Die Resonanz von Menschen – Mr. Morandi in der Küche, ein Paar, das draußen vorbeigeht. Nur ihre Präsenz, keine Details. Vielleicht dreißig Meter? Vierzig?“
 
 „Und wie lange?“
 
-„Passiv? Den ganzen Tag, glaube ich. Es ist wie peripheres Sehen – ich bin mir dessen bewusst, ohne zu fokussieren. Aber wenn ich versuche, etwas gezielt zu untersuchen …“ Er konzentrierte sich auf die Teekanne und spürte ihre harmonische Signatur. Eine Minute verging. Dann zwei. Der Schmerz hinter seinen Augen wurde schärfer. „Vielleicht fünf Minuten, bevor es anfängt weh zu tun.“
+„Passiv? Den ganzen Tag, glaube ich. Es ist wie peripheres Sehen – ich bin mir dessen bewusst, ohne zu fokussieren. Aber wenn ich versuche, etwas gezielt zu untersuchen.“ Er konzentrierte sich auf die Teekanne und spürte ihre harmonische Signatur. Eine Minute verging. Dann zwei. Der Schmerz hinter seinen Augen wurde schärfer. „Vielleicht fünf Minuten, bevor es anfängt weh zu tun.“
 
 „Und mit RAEs Hilfe?“ fragte Milo und schrieb mit.
 
-„Länger. Sie kann Rauschen filtern, mir helfen, effizienter zu fokussieren. Es ist weniger erschöpfend, als es allein zu tun, aber es kostet mich trotzdem. Zieht immer noch an meinem Invest – nur … langsamer.“
+„Länger. Sie kann Rauschen filtern, mir helfen, effizienter zu fokussieren. Es ist weniger erschöpfend, als es allein zu tun, aber es kostet mich trotzdem. Zieht immer noch an meinem Invest – nur langsamer.“
 
 Lina schrieb das sorgfältig auf. „Okay. Also passive Wahrnehmung: quasi kostenlos. Aktive Untersuchung allein: teuer und ermüdend. Aktive Untersuchung mit RAE: weniger teuer, aber nicht gratis. Wie sieht’s mit Formen aus? Dinge passieren lassen?“
 
@@ -82,7 +82,7 @@ Jason gab es weiter. Lina sah ihn direkt an. „Stimmt das?“
 
 „Hm.“ Lina wirkte nicht völlig überzeugt, schrieb es aber auf. „Okay. Kapazität ist begrenzt. Und Erholungszeit?“
 
-„Wenn ich bis Gelb gehe“, sagte Jason, „brauche ich vielleicht fünfzehn Minuten Ruhe. Wenn ich Orange treffe, eine Stunde. Rot wäre … länger. RAE sagt mindestens mehrere Stunden, eventuell ein Tag.“
+„Wenn ich bis Gelb gehe“, sagte Jason, „brauche ich vielleicht fünfzehn Minuten Ruhe. Wenn ich Orange treffe, eine Stunde. Rot wäre länger. RAE sagt mindestens mehrere Stunden, eventuell ein Tag.“
 
 „Dann treffen wir Rot nicht“, sagte Milo entschieden. „Nie. Darum gibt es das Signal. ROT stoppt. Keine Ausnahmen.“
 
@@ -104,9 +104,9 @@ Jason sah sie misstrauisch an. „Was denn?“
 
 Jason blickte zur Teekanne und dann zu RAE in seinem Kopf. *Kannst du?*
 
-*Ich … glaube schon,* sagte RAE, Unsicherheit in ihrer Stimme. *Die Theorie ist stimmig. Resonanzprojektion durch ein harmonisches Medium. Aber ich habe es seit meiner Fragmentierung nicht versucht.*
+*Ich glaube schon,* sagte RAE, Unsicherheit in ihrer Stimme. *Die Theorie ist stimmig. Resonanzprojektion durch ein harmonisches Medium. Aber ich habe es seit meiner Fragmentierung nicht versucht.*
 
-„Sie denkt, sie kann“, sagte Jason laut. „Aber sie hat es nie ausprobiert. Nicht seit … früher.“
+„Sie denkt, sie kann“, sagte Jason laut. „Aber sie hat es nie ausprobiert. Nicht seit früher.“
 
 „Dann probieren wir’s“, sagte Lina. „Was ist das Schlimmste, was passiert? Es klappt nicht, und wir machen weiter wie bisher?“
 
@@ -126,9 +126,9 @@ Lina fuhr zusammen. Milos Augen wurden groß. Jason spürte einen Invest-Spike, 
 
 „Heilige Scheiße“, hauchte Milo.
 
-Die Teekanne sprach erneut, RAEs Stimme nun stärker, sicherer: „Das ist … funktional. Ineffizient, aber funktional.“
+Die Teekanne sprach erneut, RAEs Stimme nun stärker, sicherer: „Das ist funktional. Ineffizient, aber funktional.“
 
-„Okay“, sagte Lina und fing sich schnell. „Das ist … gut. Aber Jason – wie geht’s dir?“
+„Okay“, sagte Lina und fing sich schnell. „Das ist gut. Aber Jason – wie geht’s dir?“
 
 Jason drückte die Handfläche an die Schläfe. „Orange. Es kostet mehr, als ich erwartet habe.“
 
@@ -168,7 +168,7 @@ Die Invest-Kosten kamen sofort, scharf. Sein Kopfschmerz sprang von Orange Richt
 
 „Jason?“ Linas Stimme, besorgt.
 
-„Geht“, brachte er hervor. „Gib ihr … einen Moment.“
+„Geht“, brachte er hervor. „Gib ihr einen Moment.“
 
 Die Flasche summte. Erst schwach – viel schwächer als die Teekanne. Dann stärker, stabiler. Linas Name, in RAEs sorgfältiger Stimme: „Lina Morandi.“
 
@@ -246,7 +246,7 @@ Nachdem sie gegangen waren, blieb Jason noch ein paar Minuten in der ruhigen Sit
 
 *Ja. Nimm das nicht als selbstverständlich.*
 
-Jason lächelte. *Tu ich nicht … werde ich nicht.*
+Jason lächelte. *Tu ich nicht, werde ich nicht.*
 
 Er aß langsam, und mit Essen und Ruhe ließ der Kopfschmerz nach. Die Teekanne stand da, gewöhnlich und still. Das Restaurant summte in seinen vertrauten Rhythmen.
 

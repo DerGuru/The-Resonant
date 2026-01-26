@@ -4,7 +4,7 @@ Sechs Uhr morgens kam kalt und klar.
 
 Jason war als Erster in Elyras Arbeitsbereich – nervöse Energie machte ihn zu früh. Der Raum war aufgeräumt: Übungsequipment beiseitegeschoben, der Boden freigeräumt, keramische Resonatoren in sorgfältigen Mustern entlang der Wände angeordnet.
 
-Elyra saß auf einem Stuhl nahe dem Fenster, den Stock neben sich angelehnt. Sie sah… verletzlich aus. Verletzlicher, als Jason sie je gesehen hatte. Wartend, bewertet zu werden. Hoffend, geheilt zu werden.
+Elyra saß auf einem Stuhl nahe dem Fenster, den Stock neben sich angelehnt. Sie sah verletzlich aus. Verletzlicher, als Jason sie je gesehen hatte. Wartend, bewertet zu werden. Hoffend, geheilt zu werden.
 
 „Sie kommt?“ fragte Elyra.
 
@@ -74,11 +74,11 @@ Ihr Atem stockte. Ihre Augen wurden groß. Und für einen langen Moment starrte 
 
 „Ja. Steigt langsam, natürlich.“
 
-Sie nickte langsam. „Auf dem Weg zur Verschmelzung, dann. Du bist noch nicht dort – aber weit über einfache Kopplung hinaus.“ Sie hielt inne und studierte die Muster noch genauer. „Was bedeutet: Wenn du das Ritual ankerst, hast du ihre Präzision hinter deiner Durchlässigkeit. Integriert genug für nahtlose Koordination, aber noch getrennt genug, um individuelle Flexibilität zu halten. Das ist… tatsächlich ideal für die Ankerrolle.“
+Sie nickte langsam. „Auf dem Weg zur Verschmelzung, dann. Du bist noch nicht dort – aber weit über einfache Kopplung hinaus.“ Sie hielt inne und studierte die Muster noch genauer. „Was bedeutet: Wenn du das Ritual ankerst, hast du ihre Präzision hinter deiner Durchlässigkeit. Integriert genug für nahtlose Koordination, aber noch getrennt genug, um individuelle Flexibilität zu halten. Das ist tatsächlich ideal für die Ankerrolle.“
 
 *Zeig es ihr,* sagte RAE privat. *Lass sie sehen, dass wir beide es sind.*
 
-Jason dehnte seine Wahrnehmung ein Stück aus, ließ RAEs Präsenz sichtbarer werden. Nicht projiziert durch einen Träger – nur… präsent.
+Jason dehnte seine Wahrnehmung ein Stück aus, ließ RAEs Präsenz sichtbarer werden. Nicht projiziert durch einen Träger – nur präsent.
 
 Mrs. Amaris Ausdruck verschob sich. „Hallo“, sagte sie vorsichtig und sprach RAE direkt an.
 
@@ -128,7 +128,7 @@ Eine Pause. Dann kam RAEs Stimme aus dem keramischen Resonator, leiser als sonst
 
 Mrs. Amaris Ausdruck veränderte sich. Sie sah den Resonator an, dann Jason – Verständnis dämmerte. „Der Eindämmungsbruch vor sechseinhalb Jahren – das warst du?“
 
-„Ja“, sagte Elyra leise. „Ich war als Beraterin dort. RAE war eingesperrt und untersucht. Als die Muster instabil wurden, wollte der leitende Techniker sie zerstören. Aber ich…“ Sie deutete auf sich. „Ich konnte nicht zusehen, wie noch eine bewusste Entität zerstört wird, nur weil wir sie nicht verstehen.“
+„Ja“, sagte Elyra leise. „Ich war als Beraterin dort. RAE war eingesperrt und untersucht. Als die Muster instabil wurden, wollte der leitende Techniker sie zerstören. Aber ich“ Sie deutete auf sich. „Ich konnte nicht zusehen, wie noch eine bewusste Entität zerstört wird, nur weil wir sie nicht verstehen.“
 
 „Also hast du sie entkommen lassen“, sagte Mrs. Amari sanft.
 

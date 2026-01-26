@@ -36,7 +36,7 @@ Sie gingen durch den abkühlenden Abend, Jasons Wahrnehmung noch halb eingeschal
 
 Darum spürte er es, bevor die anderen es überhaupt erahnten.
 
-Dissonanz. Scharf und falsch. Metall, das schrie. Physik, die versagte.
+Dissonanz. Schrill und falsch. Metall, das schrie. Physik, die versagte.
 
 Jason blieb wie angewurzelt stehen. „Da stimmt was nicht.“
 
@@ -104,7 +104,7 @@ Blut lief aus Jasons Nase. Er schmeckte Kupfer.
 
 Ein Kind stolperte. Milo hob es auf, ohne sein Tempo zu verlieren.
 
-Jason spürte, wie etwas in seinen kognitiven Mustern sich dehnte, spannte, drohte zu *reißen* –
+Jason spürte, wie etwas in seinen mentalen Strukturen sich dehnte, spannte, drohte zu *reißen* –
 
 „Frei!“ Linas Stimme, entfernt, aber sicher.
 
@@ -174,11 +174,11 @@ Jasons Magen zog sich zusammen. „Wie viele?“
 
 „Dutzende Zeugen. Das Video hat schon Hunderte Shares. Vielleicht Tausende inzwischen.“
 
-Jason betrachtete das Bild und versuchte zu sehen, was andere sehen würden. „Können sie … kann irgendwer erkennen, dass ich es war?“
+Jason betrachtete das Bild und versuchte zu sehen, was andere sehen würden. „Können sie, kann irgendwer erkennen, dass ich es war?“
 
 Milo und Lina tauschten einen Blick.
 
-„Das Video ist von gegenüber“, sagte Milo vorsichtig. „Es zeigt das Gerüst, die Kinder, Lina und mich beim Evakuieren. Und dich …“
+„Das Video ist von gegenüber“, sagte Milo vorsichtig. „Es zeigt das Gerüst, die Kinder, Lina und mich beim Evakuieren. Und dich.“
 
 „Wie du am Rand stehst“, beendete Lina. „Reglos. Nasenbluten. Und dann zusammenklappst, exakt in dem Moment, in dem es fällt.“
 
@@ -202,7 +202,7 @@ Eine Stunde später kam die Schwester rein. Mittleren Alters, effizient, freundl
 
 Jason überlegte. Sein Kopf pochte noch, aber stumpf. Machbar. Sein Körper fühlte sich schwer an, aber funktional.
 
-„Ich fühle mich … okay“, gab er zu.
+„Ich fühle mich okay“, gab er zu.
 
 „Dann können Sie nach Hause, wenn Sie möchten. Aber die nächsten Tage: schonen.“
 
@@ -210,7 +210,7 @@ Jason zögerte nicht. „Ich will gehen.“
 
 „Jason – “ begann Lina.
 
-„Ich …“ Er sah sie an. „Ich kann einfach nicht …“
+„Ich.“ Er sah sie an. „Ich kann einfach nicht.“
 
 Sie musterte ihn, dann nickte langsam. „Deine Großmutter?“
 
@@ -286,7 +286,7 @@ Sie ließ ihn sanft los und verschwand in ihrer Wohnung. Zurück blieben die dre
 
 Jason lehnte sich gegen die Wand, Erschöpfung rollte über ihn. Aber darunter spürte er noch das Echo von Mrs. Amaris Resonanz – echte Sorge, beschützende Angst, der Impuls, ihn vor etwas zu schützen, das sie nicht verstand.
 
-„Sie macht sich Sorgen“, sagte er leise. „Nicht neugierig. Nicht bedrohlich. Nur … besorgt. Als hätte sie schon einmal etwas Schlimmes kommen sehen und wüsste nicht, wie sie richtig warnen soll.“
+„Sie macht sich Sorgen“, sagte er leise. „Nicht neugierig. Nicht bedrohlich. Nur besorgt. Als hätte sie schon einmal etwas Schlimmes kommen sehen und wüsste nicht, wie sie richtig warnen soll.“
 
 „Das könnte es schlimmer machen“, sagte Lina. „Besorgte Menschen reden. Wollen helfen. Ziehen Aufmerksamkeit.“
 

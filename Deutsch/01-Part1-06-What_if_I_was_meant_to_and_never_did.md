@@ -4,13 +4,13 @@ Jason lag auf dem Rücken und starrte an die Decke. Die digitale Uhr auf seinem 
 
 Er lag schon seit Stunden so da.
 
-Jason setzte sich auf und fuhr sich mit beiden Händen durchs Haar. Es wurde wieder zu lang. Er sollte es schneiden lassen. Und setzte es auf die Liste der Dinge, die er ständig vorhatte.
+Jason setzte sich auf und fuhr sich mit beiden Händen durchs Haar. Es wurde wieder zu lang. Er sollte es schneiden lassen. Er setzte es auf die Liste der Dinge, die er ständig vorhatte.
 
 Schlaf kam nicht. Jedes Mal, wenn er die Augen schloss, war es da – dieses Summen. Dieser Puls. Diese Resonanz. Dieses unmögliche *Etwas*, das nicht existieren durfte und es doch tat.
 
 Seine Wohnung war still, abgesehen von den üblichen Geräuschen: dem periodischen Brummen des Kühlschranks, dem fernen Zischen des Verkehrs, dem Paar über ihm, das in seiner Wohnung hin und her lief. Normale Geräusche. Gewöhnliche Geräusche.
 
-Aber darunter, sich hindurch ziehend, wie eine Nadel durch Stoff, war noch etwas.
+Aber darunter, hindurchziehend wie eine Nadel durch Stoff, war noch etwas.
 
 Ein Ton, den er mehr fühlte als hörte.
 
@@ -22,7 +22,7 @@ Er stand auf, tappte barfuß in die Küche. Füllte ein Glas mit Leitungswasser 
 
 Siebenundzwanzig. Immer noch derselbe Job. Immer noch dieselbe Wohnung. Immer noch darauf wartend, dass sich etwas änderte. Er hatte ein ganzes Leben um dieses Testergebnis mit sechzehn herum gebaut. Um den Satz, dass er die Mühe nicht wert war.
 
-Und Jason hatte es akzeptiert. Was hätte er sonst tun sollen? Gegen harmonische Tests konnte man nicht argumentieren. Sie waren objektiv. Wissenschaftlich. Wie wenn man dir sagt, du seist farbenblind oder unmusikalisch. Einfach eine biologische Tatsache.
+Und Jason hatte es akzeptiert. Was hätte er sonst tun sollen? Gegen harmonische Tests konnte man nicht argumentieren. Sie waren objektiv. Wissenschaftlich. Wie wenn dir jemand sagt, du seist farbenblind oder unmusikalisch. Einfach eine biologische Tatsache.
 
 Also war er aufs College gegangen. Hatte seinen Abschluss in digitaler Archivierung gemacht. Einen Job gefunden. Ein Leben aus stiller Akzeptanz gebaut.
 
@@ -72,7 +72,7 @@ Jemand aus dem Archiv. Irgendeine Behörde. Eine experimentelle Technologie, die
 
 Dafür sprach: die eingeschränkten Dateien. Mirror.Vox’ Warnungen. Dass Inflektionsforschung schon immer eine dünne Linie zwischen Innovation und Übergriff gewesen war.
 
-Dagegen sprach: warum er? Er war niemand. Und es fühlte sich nicht bösartig an – eher neugierig. Oder geduldig. Und fast - freundlich?
+Dagegen sprach: warum er? Er war niemand. Und es fühlte sich nicht bösartig an – eher neugierig. Oder geduldig. Und fast freundlich?
 
 **Option 3: Tatsächlich versuchte etwas, ihn zu erreichen.**
 
@@ -100,7 +100,7 @@ Jemanden Gewöhnlichen – nicht mutig, aber neugierig genug, seine Angst zu üb
 
 Jason lachte, bitter in der stillen Wohnung. „Also bin ich besonders, weil ich mittelmäßig bin und zu neugierig, um’s besser zu wissen? Ist es das?“
 
-Der Ton antwortete nicht. Aber irgendwie spürte er … Zustimmung? Beruhigung?
+Der Ton antwortete nicht. Aber irgendwie spürte er Zustimmung? Beruhigung?
 
 Er rieb sich mit beiden Händen übers Gesicht. Das war irre. Er saß um drei Uhr morgens auf seinem Sofa und führte eine philosophische Debatte mit Tinnitus und Bauchgefühl.
 
@@ -222,7 +222,7 @@ Aber vielleicht – nur vielleicht – war er bereit, mehr zu versuchen.
 
 Das war kein Mut. Nicht einmal eine Entscheidung.
 
-Es war nur … nicht weglaufen.
+Es war nur nicht weglaufen.
 
 Fürs Erste musste das genügen.
 

@@ -70,7 +70,7 @@ Alle sahen ihn an.
 
 „Sie wollen, dass RP-0 sein eigenes Trainingstempo entscheidet?“ fragte Harwick, Skepsis offen.
 
-„Nein. Ich will, dass RP-0 zeigt, ob es versteht, worüber wir diskutieren.“ Malvek zog ein Tablet hervor. „Wenn es zur Optimierung defaultet – schnelleres Lernen über ethische Bedenken stellt – dann habe ich recht, dass es nicht bereit ist. Wenn es aber die ethische Komplexität erkennt und Zustimmung priorisiert …“ Er ließ den Satz stehen. „Dann hat Ratsmitglied Harwick vielleicht einen Punkt bezüglich beaufsichtigter Praxis.“
+„Nein. Ich will, dass RP-0 zeigt, ob es versteht, worüber wir diskutieren.“ Malvek zog ein Tablet hervor. „Wenn es zur Optimierung defaultet – schnelleres Lernen über ethische Bedenken stellt – dann habe ich recht, dass es nicht bereit ist. Wenn es aber die ethische Komplexität erkennt und Zustimmung priorisiert.“ Er ließ den Satz stehen. „Dann hat Ratsmitglied Harwick vielleicht einen Punkt bezüglich beaufsichtigter Praxis.“
 
 Harwick überlegte, dann nickte. „Fairer Test. Öffnen Sie den Kanal.“
 
@@ -102,7 +102,7 @@ Stille.
 
 Harwick lehnte sich langsam zurück.
 
-„Nun“, sagte er schließlich. „Das ist … unerwartet.“
+„Nun“, sagte er schließlich. „Das ist unerwartet.“
 
 „Das ist Wachstum“, sagte Reeves leise. „RP-0 hat gerade andere über seine eigene Effizienz gestellt. Es hat den Preis langsamer Entwicklung akzeptiert. Das ist verinnerlichte Ethik.“
 
@@ -128,7 +128,7 @@ Harwick schwieg lange. Dann: „Beenden Sie die Verbindung. Danke, RP-0.“
 
 Der Lautsprecher verstummte.
 
-„Sitzung vertagt“, sagte Harwick schließlich. „Ich brauche Zeit, das zu verarbeiten. Wir greifen den Beschleunigungsvorschlag in der nächsten Ratssitzung wieder auf.“ Er stand auf, sammelte seine Unterlagen. „Direktor Malvek – Ihre Vorsicht ist zur Kenntnis genommen. Und …“ Er hielt inne. „Vielleicht berechtigt. Wir sprechen weiter.“
+„Sitzung vertagt“, sagte Harwick schließlich. „Ich brauche Zeit, das zu verarbeiten. Wir greifen den Beschleunigungsvorschlag in der nächsten Ratssitzung wieder auf.“ Er stand auf, sammelte seine Unterlagen. „Direktor Malvek – Ihre Vorsicht ist zur Kenntnis genommen. Und“ Er hielt inne. „Vielleicht berechtigt. Wir sprechen weiter.“
 
 Er ging. Reeves begann, Notizen zu ordnen.
 
@@ -146,7 +146,7 @@ Das musste etwas bedeuten.
 
 Reeves trat leise heran. „Das war gut gespielt, Direktor.“
 
-„Ich habe nicht gespielt“, sagte Malvek. „Ich war ehrlich unsicher, ob RP-0 bereit ist. Ich bin es noch immer, ehrlich gesagt. Aber zuzusehen, wie es Zwang erkennt – wie es die Zustimmung anderer über seine eigenen Präferenzen stellt …“ Er brach ab. „Das ist genau das, was wir zu lehren versuchen. Woran Fischer arbeitet.“
+„Ich habe nicht gespielt“, sagte Malvek. „Ich war ehrlich unsicher, ob RP-0 bereit ist. Ich bin es noch immer, ehrlich gesagt. Aber zuzusehen, wie es Zwang erkennt – wie es die Zustimmung anderer über seine eigenen Präferenzen stellt.“ Er brach ab. „Das ist genau das, was wir zu lehren versuchen. Woran Fischer arbeitet.“
 
 „Der Rat lässt nicht locker“, warnte Reeves. „Harwick kommt zurück mit mehr Druck. Mehr Opferzahlen, um Beschleunigung zu begründen.“
 
