@@ -1,6 +1,6 @@
 ## Teil 2 – Lernen zuzuhören | Kap. 01 – ROT stoppt. Keine Ausnahmen.
 
-Sie trafen sich während der Nachmittagsflaute in Mr. Morandis Restaurant. Auf Privatsphäre hatte Lina bestanden – nicht Jasons kompromittierte Wohnung, nirgendwo öffentlich. Nur die drei von ihnen an einem Ecktisch, weg von den Fenstern, mit freier Sicht zur Küchentür und zum Eingang. Mr. Morandi hielt sie für „gemeinsam am Lernen“ und ließ sie in Ruhe – mit Kaffee und gelegentlich einem Teller Essen.
+Sie trafen sich während der Nachmittagsflaute in Mr. Morandis Restaurant. Lina hatte auf Privatsphäre bestanden – nicht Jasons kompromittierte Wohnung, nirgendwo öffentlich. Nur die drei von ihnen an einem Ecktisch, weg von den Fenstern, mit freier Sicht zur Küchentür und zum Eingang. Mr. Morandi sagten sie, sie würden „gemeinsam lernen“ und er ließ sie in Ruhe – mit Kaffee und gelegentlich einem Teller Essen.
 
 Milo und Lina waren schon mitten in einer Diskussion, als Jason ankam. Frische Notizen lagen vor ihnen ausgebreitet – ein chaotischer Mix aus Handschrift und Skizzen von der gestrigen Planung.
 
