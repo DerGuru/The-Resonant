@@ -1,7 +1,7 @@
 # Alpha Reader Feedback: Part 4, Chapter 09 - "Decision made but unspoken"
 
 **Date:** January 2025  
-**Chapter:** Part 4 - Boundaries & Becoming | Ch. 09 - Decision made but unspoken  
+**Chapter:** Part 4 - Boundaries & Becoming | 09 - Decision made but unspoken  
 **Status:** Completed Revision  
 **Integration Level:** 93.7%
 

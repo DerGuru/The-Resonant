@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 07 - Learning to fly
+﻿# Part 1 - Lost and Found | 07 - Learning to fly
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 
@@ -8,7 +8,7 @@ It wasn't busy. It never really was, not during the late dinner lull. Two tables
 
 He didn't need to order.
 
-Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Like always, Her hair was pulled back in a practical knot today, a few strands escaped and framing her face. She had a smudge of something - flour? sauce? - on her cheek.
+Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steaming bowl of rice and roasted vegetables in her hands. Like always, her hair was pulled back in a practical knot, strands escaping to frame her face. She had a smudge of something - flour? sauce? - on her cheek.
 
 "You're late," she said, sliding the plate down in front of him. 
 
@@ -82,7 +82,7 @@ Jason nodded. That made sense. That made too much sense.
 
 He shook his head. "No. Just... curious. Trying to understand what makes someone go for it."
 
-"Desperation. Arrogance. Hope," Lina said, ticking them off on her fingers. "Sometimes boredom. Sometimes a teacher who sees something and won't shut up about it."
+"Desperation. Arrogance. Hope," Lina said, ticking them off on her fingers. "Sometimes boredom. Sometimes a teacher who won't shut up about what they see in you."
 
 She tilted her head, studying him with those sharp, dark eyes. "Why? You *thinking* about trying?"
 
@@ -132,9 +132,9 @@ She nodded, satisfied. "Good."
 
 Outside, the air had turned properly cold. Jason pulled his coat tighter and started the walk home, his breath fogging in the streetlight.
 
-Lina's words echoed in his mind. *Standing on the edge of something.*
+Lina's words echoed. *Standing on the edge of something.*
 
-She was right. She was always right.
+She was right.
 
 But what she didn't know - what he couldn't tell her yet - was that he'd already stepped off the edge.
 

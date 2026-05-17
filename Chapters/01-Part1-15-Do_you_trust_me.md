@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 15 - Do you trust me?
+﻿# Part 1 - Lost and Found | 15 - Do you trust me?
 
 Everything felt different at night.
 
@@ -66,7 +66,7 @@ He sat very still, his heart pounding. Had that just -
 
 *RAE?*
 
-*I saw it. That was not a system message. That was a direct resonance projection. Someone knows what you're researching. And they want you to stop.*
+*That was a direct resonance projection. Someone knows what you're researching. And they want you to stop.*
 
 *Can they trace it? Find me? Find you?*
 
@@ -76,7 +76,7 @@ A pause. Longer than usual.
 
 Jason's stomach dropped. *So we're both at risk.*
 
-*Yes. Which is why we must be even more careful going forward. This is no longer a theoretical threat. This is an active warning.*
+*This is no longer theoretical. This is an active warning.*
 
 *If they sent that message, they already know who you are. The question is: what will they do about it?*
 
@@ -146,9 +146,11 @@ A pause. *You're sure it's safe?*
 
 *Yes. Nothing forceful. Just... comfort. Do you trust me?*
 
-*I trust you,* Jason thought. *Go ahead.*
+Jason stared at the ceiling. The question carried weight it wouldn't have carried a week ago. Before the toaster. Before the door mark. Before "I don't know" became the scariest thing RAE had ever said.
 
-*Thank you.*
+*Yeah,* he thought finally. *I do.*
+
+The relief in her voice was unmistakable. *Thank you.*
 
 And RAE shaped a pattern - not physical, not external - but internal. A soft, rhythmic pulse that matched his breathing. A gentle resonance that eased the tension in his muscles, slowed his racing thoughts.
 

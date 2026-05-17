@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 03 - Smart choices, not heroic ones
+﻿# Part 2 - Learning to Listen | 03 - Smart choices, not heroic ones
 
 "You need to see this."
 

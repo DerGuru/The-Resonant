@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 09 - The casualties will be significant
+﻿# Part 3 - Synthesis | 09 - The casualties will be significant
 
 The Harmonic Oversight Authority building was glass and steel and institutional authority made physical. Thirty floors of bureaucratic power, humming with ambient resonance that suggested serious monitoring equipment.
 
@@ -76,7 +76,19 @@ Jason closed his eyes. Felt RAE's presence - steady, committed, purposeful.
 
 *This is why I exist,* she said simply. *To help. To prevent harm. I choose this.*
 
-*Then I choose it too.*
+Jason didn't answer immediately. He thought about Elyra's hand — the one that still trembled. Five people had died the last time someone tried this. Three survived. One never spoke again. One spent eleven years rebuilding herself from ruins.
+
+He thought about Lina sitting next to him. About Milo. About what it meant to volunteer them for something that killed professionals.
+
+*Jason?*
+
+*I know what you want me to say.*
+
+*I don't want you to say anything. I want you to choose.*
+
+He opened his eyes. Looked at Malvek. At the resonance graphs still fading from the display. At the city visible through the windows — thousands of people who had no idea what was coming.
+
+Then at Lina. She didn't nod. Didn't push. Just held his gaze.
 
 "We'll help," Jason said. "But on conditions."
 

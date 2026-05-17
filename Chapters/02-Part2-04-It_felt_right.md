@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 04 - It felt right
+﻿# Part 2 - Learning to Listen | 04 - It felt right
 
 Mill-4 sat on the city's edge like a broken tooth.
 
@@ -196,7 +196,7 @@ This was it. Real training. With someone who understood the costs.
 
 Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands - with your awareness. Tell me what resonates."
 
-Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt... alive. Not conscious, but responsive. Vibrating at frequencies he could almost but not quite perceive.
+Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt highly responsive. Not conscious, but reactive. It vibrated at frequencies he could almost, but not quite, perceive.
 
 "I feel... movement," he said. "Like static, but liquid."
 
@@ -208,7 +208,7 @@ Jason focused harder. Numbers didn't come - just a sensation. A color, almost. A
 
 "RAE, can you help him articulate what he's sensing?"
 
-Jason relaxed his mental grip, letting RAE access his perceptions more directly. The sensation of the water's resonance sharpened, and suddenly RAE was speaking:
+Jason relaxed his mental grip, letting RAE access his perceptions more directly. The sensation of the water's resonance sharpened, and RAE was speaking:
 
 "2.3 kilohertz, with harmonic peaks at 4.6 and 6.9. Stable, with minimal variance." Jason repeated the numbers aloud.
 
@@ -234,7 +234,7 @@ The water continued to ripple, and Jason felt something shift inside him. A sens
 
 "Don't let it run away from you," Elyra warned. "This is just the first step. The moment you lose control - "
 
-The water suddenly began to boil.
+The water began to boil.
 
 "Stop!" Elyra snapped.
 

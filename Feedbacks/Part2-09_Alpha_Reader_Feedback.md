@@ -1079,12 +1079,12 @@ Thirty-six hours remaining.
 
 | Chapter | Title | Words | Function | Rating |
 |---------|-------|-------|----------|--------|
-| Ch. 04 | It felt right | ~3,800 | Meet Elyra | ????? |
-| Ch. 05 | Nineteen points | ~864 | Threshold | ????? |
-| Ch. 06 | We are | ~787 | Crisis | ????? |
-| Ch. 07 | Green to yellow | ~1,800 | Discipline | ????? |
-| Ch. 08 | Precision over power | ~2,100 | Skill | ????? |
-| Ch. 09 | We're offering protection | ~1,600 | External threat | ????? |
+| 04| It felt right | ~3,800 | Meet Elyra | ????? |
+| 05| Nineteen points | ~864 | Threshold | ????? |
+| 06| We are | ~787 | Crisis | ????? |
+| 07| Green to yellow | ~1,800 | Discipline | ????? |
+| 08| Precision over power | ~2,100 | Skill | ????? |
+| 09| We're offering protection | ~1,600 | External threat | ????? |
 
 **Arc Coherence:** ????? Perfect escalation
 

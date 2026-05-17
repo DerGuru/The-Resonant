@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 04 - Fighting Machines with Paperwork
+﻿# Part 4 - Boundaries & Becoming | 04 - Fighting Machines with Paperwork
 
 Milo's apartment looked like a conspiracy theorist's dream - or nightmare, depending on your perspective.
 
@@ -40,83 +40,41 @@ Milo pulled up another chart. "Here's the hierarchy. At the top: Oversight Counc
 
 "Democratic," we observed.
 
-"In theory." Milo zoomed in on names. "But look at voting records. Council votes along institutional lines. Academy representatives protect academy interests. Practitioner representatives protect practitioner interests. Government representatives protect bureaucratic interests. The independent arbiter tries to mediate, but usually ends up as tiebreaker. Nobody's actually advocating for synthesis entities or unregistered operators."
+"In theory." Milo zoomed in. "But Council votes along institutional lines. Academy reps protect academies. Government reps protect bureaucracy. Nobody's advocating for synthesis entities or unregistered operators."
 
-"Because we're not represented," Lina said, understanding.
+"Because we're not represented," Lina said.
 
-"Exactly. You're subject to HOA authority, but you have no voice in HOA governance." Milo pulled up more data. "And here's where it gets interesting. Budget allocation."
+"Subject to their authority. No voice in their governance." Milo switched screens. "And the budget tells you everything: almost forty percent goes to containment and enforcement. Nearly a quarter of the total budget is dedicated specifically to 'Entity Management.'"
 
-The numbers were stark:
+The word landed wrong. *Entity.* Not person. Not citizen. Entity.
 
-- **Containment & Enforcement:** 38% of budget
-- **Research & Development:** 22%
-- **Licensing & Compliance:** 18%
-- **Public Safety & Education:** 12%
-- **Administrative Overhead:** 10%
+"You're not being monitored as a practitioner," Milo continued. "You're being managed as a thing. Different category. Different protocols."
 
-"Thirty-eight percent on containment," Elyra said slowly. "That's not a regulatory body. That's a security apparatus."
+Elyra leaned forward. "What gives them the authority?"
 
-"And look at this." Milo highlighted a subsection. "Within Containment & Enforcement: 'Entity Management' accounts for 61% of that budget. That's twenty-three percent of HOA's total resources dedicated specifically to managing entities like RP-0."
+"Article 17, Section 4. Harmonic Oversight and Safety Act — passed twenty-one years ago after the Cascade killed seven hundred people in three hours." Milo's voice went flat. "'HOA maintains authority to detain, contain, or restrict any individual or entity demonstrating high-risk resonance capability pending safety assessment.' No warrant. No judicial review for the first seventy-two hours."
 
-"Or us," we said quietly.
+"That's the cage," Lina said.
 
-"Or you," Milo confirmed. "Jason, you're not just being monitored as a practitioner. You're being managed as an entity. Different category. Different protocols. Different threat assessment."
+"Never been successfully challenged. Three Supreme Court cases. All upheld." Milo closed the legislation tab. "And institutions don't give up power voluntarily."
 
-We felt that sink in. Not just oversight. Classification.
+We processed that. The silence had weight.
 
-"Show me the legal framework," Elyra said. "What actually gives HOA authority?"
+"What about Malvek himself?" Lina asked.
 
-Milo pulled up legislation. "The Harmonic Oversight and Safety Act. Passed twenty-one years ago. Seven hundred casualties in three hours. Parliament authorized HOA creation with emergency powers to 'prevent future resonance catastrophes.'"
+"Twenty years at HOA. His entire adult career." Milo pulled up a different record. "But here's what matters: forty-seven containment actions over two decades. Terminations authorized? Three. All three were entities with confirmed casualties and active hostile intent."
 
-He scrolled through dense legal text.
+"That's selective," Elyra said. "Evidence-based. Not precautionary."
 
-"Key provision: Article 17, Section 4. 'HOA maintains authority to detain, contain, or restrict any individual or entity demonstrating high-risk resonance capability pending safety assessment.' No warrant required. No judicial review for first seventy-two hours. Just... authority."
+"And with you," Milo said, "he chose oversight instead of containment. Even though Article 17 would've given him legal cover to lock you up the day after synthesis." He paused. "That's a choice. It means something."
 
-"That's the cage," Lina said. "That's where their power comes from."
+"He's not a villain," we said slowly. "He's someone trying to prevent harm with blunt tools because that's all the system gave him."
 
-"And here's what makes it worse," Milo said quietly. "Article 17 has never been successfully challenged. Three cases reached Supreme Court. All three upheld HOA authority. Because after the Cascade, everyone was so terrified of uncontrolled resonance that they gave HOA whatever power it wanted."
-
-"Twenty-one years ago," Elyra said. "Different world. Different threat landscape."
-
-"But the law remains," Milo said. "And institutions don't give up power voluntarily."
-
-We stared at the displays, processing. HOA wasn't just a regulatory body. It was a security apparatus funded by the system it controlled, with legal authority that couldn't be challenged, managing people like us not as practitioners but as potential threats.
-
-"Is Malvek part of this?" Lina asked. "Personally, I mean. Or is he just...?"
-
-"Complicated question." Milo pulled up personnel records. "Dorian Malvek. Director of Entity Management for seven years. Before that: Senior Containment Specialist for nine years. Before that: Research Division for four years. He's been with HOA for twenty years. His entire adult career."
-
-"So he believes in it," we said.
-
-"Or he's built his identity around it," Elyra suggested. "Sometimes those are the same thing."
-
-Milo highlighted another section. "But look at his actual record. Containment actions: 47 over twenty years. Terminations authorized: 3. All three were entities demonstrating active hostile intent with confirmed casualties."
-
-"Three terminations in twenty years," Lina said. "That's... restrained."
-
-"That's selective," Elyra corrected. "Malvek doesn't terminate entities because they're dangerous. He terminates them because they're *provably* dangerous. Evidence-based. Not precautionary."
-
-"And with you," Milo said to us, "he's chosen oversight instead of containment. Even though you'd qualify for Article 17 detention. That's a choice. That means something."
-
-We thought about that. Malvek had options. Could have locked us up immediately after synthesis. Yet, he chose not to. Why?
-
-"I don't think that he's a villain," we said slowly. "He's someone trying to prevent harm using the only tools he has. And those tools are blunt and coercive because that's what the system gave him."
-
-"Exactly," Milo said. "Which means we're navigating a system that was built to prevent catastrophes but ended up creating its own kind of harm. Structural harm. Bureaucratic coercion disguised as public safety."
+"Exactly," Milo said. "We're navigating a machine built to prevent catastrophes that ended up creating its own kind of harm. Bureaucratic coercion disguised as public safety."
 
 "Can it be changed?" Lina asked.
 
-"Maybe." Milo pulled up a final document. "HOA governance requires Council majority for policy changes. Which means we'd need to convince seven of thirteen members that synthesis doesn't require the same oversight as hostile entities."
-
-"What are the odds?" we asked.
-
-"Currently? Low." Milo showed voting records. "Four government representatives will vote for maximum oversight automatically. Three academy representatives will vote for protecting academy authority. That's seven votes against us before we even start."
-
-"But six votes aren't guaranteed against us," Elyra observed. "That's leverage. Small leverage. But real."
-
-"And Malvek?" Lina asked.
-
-"The director doesn't vote," Milo said. "He advises. Recommends. Implements Council decisions. But he doesn't decide policy."
+"Council majority — seven of thirteen votes. Currently? We'd be starting with at least seven votes against us." Milo shrugged. "But the director doesn't vote. He advises. Implements."
 
 "So he's constrained too," we realized. "By the same system he administers."
 
@@ -214,7 +172,7 @@ Lina smiled. "He likes you."
 
 We sat together in the warm restaurant. Outside, the city continued. The machine kept grinding. HOA kept monitoring. Draft regulations kept developing.
 
-But here, in this moment, we had this: Real food. Chosen family. A father who understood that building something good was its own form of resistance.
+But here, in this moment, we had this: Real food. Chosen family. A father who worked quietly in his kitchen, building something real.
 
 "Milo found all that in three days?" we asked.
 

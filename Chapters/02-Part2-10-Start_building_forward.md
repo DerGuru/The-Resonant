@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 10 - Start building forward
+﻿# Part 2 - Learning to Listen | 10 - Start building forward
 
 The screen went blank.
 
@@ -58,7 +58,45 @@ It was dark already when Elyra finished listening to their report, her expressio
 
 "He has institutional authority. And the classification system is designed to protect state interests. If he convinces the right people that these records threaten stability - " She shrugged. "Then yes. He can erase them. Legally."
 
-Elyra took the flash drive from Milo. "I'll secure this. Offline. Somewhere Malvek can't reach." She paused. "And you three need to stop looking for evidence in places he controls. Archives. Digital systems. Official records. Those are all compromised now."
+Elyra took the flash drive from Milo. Pocketed it immediately. Not placed on the desk. Not plugged into anything. Just — gone, into her jacket.
+
+"I'll secure this. Offline. Somewhere Malvek can't reach."
+
+"Hold on," Jason said. "That's our evidence. Our backup."
+
+"Which is exactly why it needs to be somewhere you can't accidentally lead them to." Elyra's tone was patient but final.
+
+"Or somewhere only you control," Milo said quietly. Something careful in his voice.
+
+Elyra went still. The room's temperature seemed to drop.
+
+"Say what you mean, Milo."
+
+"Those documents aren't just about us. They contain details about the original ritual. About what happened to your team. What Malvek covered up." Milo didn't look away. "If those records surface at the right moment, they don't just protect Jason. They rehabilitate you. Prove it wasn't your fault."
+
+The silence was brutal.
+
+Elyra's jaw worked once. Twice. "That's not why I'm taking it."
+
+"But it's not irrelevant either," Jason said. Not accusatory. Just honest.
+
+Elyra looked at him. For a moment, the mask disappeared entirely. What was underneath wasn't anger. It was exhaustion. Eleven years of carrying a story nobody believed.
+
+"No," she said. "It's not irrelevant. I've spent eleven years as the practitioner who failed. Who got three people killed. If those records show that Malvek's team caused the cascade — not mine —" She stopped. Breathed. "Yes. That matters to me. More than I'd like to admit."
+
+"Then tell us that," Lina said. "Don't just take the drive and pivot to training."
+
+Elyra held the flash drive up between two fingers. "Here. You want to hold it?"
+
+"I want to know you won't use it without telling us," Jason said.
+
+A long pause. "Fair." She set the drive on the table between them. "Milo makes a second copy. You keep one, I keep one. Nobody uses it without a group decision."
+
+Milo was already pulling out a second drive. "That's all we needed to hear."
+
+Elyra watched him copy the files. Something in her expression shifted — not quite relief, but the look of someone who'd expected to be alone and wasn't.
+
+"And you three need to stop looking for evidence in places Malvek controls. Archives. Digital systems. Official records. Those are all compromised now."
 
 "So what do we do?" Jason asked.
 

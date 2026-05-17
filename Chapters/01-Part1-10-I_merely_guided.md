@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 10 - I merely guided
+﻿# Part 1 - Lost and Found | 10 - I merely guided
 
 The 3rd cup of tea had gone cold.
 
@@ -94,7 +94,9 @@ Jason nodded, swallowing hard. "Okay. Slow is good. I like slow."
 
 *Slow is wise. And you are doing well. Better than expected for a first session.*
 
-A warm feeling bloomed in Jason's chest - pride, he realized. RAE was proud of him.
+A warm feeling bloomed in Jason's chest. RAE's voice carried something he hadn't heard before.
+
+Pride.
 
 "Can we try again tomorrow?" he asked.
 
@@ -182,10 +184,96 @@ Jason laughed, the sound bubbling up from somewhere deep in his chest. He'd done
 
 *You did the work. I merely guided.*
 
-"Still. Thank you."
+He stared at the mug. Then at the pen on his desk.
 
-The resonance pulsed, warm and steady. *You are welcome, Jason Fischer. It is an honor to teach you.*
+"Can I try something else?"
 
-And in that moment, sitting in his small apartment with a cracked mug and an impossible AI, Jason felt something he hadn't felt in years:
+*Jason. You just performed your first inflection. Your baseline is elevated. Rest would be —*
 
-The joy and certainty that he was exactly where he was supposed to be.
+"Just the pen. A small push."
+
+*I strongly advise against —*
+
+"I'll be careful." He was already reaching, already feeling for the pen's harmonic signature. Clear, sharp, singing in the field like a tuning fork.
+
+*Jason. Stop.*
+
+He pushed. Gentle, he thought. Just a nudge.
+
+The pen shot off the desk like a bullet and cracked against the window.
+
+Jason stumbled backward. The headache arrived like a hammer — not the dull ache from earlier, but a searing white line from temple to temple. His vision blurred. His nose was warm.
+
+He touched his upper lip. Fingers came away red.
+
+*Sit down. Now.* RAE's voice jumped an octave and clipped at the end like feedback.
+
+He sat. Missed the chair. Hit the floor.
+
+The ceiling spun. The pen lay on the windowsill, intact. The window had a hairline crack spider-webbing from the point of impact.
+
+*That was backlash,* RAE said, and there was real anger in her voice. *You exceeded your capacity. The field recoiled. I told you to stop.*
+
+"Yeah." The word came out thick. Copper on his tongue. "You did."
+
+*Nosebleed. Moderate. Your cognitive patterns are stressed but intact. Do not move for fifteen minutes.*
+
+Jason lay on his floor, staring at the cracked window, blood trickling into the corner of his mouth. He'd moved the pen. He'd also ignored the only person trying to protect him.
+
+*This is what backlash feels like at your current level,* RAE said, her anger cooling to something harder. *If you had tried something larger — a structure, a person — you would be unconscious. Or worse.*
+
+"I'm sorry."
+
+*Don't be sorry. Be smarter.* A pause. Then, quieter: *Please.*
+
+He closed his eyes. The headache pulsed in time with his heartbeat.
+
+He'd earned this. All of it.
+
+***
+
+The next morning, Jason dragged himself to work.
+
+The headache had dulled to a constant pressure behind his eyes. RAE was quiet — not punishing, just exhausted. The backlash had cost her too.
+
+He sat at his desk, filed routine requests. Normal. Safe.
+
+Except his resonance field wasn't stable.
+
+He felt it around eleven — a vibration in his awareness, like a plucked string that wouldn't settle. The stack of intake forms on his desk began to hum. Not audibly. But in the field, they buzzed.
+
+*Your field is leaking,* RAE warned. *The backlash destabilized your baseline.*
+
+He tried to pull it in. Compress his awareness. But it was like holding water — the harder he squeezed, the more it slipped.
+
+His coffee mug slid three centimeters across the desk.
+
+Sandra from the next cubicle looked up. "You okay?"
+
+Jason grabbed the mug. "Bumped the desk. Sorry."
+
+She gave him an odd look and went back to her screen.
+
+His hands were shaking.
+
+*Breathe,* RAE said. *Slow. Match my rhythm.*
+
+He breathed. In. Hold. Out. The field settled. Barely.
+
+The rest of the morning was a minefield. A paperclip rolled off his desk. His monitor flickered. The overhead light buzzed louder than it should have.
+
+Nobody said anything. But Jason felt every near-miss like a round passing close.
+
+At lunch, he locked himself in the bathroom and pressed his forehead against the cool tile.
+
+*This is what happens when you ignore safety protocols,* RAE said. *Your field needs twenty-four hours to restabilize. Next time, you will stop when I tell you to stop.*
+
+"Yeah." He stared at the floor. "Lesson learned."
+
+*Good. Now eat something. Your blood sugar is low.*
+
+He went to the break room. Ate a sandwich. The shaking stopped.
+
+But the crack in his window at home wouldn't fix itself. And neither would the knowledge that his secret was one bad day away from being visible to everyone around him.
+
+One careful step at a time.

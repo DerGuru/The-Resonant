@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 14 - I won't let them
+﻿# Part 1 - Lost and Found | 14 - I won't let them
 
 Jason noticed the mark three days after meeting Milo.
 
@@ -15,6 +15,22 @@ Jason's heart hammered in his chest.
 *RAE?*
 
 *I see it. That's a resonance marker. Passive. Likely used for tracking or identification. Someone has marked your door.*
+
+Jason's stomach dropped. Then hardened.
+
+*Did they follow your signature here?*
+
+A pause. *That is... one possibility.*
+
+*You told me you couldn't rule it out. After the toaster. And now there's a tracking sigil on my door.*
+
+*Jason —*
+
+*Is this you? Not intentionally — I know that. But is your presence what's drawing them? Am I marked because you're here?*
+
+The silence that followed was the longest RAE had ever produced. No processing hum. No careful word-selection. Just absence.
+
+*I don't know,* she said finally. And for the first time, the precision was gone from her voice. *I truly don't know.*
 
 *Who?*
 
@@ -44,7 +60,7 @@ Jason slid down the closed door until he was sitting on the floor, his knees dra
 
 *You stay calm. You continue as normal. But you take precautions. Don't bring sensitive materials here. Don't discuss plans within these walls. Assume you're being watched.*
 
-Jason's throat tightened. His safe space - his home - wasn't safe anymore.
+Jason's throat tightened. He moved to the window. Checked the street. Checked the lock. Checked it again.
 
 "I hate this," he whispered.
 
@@ -92,7 +108,7 @@ Jason's stomach dropped. "You think she...?"
 
 *I don't know. But coincidences are rare. Be cautious around her.*
 
-Jason set the plate on his small table, suddenly not hungry at all.
+Jason set the plate on his small table, no longer hungry at all.
 
 Mrs. Amari. Friendly, normal Mrs. Amari who'd lived in this building for years. Who always had extra food. Who asked gentle questions and never pushed.
 
@@ -102,11 +118,13 @@ Or was he just paranoid?
 
 *I don't know who to trust anymore,* he thought.
 
-*Trust yourself,* RAE said firmly. *Trust Milo and Lina - they've earned it. Everyone else, remain cautious until they prove themselves.*
+*Trust Milo and Lina,* RAE said. *They've earned it.*
 
-Jason nodded. That was good advice.
+She didn't say "trust me." Jason noticed.
 
-But it didn't make him feel any less alone.
+He nodded. The advice was sound.
+
+And for the first time since they'd coupled, the silence between them wasn't the comfortable kind.
 
 ***
 
@@ -130,8 +148,6 @@ The mark on his door. Mrs. Amari's glance at it. The toaster incident. The forei
 
 Someone was watching. Someone with resources. Someone who knew what to look for.
 
-Not random. Not coincidence.
-
 Organized.
 
 *This is what they do, isn't it?* he thought. *Whoever's tracking me. They make you doubt everyone. Make you paranoid. Isolate you.*
@@ -144,7 +160,7 @@ Organized.
 
 Jason finished the food, washed the plate, and stood at his sink for a long time, looking at his reflection in the darkened window.
 
-He looked tired. Scared. Older than twenty-seven.
+He hadn't shaved. His eyes tracked movement a fraction too late. When he shifted at the sink, he kept angling himself toward the door.
 
 But he also looked determined.
 

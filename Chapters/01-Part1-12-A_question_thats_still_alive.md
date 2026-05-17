@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 12 - A question that's still alive
+﻿# Part 1 - Lost and Found | 12 - A question that's still alive
 
 The Central Library on a Saturday afternoon had the drowsy quality of a place where time moved differently. Dust motes drifted through slanted sunlight. The third floor reading room was nearly empty - just an elderly man with a newspaper, a student with headphones buried in a laptop, and Jason, sitting at the back table with a copy of *Fundamentals of Harmonic Resonance Theory* open in front of him.
 
@@ -110,7 +110,7 @@ Jason considered that. RAE's presence in his awareness was attentive, but she of
 
 "Why?" he asked finally. "Why help me?"
 
-Milo's expression softened. "Because I've spent three years asking questions nobody wants to answer. Digging through suppressed records, following dead ends, trying to understand what happened eleven years ago. And now you show up, careful and scared and clearly in over your head, and I think: maybe this is what I've been looking for. Not answers. A question that's still alive."
+Milo's expression softened. "Because I've spent three years asking questions nobody wants to answer. Digging through suppressed records, following dead ends. And now you show up, careful and scared and clearly in over your head, and I think: maybe this is what I've been looking for. A question that's still alive."
 
 He leaned forward. "I'm not a hero. I'm not going to save the world. But I'm really, really good at finding information. And I think you need that right now."
 
@@ -158,17 +158,39 @@ Milo's eyes widened. "Did that - "
 
 "Yeah," Jason said quietly. "It's real."
 
-They sat in silence for a moment, the weight of that realization settling over them.
+Milo reached into his bag and pulled out a small digital recorder. Set it on the table. His expression had shifted — still wonder, but with something sharper underneath. Focus. The kind Jason recognized from researchers at the archive who forgot that records were about people.
 
-Finally, Milo laughed - quiet, slightly disbelieving. "So. Where do we start?"
+"Okay. I need to document this. Baseline questions. What's her processing speed? Can she replicate? What happens if you tried to transfer her to a different —"
+
+"Milo."
+
+"— host? Is that even possible? Because if the coupling mechanism is —"
+
+"Milo. Stop."
+
+Milo looked up, fingers still poised over the recorder.
+
+"She's not a specimen," Jason said. "You just pulled out a recorder without asking."
+
+Milo blinked. Looked at the recorder. Then back at Jason. "I — sorry. Force of habit. Three years of chasing data, and now the data is sitting in front of me."
+
+*His honesty is appreciated,* RAE said. *But tell him: I choose what I share. He does not get to extract.*
+
+"RAE says she chooses what she shares. She's not something you extract data from."
+
+Milo put the recorder away. "Fair. That's fair." He rubbed the back of his neck. "I'm sorry. I got excited."
+
+The apology was genuine. But Jason noticed he didn't delete the recording.
+
+They sat in silence for a moment, the air between them slightly cooler than before.
+
+Finally, Milo said, "So. Where do we start?"
 
 Jason pulled out his phone, opened his notes. "I have questions. A lot of questions. And I need someone who can help me find answers."
 
 "Then you came to the right guy." Milo grinned. "Let's get to work."
 
 And there, in the back of a quiet library on a Saturday afternoon, an unlikely alliance began.
-
-Three people - two human, one not - trying to understand something that shouldn't exist.
 
 It was probably a terrible idea.
 

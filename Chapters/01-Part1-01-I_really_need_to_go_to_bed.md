@@ -1,10 +1,10 @@
-﻿## Part 1 - Lost and Found | Ch. 01 -  I really need to go to bed
+﻿# Part 1 - Lost and Found | 01 -  I really need to go to bed
 
-Jason Fischer stared at the cracked ceramic mug on his desk and wondered, not for the first time, if his life had always been this small.
+Jason Fischer stared at the cracked ceramic mug on his desk. He wondered, not for the first time, if his life had always been this small.
 
 A screen flickered softly in the empty cubicle, casting ghostly shadows across his hands. He sat alone, the evening dimness of the archival room pressing in from all sides. Lines of ancient transcript fragments lit up silently, reconstructed automatically from an old magical recording field.
 
-He was twenty-seven, average height, with the kind of build that came from sitting at desks rather than gyms - not thin, not heavy, just... unremarkable. Dark hair that needed a cut, perpetually slightly too long around the ears. Wire-rimmed glasses that he pushed up his nose every few minutes out of habit. The kind of face that people forgot five minutes after meeting him, which suited him fine.
+He was twenty-seven. Dark hair that needed a cut, perpetually too long around the ears. Wire-rimmed glasses he pushed up his nose every few minutes out of habit. The kind of person who blended into cubicle walls.
 
 He leaned closer, adjusting those glasses for the hundredth time tonight, the blue glow reflecting in their lenses. He had found the old entry purely by chance, buried deep within archival layers he hadn't even known existed. Curious lines caught his attention, sparse and incomplete but clear enough to grip him:
 
@@ -23,11 +23,11 @@ Jason frowned deeply, mouthing the name softly: "Elyra…?"
 
 The screen continued its silent glow. He leaned back in his cheap office chair - the one that always squeaked when he shifted his weight - and unease twisted his stomach into a knot. It was a simple archive record, yet it felt strangely personal. Like something nudging at a half-buried memory, pressing on him gently, insistently.
 
-Jason reached for his tea, now cold and forgotten in its chipped mug. He took a distracted sip, grimacing at the bitter, over-steeped taste. The room was silent except for the hum of distant ventilation systems and the occasional tick of the old radiator in the corner. Usually, this kind of archival dive calmed him, gave him a sense of quiet purpose. But this - this felt different.
+Jason reached for his tea, now cold and forgotten in its chipped mug. He took a distracted sip, grimacing at the bitter taste. The room was silent except for the hum of distant ventilation and the occasional tick of the old radiator. Usually, this kind of archival dive calmed him. But this felt different.
 
-Something subtle pressed against his chest. It was faint, a gentle pull, but persistent. He inhaled slowly, puzzled. His hand went to his sternum, pressing through his worn button-down shirt as if he could push the sensation away.
+Something subtle pressed against his chest. Faint, but persistent. His hand went to his sternum, pressing through his worn shirt as if he could push the sensation away.
 
-Expectation. Yes, that was it. Something like expectation, or like a resonance beginning to hum softly at the edge of his awareness. But that was impossible. He had no resonance. He'd been tested at sixteen, like everyone else. Minimal potential. Not worth training. The kind of result that closed doors before they even opened.
+Expectation. A resonance beginning to hum at the edge of his awareness. But that was impossible. He'd been tested at sixteen, like everyone else. Minimal potential. The kind of result that closed doors before they opened.
 
 He shook his head, glancing around at empty cubicles bathed in twilight shadows. He was completely alone. The cleaning crew wouldn't be through for another hour. His coworkers had left by five, as they always did, leaving him to his obsessive after-hours digging.
 
@@ -37,17 +37,17 @@ Jason returned his focus to the screen, tapping the touchpad lightly to scroll f
 
 His finger hovered over the highlighted entry again. "Elyra Voss," he whispered again. Testing the name as if it could resonate aloud. It carried a strange familiarity he couldn't place, like a word on the tip of his tongue. Had he encountered it before? He frowned, replaying conversations, seminars, classes - nothing surfaced. And yet...
 
-He sighed and stood, making his way to the break room. The fluorescent lights flickered on with a buzz when he entered, harsh and white after the dim blue of his cubicle. The coffee maker sat cold and empty. Jason settled for water from the tap, filling his mug and staring at his reflection in the darkened window. He grinned to himself, tilting his head until two street lights aligned with his eyes, giving his reflection a malicious look.
+He sighed and stood, making his way to the break room. Fluorescent lights flickered on with a buzz, harsh and white after the dim blue. The coffee maker sat cold and empty. Jason settled for water, filling his mug and staring at his reflection in the darkened window.
 
-Then he sighed. Twenty-seven years old. Municipal Records Clerk. Living in a one-bedroom apartment above a laundromat. Father back in Germany, mother gone ten years now. No girlfriend. No prospects. Just... existing.
+Then he sighed. Twenty-seven years old. Municipal Records Clerk. One-bedroom apartment above a laundromat. Father back in Germany, mother gone ten years. No girlfriend. No prospects.
 
 *What am I even doing?*
 
-The question surfaced unbidden, and he pushed it away like he always did. This was his life. It was fine. It was safe. It was - 
+The question surfaced unbidden, and he pushed it away like he always did. This was his life. Fine. Safe.
 
-A faint unease stirred in his chest, brief and difficult to name. Jason frowned, took another sip of water, and dismissed it. Just the Archive getting to him. Happened sometimes when he worked too late.
+A faint unease stirred in his chest, brief and difficult to name. Jason took another sip of water and dismissed it. The Archive getting to him. Happened sometimes when he worked too late.
 
-He shook his head, water sloshing in his mug. "Get a grip, Fischer. You're not special. You're just tired. Time to go home!"
+He shook his head. "Get a grip, Fischer. You're just tired. Time to go home."
 
 The mantra had worked for years. It would work tonight too.
 
@@ -59,9 +59,9 @@ But his fingers hesitated over the keyboard when he reached the notes field.
 
 What did that mean? What kind of ritual left someone with only 3% of their original capacity? And why was it restricted?
 
-He copied the archive code to his personal drive - not the official one, but the encrypted thumb drive he kept in his jacket pocket for research that didn't quite fit the official scope of his job. Not that anyone checked. Frank barely remembered Jason existed most days.
+He copied the archive code to his encrypted thumb drive — the one he kept in his jacket pocket for research that didn't quite fit official scope. Frank barely remembered Jason existed most days.
 
-The screen saver kicked in: a slowly rotating geometric pattern that the IT department had chosen years ago. Jason watched it for a moment, his mind elsewhere.
+The screen saver kicked in: a slowly rotating geometric pattern. Jason watched it for a moment, his mind elsewhere.
 
 *Elyra Voss.*
 
@@ -79,7 +79,7 @@ He felt foolish, but he couldn't shake the thought that something back there was
 
 "You're losing it," he said aloud to the empty street. "Definitely losing it."
 
-But he picked up his pace anyway, suddenly eager to be home, behind a locked door, in his own space where things made sense.
+But he picked up his pace anyway, eager to be home, behind a locked door, in his own space where things made sense.
 
 By the time he reached his building, the sensation had faded into something even subtler - less a sound, more a quiet internal pulse. He entered his small apartment, dropping his keys on the table with a familiar clink.
 
@@ -93,21 +93,21 @@ Jason stepped out onto his small balcony, the cheap sliding door sticking slight
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
-And there - just for a moment - something felt... different. Not a sound, exactly. More like standing in exactly the right spot at exactly the right time. A single, resonant tone. Pure, perfectly pitched, and resonating.
+And there — just for a moment — something felt different. A single, resonant tone. Pure, perfectly pitched.
 
-Then it was gone.
+Then gone.
 
 His eyes snapped open, searching the empty night. Nothing. Just the city hum - traffic, an argument somewhere below, a dog barking three streets over.
 
-"Oh great, tinnitus!" he muttered to himself, shaking his head. "I really need to go to bed. I really do."
+"Tinnitus," he muttered, shaking his head. "I really need to go to bed."
 
-But uncertainty swirled in his chest like smoke as he turned back inside, sliding the door shut with perhaps a bit more force than necessary.
+But uncertainty swirled in his chest as he turned back inside, sliding the door shut with more force than necessary.
 
 He knew he would return to that archive tomorrow. He knew he would search deeper.
 
 Because whatever had happened tonight - if it was even real - felt unfinished.
 
-And despite every rational thought, despite years of accepting his place in the world, despite knowing better than to hope - 
+And despite every rational thought, despite years of accepting his place in the world —
 
 A small, traitorous part of him wondered:
 

@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 02 - I don't want to break you
+﻿# Part 4 - Boundaries & Becoming | 02 - I don't want to break you
 
 The HOA facility looked the same. Glass and steel. Institutional authority made architecture. But walking toward it now felt different.
 
@@ -154,7 +154,7 @@ Cognitive mapping. Memory verification across both consciousness streams - at le
 
 The chair wasn't used - yet. But its presence loomed over us, a constant reminder of the line between cooperation and containment.
 
-Lina stayed by our side, through the anxious moments of waiting, the sharp edges of probing questions, the relentless hum of machinery recording our every response, our every twitch.
+Lina stayed by our side through the waiting, the sharp edges of probing questions, the relentless hum of machinery recording our every response, our every twitch.
 
 Reeves observed, taking notes, his expression inscrutable. Malvek remained close, involved but detached, guiding the process with the precision of a conductor leading an orchestra.
 

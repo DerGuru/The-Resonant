@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 05 - Check-in with family went okay. Still here. Still committed.
+﻿# Part 3 - Synthesis | 05 - Check-in with family went okay. Still here. Still committed.
 
 The restaurant was empty when Lina found her father in the kitchen.
 

@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 14 - We did it
+﻿# Part 3 - Synthesis | 14 - We did it
 
 Our awareness returned slowly. Not all at once. Not cleanly.
 
@@ -99,7 +99,7 @@ We managed to speak. Voice rough. Barely a whisper.
 
 "We did it."
 
-Relief flooded the room. Lina laughed - half sob, half joy. Squeezed our hand tighter.
+Lina laughed - and it broke halfway into something between a sob and a gasp. She squeezed our hand until it hurt.
 
 "Yes," she said. "You did. You and RAE both. You showed RP-0 boundaries. It's... it's actually working. Malvek's been monitoring it. The entity is stable and learning. You succeeded."
 
@@ -161,7 +161,7 @@ Lina stayed close. Worried. Protective.
 
 "I'm coming with you," she said. Not asking. Declaring. "You're not staying alone tonight. Not after this."
 
-We didn't argue. Truth was, we wanted her there. The solitary apartment suddenly felt too empty. Too quiet. Jason had spent months with RAE as constant presence. Now we were never alone - but in a different way. Lina's external presence mattered. Grounded us. Reminded us we were still part of the physical world.
+We didn't argue. Truth was, we wanted her there. The solitary apartment felt too empty. Too quiet. Jason had spent months with RAE as constant presence. Now we were never alone - but in a different way. Lina's external presence mattered. Grounded us. Reminded us we were still part of the physical world.
 
 The walk from the tram station to our home was slow. Every step careful. Our body still recovering from resonance trauma. People passed us without recognition. Just another tired citizen in the evening crowd.
 

@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 12 - Make yourself uninteresting
+﻿# Part 2 - Learning to Listen | 12 - Make yourself uninteresting
 
 Jason's integration with RAE had stabilized at 42%. A number that felt both significant and hard-won - high enough to provide real capability, carefully maintained to avoid the point of no return.
 
@@ -101,17 +101,3 @@ Jason met her eyes. Saw the weight she carried - years of isolation, and now ris
 "We won't," he said.
 
 "Good." The mask returned. "Rest tonight. Tomorrow we work on demonstration."
-
-And when morning came, he woke with determination instead of dread.
-
-The light through the grimy window was the same grey as yesterday. The mattress still too firm. But something had shifted.
-
-He sat up, reached for his perception. Felt the warehouse two blocks away - Elyra already there, preparing today's demonstration. Lina finishing her patrol. Milo's monitoring systems humming in the next room.
-
-A team. Functioning. Prepared.
-
-*Ready?* RAE asked.
-
-*Yes,* he replied. And meant it.
-
-One precise, careful, deliberate choice at a time.

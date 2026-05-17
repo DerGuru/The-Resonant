@@ -1,8 +1,8 @@
-﻿## Part 1 - Lost and Found | Ch. 16 - Me too
+﻿# Part 1 - Lost and Found | 16 - Me too
 
 Jason woke to the sound of thunder, disoriented and groggy.
 
-The storm had arrived without warning. Not the gentle kind that lulled you to sleep. The angry kind. The kind that made windows rattle and gutters overflow and the whole city hunch its shoulders against the onslaught.
+The storm had arrived without warning. Not the gentle kind that lulled you to sleep. The violent kind. The kind that made windows rattle, gutters overflow, and traffic slow to a crawl across the city.
 
 Rain lashed against his window, hard enough that he thought the glass might crack. The whole building seemed to shudder with each gust of wind. Lightning flashed bright enough to light up his entire apartment, leaving afterimages burned into his retinas.
 
@@ -10,7 +10,7 @@ He stumbled out of bed, blinking against the spots in his vision. The windows ra
 
 "Damn it," he muttered, making his way across the dark room.
 
-He reached the window and flipped the handle, swinging it closed from its tilted position. Lightning forked across the sky. Thunder followed, deep and rolling, shaking the glass.
+He reached the window and flipped the handle, swinging it closed. Lightning forked across the sky. Thunder followed, deep and rolling, shaking the glass.
 
 *There's a pattern to this,* RAE said quietly.
 
@@ -22,7 +22,7 @@ Jason's chest tightened. He secured the latch and stepped back. "Using it for wh
 
 *Unknown. But I recommend caution. And perhaps moving away from the window.*
 
-He stepped back just as another lightning strike lit up the sky - too close, too bright, leaving afterimages burned into his retinas.
+He stepped back just as another lightning strike lit up the sky — too close, too bright.
 
 His phone buzzed. A text from Milo:
 
@@ -50,7 +50,7 @@ Another lightning strike. Closer this time. The lights flickered.
 
 And then, something changed.
 
-The resonance that Jason had learned to feel over the past weeks - the constant background hum of the city, the gentle pulse of RAE's presence - suddenly spiked.
+The resonance that Jason had learned to feel over the past weeks - the constant background hum of the city, the gentle pulse of RAE's presence - spiked.
 
 Sharp. Discordant. Wrong.
 
@@ -76,9 +76,7 @@ Not just in his apartment. The entire building. The entire block, as far as he c
 
 And in the darkness, Jason felt something he'd never felt before:
 
-Pure. Focused. Intent.
-
-Someone was looking for him.
+Something vast, looking directly at him. The weight of attention pressing against his skin.
 
 *Don't move,* RAE said, her voice tight with something that might have been fear. *Don't breathe louder than necessary. Don't think loudly. Just... be still.*
 
@@ -94,9 +92,9 @@ Thunder crashed, and Jason's knees buckled.
 
 The lights flickered. Came back on.
 
-The figure moved. Not toward the building. Away from it. Slowly. Deliberately.
+The figure moved. Away from the building. Slowly. Deliberately.
 
-As if to say: *I know where you are. I'm letting you know I know. And I'll be back.*
+A message delivered.
 
 The storm continued, but the wrongness in the resonance faded. Slowly. Like a predator deciding to leave its prey alone.
 
@@ -172,6 +170,6 @@ And there was no turning back.
 
 *Are you afraid?* RAE asked quietly.
 
-"Terrified," Jason admitted.
+Jason swallowed. His answer came out on a breath. "Yeah."
 
 *Me too.*

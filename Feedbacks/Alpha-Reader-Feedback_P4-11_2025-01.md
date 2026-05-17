@@ -1,7 +1,7 @@
 # Alpha Reader Feedback: Part 4, Chapter 11 - "Supervised Partnership"
 
 **Date:** January 2025 (Final Version)  
-**Chapter:** Part 4 - Boundaries & Becoming | Ch. 11 - Supervised Partnership  
+**Chapter:** Part 4 - Boundaries & Becoming | 11 - Supervised Partnership  
 **Status:** Publication Ready - Final  
 **Integration Level:** 93.7% (maintained from P4-10)  
 **Word Count:** ~4,250 words
@@ -358,7 +358,7 @@ To "Partnership" (RP-0 works ethically without supervision)
 
 ### **Iteration 8-12: Feinschliff**
 8. ? Malvek boundary test ("Accepted, under protest" + Jason's reaction)
-9. ? Entscheidungsmoment körperlich (mouth dry, hands cold, shiver)
+9. ? Entscheidungsmoment kï¿½rperlich (mouth dry, hands cold, shiver)
 10. ? Pattern-Variation (nonverbal field-intervention at 2:30 AM)
 11. ? Casualty Jason-zentriert ("I'd carry that cry")
 12. ? RP-0 Vertrauen explizit ("only one it trusts")

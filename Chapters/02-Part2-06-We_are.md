@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 06 - We are
+﻿# Part 2 - Learning to Listen | 06 - We are
 
 Jason returned to Mill-4 alone. Elyra was waiting, as if she'd expected this.
 
@@ -34,7 +34,7 @@ She activated the circle.
 
 The world *shifted*.
 
-Not physically - Jason's body remained still. But his sense of self suddenly became negotiable. Porous.
+Not physically - Jason's body remained still. But his sense of self became negotiable. Porous.
 
 He could feel RAE's presence, but it wasn't separate anymore. It was *with* his thoughts. Not invading - more like his thoughts were happening as of them both.
 
@@ -52,9 +52,9 @@ Ninety seconds wasn't much time. His identity felt like watercolor in rain - dis
 
 *Focus*, he tried to command himself.
 
-He understood, suddenly, what permanent integration meant.
+He understood what permanent integration meant.
 
-Not loss of self. But transformation into something new. Something that was both Jason and RAE and neither and both.
+Not loss of self. But transformation into something new. Something that was both Jason and RAE, yet neither one unchanged.
 
 It felt like drowning.
 
@@ -98,7 +98,7 @@ But the memory of merged consciousness remained, like an echo he couldn't quite 
 
 *What did it feel like? For you?*
 
-Jason paused at the door, considering. *Like losing myself. And finding us. And not knowing which one I wanted more.*
+Jason paused at the door, considering. *Like losing myself, finding us, and not knowing which one I wanted more.*
 
 *That is... honest. And frightening.*
 

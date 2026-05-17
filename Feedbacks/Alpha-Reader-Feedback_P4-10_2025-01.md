@@ -1,7 +1,7 @@
 # Alpha Reader Feedback: Part 4, Chapter 10 - "I'm choosing you"
 
 **Date:** January 2025  
-**Chapter:** Part 4 - Boundaries & Becoming | Ch. 10 - I'm choosing you  
+**Chapter:** Part 4 - Boundaries & Becoming | 10 - I'm choosing you  
 **Status:** Completed Revision  
 **Integration Level:** 93.7% (established in P4-09)
 

@@ -547,10 +547,10 @@ Thirty-three days at current rate.
 
 | Chapter | Title | Word Count | Focus | Rating |
 |---------|-------|------------|-------|--------|
-| Ch. 04 | She knows something we don't | ~2,800 | Meet Elyra, begin training | ????? |
-| Ch. 05 | Nineteen points from permanent | ~864 | Clips + threshold | ????? |
-| Ch. 06 | Integration is permanent | ~787 | Experience 60% | ????? |
-| Ch. 07 | Green to yellow, never to red | ~1,800 | Training + stability | ????? |
+| 04| She knows something we don't | ~2,800 | Meet Elyra, begin training | ????? |
+| 05| Nineteen points from permanent | ~864 | Clips + threshold | ????? |
+| 06| Integration is permanent | ~787 | Experience 60% | ????? |
+| 07| Green to yellow, never to red | ~1,800 | Training + stability | ????? |
 
 **Arc Coherence:** ????? Perfect escalation
 

@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 11 - I will not leave him
+﻿# Part 3 - Synthesis | 11 - I will not leave him
 
 Lina couldn't sleep.
 
@@ -88,7 +88,7 @@ Lina was quiet for a long moment. Then: "This is insane. We're risking everythin
 
 "That's not fair."
 
-"No. It's not." Elyra didn't look up. "But you asked and I think you deserved an honest answer. You both might not realize it, but I see, that there is more than just friendship between you two. And now he's changing into something you don't understand - we don't understand. And you have to decide if you can love what he's becoming - or if you need to protect yourself and leave."
+"No. It's not." Elyra didn't look up. "But you asked, and I think you deserved an honest answer. You both might not realize it, but I see that there is more than just friendship between you two. Now he's changing into something you don't understand - something we don't understand. You have to decide if you can love what he's becoming, or if you need to protect yourself and leave."
 
 Lina felt something harden in her chest. A decision crystallizing. "I will not leave him."
 

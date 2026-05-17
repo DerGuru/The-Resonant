@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 02 - You have been noticed
+﻿# Part 2 - Learning to Listen | 02 - You have been noticed
 
 The next week passed in measured increments.
 

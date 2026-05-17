@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 08 - Supposedly Dormant
+﻿# Part 3 - Synthesis | 08 - Supposedly Dormant
 
 It was late evening. The air smelled like rain that hadn't fallen yet. Jason, Lina, and Milo had finished yet another practice session with Mrs. Amari and Elyra. Their route home from the warehouse took them close to the industrial district. Beyond the abandoned buildings, with only the moon and the stars as their light, they entered a zone of bright yet dormant streets.
 
@@ -31,6 +31,10 @@ But not empty.
 A pause. Then, quieter: *An earlier attempt. Failed containment from over a decade ago. I don't know the designation, but this is dangerous.*
 
 Jason felt his stomach drop. An entity older than RAE. Powerful enough to need containment. And it was awake.
+
+Somewhere on the next block, a car alarm shrieked to life. Then another. A dog howled — long, confused, cutting off mid-note. Apartment windows lit up one by one along the industrial edge, curtains pulled aside by people who'd felt something they couldn't name. A man leaned out of a third-floor window, shouted something in a language Jason didn't know, and slammed the glass shut again.
+
+The city had felt it. It just didn't know what *it* was.
 
 "We need to call Reeves," he said immediately. "Now."
 

@@ -1,4 +1,4 @@
-﻿## Preface: A New Kind of Collaboration
+﻿# Preface: A New Kind of Collaboration
 
 What am I really, when it comes to this book? Not quite an author - not in the traditional sense, at least. Most of the words you're about to read came from an AI, a large language model that served as my co-writer, translator, and tireless collaborator.
 
@@ -10,7 +10,7 @@ This book is the result of collaboration between human vision and artificial cap
 
 ***
 
-## The Journey: Three Attempts
+## The Journey: Four Attempts
 
 ### Attempt One: Vision Without Direction
 
@@ -43,6 +43,16 @@ And it did.
 It took most of Part One plus a bit of Part Two and condensed it. Reordered chapters. Restructured scenes. Cut bloat. Sharpened focus.
 
 It was *much better*. I liked the result. Not exactly what I'd imagined at the start, but good in a way that brought my drive back. I wanted to read this story again - not as a creator struggling with craft, but as a reader eager to see what happens next.
+
+### Attempt Four: The Structural Pass
+
+The third attempt gave me a complete manuscript. A good one. But "good" isn't "as good as it could be."
+
+I fed the finished book back to the AI - all of it - and asked for a brutally honest diagnosis. The verdict: strong foundation, but structural soft spots. Repeated information across chapters. Emotional beats that told instead of showed. Research dumps disguised as dialogue. A climactic scene that labeled its themes instead of letting the reader experience them.
+
+So I went back in. Not to rewrite - to sharpen. Compress a seventy-line governance exposition into thirty lines of tension. Replace a character's duplicate anecdote with something that revealed new depth. Strip the labeled concepts from the climax and let the confrontation *demonstrate* what words like "boundary" and "choice" actually mean. Add the hesitation a character should feel before volunteering for something that killed five people. Motivate a pronoun shift that had happened without earning its moment.
+
+Small changes. Surgical. But the kind that turn a good book into one that trusts its reader.
 
 ***
 
@@ -142,7 +152,7 @@ Is it "real" writing? I think so. But you'll be the judge.
 
 ## A Final Note
 
-This novel exists because I refused to give up after two failed attempts. It exists because I learned to work *with* the AI's strengths and compensate for its weaknesses. It exists because I read every chapter as both creator and reader, demanding quality at every step.
+This novel exists because I refused to give up after ~~two~~ three (now) failed attempts. It exists because I learned to work *with* the AI's strengths and compensate for its weaknesses. It exists because I read every chapter as both creator and reader, demanding quality at every step.
 
 This isn't "AI-generated content" you can dismiss.
 

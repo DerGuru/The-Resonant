@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 10 - Decision made but unspoken
+﻿# Part 4 - Boundaries & Becoming | 10 - Decision made but unspoken
 
 I sat in the communication room, monitoring equipment surrounding me, Malvek watching through one-way glass. Regular session. Routine check-in.
 
@@ -226,12 +226,11 @@ He paused at the threshold, seemingly wanting to say something. But then he left
 
 I sat alone in the monitoring room for a long time after that, processing what I'd just learned.
 
-Malvek wasn't a bureaucrat enforcing arbitrary rules. He was someone who'd watched harm happen and built a system to prevent it from happening again. His rigidity wasn't fear of innovation - it was born from witnessing the cost of imprecision.
 
-And RP-0 wasn't just an interesting project. It was Malvek's way of rewriting the story. Of making sure Elena's experience taught the next generation of entities what RH-3 had never learned.
 
-So this was personal for him too. We're all carrying something. All trying to prevent the harm we've seen.
 
+
+So this was personal for him too.
 ***
 
 That evening, walking home with Lina, I was quiet. Processing.

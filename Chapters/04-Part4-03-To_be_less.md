@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 03 - To be less
+﻿# Part 4 - Boundaries & Becoming | 03 - To be less
 
 Lina slammed the apartment door hard enough to rattle the frame.
 

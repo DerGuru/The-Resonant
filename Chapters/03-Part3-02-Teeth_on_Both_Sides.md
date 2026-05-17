@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 02 - Teeth on Both Sides
+﻿# Part 3 - Synthesis | 02 - Teeth on Both Sides
 
 Forty-eight hours felt simultaneously too long and not long enough.
 
@@ -36,13 +36,9 @@ They continued, Elyra's questions dissecting weak points like a scalpel.
 
 "Then let's be smart about what we ask for," Milo said, already typing.
 
-By evening, they had nine specific amendments - clarifications of key terms, boundary definitions, and one proposal for mutual threat reporting that Milo insisted was "worth the risk."
+By evening, they had nine specific amendments. Eight were defensive — definitions, privacy, dispute resolution, an exit clause. Standard stuff. The ninth was different.
 
-"Here's what matters most," Milo said, pulling up his summary. "Amendments one through three: concrete definitions for 'public demonstration,' 'unauthorized research,' and 'within reason' - these prevent mission creep. Four through six: data retention limits, check-in format specifications, and monitoring boundaries - basic privacy protection. Seven and eight: dispute resolution process and contract modification procedures - so we're not locked in forever. And nine..."
-
-He paused dramatically.
-
-"Nine is mutual threat reporting. If we spot something dangerous, we tell them. If they spot something we should know about, they tell us. It shifts us from subjects to partners."
+"Mutual threat reporting," Milo said. "If we spot something dangerous, we tell them. If they spot something we should know about, they tell us. It shifts us from subjects to partners."
 
 "It also assumes trust," Lina said.
 
@@ -190,11 +186,13 @@ Malvek read it carefully. Set down Milo's tablet. Looked directly at Jason.
 
 "You're asking for classified intelligence sharing."
 
+Milo's fingers stopped moving on his tablet. Jason noticed — Milo was recalculating, adjusting the pitch in real time.
+
 "We're offering our own intelligence in return," Jason said. "Limited scope. Mutual benefit. And it establishes us as partners, not just subjects of oversight."
 
 Reeves leaned forward. "Director, if I may - they've already demonstrated the restraint this requires. The hotel incident. The CC observation. They documented and withdrew instead of exploiting. That's the judgment we need in partners."
 
-Malvek was quiet for a long moment. "This provision requires trust."
+Malvek was quiet for a long moment. His pen tapped twice against the table — slow, deliberate, like a metronome deciding tempo. "This provision requires trust."
 
 "Yes," Jason said simply.
 
@@ -208,13 +206,13 @@ Jason held his gaze. "Understood. And what constitutes 'misuse' or 'exploitation
 
 "Sharing with unauthorized parties. Using it for personal gain. Acting on it outside the scope of threat mitigation." Malvek's tone was matter-of-fact. "This is classified intelligence, Mr. Fischer. Not negotiable information. If you treat it carelessly, the consequences are severe."
 
-"Then we need the same protection," Milo said suddenly. "If we share intelligence with you and HOA misuses it - uses it to target us or people we work with - we need recourse."
+"Then we need the same protection," Milo said. "If we share intelligence with you and HOA misuses it - uses it to target us or people we work with - we need recourse."
 
 Malvek raised an eyebrow. "You're proposing... what? Mutual oversight?"
 
 "Accountability," Milo said. "If this is a partnership, it works both ways. You investigate misuse on our end, we have the right to file formal complaint on yours."
 
-There was a long silence. Reeves looked impressed. Malvek studied Milo with something that might have been respect.
+There was a long silence. The ventilation hummed overhead. Reeves looked impressed. Malvek studied Milo with something that might have been respect.
 
 "Counter-proposal," Malvek said finally. "Mutual confidentiality clause. Both parties commit to using shared intelligence solely for threat mitigation. Violations by either party trigger formal review by the attorney who's drafting this contract. She arbitrates, determines if violation occurred, recommends consequences. Acceptable?"
 

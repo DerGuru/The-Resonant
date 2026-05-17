@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 06 - What if I was meant to, and never did?
+﻿# Part 1 - Lost and Found | 06 - What if I was meant to, and never did?
 
 Jason lay on his back, staring at the ceiling. The digital clock on his nightstand read 2:47 AM, its red numbers burning into his retinas every time he blinked.
 
@@ -14,7 +14,7 @@ But underneath them, threading through them like a needle through fabric, was so
 
 A tone he felt more than heard.
 
-"Get a grip, Fischer," he muttered to the empty room. "You're not special. So why is this happening?"
+"Get a grip, Fischer," he muttered. "You're not special. So why is this happening?"
 
 No answer came, but **something** was happening. That was the problem.
 
@@ -54,51 +54,25 @@ It was answering him.
 
 He sat on the couch, wrapped in his blanket like armor, and forced himself to think.
 
-Okay. Assume this is real. Assume something - some*one*? - is trying to communicate.
+Okay. Assume this is real. Assume something is trying to communicate.
 
-The logical part of his brain - the part that had gotten him through college, through job interviews, through life - immediately began cataloging possibilities:
+His logical brain immediately cataloged possibilities:
 
-**Option 1: He was having a mental breakdown.**
+**Mental breakdown.** Stress, isolation, too many nights in dusty archives. The physical manifestations argued against it — the wall crack, the vibrations, the sense of something *external*.
 
-Stress. Isolation. Too many nights alone in dusty archives. It wouldn't be the first time someone in his position had cracked. The human mind was fragile. It could create entire realities to cope with loneliness.
+**Manipulation.** Someone at the archive. Some government experiment. The restricted files and Mirror.Vox's warnings lent this weight. But why him? He was nobody.
 
-Evidence for: The timing. The impossibility of it. The fact that he'd been researching restricted files right before this started.
+**Something reaching out.** Something from those restricted files. Related to Elyra Voss. Something contained and now free.
 
-Evidence against: The physical manifestations. The wall crack. The subtle vibrations. The sense that this was coming from *outside* rather than inside.
+This one fit everything. The timing. The connection to the files. The seeming intelligence.
 
-**Option 2: He was being manipulated or targeted.**
-
-Someone at the archive. Some government agency. Some experimental technology testing harmonic influence without consent.
-
-Evidence for: The restricted files. Mirror.Vox's warnings. The fact that inflection research had always walked a thin line between innovation and violation.
-
-Evidence against: Why him? He was nobody. And it did feel malevolent - rather curious or patient and almost ... kind?
-
-**Option 3: Something was actually trying to reach him.**
-
-Something from those restricted files. Something related to Elyra Voss. Something that had been contained and was now free and tried to contact him.
-
-Evidence for: Everything. The timing. The connection to the files. The systematic approach of the contact. The seeming sense of intelligence behind it.
-
-Evidence against: He wasn't special. So why would something choose him?
-
-***
+Except for one thing: he wasn't special. So why would something choose him?
 
 Jason pulled the blanket tighter.
 
-That last question was the one that kept circling back. *Why him?*
+Maybe whatever was reaching out wasn't looking for someone powerful. Maybe it just needed someone who wouldn't freak out. Someone who'd listen when something impossible whispered in the dark.
 
-He was a nobody. He wasn't talented. Wasn't powerful. Wasn't connected. He was just... Jason Fischer. Municipal clerk. Boring. Forgettable. Safe.
-
-Unless...
-
-Unless whatever was reaching out wasn't looking for someone powerful.
-
-Maybe it just needed someone who wouldn't freak out. Someone who'd actually listen when something impossible whispered in the dark.
-
-Someone ordinary, not brave, but curious enough to overcome their fear.
-
-Jason laughed, the sound bitter in the quiet apartment. "So I'm special because I'm... mediocre and too curious to know better? Is that it?"
+Jason laughed, the sound bitter. "So I'm special because I'm mediocre and too curious to know better? Is that it?"
 
 The tone didn't respond. But somehow, he sensed... Agreement? Reassurance?
 
@@ -118,51 +92,29 @@ There was the sharp, immediate fear of physical danger. That was easy to underst
 
 But this - what he felt now - this was different.
 
-This was the fear of possibility. The fear that everything he'd accepted about himself - his limitations, his place in the world, his carefully constructed safe, small life - might be wrong.
+This was the fear of possibility. The fear that everything he'd accepted about himself might be wrong.
 
-What if he wasn't meant to be ordinary?
+What if he'd spent eleven years building a life around a lie?
 
-What if he'd spent the last eleven years building a life around a lie?
+Jason stood abruptly, the blanket falling. He paced — three steps one way, three steps back.
 
-What if he could be more?
+"No. The tests were clear. I accepted reality."
 
-The thought terrified him more than any monster could.
-
-Because if it was true - if he actually had potential, had always had potential - then what did that make him? Someone who'd given up? Someone who'd accepted defeat before even trying?
-
-A coward?
-
-Jason stood abruptly, the blanket falling away. He paced the small living room, three steps one way, three steps back.
-
-"No," he said aloud. "No, that's not fair. The tests were clear. I didn't give up. I accepted reality."
-
-But a small voice in the back of his mind whispered: *Did you? Or did you just choose the easier path?*
-
-He remembered being sixteen. Remembered sitting in that sterile testing room, electrodes on his temples, watching the resonance monitor barely flicker. Remembered the academy rep's face - not cruel, just... dismissive. Efficient.
+But he remembered being sixteen. The sterile testing room. Electrodes on his temples. The resonance monitor barely flickering. The academy rep's face — dismissive. Efficient.
 
 "Thank you for your time, Mr. Fischer. You're free to go."
 
-And Jason had gone. Had walked out without protest. Had told himself it was fine. That not everyone could be special. That ordinary was okay.
+He'd walked out without protest. Told himself ordinary was okay.
 
 But had he ever really tried?
 
-He stopped pacing, staring again at his reflection in the window.
-
-"What if I was afraid?" he whispered. "What if I was so afraid of failing that I never really tried?"
-
-The apartment was silent. Even the resonance seemed to be waiting.
-
-Jason's throat tightened. His eyes burned.
+He stopped pacing.
 
 "What if I was meant to, and never did?"
 
-The question hung in the air like smoke.
+The apartment was silent.
 
-And then, softly, gently, the resonance pulsed.
-
-Not words. Not even a clear message.
-
-Just... presence. Acknowledgment. Acceptance.
+The resonance pulsed. Presence. Acknowledgment.
 
 As if to say: *It's okay. You can try now.*
 
@@ -210,24 +162,14 @@ Fragments. Vague references. A name - Elyra Voss - and a disaster. That was it. 
 
 He didn't know what was reaching out to him. Didn't know if it was safe. Didn't even know if this was real or if he was losing his mind.
 
-But he knew one thing: He wasn't ready to report it. Not yet. Not when he didn't understand what "it" even was.
+But he knew one thing: he wasn't ready to report it.
 
-Jason closed his laptop and walked to the window, watching the city wake up below.
+Jason closed his laptop and walked to the window, watching the city wake up.
 
-For years, safety had been enough. Ordinary had been enough.
+"I'm still here," he whispered. "I'm listening."
 
-But maybe - just maybe - he was willing to try for more?
+The fear was still there. The doubt.
 
-"I'm still here," he whispered to the empty room. To the resonance he couldn't prove existed. "I'm... I'm listening."
+But underneath it — barely there, fragile — curiosity.
 
-It wasn't courage. It wasn't even a decision.
-
-It was just... not running away.
-
-For now, that would have to be enough.
-
-The fear was still there. The doubt. The certainty that he was probably making a mistake.
-
-But underneath it all, barely there, was something small and fragile: Curiosity.
-
-And maybe - just maybe - the faintest edge of hope.
+And maybe the faintest edge of hope.

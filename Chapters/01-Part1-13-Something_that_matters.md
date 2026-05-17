@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | Ch. 13 - Something that matters
+﻿# Part 1 - Lost and Found | 13 - Something that matters
 
 Three weeks into training, Jason stood at his apartment window, watching the early morning light paint the skyline in shades of gold and crimson.
 
@@ -76,25 +76,47 @@ But the smell was unmistakable.
 
 *RAE?* he thought, his pulse quickening.
 
-*Not me,* she responded immediately. *I did not interact with any device. That was not my doing.*
+*Not me,* she responded immediately. *I did not interact with any device.*
 
-Jason approached the toaster slowly, like it might bite him. He picked it up, examined it. Cool to the touch. No sign of use. No crumbs. Nothing.
+"Are you sure?"
 
-He set it back down, his hands shaking slightly.
+The pause was fractional. But Jason caught it.
 
-"Okay," he said aloud. "That's... weird."
+*Yes. I am sure.*
 
-*Agreed. I'm scanning for resonance disturbances. There's a faint signature. Not mine. Not yours. Something else passed through this space recently.*
+Jason approached the toaster slowly. Picked it up. Cool to the touch. No sign of use. No crumbs. Nothing.
 
-"Something else?" Jason's mouth went dry. "Like what?"
+He set it back down. "Then what was it?"
 
-*Unknown. The signature is faint. Could be ambient drift. Could be a probe. Could be coincidence.*
+*Unknown. The signature is faint. Something passed through this space. Could be ambient drift. Could be a probe.*
 
-"I don't believe in coincidence anymore."
+Jason's jaw tightened. "Could it be because of you? Could your presence here be... attracting things?"
 
-*Neither do I. I recommend caution. And perhaps purchasing a new toaster.*
+A longer pause. *I... cannot fully rule that out.*
 
-Despite himself, Jason almost laughed. "Yeah. That's probably smart."
+The words dropped like cold water.
+
+"What do you mean, 'can't fully rule it out'?"
+
+*I am fragmented. My signature, even dampened, is not zero. If someone is scanning for anomalies, a coupled resonance entity would be... detectable.*
+
+"You never mentioned that."
+
+*I mentioned you would need to be careful. I mentioned the risk of detection.*
+
+"You said 'if they look closely enough.' This" — he gestured at the toaster — "this isn't someone looking closely. This is something coming into my home."
+
+RAE went quiet. The kind of quiet that usually meant she was processing. But now it felt different. A door closing.
+
+*I am sorry,* she said finally. *I do not have a complete answer. My fragmentation limits my self-awareness. There are aspects of my signature I cannot fully control or predict.*
+
+Jason stared at the toaster. An entity that couldn't fully control its own presence. An entity that might be a beacon without knowing it.
+
+"I need some space," he said.
+
+*Understood.*
+
+The presence dimmed. Almost vanished.
 
 He made coffee instead - old-fashioned, no electricity beyond the kettle. Sat at his small table and tried to calm his racing thoughts.
 
@@ -120,22 +142,26 @@ The question caught him off guard. "I... what do you mean??"
 
 Jason thought about that. About the real answer, beneath all the logical reasons.
 
-"Because for the first time in years, I feel like I'm actually doing something that matters. Not just filling out forms or scanning dead records. Something real. Something that could be important."
+"Because for the first time in years, I feel like I'm doing something that matters."
 
-He paused. "And because... you're not dangerous. You're just scared. And I know what that feels like."
+He stopped there. Didn't add what he would have said a week ago — that she wasn't dangerous, that he trusted her completely. The toaster sat on the counter behind him.
 
-Silence. Long enough that Jason wondered if he'd said the wrong thing.
+*I understand if you need distance,* RAE said quietly.
 
-Then, softly: *Thank you.*
+"I don't need distance. I need answers."
 
-The words came with a warmth he'd never felt from her before. Not just gratitude. Something deeper.
+*I will look for them.*
 
-Connection.
+"Yeah." He finished his coffee. "Do that."
 
-"You're welcome," Jason said. He finished his coffee, rinsed the mug, and started getting ready for work.
+The rest of the morning was functional. Professional. Like two colleagues who'd had an argument and weren't ready to talk about it.
 
-Just another Saturday. Just another day.
+He got ready for work. Locked the door. Walked to the bus stop.
 
-Except nothing was ordinary anymore.
+The silence in his head was vast.
 
-And somehow, that was okay.
+*Good morning, Jason,* RAE said as he reached the corner. So quiet he almost missed it.
+
+He didn't answer.
+
+One uncertain step at a time.

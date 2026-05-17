@@ -1163,7 +1163,7 @@ Both already corrected in current version:
 | **Stabilization** | Technical action, physical cost | ????? Visceral |
 | **The scream** | Pain release, human moment | ????? Raw |
 | **Clear/collapse** | Success and cost simultaneous | ????? Perfect timing |
-| **Hospital wake** | 16-hour gap, severity shown | ????? Sobering |
+| **Hospital wake** | 16 -hour gap, severity shown | ????? Sobering |
 | **Lina's tears** | Emotional release, fear shown | ????? Powerful |
 | **Recovery negotiation** | Jason reluctantly accepts limits | ????? Character |
 | **Video reveal** | Strategic consequence introduced | ????? Tension |

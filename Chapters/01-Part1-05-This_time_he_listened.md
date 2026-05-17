@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 05 - This time, he listened
+﻿# Part 1 - Lost and Found | 05 - This time, he listened
 
 ```
 [Repeated resonance contact: confirmed]

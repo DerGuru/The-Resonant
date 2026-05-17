@@ -688,10 +688,10 @@ One step at a time.
 
 | Chapter | Title | Words | Focus | Rating |
 |---------|-------|-------|-------|--------|
-| Ch. 04 | She knows something we don't | ~2,800 | Meet Elyra | ????? |
-| Ch. 05 | Nineteen points from permanent | ~864 | Threshold | ????? |
-| Ch. 06 | We are | ~787 | Experience | ????? |
-| Ch. 07 | Green to yellow, never to red | ~1,800 | Discipline | ????? |
+| 04| She knows something we don't | ~2,800 | Meet Elyra | ????? |
+| 05| Nineteen points from permanent | ~864 | Threshold | ????? |
+| 06| We are | ~787 | Experience | ????? |
+| 07| Green to yellow, never to red | ~1,800 | Discipline | ????? |
 
 **Arc Coherence:** Perfect escalation
 - Learn (threshold) ? Experience (merge) ? Execute (discipline)

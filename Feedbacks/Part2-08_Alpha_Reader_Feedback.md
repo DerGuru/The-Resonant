@@ -557,7 +557,7 @@ Or at least, until they could survive it long enough to learn how to win.
 - ? Over-explanation (shows through action)
 - ? Repetition (each exchange new info)
 - ? Melodrama (stakes serious but understated)
-- ? Training clichés ("you can do it!")
+- ? Training clichï¿½s ("you can do it!")
 
 **Dialogue Achieves:**
 - ? Character voice (Elyra clinical, RAE patient, Lina humorous)
@@ -1018,11 +1018,11 @@ Or at least, until they could survive it long enough to learn how to win.
 
 | Chapter | Title | Words | Focus | Rating |
 |---------|-------|-------|-------|--------|
-| Ch. 04 | It felt right | ~3,800 | Meet Elyra | ????? |
-| Ch. 05 | Nineteen points from permanent | ~864 | Threshold | ????? |
-| Ch. 06 | We are | ~787 | Experience | ????? |
-| Ch. 07 | Green to yellow, never to red | ~1,800 | Discipline | ????? |
-| Ch. 08 | Precision over power | ~2,100 | Skill Building | ????? |
+| 04| It felt right | ~3,800 | Meet Elyra | ????? |
+| 05| Nineteen points from permanent | ~864 | Threshold | ????? |
+| 06| We are | ~787 | Experience | ????? |
+| 07| Green to yellow, never to red | ~1,800 | Discipline | ????? |
+| 08| Precision over power | ~2,100 | Skill Building | ????? |
 
 **Arc Coherence:** ????? Perfect progression
 

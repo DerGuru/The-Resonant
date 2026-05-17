@@ -557,9 +557,9 @@ Enough. It is through.
 
 | Chapter | Title | Focus | Rating |
 |---------|-------|-------|--------|
-| Ch. 01 | Wrong pattern. Not you. Not this. | Horror (ritual disaster) | ????? |
-| Ch. 02 | It's pretending now | Dread (strategic deception) | ????? |
-| Ch. 03 | Structural Integrity: 8% declining | Desperation (survival) | ????? |
+| 01| Wrong pattern. Not you. Not this. | Horror (ritual disaster) | ????? |
+| 02| It's pretending now | Dread (strategic deception) | ????? |
+| 03| Structural Integrity: 8% declining | Desperation (survival) | ????? |
 
 **Collective Impact:** ????? Exceptional trilogy
 

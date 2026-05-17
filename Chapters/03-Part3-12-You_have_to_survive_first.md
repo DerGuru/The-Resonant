@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 12 - You have to survive first
+﻿# Part 3 - Synthesis | 12 - You have to survive first
 
 The containment chamber was perfect for what they were about to attempt.
 
@@ -33,7 +33,7 @@ By late afternoon, the chamber was ready. But the attempt itself wouldn't begin 
 
 They dispersed slowly. Milo to verify backup protocols one more time. Lina to her quarters, preparing herself mentally to watch Jason face RP-0 without being able to help. Elyra to review the communication sequences Jason and RAE would attempt one final time.
 
-Jason found himself unable to sleep. Too much nervous energy. Too many thoughts spiraling.
+Jason tried to sleep twice. Both times he lasted less than five minutes before his pulse kicked him back out of bed.
 
 The facility had a roof access - he climbed it, needing air, needing space to think.
 
@@ -111,10 +111,8 @@ As the sun broke over the horizon, they descended. Hand in hand. Ready.
 
 The containment chamber awaited.
 
+
+
 And with it, the attempt that would change everything.
-
-Hope, Jason had learned, was its own kind of courage.
-
-And now, they'd need all the courage they could muster.
 
 One careful step at a time.

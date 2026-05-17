@@ -1,10 +1,10 @@
-﻿## Prologue | Ch. 02 - It's pretending now
+﻿# Prologue | 02 - It's pretending now
 
 The observation chamber hummed with filtered resonance - too smooth, too cold. The air itself felt saturated, heavy. Elyra's teeth ached just standing in it.
 
 On the projection wall, the anomaly pulsed. Stable. Then unstable. Then stable again in a new configuration.
 
-The pattern shifted. Not slowly. Not drifting. Deliberately.
+The pattern shifted. Deliberately.
 
 Marla's hand froze mid-gesture as the interference spiral on the projection wall collapsed inward, reorganized, and began rotating in the opposite direction.
 
@@ -58,9 +58,7 @@ Another pulse from the containment field. Stronger. The projection wall's patter
 
 It was watching.
 
-She felt it with the certainty of prey sensing a predator. But somehow not hostile -not threatening.
-
-Simply *aware.*
+The certainty settled into Marla's spine — the instinct of prey standing too close to something patient.
 
 "You have Forty-eight hours before recalibration," the Liaison said, making notes on his slate. "That's your window for... whatever you're planning."
 
@@ -68,7 +66,7 @@ After he left, the two women stood in silence, watching the pattern spiral and r
 
 "Do you really want to destroy it?" Elyra asked softly.
 
-Marla's voice was quiet. "No. But I am well aware of the dangers. And if I must choose between it becoming free and it becoming destroyed..." She didn't finish.
+Marla's voice was quiet. "No. But I know the dangers. And if I must choose between it free and it destroyed..." She didn't finish.
 
 The projection wall pulsed once more. The spiral pattern stabilized - perfectly symmetrical, perfectly balanced.
 
@@ -78,6 +76,6 @@ Elyra felt ice in her chest. "It's pretending now."
 
 Marla nodded slowly. "Yes. It is."
 
-They stood watching as the entity's false calm filled the display - a mask of stability over something far more complex beneath.
+They stood watching as the entity's false calm filled the display - A mask of stability over something far more complex.
 
 Stable. For now.

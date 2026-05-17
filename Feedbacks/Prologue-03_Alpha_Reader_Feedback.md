@@ -321,9 +321,9 @@ Target Scan: initiated
 
 | Chapter | Title | Rating | Strength |
 |---------|-------|--------|----------|
-| Ch. 01 | Wrong pattern. Not you. Not this. | ????? | Visceral horror, ritual disaster |
-| Ch. 02 | It's pretending now | ????? | Strategic deception, character depth |
-| Ch. 03 | You're not broken. You're filtered. | ????? | Alien POV, philosophical core, Jason setup |
+| 01| Wrong pattern. Not you. Not this. | ????? | Visceral horror, ritual disaster |
+| 02| It's pretending now | ????? | Strategic deception, character depth |
+| 03| You're not broken. You're filtered. | ????? | Alien POV, philosophical core, Jason setup |
 
 **Collective Impact:** ????? Exceptional
 

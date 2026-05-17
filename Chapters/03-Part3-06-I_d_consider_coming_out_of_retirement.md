@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 06 - I'd consider coming out of retirement
+﻿# Part 3 - Synthesis | 06 - I'd consider coming out of retirement
 
 Three weeks into the agreement, Milo found the notebook.
 
@@ -109,19 +109,7 @@ That night, Jason reported to the team.
 
 "Agreed," Jason said.
 
-And as he walked home that night, Jason felt something shift.
-
-They weren't just asking Mrs. Amari for help.
-
-They were asking for her trust.
-
-One careful conversation at a time.
-
-As he walked home, Jason thought about Mrs. Amari's flowers. Six years of careful tending. Thirty years since she'd left the resonance world.
+Walking home, he thought about Mrs. Amari's flowers. Six years of careful tending. Thirty years since she'd left the resonance world.
 
 Tomorrow, she'd decide if she was willing to come back.
-
-For Elyra. For them.
-
-One careful conversation at a time.
 

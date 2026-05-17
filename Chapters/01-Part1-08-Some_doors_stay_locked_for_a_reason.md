@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 08 - Some doors stay locked for a reason
+﻿# Part 1 - Lost and Found | 08 - Some doors stay locked for a reason
 
 Monday came too quickly. He'd seen Lina just a few nights before, but it felt like weeks had passed since their conversation at the window table.
 
@@ -48,7 +48,7 @@ Jason nodded slowly. "And when you left..."
 
 The quiet between them wasn't awkward. Just full.
 
-Jason looked at her carefully. Her profile was lit by the soft yellow glow from the kitchen doorway, her expression unreadable. Strong and vulnerable at the same time.
+Jason looked at her carefully. Her profile was lit by the soft yellow glow from the kitchen doorway, her expression unreadable.
 
 "Thanks for telling me," he said.
 

@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 01 - You move differently
+﻿# Part 4 - Boundaries & Becoming | 01 - You move differently
 
 Morning light filtered through the apartment windows, softer than it should have been. We opened our eyes slowly, consciousness returning in layers - sensation first, then awareness, then thought.
 
@@ -140,7 +140,7 @@ We set down our cup with care. "Different. Not bad, just... different. Like I se
 
 "Is it overwhelming?"
 
-"A little." We considered how to explain it. "Imagine if you suddenly became aware of your heartbeat, your breathing, the exact temperature of the air - all at once, all the time. You'd adapt eventually. Learn to tune it out. But right now? It's like I just moved from a silent town to the middle of a city. The noise never stops."
+"A little." We considered how to explain it. "Imagine becoming aware of your heartbeat, your breathing, and the exact temperature of the air - all at once, all the time. You'd adapt eventually. Learn to tune it out. But right now? It's like I just moved from a silent town to the middle of a city. The noise never stops."
 
 Lina reached across the table. Took our hand. She'd been doing that a lot, like physical touch reminded her we were still real, still present.
 

@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 04 - And then, what?
+﻿# Part 1 - Lost and Found | 04 - And then, what?
 
 ```
 [System state: passive observation mode]
@@ -22,7 +22,7 @@ Waiting for the right moment to be noticed.
 
 ***
 
-The city records building always smelled like old paper and tired cleaning products. Not unpleasant - just unchanging. Jason scanned his badge at the basement level and pushed open the reinforced door to the archives.
+The city records building always smelled like old paper and tired cleaning products. Unchanging. Jason scanned his badge at the basement level and pushed open the reinforced door to the archives.
 
 The overhead lights flickered to life in lazy sequence. A faint hum from the climate controls filled the air. He dropped his bag at his desk - desk three, row seven, tucked between "Civil Engineering – Pre-Modern" and "Land Rights Disputes, 1942–."
 
@@ -38,7 +38,7 @@ He sighed and stood, making his way to the storage shelves. As he turned into ai
 
 "Jason?"
 
-It was Marcy, the only person in the building who still made small talk without prompting. She appeared holding a clipboard and a half-eaten protein bar, her reading glasses hanging from a chain around her neck. Mid-forties, graying hair pulled back in a practical bun, cardigan with elbow patches.
+It was Marcy, the only coworker who still bothered with small talk. She appeared holding a clipboard and a half-eaten protein bar, reading glasses hanging from a chain. Mid-forties, graying hair in a practical bun, cardigan with elbow patches.
 
 "How are you?" she asked.
 
@@ -84,55 +84,13 @@ But then the scanner beeped, and the thought faded.
 
 ***
 
-Jason sat alone at the end of a long cafeteria table, tray in front of him, plastic fork tapping lightly against cheap ceramic. Marcy sat two tables over, deep in a phone call.
+Jason sat alone at the end of a long cafeteria table, plastic fork tapping against cheap ceramic. The food was tired — some kind of pasta, too much sauce. A roll that could double as construction material.
 
-The food was not bad - just tired. Some kind of pasta, too much sauce, and a roll that could double as construction material.
+The room buzzed around him. Conversations folded over each other: work gripes, weekend plans. Jason listened without meaning to. Easier to fade into the rhythm than interrupt it.
 
-The room buzzed with life, but none of it included him. Conversations folded over each other like waves: work gripes, weekend plans, gossip from the higher floors. Jason listened without meaning to. He always did.
-
-It was easier to fade into the rhythm than to interrupt it.
-
-Someone laughed loudly across the room. Someone else coughed hard into their napkin. A chair scraped nearby. Jason shifted slightly, leaned back, and let his eyes wander over the crowd.
-
-He wasn't invisible. People nodded when they passed. A few knew his name. Some didn't. It didn't really matter.
-
-There was a group near the windows - same people every Tuesday. They played card games on break. He used to sit with them, months ago. But he'd never quite clicked.
-
-***
-
-He took a bite of the pasta, chewed mechanically, then checked his watch.
+He took a bite, chewed mechanically, then checked his watch.
 
 Twenty-three minutes left.
-
-A woman he vaguely recognized from IT sat down a few tables away. She didn't look up. Headphones in. Typing something furiously on her tablet. Jason thought about saying hello - just for the hell of it.
-
-But the moment passed.
-
-Instead, he pulled out his phone and flicked through a news feed. Weather warnings. An op-ed about local zoning. A new piece on the debate over licensing independent inflectionists.
-
-He paused on that one.
-
-Read half of it. Put the phone away.
-
-His stomach wasn't as hungry as he thought.
-
-***
-
-As he dumped the remains of the tray into the bin and made his way back toward the archive wing, someone from finance brushed past him and said, "Hey, Jason."
-
-He blinked, nodded. "Hey."
-
-They didn't stop walking.
-
-***
-
-The hallway stretched on in silence. His footsteps didn't echo.
-
-The day wasn't even half over.
-
-Just another day.
-
-And tomorrow would be, too.
 
 ***
 
@@ -148,13 +106,13 @@ It stopped.
 
 He pulled his hand back. Nothing. Just a wall. But as he stepped away, he saw it: a fine, nearly invisible line, running vertically from the ceiling to just above the floor. Not a crack in the plaster. Not damage. More like the wall had... released.
 
-He leaned closer, pushed his glasses up, examined it. The fracture was real. But he knew - **knew** - it hadn't been there yesterday.
+He leaned closer, pushed his glasses up, examined it. The fracture was real. But it hadn't been there yesterday.
 
 No reports. No tremors. No maintenance logs.
 
-He considered logging it. Didn't. Instead, he returned to his desk without a word and loaded the next scan.
+He returned to his desk without a word and loaded the next scan.
 
-The hum from the rack stuttered and settled again.
+The hum from the rack stuttered and settled.
 
 *I can follow the shape from here. No more than a whisper of Invest from you. Later, when you're somewhere nobody is counting keystrokes.*
 

@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 07 - I'll hold the boundary
+﻿# Part 3 - Synthesis | 07 - I'll hold the boundary
 
 Six AM came cold and clear.
 
@@ -175,7 +175,3 @@ She stood, turned to the group. "When do we start?"
 "Then let's begin," Mrs. Amari said. "Show me the first phase. Teach me what I need to know."
 
 They did.
-
-One phase at a time.
-
-One careful, practiced step at a time.

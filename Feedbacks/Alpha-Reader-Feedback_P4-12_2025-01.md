@@ -1,7 +1,7 @@
 # Alpha Reader Feedback: Part 4, Chapter 12 - "Tonight was ours"
 
 **Date:** January 2025 (Final Version)  
-**Chapter:** Part 4 - Boundaries & Becoming | Ch. 12 - Tonight was ours  
+**Chapter:** Part 4 - Boundaries & Becoming | 12 - Tonight was ours  
 **Status:** Publication Ready - Final  
 **Tone:** 95% Warm (Kitchen-Table Intimacy)  
 **Word Count:** ~3,800 words

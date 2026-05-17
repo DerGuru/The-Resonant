@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 16 - Element of surprise
+﻿# Part 2 - Learning to Listen | 16 - Element of surprise
 
 
 They came at 7:10 AM.

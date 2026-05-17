@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 03 - Forward is Forward
+﻿# Part 3 - Synthesis | 03 - Forward is Forward
 
 The first week of monitored freedom felt like learning to walk on ice - careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
 

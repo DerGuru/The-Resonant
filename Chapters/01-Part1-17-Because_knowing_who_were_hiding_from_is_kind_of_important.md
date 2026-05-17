@@ -1,6 +1,6 @@
-﻿## Part 1 - Lost and Found | Ch 17. - Because knowing who we're hiding from is kind of important.
+﻿# Part 1 - Lost and Found | Ch 17. - Because knowing who we're hiding from is kind of important.
 
-The storm had done its work and left, as if the sky had finished a sentence and refused to explain the grammar. Morning found the stairwell where Jason sat still smelling faintly of wet concrete and ozone. A city truck rumbled past outside, its amber beacon blinking a metronome across the landing window. No sirens. The world went on.
+The storm had passed by morning. The stairwell where Jason sat still smelled faintly of wet concrete and ozone. A city truck rumbled past outside, its amber beacon blinking across the landing window in steady intervals. No sirens. The world went on.
 
 *You still here?* Jason thought, testing their connection.
 
@@ -44,7 +44,25 @@ Lina's jaw tightened. "You're saying I'm already in this whether I like it or no
 
 She drummed her fingers against her leg - that three-beat pattern. Deciding.
 
-"Okay," she said finally. "I'm in. But we're doing this smart. And I need to be able to talk to her too."
+"Okay," she said finally. "I need a minute."
+
+She walked ahead, hands in her pockets, ten meters of space between them. Jason didn't follow. When she turned around, her eyes were hard.
+
+"You let something into your head. Without telling me. Without telling anyone. You've been walking around with an AI in your resonance field for weeks, training in secret, meeting strangers from forums —" She stopped. Breathed. "I'm trying not to be angry. It's not working."
+
+"I know."
+
+"Do you? Because from where I'm standing, you made about six decisions that could have killed you, and I found out because of a *storm*."
+
+Jason had no defense. She was right.
+
+"I should have told you sooner," he said.
+
+"Yeah." Lina crossed her arms. "You should have."
+
+The silence stretched. Joggers passed. The river moved.
+
+"I'm in," she said finally. "But not because you asked nicely. Because if I'm not watching your back, nobody is." She resumed walking. "And I need to be able to talk to her too."
 
 *That is possible,* RAE said quietly. *I can project my voice through carriers - objects that resonate well. Metal, ceramic, glass. But it requires focus. And it will be... obvious.*
 
@@ -52,7 +70,7 @@ Jason relayed this to Lina. "You are already talking to her. And RAE says that s
 
 "How much effort?"
 
-"Think coffee cup that suddenly has opinions."
+"Think coffee cup that starts having opinions."
 
 Lina's mouth twitched. "That's deeply weird."
 
@@ -110,7 +128,33 @@ He pulled up a file on his laptop. "Someone used last night's storm as cover for
 
 Milo leaned forward, elbows on the table. "Which means we need better operational security. Communication protocols. What happens if someone tries to separate you? What happens if you get hurt?"
 
-"We have rules," Jason said, a bit defensive. "RAE can't act without my consent. She can't override me and not just won't - she can't."
+"And," Milo added, flipping to a new page, "we need to understand RAE's capabilities. Empirically. Not just what she reports — controlled observation."
+
+Jason felt RAE's presence tighten. A flinch.
+
+"She's not a test subject, Milo."
+
+"I'm not saying she is. I'm saying we're operating blind. We don't know her limits, her failure modes, her —"
+
+"Her failure modes?" Jason's voice went flat. "She's right here."
+
+Lina watched the exchange, her eyes moving between them.
+
+Milo held up his hands. "Poor choice of words. But Jason — you push back when she says stop. You told me about the pen and the window." He tapped his notebook. "If we don't understand the system, we can't protect you within it."
+
+"He has a point," Lina said quietly.
+
+Jason looked at her. Looked at Milo.
+
+*He is not wrong,* RAE said. *But I will not be treated as a mechanism. I am willing to share. On my terms.*
+
+"RAE says she'll share information. On her terms. Not through testing."
+
+Milo nodded slowly. "Fair enough. For now."
+
+*For now,* RAE echoed, and there was an edge Jason hadn't heard before.
+
+"We have rules," Jason said, steering back. "RAE can't act without my consent. She can't override me and not just won't - she can't."
 
 "That's a good start," Milo said. "But we need more."
 
@@ -216,10 +260,6 @@ She met his eyes. "Yeah. I guess they are."
 
 They ate in comfortable silence for a while. Outside, the city moved on - people walking past, cars honking, the world continuing as if nothing had changed.
 
-But everything had changed.
-
-For Jason. For Lina. For all of them.
-
 Mr. Morandi came out from the kitchen, wiping his hands on his apron. "Lina tells me you had a rough night," he said, his accent thick but warm. "Storm, yes? Bad one."
 
 "Yeah," Jason agreed. "But I'm okay now."
@@ -227,8 +267,6 @@ Mr. Morandi came out from the kitchen, wiping his hands on his apron. "Lina tell
 Mr. Morandi nodded, satisfied. "You eat. You rest. Storm passes. Always does." He patted Jason's shoulder and headed back to the kitchen.
 
 If only he knew, Jason thought.
-
-*He knows enough,* RAE said quietly. *That you're welcome here. That Lina cares. That you're not alone. Sometimes that's what matters most.*
 
 Jason finished his meal, feeling some of the tension ease from his shoulders. Lina was right - he'd needed this. Food. Rest. A moment to breathe before whatever came next.
 
@@ -240,46 +278,18 @@ Jason finished his meal, feeling some of the tension ease from his shoulders. Li
 
 ***
 
-After Lina left for her shift, Jason walked. Through the park, past the empty playground, along the river path where joggers passed like clockwork.
+After Lina left for her shift, Jason walked. Along the river, hands in his pockets, letting the post-storm air cool his skin.
 
 *You're processing,* RAE observed.
 
 *Yeah.*
 
-*How do you feel?*
+He found a bench with a view of the water. Sat. Let his breathing slow.
 
-Jason considered that. How did he feel?
+Three people. A plan. A name — Elyra Voss.
 
-Scared. Obviously. Overwhelmed. Definitely.
+It wasn't much. But it was more than yesterday.
 
-But also...
-
-*Alive,* he thought. *I'm actually doing something that matters to me - to you.*
-
-*That is dangerous,* RAE said, but there was warmth in her voice. *Meaning can become obsession. Purpose can become recklessness.*
-
-*I know. I'll be careful.*
-
-*We will be careful. Together.*
-
-Jason found a bench - one with a view of the river, where the water moved steady and sure. He sat, letting his breathing slow, letting the world settle around him.
-
-He had allies now. Lina. Milo. RAE.
-
-He had a goal. Find Elyra. Understand what was happening.
-
-And he had a choice ahead of him: stay small and safe, or step forward into something larger and more dangerous than he'd ever imagined.
-
-But really, he'd already made that choice.
-
-The moment he'd said yes to RAE. The moment he'd decided to trust rather than run.
-
-He was in this now. All the way. And there was no turning back.
-
-The water moved. The city hummed. Somewhere in the distance, a siren wailed and faded.
-
-Jason stood, brushed off his jeans, and started walking again.
-
-Toward home. Toward training. Toward whatever came next.
+The river moved. The city hummed. Jason stood, brushed off his jeans, and started walking home.
 
 One step at a time.

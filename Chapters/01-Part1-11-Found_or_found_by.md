@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 11 - Found, or found by?
+﻿# Part 1 - Lost and Found | 11 - Found, or found by?
 
 Jason had never been good at forums. Instead he had been a lurker for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
 

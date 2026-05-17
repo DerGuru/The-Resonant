@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 14.1 - Staying Alive Out of Spite
+﻿# Part 2 - Learning to Listen | 14 - Staying Alive Out of Spite
 
 Jason's training entered its final phase.
 

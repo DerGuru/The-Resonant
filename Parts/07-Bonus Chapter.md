@@ -1,4 +1,4 @@
-## Part 4 - Boundaries & Becoming | Ch. 03 - Anchor
+## Part 4 - Boundaries & Becoming | 03 - Anchor
 
 Jason's apartment had become a negotiation space.
 

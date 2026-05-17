@@ -1124,7 +1124,7 @@ Lina's "You did good," Mr. Morandi's pasta, RAE's "Do not take that for granted"
 | **Lina-RAE contact** | Direct relationship begins | ????? Beautiful |
 | **Red-level stop** | Protocol executed | ????? Validating |
 | **Conservative testing** | Learn practical limits safely | ????? Smart |
-| **Distance test** | 10-meter limit | ????? Concrete |
+| **Distance test** | 10 -meter limit | ????? Concrete |
 | **Lina's affirmation** | Emotional support | ????? Touching |
 | **Mr. Morandi care** | Physical recovery | ????? Grounding |
 | **Final conversation** | Lina trust issue, Jason's growth | ????? Wise |

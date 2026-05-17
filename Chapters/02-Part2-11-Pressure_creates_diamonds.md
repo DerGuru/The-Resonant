@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 11 - Pressure creates diamonds
+﻿# Part 2 - Learning to Listen | 11 - Pressure creates diamonds
 
 The surveillance started subtly.
 

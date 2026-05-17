@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 05 - Intent doesn't negate consequence
+﻿# Part 4 - Boundaries & Becoming | 05 - Intent doesn't negate consequence
 
 The HOA facility's communication room felt like a cage designed by engineers.
 
@@ -184,24 +184,8 @@ Lina squeezed our hand.
 
 The words hit harder than they should have. Because she was right.
 
-We were so focused on teaching RP-0 about consent that we hadn't noticed: we had wanted to do the same thing. Intervene. Fix. Stating our intentions first - sure, but we were not asking.
-
-Intent didn't negate consequence for us either.
-
 The silence stretched between us.
 
 "Good. Let's go home. I'm tired. You're tired. We need rest before the demonstration."
 
-The demonstration. We'd almost forgotten.
-
 Ten days away now.
-
-***
-
-RP-0 was learning. But so were we.
-
-Good intentions weren't enough. Asking wasn't enough.
-
-Even with consent, even with care, people could still get hurt.
-
-And we had to live with that.

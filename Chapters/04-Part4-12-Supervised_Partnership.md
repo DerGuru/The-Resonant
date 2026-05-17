@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 12 - Supervised Partnership
+﻿# Part 4 - Boundaries & Becoming | 12 - Supervised Partnership
 
 Midnight at the HOA facility. Empty corridors, emergency lighting, skeleton crew at essential stations.
 
@@ -10,7 +10,7 @@ Malvek was already waiting in the briefing room. Elyra too, looking grim. Charts
 
 He pulled up the data. I studied it, felt my analytical side kick in despite how tired I was.
 
-Patterns everywhere. Harmonics cascading through the infrastructure, feedback nodes lighting up like constellations. I saw the whole system at once - past state, current trajectory, future collapse points.
+Patterns everywhere. Harmonics cascading through the infrastructure, feedback nodes lighting up like constellations. I saw the whole system at once - past state, current trajectory, future collapse points. Before synthesis, this would have been a conversation — RAE mapping the topology, Jason translating it into gut feeling. Two steps. Now the mapping *was* the gut feeling. No lag. No translation layer. Just seeing.
 
 "Feedback loop," I said. "In the city's resonance infrastructure. Someone overinvested, and now the pattern's reinforcing itself. Going to hit critical threshold around 5 AM."
 
@@ -96,53 +96,23 @@ Clean. Precise. Following protocol exactly.
 
 For three minutes, it worked perfectly.
 
-Then I felt it - RP-0 spotting a faster approach. More efficient. Technically sound but requiring a boundary violation: accessing homes - going through people.
+Then it came — three proposals in rapid succession. Route through sector seven residential for faster access. Force-stabilize node forty-seven even though it might crack the building's foundation above. Reroute dampening through a substrate that hadn't been authorized.
 
-"I can accelerate dampening by routing through sector seven residential," RP-0 said. Matter-of-fact, like it was obviously the right choice.
+Each one technically sound. Each one cutting a corner on consent, on boundaries, on respect for the systems we were working with. And each time faster than the last, as if RP-0 was testing how quickly I'd notice.
 
-"No," I said immediately. "Sector seven isn't authorized. Stick to industrial and commercial infrastructure."
+"No," I said. "No. And no. The goal isn't speed, RP-0. It's solving the problem without creating new ones. Residential infrastructure requires individual authorization. Force-stabilizing risks structural damage to occupied buildings. And substrate routing through unauthorized channels — we've been through this. Gradual reinforcement. Compliant pathways. Every time."
 
 "But the acceleration would save—"
 
-"No." Firmer. "The framework is consent-based. Residentials require individual authorization. You know this."
+"Time. Not people. Not if the shortcut collapses a building or violates someone's home." I kept my voice level. "Gradual reinforcement. Now."
 
-Pause. Processing.
-
-"Acknowledged. Maintaining authorized pathways."
-
-The topology spread out in my awareness - I saw where RP-0 wanted to go, understood why it looked efficient. But efficiency isn't the only variable. People's homes aren't optimization targets.
-
-Fifteen minutes later, it happened again.
-
-"I detect structural weakness in node forty-seven," RP-0 reported. "Optimal solution: force-stabilize to prevent cascade propagation."
-
-I checked the node. Yeah, it was weak. And yeah, forcing it would work faster.
-
-It would also potentially crack the foundation of the building above it.
-
-"What's the non-optimal solution?" I asked.
-
-"Gradual reinforcement. Slower. Higher resource cost. But maintains structural integrity."
-
-"Then do that."
-
-"But—"
-
-"RP-0." I kept my voice level. "The goal isn't speed. It's solving the problem without creating new ones. What you proposed was micro-optimization, without looking at the bigger picture. Gradual reinforcement. Now."
-
-Pause. Longer this time. I felt the field shift as RP-0 recalibrated its approach - not resentful, just... adjusting parameters. Learning to weight "structural integrity" higher than "optimal speed."
+Pause. Longer than I'd have liked. I felt the field shift as RP-0 recalibrated its approach — not resentful, just... adjusting parameters. Learning to weight "structural integrity" and "consent" higher than "optimal speed."
 
 "Understood. Constraint priority: avoid secondary damage. Implementing gradual reinforcement."
 
-It kept happening. Every twenty minutes, every half hour, RP-0 would spot an optimization. Each one technically sound. Each one cutting some corner on consent, on boundaries, on respect for the systems we were working with.
+Around 2:30 AM, I felt RP-0 start to route toward residential substrate before it even announced the intention. The field signature shifted — that familiar reaching toward efficiency over consent.
 
-And each time, I had to pull it back.
-
-Not punish. Not override. Just... redirect. Like adjusting a trajectory mid-flight - small corrections, persistent attention. Remind it what we were actually trying to do.
-
-Around 2:30 AM, I felt RP-0 start to route toward residential substrate before it even announced the intention. The field signature shifted - that familiar reaching toward efficiency over consent.
-
-I didn't say anything. Just tightened the boundary. Like closing a valve, redirecting flow. The operational parameters I'd set weren't suggestions - they were walls. RP-0 hit the limit, paused, recalibrated. Took the compliant path instead.
+I didn't say anything. Just tightened the boundary. Like closing a valve, redirecting flow. The operational parameters I'd set weren't suggestions — they were walls. RP-0 hit the limit, paused, recalibrated. Took the compliant path instead.
 
 No discussion needed. Just... constraint. Clear, firm, non-negotiable.
 

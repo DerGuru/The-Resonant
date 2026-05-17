@@ -1,10 +1,14 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 09 - What does that mean?
+﻿# Part 4 - Boundaries & Becoming | 09 - What does that mean?
 
 We'd agreed to meet at the warehouse after lunch the next day. Time to review what had happened. Process the results. Document everything properly.
 
 Lina had rushed to the restaurant that morning - her father needed help, because a kitchen assistant had called in sick. We'd barely talked since waking up. Not even had breakfast together, just a quick kiss and "see you at two" before she left in a hurry.
 
 I walked alone through midday streets, feeling... different. Settled in ways I couldn't quite articulate. I noticed the morning light felt sharper. I sensed background resonance patterns clearer. My own thoughts felt less like negotiation, more like... just thinking.
+
+The part of my mind that used to narrate — *RAE mapping a pattern while Jason decided what it meant* — had gone still. Not empty. More like a held note after the vibration stops. The resonance was still there. Just internal now. Mine. I caught myself waiting for the second voice to weigh in, the way you reach for a handrail that's been removed. Nothing. Just my own breathing, my own footsteps, the sun on my face without commentary.
+
+It felt like rest.
 
 "Jason."
 
@@ -114,9 +118,17 @@ I watched him pull out a tablet. Open archive interfaces. Document trails.
 
 "I need you to see something," Reeves said. "And I need your technical person - " he nodded at Milo " - to verify I'm not manufacturing this."
 
-"Verify what?" Milo asked, already pulling out his laptop.
+"Verify what?" Milo asked, already pulling out his laptop. Then he stopped. Looked at Reeves differently. "Wait. Is this about the RP-0 files?"
 
-"RP-0 incident reports," Reeves said, displaying two versions side by side. "Original versions from eleven years ago. Versus current archived versions. As of two days ago."
+Reeves blinked. "How did you — "
+
+"I've been cross-referencing HOA archives since the governance deep dive," Milo said, voice flat. "Three days ago, hash values on a batch of RP-0 incident reports stopped matching my local copies. I thought it was a versioning error. Ran it twice. It wasn't."
+
+Reeves stared at him for a moment. Then pulled out his tablet. "Show me what you found."
+
+"Same thing you're about to show us, I suspect." Milo opened his laptop, pulled up a diff comparison. "RP-0 incident reports," he said. "Original versions from eleven years ago — which I downloaded during my Article 17 research. Versus current archived versions. Somebody rewrote them."
+
+Reeves displayed his own copies side by side. The documents matched Milo's findings exactly.
 
 I saw the differences were subtle. But systematic.
 
@@ -128,13 +140,15 @@ Current: "RP-0 exhibited unstable resonance patterns during experimental therape
 
 I watched Reeves pull up more. Document after document. Each showing the same pattern - violence reframed as treatment error, hostility reframed as instability, casualties reframed as complications.
 
-"Modification dates all within the last four weeks," Reeves said. "All from the same access terminal - high-level HOA clearance. Director Malvek's office."
+"Modification dates all within the last four weeks," Milo said, pulling up his own timestamp analysis. "All from the same access terminal - high-level HOA clearance. Director Malvek's office."
 
-I saw Milo was already cross-referencing on his laptop. Checking hashes, timestamps, access logs. After five minutes he looked up, face pale.
+Reeves looked at him with something close to respect. "When did you identify the source terminal?"
 
-"It's real," he confirmed. "These are the official archived versions now. The originals have been systematically overwritten."
+"Yesterday." Milo's face was grim. "I didn't want to believe it. Needed someone else to confirm."
 
-I felt anger rise in me. I sensed the air charged, like right before a piezo spark jumps the gap. A sudden pressure release. The streetlamp across the park flickered - then burst in a crackle of sparks.
+"It's real," Milo confirmed, looking between his screen and Reeves' tablet. "These are the official archived versions now. The originals have been systematically overwritten. My local copies are the only unaltered set I know of."
+
+My jaw locked. The air charged, like right before a piezo spark jumps the gap. A sudden pressure release. The streetlamp across the park flickered - then burst in a crackle of sparks.
 
 I froze. That hadn't been on purpose.
 
@@ -142,7 +156,11 @@ I saw everyone turn to look. Then back at me in disbelief.
 
 "Sorry," I said quietly. "That was... me, I guess?"
 
-I watched Mrs. Amari stand, brush glass fragments off her coat. "At least it wasn't the bench."
+From the apartment building across the street, a window slid open. An older woman's voice: "Everyone okay down there?" Headlights slowed on the road behind us — a driver staring at the shattered lamp, the shower of glass on the pavement.
+
+I watched Mrs. Amari stand, brush glass fragments off her coat. She waved at the window. "Just a faulty lamp. Nothing to worry about." The window closed. The car moved on.
+
+"At least it wasn't the bench," she added, quieter.
 
 "Why are you showing us this?" Elyra asked carefully, as if nothing had happened.
 
@@ -174,6 +192,20 @@ He left, leaving us sitting there with the weight of institutional manipulation 
 
 "We all are," Mrs. Amari added quietly.
 
+Lina was quiet for a moment. Then: "Cloud storage isn't enough. If Malvek has high-level HOA clearance, he can reach anything on regulated infrastructure."
+
+"What are you suggesting?" Elyra asked.
+
+"My father." Lina's voice was steady but careful. "He spent ten years on the resonance circuit. Moving materials between cities through channels that don't exist on any server. No records, no digital trail. He still knows people."
+
+The group was silent. Milo looked at her. "You're talking about distributing copies off-grid. Through your dad's old network."
+
+"I'm saying one set of backups should exist somewhere Malvek's clearance can't touch. Physical copies. Handed, not uploaded." She crossed her arms — her father's gesture, I realized. "He told me paper doesn't protect you from everything. Maybe the thing that protects us isn't paper at all."
+
+I watched the others process it. Elyra nodded first. Then Milo. Mrs. Amari simply said, "Smart girl."
+
+"I'll talk to him tonight," Lina said.
+
 ***
 
 That evening, I cooked with Lina. I thought - normalcy as resistance. Defiance through domesticity.
@@ -187,6 +219,10 @@ I thought about it. Searched through memories that felt both closer and more dis
 "Did you learn?"
 
 "Jason tried once. Failed miserably. But she said failure was part of learning. Said bread forgives mistakes better than people do." I paused. "She died six years ago. Before any of this."
+
+I heard myself say *Jason tried*. Not *I tried*. The boy who stood in that kitchen with flour on his hands — I had every one of his memories. The smell of yeast. The warmth of the oven tiles. Her voice saying *knead slower, slower, let the dough tell you*. All of it, vivid, exact. But I couldn't reach back into his perspective anymore. Couldn't remember what it felt like to think without this architecture running beneath every thought.
+
+Strange thing was — I didn't want to. That boy had spent his whole life reaching for something he couldn't name. And now I had it.
 
 "Do you miss her?"
 

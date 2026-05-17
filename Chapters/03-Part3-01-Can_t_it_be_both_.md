@@ -1,4 +1,4 @@
-﻿## Part 3 - Synthesis | Ch. 01 - Can't it be both?
+﻿# Part 3 - Synthesis | 01 - Can't it be both?
 
 Jason stepped off the tram two stops early. The amphitheater was only six blocks away, but he needed the walk. Needed time to think.
 
@@ -40,7 +40,7 @@ Jason reached the amphitheater's approach - a wide plaza, empty at noon on a wee
 
 Jason's watch read 11:57 AM. His headache was Green, but his pulse hammered Yellow territory. He forced himself to breathe slowly, to project calm he didn't feel.
 
-*He's already there,* RAE said suddenly.
+*He's already there,* RAE said.
 
 *Where?*
 
@@ -130,7 +130,7 @@ He closed the tablet, set it aside.
 
 He gestured at the space between them.
 
-"That's the pattern I've been tracking, Mr. Fischer. The Scaffold incident at Porter Street - you stabilized a collapse instead of exploiting the chaos. You defended and helped rather than screaming in panic. Meridian Hotel - you created a tactical diversion instead of simply running. You watched the CC rather and withdrew, rather than escalating." He paused. "You demonstrate courage, clear thinking and restraint. Every single time."
+"That's the pattern I've been tracking, Mr. Fischer. The Scaffold incident at Porter Street - you stabilized a collapse instead of exploiting the chaos. You defended and helped rather than screaming in panic. Meridian Hotel - you created a tactical diversion instead of simply running. You watched the CC, then withdrew rather than escalating." He paused. "You demonstrate courage, clear thinking and restraint. Every single time."
 
 "It's the behavior of someone who wants to survive," Jason said quietly.
 
@@ -170,7 +170,7 @@ Jason took the document. Six pages. Dense legal language. He'd need everyone to 
 
 *RAE? Initial assessment?*
 
-*Surface level, it appears more equitable than I expected. But Malvek doesn't offer fairness without purpose. We need Elyra's and especially Milos expertise to identify the leverage points.*
+*Surface level, it appears more equitable than I expected. But Malvek doesn't offer fairness without purpose. We need Elyra's and especially Milo's expertise to identify the leverage points.*
 
 "One condition before I agree to reconvene," Jason said. "You know Lina's up there somewhere. You know Milo's monitoring. You probably have countersurveillance watching them. Call them off. Now."
 

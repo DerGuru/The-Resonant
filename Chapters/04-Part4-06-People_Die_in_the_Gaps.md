@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 06 - People Die in the Gaps
+﻿# Part 4 - Boundaries & Becoming | 06 - People Die in the Gaps
 
 The strategy meeting felt like a trap disguised as collaboration.
 
@@ -64,7 +64,7 @@ Harwick leaned back, studying him. "You're letting past failures prevent future 
 
 "I'm letting past failures inform present caution," Malvek corrected. "There's a difference."
 
-"Let's ask RP-0," Malvek said suddenly.
+"Let's ask RP-0," Malvek said.
 
 Everyone looked at him.
 

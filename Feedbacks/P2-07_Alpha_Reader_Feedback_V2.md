@@ -545,7 +545,7 @@ One careful boundary at a time.
    - Managed "we"
 
 **Dialogue Avoids:**
-- ? Training clichés ("push through the pain")
+- ? Training clichï¿½s ("push through the pain")
 - ? False encouragement ("you're amazing!")
 - ? Over-explanation (reader sees progress)
 - ? Melodrama (no crisis this chapter)
@@ -899,10 +899,10 @@ Walking home that night, Jason felt the familiar ache behind his eyes - Yellow t
 
 | Chapter | Title | Words | Function | Rating |
 |---------|-------|-------|----------|--------|
-| Ch. 04 | She knows something we don't | ~2,800 | Introduction | ????? |
-| Ch. 05 | Nineteen points from permanent | ~864 | Warning | ????? |
-| Ch. 06 | We are | ~787 | Crisis | ????? |
-| Ch. 07 | Green to yellow, never to red | ~1,800 | Resolution | ????? |
+| 04| She knows something we don't | ~2,800 | Introduction | ????? |
+| 05| Nineteen points from permanent | ~864 | Warning | ????? |
+| 06| We are | ~787 | Crisis | ????? |
+| 07| Green to yellow, never to red | ~1,800 | Resolution | ????? |
 
 **Arc Coherence:** ????? Perfect escalation and resolution
 

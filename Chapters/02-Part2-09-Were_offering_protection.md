@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 09 - We're offering protection
+﻿# Part 2 - Learning to Listen | 09 - We're offering protection
 
 Seven weeks into training, Jason found himself three blocks from Morandi's when a man stepped out of a coffee shop doorway and just stood there, waiting.
 

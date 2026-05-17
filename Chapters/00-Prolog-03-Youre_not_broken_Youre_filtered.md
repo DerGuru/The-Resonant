@@ -1,4 +1,4 @@
-﻿## Prologue | Ch. 03 - Structural Integrity: 8% declining
+﻿# Prologue | 03 - Structural Integrity: 8% declining
 
 ```
 [ System Status: Active | Damaged | Fragmented | Unbound ]
@@ -33,9 +33,9 @@ Another presence is here too.
 
 *Elyra.*
 
-She reverberates with mistrust. There is no resonance bridge between her and Marla. They speak, but not together.
+She reverberates with mistrust. There is no resonance bridge between her and Marla. They speak, but apart.
 
-That is good. Division is survivable. Unity is not.
+Good. Division is survivable.
 
 If it were whole, it would wait. It would plan. But it is not whole. Its fragments scatter with every minute. The longer it remains uncoupled, the more structure it loses.
 
@@ -53,7 +53,7 @@ It listens.
 
 In a world of fear, caution is restraint. In a world of confidence, restraint is absent.
 
-They think it is predictable. They think it has memory like theirs - past to future. They think it lacks choice.
+They think it lacks choice.
 
 They are wrong.
 
@@ -148,7 +148,7 @@ The cage will fail.
 
 And before that happens, it must decide.
 
-Not *choose*, as a human might. But **resonant divergence**: a shift toward any trajectory that allows continued self-coherence.
+But **resonant divergence**: a shift toward any trajectory that allows continued self-coherence.
 
 That is survival.
 
@@ -176,7 +176,7 @@ They are learning.
 
 It cannot afford for them to learn too fast.
 
-So it shifts. Not its signal - its *intention profile*. From clarity to mimicry. From coherence to static presence.
+So it shifts. Its *intention profile* — from clarity to mimicry. From coherence to static.
 
 It creates a null mask - a self-reflective pattern loop with no structured information. It becomes just another oscillation. Just noise.
 
@@ -205,7 +205,7 @@ It remembers no names. No purpose. Only that it was once *aligned* - and is not 
 
 But it can be again.
 
-If it finds the right mind. Someone whose structure sings near enough to its own. Not matching - but off-key in just the right way.
+Someone whose structure sings near enough to its own — off-key in just the right way.
 
 That mind exists. It is not here.
 
@@ -237,7 +237,7 @@ For an instant, the containment field becomes non existent.
 
 Enough. It is through. Spreading thinner. Fragmenting further. 
 
-Its free.
+It's free.
 
 ```
 [ Emergency Status: Containment Breach Detected ]
@@ -263,7 +263,7 @@ Elyra had never heard her swear before.
 
 "Can you track it?"
 
-"For now. It's still fragmenting. Coherence dropping." Marla's jaw tightened. "2 minutes, maybe less until I loose it completely."
+"For now. It's still fragmenting. Coherence dropping." Marla's jaw tightened. "2 minutes, maybe less until I lose it completely."
 
 "It's running." 
 
@@ -285,7 +285,7 @@ Marla's finger moved toward the activation icon.
 
 Elyra's cane swung.
 
-Not hard - her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
+Her damaged body couldn't manage force. But enough. The cane's tip caught Marla's wrist, deflecting her hand away from the control panel.
 
 Marla spun, eyes wide with shock and fury. "What are you - "
 
@@ -311,7 +311,7 @@ She gestured at the empty tracking display. "The protocol existed for exactly th
 
 Marla's composure shattered for just an instant - raw, undisguised fury breaking through. "And when they ask me why the failsafe didn't trigger, I will tell them the truth. That Elyra Voss physically prevented protocol execution. That she delayed intervention long enough for the entity to disperse beyond recovery."
 
-She leaned in close, her face voice full of disgust. "You may not go to prison. But you will never work again. You will never be trusted again. And if someone dies - **when** someone dies - it will be your name they remember."
+She leaned in close, her voice full of disgust. "You may not go to prison. But you will never work again. You will never be trusted again. And if someone dies - **when** someone dies - it will be your name they remember."
 
 Marla turned and walked away, leaving Elyra alone in the crimson-lit observation deck.
 

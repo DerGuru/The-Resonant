@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 14.2 - Tomorrow
+﻿# Part 2 - Learning to Listen | Ch. 14.2 - Tomorrow
 
 Day Fourteen. The final day.
 
@@ -34,29 +34,19 @@ She glanced toward the kitchen, where her father was working. "When I was sixtee
 
 "Because he knows me." Lina set down her fork. "He knows I'd go anyway. With or without permission. At least this way..." She trailed off, watching her father move through the kitchen. "At least this way, he can feed me before I disappear."
 
-Milo stared at his plate. "I keep coming back to it, you know?" He laughed quietly. "That plan I had. The exam. The job. The girl from the coffee shop." He paused. "I even rehearsed what I'd say to her. Multiple times. Standing in front of my mirror like an idiot."
+Milo stared at his plate. He hadn't touched the pasta. His finger traced the rim of his water glass — the same circling motion he made when running data analysis, except now there was no screen, no graph, no problem he could solve by thinking harder.
 
-He picked up his fork. Set it down. "I told you about this already, didn't I?"
+"I packed a bag tonight," he said. "Took me four minutes. Everything that matters — laptop, drives, chargers, passport. Four minutes for an entire life."
 
-"Yeah," Jason said.
+He picked up his fork. Set it down.
 
-"Sorry. I just..." Milo shook his head. "I keep thinking about it. About how real it felt. How close it was." He looked up. "Three weeks ago, that was my biggest worry. Whether she'd say yes."
-
-"You still could," Jason said. "After - "
-
-"After what?" Milo looked up. His eyes were tired. "After we become fugitives? After we fight Malvek's containment teams? After everything changes?" He shook his head. "That life's gone. The moment I chose to help you, it was gone."
-
-"You don't have to do this," Jason said. "Either of you. You could still walk away. Go back to your lives. Let me - "
+"You don't have to do this," Jason said. "Either of you. You could still walk away. Go back to your lives. Let me — "
 
 "Let you what?" Lina's voice had an edge. "Face this alone? With RAE? Against Malvek's entire organization?"
 
-"I'm the one they want. RAE is - "
+"I'm the one they want. RAE is — "
 
-"And we're with you." Lina's voice was firm. "That's the choice we made. Together."
-
-"But - "
-
-"No." Milo's voice was quiet but certain. "Lina's right. We chose this. Maybe we were stupid. Maybe we didn't understand what we were choosing. But we chose it." He picked up his fork. Set it down again. "Besides, I'm not sure I want that old life anymore. That safe, quiet, forgettable life."
+"Jason." Milo's voice was quiet but certain. "Shut up." He straightened his cracked glasses. "I've run the numbers. Solo, your survival probability drops below thirty percent inside a month. With us? It's still bad. But it's bad *together*." He shrugged. "Besides — I've never been part of something that actually mattered before. I'm not walking away from that."
 
 
 The silence stretched.
@@ -67,7 +57,7 @@ Mr. Morandi appeared with more bread. Set it down without a word. His hand touch
 
 "Tomorrow," Milo agreed.
 
-Jason felt RAE's presence shift. Settle deeper. She was scared.
+Jason felt RAE's presence shift. Settle deeper. Her resonance pulled inward at the edges, tight and brittle.
 
 So was he.
 

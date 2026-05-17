@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 07 - We'd do it again 
+﻿# Part 4 - Boundaries & Becoming | 07 - We'd do it again 
 
 Three days had passed since the meeting with RP-0. Three days of routine - check-ins, training sessions, the careful dance of cooperation with HOA that had become our new normal.
 
@@ -10,7 +10,7 @@ Not for a strategic meeting. Not in preparation for the demonstration. Neither f
 
 We stood outside the apartment, checking our reflection in the window. Presentable. Not trying too hard. Just... us.
 
-Lina emerged from the bedroom, and we felt something shift in our chest. She was wearing that blue jacket Jason had always liked. Hair down. Smile uncertain but hopeful.
+Lina emerged from the bedroom. Blue jacket — the one Jason had always liked. Hair down. Smile uncertain but hopeful. Our breath caught.
 
 "Ready?" she asked.
 

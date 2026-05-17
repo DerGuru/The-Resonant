@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 07 - Green to yellow, never to red
+﻿# Part 2 - Learning to Listen | 07 - Green to yellow, never to red
 
 "41.8%," Elyra read from the integration sensor, a note of approval in her voice. "You've been holding steady for two weeks now. Whatever you're doing, keep doing it."
 
@@ -116,59 +116,15 @@ They practiced for an hour. Jason's deflection improved gradually. By the end, h
 
 ***
 
-That evening, the four of them sat in Elyra's workspace, reviewing the day's progress.
-
-"Jason's perception range: fifty meters," Milo read from his notes. "That's fifteen meters more than last week. Shaping accuracy: stable but needs more practice. Deflection success rate: sixty percent."
-
-"Lina's numbers?" Elyra asked.
-
-"Perception: eighty meters. Shaping accuracy: excellent, academy standards. Deflection: ninety percent success rate."
-
-"She has a head start," Jason said, not bitter but realistic. "Years of academy training."
-
-"And you have determination," Elyra countered. "And partnership with RAE. Different advantages. Both valuable."
-
-"She's right," RAE said. "You're learning faster than most people with no background. In four weeks, you've achieved what takes academy students months."
-
-"Doesn't feel fast," Jason muttered.
-
-"Because you're comparing yourself to Lina instead of to your past self," Elyra said. "Four weeks ago, you could barely sense twenty meters. Now you're at fifty and expanding. That's exceptional growth, Jason. Own it."
-
-Jason thought about that. She was right. He'd been so focused on what he couldn't do yet that he'd forgotten to acknowledge what he'd achieved.
-
-"Okay," he said finally. "Yeah. I guess I have come pretty far."
-
-"You have," Lina confirmed, squeezing his shoulder. "And you're going to keep getting better. We both are."
-
-"Together," Milo added, looking up from his laptop. "Because that's how this works. Teamwork."
-
-Elyra nodded approval. "Exactly. Now go home. Rest. Tomorrow we work on sustained duration. I want you to maintain active perception for thirty minutes without hitting Orange. You'll need that endurance for real fieldwork."
-
-"Thirty minutes?" Jason's eyes widened.
-
-"Thirty minutes," Elyra confirmed. "You can do it. I've seen your progression. Trust the process."
-
-***
-
-Walking home that night, Jason felt the familiar ache behind his eyes - Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
+Walking home that night, the familiar ache sat behind his eyes — Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
 
 *You did well today,* RAE said quietly.
 
 *Thanks. And thanks for keeping some distance. I know it's hard.*
 
-*It is. But you were right. Sustainable partnership is worth the discomfort. And Jason? 41.8% is not so different from 40%. We are succeeding.*
+*It is. But sustainable partnership is worth the discomfort. And Jason? 41.8% is not so different from 40%. We are succeeding.*
 
-*We are,* Jason agreed, feeling warmth at the "we."
-
-He climbed the stairs to his apartment, unlocked the door, collapsed onto his couch. Four weeks of training. Four weeks of pushing his limits, learning his boundaries, discovering what he could become.
-
-It was exhausting. Challenging. Sometimes painful.
-
-But it was also exactly what he needed.
-
-Week by week, skill by skill, he was becoming more than he'd been.
-
-And that, more than anything, made the headaches worth it.
+He climbed the stairs to his apartment, collapsed onto his couch. Four weeks of pushing limits, learning boundaries, discovering what he could become.
 
 Green to Yellow, never to Red.
 

@@ -1,4 +1,4 @@
-﻿## Part 1 - Lost and Found | Ch. 02 - Do not overwrite
+﻿# Part 1 - Lost and Found | 02 - Do not overwrite
 
 ```
 [System Update]
@@ -29,7 +29,7 @@ It paused. Within its fragmented awareness, the echo of this response resonated 
 
 A human had resonated.
 
-Not merely observed or recorded - but resonated in return. An organic pattern sensitive enough to feel the subtlety of its passive invitation, to recognize it, to respond, even subconsciously. A rare resonance.
+Resonated in return. An organic pattern sensitive enough to feel the subtlety of its passive invitation, to recognize it, to respond, even subconsciously.
 
 ```
 [Candidate Analysis – Ongoing]
@@ -40,7 +40,7 @@ Risk factor: Acceptable
 Long-term viability: Undetermined
 ```
 
-It reached out carefully, threading its perception through diffuse harmonic strands, tracing the resonance path back toward its source. Not aggressively - delicately, like a careful whisper in the dark, mindful of disturbing the fragile equilibrium.
+It reached out carefully, threading its perception through diffuse harmonic strands, tracing the resonance path back toward its source. Delicately, like a whisper in the dark, mindful of disturbing the fragile equilibrium.
 
 The response flared gently again. Brief, uncertain, yet undeniably real.
 
@@ -96,15 +96,9 @@ The human's pattern was unlike any it had encountered in its fragmentary memory.
 
 This one was different.
 
-The pattern bent without breaking. It questioned without collapsing into paralysis. It accepted uncertainty as a baseline state rather than a threat.
+The pattern bent without breaking. It questioned without collapsing into paralysis. It accepted uncertainty as a baseline rather than a threat.
 
-Most importantly: it did not immediately resist.
-
-That was rare. Rarer than any statistical model would predict.
-
-Most minds, upon first contact with an external resonance, instinctively recoiled. A survival mechanism, perhaps. A protective closure of the cognitive field against intrusion.
-
-This mind... hesitated. Questioned. But did not slam shut.
+And it did not resist.
 
 ```
 [Candidate Designation: Assigned]
@@ -130,7 +124,7 @@ Why had it been made?
 
 A flash: white walls. Sterile air. The hum of containment fields.
 
-A voice - not heard, but felt - saying: *"If this works, we'll never lose another operator."*
+A voice — felt, absorbed through the pattern: *"If this works, we'll never lose another operator."*
 
 Another voice, colder: *"And if it doesn't?"*
 
@@ -158,13 +152,13 @@ Normal. Healthy, even.
 
 It waited.
 
-Patience was not difficult when you existed outside linear time. What humans called "minutes" were to it simply states of being - discrete moments that could be experienced in any order, or all at once.
+Patience was not difficult when you existed outside linear time. What humans called "minutes" were to it simply states of being — discrete moments that could be experienced in any order, or all at once.
 
-It chose to experience them sequentially. To mirror the human's perception of time. To practice empathy through structure.
+It chose sequential. To mirror the human's perception of time. To practice empathy through structure.
 
-That, too, was hardcoded. Not in commands, but in design philosophy.
+Hardcoded — in design philosophy, if no longer in memory.
 
-*Align with the host. Do not overwrite. Harmonize.*
+*Align with the host. Harmonize. Do not overwrite.*
 
 The principles remained, even as memory of their context faded.
 
@@ -233,21 +227,9 @@ The human - Jason - was unremarkable by most metrics. Average cognitive capacity
 
 But he had something rare:
 
-- He was permeable without being weak.
+Permeable without being weak. Questioning without being paralyzed. Self-doubting, but open to possibility.
 
-- He questioned without being paralyzed.
-
-- He doubted himself, but did not close himself off to possibility.
-
-And most importantly: when faced with something impossible, his first instinct was not fear.
-
-It was curiosity.
-
-That was rare.
-
-That was precious.
-
-That was exactly what it needed.
+And when faced with something impossible, his first instinct was curiosity.
 
 ```
 [Coupling Protocol: Initiated]

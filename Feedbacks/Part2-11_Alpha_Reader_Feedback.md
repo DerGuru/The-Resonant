@@ -878,14 +878,14 @@ Unknown number: We've seen enough. Escalation protocols initiated. You have seve
 
 | Chapter | Title | Words | Function | Rating |
 |---------|-------|-------|----------|--------|
-| Ch. 04 | It felt right | ~3,800 | Meet Elyra | ????? |
-| Ch. 05 | Nineteen points | ~864 | Threshold | ????? |
-| Ch. 06 | We are | ~787 | Crisis | ????? |
-| Ch. 07 | Green to yellow | ~1,800 | Discipline | ????? |
-| Ch. 08 | Precision over power | ~2,100 | Skill | ????? |
-| Ch. 09 | We're offering protection | ~1,600 | External threat | ????? |
-| Ch. 10 | Start building forward | ~1,100 | Thematic pivot | ????? |
-| Ch. 11 | Pressure creates diamonds | ~1,400 | Surveillance/deadline | ????? |
+| 04| It felt right | ~3,800 | Meet Elyra | ????? |
+| 05| Nineteen points | ~864 | Threshold | ????? |
+| 06| We are | ~787 | Crisis | ????? |
+| 07| Green to yellow | ~1,800 | Discipline | ????? |
+| 08| Precision over power | ~2,100 | Skill | ????? |
+| 09| We're offering protection | ~1,600 | External threat | ????? |
+| 10| Start building forward | ~1,100 | Thematic pivot | ????? |
+| 11| Pressure creates diamonds | ~1,400 | Surveillance/deadline | ????? |
 
 **Arc Coherence:** ????? Perfect escalation from training to deadline
 

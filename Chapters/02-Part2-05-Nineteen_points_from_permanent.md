@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 05 - Nineteen points from permanent
+﻿# Part 2 - Learning to Listen | 05 - Nineteen points from permanent
 
 Three days after their first training session, Jason, Lina, and Milo returned to Mill-4.
 

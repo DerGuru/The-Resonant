@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 13 - Show me
+﻿# Part 2 - Learning to Listen | 13 - Show me
 
 Milo jerked awake at his desk, the side of his face numb where it had pressed against his keyboard. The clock showed 2:17 AM. Three empty coffee cups formed a defensive perimeter around his laptop. The apartment smelled like stale takeout and ozone from overworked electronics. 
 
@@ -112,7 +112,7 @@ The warehouse Milo had identified was perfect. Third floor, windows overlooking 
 
 They settled in, each taking a position.
 
-Jason's knees ached within the first twenty minutes. The concrete floor was unforgiving, the night's cold seeping through his clothes. His breath misted in front of him - he had to consciously keep it shallow, quiet. Every small sound felt amplified. A pigeon shifting on a beam above them made his heart skip.
+Jason's knees ached within the first twenty minutes. The concrete floor was unforgiving, the night's cold seeping through his clothes. His breath misted in front of him - he kept it shallow, quiet. A pigeon shifted on a beam above them, and his pulse kicked hard against his ribs.
 
 This was nothing like training. In Elyra's warehouse, failure meant starting over. Here, failure meant containment. Or worse.
 
@@ -196,7 +196,55 @@ Just containment.
 
 "We need to go," he said, surprised his voice worked at all. "Now!"
 
-They packed quickly. Efficiently. Jason's hands finally stopped shaking enough to zip his bag properly. Left no trace of their presence.
+They packed quickly. Efficiently. Jason's hands finally stopped shaking enough to zip his bag properly.
+
+Lina led them down the stairwell. Second floor. First floor. She paused at the ground-level exit, scanning the approach.
+
+"Clear," she whispered. "Move."
+
+They were thirty meters from the warehouse when Milo's sensor bag emitted a single, sharp chirp.
+
+Everyone froze.
+
+The chirp — a proximity alert. Something had pinged their equipment. A resonance scan, sweeping the perimeter. Standard security protocol. The kind that would flag active electronics within a 200-meter radius.
+
+"Kill it," Lina hissed.
+
+Milo was already pulling the sensor from his bag, fingers fumbling with the power switch. The device chirped again — louder — before going dark.
+
+Two seconds. Maybe three. Enough to register on someone's monitoring console as a blip. Maybe enough to dismiss as interference. Maybe not.
+
+*Movement,* RAE said. *Southwest corner. One figure detaching from patrol route. Coming this direction.*
+
+Jason's blood went cold. "Patrol inbound. Southwest."
+
+Lina didn't hesitate. She grabbed Milo's arm and pulled him behind a rusted dumpster. Jason pressed himself flat against a concrete pillar, the steel edge biting into his shoulder.
+
+Footsteps. Deliberate. Not running — but not casual either. The crunch of gravel getting closer.
+
+Jason held his breath. His headache screamed Yellow. Every instinct begged him to reach out with his perception, to track the guard's exact position. But active resonance here would light up every sensor in the facility.
+
+The footsteps stopped. Ten meters away. Maybe less.
+
+A flashlight beam swept across the warehouse wall. Passed over the dumpster. Lingered on the pillar where Jason stood.
+
+His heart was so loud he was sure the guard could hear it.
+
+*Don't move,* RAE whispered. *Don't breathe. Don't think loudly.*
+
+The beam moved on. The footsteps resumed — slower now, circling. The guard was checking. Not alarmed, but curious. That chirp had registered somewhere.
+
+Then a radio crackled. A voice, tinny and distant: "Sector four, report."
+
+"Sector four clear. Minor electronic anomaly. Probably ambient interference. Resuming patrol."
+
+The footsteps retreated. Gravel crunching softer. Softer. Gone.
+
+Nobody moved for another full minute.
+
+Then Lina's hand found Jason's wrist in the dark. Two squeezes. *Move now.*
+
+They left no trace of their presence.
 
 The route out was longer than the route in - Lina insisted on a circuitous path to avoid any chance of backtracking. It added thirty minutes to their escape, and every minute felt like an hour. Jason kept expecting to hear shouts behind them. Sirens. The sound of pursuit.
 
@@ -260,6 +308,6 @@ She paused, and for a moment the professional mask slipped. "You did well. You w
 
 Elyra's expression was grim but not panicked. "Then you scatter. Use the emergency protocols. Survive long enough to negotiate from a position you can't be erased from." She paused. "But that's worst case. Most likely, you have the time Reeves originally gave you. Use it wisely."
 
-She stood, pain visible but managed, and Jason realized: she was scared. For them. Maybe for herself too - if they fell, her shelter fell with them.
+She stood, pain visible but managed. Her grip tightened on the cane until her knuckles blanched, then loosened again.
 
 "Rest today. No point training exhausted people - you'll just make mistakes." She looked at each of them. "And we can't afford mistakes."

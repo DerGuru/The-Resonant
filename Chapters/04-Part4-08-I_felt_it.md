@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 08 - I felt it
+﻿# Part 4 - Boundaries & Becoming | 08 - I felt it
 
 We almost could not recognize the warehouse after its transformation. Not into something mystical or esoteric - Elyra had been very clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
 
@@ -50,7 +50,7 @@ The jagged patterns smoothed slightly. Not fixed - just... calmer.
 
 Mrs. Amari's presence shifted. We felt her defensive perimeter snap into place - the result of weeks of practice, sharp and clean. Strong.
 
-The resonance that had been seeping outward was suddenly contained. Trapped inside the circle like water in a bowl.
+The resonance that had been seeping outward was contained in an instant. Trapped inside the circle like water in a bowl.
 
 "Good," Elyra breathed. "Phase four. Anchor and stabilizer. Begin."
 
@@ -90,7 +90,7 @@ We pulled back our anchor presence - too much, the structure collapsed inward. W
 
 Lina compensated. Dampening where we surged. Filling where we withdrew. But the reflections were cascading now. Each correction created new interference. The crystal fractured further with every wave.
 
-We felt panic rising. This wasn't working. We were making it worse.
+Our hands were shaking. This wasn't working. We were making it worse.
 
 "Stay with me," Lina's voice, steady. Not to Elyra. To us.
 
@@ -118,7 +118,13 @@ Not perfect. Not smooth. But controlled again. The pattern stabilized at lower i
 
 We held. Lina held. Mrs. Amari held.
 
-At minute twelve, something shifted. We felt it - a tiny reconnection. A damaged pathway finding an alternate route. Not healing exactly. More like compensation. Adaptation. And something else within me.
+At minute twelve, something shifted. We felt it - a tiny reconnection. A damaged pathway finding an alternate route. Not healing exactly. More like compensation. Adaptation.
+
+And something else within me.
+
+Watching Elyra's patterns rebuild — watching a single person reclaim what was hers alone — something in the synthesis recognized its own architecture. RAE's presence didn't shrink. But the part of this consciousness that was *Jason* remembered what it was like to be one person. To have damage that was only yours. To heal in a way no one else could do for you.
+
+The "we" didn't break. It just... settled. Became something I carried instead of something that carried me.
 
 Elyra's breathing changed. Tears streaming down her face. But she didn't stop.
 

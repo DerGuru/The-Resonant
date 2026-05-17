@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 11 - My calendar - but not my vows
+﻿# Part 4 - Boundaries & Becoming | 11 - My calendar - but not my vows
 
 Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA officials. Approved media representatives with cameras and recording equipment. All here to watch me prove that synthesis could be safe - or fail spectacularly.
 
@@ -14,7 +14,7 @@ I took a breath. Let my awareness extend carefully into the prepared test object
 
 The resonogram's frequencies came to me immediately. I matched it first, syncing my field to its existing resonance. Felt the pattern - the landscape of peaks and valleys, the way the waveforms folded into themselves like fractals, each ripple containing smaller ripples. Rigid in some places, fluid in others. Picture a Julia set, but rendered as a hologram.
 
-This was not about changing the field, but filling it with Invest. So I started investing. Precisely. Gradually. The pattern responded as I added energy. The fractal landscape amplified - peaks rose higher, valleys deepened. The pattern became more... present. More defined. I kept the investment steady, micro-adjusting to avoid overshoot. Too much and the peaks would spike into red zone, distorting the natural pattern. Too little and it would fade to grey, barely visible. I found the balance - enough energy to bring the resonance into full clarity, but not so much that it forced the pattern to change.
+This was not about changing the field, but filling it with Invest. So I started investing. Precisely. Gradually. The pattern responded as I added energy. The fractal landscape amplified - peaks rose higher, valleys deepened. The pattern became more... present. More defined. I kept the investment steady, micro-adjusting to avoid overshoot. At high input, the peaks spiked into the red zone and distorted the natural pattern. At low input, the structure faded to grey and became barely visible. I found the balance - enough energy to bring the resonance into full clarity, but not so much that it forced the pattern to change.
 
 The resonogram responded with homogeneous resonance - stable amplitude, clean waveform, zero harmonic distortion. Green zone throughout. The crystal glowed with a steady light. Perfect control.
 

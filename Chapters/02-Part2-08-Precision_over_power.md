@@ -1,4 +1,4 @@
-﻿## Part 2 - Learning to Listen | Ch. 08 - Precision over power
+﻿# Part 2 - Learning to Listen | 08 - Precision over power
 
 Six weeks after their first session at Mill-4, Jason's head still hurt every night.
 
@@ -92,43 +92,21 @@ It felt like winning a marathon.
 
 Elyra nodded. "Eventually. But precision first. Power without precision is just destruction. And there are enough people in this world who destroy things. We don't need more."
 
-She moved to a cabinet, pulled out a wooden box. Inside were what looked like children's toys - wooden blocks, metal washers, glass marbles.
+She moved to a cabinet, pulled out a wooden box. Inside: wooden blocks, metal washers, glass marbles.
 
-"These are carriers," she explained. "Objects that can hold and transmit resonance patterns. Your job for the next two weeks is to learn how to tune them. Make a block resonate at exactly 440 Hz. Make a washer respond to your baseline frequency. Make a marble store a simple pattern and release it on command."
+"Carriers," she explained. "Objects that hold and transmit resonance patterns. Your job for the next two weeks: tune them. Make a block resonate at 440 Hz. Make a washer respond to your baseline. Make a marble store a pattern and release it on command."
 
-She placed a steel washer and a wooden block side by side on the table. "But first, you need to understand what makes a good carrier. It's not just about invest - how much effort you put in. It's about quality and firmness."
+She placed a steel washer and a wooden block side by side. "Every material has different tolerance. Steel holds aggressive patterns without breaking down. Wood is more complex — good for pattern storage, but push too hard and you'll fracture the grain. The pattern collapses. Or splinters unpredictably."
 
-Jason leaned forward, listening.
+"That's how the ritual failed," she added, voice quieter now. "Eleven years ago. Someone on our team panicked, forced a containment pattern instead of maintaining the structure. The feedback cascade killed three people and burned out most of my capacity." She tapped her cane. "Forced resonance is a real risk. Precision is your best defense."
 
-"Quality," Elyra continued, "is harmonic alignment. How well your pattern fits the material's natural resonance. Steel has a clean, sharp signature - high quality for frequency-based work. Wood is more complex, with organic variations - good quality for pattern storage, but harder to control. Glass is somewhere between." She tapped each object. "If the quality is poor - if you're fighting the material's nature - you'll exhaust yourself achieving nothing."
+Jason felt cold. RAE was quiet in his mind — she remembered that day too, in fragments.
 
-"And firmness?" Lina asked.
-
-"Structural tolerance. How much the material can hold before it breaks down." Elyra picked up the steel washer. "This steel has high firmness. You can invest heavily, push aggressive patterns, and it'll hold. But this wooden block?" She lifted it. "Firmness is moderate. Push too hard and you'll fracture the grain structure. The pattern will collapse - or worse, splinter unpredictably."
-
-She set them down carefully. "Every material has different quality and firmness for different tasks. Learning to read that before you invest is what separates competent practitioners from dead ones. You don't test firmness by breaking things. You sense it. Respect it. Work within its limits."
-
-"That sounds like a lot," Jason said.
-
-"It is. But it's also fundamental. If you can't tune a carrier, you can't stabilize a damaged pattern. Can't help someone whose resonance is failing." She paused. "Can't defend yourself if someone tries to force patterns into you."
-
-The room went quiet.
-
-"Is that a real risk?" Lina asked.
-
-Elyra's expression hardened. "It's how the ritual failed. The one eleven years ago. Someone on our team panicked, tried to force a containment pattern instead of maintaining the structure we'd agreed on. The feedback cascade killed three people and burned out most of my capacity." She tapped her cane. "So yes. Forced resonance is a real risk. And precision is your best defense against it."
-
-Jason felt cold. RAE was quiet in his mind - she remembered that day too, in fragments.
-
-"The point," Elyra continued, voice steady but firm, "is that you need to know your materials. Respect their limits. Push too hard, and the pattern collapses - or worse, feeds back into you. Precision keeps you alive."
-
-Jason looked at the box of carriers. Suddenly they seemed less like toys and more like weapons.
-
-"We'll start simple," Elyra continued. "Jason, take the steel washer. Lina, the oak block. I want you to practice tuning for thirty minutes. When you can hold a stable frequency for five minutes without drift, we move to the next exercise."
+"Jason, take the steel washer. Lina, the oak block. Thirty minutes. When you can hold a stable frequency for five minutes without drift, we move on."
 
 "What's the next exercise?" Milo asked.
 
-"Teaching you to hide your integration level from scanners," Elyra said. "Because right now, anyone with a Gen-3 monitor could read Jason from across the street. And that makes him a target."
+"Teaching you to hide your integration level from scanners," Elyra said. "Because right now, anyone with a Gen-3 monitor could read Jason from across the street."
 
 *She's right,* RAE said. *I've been masking what I can, but there are limits to what I can hide while still functioning.*
 
@@ -146,42 +124,18 @@ Four hours later, Jason's hands were shaking and his head was firmly in Yellow t
 
 But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His baseline frequency.
 
-"Good enough," Elyra said, checking it with her own senses. "Not perfect - there's about a 0.3 Hz drift over time - but functional. We'll work on stability tomorrow."
+"Good enough," Elyra said. "Not perfect — there's about a 0.3 Hz drift over time — but functional."
 
 "Tomorrow?" Jason wanted to collapse right there on the floor.
 
-"Rest tonight. Eat something with protein. Sleep at least eight hours." She looked at each of them. "You're learning faster than I expected. But that means we're approaching dangerous territory sooner than planned. The better you get, the more attention you'll attract."
+"Rest tonight. Eat something with protein. Sleep at least eight hours." She looked at each of them. "You're learning faster than I expected. But the better you get, the more attention you'll attract."
 
 "From Malvek," Milo said.
 
-Elyra's expression became grim. "There are people who collect resonance practitioners. Not to teach them. To use them. And a partnership like yours - " she gestured at Jason, " - is rare enough to be valuable. Which makes you a target."
-
-"So what do we do?" Lina asked.
-
-"You get better. Fast enough to defend yourselves. Careful enough not to draw unnecessary attention." Elyra moved to the door. "And you trust each other. Because when someone tries to separate you - and they will try - the only thing that will keep you alive is knowing your team has your back."
+Elyra's expression became grim. "There are people who collect resonance practitioners. Not to teach them. To use them. A partnership like yours is rare enough to be valuable."
 
 She left, her cane tapping echoes down the hallway.
 
-"Well," Milo said into the silence. "That was motivational in a terrifying sort of way."
-
-"She's not wrong though," Lina said. "We've been lucky so far. But luck runs out."
-
-Jason looked at the washer still clutched in his hand. He could feel its resonance now without trying. Could sense the slight imperfections in the steel, the stress patterns from being stamped in a factory decades ago.
-
-Precision over power. That's what Elyra kept saying.
-
-But power was what kept you safe, right?
-
-*Not always,* RAE said, sensing his thoughts. *Power attracts conflict. Precision allows you to avoid it. Or end it quickly.*
-
-*Which do we need?*
-
-*Both. But we're building the right foundation. Trust the process.*
-
-Jason set the washer down carefully. 
+Jason set the washer down carefully.
 
 One precise step at a time.
-
-Until they were ready for whatever was coming.
-
-Or at least, until they could survive it long enough to learn how to win.

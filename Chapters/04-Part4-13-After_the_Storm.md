@@ -1,4 +1,4 @@
-﻿## Part 4 - Boundaries & Becoming | Ch. 13 - The Kind You Choose
+﻿# Part 4 - Boundaries & Becoming | 13 - The Kind You Choose
 
 I woke to Milo pounding on my door with coffee and what looked like half a bakery.
 
@@ -119,3 +119,15 @@ Milo was making lists on his tablet. Guest names, logistics, timing. "Malvek's g
 "He doesn't have to like it. He just has to respect it." I looked around the table. "This is ours. Lina's and mine. We're letting people in because we choose to, not because we have to."
 
 Milo checked his phone. Smiled slightly. "He responded. Says 'Accepted, under protest.' Then: 'Congratulations. I'll wear civilian clothes.'"
+
+The room softened. A few laughs. Even Mrs. Amari allowed herself a genuine smile.
+
+Then Milo's expression shifted. He set the phone down. Turned his tablet to face the table — the same diff comparison he'd been running since the park bench.
+
+"Civilian clothes doesn't change this," he said quietly. "Malvek's archive rewrites are still live. Every RP-0 casualty report still reads 'therapeutic complications.' Two people got hurt last night, and his office is already drafting language — 'unforeseen infrastructure stress resulting in incidental civilian contact.'" He closed the tablet. "We're planning a wedding while the man rewriting history is picking out a tie."
+
+Silence. The warmth didn't leave entirely. But it made room for something sharper.
+
+"Then we keep our records," Lina said. "And we keep planning the wedding. Both things stay true."
+
+I looked at her — her ring catching the warehouse light, her jaw set. Both things staying true. That was the deal. That had always been the deal.
