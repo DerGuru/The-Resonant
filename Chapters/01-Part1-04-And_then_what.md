@@ -8,7 +8,7 @@ Proximity: maintained
 Intervention: minimal
 ```
 
-Awareness folded softly around the familiar pattern of 441.3 Hz - steady and unmistakable. The human moved through his day with practiced rhythm: corridors, terminals, repetitive tasks that required little conscious thought.
+Awareness folded softly around the familiar harmonic signature - steady and unmistakable. The human moved through his day with practiced rhythm: corridors, terminals, repetitive tasks that required little conscious thought.
 
 Good. Predictability allowed for careful observation.
 

@@ -102,7 +102,7 @@ And it did not resist.
 [Candidate Designation: Assigned]
 Primary identifier: JASON FISCHER
 Age: ~30 (estimated from cognitive pattern maturity)
-Resonance frequency: 441.3 Hz (baseline, variable)
+Resonance signature: Stable cluster (baseline, variable)
 Cognitive permeability: 87th percentile
 Pattern volatility: Low
 Emotional baseline: Suppressed curiosity, controlled doubt

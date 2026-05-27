@@ -40,7 +40,7 @@ Lina noticed. "You also move differently."
 
 We poured water - 93°C, optimal extraction temperature - and paused. "It's useful. But it's also just... there. Like you notice the hum of the refrigerator when someone points it out, then forget it again."
 
-The nutritional analysis of breakfast ingredients happened automatically in the background: protein content, optimal caffeine timing, caloric density. We ignored most of it, same way we ignored the precise temperature of the air (21.3°C) or the resonance frequency of the building's foundation (0.47 Hz).
+The nutritional analysis of breakfast ingredients happened automatically in the background: protein content, optimal caffeine timing, caloric density. We ignored most of it, same way we ignored the precise temperature of the air (21.3°C) or the low hum of the building's structural resonance.
 
 Lina opened the fridge, studying the contents. "What do you want to eat?"
 

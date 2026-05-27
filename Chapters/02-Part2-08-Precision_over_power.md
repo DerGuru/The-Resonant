@@ -12,9 +12,9 @@ Jason took a breath, focused on the ceramic bowl in front of him. His task was s
 
 He'd been trying for forty minutes.
 
-"I can feel it," he said. "The frequency. It's like... 438 Hz? Maybe 440?"
+"I can feel it," he said. "The pattern. It's... a cluster? Several layers, all pulling toward each other?"
 
-"441," Elyra corrected. "And feeling isn't enough. You need to align with it. Become part of the same resonance field."
+"You're sensing the edges," Elyra said. "And sensing isn't enough. You need to align with it. Become part of the same resonance field."
 
 "I'm trying - "
 
@@ -46,9 +46,7 @@ He let his perception extend. Not forcing. Just... observing.
 
 The bowl resolved in his awareness. Not as an object, but as a collection of resonances. Clay fired at high temperature. Glaze applied and heated. Microscopic cracks from years of use. All of it creating a unique harmonic fingerprint.
 
-441 Hz. Just like Elyra said.
-
-And beneath that, harmonics. Overtones. A whole symphony of frequencies that combined to create the bowl's identity.
+A tight cluster of resonances, layered and interdependent. Just like Elyra described.
 
 Jason didn't try to match it. He just... listened.
 
@@ -94,7 +92,7 @@ Elyra nodded. "Eventually. But precision first. Power without precision is just 
 
 She moved to a cabinet, pulled out a wooden box. Inside: wooden blocks, metal washers, glass marbles.
 
-"Carriers," she explained. "Objects that hold and transmit resonance patterns. Your job for the next two weeks: tune them. Make a block resonate at 440 Hz. Make a washer respond to your baseline. Make a marble store a pattern and release it on command."
+"Carriers," she explained. "Objects that hold and transmit resonance patterns. Your job for the next two weeks: tune them. Make a block hold a stable pattern. Make a washer respond to your baseline signature. Make a marble store a pattern and release it on command."
 
 She placed a steel washer and a wooden block side by side. "Every material has different tolerance. Steel holds aggressive patterns without breaking down. Wood is more complex — good for pattern storage, but push too hard and you'll fracture the grain. The pattern collapses. Or splinters unpredictably."
 
@@ -120,9 +118,9 @@ Jason felt cold. RAE was quiet in his mind — she remembered that day too, in f
 
 Four hours later, Jason's hands were shaking and his head was firmly in Yellow territory.
 
-But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His baseline frequency.
+But the washer rang like a tuning fork when he tapped it. His baseline signature, perfectly imprinted.
 
-"Good enough," Elyra said. "Not perfect, there's about a 0.3 Hz drift over time, but functional."
+"Good enough," Elyra said. "Not perfect, there's a slight drift over time, but functional."
 
 "Tomorrow?" Jason wanted to collapse right there on the floor.
 

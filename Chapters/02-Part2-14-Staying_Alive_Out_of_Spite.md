@@ -10,7 +10,7 @@ Six AM, Day Two. The warehouse was still dark when Elyra hit the lights.
 
 "Pattern recognition drill," she announced, scattering a dozen ceramic carriers across the floor. "You have thirty seconds to identify which three are unstable. Go."
 
-Jason reached out with his perception, his awareness rippling across the carriers. The cold concrete under his knees bit through his jeans. Most carriers rang clean - 441 Hz, stable, well-formed. But three sent discordant notes through his awareness, like strings slightly out of tune.
+Jason reached out with his perception, his awareness rippling across the carriers. The cold concrete under his knees bit through his jeans. Most carriers rang clean, their signatures stable, well-formed. But three sent discordant notes through his awareness, like strings slightly out of tune.
 
 "Fourth from the left. Second row, middle. And that one by the support beam."
 
