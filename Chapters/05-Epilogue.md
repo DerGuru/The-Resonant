@@ -1,4 +1,4 @@
-﻿# Epilogue
+# Epilogue
 
 Morning light filtered through the apartment windows. I stood in the kitchen, hands in bread dough, kneading by feel, like Jason's grandma had taught him. She'd been right: machines couldn't sense when dough reached that perfect elasticity. You had to feel it.
 
@@ -40,8 +40,6 @@ I dried my hands. "Tell him we're good. Unless he wants to bring some tonic wate
 
 She smiled, typed a response. "Done."
 
-***
-
 Breakfast was simple. Toast with the honey her father had given us. Eggs. Orange juice for me, espresso macchiato for her.
 
 I watched the steam rise from her cup. I saw water becoming vapor, dispersing into air, invisible but still there. Changing form but staying the same.
@@ -55,8 +53,6 @@ She flipped through news while she ate, making small noises of annoyance at head
 "Good."
 
 We ate in comfortable silence. I appreciated the kind where quiet wasn't awkward but restful.
-
-***
 
 Later, while the bread rose, we went on the balcony. I looked at the city spread below us - morning traffic, construction noise, the hum of ten thousand lives overlapping.
 
@@ -92,8 +88,6 @@ I still remembered what 'we' felt like - Jason and RAE, distinct voices having c
 
 But now? Just me.
 
-***
-
 The timer chimed from the kitchen.
 
 "Bread's ready," Lina said.
@@ -123,3 +117,4 @@ Neither Jason nor RAE.
 Not even we anymore.
 
 Just... water.
+

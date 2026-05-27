@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 09 - What does that mean?
+# Part 4 - Boundaries & Becoming | 09 - What does that mean?
 
 We'd agreed to meet at the warehouse after lunch the next day. Time to review what had happened. Process the results. Document everything properly.
 
@@ -45,8 +45,6 @@ I hesitated. "The street feels... different. Since yesterday. More settled."
 "That's normal," she said gently. "You're still learning. Give it time."
 
 We walked together. We chatted a bit about her life in the neighborhood. How she came to live there. How I got there. Smalltalk. I appreciated the kind of conversation that felt like acceptance without requiring explanation.
-
-***
 
 I saw the warehouse was already occupied when we arrived. Milo at his laptop station. Elyra reviewing her diagrams from yesterday.
 
@@ -105,8 +103,6 @@ I showed it to the others.
 "Who are you bringing?" Milo asked.
 
 I looked around. "All of you? Reeves said to bring who I trust, and I trust all of you."
-
-***
 
 We found Reeves at the park bench an hour later. I thought he looked more than tired - he looked grim. Like someone who'd discovered something they wished they hadn't.
 
@@ -206,8 +202,6 @@ I watched the others process it. Elyra nodded first. Then Milo. Mrs. Amari simpl
 
 "I'll talk to him tonight," Lina said.
 
-***
-
 That evening, I cooked with Lina. I thought - normalcy as resistance. Defiance through domesticity.
 
 "Tell me something," she said while chopping vegetables. "Something that has nothing to do with HOA or RP-0 or conspiracy. Something real."
@@ -263,3 +257,4 @@ Lina smiled and went back to chopping. "Good. Then we'll keep figuring it out to
 I kissed her. Brief. Real.
 
 And went back to cooking.
+

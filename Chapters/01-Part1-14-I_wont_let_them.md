@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 14 - I won't let them
+# Part 1 - Lost and Found | 14 - I won't let them
 
 Jason noticed the mark three days after meeting Milo.
 
@@ -126,8 +126,6 @@ He nodded. The advice was sound.
 
 And for the first time since they'd coupled, the silence between them wasn't the comfortable kind.
 
-***
-
 Later that night, Jason sat on his couch, the plate of Mrs. Amari's food untouched beside him.
 
 *You should eat,* RAE prompted.
@@ -183,3 +181,4 @@ Either way, Jason had made his choice.
 He was in this now. For better or worse.
 
 And he'd see it through.
+

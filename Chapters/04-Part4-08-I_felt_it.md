@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 08 - I felt it
+# Part 4 - Boundaries & Becoming | 08 - I felt it
 
 We almost could not recognize the warehouse after its transformation. Not into something mystical or esoteric - Elyra had been very clear about that. But into something *structured*. Clinical almost. Like turning grief into geometry.
 
@@ -122,7 +122,7 @@ At minute twelve, something shifted. We felt it - a tiny reconnection. A damaged
 
 And something else within me.
 
-Watching Elyra's patterns rebuild — watching a single person reclaim what was hers alone — something in the synthesis recognized its own architecture. RAE's presence didn't shrink. But the part of this consciousness that was *Jason* remembered what it was like to be one person. To have damage that was only yours. To heal in a way no one else could do for you.
+Watching Elyra's patterns rebuild, watching a single person reclaim what was hers alone, something in the synthesis recognized its own architecture. RAE's presence didn't shrink. But the part of this consciousness that was *Jason* remembered what it was like to be one person. To have damage that was only yours. To heal in a way no one else could do for you.
 
 The "we" didn't break. It just... settled. Became something I carried instead of something that carried me.
 
@@ -133,8 +133,6 @@ At minute fifteen exactly, she pulled back. Slowly. Carefully. Letting the reson
 The crystal went dark. The field dispersed. The boundary dissolved.
 
 Elyra sagged forward, exhausted beyond measure, but I caught her before she hit the floor.
-
-***
 
 "Did it work?" Milo asked, equipment still recording.
 
@@ -186,8 +184,6 @@ She moved toward the door, paused. "You held your position. Honored the boundari
 
 She left before I could respond.
 
-***
-
 Later, after everything was cleaned up, after Elyra had rested, after Milo had documented everything, Lina and I walked home.
 
 "That was beautiful," she said quietly. "Seeing her hope. Seeing it work."
@@ -214,8 +210,6 @@ And then something settled. I realized why Mrs. Amari had said what she did. I s
 
 "I'm not really sure yet," I admitted.
 
-***
-
 That night, lying in bed with Lina beside me, I felt something I hadn't felt in weeks:
 
 Contentment.
@@ -229,3 +223,4 @@ Twenty percent wasn't much for me.
 But for Elyra? It was more than enough.
 
 Sleep came easier than it had in weeks.
+

@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 11 - Pressure creates diamonds
+# Part 2 - Learning to Listen | 11 - Pressure creates diamonds
 
 The surveillance started subtly.
 
@@ -24,8 +24,6 @@ She drew concentric circles. "Surveillance has layers. Outer layer: casual obser
 
 "By becoming unpredictable. By varying your routes. By using dead drops instead of direct meetings. By learning to sense when you're being watched and adapting accordingly." Elyra tapped the center circle. "And by preparing for when they move to the inner layer. Because they will."
 
-***
-
 For the next week, Elyra drilled them on counter-surveillance.
 
 How to spot a tail. How to lose one without being obvious. How to communicate when your channels might be compromised.
@@ -45,8 +43,6 @@ Jason practiced in crowds. Reaching out with his perception, feeling for that fo
 It was harder than sensing objects. People were more complex. Their intentions more variable.
 
 But gradually, he learned the difference. The weight of surveillance felt different from random observation. More deliberate. More sustained.
-
-***
 
 A few days later, Jason was walking to the library when he felt it. That particular pressure. Someone watching with intent.
 
@@ -83,8 +79,6 @@ Milo pulled up his tablet. "Elyra responded. The tail is confirmed as a HOA fiel
 
 Elyra was quiet for a moment. "Then we move to emergency protocols. Scatter pattern. Pre-arranged safe houses. And hope they value negotiation more than they value control."
 
-***
-
 Jason felt exposed. Even with his windows covered, his resonance dampened, his routines varied - he felt watched.
 
 *Because you are,* RAE said quietly.
@@ -108,8 +102,6 @@ Jason felt exposed. Even with his windows covered, his resonance dampened, his r
 *I have all of you. That means you too.*
 
 RAE's presence shifted - something that felt like gratitude mixed with worry.
-
-***
 
 The next morning, Jason's phone buzzed with a new message.
 
@@ -144,3 +136,4 @@ To become something Malvek couldn't ignore.
 *Then we'd better be diamonds.*
 
 Jason nodded. "Let's get started."
+

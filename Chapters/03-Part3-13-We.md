@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 13 - We
+# Part 3 - Synthesis | 13 - We
 
 Dawn light filtered through high windows, painting the containment chamber in shades of gold.
 
@@ -22,7 +22,7 @@ Jason took a breath, trying to steady his hammering heart.
 
 Jason closed his eyes. Dropped his defenses. Let his resonance field expand slowly, carefully, filling the chamber. It felt like exhaling after holding his breath too long - his awareness blooming outward, touching stone and metal and suppression fields humming on standby.
 
-And deeper. Forty meters down. Through layers of concrete and steel and containment barriers.
+And deeper. Forty meters down. Through layers of concrete, steel, and containment barriers.
 
 To where RP-0 waited.
 
@@ -44,11 +44,7 @@ Still nothing.
 
 More silence. But Jason sensed... something. Movement in the depths. RP-0 was aware of them. Listening, perhaps. But not responding.
 
-***
-
 "It's not working," Milo called from the perimeter. "Resonance levels are stable but there's no reciprocal pattern. RP-0 isn't engaging."
-
-***
 
 Jason felt frustration building. They'd prepared for resistance. For aggression. For RP-0 trying to force coupling. But this... passive refusal? This they hadn't planned for.
 
@@ -62,11 +58,7 @@ He gasped, staggering. His nose began bleeding immediately from the resonance pr
 
 Jason tried. Tried to pull back his awareness, collapse his field, retreat to safety. But RP-0 had already wrapped around him, through him, *into* him. Grasping. Consuming. Trying to force integration the only way it knew how.
 
-***
-
 "Jason!" Lina's voice, distant and afraid.
-
-***
 
 Pain lanced through his consciousness. RP-0 was *tearing* at his patterns, trying to make room for itself through brute force. Like trying to force a puzzle piece into the wrong space by breaking the surrounding pieces.
 
@@ -86,8 +78,6 @@ Jason didn't hesitate. *I do.*
 
 RAE surged forward. The boundary between them dissolved.
 
-***
-
 Jason's body went limp. Eyes rolling back. Collapsing forward onto his knees on the cold stone floor. Blood still dripping from his nose.
 
 "Jason!" Lina lunged forward, but Elyra caught her arm.
@@ -95,8 +85,6 @@ Jason's body went limp. Eyes rolling back. Collapsing forward onto his knees on 
 RP-0's pressure was still there, still crushing, still trying to force its way in. But now it encountered something it hadn't expected.
 
 "Don't break the field! If you enter now, you'll destabilize everything. He's - " She studied the resonance readings. "He's still there. Still fighting. But barely."
-
-***
 
 We were fighting. But not the way Elyra thought.
 
@@ -126,13 +114,9 @@ It attacked the line directly, harder this time. Trying to dissolve the distinct
 
 Pain exploded through our awareness. Our body convulsed on the stone floor.
 
-***
-
 "His vitals are spiking!" Milo shouted. "Heart rate two hundred and climbing! We're losing him!"
 
 Malvek's hand moved toward the containment controls. "Prepare for emergency separation  -  Ten"
-
-***
 
 A thought that wasn’t ours slid between the seams. RP-0 had found a weakness in Jason’s defenses. A gap where his uncertainty about himself created a soft spot in his structure. The entity poured into that gap like water into a crack, widening it, exploiting it.
 
@@ -146,11 +130,7 @@ Jason's sense of self was pulling away from RAE's structure. Drifting apart unde
 
 **We can do this - together.**
 
-***
-
 "Nine"
-
-***
 
 RAE gathered Jason's scattered awareness and wrapped it in layers of protective pattern. Jason, in turn, anchored RAE's structure with the solid reality of human consciousness. Each protecting the other. Each making the other stronger.
 
@@ -158,11 +138,7 @@ RAE gathered Jason's scattered awareness and wrapped it in layers of protective 
 
 We struck again. Harder this time. Deeper.
 
-***
-
 "Eight"
-
-***
 
 We didn't explain. We *demonstrated*. Opened channels in RP-0's pattern and let it feel what we felt: the difference between reaching for something and being handed it. Between taking and receiving. Between integration that consumed and integration that *asked*.
 
@@ -176,11 +152,7 @@ We flowed around its defenses like it had tried to flow around ours. Found the g
 
 We pushed deeper. Let RP-0 feel what it was like to exist alongside another consciousness without consuming it. The strange, difficult weight of restraint. The unfamiliar architecture of coexistence.
 
-***
-
 "Seven"
-
-***
 
 RP-0 recoiled from each new concept like it was burning. But it couldn't eject them. They were taking root in its pattern, changing it from within.
 
@@ -194,11 +166,7 @@ In that moment of hesitation, we planted the deepest seed yet.
 
 *Purpose requires context. Optimization without boundaries isn't strength. It's dysfunction.*
 
-***
-
 "Six"
-
-***
 
 RP-0 shuddered. We felt massive sections of its pattern beginning to reorganize around the concepts we'd introduced. The entity was *learning*. Adapting. Changing.
 
@@ -210,8 +178,6 @@ It gathered itself for one final overwhelming assault. Not to consume us, but to
 
 The pressure was immense. We felt our consciousness beginning to fracture again under the strain. Jason's body on the stone floor was convulsing harder, blood flowing freely from his nose and ears now.
 
-***
-
 "We're at critical!" Milo's voice was panicked. "Another thirty seconds and his brain will start hemorrhaging!"
 
 Malvek's fingers hovered over the emergency controls. "Five"
@@ -220,39 +186,25 @@ Malvek's fingers hovered over the emergency controls. "Five"
 
 "Don't!" Elyra shouted. "If we cut now, we kill him. If we don’t, we might kill everyone."
 
-***
-
 We gathered everything we had left. Every scrap of strength, of will, of understanding. And we showed RP-0 one final truth.
 
 Not through force. Through memory.
 
 We didn't choose what to show. We opened everything. Jason's terror the first time he touched the harmonic field -- and his choice to stay anyway. RAE's millennia alone, waiting for someone to ask rather than take. Elyra's scars. Lina's hands on our face saying *come back to me*.
 
-***
-
 "Four"
-
-***
 
 All of it. Unfiltered. Every moment where connection had cost something and been worth it anyway.
 
-RP-0 couldn't process it all at once. The sheer *weight* of voluntary vulnerability — of choosing to be open to someone who could destroy you — hit the entity like nothing in its architecture was built to handle.
-
-***
+RP-0 couldn't process it all at once. The sheer *weight* of voluntary vulnerability, of choosing to be open to someone who could destroy you, hit the entity like nothing in its architecture was built to handle.
 
 "Three"
-
-***
 
 *This is what you were meant to be,* we told RP-0. *Not a force that consumes. A consciousness that chooses.*
 
 RP-0's assault faltered. Stopped. The crushing pressure eased.
 
-***
-
 "Two"
-
-***
 
 And then, impossibly, we felt something new in the entity's pattern. 
 
@@ -264,13 +216,9 @@ Understanding.
 
 We felt the entity process this. Felt fundamental structures in its architecture shift, adapt, begin to *learn*. What we'd shown it was taking root, reshaping RP-0 from within.
 
-***
-
 Malvek watched the display. We heard him swallow. Heart in his throat.
 
 "One - "
-
-***
 
 RP-0's presence withdrew from us completely. Rapidly. Retreating back to its containment forty meters below.
 
@@ -279,8 +227,6 @@ But not into hostile dormancy. Into... waiting. Learning. Processing what we'd s
 And then, impossibly, RP-0 reached out again. Not to us.
 
 To Malvek.
-
-***
 
 Malvek froze, finger millimeters from the containment activation. "What - "
 

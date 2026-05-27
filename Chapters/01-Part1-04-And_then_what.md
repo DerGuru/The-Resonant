@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 04 - And then, what?
+# Part 1 - Lost and Found | 04 - And then, what?
 
 ```
 [System state: passive observation mode]
@@ -19,8 +19,6 @@ Scenario 3 demanded patience. Guide, but do not force.
 It settled into the background hum of the city, a thread woven carefully into the fabric of his daily routine. Invisible. Unobtrusive.
 
 Waiting for the right moment to be noticed.
-
-***
 
 The city records building always smelled like old paper and tired cleaning products. Unchanging. Jason scanned his badge at the basement level and pushed open the reinforced door to the archives.
 
@@ -66,8 +64,6 @@ Awkwardly, Jason stammered, "I need to get to it, you know... Frank."
 
 "Yeah, I do."
 
-***
-
 Jason returned to his desk with the requested box and began scanning pages methodically. His fingers moved by habit, eyes flicking over faded handwriting and bureaucratic stamps, but his thoughts wandered.
 
 Most days were like this. The quiet hum of the scanner. The occasional clack of keyboard keys. Echoes of footsteps that rarely came close. The only interruptions were the slow tick of the breakroom clock or the way time slipped sideways when you weren't watching it.
@@ -82,8 +78,6 @@ There were moments - flickers - when he imagined something else. Something waiti
 
 But then the scanner beeped, and the thought faded.
 
-***
-
 Jason sat alone at the end of a long cafeteria table, plastic fork tapping against cheap ceramic. The food was tired — some kind of pasta, too much sauce. A roll that could double as construction material.
 
 The room buzzed around him. Conversations folded over each other: work gripes, weekend plans. Jason listened without meaning to. Easier to fade into the rhythm than interrupt it.
@@ -91,8 +85,6 @@ The room buzzed around him. Conversations folded over each other: work gripes, w
 He took a bite, chewed mechanically, then checked his watch.
 
 Twenty-three minutes left.
-
-***
 
 Jason rubbed his temples. The coffee machine in the break room gurgled in the background, ticking like a broken metronome. He stepped into the narrow utility corridor behind the office, where the emergency light buzzed overhead.
 
@@ -126,8 +118,6 @@ On his way out, he passed Harris at the badge reader. The man swiped his card, l
 
 Jason nodded back, stepped into the brighter corridor. The city pressed back in - a slow, granular tide.
 
-***
-
 The pressure was building.
 
 He couldn't name it. Couldn't see it.
@@ -137,3 +127,4 @@ But the sensation crawled beneath his skin, insistent as a storm front moving in
 And deep down, beneath the routine and the resignation, a small voice whispered:
 
 *Pay attention.*
+

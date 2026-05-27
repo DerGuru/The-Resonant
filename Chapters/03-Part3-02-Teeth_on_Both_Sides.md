@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 02 - Teeth on Both Sides
+# Part 3 - Synthesis | 02 - Teeth on Both Sides
 
 Forty-eight hours felt simultaneously too long and not long enough.
 
@@ -56,8 +56,6 @@ Elyra read through the final list, lips moving slightly as she parsed each claus
 
 "I think he'll respect the effort. Whether he approves everything?" She tapped the tablet. "That depends on whether he wants partners or assets."
 
-***
-
 That night, Jason lay in his makeshift bed in the warehouse corner, staring at the ceiling.
 
 *You're anxious,* RAE observed.
@@ -79,8 +77,6 @@ Jason closed his eyes. *Okay. You're right. I'll sign.*
 *Good. Now sleep. You need to be sharp tomorrow.*
 
 He didn't sleep much. But he tried.
-
-***
 
 Morning brought unexpected news.
 
@@ -110,8 +106,6 @@ Elyra set down her tea. "It's both. Jason forced his hand, so Malvek's making it
 
 "That's exactly right," Elyra said. "This is your audition."
 
-***
-
 The remaining thirty hours blurred together.
 
 They rehearsed. Milo presented the amendments, Jason and Lina raising questions, playing devil's advocate. They refined arguments, anticipated objections, prepared fallback positions for each point.
@@ -133,8 +127,6 @@ Lina studied the documents. "What about amendment six? The data retention limits
 They worked until midnight. Slept fitfully. Woke early and went through it once more.
 
 By 1:30 PM, they were ready. Or as ready as they'd ever be.
-
-***
 
 The attorney's office smelled like old leather and expensive coffee.
 
@@ -284,8 +276,6 @@ He left. Reeves gathered his materials, paused at the door.
 
 Reeves nodded and left.
 
-***
-
 Outside, the afternoon sun felt too bright after the dim conference room.
 
 They walked three blocks in silence before anyone spoke.
@@ -317,3 +307,4 @@ They reached the warehouse as evening fell. Inside, Elyra had prepared tea and t
 Jason looked at his friends. At Lina's quiet determination. At Milo's tactical mind already planning next steps. At the life they'd chosen - complicated, dangerous, but theirs.
 
 Elyra looked at them and a hint of smile played at the corners of her mouth.
+

@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 05 - Nineteen points from permanent
+# Part 2 - Learning to Listen | 05 - Nineteen points from permanent
 
 Three days after their first training session, Jason, Lina, and Milo returned to Mill-4.
 
@@ -25,8 +25,6 @@ Elyra picked one up, turned it over. Her expression shifted to intrigued. "Passi
 "Exactly."
 
 "Clever." She examined the ceramic disc. "Should reduce invest load - if they work." She looked at Jason. "Worth trying. But carefully."
-
-***
 
 They worked.
 
@@ -69,8 +67,6 @@ Jason felt his heart hammering. "And if I do nothing?"
 
 "You have three days until the next check," Elyra said. "Use them. And Jason? Understand this: Permanent integration isn't death. It's transformation. YOU have to figure out, if that's a future you can accept or not."
 
-***
-
 The tram ride home was quiet. The mood heavy with the revelation.
 
 "We're actually getting good at this," Milo said with a false cheer in his voice.
@@ -104,3 +100,4 @@ Thirty-three days at current rate.
 *We can do this,* RAE said quietly.
 
 *We can,* Jason agreed.
+

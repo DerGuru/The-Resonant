@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 10 - It's like me
+# Part 3 - Synthesis | 10 - It's like me
 
 The briefing room three levels underground felt like a tomb designed by bureaucrats.
 
@@ -52,8 +52,6 @@ Jason felt the weight of that. RAE wasn't just reading data - she was seeing her
 
 "You have five days," Malvek said. "Then the containment fails regardless."
 
-***
-
 Analysis took thirty-six hours straight.
 
 RAE examined every detail of RP-0's architecture. Compared it to her own. Found similarities - and crucial differences.
@@ -102,8 +100,6 @@ Elyra held her gaze on the clip for a long moment. Then nodded. "Then we proceed
 
 "Agreed," Jason said.
 
-***
-
 That night, Jason lay awake, feeling RAE's presence more acutely than usual. She was quiet, processing. Preparing.
 
 After a long silence, she said: *I've been thinking about the incident reports. The people RP-0 damaged.*
@@ -143,3 +139,4 @@ Jason felt RAE settle, her presence steadying. Tomorrow they'd face RP-0. Tomorr
 It would probably refuse.
 
 But the offer mattered anyway.
+

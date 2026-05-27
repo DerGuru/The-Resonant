@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 08 - Precision over power
+# Part 2 - Learning to Listen | 08 - Precision over power
 
 Six weeks after their first session at Mill-4, Jason's head still hurt every night.
 
@@ -118,13 +118,11 @@ Jason felt cold. RAE was quiet in his mind — she remembered that day too, in f
 
 "We'll see," Elyra said, but there was something that might have been approval in her voice.
 
-***
-
 Four hours later, Jason's hands were shaking and his head was firmly in Yellow territory.
 
 But the washer rang like a tuning fork when he tapped it. Perfect 441 Hz. His baseline frequency.
 
-"Good enough," Elyra said. "Not perfect — there's about a 0.3 Hz drift over time — but functional."
+"Good enough," Elyra said. "Not perfect, there's about a 0.3 Hz drift over time, but functional."
 
 "Tomorrow?" Jason wanted to collapse right there on the floor.
 
@@ -139,3 +137,4 @@ She left, her cane tapping echoes down the hallway.
 Jason set the washer down carefully.
 
 One precise step at a time.
+

@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 15 - Do you trust me?
+# Part 1 - Lost and Found | 15 - Do you trust me?
 
 Everything felt different at night.
 
@@ -48,8 +48,6 @@ Jason nodded to himself. That made sense. Keep his head down. Don't draw attenti
 
 Easy enough in theory.
 
-***
-
 But the universe, it seemed, had other plans.
 
 The next day at work, Jason was filing a routine request when his terminal froze. Not crashed - just stopped. The cursor blinked. The fan hummed. But nothing responded.
@@ -84,8 +82,6 @@ Jason's hands were shaking. He saved his work, logged out, and took an early lun
 
 He needed to think. Needed to figure out what to do next.
 
-***
-
 He met Milo at a coffee shop three blocks from the archive. Neutral ground. Public enough to be safe, quiet enough to talk.
 
 Milo took one look at Jason's face and said, "What happened?"
@@ -113,8 +109,6 @@ Milo grinned, though it didn't reach his eyes. "That's where I come in. I'm good
 Jason took a shaky breath. "This is getting real, isn't it?"
 
 "It was always real," Milo said gently. "You just didn't see the full picture yet."
-
-***
 
 That night, Jason couldn't sleep.
 
@@ -169,3 +163,4 @@ Protecting him in the only way she could.
 And in his dreams, he heard her voice, soft and steady:
 
 *I won't let them harm you. I won't! I promise.*
+

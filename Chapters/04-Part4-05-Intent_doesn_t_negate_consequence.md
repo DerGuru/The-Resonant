@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 05 - Intent doesn't negate consequence
+# Part 4 - Boundaries & Becoming | 05 - Intent doesn't negate consequence
 
 The HOA facility's communication room felt like a cage designed by engineers.
 
@@ -132,8 +132,6 @@ Through the mirror, Malvek's voice came through our earpiece - controlled, clini
 
 "End this. We need to debrief."
 
-***
-
 The debrief room was smaller. Malvek, Reeves, Elyra, us.
 
 "Progress," Malvek said without preamble. "RP-0 updated parameters. Recognized error. That's more than we've seen in any previous session."
@@ -162,8 +160,6 @@ We nodded, feeling the weight of it.
 
 Teaching a god to ask permission and hoping it learned before someone died.
 
-***
-
 Lina was waiting for us outside the facility.
 
 "Do you think it can learn?" she asked quietly.
@@ -189,3 +185,4 @@ The silence stretched between us.
 "Good. Let's go home. I'm tired. You're tired. We need rest before the demonstration."
 
 Ten days away now.
+

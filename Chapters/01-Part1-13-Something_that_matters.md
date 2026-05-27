@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 13 - Something that matters
+# Part 1 - Lost and Found | 13 - Something that matters
 
 Three weeks into training, Jason stood at his apartment window, watching the early morning light paint the skyline in shades of gold and crimson.
 
@@ -61,8 +61,6 @@ He managed a small smile. "Thanks, RAE."
 *You are welcome. Now - shall we begin today's training?*
 
 "Yeah. Let's do it."
-
-***
 
 The next morning, Jason woke to the smell of burnt toast.
 
@@ -165,3 +163,4 @@ The silence in his head was vast.
 He didn't answer.
 
 One uncertain step at a time.
+

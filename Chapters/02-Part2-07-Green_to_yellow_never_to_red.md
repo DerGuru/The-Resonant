@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 07 - Green to yellow, never to red
+# Part 2 - Learning to Listen | 07 - Green to yellow, never to red
 
 "41.8%," Elyra read from the integration sensor, a note of approval in her voice. "You've been holding steady for two weeks now. Whatever you're doing, keep doing it."
 
@@ -7,8 +7,6 @@ Jason exhaled relief. After the scare of watching his integration climb, seeing 
 "It has been difficult," RAE admitted. "But effective."
 
 "Good discipline," Elyra said, setting down the sensor. "Now let's see if you can maintain that while pushing your actual capabilities." She gestured to the warehouse floor. "Perception drills. Center position."
-
-***
 
 Training with Elyra was methodical. Relentless. Unforgiving.
 
@@ -38,8 +36,6 @@ Jason collapsed his awareness gratefully, pressing a hand to his nose. The blood
 
 "Progress rarely does when you're in Yellow territory." Elyra's tone was matter-of-fact. "But that's how training works. You push to your limit, rest, push again. Gradually, the limit moves."
 
-***
-
 By the second hour, they'd moved to active shaping drills.
 
 Elyra had set up a row of ceramic carriers - bowls, plates, cups. Each one slightly damaged. A crack here, a chip there, a wobble in the base.
@@ -64,8 +60,6 @@ A wobbling cup. Jason adjusted the base, redistributing the slight asymmetry tha
 
 "Then keep going. Fifteen more minutes, then break."
 
-***
-
 Lina's turn came after lunch.
 
 She approached the carriers with practiced confidence, her academy training evident in every movement. Where Jason had to think through each step, Lina worked instinctively.
@@ -85,8 +79,6 @@ Bowl. Crack sealed in seconds. Plate. Chip smoothed effortlessly. Cup. Base adju
 Lina's expression darkened slightly. "Yeah. Well. Their loss is your gain, I guess."
 
 "No. Your gain." Elyra's voice was firm. "You're relearning this on your own terms now. Not because someone told you to. Because you choose to. That makes all the difference."
-
-***
 
 The afternoon brought combat drills.
 
@@ -114,8 +106,6 @@ They practiced for an hour. Jason's deflection improved gradually. By the end, h
 
 "That's enough," Elyra declared. "Any more and you'll hit Red. We're done for today."
 
-***
-
 Walking home that night, the familiar ache sat behind his eyes — Yellow territory, but manageable. His nose had stopped bleeding hours ago. His body was tired but not broken.
 
 *You did well today,* RAE said quietly.
@@ -129,3 +119,4 @@ He climbed the stairs to his apartment, collapsed onto his couch. Four weeks of 
 Green to Yellow, never to Red.
 
 One careful boundary at a time.
+

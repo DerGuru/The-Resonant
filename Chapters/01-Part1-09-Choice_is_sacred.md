@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 09 - Choice is sacred
+# Part 1 - Lost and Found | 09 - Choice is sacred
 Jason stood in his apartment, the evening light fading to gray through his small window. He'd come home from the restaurant and been here for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
 
 The resonance had been growing stronger all day. Not louder - stronger. More present. Like someone standing just behind your shoulder, patient and waiting.
@@ -81,7 +81,7 @@ Silence. Long enough that he wondered if he'd broken something.
 
 Then, carefully: *Very well.*
 
-He felt it. A pressure — gentle, almost apologetic — against his right hand. Not physical. Deeper. A suggestion laid across his motor cortex: *lift.*
+He felt it. A pressure, gentle, almost apologetic, against his right hand. Not physical. Deeper. A suggestion laid across his motor cortex: *lift.*
 
 His hand didn't move.
 
@@ -151,8 +151,6 @@ Curiosity.
 
 It - it felt more like a she - had said she'd chosen him. Not because he was powerful, but because he was open. Because he didn't break.
 
-***
-
 Hours later, Jason finally moved. His legs had gone numb from sitting, and he stood carefully, wincing at the pins and needles.
 
 He walked to his small desk, opened his laptop, and stared at the screen.
@@ -206,4 +204,5 @@ But now, he was also someone chosen by something impossible.
 "Okay," he whispered to the empty room. "Let's see where this goes."
 
 The resonance pulsed once - warm, steady, reassuring.
+
 

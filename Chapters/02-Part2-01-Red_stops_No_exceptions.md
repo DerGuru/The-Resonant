@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 01 - Red stops. No exceptions.
+# Part 2 - Learning to Listen | 01 - Red stops. No exceptions.
 
 They met at Mr. Morandi's restaurant during the afternoon lull. Privacy, Lina had insisted - not Jason's compromised apartment, not anywhere public. Just the three of them at a corner table, away from the windows, with a clear view to the kitchen door and the entrance. Mr. Morandi thought they were "studying together" and left them alone with coffee and the occasional plate of food.
 
@@ -25,8 +25,6 @@ Lina jumped slightly, as if she'd half-expected something more dramatic. Milo ma
 Jason managed a small smile despite his headache. "We need to establish what I can safely do. And more importantly, what I can't."
 
 The atmosphere had the tense quality of a first day at a job where mistakes could be fatal. Everyone knew this mattered.
-
-***
 
 "Start with capacity," Lina said, her pen poised. "How much can you sense? How far? How long?"
 
@@ -87,8 +85,6 @@ Jason repeated this. Lina looked at him directly. "Is that true?"
 "Then we don't hit Red," Milo said firmly. "Ever. That's the whole point of having the signal. Red stops. No exceptions."
 
 Jason nodded. The phrase had weight. Rules that could save his life.
-
-***
 
 They spent the next hours establishing more boundaries. How long Jason could maintain a whisper-channel to RAE (all day, if he stayed hydrated and ate properly). 
 How much Invest different types of shaping required (passive observation: almost none; active manipulation: significant). 
@@ -198,8 +194,6 @@ The humming stopped. The pressure in Jason's head eased slightly, dropping back 
 
 "So," Milo said, making rapid notes. "Single carrier: demanding but sustainable. Multiple carriers simultaneously: currently beyond capacity. We'll need to work up to that."
 
-***
-
 They spent the next hour experimenting more carefully - but conservatively. After a fifteen-minute break with water and food, Jason felt steady enough to continue. They resumed carrier projection, but only through the single teapot, and only in short bursts.
 
 Testing practical limits. How long could RAE maintain the connection once established? (Indefinitely, it seemed, as long as Jason didn't move too far away.) What happened if the carrier moved? (The connection held, but became harder to maintain - like holding a thread that someone kept tugging.) How far could Jason be from an active carrier before the strain became unbearable?
@@ -251,4 +245,5 @@ Jason smiled. *I don't ... I won't.*
 He ate slowly, the headache receding with food and rest. The teapot sat on the table, ordinary and silent. The restaurant hummed with its familiar rhythms.
 
 Everything looked so normal. But nothing would ever be normal again.
+
 

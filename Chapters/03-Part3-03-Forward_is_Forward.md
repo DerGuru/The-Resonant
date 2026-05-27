@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 03 - Forward is Forward
+# Part 3 - Synthesis | 03 - Forward is Forward
 
 The first week of monitored freedom felt like learning to walk on ice - careful steps, constant awareness, the knowledge that one wrong move could send everything sliding.
 
@@ -50,8 +50,6 @@ He couldn't go back even if he wanted to.
 
 Did he even want to?
 
-***
-
 Lina found her father in the restaurant kitchen after the lunch rush.
 
 "Hey Dad," she said, leaning in the doorway.
@@ -81,8 +79,6 @@ He nodded slowly. "That's good. Legal is better than the alternative."
 "Yes it is." Lina smiled. "Thank you for trusting me."
 
 "Good. Now finish those carrots. We open in an hour."
-
-***
 
 Milo sat at his cluttered desk, surrounded by monitors and the soft blue glow of encrypted files.
 
@@ -127,3 +123,4 @@ He was part of something now. Something bigger than just survival.
 And that meant watching. Documenting. Understanding the patterns.
 
 Because someone needed to.
+

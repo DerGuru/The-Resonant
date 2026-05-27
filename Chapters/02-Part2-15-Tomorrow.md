@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | Ch. 14.2 - Tomorrow
+# Part 2 - Learning to Listen | Ch. 14.2 - Tomorrow
 
 Day Fourteen. The final day.
 
@@ -65,8 +65,6 @@ But they were rested. And they weren't alone.
 
 At eight PM, Elyra's text came through: *Warehouse*
 
-***
-
 They met one last time. Not to train. Just to stand together in that cold, empty space and acknowledge what was coming.
 
 Elyra looked at each of them. "You did well. Better than I expected." She pulled something from her jacket - three small objects. Ceramic, Jason realized. Carriers. "Emergency beacons. If everything goes wrong. If you need to run. Crush it, and I'll know."
@@ -86,8 +84,6 @@ She walked toward the warehouse exit, then stopped.
 "For what it's worth?" She didn't turn around. "You made it to the end." A pause. "That counts for something."
 
 Then she was gone, leaving them alone in the warehouse one last time.
-
-***
 
 They sat in silence for a while. Somewhere, water dripped from a rusted pipe. 
 
@@ -110,8 +106,6 @@ She handed them each a slip of paper with an address. "Hotel. District 7. Cash o
 Jason looked at the paper. A false name: Marcus Webb. District 7 was anonymous. Industrial. The kind of place where people didn't ask questions.
 
 "Twenty minutes," Elyra repeated. "Then you disappear."
-
-***
 
 Jason's apartment felt different. Smaller. Like he was seeing it through glass.
 
@@ -137,8 +131,6 @@ Silent.
 
 He didn't look back.
 
-***
-
 The hotel was exactly what Elyra had promised. Anonymous. Cheap. The kind of place with flickering neon and a clerk who barely looked up when Jason paid cash.
 
 Lina was waiting in the lobby. She'd changed clothes. Looked smaller somehow, holding a single backpack.
@@ -160,8 +152,6 @@ Elyra appeared from a side hallway. "Rooms 314 and 316. Jason and Milo in 314. L
 "Good." Elyra looked at each of them. "Get some sleep. Tomorrow they come, or they don't. Either way, we're ready."
 
 She walked away. Her footsteps echoed in the stairwell.
-
-***
 
 The room smelled like old cigarettes and industrial cleaner. The carpet was stained. The window overlooked an alley. Not home. But safe. For now.
 

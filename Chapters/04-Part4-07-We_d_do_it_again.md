@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 07 - We'd do it again 
+# Part 4 - Boundaries & Becoming | 07 - We'd do it again 
 
 Three days had passed since the meeting with RP-0. Three days of routine - check-ins, training sessions, the careful dance of cooperation with HOA that had become our new normal.
 
@@ -15,8 +15,6 @@ Lina emerged from the bedroom. Blue jacket — the one Jason had always liked. H
 "Ready?" she asked.
 
 "Ready," we confirmed.
-
-***
 
 The café was her choice - small, tucked into a side street we'd never noticed despite walking past it dozens of times. Windows fogged with condensation. Music playing softly, something acoustic and gentle. The kind of place that existed for conversation, not spectacle.
 
@@ -72,8 +70,6 @@ When she pulled back, her eyes were wet.
 
 The hollowness settled in - that sense of operating at half capacity, world slightly out of focus. 
 
-***
-
 We stayed for two hours. Talked about nothing important and everything that mattered. Watched people pass outside the fogged windows. Existed in that simple space. Just... being here and now.
 
 Our phone buzzed once - HOA check-in reminder for next week. We glanced at it, dismissed it. Not tonight.
@@ -83,8 +79,6 @@ When we finally left, evening had fallen completely. The city had that quality o
 The hollowness remained. It would stay for some time longer. But remembering Lina's face - we'd do it again.
 
 Lina took our hand as we walked.
-
-***
 
 We were three blocks from the apartment when we saw Mrs. Amari.
 
@@ -164,8 +158,6 @@ Lina squeezed our hand. "Three days. We do this right. For Elyra. For Mrs. Amari
 
 "For all of them," we agreed.
 
-***
-
 Lina took our hand as we walked up the stairs together.
 
 "I have something to show you," she said, pulling a folded paper from her jacket pocket once we reached our floor. "Elyra asked me to pass it along."
@@ -187,3 +179,4 @@ We smiled despite the weight of the story. That was Mrs. Amari - precise, carefu
 Three days. We'd do this right.
 
 For everyone who'd paid the price of mistakes we didn't have to repeat.
+

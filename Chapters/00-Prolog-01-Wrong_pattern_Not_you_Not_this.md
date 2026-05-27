@@ -1,4 +1,4 @@
-﻿# Prologue | 01 -  Wrong pattern. Not you. Not this. 
+# Prologue | 01 -  Wrong pattern. Not you. Not this. 
 
 The air was dead.
 
@@ -18,8 +18,6 @@ She inhaled slowly, feeling the field compress around her.
 
 A cage.
 
-***
-
 They began.
 
 The procedure followed canonical structure: eight inflectionists of seven Invest vectors and one focus — her. The lens through which chaos would converge into structure.
@@ -33,8 +31,6 @@ Then faster.
 Then too fast.
 
 The anomaly beneath the floor stirred.
-
-***
 
 At first, it was just a flicker. Elyra compensated, muscles tensing from mental stress as she adjusted the harmonic flow. Shifted the rhythm. 
 Her hands moved through slow, centering gestures - helping her focus as she tuned and balanced the resonance frequencies through pure intent.
@@ -53,8 +49,6 @@ An intelligence.
 
 Reaching *through her*.
 
-***
-
 "Break the feed!" someone shouted.
 
 Too late.
@@ -72,8 +66,6 @@ It was still inside the pattern. Unstable, but *present*. She couldn't contain i
 Her vision darkened at the edges. Her spine burned with a heat that had nothing to do with temperature. Blood trickled from her nose, hot and copper-tasting.
 
 And then - stillness.
-
-***
 
 For a breath, it worked. The resonance aligned. The anomaly quieted. The structure held.
 
@@ -98,3 +90,4 @@ There was only the pattern. The endless, recursive pattern. And the certainty th
 They told her afterward: she'd stabilized the containment field. Three inflectionists survived. One would never speak again.
 
 They called her the Last Resonant.
+

@@ -1,4 +1,4 @@
-﻿# Preface: A New Kind of Collaboration
+# Preface: A New Kind of Collaboration
 
 What am I really, when it comes to this book? Not quite an author - not in the traditional sense, at least. Most of the words you're about to read came from an AI, a large language model that served as my co-writer, translator, and tireless collaborator.
 
@@ -7,8 +7,6 @@ But I'm not just an editor, either.
 I had the vision. I built the world, designed the harmonic resonance system, shaped the characters, determined the tone. I read every word the AI produced, rewrote substantial portions myself, and gave precise instructions when the story drifted off course.
 
 This book is the result of collaboration between human vision and artificial capability - and it took three attempts to get it to the finish line.
-
-***
 
 ## The Journey: Four Attempts
 
@@ -53,8 +51,6 @@ I fed the finished book back to the AI - all of it - and asked for a brutally ho
 So I went back in. Not to rewrite - to sharpen. Compress a seventy-line governance exposition into thirty lines of tension. Replace a character's duplicate anecdote with something that revealed new depth. Strip the labeled concepts from the climax and let the confrontation *demonstrate* what words like "boundary" and "choice" actually mean. Add the hesitation a character should feel before volunteering for something that killed five people. Motivate a pronoun shift that had happened without earning its moment.
 
 Small changes. Surgical. But the kind that turn a good book into one that trusts its reader.
-
-***
 
 ## What This Process Actually Looked Like
 
@@ -102,8 +98,6 @@ In practice, this usually ends after two or three more iterations. Sometimes it 
 
 The process sounds methodical written out like this. In reality, it was messy, iterative, often frustrating. But that frustration came from the same place as any writing frustration: the gap between the story in my head and the story on the page. The AI didn't eliminate that gap - it just gave me different tools to close it.
 
-***
-
 ## Hurdles to Overcome
 
 **Keeping AI on track:** Linear thinking isn't its strength. It forgets details, loses threads, contradicts itself. Constant vigilance required.
@@ -118,8 +112,6 @@ The process sounds methodical written out like this. In reality, it was messy, i
 
 **“On-the-Nose”**: Instead of a subtle touch on-the-nose, the AI tended to go for a punch in the face — with a sledgehammer. I wanted readers to connect the dots themselves, so I often had to rein it back in to preserve subtlety and implication.
 
-***
-
 ## What It Felt Like
 
 Working on this book felt like reading one - but with the power to intervene whenever something felt wrong.
@@ -127,8 +119,6 @@ Working on this book felt like reading one - but with the power to intervene whe
 I'd be absorbed in the story, then something would jar me. Dialogue that didn't fit. Scene that dragged. Character moment that rang false. Once it was a whole chapter, which I'll add as an adendum after the epilogue.
 
 It was an adventure. I experienced the story much like you will - except I had the chance to shape it, scene by scene, beat by beat, until it matched the slowly changing vision in my head.
-
-***
 
 ## Why This Matters
 
@@ -148,8 +138,6 @@ The AI let me say "yes" to better ideas, even late in the process. It let me ref
 
 Is it "real" writing? I think so. But you'll be the judge.
 
-***
-
 ## A Final Note
 
 This novel exists because I refused to give up after ~~two~~ three (now) failed attempts. It exists because I learned to work *with* the AI's strengths and compensate for its weaknesses. It exists because I read every chapter as both creator and reader, demanding quality at every step.
@@ -163,4 +151,5 @@ This is **collaboration.**
 I hope you enjoy reading it as much as I enjoyed - and was frustrated by - shaping it.
 
 Welcome to *The Resonant*.
+
 

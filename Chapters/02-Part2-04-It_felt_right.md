@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 04 - It felt right
+# Part 2 - Learning to Listen | 04 - It felt right
 
 Mill-4 sat on the city's edge like a broken tooth.
 
@@ -192,8 +192,6 @@ This was it. Real training. With someone who understood the costs.
 
 *As ready as I'll ever be.*
 
-***
-
 Elyra filled the ceramic bowl with water from a canteen, then placed it in Jason's hands. "Close your eyes. Feel the water. Not with your hands - with your awareness. Tell me what resonates."
 
 Jason did as instructed, reaching out with his senses the way RAE had taught him. The water felt highly responsive. Not conscious, but reactive. It vibrated at frequencies he could almost, but not quite, perceive.
@@ -263,3 +261,4 @@ And that, more than anything Elyra had said, was what scared him most.
 Because the power didn't feel foreign.
 
 It felt right.
+

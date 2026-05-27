@@ -1,12 +1,10 @@
-﻿# Part 2 - Learning to Listen | 14 - Staying Alive Out of Spite
+# Part 2 - Learning to Listen | 14 - Staying Alive Out of Spite
 
 Jason's training entered its final phase.
 
 Elyra wasn't kidding about accelerated training.
 
 *Two weeks,* Jason kept thinking. *We have two weeks.*
-
-***
 
 Six AM, Day Two. The warehouse was still dark when Elyra hit the lights.
 
@@ -35,8 +33,6 @@ Something flickered across Elyra's face. "Three years of fundamentals. Two more 
 "We don't have years," Jason said quietly. "We don't even have weeks. Thirteen days left."
 
 "I know. That's why we're not stopping."
-
-***
 
 Day Four. "Combat scenario," Elyra said. "Lina, you're hostile. Jason, defend."
 
@@ -84,8 +80,6 @@ Lina walked over, offered her hand. Jason took it, let her pull him up.
 
 "Yeah." Lina glanced at Elyra, who was setting up the next drill. "It kind of does."
 
-***
-
 Day Five brought something different.
 
 "Blind perception drill," Elyra announced, holding up a blindfold. "You're going to learn to navigate by resonance alone. No visual input. Just pure awareness."
@@ -107,8 +101,6 @@ He made it halfway through before his concentration slipped. A chair leg caught 
 By the end of the day, Jason could navigate the course in four minutes without hitting anything. His perception had sharpened in a way that felt fundamental, like learning to use a limb he'd never known he had.
 
 "That's how you survive in the dark," Elyra said. "When they cut the lights. When they blind you. When all you have is what you can feel."
-
-***
 
 Day Six. Jason woke to his phone buzzing. Emergency code. 3:17 AM.
 
@@ -146,8 +138,6 @@ Twenty-eight minutes later, they reached the safe house - an abandoned factory E
 
 "When I call you." Elyra's expression was unreadable. "Containment teams don't schedule appointments. Neither do I. Get some rest. Eight days left." 
 
-***
-
 Day Eight.
 
 "Barrier drill," Elyra said, holding up a handful of steel ball bearings. "I throw these at you. You deflect them. No ambient field usage - pure active shaping. Ready?"
@@ -183,8 +173,6 @@ They drilled for two hours. By the end, Jason could maintain a full-sphere barri
 "Six days left," Jason said.
 
 "Then we'd better not waste them."
-
-***
 
 Day Ten brought the first real failure.
 
@@ -232,8 +220,6 @@ Elyra met Jason's eyes. "You learn to be enough of a pain in the ass that maybe 
 
 She walked toward the door. "Four days left. Make them count."
 
-***
-
 Day Eleven. Evening.
 
 They were taking a rare break, sitting on shipping containers and sharing cold pizza that Milo had somehow convinced a delivery driver to bring. The food tasted like cardboard. No one complained.
@@ -257,8 +243,6 @@ The silence stretched.
 "Three days left," Elyra said from the doorway. They hadn't heard her approach. "Rest now. Tomorrow we finish this."
 
 She left. The door clicked shut behind her.
-
-***
 
 Days twelve and thirteen blurred together.
 
@@ -287,4 +271,5 @@ One more day to become something he wasn't sure he could be.
 But he was still standing.
 
 And that had to count for something.
+
 

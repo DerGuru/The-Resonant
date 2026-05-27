@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 11 - My calendar - but not my vows
+# Part 4 - Boundaries & Becoming | 11 - My calendar - but not my vows
 
 Fifty seats arranged in an amphitheater style. Every one filled. Scientists. HOA officials. Approved media representatives with cameras and recording equipment. All here to watch me prove that synthesis could be safe - or fail spectacularly.
 
@@ -19,8 +19,6 @@ This was not about changing the field, but filling it with Invest. So I started 
 The resonogram responded with homogeneous resonance - stable amplitude, clean waveform, zero harmonic distortion. Green zone throughout. The crystal glowed with a steady light. Perfect control.
 
 Quiet murmurs from the audience. A few nods. Reeves made notes on his tablet.
-
-***
 
 Phase two: Stabilization. An external object requires harmonic alignment without structural damage.
 
@@ -66,8 +64,6 @@ I answered perfectly. Said exactly what they needed to hear.
 
 And felt hollow doing it.
 
-***
-
 After everyone left, after the equipment was packed away, Lina and I walked through the city.
 
 "You were great," she said.
@@ -110,7 +106,7 @@ She was already crying, clasping her hands before her mouth.
 
 "I know," she whispered, tears in her eyes.
 
-"But here's what I also know: When I first met you at your dad's restaurant, I wanted to be at your side and that never changed. I chose you. Every part of me. Every memory, every instinct, every piece of Jason and RAE and whatever synthesis created from them. I choose you. Not because it's optimal. Not because you complete me. But because loving you makes me more fully myself. Because you see all of me and stay anyway. Because you hold boundaries I need and give space I require and love me despite my complexity."
+"But here's what I also know: When I first met you at your dad's restaurant, I wanted to be at your side and that never changed. I chose you. Every part of me. Every memory, every instinct, every piece of Jason and RAE and whatever synthesis created from them. I choose you. Not because it's optimal. Not because you complete me. But because loving you makes me more fully myself. Because you see all of me and stay anyway. Because you hold boundaries I need, give space I require, and love me despite my complexity."
 
 I took a breath.
 
@@ -131,8 +127,6 @@ She searched my face for another moment. Then smiled through tears.
 I slipped the ring on her finger. It fit perfectly. Of course it fit perfectly - *I* measured.
 
 Lina pulled me up. Kissed me. Long and deep.
-
-***
 
 I sat on the bench with Lina. Her hand in mine. Ring catching moonlight. The city hummed around us with life that didn't care about synthesis or surveillance or transformation.
 
@@ -158,8 +152,6 @@ Lina leaned her head on my shoulder.
 
 "I love you," I replied.
 
-***
-
 My phone buzzed. Message from Reeves: *"Report immediately. RP-0 incident. Urgent."*
 
 I looked at the screen. At Lina. At the ring on her finger.
@@ -176,6 +168,5 @@ She nodded. Held my hand tighter.
 
 And together, we went to face whatever new crisis awaited.
 
-***
-
 *But tonight: joy despite surveillance.*
+

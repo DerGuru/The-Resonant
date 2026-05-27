@@ -1,4 +1,4 @@
-﻿# Afterword
+# Afterword
 
 Congratulations! You've reached the end of the book. 
 
@@ -24,8 +24,6 @@ Alongside the POV changes, I wanted the tone to evolve. Throughout most of the b
 
 The first change was tedious but straightforward - going back through relevant chapters to adjust the pronouns. The second was harder: finding the right balance between intimacy and distance without losing readers in the process. The AI helped with both, making these late revisions far easier to implement than they would have been otherwise.
 
-***
-
 ## Bonus Chapter: The Original Draft of "To be less"
 
 What follows is the original AI-generated version of what eventually became "To be less" - back when it was still called "Anchor." The concept: Lina says "Anchor," and Jason/RAE shift to become more... Jason.
@@ -42,8 +40,6 @@ Second, it's fascinating to see how much the creative process matters. Same char
 
 Read the original. See what I mean. And perhaps you'll appreciate "To be less" even more for what it became.
 
-***
-
 ## Understanding Harmonic Resonance
 
 After the bonus chapter, you'll also find a reader's guide to **Harmonic Resonance** - the underlying system that makes Jason and RAE's world work. It's entirely optional, but if you've been curious about the "how" and "why" behind inflections, investments, and frequency patterns, that appendix is for you. 
@@ -53,3 +49,4 @@ Think of it as a technical manual for those who want to peek under the hood. The
 Fair warning: it's still fairly technical and somewhat abstract.
 
 Happy reading!
+

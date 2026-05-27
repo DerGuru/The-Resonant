@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 09 - We're offering protection
+# Part 2 - Learning to Listen | 09 - We're offering protection
 
 Seven weeks into training, Jason found himself three blocks from Morandi's when a man stepped out of a coffee shop doorway and just stood there, waiting.
 
@@ -60,8 +60,6 @@ Jason stood on the sidewalk, the card still in his hand, his headache creeping f
 
 Jason pocketed the card and kept walking.
 
-***
-
 "Let me see it."
 
 Elyra held the card under her desk lamp, examining it like a counterfeit bill. Lina leaned against the wall, arms crossed. Milo had his laptop open, already searching.
@@ -112,8 +110,6 @@ She stood, walked to the board where she'd drawn resonance diagrams. "Starting t
 
 "No, that sounds pragmatic. It's survival." Elyra looked at Jason. "You just refused Malvek's protection. That makes you either brave or stupid. Let's make sure it's the former."
 
-***
-
 Jason sat on the couch, the card sitting on his nightstand.
 
 *You could still call,* RAE said.
@@ -152,8 +148,6 @@ And whatever came next, he'd face it on his own terms.
 
 He went to bed and let sleep pull him under, the card still visible in the moonlight streaming through his window.
 
-***
-
 Across the street, in a parked sedan with tinted windows, Thomas Reeves made a note on his tablet.
 
 *Subject declined initial contact. Proceeding to observation phase. Recommend elevated monitoring.*
@@ -161,4 +155,5 @@ Across the street, in a parked sedan with tinted windows, Thomas Reeves made a n
 He looked up at Jason's lit window, now dark.
 
 Thirty-six hours remaining.
+
 

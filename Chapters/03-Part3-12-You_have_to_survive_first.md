@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 12 - You have to survive first
+# Part 3 - Synthesis | 12 - You have to survive first
 
 The containment chamber was perfect for what they were about to attempt.
 
@@ -36,8 +36,6 @@ They dispersed slowly. Milo to verify backup protocols one more time. Lina to he
 Jason tried to sleep twice. Both times he lasted less than five minutes before his pulse kicked him back out of bed.
 
 The facility had a roof access - he climbed it, needing air, needing space to think.
-
-***
 
 The city stretched below him, lights flickering like scattered stars. Forty meters beneath this building, RP-0 waited in its containment, testing the barriers, growing stronger with each spike.
 
@@ -116,3 +114,4 @@ The containment chamber awaited.
 And with it, the attempt that would change everything.
 
 One careful step at a time.
+

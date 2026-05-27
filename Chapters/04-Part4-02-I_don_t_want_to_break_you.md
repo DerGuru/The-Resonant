@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 02 - I don't want to break you
+# Part 4 - Boundaries & Becoming | 02 - I don't want to break you
 
 The HOA facility looked the same. Glass and steel. Institutional authority made architecture. But walking toward it now felt different.
 
@@ -43,8 +43,6 @@ The guards left. Door closed. Locked. We heard the electromagnetic seal engage w
 "Fuck," Lina whispered.
 
 "Agreed," we said.
-
-***
 
 Malvek arrived exactly at 10:00 AM. Reeves with him, tablet in hand, expression professionally neutral.
 
@@ -146,8 +144,6 @@ A web of choices, each with countless threads extending into unknowable futures.
 
 "Agreed," we said.
 
-***
-
 The tests were invasive in ways that had nothing to do with physical contact.
 
 Cognitive mapping. Memory verification across both consciousness streams - at least as far, as they were able. Resonance depth analysis measuring how thoroughly Jason and RAE had merged. Stability stress tests - suppression fields fluctuating in strength, simulating external manipulations, forcing us to adapt, to maintain composure under artificially induced stress.
@@ -188,8 +184,6 @@ We extended our hand. He shook it - firm grip, professional, a contract sealed w
 
 "Three weeks, Mr. Fischer. Make it count."
 
-***
-
 Outside, the sun felt too bright. The air too thin. Freedom conditional and constrained.
 
 Lina walked silently beside us for three blocks before speaking.
@@ -221,3 +215,4 @@ Despite everything, we smiled.
 "Deliberately inefficient. We can try."
 
 "Good." She took our hand. "That's all I ask."
+

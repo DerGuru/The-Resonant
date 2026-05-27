@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 12 - Supervised Partnership
+# Part 4 - Boundaries & Becoming | 12 - Supervised Partnership
 
 Midnight at the HOA facility. Empty corridors, emergency lighting, skeleton crew at essential stations.
 
@@ -75,8 +75,6 @@ Malvek nodded. "RP-0, you're hearing this?"
 "Acknowledged," RP-0's voice came through the speakers. Calm, precise. "Supervision framework accepted. Override authority granted to Jason Fischer. Beginning cascade analysis."
 
 "You've got about four hours," Malvek said. "Make it count."
-
-***
 
 The next three and a half hours were some of the most intense work I'd ever done.
 
@@ -198,8 +196,6 @@ Elyra was smiling. Tired but genuine. "You proved it can be done."
 
 "I'm afraid," Malvek said. "We need to debrief you first, before you can have some rest later."
 
-***
-
 The sun was already rising when we finally left the HOA facility.
 
 It had worked. Both of us working simultaneously - That's what made us fast.
@@ -238,8 +234,6 @@ Could I accept that? The math said we succeeded. But success still tasted like f
 
 "Unknown. But it's been... processing. Running simulations. Analyzing the intervention. Whatever conclusions it's reaching, it wants to share them with you first."
 
-***
-
 "You okay?" Lina asked.
 
 "Yeah. Just... drained." I looked out the window. The city looked peaceful. Nobody knew how close they'd come to catastrophe. 
@@ -257,3 +251,4 @@ Tonight - or rather, this morning - I'd done what we'd been training for. Partne
 Sleep came fast and deep, like falling into darkness.
 
 Tomorrow could wait.
+

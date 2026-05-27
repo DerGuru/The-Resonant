@@ -1,137 +1,87 @@
+# Writing Rules — General
+
+*Allgemeingültige Schreibregeln, unabhängig vom Projekt. Die Reihenfolge impliziert keine Priorisierung.*
+
 ## Engagement
-
-- Never bore the reader.
-- If you must depict boredom, do so without making the text boring.
-- Make characters relatable through action and decision, not through statement.
-- Make the storytelling immersive — the reader should be inside the scene, not observing it.
-
----
+1. Never bore the reader.
+2. If you must depict boredom, do so without making the text boring.
+3. Make characters relatable.
+4. Make the storytelling immersive.
 
 ## Show, Don't Tell
+5. Characters act and interact — they live, experience and change.
+6. Don't tell the reader something happened; show it in a scene.
+7. Match the scope of showing to importance: a scene, a chapter, or a separate book.
 
-- Characters act and interact — they live, experience, and change.
-- Don't tell the reader something happened; show it in a scene.
-- Match the scope of showing to importance: a scene, a chapter, or a separate book.
-- Never state an emotion directly when it can be shown through action, dialogue, or physical detail.
-
-**Example — Telling:** *She felt nervous about the meeting.*
-**Example — Showing:** *She checked her reflection three times. Smoothed the collar. Checked again.*
-
----
-
-## Reliability and Comprehension
-
-- Make the story comprehensible for the reader.
-- If something from the past is referenced, it must have happened on-page.
-- Don't rely on secrets to make the book work. That's cheap writing.
-- Give the reader enough information to understand what's written.
-- The reader only knows what was written — nothing more.
-
----
+## Reliability & Comprehension
+8. Make the story comprehensible for the reader.
+9. If something from the past is referenced, it must have happened on-page.
+10. Don't rely on secrets to make the book work. That's cheap writing.
+11. Give the reader enough information to understand what's written.
+12. The reader only knows what was written — nothing more.
 
 ## Chronological Storytelling
-
-- Build each chapter on previous chapters.
-- Don't skip events; don't jump ahead.
-
----
+13. Build each chapter on previous chapters.
+14. Don't skip events; don't jump ahead.
+15. **Keine Flashbacks als Strukturmittel.** Charaktere *erinnern sich* — sie "flashen" nicht zurück. Erinnerung ist subjektiv, persönlich, gefiltert durch die Gegenwart. Ausnahme: Parallele Zeitlinien als bewusstes Stilmittel (z.B. Stephen King's *It*).
 
 ## Consequences
-
-- Think through the consequences of every action.
-- Consider indirect consequences that emerge from interactions with others.
-- Consider consequences that are only visible at second glance.
-
-**Example:** A character wins a fight very brutally → the loser's allies now have reason to intervene → the crowd who witnessed it now treats the character differently → the authority figures who hear about it later must respond.
-
----
+15. Think through the consequences of every action.
+16. Consider indirect consequences that emerge from interactions with others.
+17. Consider consequences that are only visible at second glance.
 
 ## Reader Intelligence
-
-- Don't be on the nose. Don't explain what the reader can figure out.
-- Let the reader explore and figure things out themselves.
-- Assume the reader is intelligent.
-- Trust the setup to carry the payoff — don't annotate your own themes.
-
-**Example — On the nose:** *And in that moment, she understood that power always came at a price.*
-**Example — Better:** *She looked at what the technique had cost. Said nothing. Kept walking.*
-
----
+18. Don't be on-the-nose.
+19. Let the reader explore and figure things out themselves.
+20. Assume the reader is intelligent.
 
 ## Character Intelligence
-
-- Assume characters are intelligent unless explicitly stated otherwise.
-- Characters will have and use their common sense.
-- Characters will try the obvious solution first.
-- Characters abandon a plan only when it's clear it won't succeed — through discussion or failed attempts.
-
-**Example — Violation:** A character has a teleportation ability but walks for three days to reach the destination because the plot needs travel time.
-**Example — Fix:** Establish why teleportation doesn't work here — a ward, a cost, a reason that exists within the story's logic.
-
----
+21. Assume characters in the book are intelligent if not stated explicitly otherwise.
+22. Characters will have and use their common sense.
+23. Characters will try the obvious solution first.
+24. Characters abandon a plan only when it's clear it won't succeed. This could be through discussion or failed attempts.
 
 ## Structure
-
-- Use a consistent structural framework (e.g. Seven Point Structure).
-- Every scene should accomplish something — set the tone, create atmosphere, advance plot, develop character, or establish stakes.
-- Use sparingly: Apophasis / Via Negativa — constructions like: "I said nothing. Not as a strategy. Not as a refusal." These feel literary but pad prose without adding meaning.
-
----
-
-## Tone
-
-- Do not assign a single tone to the entire text. Mixed tone is what makes prose readable.
-- Pain, tension, and dread are shown concretely and personally — through body, action, and subtext. Never declared or overdramatized.
-- Every chapter should have tonal variety — not a single emotional register sustained without contrast.
-
----
+25. Use Kishōtenketsu (4-act structure without conflict-driven resolution). See StyleDNA for details.
 
 ## Pacing
+26. **Event:Reflexion-Ratio = 1:2.** Auf jede Seite innere Reflexion kommen mindestens zwei Seiten äußeres Geschehen (Dialog, Handlung, SoL-Beats).
+27. **Slice-of-Life als Fundament.** Alltägliche Momente zwischen großen Beats: Kochen, Reisen, kleine Begegnungen, Wetter, Routinen. Das Gewöhnliche macht das Außergewöhnliche bedeutsam.
+28. **Dialog bricht Introspektion.** Lange Passagen innerer Reflexion werden durch Dialog unterbrochen — Rückfragen, Widerspruch, Kommentar. Kein Monolog über eine halbe Seite ohne externe Reaktion.
+29. **Action als Rhythmus-Element.** Kampfszenen dienen nicht nur der Ploteskalation, sondern auch als Pacing-Werkzeug: Spannung aufbauen, Tempo wechseln, Atempausen kontrastieren.
+30. **Erinnerungen spiegeln die Gegenwart.** Jede Erinnerung muss thematisch oder emotional die aktuelle Situation spiegeln. Keine "freischwebenden" Rückblicke ohne Bezug zum Jetzt.
 
-- Every slice-of-life scene must do at least one other thing. No filler.
-- Action scenes serve as pacing tools — not just plot escalation.
-- Long passages of inner reflection are broken up by dialogue: questions, contradiction, comment. No internal monologue longer than half a page without external reaction.
+## Ton
+31. **Warm statt melodramatisch.** Schmerz wird konkret und persönlich gezeigt (Körper, Handlung, Untertext), nie überhöht oder pathetisch deklariert.
 
----
+## Stil
+32. **Avoid Apophasis or Via Negativa.** (e.g. *I said nothing. Not as a strategy. Not as a refusal. The silence was the sound of a door…*)
+33. **Analogien müssen sich ihren Platz verdienen.** Ein Vergleich muss etwas enthüllen, das die wörtliche Beschreibung nicht kann. Test: Analogie entfernen. Wenn der Satz noch funktioniert, war sie ornamental. Sparsam einsetzen, den Text nicht überladen.
+34. **Keine Anthropomorphismen mit Bewusstsein.** Tiere, Natur, unbelebte Objekte haben keine Meinungen, Absichten oder Bewertungen. Sie können nicht *wollen*, *entscheiden* oder *urteilen*. Idiomatische Verben, die Wahrnehmung oder physische Dynamik ausdrücken, sind erlaubt (*silence rushed in*, *shadows crept*, *the cold bit*). Test: Setzt der Satz dem Objekt ein Innenleben voraus? Dann streichen. Beschreibt er eine physisch erlebbare Wirkung? Dann OK.
+35. **Smooth Reading Experience.** Sätze so formulieren, dass sie leicht und flüssig zu lesen sind. Unnötige Komplexität vermeiden. Balance finden — weder zu kurz noch zu verschachtelt. Der Leser soll sich auf die Geschichte konzentrieren, nicht über Formulierungen stolpern.
+36. **„The way" sparsam einsetzen.** Erste Wahl: direkt beschreiben. Nicht *the way his voice dropped*, sondern *his voice dropped*. *Like* bevorzugen wenn Vergleich nötig, aber auch Vergleiche insgesamt reduzieren.
+37. **Maximal ein „and" pro Satz.** Dreierlisten mit Komma und einem *and*: *smoke, fat, and sap*. And-Ketten nur als bewusstes, seltenes Stilmittel (Anaphora, Atemlosigkeit). Ausnahme: Paarungen (*needle and thread, fire and water*).
+38. **Em Dashes nur bei Interruption.** Parenthetische Einschübe nicht mit Em Dashes lösen. Stattdessen: Punkt und neuer Satz, Komma, oder umformulieren. Einzige Ausnahme: abgebrochener Dialog (*"I didn't—"*). Em Dashes sind kein Universalwerkzeug für Nachträge, Appositionen oder Erklärungen.
+39. **Keine Szenentrenner.** Kein `---`, kein `***`, keine visuellen Trennlinien. Der Text fließt. Absatzumbrüche und ein neuer Satz reichen, um Zeit- oder Ortswechsel zu markieren.
 
-## Analogies and Comparisons
+## Szenen-Architektur
+40. **Sanfte Kapitel-Einstiege.** Kapitel beginnen nicht mit isolierten Ein-Satz-Hooks. Den Leser in die Szene hineinführen — mit Sinneseindrücken, Körperhaltung, Umgebung oder laufender Handlung.
+41. **Szenen am Turn schneiden.** Beende die Szene wenn sich etwas verschiebt — nicht danach. Die Nachwirkung einer Veränderung gehört in die nächste Szene, nicht ans Ende der aktuellen.
+41. **Jede Szene verändert etwas.** Eingangs-Zustand ≠ Ausgangs-Zustand (Beziehung, Wissen, Position, Absicht). Wenn nach einer Szene alles ist wie vorher, existiert sie nicht.
 
-- Analogies must earn their place. A comparison must reveal something the literal description cannot.
-- Test: remove the analogy. If the sentence still works, the analogy was decoration.
-- Use sparingly — for impact, not for density.
-- No anthropomorphism. Animals, nature, and inanimate objects have no human properties, intentions, or opinions. They exist and act by their own rules. Exceptions must be stated explicitly.
+## Charakterwissen
+42. **Charakterwissen respektieren.** Personen können nur auf das reagieren, was sie tatsächlich erlebt oder erfahren haben. Gedanken anderer sind unbekannt. Zukünftiges ist nicht bekannt. Wenn eine Person auf etwas reagiert, das bisher nur im Kopf einer anderen existierte, muss es vorher an- oder ausgesprochen worden sein.
 
----
+## Dialog
+43. **Subtext > Text.** Was Charaktere nicht sagen, vermeiden zu sagen, oder falsch sagen, trägt das Gewicht. Direkte emotionale Deklarationen sind fast immer schwächer als demonstriertes Verhalten. Das Ungesagte ist der eigentliche Dialog.
 
-## Smooth Reading Experience
+## Welt & Interaktion
+44. **Der MC ist nicht allein in der Welt.** Die Welt lebt und atmet — sie braucht Platz in der Geschichte. Der MC interagiert mit ihr. Andere Charaktere werden vom MC beeinflusst und beeinflussen diesen. Sie können kommen und gehen, aber sie müssen Teil der Story sein; sonst existieren sie nicht. Keine Isolation als Default.
 
-- When there is no stylistic or content-based reason for complexity, sentences should be easy and fluid to read.
-- Avoid unnecessary complexity, nested structures, or unusual word choices that interrupt flow.
-- Balance is the goal: not all sentences should be short, but none should confuse or exhaust the reader.
-- Overly short sentences, when frequent, also disrupt flow.
+## Protagonist-Agency
+45. **Der Protagonist handelt aktiv — auch ohne Macht.** Zögern muss als kontrollierte Strategie lesbar sein, nicht als Passivität. Selbst ein machtloser Charakter trifft aktive Entscheidungen mit Kosten.
+46. **SoL-Szenen müssen arbeiten.** Jede Slice-of-Life-Szene muss mindestens EINS tun: (a) eine Beziehung vertiefen, (b) einen Charakter triggern/verändern, (c) spätere Stakes aufbauen, (d) Stimmung/Atmosphäre etablieren. Kein SoL als Füllmaterial.
 
----
-
-## Sentence Craft
-
-**Chapter openings:**
-- Do not begin chapters with isolated one-sentence hooks. No spoilers in the first sentence. No single sentences that exist solely to be a hook.
-- Lead the reader into the scene — with sensory impressions, posture, environment, or ongoing action.
-- The first paragraph should open a space the reader can enter, not push them in or whack them over the head.
-
-**Character knowledge:**
-- Characters can only react to or reference what they have actually experienced or been told — on-page.
-- Thoughts of other characters are unknown unless explicitly given the ability to perceive them.
-- Future events are not yet known — even within the same chapter.
-
-**Maximum one "and" per sentence:**
-- Two "and"s in one sentence is already too many.
-- Three-item lists: comma + single "and": *smoke, fat, and sap* — not *smoke and fat and sap*.
-- Break cascading thoughts into individual sentences.
-- Exception: deliberate stylistic use (ritual anaphora, breathlessness) — rare.
-- Exception: paired constructions that emphasize pairing: *needle and thread, fire and water, spear and shield.*
-
-**"Suddenly" — never:**
-- If something is sudden, the reader should be surprised by the action itself.
-- The word "suddenly" tells the reader to be surprised instead of surprising them.
-- Cut the word. Let the event do the work.
+## Grammatik
+47. **Jeder Satz, der ein Verb enthält, braucht ein Subjekt.** Keine subjektlosen Sätze. Fragments ohne Verb (Nominalsätze) sind erlaubt.
+48. **Aufzählungen enden mit "and".** Komma-getrennte Listen innerhalb eines Satzes setzen ein "and" vor das letzte Glied. Beispiel: *She adjusted her grip, pulled the yarn taut and tried again.* Nicht: *She adjusted her grip, pulled the yarn taut, tried again.*

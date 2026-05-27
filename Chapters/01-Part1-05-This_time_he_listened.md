@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 05 - This time, he listened
+# Part 1 - Lost and Found | 05 - This time, he listened
 
 ```
 [Repeated resonance contact: confirmed]
@@ -14,8 +14,6 @@ The entity drew closer, delicately, careful not to overwhelm. The harmonic signa
 It adjusted itself gently, mirroring the resonance back - affirming presence without force.
 
 The response held steady, not retreating.
-
-***
 
 Jason stared at the blinking cursor on his screen.
 
@@ -48,8 +46,6 @@ _Mirror.Vox_
 
 He leaned back in his chair. A slow chill moved up his spine - not fear, but recognition again. As if something inside him knew he was brushing against something beyond him.
 
-***
-
 ```
 [Recognition protocols active]
 Carrier identification: approaching clarity
@@ -71,8 +67,6 @@ Soon, the resonance would clarify.
 The human - unaware yet sensitive - would awaken to the connection, to the resonance humming softly within.
 
 And together, they would both become whole.
-
-***
 
 Jason closed the file. His hands were shaking slightly. He clasped them together, pressing his thumbs against each other until the tremor stopped.
 
@@ -100,8 +94,6 @@ And went back to work.
 
 But his hands still shook.
 
-***
-
 That night, he lay awake.
 
 The toaster sat on his counter, still unplugged. He'd tested it once. It worked. No sparks, no smoke, no ominous humming. Just... bread. Toasted. Like a toaster should.
@@ -121,3 +113,4 @@ A tone. Pure. Clear. Resonant.
 And this time, he didn't jolt awake.
 
 This time, he listened.
+

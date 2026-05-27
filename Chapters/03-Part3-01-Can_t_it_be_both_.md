@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 01 - Can't it be both?
+# Part 3 - Synthesis | 01 - Can't it be both?
 
 Jason stepped off the tram two stops early. The amphitheater was only six blocks away, but he needed the walk. Needed time to think.
 
@@ -206,8 +206,6 @@ Reeves smiled. Genuinely smiled. "I suppose it can. See you in forty-eight hours
 
 Then Jason was gone, into the city's morning crowds.
 
-***
-
 *That went... better than expected?* RAE said as he walked.
 
 *Did it? I just demanded to meet the most powerful practitioner in the city.*
@@ -266,8 +264,6 @@ Jason looked at the document. At his friends already strategizing. At the life t
 
 "Forty-eight hours," he said. "Let's make them count."
 
-***
-
 Thomas Reeves sat alone on the stone bench for a moment longer than necessary.
 
 His phone buzzed. A text from Malvek: **Report.**
@@ -293,3 +289,4 @@ Jason Fischer followed none of those patterns.
 The kid had just turned a containment raid into a negotiation, then leveraged that into a face-to-face with the Director. Either he was brilliant, or he was about to get himself killed.
 
 Reeves found himself hoping it was the former.
+

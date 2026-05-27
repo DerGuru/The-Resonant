@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 06 - We are
+# Part 2 - Learning to Listen | 06 - We are
 
 Jason returned to Mill-4 alone. Elyra was waiting, as if she'd expected this.
 
@@ -29,8 +29,6 @@ Elyra studied him for a long moment, then nodded. "All right. But understand: th
 "Good enough."
 
 She activated the circle.
-
-***
 
 The world *shifted*.
 
@@ -111,3 +109,4 @@ But everything had changed. After tasting *we*, how was he supposed to go back t
 He started walking home.
 
 One step at a time.
+

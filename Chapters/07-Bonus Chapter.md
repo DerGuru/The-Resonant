@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 03 - Anchor
+# Part 4 - Boundaries & Becoming | 03 - Anchor
 
 Jason's apartment had become a negotiation space.
 
@@ -194,8 +194,6 @@ She left, and the apartment felt both lighter and heavier. Rules established. Bo
 
 Structure to hold us when synthesis threatened to dissolve everything.
 
-***
-
 Later, after Milo left and Elyra departed, Lina and we sat together on the couch.
 
 "Anchor," she said quietly.
@@ -230,10 +228,9 @@ Consent. Respect. Choice. Love.
 
 Together.
 
-***
-
 *The charter was written.*
 
 *Now came the practice.*
 
 *One careful boundary at a time.*
+

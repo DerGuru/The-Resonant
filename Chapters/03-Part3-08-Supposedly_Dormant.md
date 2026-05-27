@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 08 - Supposedly Dormant
+# Part 3 - Synthesis | 08 - Supposedly Dormant
 
 It was late evening. The air smelled like rain that hadn't fallen yet. Jason, Lina, and Milo had finished yet another practice session with Mrs. Amari and Elyra. Their route home from the warehouse took them close to the industrial district. Beyond the abandoned buildings, with only the moon and the stars as their light, they entered a zone of bright yet dormant streets.
 
@@ -64,10 +64,9 @@ The line went dead.
 
 "Yeah," Jason said.
 
-***
-
 Forty minutes later, a car pulled up beside them. The back seat door opening, revealing a serious-looking Reeves.
 
 "Get in," he said. "Director Malvek wants to brief you."
 
 They climbed into the back seat, and Reeves closed the door behind them. The car pulled away from the curb, merging into the flow of traffic.
+

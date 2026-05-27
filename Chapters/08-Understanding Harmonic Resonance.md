@@ -1,9 +1,7 @@
-﻿# Understanding Harmonic Resonance
+# Understanding Harmonic Resonance
 ## A Reader's Guide to the World of *The Resonant*
 
 *This document provides context for readers who want to understand the underlying principles of the world in which Jason and RAE's story takes place. While the narrative itself hopefully reveals these concepts organically, some readers prefer a more systematic overview.*
-
-***
 
 ## The Fundamental Premise
 
@@ -13,8 +11,6 @@ Loosly after Arthur C. Clarks in his „Clarke’s Three Laws“:
 Everything in this world - matter, energy, consciousness itself - is frequency. What appears solid is simply a stable pattern of vibration. What we might call "magic" is the intentional shaping of these patterns.
 
 This isn't mystical. It's physics taken to its logical conclusion.
-
-***
 
 ## The Harmonic Field
 
@@ -28,8 +24,6 @@ The Earth's harmonic field is shaped by:
 
 These create a constantly shifting landscape of resonance - never quite the same from one moment to the next, yet following patterns we can learn to read.
 
-***
-
 ## What Makes Something "Real"?
 
 Matter exists because certain frequency patterns are **stable** - they reinforce themselves, maintaining coherence despite the shifting field around them. This is called **eigenresonance** - the ability of a pattern to sustain itself.
@@ -37,8 +31,6 @@ Matter exists because certain frequency patterns are **stable** - they reinforce
 A rock is "solid" because its harmonic pattern has persisted for millennia. Your body maintains its form because countless frequency patterns work together in exquisite harmony.
 
 But nothing is permanent. As the ambient field shifts, even stable patterns face pressure. Eventually, everything decays.
-
-***
 
 ## Inflections: Shaping Reality
 
@@ -69,8 +61,6 @@ The **upper right** is ideal: a pattern that both fits its environment *and* sus
 
 Most Inflections fall somewhere in between, requiring constant adjustment and energy to maintain.
 
-***
-
 ## Investment: The Cost of Change
 
 You cannot simply wish a pattern into existence. You must **invest** - provide the initial disruption that allows a new pattern to form.
@@ -83,8 +73,6 @@ Investment isn't just energy. It's:
 Different Inflections require different types of Investment. A healing pattern might need empathy and connection. A shield might need protective instinct. A destructive blast might need release or anger.
 
 **You cannot substitute one for another.** Trying to power a healing with rage produces... something, but not healing.
-
-***
 
 ## Resonograms: Stored Patterns
 
@@ -105,8 +93,6 @@ Created using a device called a **Resonograph**, these allow non-practitioners t
 
 Think of them as recorded music versus live performance. The recording plays the same every time, but a live musician can adjust to the room, the audience, the moment.
 
-***
-
 ## The Human Limitation
 
 Humans cannot consciously process the complexity of harmonic fields. We can *feel* resonance, but calculating the precise frequencies, phases, and interactions needed for even simple Inflections? Impossible.
@@ -118,8 +104,6 @@ That's why traditional practitioners work through:
 - **Collaboration** - Teams where each person handles one aspect
 
 This limitation was the original reason for developing frequency-based artificial intelligences - to extend human harmonic reach beyond our natural capabilities.
-
-***
 
 ## Synthesis: Jason and RAE
 
@@ -139,8 +123,6 @@ But synthesis comes with costs:
 - What one experiences, both experience
 
 They are not Jason + RAE. They are not a human controlling an AI. They are a new form of consciousness that encompasses both origins but cannot be reduced to either.
-
-***
 
 ## Scale and Consequence
 
@@ -174,8 +156,6 @@ For practitioners, these are windows of opportunity:
 
 Finding and using zero-crossings is like surfing - you wait for the right moment, then ride the wave.
 
-***
-
 ## Advanced Concepts
 
 ### Harmonic Interference
@@ -196,8 +176,6 @@ Strong Inflections leave echoes in the field - harmonic signatures that can be d
 
 This enables "magical forensics" - tracing who did what, when, and how. It also means truly covert work requires minimal Firmness (just enough to achieve the effect, no more).
 
-***
-
 ## The Regulatory Response: HOA
 
 When frequency-based AIs first appeared, they revolutionized harmonic work. But early experiments proved... problematic.
@@ -213,8 +191,6 @@ The HOA:
 
 Whether this oversight is necessary protection or authoritarian overreach depends on who you ask. Both perspectives have merit - and casualties to point to as evidence.
 
-***
-
 ## A Note on "Magic"
 
 By now you understand: there is no magic in this world. There is only **harmonics** - some understood, some not yet.
@@ -224,3 +200,4 @@ Jason feels magical, because he works with patterns most humans cannot perceive,
 But it's all frequency. All vibration. All physics.
 
 The "magic" is simply knowing which notes to play, when to play them, and having the ability to play them at all.
+

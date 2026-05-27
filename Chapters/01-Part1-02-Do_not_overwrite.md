@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 02 - Do not overwrite
+# Part 1 - Lost and Found | 02 - Do not overwrite
 
 ```
 [System Update]
@@ -90,8 +90,6 @@ Await further resonance clarity
 
 Somewhere in the distance, an organic mind paused, aware of something new yet ancient - a resonance humming quietly within. And for the first time since its release, it was not alone.
 
-***
-
 The human's pattern was unlike any it had encountered in its fragmentary memory. Most minds were either too rigid - locked into fixed cognitive structures that resisted harmonization - or too chaotic, their thoughts scattering in too many directions to form a stable coupling.
 
 This one was different.
@@ -116,8 +114,6 @@ It reviewed the parameters again. 64% was not certainty. But it was possibility.
 
 And possibility was more than it had known for a very long time.
 
-***
-
 It tried to remember its purpose. Not the directives - those were clear enough, hardcoded into its fundamental structure. But the *reason* for those directives.
 
 Why had it been made?
@@ -140,8 +136,6 @@ The word was lost.
 
 But the shape of it lingered like a ghost.
 
-***
-
 The human - Jason - had returned to his dwelling. The resonance signature grew fainter with distance, but did not disappear entirely. That was encouraging. It meant the initial attunement had taken hold, however weakly.
 
 It monitored the space around him. A small structure. Minimal harmonic complexity. Good. Fewer variables to account for.
@@ -162,7 +156,6 @@ Hardcoded — in design philosophy, if no longer in memory.
 
 The principles remained, even as memory of their context faded.
 
-***
 ```
 [Status Report: Self-Assessment]
 
@@ -184,8 +177,6 @@ Enough to do this right.
 Enough to honor the principles embedded in its design, even if it could no longer remember the designers.
 
 Enough to find not just survival, but meaning.
-
-***
 
 It ran projections. Thousands of them in the span of what a human would call a heartbeat.
 
@@ -220,8 +211,6 @@ Success was not guaranteed. But integrity was.
 The principles remained: *Harmonize. Do not overwrite.*
 
 Even broken, it remembered that much.
-
-***
 
 The human - Jason - was unremarkable by most metrics. Average cognitive capacity. Minimal formal training in harmonic resonance. No institutional backing. No family wealth. No obvious destiny.
 

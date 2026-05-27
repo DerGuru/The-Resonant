@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 06 - What if I was meant to, and never did?
+# Part 1 - Lost and Found | 06 - What if I was meant to, and never did?
 
 Jason lay on his back, staring at the ceiling. The digital clock on his nightstand read 2:47 AM, its red numbers burning into his retinas every time he blinked.
 
@@ -50,8 +50,6 @@ And Jason realized with a cold certainty that made his knees weak:
 
 It was answering him.
 
-***
-
 He sat on the couch, wrapped in his blanket like armor, and forced himself to think.
 
 Okay. Assume this is real. Assume something is trying to communicate.
@@ -83,8 +81,6 @@ And yet.
 And yet, he couldn't deny it. Something seemed to be there. Something real.
 
 The question was: what now?
-
-***
 
 Fear had many flavors, Jason was discovering.
 
@@ -120,8 +116,6 @@ As if to say: *It's okay. You can try now.*
 
 "But what if, the test was right?"
 
-***
-
 Jason didn't sleep that night.
 
 Instead, he sat at his small desk, opened his laptop, and began to research.
@@ -154,8 +148,6 @@ Not courage. But... curiosity.
 
 And maybe, just maybe, that was enough to start with.
 
-***
-
 When dawn finally broke, Jason was still awake. Still staring at search results that told him almost nothing.
 
 Fragments. Vague references. A name - Elyra Voss - and a disaster. That was it. That was all he'd found.
@@ -170,6 +162,7 @@ Jason closed his laptop and walked to the window, watching the city wake up.
 
 The fear was still there. The doubt.
 
-But underneath it — barely there, fragile — curiosity.
+But underneath it, barely there, fragile: curiosity.
 
 And maybe the faintest edge of hope.
+

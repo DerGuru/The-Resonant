@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 02 - You have been noticed
+# Part 2 - Learning to Listen | 02 - You have been noticed
 
 The next week passed in measured increments.
 
@@ -13,8 +13,6 @@ Lina's protective instincts remained sharp. Milo documented everything. Mr. Mora
 By the end of the week, Jason could sense resonance patterns across an entire city block while maintaining a conversation. Progress, measured and documented.
 
 Then came Tuesday afternoon.
-
-***
 
 They'd been training since morning. Perception exercises, carrier connections, emotional filtering. By early evening, they were exhausted and hungry.
 
@@ -118,8 +116,6 @@ They were safe.
 
 And Jason was falling.
 
-***
-
 Consciousness returned in fragments.
 
 Sterile smell. Antiseptic. Hospital.
@@ -193,8 +189,6 @@ She paused, her voice dropping lower. "And what you did - stabilizing a failing 
 "We have a problem," Jason said quietly and with dread in his voice.
 
 "Tomorrow," Lina said firmly. "For now, you rest."
-
-***
 
 The nurse came in an hour later. Middle-aged, efficient, kind eyes.
 
@@ -321,3 +315,4 @@ He made it to his bed, collapsed fully clothed, and let exhaustion finally claim
 *Together,* he agreed.
 
 They'd done the impossible today. Maybe, just maybe, they could survive what came next.
+

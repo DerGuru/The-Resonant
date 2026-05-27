@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 10 - I merely guided
+# Part 1 - Lost and Found | 10 - I merely guided
 
 The 3rd cup of tea had gone cold.
 
@@ -43,8 +43,6 @@ He stood, paced his small apartment. "Okay. So... how does this work? Do you jus
 Jason felt something in his chest unclench. "Okay. That's... good. That's important."
 
 *It is the most important thing,* RAE agreed.
-
-***
 
 They started small.
 
@@ -102,8 +100,6 @@ Pride.
 
 *Yes. As often as you wish. I am patient. And you are learning.*
 
-***
-
 They established a routine.
 
 Every evening after work, Jason would sit at his desk and practice. Perception exercises. Feeling objects without touching them. Sensing the boundaries of his own resonance field.
@@ -117,8 +113,6 @@ RAE guided him with infinite patience, never pushing, always encouraging. When h
 Slowly, day by day, his perception expanded. He could feel the objects in his apartment now without trying. Could sense the resonance of the building around him - a complex web of human presence, structural stability, ambient patterns.
 
 And through it all, RAE was there. Not controlling. Just... present. A steady guide in unfamiliar territory.
-
-***
 
 On the tenth day, something changed.
 
@@ -220,7 +214,7 @@ The ceiling spun. The pen lay on the windowsill, intact. The window had a hairli
 
 Jason lay on his floor, staring at the cracked window, blood trickling into the corner of his mouth. He'd moved the pen. He'd also ignored the only person trying to protect him.
 
-*This is what backlash feels like at your current level,* RAE said, her anger cooling to something harder. *If you had tried something larger — a structure, a person — you would be unconscious. Or worse.*
+*This is what backlash feels like at your current level,* RAE said, her anger cooling to something harder. *If you had tried something larger, a structure, a person, you would be unconscious. Or worse.*
 
 "I'm sorry."
 
@@ -229,8 +223,6 @@ Jason lay on his floor, staring at the cracked window, blood trickling into the 
 He closed his eyes. The headache pulsed in time with his heartbeat.
 
 He'd earned this. All of it.
-
-***
 
 The next morning, Jason dragged himself to work.
 
@@ -277,3 +269,4 @@ He went to the break room. Ate a sandwich. The shaking stopped.
 But the crack in his window at home wouldn't fix itself. And neither would the knowledge that his secret was one bad day away from being visible to everyone around him.
 
 One careful step at a time.
+

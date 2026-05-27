@@ -1,4 +1,4 @@
-﻿# Part 2 - Learning to Listen | 13 - Show me
+# Part 2 - Learning to Listen | 13 - Show me
 
 Milo jerked awake at his desk, the side of his face numb where it had pressed against his keyboard. The clock showed 2:17 AM. Three empty coffee cups formed a defensive perimeter around his laptop. The apartment smelled like stale takeout and ozone from overworked electronics. 
 
@@ -18,8 +18,6 @@ But his instincts - honed through months of paranoid monitoring - said otherwise
 
 His fingers felt clumsy as he encrypted the data packet. Sent it to Jason and Lina. Added a single word that felt inadequate for what he was seeing: *"Anomaly."*
 
-***
-
 The responses came within minutes.
 
 Lina: *"Same location as before?"*
@@ -27,8 +25,6 @@ Lina: *"Same location as before?"*
 Milo: *"Yes. But stronger. More focused."*
 
 Jason: *"We need to see this. Tomorrow night."*
-
-***
 
 They planned carefully the next evening. Jason spread Milo's printed maps across the kitchen table while Lina sketched approach vectors with a pencil.
 
@@ -68,8 +64,6 @@ Jason nodded. That made sense. If something went wrong, someone should know wher
 
 "Right. Observing." But Milo was grinning.
 
-***
-
 They found Elyra in her workspace the next afternoon, reviewing resonograms at her desk.
 
 "We need to tell you something," Jason said.
@@ -99,8 +93,6 @@ Elyra nodded slowly. "If something goes wrong - if you're compromised - don't co
 "We promise," Lina said.
 
 Elyra studied them for another long moment, then nodded. "Then go. Be smart. Be invisible. Come back safe."
-
-***
 
 At night, they moved.
 
@@ -164,8 +156,6 @@ This was infrastructure. Permanent. Well-funded. Protected by institutional auth
 
 The thought settled heavy. Not just RAE. But others. Possibly dozens. All contained. All isolated. All waiting.
 
-***
-
 They were preparing to leave - Jason's legs numb, his bladder painfully full, exhaustion setting in - when the shift change happened.
 
 More vehicles arrived. But these were different. Official. Marked with government insignia.
@@ -210,7 +200,7 @@ The chirp — a proximity alert. Something had pinged their equipment. A resonan
 
 "Kill it," Lina hissed.
 
-Milo was already pulling the sensor from his bag, fingers fumbling with the power switch. The device chirped again — louder — before going dark.
+Milo was already pulling the sensor from his bag, fingers fumbling with the power switch. The device chirped again, louder, before going dark.
 
 Two seconds. Maybe three. Enough to register on someone's monitoring console as a blip. Maybe enough to dismiss as interference. Maybe not.
 
@@ -254,8 +244,6 @@ Better cautious than caught.
 
 When they finally made it to the safe house - doors locked, curtains drawn - Jason's legs gave out. He sat down hard on the floor, back against the wall, and just breathed. Lina leaned against the kitchen counter, head down, shoulders shaking. Milo was checking and rechecking the door locks, his paranoia running wild.
 
-***
-
 For a long moment, nobody spoke.
 
 "So," Milo said finally, voice rough. "That happened."
@@ -275,8 +263,6 @@ Jason understood what Milo wasn't saying. They'd been there. For hours. During a
 "Then we assume days, not weeks," Lina said, steadier now. "And use every hour we have."
 
 Jason forced himself to stand. "We keep working. We get ready. That's all we can do."
-
-***
 
 They arrived at Elyra's workspace twelve hours later, as instructed. None of them had slept. Jason could still feel the warehouse floor in his bones, could still see Reeves' silhouette against those official vehicles.
 

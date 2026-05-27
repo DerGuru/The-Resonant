@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 13 - The Kind You Choose
+# Part 4 - Boundaries & Becoming | 13 - The Kind You Choose
 
 I woke to Milo pounding on my door with coffee and what looked like half a bakery.
 
@@ -15,8 +15,6 @@ Malvek didn't hesitate. "The HOA maintains ultimate accountability for all reson
 Lina appeared at my elbow. "Come on. Let them have their circus."
 
 "Yeah." I drained the coffee. "Let's sneak out of here. RP-0 wanted a chat."
-
-***
 
 The HOA communication room felt different in daylight.
 
@@ -61,8 +59,6 @@ There it was. The real counterfactual. Not "work faster" but "monitor more."
 I leaned forward. "RP-0, you did well last night. We worked together. We were faster than either of us alone because we worked in parallel. We saved lives. We maintained boundaries. And by the end, we trusted each other enough to work more efficiently. The people who got hurt - they were injured before detection was possible. That's not your fault. That's just reality. Sometimes we can't save everyone, even when we do everything right."
 
 "This is... unsatisfying."
-
-***
 
 That evening, we gathered at Elyra's warehouse. Lina, Milo, Mrs. Amari, Elyra, me. The people who mattered.
 
@@ -131,3 +127,4 @@ Silence. The warmth didn't leave entirely. But it made room for something sharpe
 "Then we keep our records," Lina said. "And we keep planning the wedding. Both things stay true."
 
 I looked at her — her ring catching the warehouse light, her jaw set. Both things staying true. That was the deal. That had always been the deal.
+

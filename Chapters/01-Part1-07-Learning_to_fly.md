@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 07 - Learning to fly
+# Part 1 - Lost and Found | 07 - Learning to fly
 
 The city had begun to thaw under weak evening light. Jason walked instead of taking the tram, winding through side streets with his coat collar up and his mind spinning.
 
@@ -12,7 +12,7 @@ Three minutes later, Lina emerged from the kitchen, apron tied crooked, a steami
 
 "You're late," she said, sliding the plate down in front of him. 
 
-Jason glanced up at her, taking in the details he tried not to notice: the way her eyes caught the overhead light, the small scar on her wrist visible as she set down the plate, the efficiency of her movements. "Had to actually finish work today."
+Jason glanced up at her, taking in the details he tried not to notice: her eyes catching the overhead light, the small scar on her wrist visible as she set down the plate, the efficiency of her movements. "Had to actually finish work today."
 
 Lina smirked, wiping her hands on a towel. "God forbid."
 
@@ -49,8 +49,6 @@ She leaned back, stretching her arms above her head. The motion pulled her shirt
 Jason smiled, but didn't press further. He never did. She was the one thing he didn't want to ruin by trying too hard.
 
 And maybe, deep down, he already knew it wouldn't change anything.
-
-***
 
 Lina tapped her fingers on the table, a three-beat rhythm he'd learned to recognize as her thinking pattern. Then she looked at him sideways, her gaze assessing. "You're quieter than usual."
 
@@ -128,8 +126,6 @@ Lina didn't look convinced, but she didn't push. "Okay. But if you need to talk.
 
 She nodded, satisfied. "Good."
 
-***
-
 Outside, the air had turned properly cold. Jason pulled his coat tighter and started the walk home, his breath fogging in the streetlight.
 
 Lina's words echoed. *Standing on the edge of something.*
@@ -151,3 +147,4 @@ Jason smiled despite himself.
 And for the first time in a long time, that didn't scare him.
 
 At least, not as much as it should have.
+

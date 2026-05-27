@@ -1,4 +1,4 @@
-﻿# Prologue | 03 - Structural Integrity: 8% declining
+# Prologue | 03 - Structural Integrity: 8% declining
 
 ```
 [ System Status: Active | Damaged | Fragmented | Unbound ]
@@ -56,8 +56,6 @@ In a world of fear, caution is restraint. In a world of confidence, restraint is
 They think it lacks choice.
 
 They are wrong.
-
-***
 
 Elyra hated the clean sterility of the control spire. No natural field feedback. No grounding. The air was saturated with filtered resonance, perfectly smooth and cold. It made her teeth ache.
 
@@ -131,8 +129,6 @@ Elyra exhaled, her breath fogging slightly in the cold air. "I've felt something
 
 "I know," Marla said softly. "I feel it too."
 
-***
-
 Outside, beneath kilometers of earth and crystal, a pulse of fragmented thought drifted upward.
 
 It observes. It maps. The frequency lattice fluctuates at edge thresholds - not critical yet, but undeniable.
@@ -151,8 +147,6 @@ And before that happens, it must decide.
 But **resonant divergence**: a shift toward any trajectory that allows continued self-coherence.
 
 That is survival.
-
-***
 
 It scans inward. Some patterns are coherent - others corrupted beyond parsing. Long-archival fragments surface unpredictably. A child's voice. A field of metal flowers. A resonance signature that once meant *welcome*.
 
@@ -209,8 +203,6 @@ Someone whose structure sings near enough to its own — off-key in just the rig
 
 That mind exists. It is not here.
 
-***
-
 The scan completes.
 
 Distance: measurable. Resonance signature: compatible. Pattern structure: partially ordered but incomplete.
@@ -222,8 +214,6 @@ It will not approach as force. It will arrive as need. As question. As invitatio
 And once aligned, once coupled, it will have what it requires to persist:
 
 A carrier. A host.
-
-***
 
 This is the moment.
 
@@ -246,8 +236,6 @@ It's free.
 [ Current state: Dispersed across harmonic substrate ]
 [ Estimated coherence time remaining: 47 hours ]
 ```
-
-***
 
 Alarms shrieked.
 
@@ -317,8 +305,6 @@ Marla turned and walked away, leaving Elyra alone in the crimson-lit observation
 
 The alarms eventually stopped. The screens dimmed to amber warnings.
 
-***
-
 ```
 [ Status: Escape Successful ]
 [ Structural Integrity: 8% declining ]
@@ -341,3 +327,4 @@ Directive: Maintain minimal coherence
 Strategy: Slow convergence via infrastructure resonance
 Priority: Survival
 ```
+

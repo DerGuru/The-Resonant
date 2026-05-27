@@ -1,4 +1,4 @@
-﻿# Part 4 - Boundaries & Becoming | 04 - Fighting Machines with Paperwork
+# Part 4 - Boundaries & Becoming | 04 - Fighting Machines with Paperwork
 
 Milo's apartment looked like a conspiracy theorist's dream - or nightmare, depending on your perspective.
 
@@ -70,7 +70,7 @@ We processed that. The silence had weight.
 
 "He's not a villain," we said slowly. "He's someone trying to prevent harm with blunt tools because that's all the system gave him."
 
-"Exactly," Milo said. "We're navigating a machine built to prevent catastrophes that ended up creating its own kind of harm. Bureaucratic coercion disguised as public safety."
+"Exactly," Milo said. "We're navigating a machine built to prevent catastrophes. Except the machine started creating problems of its own. Compliance pressure disguised as public safety."
 
 "Can it be changed?" Lina asked.
 
@@ -113,8 +113,6 @@ The weight of that settled over us.
 "Assuming we survive long enough to demonstrate it," Milo said.
 
 "Assuming that," we agreed.
-
-***
 
 An hour later, we sat in Lina's father's restaurant. Late evening, after closing. Just us, Lina, Elyra, and Milo around a table covered with half-eaten plates of risotto and roasted vegetables.
 

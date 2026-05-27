@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 06 - I'd consider coming out of retirement
+# Part 3 - Synthesis | 06 - I'd consider coming out of retirement
 
 Three weeks into the agreement, Milo found the notebook.
 
@@ -64,7 +64,6 @@ Elyra was quiet for a long moment. "If she does have experience - and if she's w
 
 "Understood," Jason said. "I'll talk to her. See if she's even open to the conversation."
 
-***
 Jason found Mrs. Amari in the building's small garden. Late afternoon. She was tending her flowers - the same ones he'd helped her carry six years ago.
 
 "Mrs. Amari," he said. "Can we talk?"
@@ -86,8 +85,6 @@ Jason's breath caught. "You... know?"
 "I know." He took a breath. "That's actually... that's part of why I'm here. Not to ask about what you know. But to ask if - " He stopped. Started again. "Would you be willing to look at something? A resonogram. It's for a healing ritual. Complex. Requires specific roles. And I think... I think one of those roles might match your training."
 
 Mrs. Amari was quiet for a moment. "You're asking if I'd consider coming out of retirement."
-
-***
 
 That night, Jason reported to the team.
 
@@ -112,4 +109,5 @@ That night, Jason reported to the team.
 Walking home, he thought about Mrs. Amari's flowers. Six years of careful tending. Thirty years since she'd left the resonance world.
 
 Tomorrow, she'd decide if she was willing to come back.
+
 

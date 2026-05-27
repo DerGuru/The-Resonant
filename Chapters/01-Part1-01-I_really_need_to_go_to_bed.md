@@ -93,7 +93,7 @@ Jason stepped out onto his small balcony, the cheap sliding door sticking slight
 
 Stars shone dimly through the haze above the city lights, their distant, cold brilliance oddly comforting. He took another deep breath, closing his eyes.
 
-And there — just for a moment — something felt different. A single, resonant tone. Pure, perfectly pitched.
+And there, just for a moment, something felt different. A single, resonant tone. Pure, perfectly pitched.
 
 Then gone.
 

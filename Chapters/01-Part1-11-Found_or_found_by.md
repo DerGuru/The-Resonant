@@ -1,4 +1,4 @@
-﻿# Part 1 - Lost and Found | 11 - Found, or found by?
+# Part 1 - Lost and Found | 11 - Found, or found by?
 
 Jason had never been good at forums. Instead he had been a lurker for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
 
@@ -108,8 +108,6 @@ Jason nodded slowly. "So we need to be careful."
 
 *Very careful. But also... it is good to know others are asking questions. Even if we cannot trust them yet.*
 
-***
-
 Two days later, Jason was scrolling through his usual forums when he noticed a new post in one of the threads he'd been following.
 
 Not from Mirror.Vox. From someone new.
@@ -155,3 +153,4 @@ Saturday. He'd meet this M_Greaves. And maybe - just maybe - he'd find someone w
 Or at least, someone who wouldn't think he was crazy.
 
 That would be a start.
+

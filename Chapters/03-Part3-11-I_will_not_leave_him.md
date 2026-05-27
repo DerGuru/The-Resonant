@@ -1,4 +1,4 @@
-﻿# Part 3 - Synthesis | 11 - I will not leave him
+# Part 3 - Synthesis | 11 - I will not leave him
 
 Lina couldn't sleep.
 
@@ -7,8 +7,6 @@ She'd tried. Lay in bed for two hours, staring at the ceiling, listening to the 
 Tomorrow, Jason and RAE would face RP-0. And despite the dangers, still had agreed to help - knowingly.
 
 She got up. Pulled on clothes. Left her apartment.
-
-***
 
 The warehouse was dark when she arrived, but not empty. Light showed under the door to the practice space.
 
@@ -96,8 +94,6 @@ Lina felt something harden in her chest. A decision crystallizing. "I will not l
 
 The warehouse went quiet except for the scratch of chalk on concrete.
 
-***
-
 The door to the warehouse opened. Milo stepped in, looking tired but determined.
 
 "Have you been here the whole night?" he asked, glancing between Lina and Elyra.
@@ -165,3 +161,4 @@ It would probably refuse.
 But the offer mattered anyway.
 
 One peaceful moment before the storm.
+
