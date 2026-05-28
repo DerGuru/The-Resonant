@@ -1,5 +1,7 @@
 # Part 1 - Lost and Found | 09 - Choice is sacred
-Jason stood in his apartment, the evening light fading to gray through his small window. He'd come home from the restaurant and been here for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
+Jason stood in his apartment, the evening light fading to gray through his small window. Outside, the laundromat's dryers thumped their muffled rhythm through the floor. A bus hissed to a stop on the corner below, held for three heartbeats, then pulled away into traffic.
+
+He'd come home from the restaurant and been here for an hour, pacing, thinking, not thinking, trying to distract himself with mundane tasks that refused to hold his attention.
 
 The resonance had been growing stronger all day. Not louder - stronger. More present. Like someone standing just behind your shoulder, patient and waiting.
 

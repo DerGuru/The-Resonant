@@ -2,7 +2,7 @@
 
 Jason had never been good at forums. Instead he had been a lurker for years. It was easier that way. Safer. You could read, learn, absorb without risking looking foolish or attracting attention.
 
-But tonight, staring at his screen with RAE's presence a quiet hum in his awareness, he decided to break that pattern.
+But tonight — rain streaking the window behind his monitor, the apartment smelling of instant noodles and damp jacket — staring at his screen with RAE's presence a quiet hum in his awareness, he decided to break that pattern.
 
 He navigated to one of the smaller forums - *TheHarmonicField.net* - and scrolled through recent posts. Most of it was the usual mix of speculation, amateur theory, and people arguing about things nobody could prove.
 

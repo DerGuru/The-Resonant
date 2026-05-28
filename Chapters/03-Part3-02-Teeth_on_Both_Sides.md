@@ -2,7 +2,9 @@
 
 Forty-eight hours felt simultaneously too long and not long enough.
 
-Back at the warehouse, Jason spread the six-page document across Elyra's table. Dense legal language. Terms that could mean anything or nothing depending on who interpreted them.
+Back at the warehouse, rain drummed steadily on the corrugated roof — a sound they'd all grown accustomed to, almost comforting in its constancy. The space heater in the corner clicked on and off in its own rhythm. Someone had brought takeout containers that now served as pen holders on Elyra's table.
+
+Jason spread the six-page document across the surface. Dense legal language. Terms that could mean anything or nothing depending on who interpreted them.
 
 "Okay," Milo said, already pulling out his laptop. "Let's take this apart."
 

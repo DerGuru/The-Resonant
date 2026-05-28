@@ -6,6 +6,8 @@ Not the sharp, dangerous pain of Orange or Red. Just a persistent ache behind hi
 
 Jason wasn't entirely convinced either of them was right.
 
+The warehouse floor was cold enough to feel through his shoes. Elyra's chalk diagrams covered the blackboard in overlapping layers now — six weeks of accumulated theory, half-erased and redrawn until the board had developed a permanent gray sheen. The overhead lights buzzed. Someone — Lina, probably — had brought a space heater that glowed orange in the corner without making any measurable difference.
+
 "Again," Elyra said, tapping her cane against the floor. Not hard - just enough to make the point. "You're forcing it. Resonance doesn't respond to brute effort."
 
 Jason took a breath, focused on the ceramic bowl in front of him. His task was simple in theory: sense the bowl's harmonic signature and match his own resonance to it. Not change it. Not manipulate it. Just... harmonize.

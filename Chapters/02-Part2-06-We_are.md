@@ -1,6 +1,10 @@
 # Part 2 - Learning to Listen | 06 - We are
 
-Jason returned to Mill-4 alone. Elyra was waiting, as if she'd expected this.
+Jason returned to Mill-4 alone.
+
+The warehouse was colder without the others — their presence had a way of filling a space that Jason only noticed in its absence. His breath misted faintly as he crossed the threshold. Overhead, pigeons shuffled on the rafters, their cooing swallowed by the building's vast concrete silence. Water dripped somewhere in the dark, a slow metronome.
+
+Elyra was waiting, as if she'd expected this.
 
 "You want to know what it feels like," she said. Not a question.
 

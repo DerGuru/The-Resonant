@@ -1,6 +1,8 @@
 # Part 2 - Learning to Listen | 01 - Red stops. No exceptions.
 
-They met at Mr. Morandi's restaurant during the afternoon lull. Privacy, Lina had insisted - not Jason's compromised apartment, not anywhere public. Just the three of them at a corner table, away from the windows, with a clear view to the kitchen door and the entrance. Mr. Morandi thought they were "studying together" and left them alone with coffee and the occasional plate of food.
+They met at Mr. Morandi's restaurant during the afternoon lull. The lunch rush had left its residue — garlic and sesame oil in the air, menus still warm from hands, water rings on the wooden counter. The espresso machine hissed from the kitchen in irregular bursts, punctuated by Mr. Morandi's off-key humming of something operatic.
+
+Privacy, Lina had insisted - not Jason's compromised apartment, not anywhere public. Just the three of them at a corner table, away from the windows, with a clear view to the kitchen door and the entrance. Mr. Morandi thought they were "studying together" and left them alone with coffee and the occasional plate of food.
 
 Milo and Lina were already deep in discussion when Jason arrived, fresh notes spread out before them - a chaotic blend of handwriting and sketches from yesterday's planning session.
 

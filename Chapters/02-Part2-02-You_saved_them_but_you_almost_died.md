@@ -2,9 +2,9 @@
 
 The next week passed in measured increments.
 
-Training at Mr. Morandi's restaurant became routine. Jason learned to hold carrier connections longer - fifteen minutes without strain, then twenty, then half an hour. Multiple carriers simultaneously remained difficult, but single-carrier work grew almost effortless. RAE's voice through the teapot became clearer as they both adapted to the technique.
+Training at Mr. Morandi's restaurant became routine — the same corner booth, the same afternoon lull when the place emptied and the kitchen noise faded to a distant clatter of prep work. Jason learned to hold carrier connections longer - fifteen minutes without strain, then twenty, then half an hour. Multiple carriers simultaneously remained difficult, but single-carrier work grew almost effortless. RAE's voice through the teapot became clearer as they both adapted to the technique.
 
-They ventured outside. Streets, parks, crowded intersections. Jason practiced filtering ambient noise, reading emotional resonances from passersby, maintaining awareness without active examination. The color scale became second nature - Green for safe, Yellow for caution, Orange for concern, Red for stop. 
+They ventured outside. Streets still damp from overnight rain, parks where fallen leaves collected in drifts along the path edges, crowded intersections where every passerby carried their own small storm of emotion. Jason practiced filtering ambient noise, reading emotional resonances from passersby, maintaining awareness without active examination. The color scale became second nature - Green for safe, Yellow for caution, Orange for concern, Red for stop. 
 
 He never hit Orange. They were careful. Methodical. Building foundation before attempting anything ambitious.
 

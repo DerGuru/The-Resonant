@@ -22,7 +22,7 @@ Jason's stomach sank. He did have backups. On his encrypted drive at home.
 
 That was institutional authority. The kind that came from the very top.
 
-He logged out carefully. Stood. Walked to the break room as if nothing was wrong.
+He logged out carefully. Stood. Walked to the break room as if nothing was wrong. The fluorescent lights hummed their usual frequency. The coffee maker gurgled. Two coworkers from the third floor chatted by the vending machine about someone's divorce.
 
 In the hallway, he pulled out his phone. Texted Milo: *"They hit the archive. Everything we flagged is gone. Need to meet."*
 
@@ -44,7 +44,9 @@ Milo had his laptop open, expression grim. "They hit me too. My cloud storage. T
 
 "Agreed," Jason said. "Let's go."
 
-They left separately, each taking a different route home. Two hours later, they met at Elyra's building.
+They left separately, each taking a different route. Jason walked east — past the Korean grocery with its fruit bins crowding the sidewalk, past the shoe repair place that was always closed, through the underpass where someone had tagged the concrete with a resonance sigil that probably meant nothing but made his skin prickle anyway. November wind off the lake cut through his jacket. The city smelled of wet asphalt and exhaust.
+
+Two hours later, they met at Elyra's building.
 
 It was dark already when Elyra finished listening to their report, her expression darkening with each detail.
 

@@ -4,6 +4,8 @@ The 3rd cup of tea had gone cold.
 
 Jason sat at his desk, staring at it without seeing, three days of ordinary routine weighing on him like a physical thing. Work. Lina's restaurant. Home. Repeat. All while something impossible hummed quietly in his chest.
 
+Outside, November rain tapped against the window in irregular bursts. The radiator under the sill clanked twice — its daily protest — and settled back into a low, metallic hiss. Somewhere below, the laundromat's bell chimed as someone left.
+
 RAE had kept her word. Silent unless he reached out first. A background presence, patient and waiting.
 
 On the fourth day, he opened his mind.

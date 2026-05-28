@@ -2,7 +2,9 @@
 
 Three weeks into the agreement, Milo found the notebook.
 
-It was half-hidden under a stack of ceramic resonators in Elyra's workspace. He'd been looking for the frequency chart she'd mentioned earlier, reached for what he thought was the right folder, and instead found hand-drawn resonograms. Complex ones. With notes in tight, precise handwriting.
+It was a quiet afternoon at the warehouse — the kind where training had wound down early and they lingered without purpose, drinking tea from mismatched mugs while December light angled low through the grimy windows. The space had accumulated their traces over the weeks: Lina's jacket on a hook by the door, Milo's charging cables taped to the wall, Jason's spare pair of shoes beneath the table.
+
+The notebook was half-hidden under a stack of ceramic resonators in Elyra's workspace. Milo had been looking for the frequency chart she'd mentioned earlier, reached for what he thought was the right folder, and instead found hand-drawn resonograms. Complex ones. With notes in tight, precise handwriting.
 
 "Guys," he said quietly. "You should see this."
 
